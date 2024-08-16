@@ -1,0 +1,355 @@
+EDITORIAL
+Indoor swimming pools, water chlorination and respiratory health
+B. Nemery *, P.H.M. Hoet *, D. Nowak#
+Swimming is generally considered to be a healthy
+leisure activity for both the young and old. Swimming
+is even often advised as the most appropriate sport for
+asthmatic children [1–3], mainly (but probably not
+solely) on the grounds that inhaling moist air is less
+conducive to triggering exercise-induced asthma [4].
+However, for obvious reasons of microbiological safety,
+the water of public and private swimming pools
+must be disinfected [5]. The most common pro-
+cedure for water disinfection consists of chlorination.
+As with all human and technological intervention,
+the use of chlorine-based products to disinfect swim-
+ming water may lead to a number of unwanted effects,
+in particular the presence of chlorine-containing
+compounds in the air. Consequently, chlorination
+may affect the respiratory health of either those who
+work as swimming attendants or instructors, or those
+who use the pools as customers, particularly children
+and the general public, but also competitive swim-
+mers. Although the issue of the chlorination of public
+water supplies has received considerable attention,
+mainly with regard to the presence of potentially
+carcinogenic or teratogenic chlorinated by-products
+[6, 7], the respiratory hazards of chlorinated swim-
+ming water have been less well addressed. Thus, old
+[8, 9] and even more recent [10] reports on indoor
+pollution do not deal with the air of chlorinated
+swimming pools, despite the generally obvious andreadily noticeable irritant character of this type of
+environment, even in well-maintained pools [11].
+Water chlorination
+Chlorination is the most common procedure for
+water disinfection of public water supplies and
+swimming pools. Chlorine may be added to water as
+the gaseous form (Cl
+2), which rapidly hydrolyzes to
+hypochlorous acid (HOCl), or as sodium or calcium
+hypochlorite (NaOCl or Ca(OCl) 2). Hypochlorite, for
+disinfection, may also be produced by adding so-called
+hypochlorite-generating agents, such as dichloro-
+isocyanurate, to water. In water with a pH between6.5–8.5, both HOCl and the hypochlorite ion (OCl-)
+are present.
+Acute hazards related to the chlorination of swimming
+pools
+Acute exposure to high levels of chlorine gas,
+resulting from explosions, leaks or malfunctioning
+of chlorine-disinfection installations [12–14] is a well-
+known problem. The health consequences of such
+incidents may be more or less serious. Severe mani-
+festations depend on the intensity of the exposure
+(i.e.the combination of aerial concentrations and
+duration of exposure) and may include laryngeal
+oedema, asthma attacks and chemical burns of the
+upper and lower airway mucosa, and even chemical
+pneumonitis [15]. The more frequent less seriousmanifestations include transient lachrymation and
+nasopharyngeal irritation, as well as hyperventilation.
+Emergency physicians should know how to deal with
+these casualties, which in the case of entire school
+parties may arrive in a large group with possibly more
+emotion than gravity [16]. Serious inhalation injuries
+must be recognized and treated accordingly, and the
+possibility of structural or functional sequelae, particu-
+larly reactive airways dysfunction syndrome (RADS),
+must be envisaged [17]. If only for medicolegal
+reasons, it seems wise not to discharge victims of
+inhalation injuries without an assessment of pulmo-
+nary function, including measurements of bronchial
+responsiveness and diffusion capacity or blood-gas
+analysis with standardized exercise. No controlled
+studies have evaluated the beneﬁt of administering
+systemic or inhaled corticosteroids in victims of
+inhalation injuries, but it seems justiﬁed, based on
+mainly anecdotal evidence and theoretical considera-
+tions, to prevent excessive airway inﬂammation by
+inhaled corticosteroids. It is also wise to advise a
+follow-up of respiratory symptoms, spirometry and,
+if necessary, nonspeciﬁc bronchial reactivity, after
+6–8 weeks.
+Occupational exposure to swimming-pool air
+A less well-known problem is that of the possible
+health effects of daily or intermittent exposures to
+the "normal "indoor atmosphere of swimming pools,
+which common experience proves to be as pungent
+and irritating for the eyes and upper airways, as*Laboratory of Pneumology (Unit of Lung Toxicology) and
+Dept of Occupational Medicine, Katholieke Universiteit Leuven,
+Leuven, Belgium.#Occupational and Environmental Medicine,
+Ludwig-Maximilians-University, Munich, Germany.
+Correspondence: B. Nemery, Laboratory of Pneumology (Unit of
+Lung Toxicology), Katholieke Universiteit Leuven, Herestraat 49,B-3000 Leuven, Belgium. Fax: 32 16347124. E-mail: ben.nemery@med.kuleuven.ac.beEur Respir J 2002; 19: 790–793
+DOI: 10.1183/09031936.02.00308602
+Printed in UK – all rights reservedCopyright #ERS Journals Ltd 2002
+European Respiratory Journal
+ISSN 0903-1936
+some industrial environments. The typical smell of
+swimming-pool atmospheres is commonly attributed
+to"chlorine "in the air. However, recent studies have
+revealed, at least to the medical community, that the
+smell and irritant properties of swimming-pool air are
+mainly due to chloramines [18]. These chloramines,
+monochloramine (NH 2Cl), dichloramine (NHCl 2) and
+trichloramine (NCl 3), are generated from the reaction
+of hypochlorite with ammonia and amino-compounds
+that originate from sweat and urine of the swimmers.
+These chloramines, and particularly the trichloramine,
+are quite volatile and they partition easily from the
+water into the air. The conditions that determine
+production and air levels of chloramines depend,among other factors, on the degree of water chlorina-
+tion, the contamination of the water by nitrogen-
+containing compounds (which in turn depends on the
+number of bathers, as well as their behaviour and
+hygiene), water temperature and air recirculation [18,
+19]. People working in such environments, such as
+pool supervisors or swimming teachers, are obviously
+exposed to these agents, and they may develop
+respiratory symptoms [19]. However, not much is
+known about the long-term health risks that these
+irritants pose to employees. No health-based occupa-tional exposure limits seem to exist for chloramines,
+although proposals have been made [20]. In this issue
+ofthe European Respiratory Journal ,T
+HICKETT et al.
+[21] present three relatively well-documented cases
+of occupational asthma in swimming-pool workers.
+Based on the description of the patients, two of whom
+had a positive bronchial provocation test to chlor-
+amine in the laboratory, there is little doubt that these
+people had occupational asthma. However, the
+mechanism of the asthma in these persons remains
+elusive and the claim that it is due to immunologicalsensitization is only supported by the fact that the
+subjects appeared to react uniquely to reportedly
+low levels of trichloramine. A pure irritant effect
+was, therefore, considered less likely as the subjects
+had no increased bronchial reactivity to histamine.
+Irritant-induced asthma caused by chronic "low-level "
+exposure to irritant agents is a controversial entity
+for which there is still only limited epidemiological
+and experimental support.
+Whatever the mechanism of chloramine-related
+asthma may be, the article by T
+HICKETT et al. [21]
+is clinically important, because it serves as evidence
+that swimming pool-induced asthma may occur as anoccupational disease. There are reasons to believe that
+this is not such an exceptional occurrence. Indeed,
+when P.S. Burge (Dept of Respiratory Medicine,
+Occupational Lung Diseases Unit, Heartlands Hospi-
+tal, Birmingham, UK), the senior author of the article,
+presented one of the three cases at an interac-
+tive occupational grand round of the 1998 annual
+European Respiratory Society meeting in Geneva
+and asked "Have you seen cases of swimming-pool
+asthma? ", 24% and 19% of the audience replied yes
+and maybe, respectively (more than 220 participants,62% of whom spent v10% of their time dealing
+with occupational lung disease; unpublished data).
+Another reason why the report by T
+HICKETT et al.
+[21] is important is that it may have implicationsfor other types of jobs, outside swimming pools.
+Cleaning also involves exposure to various types of
+irritants, including bleach. Thus, casual and pro-
+fessional cleaning personnel are not only at risk of
+acute inhalation injury as a result of mixing incom-
+patibilities (bleach with ammonia, bleach with acids)
+[22–27], but recent epidemiological studies have indi-
+cated that cleaners belong to a category of workers at
+higher risk of asthma [28]. Although speciﬁc reactionsto cleaning agents have been described occasionally,
+the causes of asthma in cleaners have remained
+unidentiﬁed so far. Perhaps, the role of chloramines
+should be investigated further.
+Swimming and the health of swimmers
+Finally, the effect of swimming-pool atmospheres
+on the bathers themselves is a topic of interest. Thebeneﬁcial effects of swimming in asthmatic children
+are generally attributed to the fact that breathing
+moist air is less conducive to exercise-induced
+bronchoconstriction than other forms of exercise [4].
+However, the issue of the possible irritant exposure
+resulting from water chlorination have not been
+addressed or cannot be ascertained from publications
+where asthmatics have undergone swimming-training
+programmes [1–3, 29]. There are anecdotal indica-
+tions that asthmatic persons do not always tolerate
+chlorinated pools well [23, 30–32], but in general this
+does not appear to constitute a major problem. There
+are also indications that competitive swimmers have
+more bronchial hyperresponsiveness or asthma than
+other sportsmen [33, 34]. The reasons for these
+observations are unknown, but irritants have been
+suggested as a possible causal factor, although the
+reason could include reverse causation (asthmatics
+being more likely to choose swimming as a sport).
+The issue of swimming and respiratory health has
+recently received a great deal of attention in Belgium
+with the highly publicized results of a cross-sectional
+survey of schoolchildren, which claimed that swim-
+ming in chlorinated pools represents a hazard of
+pulmonary damage, and could even be responsible for
+the recently observed increase in asthma in Western
+societies [35]. These conclusions were based on the
+observation that serum concentrations of pneumo-
+proteins (mainly surfactant protein B (SP-B)) were
+elevated in children who frequently attend chlorinated
+swimming pools as compared to control children.
+Swimming attendance explained a large part of the
+variance in serum pneumoproteins, when otherpossible factors were taken into account, and there
+was a good dose/response relationship between serum
+pneumoproteins and an index of cumulative swim-
+ming-pool attendance (h ?week
+-1?yr), as estimated at
+the level of each school. Based on extensive experience
+[36], the researchers considered that such increased
+levels of serum pneumoproteins reﬂected increases in
+the alveolocapillary permeability and that this was an
+early indication of lung injury and risk of disease.
+However, no other end-points (respiratory symptoms
+or pulmonary function) corroborated these ﬁndings,
+but there was a close positive relationship between791 WATER CHLORINATION AND RESPIRATORY HEALTH
+serum levels of SP-B and immunoglobulin-E. These
+ﬁndings and their interpretation as a potentially
+serious adverse health effect, led to some municipal
+and school authorities cancelling swimming lessons
+in primary schools. Later, experts advised the educa-
+tion ministers that the results of the study did not
+warrant such drastic measures. However, apart from
+its disastrous risk communication, the study did point
+to the need to evaluate further the possible health risksposed by chlorinated swimming pools for children
+and the public. There are standards for the micro-
+biological quality of the pool water, science-based
+standards for the quality of the air above the water are
+still needed. The available information from toxicity
+testing in experimental animals is, as yet, not sufﬁcient
+for this purpose [20, 37].
+Until adequate information is available, appro-
+priate ventilation to minimize chloramine accumula-
+tion, control of water chlorination and temperature,
+and adequate hygiene of bathers should be enforced
+to reduce the irritant nature of swimming-pool
+environments for both those who work and those
+who swim there.
+References
+1. Fitch KD, Morton AR, Blanksby BA. Effects of
+swimming training on children with asthma . Arch Dis
+Child 1976; 51: 190–194.
+2. Huang SW, Veiga R, Sila U, Reed E, Hines S. The
+effect of swimming in asthmatic children–participants
+in a swimming program in the city of Baltimore .
+J Asthma 1989; 26: 117–121.
+3. Wardell CP, Isbister C. A swimming program for
+children with asthma. Does it improve their quality of
+life?Med J Aust 2000; 173: 647–648.
+4. Bar-Or O, Inbar O. Swimming and asthma. Beneﬁts
+and deleterious effects . Sports Med 1992; 14: 397–405.
+5. Barwick RS, Levy DA, Craun GF, Beach MJ,
+Calderon RL. Surveillance for waterborne-diseaseoutbreaks-United States, 1997–1998 . Mor Mortal
+Wkly Rep CDC Surveill Summ 2000; 49: 1–21.
+6. Cantor KP. Water chlorination, mutagenicity, and
+cancer epidemiology . Am J Public Health 1994; 84:
+1211–1213.
+7. Nieuwenhuijsen MJ, Toledano MB, Eaton NE,
+Fawell J, Elliott P. Chlorination disinfection by-products in water and their association with adversereproductive outcomes: a review . Occup Environ Med
+2000; 57: 73–85.
+8. Samet JM, Marbury MC, Spengler JD. Health effects
+and sources of indoor air pollution. Part I . Am Rev
+Respir Dis 1987; 136: 1486–1508.
+9. Samet JM, Marbury MC, Spengler JD. Health effects
+and sources of indoor pollution. Part 2 . Am Rev Respir
+Dis1988; 137: 221–242.
+10. Strachan DP. The role of environmental factors in
+asthma . Br Med Bull 2000; 56: 865–882.
+11. Momas I, Brette F, Spinasse A, Squinazi F, Dab W,
+Festy B. Health effects of attending a public swim-
+ming pool: follow up of a cohort of pupils in Paris .
+J Epidemiol Community Health 1993; 47: 464–468.
+12. Ploysongsang Y, Beach BC, DiLisio RE. Pulmonary
+function changes after acute inhalation of chlorine
+gas. South Med J 1982; 75: 23–26.13. Martinez TT, Long C. Explosion risk from swimming
+pool chlorinators and review of chlorine toxicity .
+Clinical Toxicology 1995; 33: 349–354.
+14. Agabiti N, Ancona C, Forastiere F, et al. Short term
+respiratory effects of acute exposure to chlorine due to
+a swimming pool accident . Occup Environ Med 2001;
+58: 399–404.
+15. Das R, Blanc PD. Chlorine gas exposure and the lung:
+a review . Toxicol Indust Health 1993; 9: 439–455.
+16. Krenzelok E, Mrvos R. Chlorine/chloramine . J Toxicol
+Clin Toxicol 1995; 33: 355–357.
+17. Nemery B. Late consequences of accidental exposure
+to inhaled irritants: RADS and the Bhopal disaster .
+Eur Respir J 1996; 9: 1973–1976.
+18. Hery M, Hecht G, Gerber JM, Gendre JC, Hubert G,
+Rebuffaud J. Exposure to chloramines in the atmo-
+sphere of indoor swimming pools . Ann occup Hyg
+1995; 39: 427–439.
+19. Massin N, Bohadana AB, Wild P, He ´ry M, Toarmain
+JP, Hubert G. Respiratory symptoms and bronchial
+responsiveness in lifeguards exposed to nitrogen
+trichloride in indoor swimming pools . Occup Environ
+Med 1998; 55: 258–263.
+20. Gagnaire F, Azim S, Bonnet P, Hecht G, Hery M.
+Comparison of the sensory irritation response in mice
+to chlorine and nitrogen trichloride . J Appl Toxicol
+1994; 14: 405–409.
+21. Thickett KM, McCoach JS, Gerber JM, Sadhra S,
+Burge PS. Occupational asthma caused by chlora-
+mines in indoor swimming-pool air . Eur Respir J 2002;
+19: 827–832.
+22. Reisz GR, Gammon RS. Toxic pneumonitis from
+mixing household cleaners . Chest 1986; 89: 49–52.
+23. Fjellbirkeland L, Gulsvik A, Walloe A. Swimming-
+induced asthma . Tidsskr Nor Laegeforen 1995; 115:
+2051–2053.
+24. Mrvos R, Dean BS, Krenzelok EP. Home exposures
+to chlorine/chloramine gas: review of 216 cases . South
+Med J 1993; 86: 654–657.
+25. Olson KR, Shusterman DJ. Mixing incompatibilities
+and toxic exposures . Occup Med 1993; 8: 549–560.
+26. Deschamps D, Soler P, Rosenberg N, Baud F, Gervais
+P. Persistent asthma after inhalation of a mixture of
+sodium hypochlorite and hydrochloric acid . Chest
+1994; 105: 1895–1896.
+27. Mapp CE, Pozzato V, Pavoni V, Gritti G. Severe
+asthma and ARDS triggered by acute short-term
+exposure to commonly used cleaning detergents . Eur
+Respir J 2000; 16: 570–572.
+28. Kogevinas M, Anto JM, Sunyer J, Tobias A,
+Kromhout H, Burney P and European Community
+Respiratory Health Survey Study Group. Occupa-
+tional asthma in Europe and other industrialised
+areas: a population-based study . Lancet 1999; 353:
+1750–1754.
+29. Matsumoto I, Araki H, Tsuda K, et al. Effects of
+swimming training on aerobic capacity and exerciseinduced bronchoconstriction in children with bron-
+chial asthma . Thorax 1999; 54: 196–201.
+30. Anonymous. Wheezing at the swimming pool . Lancet
+1979; 2: 1342–1343.
+31. Mustchin CP, Pickering CA. "Coughing water ":
+bronchial hyperreactivity induced by swimming in a
+chlorinated pool . Thorax 1979; 34: 682–683.
+32. Penny PT. Swimming pool wheezing . BMJ 1983;
+287: 461–462.
+33. Zwick H, Popp W, Budik G, Wanke T, Rauscher H.792
+B. NEMERY ET AL.
+Increased sensitization to aeroallergens in competitive
+swimmers . Lung 1990; 168: 111–115.
+34. Helenius IJ, Rytila ¨ P, Metso T, Haahtela T, Venge P,
+Tikkanen HO. Respiratory symptoms, bronchial
+responsiveness, and cellular characteristics of inducedsputum in elite swimmers . Allergy 1998; 53: 346–352.
+35. Carbonnelle SY, Buchet J-P, Hermans CR, Doyle IR,
+Bernard AM. Increased lung epithelium permeabilityin children regularly attending chlorinated pools . Eur
+Respir J 2001; 18: Suppl. 33, 186S.
+36. Hermans C, Bernard A. Pneumoproteinaemia: a new
+perspective in the assessment of lung disorders . Eur
+Respir J 1998; 11: 801–803.
+37. Barbee SJ, Thackara JW, Rinehart WE. Acute
+inhalation toxicology of nitrogen trichloride . Am Ind
+Hyg Assoc J 1983; 44: 145–146.793
+WATER CHLORINATION AND RESPIRATORY HEALTH

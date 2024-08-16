@@ -1,0 +1,693 @@
+©Journal of Sports Science and Medicine (2009) 8, 443-451 
+http://www.jssm.org  
+ 
+ 
+Received: 17 March 2009 / Accepted: 08 June 2009 / Published (online): 25 June 2009 
+  
+ 
+  
+ 
+Gender differences in sport injury risk a nd types of injuries: a retrospective 
+twelve-month study on cross-country skiers, swimmers, long-distance runners 
+and soccer players   
+Leena Ristolainen 1, Ari Heinonen 2, Benjamin Waller 2, Urho M. Kujala 2 and Jyrki A. Kettunen 3 
+1 ORTON Orthopaedic Hospital, ORTON Foundation, Helsinki, Finland, 2 Department of Health Sciences, University 
+of Jyväskylä, Finland, 3 ORTON Research Institute, ORTO N Foundation, Helsinki, Finland 
+ 
+ 
+Abstract  
+This twelve months survey compared injury risk and injury 
+types by genders (312 females, 262 males) in 15- to 35-year-old 
+cross-country skiers, swimmers , long-distance runners and 
+soccer players. More male than female athletes reported at least 
+one acute injury (44% vs. 35%, p < 0.05), and more male than 
+female runners reported at leas t one overuse injury (69% vs. 
+51%, p < 0.05). When the incidence of acute and overuse inju-
+ries both separately and combined was calculated per 1000 
+training hours, per 1000 competition hours and all exposure 
+hours combined we found no gender differences in either of 
+these comparisons. After adjustment for sport event males were 
+at increased risk for posterior thigh overuse injuries compared to 
+females (relative risk (RR) 5.8, 95% confidence interval (CI) 1.3 
+to 26.4, p < 0.05) while females were at increased risk for over-
+use injuries in the ankle compared to males (RR 3.1, 95% CI 1.0 
+to 9.3, p < 0.05). After adju stment for exposure time (inju-
+ries/1000 exposure hours) signifi cance of the difference between 
+the sexes in overuse injury to the ankle persisted (female 0.11 
+vs. male 0.02 injuries/1000 exposure hours, p < 0.05). Six ath-
+letes had an anterior cruciate ligament (ACL) injury, of whom 
+four were female soccer player s. After combining all reported 
+acute and overuse ankle and knee injuries, the proportion of 
+athletes with such injury was higher in the female compared to 
+male soccer players (75% and 54% respectively; p < 0.05), but 
+no difference was found in such in juries when ca lculated per 
+1000 exposure hours. In conclusi on, we found some gender 
+differences in sport-related injuries, but most of these differ-
+ences seemed to be explained at least in part by differences in 
+the amount of training.   
+ 
+Key words:  Male, female, athletic injuries, acute injury, over-
+use injury. 
+ 
+ 
+Introduction 
+ 
+In general patterns of injuries in athletes have been as-
+sumed to be more sport-specific than gender-specific. 
+Presently, most sport injury studies that have investigated 
+gender differences have focused exclusively on knee injuries (Arendt and Dick, 1995; Dugan, 2005). To date, 
+only a few sport injury studies have compared acute in-
+jury rates (Kujala et al., 1995 ) or overall injury rates (de 
+Loes et al., 2000; Sallis et al., 2001) between the sexes.  
+Previous studies have found similar overall injury 
+rates in men and women (Lanese et al., 1990; Sallis et al., 2001). In contrast some sports and recreation-related 
+injury studies have shown male  athletes to be at greater 
+risk for injury than their female counterparts (Conn et al., 2003; Dempsey et al., 2005). Powell and Barber-Foss 
+(2000) and Elias et al. (2001) have reported that female 
+soccer players had a higher incidence of injury than 
+males .  
+Male athletes have been reported to have a higher 
+risk for severe sport-related injuries than female athletes 
+(Conn et al., 2003). Only a few studies have reported on 
+gender differences in injuri es related to cross-country 
+skiing (Sandelin et al., 1980) and swimming (McMaster 
+and Troup, 1993).  
+Specific to body location,  females athletes have 
+been reported to have more injuries to  the hip  (Sallis et 
+al., 2001; Satterthwaite et al., 1999), lower leg and shoul-
+der than male athletes, while males had more injuries in the thigh than females (Sallis et al., 2001). In marathon 
+runners Satterthwaite et al. (1 999) noticed that males had 
+greater risk for hamstring and calf injuries than female runners. de Loes et al. (2000) reported that overall risk for 
+knee injury in 12 sports was significantly higher for fe-
+males than males. Similarly Arendt and Dick (1995) found that knee injuries were more prevalent among fe-
+male than male soccer players. 
+Overall, the literature of gender differences in inju-
+ries is limited. It is not known precisely whether the gen-
+der differences found are sport-specific only and thus 
+related to training behaviors, or whether the difference in 
+risk is related to biological gender differences.  
+Our purpose was to study differences in sport-
+related injuries between male and female elite athletes in 
+four sports with different loading patterns. The sports 
+were cross-country skiing, swimming, long-distance run-ning and soccer.  
+ 
+Methods 
+ 
+Subjects  
+A questionnaire was sent to competitive top-ranking Fin-
+nish female and male athletes (age 15 - 35 years) after each competitive season. Ov erall, 1200 questionnaires 
+were distributed with the sample represented four differ-
+ent sports and loading modalities for 300 cross-country skiers (repetitive loading to upper and lower extremities 
+with pliant movements), 268 swimmers (repetitive load-
+ing to upper extremities without impact loads), 265 long-distance runners (repetitive loading to lower extremities 
+with moderate impact loads) and 367 (21 teams) soccer 
+players (higher for imp act loads and sprains) Research article  
+444                                                                                                                                                                                                                                                                  Gender differences in sport injury risk and types of injuries
+ 
+ 
+  
+               
+              Table 1.  Anthropometrics and training data in four different sports. Data are means (±SD). 
+ CC skiing   Swimming   LD running   Soccer   Total  
+ ♂ (n = 62) ♀ (n =87) ♂ (n= 71) ♀ (n =83) ♂ (n = 67) ♀ (n = 76) ♂ (n = 62) ♀ (n = 66) ♂ (n = 262) ♀ (n = 312) 
+Age (years) 24.0 (4.1) 21.8 (4.3)* 19.0 (2.9) 18.3 (2.9) 25. 3 (5.2) 23.5 (5.3)* 22.9 (3.0) 21.1 (3.8)* 22.7 (4.6) 21.2 (4.5)** 
+Height (m) 1.80 (.06) 1.68 (.05)** 1.84 (.07) 1.70 (.06)** 1.80 (.06) 1.67 (.05)** 1.83 (.06) 1.67 (.06)** 1.82 (.06) 1.68 (.06)** 
+Body weight (kg) 74.0 (6.1) 59.3 (5.5)** 78.8 (8.4) 62.0 (6.7)** 66.8 (6.6) 53.5 (5.1)** 78.8 (6.1) 62.1 (7.0)** 74.6 (8.5) 59.2 (7.0)** 
+BMI (kg·m-2) 22.8 (1.1) 20.9 (1.4)** 23.3 (1.8) 21.4 (1.9)** 20.6 (1.3) 19.2 (1.3)**   23.6 (1.2) 22.2 (1.8)** 22.6 (1.8) 20.9 (1.9)** 
+CMP (days/year) 43.9 (28.4) 34.5 (25.7)* 14.5 (15.6) 12.0 (10.9) 20.5 (25.0) 12.0 (19.1)* 11.4 (11.5) 18.0 (20.4)* 22.2 (24.4) 19.5 (21.9) 
+Compet. (n/year) 28.0 (7.7) 26.0 (8.5) 12.6 (6.6) 11.8 (5.4) 19.8 (11.4) 18.1 (11.8) 30.1 (13.4) 32.4 (14.3) 22.2 (12.2) 21.6 (12.7) 
+RestTR(days/week) 0.8 (0.5) 0.9 (0.4) 1.1 (0.6) 1.1 (0.3) 0.6 (0.6) 0.9 (0.5)** 1.3 (0.5) 1.4 (0.6) 1.0 (0.6) 1.1 (0.5)* 
+RestC (days/week) 1.2 (0.6) 1.2 (0.5) 1.4 (0.8) 1.2 (0.5) 0.9 (0.7) 1.3 (0.7)** 1.7 (0.5) 1.6 (0.5) 1.3 (0.7) 1.3 (0.6) 
+Start training (age) 7.4 (2.7) 7.8 (3.4) 8.0 (2.1) 8.0 (2.2) 11.7 (3.9) 12.6 (5.5) 6.2 (1.6) 7.8 (2.3)** 8.4 (3.4) 9.0 (4.1) 
+Tr years  12.9 (4.1) 10.7 (4.6)* 10.1 (2.9) 9.7 (3.2) 11.8 (5.3) 9.1 (4.7)* 15.1 (3.6) 12.5 (3.6)** 12.4 (4.4) 10.4 (4.3)** 
+Tr hours  594 (161) 522 (142)* 779 (340) 755 (309) 568 (283) 532 (220) 584 (262) 445 (144)* 636 (285) 566 (242)* 
+Compet. hours  17.4 (7.3) 10.1 (7.4)** 2.6 (12.8) 0.7 (1.3) 8.4 (9.5) 7.1 (8.0) 45.3 (20.1) 47.8 (21.7) 17.9 (21.0) 14.8 (20.7) 
+CC = Cross-country, LD = Long dist ance, BMI = body mass index, CMP = camping days, Compet. = competitions, RestTR = rest days d uring training season, RestC = rest  days during competition season, 
+Tr years = training years at least 2 times/wk, Tr hours = traini ng hours in a year (hours/year, all kind of exercise), Compt. H ours = competition hours in a year. 
+* p < 0.05, ** p < 0.001 Differences are shown between male and female in each sport and all sports together. 
+ 
+The long-distance runners whose running distance was from 1500m to marathon were 
+included in to the study. Afte r excluding participants over  35 years of age and soccer 
+teams with a low response rate, the final study target group consisted of 1075 athletes 
+(Ristolainen et al., in press, 2009). The study protocol was approved by the ethics com-
+mittee of the University of Jyväskylä. 
+ 
+Questionnaire 
+The 12-month structural retrospective sport injury questionnaire included items on an-
+thropometry, training history, training and competition volume as well as on acute and 
+overuse sport injuries during the past 12-mont h period. In addition, questions were asked 
+about the anatomical location of the injury, type of injury and situation in which the 
+injury was sustained (in training or competit ion). Female athletes were also asked about 
+if the menstruation had begun, and in what age they started, the regularity or irregularity 
+of menstrual cycle (oligo- or amenorrhea). The menstrual irregularity was defined as 6 menstruations or less per year or missing menstruation (Bennell and Alleyne, 2007). 
+Also the number of menstrual cycles was asked during the past 12 months.  The ques-
+tionnaire has been previously validated agai nst interview data (Eloranta and Tittonen, 
+2006; Karhula and Pakkanen, 2005). 
+The term acute injury was defined as an injury that occurs suddenly or acciden-
+tally, interrupting the athlete´s training or performing in a competition or causing an 
+identifiable trauma. An acute injury was any ph ysical injury which kept the athlete away from at least one training session, or competition, or needed a physician’s care.  The 
+term overuse injury was defined as an injury  that causes pain during exercise loading 
+without any noticeable ex ternal cause of injury. The inju ry gradually caused worsening 
+pain during or after exercise.  The pain got worse when the loading was continued and 
+might cause the exercise to be stopped completely.  
+ 
+Statistics 
+The statistical analyses were done with the Statistical Package for the Social Sciences, 
+version 15.0 (Norusis/SPSS, In c., Chicago, Illinois). We calculated the results as abso-
+lute injury rates, comparing between the sexe s. We then calculated injury rates as num-
+ber of injuries per 1000 exposure hours i.e. hours spent on any type of training or on 
+performing in competitions separately and combined. Injury rates were calculated sepa-
+rately for acute, overuse and all injuries. χ
+2 statistics, t tests and analysis of variance 
+(ANOVA) were applied to calculate statisti cal differences in gender distributions and 
+between sports. Poisson regression was used to calculate the injury risk, adjusted for 
+sport event, between the sexes.  
+ 
+Results 
+ 
+Six hundred and thirty-nine out of 1200 (53%) returned a questionnaire, from which 574 
+(312  female  and  262  male)  agreed  to  participate  to  this  study.  Final   participation 
+ 
+ 
+Ristolainen et al.
+ 
+ 
+ 445 
+ 
+Table 2.   Injuries and injury rates between men and women in four different sports during the past twelve-month period. 
+ CC skiing   Swimming   LD running  Soccer   Total  
+ ♂ (n = 62) ♀ (n =87) ♂ (n= 71) ♀ (n =83) ♂ (n = 67) ♀ (n = 76) ♂ (n = 62) ♀ (n = 66) ♂ (n = 262) ♀ (n = 312) 
+Acute injuries           
+No of injuries (n) 24 41 54 39 36 31 111 96 225 207 
+No of injured athletes n (%) 16 (26) 25 (29) 27 (38) 22 (27) 21 (31) 20 (26) 52 (84) 42 (64)* 116 (44) 109 (35)† 
+No of injured athletes with tw o or more injuries n (%)   5 (31)   10 (40) 14 (52) 10 (46) 10 (48) 8 (40) 32 (62) 31 (74) 61 (53) 59 (55) 
+Injuries per 1000 exposure hours (n/1000h) 0.57 0.85 0.95 1.24 1.19 0.85 3.64 3.11 1.53 1.43 
+Overuse injuries           
+No of injuries (n) 45 65 55 62 66 59 34 47 200 233 
+No of injured athletes n (%) 30 (48) 44 (51) 36 (51) 43 (52) 46 (69) 39 (51)‡ 24 (39) 30 (46) 136 (52) 156 (50) 
+No of injured athletes with two or more injuries n (%) 13 (43) 16 (36) 12 (33) 16 (37) 16 (35) 16 (41) 5 (21) 10 (33) 46 (34) 58 (37) 
+Injuries per 1000 exposure hours (n/1000h) 1.19 1.46 0.97 1.92 1.89 1.48 1.18 2.14 1.31 1.73 
+All injuries            
+No of injuries (n) 69 106  109 101 102 90 145 143 425 440 
+No of injured athletes n (%) 35 (57) 58 (67) 45 (63) 54 (65) 55 (82) 52 (68) 57 (92) 52 (79)§ 192 (73) 216 (69) 
+No of injured athletes with two or more injuries n (%) 22 (63) 30 (52) 26 (58) 26 (48) 29 (53) 27 (52) 42 (74) 40 (77) 119 (62) 123 (57) 
+Injuries per 1000 exposure hours (n/1000h) 1.77 2.33 1.94 3.25 3.15 2.45 4.90 5.32 2.89 3.25 
+* Proportion of injured athletes with acute injuries was higher in male soccer players than in female players (p < 0.01). † Pro portion of injured athletes with acute injuries was hi gher in male athletes than in female counterparts 
+(p < 0.05). ‡ Proportion of injured athletes with overuse injuries was higher in male long-distance runners than female runners (p < 0.05). § Proportion of injured athletes with all injuries  was higher in male soccer players than in 
+female players (p < 0.05).  
+ 
+response rate was 48%.  To investigate the reasons for not responding we sent one-page questionnaire to long-distance runners (99 athletes) who did not respond to our long 
+questionnaire. The most common reported reason for non-response was the length of the 
+questionnaire. Females reported less training  (566 hours/year [h/yr]) during the past 
+twelve months than males (636 h/yr, p < 0.05). The athletes reported on average 16.2 
+competition hours per year (female: 14.8 and ma le: 17.9, p = 0.08) for the whole sample.  
+The average number of competition hours vari ed by sport because of different duration 
+of competitions i.e. in swimmers vs. soccer players. Detailed sex-specific, anthropomet-
+ric and training and competition information are shown in Table 1. 
+ 
+Acute injuries 
+Two hundred and twenty-five at hletes (39%) reported 432 acute injuries. More male 
+than female athletes reported an acute inju ry (44% vs. 35%, p < 0.05); this was espe-
+cially seen in soccer players (84% vs. 64%, p = 0.01).  However, af ter the acute injuries 
+were calculated per 1000 exposure hours (training and competition hours combined), no gender differences were found (Table 2). Moreover, no gender difference was found in 
+any specific sports in acute injuries sustai ned in a competition when calculated per 1000 
+competition hours.  
+There were only a few significant gender di fferences in what body locations acute  injuries occurred. A higher proportion of female  athletes than male athletes had an acute 
+injury at the heel (p < 0.05). More male than  female athletes had an  acute injury in the 
+upper back (p < 0.05). After adjustment for sport event these differ ences were no longer 
+statistically significant. The locations of acute injuries by genders are shown in more detail in Figure 1.  
+A higher proportion of men than women reported an acute muscle injury (44% vs. 
+31%, p < 0.05). After adjustment for spor t event the difference was no longer statisti-
+cally significant. A higher proportion of female (46%) than male athletes (33%) reported 
+an acute ligament injury (p < 0.05) (Figure 2) ; this was seen especially in soccer players 
+(71% vs. 42%, p < 0.01).  
+ 
+Overuse injuries 
+Four hundred and thirty-three overuse injuri es were sustained by 292 athletes (51%). 
+Overuse injuries were more prevalent among male than female runners (69% vs. 51%, p 
+< 0.05), but there was no statistical signifi cant difference found when the overuse inju-
+ries were calculated per 1000 exposure hours (Table 2).   
+The specific anatomical locations of overuse injuries by gender are shown in Fig-
+ure 3. A higher proportion of men than women reported an injury in the posterior thigh (p < 0.01). This  was  especially  seen  in  soccer players (p < 0.05).  After  adjustment for 
+446                                                                                                                                            Gender differences in sport injury risk and types of injuries
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Location and proportions (%) of  acute injuries by gender.  
+A higher proportion of  female than male athletes ha d acute injury in the heel (6% vs. 1%, p < 0.05). 
+A higher proportion of male than female athletes had ac ute injury in the upper back (4% vs. 0 %, p < 0.05). 
+ 
+sport event male athletes were  at increased risk for poste-
+rior thigh overuse injuries compared to female (RR 5.8, 
+95% CI 1.3-26.4, p < 0.05). In addition, more men than 
+women reported toe (p < 0.05) and upper back (p < 0.05) 
+injuries. A higher proportion of female than male athletes reported ankle (p < 0.05) injuries (Figure 3). After ad-justment for sport event the ri sk for overuse ankle injury 
+was greater in females than males (RR 3.1, 95% CI 1.0-
+9.3, p < 0.05). The ankle injury rate per 1000 exposure 
+hours was also greater in fema le than male athletes (0.11 
+vs. 0.02, p < 0.05). A higher proportion of female than 
+male cross-country skiers reported an overuse injury at  
+ 
+ 
+ 
+ 
+ 
+Figure 2.  Proportion (%) of subjects with  at least one acute injury in different tissues by gender.  
+A higher proportion of  female than male athletes  had ligament injuries (46% vs. 33%, p < 0.05). 
+A higher proportion of  male than female athletes  had muscle injuries (44% vs. 31%, p < 0.05). 
+Ristolainen et al.
+ 
+ 
+ 447
+ 
+ 
+ 
+ 
+Figure 3.  Location and proportions (%) of  overuse injuries by gender. 
+A higher proportion of male than female athl etes had overuse injuries in the posterior thigh (8% vs. 1%, p < 0.01), toe (4% vs.  0%, p < 0.05), and 
+upper back (4% vs. 1%, p < 0.05). A higher proportion of  female than  male athletes had overuse injuries in the ankle (9% vs. 3 %, p < 0.05).  
+ 
+the heel (p < 0.05),  the injury rate being 0.14 in females 
+and 0.0 in males per 1000 exposure hours (p < 0.05). 
+There was found no gender differences in the proportion 
+of overuse injuries by tissue type (Figure 4).  
+All injuries  
+A significantly higher proportion of male (92%) than 
+female soccer players (79%, p < 0.05) reported at least 
+one injury during the past twelve months. The same trend 
+was found in long-distance runners, among whom 68% of female and 82% of male runners reported injury (p = 0.06 between the sexes).   
+When combining acute and overuse injuries of the 
+ankle and the knee among all athletes, no difference was 
+observed in the proportion of injured athletes between females (49%) and males (41%) (p = 0.13). After repeat-
+ing the same analysis within sports between the sexes, the 
+only significant difference wa s seen among soccer play-
+ers. The proportion of female players with such an injury 
+was higher than the proportion of male players (75% and 
+54% respectively; p < 0.05). In our study an anterior cru-ciate ligament (ACL) injury was identified in six cases,
+ 
+ 
+ 
+ 
+ 
+               Figure 4.  Proportion (%) of subjects with  at least one overuse injury by tissue type and by gender. 
+Gender differences in sport injury risk and types of injuries  
+ 
+ 
+ 448
+ 
+ 
+ 
+four of which were women. Five of these ACL injuries 
+occurred in soccer players and one female player had been injured twice.  
+ 
+Menstrual irregularities and injuries 
+Menstrual irregularities were reported by 40 (13%) 
+women and were more common among long-distance 
+runners (26%) than soccer pl ayers (6%, p = 0.002) or 
+swimmers (6%, p = 0.001). Cross-country skiers (16%) 
+reported menstrual irregularities more often than swim-mers (6%, p = 0.05) and the same trend was seen also in 
+soccer players (6%, p = 0.07 ). The only difference be-
+tween athletes with regular and those with irregular men-ses was found in overuse injury among cross-country 
+skiers (46% vs. 85%, p = 0.01).   
+ 
+Discussion 
+ 
+The primary goal of our study was to investigate gender 
+differences in sport-related injuries during the previous 
+twelve months in four sports with different loading pat-
+terns. More male than female athletes had at least one acute injury. Also more male than female long-distance 
+runners had at least one overuse injury. However, when 
+we calculated the incidence of acute or overuse injuries as 
+the number of injuries per 1000 exposure hours, we found 
+no gender differences. A few gender differences were 
+observed in the anatomical location of injuries. The main difference was a greater number of overuse injuries in the 
+posterior thigh in male than female athletes, whereas 
+females had a greater risk for overuse injuries to the an-
+kle. The risk for such injuries remained after adjustment 
+for sport event. A higher proportion of female soccer 
+players had more combined acute and overuse injuries in the ankle and knee than male players.  
+More acute injuries per year have been reported 
+among male than female athl etes (Kujala et al., 1995; 
+Sandelin et al., 1980).  Powell and Barber-Foss (2000) 
+reported more acute injuries in girl than boy soccer play-ers and Elias (2001) showed slightly greater aggregate 
+injuries in female than male  soccer players. In addition, 
+increased injury risk in female than male for swimmers (Sallis et al., 2001) and high -school cross-country runners 
+(Rauh et al., 2000) has been reported. Overall, in accor-
+dance with our findings, Lanese et al. (1990) found no differences in overall injury in cidence in different sports 
+after adjustment for exposure time. However, Rauh et al. 
+(2006) found gender differences after adjusting exposure time. It seems that possible gender differences in the 
+injury rate may be partly due to or explained by differ-
+ences in exposure time.  
+In a review, van Gent et al. (2007) reported that in-
+jury rates in the lower extremities were common in both 
+female and male runners. The same finding was reported for cross-country skiers (Sandelin et al., 1980; Orava et 
+al., 1985), which is in line with our results. An equal 
+number of overuse injuries of the lower limbs was also found between males and females in sports other than 
+swimming. In contrast to Sallis et al. (2001) and Satter-
+thwaite et al. (1999) we found no gender difference be-
+tween different groups of sport in injuries in the calf or hip. Sallis et al. (2001) studied injuries among athletes at 
+the intercollegiate level and Satterthwaite et al. (1999) studied injuries and other health problems during a mara-
+thon race. Differences in st udy design, such as definition 
+of the injury or different data collection methods, may explain these conflicting results.   
+Hamstring strains are common injuries in sports 
+characterized by maximal sp rinting, kicking and sudden 
+acceleration (Lysholm and Wiklan der, 1987). Waldén et 
+al. (2005) reported that acute  thigh injury in soccer play-
+ers was the most common injury, causing a great amount 
+of training and competition time loss. There is evidence 
+showing that previous hamstring strains and age (Arnason et al., 2004) are independent risk factors for new ham-
+string strains. Thigh injuries may partly be explained by 
+muscle fatigue, high training intensities, insufficient warm-up and hamstring tightness (Kujala et al., 1997), 
+but the evidence for this is less convincing (Arnason et 
+al., 2004; Bahr and Holme, 2003). In some cases the 
+number of players per soccer team may be low and there-
+fore the high amount of playing time per player may in-
+crease the risk for thigh inju ries, and also the risk for 
+overall injuries. In our study there was no difference be-
+tween the sexes in acute thigh injuries. However, a higher 
+proportion of our male than female athletes had overuse injuries in the posterior thigh, which is in line with the 
+findings of earlier studies (Satterthwaite et al., 1999; 
+Sallis et al., 2001) and clinical experience. Hosea et al. 
+(2000) found in basketball players that females had 
+greater overall risk for ankle injury than males. In our study females had a three-fold greater risk than males for 
+overuse injury in the ankle. Higher joint laxity in females 
+may contribute to this finding (Rozzi et al., 1999; Quat-man et al., 2008). 
+Similar to the study by McMaster and Troup 
+(1993) on elite swimmers, in our swimmers overuse inju-ries occurred mostly in the shoulder region and no gender 
+differences were found. Upper back injuries were rare in 
+our female swimmers. Sallis et al. (2001) reported more injuries in college female than male swimmers in the 
+shoulder and back/neck region. They suggested that a 
+possible explanation for this difference may be training intensity. However, we did not investigate the training 
+intensity, but there was no gender difference in the 
+amount of training during the past twelve months.  
+Female compared to male basketball or soccer 
+players have shown increased  risk for traumatic ankle 
+injury (Hosea et al., 2000; Elias, 2001). Among our soc-
+cer players females had slightly  more acute ankle injuries 
+than males. Moreover, women had more overuse injuries in the ankle and in the wrist than men. While especially 
+ankle injuries are common in both genders, effective 
+methods of preventing sports injuries, such as use of in-soles, external joint supports and multi-intervention train-
+ing programs, have been proposed to prevent injuries 
+(Aaltonen et al., 2007). 
+Women have been reported to have more knee in-
+juries than men, especially ACL injuries (Arendt and 
+Dick, 1995; de Loes et al., 2000; Dugan, 2005). Female soccer players at the time of in jury have been found to be 
+younger than male players (Bjo rdal et al., 1997). During 
+Ristolainen et al.
+ 
+ 
+ 449
+the present one-year follow- up time only one male soccer 
+player suffered from an ACL injury, but no age difference 
+was found between the female soccer players who had ACL injury (22.3 yr) and those who did not (21.0 yr, p = 
+0.53).  Overall, we found similar numbers of knee injuries 
+between men and women in all four sports. Haapasalo et al. (2007) also found no gender differences in overall 
+knee injury risk, except in endurance sports. When acute 
+and overuse injuries in the ankle and knee were com-bined, female soccer players ha d more such injuries than 
+male players, as has been found in earlier studies both for 
+the ankle (Hosea et al., 2000; Elias, 2001) and for the knee (Arendt and Dick, 1995; de Loes et al., 2000; 
+Dugan, 2005) separately. Such  injuries may also cause 
+long absence time from training and competition. How-ever, in our study there was no difference between the 
+sexes in time-loss from acute or overuse injury (data not 
+shown). Injury severity is described in more details in our 
+previous article  (Ristolainen et al., in press, 2009).  
+Female sex has been found to be a risk factor for 
+stress fractures in the military population (Mattila et al., 
+2007), but less so in athlet es (Snyder et al., 2006). Iwa-
+moto and Takeda (2003) concluded in their review that male athletes tend to have more stress fractures than 
+women. The findings are inconsistent as Bennell et al. 
+(1996a, 1996b) found an association between menstrual disturbances and stress fractures among runners, but San-
+delin et al. (1980) found no association when studying 
+cross-country skiers. There was 9.0% of stress fractures in female and 8.8% in male athletes. Nearly 50 % of fe-
+male’s stress fractures occurred to those female athletes 
+with menstrual irregularities. So, the statistically non-significant association between menstrual irregularities 
+and stress fractures may be due to low statistical power 
+(type two error). 
+Approximately one out of every fourth female ath-
+letes report having a menstrual irregularity (Nichols et al., 
+2006; Torstveit and Sundgot-Borgen, 2005), and these 
+have been more common in long-distance runners, ballet 
+dancers and gymnasts than in swimmers (Nichols et al., 
+2006, Torstveit and Sundgot-Borgen, 2005). Our long-
+distance runners also had significantly more menstrual 
+irregularities than soccer players and swimmers. How-ever, we did not find any association between stress frac-
+tures and menstrual irregular ities. After adjustment for 
+exposure hours we found no association between men-strual irregularities and in the number of injuries.  
+In our study the average competition time between 
+sports was fairly different (in particular between swim-ming and soccer playing). However, there were no differ-
+ence between the sexes in the acu te injury occurred in the 
+competition within all athletes or within different sport.  
+We studied gender differences in four different 
+sports, and the injury risk was counted per 1000 exposure 
+hours. It should be noted that these sports types differed from each other in loading characteristics and that there 
+was only one contact sport. This can be considered both a 
+strength and a limitation in our study, as our results indi-cate that gender differences are independent of type of 
+sport. However, the low number of injuries limited some 
+sport-specific injury comparations. We sent the question-
+naire to the participants immediately after the competition season, and in each sport the response rate was similar. 
+The limitations of this study include the use of self-
+reported questionnaire. However, the questionnaire data were validated and reliability-tested against the interview 
+data, and were shown to be accurate (Eloranta and Titto-
+nen, 2006; Karhula and Pakkanen, 2005). Retrospective data collection is a limitation in our study. Also, the vali-
+dation method we used does not exactly reveal the accu-
+racy and coverage of the reported injuries, but was more adequate for measuring the reproducibility/repeatability 
+of the data collection. Co mparability between different 
+sports should not be a problem in our study as the method applied was the same for all four sports studied. In addi-
+tion, the athletes in each sport were on the top-ranking list 
+in their sports, and for this reason were to some extent comparable despite their different sport events.  
+ 
+Conclusion 
+ 
+The overall gender-related risk for acute and overuse 
+injuries in top-level athletes between the sexes was small. However, we found some gender differences in the spe-
+cific anatomical locations of injuries as well as in specific 
+injuries in sports. Some of these differences seem to be 
+explained by the differences in the amount of training.   
+ 
+Acknowledgments 
+This study was supported by a grant from the ORTON Research 
+Institute, ORTON Foundation.  
+ 
+References   
+ 
+Aaltonen, S., Karjalainen, H., Hein onen, A., Parkkari, J. and Kujala, 
+U.M. (2007) Prevention of sports injuries: systematic review of 
+randomized controlled trials. Archives of Internal Medicine  
+167, 1585-1592. 
+Arendt, E. and Dick, R. (1995) Knee injury patterns among men and 
+women in collegiate basketball and soccer. NCAA data and re-view of literature. American Journal of Sports Medicine  23, 
+694-701. 
+Arnason, A., Sigurdsson, S.B., Gudmundsson, A., Holme, I., Engebret-
+sen, L. and Bahr, R. (2004) Risk factors for injuries in football. American Journal of Sports Medicine  32, 5S-16S. 
+Bahr, R. and Holme, I. (2003) Risk factors for sports injuries--a meth-
+odological approach. British Journal of Sports Medicine 37, 
+384-392. 
+Bennell, K.L., Malcolm, S.A., Thomas, S.A., Wark, J.D. and Brukner, 
+P.D. (1996a) The incidence and distribution of stress fractures in competitive track and field athletes. A twelve-month pro-
+spective study.  American Journal of Sports Medicine  24, 211-
+217. 
+Bennell, K.L., Malcolm, S.A., Thomas, S.A., Reid, S.J., Brukner, P.D., 
+Ebeling, P.R. and Wark, J.D. (1996b) Risk factors for stress 
+fractures in track and field at hletes. A twelve-month prospec-
+tive study. American Journal of Sports Medicine  24, 810-818. 
+Bennell, K. and Alleyne, J. (2007) Women and activity-related issues 
+across the lifespan. In: Clinical Sports Medicine : Eds: Brukner, 
+P and Khan K. 3th edition. Sydney: The McGrow-Hill Compa-
+nies. 749-772. 
+Bjordal, J.M., Arnly, F., Hannestad, B. and Strand, T. (1997) Epidemi-
+ology of anterior cruciate ligament injuries in soccer. American 
+Journal of Sports Medicine  25, 341-345. 
+Conn, J.M., Annest, J.L. and Gilchris t, J. (2003) Spor ts and recreation 
+related injury episodes in the US population, 1997-99.[see com-
+ment]. Injury Prevention  9, 117-123. 
+de Loes, M., Dahlstedt, L.J. and Th omee, R. (2000) A 7-year study on 
+risks and costs of knee injuries in male and female youth par-
+ticipants in 12 sports. Scandinavian Journal of Medicine & Sci-
+ence in Sports  10, 90-97. 
+Gender differences in sport injury risk and types of injuries  
+ 
+ 
+ 450
+Dempsey, R.L., Layde, P.M., Laud, P.W., Guse, C.E. and Hargarten, 
+S.W. (2005) Incidence of sports and recreation related injuries resulting in hospitalization in Wisconsin in 2000. Injury Pre-
+vention  11, 91-96. 
+Dugan, S.A. (2005) Sports-related knee injuries in female athletes: what 
+gives? American Journal of Physical Medicine & Rehabilita-
+tion 84, 122-130. 
+Elias, S.R. (2001) 10-y ear trend in USA Cup soccer injuries: 1988-1997. 
+Medicine & Science in Sports & Exercise  33, 359-367. 
+Eloranta, I. and Tittonen,  T. (2006) The reliability and validity of sport 
+injury questionnaire in questions  concerning acute and overused 
+injuries. (In Finnish: English abstract), in Physiotherapy , Uni-
+versity of Jyväskylä. 
+Haapasalo, H., Parkkari, J., Kannus, P., Natri, A. and Jarvinen, M. 
+(2007) Knee injuries in leisure-time physical activities: a pro-
+spective one-year follow-up of a Finnish population cohort. In-
+ternational Journal of Sports Medicine  28, 72-77. 
+Hosea, T.M., Carey, C.C. and Harrer, M.F. (2000) The gender issue: 
+epidemiology of ankle injuries in athletes who participate in 
+basketball. Clinical Orthopaedics & Related Research 372, 45-
+49. 
+Iwamoto, J. and Takeda, T. (2003) Stre ss fractures in athletes: review of 
+196 cases. Journal of Orthopaedic Science  8, 273-278. 
+Karhula, K. and Pakkanen,  S. (2005) The reliability and validity of sport 
+injury questionnaire in the questions concerning recurrent and 
+career-ending injuries. (In Finnish: Englih abstract).  Available 
+from URL: http://thesis.j yu.fi/05/URN_NBN_fi_jyu-
+2005378.pdf, in Physiotherapy , University of Jyväskylä. 
+Kujala, U.M., Orava, S. and Jarvinen, M. (1997) Hamstring injuries. 
+Current trends in treatment and prevention. Sports Medicine 23, 
+397-404. 
+Kujala, U.M., Taimela, S., Antti-Poika,  I., Orava, S., Tuominen, R. and 
+Myllynen, P. (1995) Acute injuries in soccer, ice hockey, vol-leyball, basketball, judo, and ka rate: analysis of national regis-
+try data.[see comment] British medical journal  311, 1465-
+1468. 
+Lanese, R.R., Strauss, R.H., Leizman, D.J. and Rotondi, A.M. (1990) 
+Injury and disability in matche d men's and women's intercolle-
+giate sports. American Journal of Public Health  80, 1459-1462. 
+Lysholm, J. and Wiklander, J. (1987) Injuries in runners. American 
+Journal of Sports Medicine  15, 168-171. 
+Mattila, V.M., Niva, M., Kiuru, M. and Pihlajamaki, H. (2007) Risk 
+factors for bone stress injuries: a follow-up study of 102,515 
+person-years. Medicine & Science in Sports & Exercise  39, 
+1061-1066. 
+McMaster, W.C. and Troup, J. (1993) A survey of interfering shoulder 
+pain in United States competitive swimmers. American Journal 
+of Sports Medicine  21, 67-70. 
+Nichols, J.F., Rauh, M.J., Lawson, M.J., Ji, M. and Barkai, H.S. (2006) 
+Prevalence of the female athlete triad syndrome among high 
+school athletes. Archives of Pediatrics & Adolescent Medicine  
+160, 137-142. 
+Orava, S., Jaroma, H. and Hulkko, A. (1985) Overuse injuries in cross-
+country skiing. British Journal of Sports Medicine  19, 158-160. 
+Powell, J.W. and Barber-Foss, K.D.  (2000) Sex-related injury patterns 
+among selected high school sports. American Journal of Sports 
+Medicine  28, 385-391. 
+Quatman, C.E., Ford, K.R., Myer, G.D., Paterno, M.V. and Hewett, T.E. 
+(2008) The effects of gender and pubertal status on generalized 
+joint laxity in young athletes. Journal of Science and Medicine 
+in Sport  11, 257-263.  
+Rauh, M.J., Margherita, A.J., Rice, S.G., Koepsell, T.D. and Rivara, F.P. 
+(2000) High school cross country running injuries: a longitudi-
+nal study. Clinical Journal of Sport Medicine  10, 110-116. 
+Rauh, M.J., Koepsell, T.D., Rivara, F.P., Margherita, A.J., Rice, S.G.  
+(2006) Epidemiology of musculoskeletal injuries among high 
+school cross-country runners . American Journal of Epidemiol-
+ogy 163, 151-159. 
+Ristolainen, L., Heinonen,
+ A., Turunen, H., Mannström, H., Waller, B., 
+Kettunen, J.A. and Kujala, U.M. (2009) Type of sport is related to injury profile: A study on cross-country skiers, swimmers, 
+long-distance runners and soccer  players. A retrospective 
+twelve-month study. Scandinavian Journal of  Medicine & Sci-
+ence in Sports, in press. 
+Rozzi, S.L., Lephardt, S.M., Gear, W.S. and Fu, F.H. (1999) Knee joint 
+laxity and neuromuscular charac teristics of male and female soccer and basketball players. American Journal of Sports 
+Medicine  27, 312-319. 
+Sallis, R.E., Jones, K., Sunshine, S. , Smith, G. and Simon, L. (2001) 
+Comparing sports injuries in men and women. International 
+Journal of Sports Medicine  22, 420-423. 
+Sandelin, J., Kiviluoto, O. and Santav irta, S. (1980) Injuries of competi-
+tive skiers in Finland: a three year survey. Annales Chirurgiae 
+et Gynaecologiae  69, 97-101. 
+Satterthwaite, P., Norton, R., Larmer , P. and Robinson, E. (1999) Risk 
+factors for injuries and other health problems sustained in a 
+marathon. British Journal of Sports Medicine  33, 22-26. 
+Snyder, R.A., Koester, M.C. and Dunn, W.R. (2006) Epidemiology of 
+stress fractures. Clinics in Sports Medicine  25, 37-52. 
+Torstveit, M.K. and Sundgot-Borgen, J.  (2005) Participation in leanness 
+sports but not training volume is associated with menstrual dys-
+function: a national survey of 1276 elite athletes and controls. 
+British Journal of Sports Medicine  39, 141-147. 
+Walden, M., Hagglund, M. and Ekstrand, J. (2005) Injuries in Swedish 
+elite football--a prospective study  on injury definitions, risk for 
+injury and injury pattern during 2001. Scandinavian Journal of 
+Medicine & Science in Sports  15, 118-125. 
+van Gent, R.N., Siem, D., van Midde lkoop, M., van Os, A.G., Bierma-
+Zeinstra, S.M. and Koes, B.W. (2007) Incidence and determi-nants of lower extremity running injuries in long distance run-ners: a systematic review. British Journal of Sports Medicine  
+41, 469-480; discussion 480. 
+ 
+ 
+Key points 
+ 
+• Only a few sport injury studies have compared in-
+jury rates between the sexes 
+• Overall gender-related risk for acute and overuse 
+injuries in top-level athletes between the sexes was 
+small 
+• Some gender differences in  the specific anatomical 
+locations of injuries as well as in specific injuries in 
+sports were found  
+• Some of these differences seem to be explained by 
+the differences in the amount of training 
+ 
+ 
+AUTHORS BIOGRAPHY 
+Leena RISTOLAINEN 
+Employment 
+Development Manager, ORTON Ortho-
+paedic Hospital, ORTON Foundation, 
+Helsinki, Finland 
+Degree 
+PT, MSc 
+Research interests 
+Sport medicine. 
+E-mail: leena.ristolainen@orton.fi 
+ Ari HEINONEN 
+Employment 
+Professor of Physiotherapy, Department of Health Sciences, 
+University of Jyväskylä, Finland  
+Degree 
+PT, PhD 
+Research interests 
+Sport medicine. 
+E-mail:  ari.heinonen@sport.jyu.fi 
+Benjamin WALLER 
+Employment 
+Physiotherapist, LIKES Sports Medicine 
+Clinic, LIKES, Jyväskylä, Finland 
+Department of Health Sciences, University 
+of Jyväskylä, Finland  
+Degree 
+Ristolainen et al.
+ 
+ 
+ 451
+BSc (Hons) Physiotherapy 
+Research interests 
+Sport medicine, aquatic sports and reha-
+bilitation 
+E-mail:  ben.waller@likes.fi 
+ U.M. KUJALA 
+Employment 
+Professor of Sports & Exercise Medicine 
+Department of Health Sciences, University of Jyväskylä, Finland 
+Degree 
+MD, PhD 
+Research interests 
+Has published more than 150 scientific articles related to 
+physical activity and health.  
+E-mail:  urho.kujala@sport.jyu.fi 
+ J.A. KETTUNEN 
+Employment 
+Research Chief, ORTON Research Institute, ORTON 
+Foundation, Helsinki, Finland 
+Degree 
+PT, PhD 
+Research interests 
+Sport medicine, physiotherapy. 
+E-mail : jyrki.kettunen@orton.fi 
+ 
+  Leena Ristolainen  
+ORTON Orthopaedic Hospital,  ORTON Foundation, Tenholan-
+tie 10, FI-00280 Helsinki, Finland  
+ 
+ 
+ 
+ 

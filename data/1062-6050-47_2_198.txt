@@ -1,0 +1,419 @@
+198	 Volume	47	•	Number	2	•	April	2012Epidemiology of Overuse and Acute Injuries 
+Among Competitive Collegiate Athletes
+Jingzhen Yang, PhD, MPH*†‡; Abigail S. Tibbetts, MS, ATC†;  
+Tracey Covassin PhD, ATC§; Gang Cheng, MS†||; Saloni Nayar, MPH*†; 
+Erin Heiden, MPH*†
+*The	Department	 of	Community	 and	Behavioral	 Health;	†Injury	Prevention	 Research	 Center;	  
+‡The	Department	 of	Biostatistics,	 University	 of	Iowa,	Iowa	City;	§The	Department	 of	Kinesiology,	
+Michigan	 State	University,	 East	Lansing;	 ||School	 of	Sports	Science,	 Soochow	 University,	 Suzhou,	
+Jiangsu,	 China
+Context:	 Although	 overuse	 injuries	are	gaining	 attention,	
+epidemiologic	 studies	on	overuse	 injuries	in	male	and	female	
+collegiate	athletes	are	lacking.
+Objective:	 To	report	the	epidemiology	 of	overuse	 injuries	
+sustained	 by	collegiate	 athletes	 and	to	compare	 the	rates	of	
+overuse	and	acute	injuries.
+Design:	Descriptive	epidemiology	study.
+Setting:	 A	National	 Collegiate	 Athletic	Association	 Division	 I	 
+university.
+Patients or Other Participants:	 A	total	of	1317	reported	
+injuries	sustained	 by	573	male	and	female	athletes	 in	16	col-
+legiate	sports	teams	during	the	2005–2008	seasons.
+Main Outcome Measure(s):	 The	injury	and	athlete-expo-
+sure	(AE)	data	were	obtained	 from	the	Sports	Injury	Monitoring	
+System.	 An	injury	was	coded	as	either	overuse	 or	acute	based	
+on	the	nature	of	injury.	Injury	rate	was	calculated	 as	the	total	
+number	 of	overuse	 (or	acute)	injuries	during	the	study	period	
+divided	by	the	total	number	of	AEs	during	the	same	period.Results:	 A	total	of	386	(29.3%)	 overuse	 injuries	and	931	
+(70.7%)	acute	injuries	were	reported.	 The	overall	injury	rate	was	
+63.1	per	10	000	AEs.	The	rate	ratio	(RR)	of	acute	versus	over-
+use	injuries	was	2.34	(95%	confidence	 interval	[CI]	=	2.05,	2.67).	
+Football	 had	the	highest	RR	(RR	=	8.35,	95%	CI	=	5.38,	12.97),	
+and	women’s	 rowing	had	the	lowest	(RR	=	0.75,	95%	CI	=	0.51,	
+1.10).	Men	had	a	higher	acute	injury	rate	than	women	(49.8	ver-
+sus	38.6	per	10	000	AEs).	Female	athletes	 had	a	higher	rate	of	
+overuse	 injury	than	male	athletes	 (24.6	versus	13.2	per	10	000	
+AEs).	More	than	half	of	the	overuse	 injuries	(50.8%)	 resulted	 in	
+no	time	loss	from	sport.
+Conclusions:	 Additional	 studies	 are	needed	 to	examine	
+why	female	athletes	 are	at	greater	risk	for	overuse	 injuries	and	
+identify	the	best	practices	 for	prevention	 and	rehabilitation	 of	
+overuse	injuries.
+Key Words:	injury	surveillance,	athlete-exposures
+Key Points
+•	 More	than	one-quarter	of	all	injuries	were	overuse	injuries.
+•	 Compared	with	acute	injuries,	more	overuse	injuries	involved	no	time	lost	from	participation.
+•	 Female	athletes	had	a	higher	rate	of	overuse	injuries	than	did	male	athletes.
+Overuse injuries, also called chronic injuries, are a cat -
+egory of sport-related injuries that result from cumula -
+tive trauma or repetitive use and stress. Unlike acute 
+injuries, which are typically caused by a single traumatic event, 
+overuse injuries often are the result of many repetitive minor insults.
+1,2 Moreover, overuse injuries occur when inadequate 
+time is provided for the injured area of the body to heal prop-erly. Typical examples of overuse injuries include tendinitis, bursitis, medial tibial stress syndrome, and stress fractures.
+3
+ Although most injuries in sports involving high speed 
+(eg, soccer) or full-body contact (eg, football, wrestling) are acute, overuse injuries are often found in low-contact sports that involve long training sessions or the same movement re-peated numerous times (eg, long-distance running, rowing, swimming).
+4–7 Consequences of overuse injuries include loss 
+of playing time, reduced function, psychological exhaustion, and significant pain.3,8–10 Because overuse injuries are asso-
+ciated with a gradual increase in symptoms, athletes may be unaware that they are seriously injured.
+8 Thus, overuse inju-
+ries may present not only physical but also psychological chal -
+lenges that could significantly affect an athlete’s recovery and performance. Furthermore, undiagnosed and untreated overuse injuries can produce long-term residual symptoms and health consequences, including deformities and arthritis.
+11,12
+ In recent years, increased research has focused on over -
+use injuries among athletes involved in various competitive sports.
+4,9–14 One group13 compared the frequencies of over -
+use injuries among National Collegiate Athletic Association (NCAA) Division I teams of women’s field hockey, soccer, and basketball but found no significant differences in the injury in-cidence rates for these sports. In another study
+4 of professional 
+volleyball athletes, both male and female players reported a Journal of Athletic Training  2012:47(2):198–204
+© by the National Athletic Trainers’ Association, Incwww.nata.org/jat original researchDownloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/198/1455074/1062-6050-47_2_198.pdf by guest on 12 August 2024
+
+	 Journal	of	Athletic	Training	 199 high prevalence of overuse injuries of the lower back, knee, 
+and shoulder. Most authors of published studies on overuse in-juries have focused either on a specific sport team
+4,9,10,14 or a 
+specific injury type or injured body region,13,15 but there are few 
+epidemiologic studies on overuse injury. In particular, a signifi-cant gap exists in the relative rates of overuse and acute injuries in male and female Division I collegiate athletes. The purpose of our study was to report the epidemiology 
+of overuse injuries sustained by Division I collegiate athletes and to compare the rates of overuse and acute injuries. Under -
+standing the frequency, rate, and severity of overuse injuries is an important first step for designing effective injury-prevention programs, intervention strategies, and treatment protocols to prevent and rehabilitate athletes with these injuries.
+16
+METHODS
+Study Population
+ The study sample consisted of male and female collegiate 
+athletes from 1 NCAA Division I institution in the Big Ten Ath-
+letic Conference. The athletes participated in 16 teams: men’s baseball, basketball, cross-country and track and field, football, gymnastics, swimming and diving, and wrestling and women’s basketball, cross-country and track and field, field hockey, gymnastics, rowing, soccer, softball, swimming and diving, and volleyball. From these 16 teams, we compiled injury and athlete-expo -
+sure (AE) data over a 3-year period (August 1, 2005, through July 31, 2008). These data were reported through the Sports Injury Monitoring System (SIMS), an ongoing injury-surveil -
+lance system established by the Big Ten Athletic Conference in the early 1980s.
+17 The SIMS database includes a roster of all 
+team members, a daily log for all team practices and games, and a detailed record of all reportable injuries, including type and location of injury and the medical attention and rehabilitation received. Certified athletic trainers are responsible for entering data from their teams into SIMS. The study was approved by the Institutional Review Board of the University of Iowa.
+Case Definition
+ An overuse injury was defined as a gradual-onset injury 
+caused by repeated microtrauma without a single, identifiable 
+event responsible for the injury.
+1,2,9 An acute injury was defined 
+as trauma resulting from a specific and identifiable event.1,2,9 All 
+injuries included in this study met the following 2 criteria: clin -
+ical signs of tissue damage determined by team athletic train-ers or team physicians and inability of the player to return to practice or game the same day.
+17 Two trained research assistants 
+manually coded the injuries reported through SIMS as either overuse or acute injury based on the case definitions. Inter-rater reliability was calculated as a kappa coefficient of 0.94. When the coding was inconsistent, we reviewed a detailed description of the injury available through the SIMS database for clarifica -
+tion before the final categorization. Thus, we included a total of 1317 injury cases in the data analysis.
+Main Measures
+ Type of Overuse Injury. Using a combination of injury 
+descriptions and conditions, we categorized overuse injuries as follows: bursitis, deformity or weakness, general stress, im-
+pingement, inflammation, joint laxity, loose bodies or debris, stress fracture, tendinitis, or other.
+9,12
+ Type of Acute Injury. Based on the nature of the injury and 
+injury diagnosis, we described acute injuries as follows: blood vessels, dislocation, fracture, internal organ, nerves, open wound, sprain or strain, superficial or contusion, or other.
+9,12
+ Injury Severity. Each injury was classified as no time lost 
+if an athlete lost no participation time, minor if the athlete lost 
+less than 1 week, moderate if the athlete lost 1 to 3 weeks, or 
+major if the athlete lost more than 3 weeks.9,12,18
+ Athlete-Exposure. We defined 1 AE as attending 1 coach-
+directed session of either a game or practice as reported in SIMS. The total number of AEs for a sport team was calculated as the sum of the total number of coach-directed games and practices attended by athletes on that team.
+Statistical Analysis
+ We calculated descriptive statistics for the occurrence and 
+proportion of overuse and acute injuries during the study pe-
+riod. Differences across subgroups were compared using Pear -
+son chi-square tests. To compare sex differences, additional analysis was conducted for 10 sex-comparable sports: men’s and women’s basketball, baseball and softball, cross-country and track and field, gymnastics, and swimming and diving. The characteristics of overuse and acute injuries were analyzed and compared by injury type, body region, and injury sever -
+ity. Injury rate was calculated as the total number of overuse 
+(or acute) injuries during the study period divided by the total number of AEs during the same period, multiplied by 10 000. 
+Generalized linear models were constructed to estimate the in-jury rate ratio with the generalized estimation equation method, using the overuse injury rate as a denominator. The binomial distribution with the log link function was used. A working ex-changeable correlation structure was specified to account for correlations of the injuries sustained by the same athlete. Anal-yses were conducted using SAS (version 9.2; SAS Institute Inc, Cary, NC).
+19 Statistical significance was set at α = .05.
+RESULTS
+Numbers of Overuse and Acute Injuries
+ A total of 573 injured athletes reported 1317 injuries dur -
+ing the 3-year study period, with 288 athletes (50.3%) reporting 
+more than 1 injury. A total of 319 male athletes sustained 705 injuries, and 254 female athletes sustained 612 injuries (Table 1). Of all included injuries, 386 (29.3%) were overuse injuries, whereas 931 (70.7%) were acute injuries. Women’s rowing and men’s cross-country and track and field athletes had the greatest number of overuse injuries, and football players and wrestlers reported the highest number of acute injuries. The number of reported overuse injuries was less than the number of acute injuries during the same time period across almost all subgroups. Although male athletes had a higher proportion of acute injuries (59.8% versus 40.2%, P < .0001), female ath-letes had a higher proportion of overuse injuries (61.7% versus 38.3%, P < .0001). However, when sex differences were com-
+pared across 10 sex-comparable sports, the difference became statistically insignificant, with 48.3% versus 51.7% for overuse injuries and 54.0% versus 46.0% for acute injuries in men and women, respectively ( P = .1840).Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/198/1455074/1062-6050-47_2_198.pdf by guest on 12 August 2024
+
+200	 Volume	47	•	Number	2	•	April	2012Rates of Overuse and Acute Injuries
+ A total of 208 666 AEs (32 256 game AEs and 176 410 prac-
+tice AEs) were accumulated for 16 teams during the 3 study 
+years (Table 2). The overall injury rate was 63.1 per 10 000 
+AEs. Further breakdown revealed that the rate for overuse in-juries was 18.5 per 10 000 AEs (95% CI = 16.7, 20.4), and the 
+rate for acute injuries was 44.6 per 10 000 AEs (95% CI = 41.8, 
+47.6). The rate ratio (RR) of acute versus overuse injury was 2.34 (95% CI = 2.05, 2.67). Compared with male athletes, fe-
+male athletes had a higher rate of overuse injuries, with 24.6 per 10 000 AEs (95% CI = 21.6, 27.9) versus 13.2 per 10 000 
+AEs (95% CI = 11.2, 15.5), respectively. However, the differ -
+ence between sexes was less in 10 sex-comparable sports (16.8 per 10 000 AEs [95% CI = 13.8, 20.3] for women versus 14.9 
+per 10 000 AEs [95% CI = 12.1, 18.1] for men). The RR of 
+acute versus overuse injury was higher among men (3.67 [95% CI = 3.02, 4.46]) than women (1.53 [95% CI = 1.28, 1.83]).
+ The highest overuse injury rates were observed in 4 wom-
+en’s teams: field hockey, soccer, softball, and volleyball (Ta-ble 2). Specifically, the overuse injury rate for women’s field hockey was the highest, with 70.5 per 10 000 AEs. The high-
+est acute injury rate across sports was in women’s soccer, with 190.0 per 10 000 AEs, followed by wrestling and women’s field hockey. Although the rate in football was 51.4 per 10 000 AEs 
+for acute injuries and 6.2 per 10 000 AEs for overuse injuries, 
+football had the highest injury RR for acute versus overuse injury (8.35 [95% CI = 5.38, 12.97]), followed by men’s bas-
+ketball (7.04, 95% CI = 3.02, 16.43) and wrestling (6.99, 95% 
+CI = 4.57, 10.68). The lowest RRs were found in women’s row-
+ing (0.75, 95% CI = 0.51, 1.10) and women’s swimming and 
+diving (0.87, 95% CI = 0.51, 1.51).
+Type and Body Region of Overuse and  Acute Injuries
+ The most common overuse injuries were general stress 
+(n = 103, 26.7%), followed by inflammation (n = 80, 20.7%) and 
+tendinitis (n = 60, 15.5%) (Table 3). No difference was found 
+between male and female athletes in types of overuse injuries 
+in 10 sex-comparable sports. The most common acute injuries were sprains and strains, which constituted almost two-thirds of all acute injuries (n = 584, 62.7%). Compared with female 
+athletes, male athletes had a lower proportion of sprains and strains (60.1% versus 66.6%, P = .0465) and a higher propor -
+tion of open wounds (8.1% versus 3.5%, P = .0044). Injuries to the lower extremities were most common (Table 
+4). Nearly half of the total documented injuries occurred to the Table 1. Overuse and Acute Injuries by Year, Sex, and Sport
+VariableNumber	of	 
+Injured	 
+AthletesaNumber	of	Injuries	..............................
+Total Overuse Acute
+P ValuebN	(%) n	(%) n	(%)
+All 573 1317 386	(29.3) 931	(70.7)
+Year .5867
+	 2005–2006 300 501	(38.0) 155	(40.2) 346	(37.2)
+	 2006–2007 254 434	(33.0) 124	(32.1) 310	(33.3)
+	 2007–2008 248 382	(29.0) 107	(27.7) 275	(29.5)
+Sex <.0001
+	 Male 319 705	(53.5) 148	(38.3) 557	(59.8)
+	 Female 254 612	(46.5) 238	(61.7) 374	(40.2)
+Sex	(comparable	sportsc) .1840
+	 Male 152 310	(52.0) 102	(48.3) 208	(54.0)
+	 Female 115 286	(48.0) 109	(51.7) 177	(46.0)
+Men’s	sports <.0001
+	 Baseball 42 55	(4.2) 17	(4.4) 38	(4.1)
+	 Basketball 23 64	(4.9) 8	(2.1) 56	(6.0)
+	 Cross-country	and	track	and	field 46 95	(7.2) 40	(10.4) 55	(5.9)
+	 Football 109 186	(14.1) 20	(5.2) 166	(17.8)
+	 Gymnastics 22 65	(4.9) 26	(6.7) 39	(4.2)
+	 Swimming	and	diving 19 31	(2.4) 11	(2.8) 20	(2.1)
+	 Wrestling 58 209	(15.9) 26	(6.7) 183	(19.7)
+Women’s	sports
+	 Basketball 16 59	(4.5) 14	(3.6) 45	(4.8)
+	 Cross-country	and	track	and	field 32 47	(3.6) 15	(3.9) 32	(3.4)
+	 Field	hockey 23 105	(8.0) 35	(9.1) 70	(7.5)
+	 Gymnastics 21 65	(4.9) 22	(5.7) 43	(4.6)
+	 Rowing 64 98	(7.4) 56	(14.5) 42	(4.5)
+	 Soccer 35 74	(5.6) 15	(3.9) 59	(6.3)
+	 Softball 19 70	(5.3) 34	(8.8) 36	(3.9)
+	 Swimming	and	diving 27 45	(3.4) 24	(6.2) 21	(2.3)
+	 Volleyball 17 49	(3.7) 23	(6.0) 26	(2.8)
+a	Athletes	 may	be	on	the	same	team	for	more	than	1	year.
+b	Based	on	 c2	tests.
+c	Includes	 men’s	and	women’s	 basketball,	 cross-country	 and	track	and	field,	gymnastics,	 swimming	 and	diving,	and	men’s	baseball	 and	 
+women’s	 softball.Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/198/1455074/1062-6050-47_2_198.pdf by guest on 12 August 2024
+
+	 Journal	of	Athletic	Training	 201 lower extremity: 49.0% of overuse injuries and 49.7% of acute 
+injuries. Overuse injuries also occurred frequently to the up-per extremity and torso, whereas injuries to the head, face, and neck were more likely to be acute.
+Severity of Overuse and Acute Injuries
+ The severity patterns for overuse injuries and acute inju-
+ries were quite different (Table 4). Half of the overuse injuries 
+(50.8%) were associated with no time loss, compared with less than one-third (29.8%) of acute injuries. About 40% of acute injuries were minor or moderate, whereas only about 18% of overuse injuries fell into this category. Compared with female athletes, male athletes sustained more major injuries (34.0% versus 26.8%) and fewer no–time-loss injuries (27.2% versus 45.9%) (P = .0021). The sex discrepancy in injury severity was 
+particularly large for overuse injuries, with the proportion of major injuries incurred by male athletes almost twice that of females (45.9% versus 23.1%, P < .0001) in 16 study sports and 
+10 sex-comparable sports (49.0% versus 29.4%, respectively, P = .0002). The knee joint was the most severely injured body region 
+for both acute and overuse injuries, accounting for 27.7% of all major injuries (n = 112, data not shown). For major acute inju-
+ries, fractures were among the most severe (44.8%), followed by sprains and strains (34.9%) and dislocations (31.0%). The majority of overuse injuries involved no time loss. However, 82.4% (n = 14) of stress fractures required the injured athlete to 
+miss participation for more than 3 weeks.
+DISCUSSION
+ Our study provides epidemiologic data on the numbers and 
+rates of overuse and acute injuries sustained by collegiate ath-
+letes. Although the exposure and injury rates for 16 Division I  
+collegiate sport teams were collected at a single university, differences between acute and overuse injuries varied by sex, sport, and severity. Male athletes had a higher acute injury rate than female athletes; however, the overuse injury rate was higher among female athletes. Football had the highest injury rate ratio of acute versus overuse injury, whereas women’s row-ing had the lowest. Half of all overuse injuries were associated Table 2. Injury Rates and Rate Ratios of Acute Versus Overuse Injuries
+Variable AEsOveruse	Injuries Acute	Injuries
+Injury	Rate	Ratio	 
+(95%	CI)aNumberRate	per	10	 000	AEs	
+(95%	CI) NumberRate	per	10	 000	AEs	 
+(95%	CI)
+All 208	666 386 18.5	(16.7,	20.4) 931 44.6	(41.8,	47.6) 2.34	(2.05,	2.67)
+Year
+	 2005–2006 70	574 155 22.0	(18.6,	25.7) 346 49.0	(44.0,	54.5) 2.22	(1.83,	2.71)
+	 2006–2007 69	553 124 17.8	(14.8,	21.3) 310 44.6	(39.8,	49.8) 2.39	(1.93,	2.97)
+	 2007–2008 68	539 107 15.6	(12.8,	18.9) 275 40.1	(35.5,	45.2) 2.46	(1.95,	3.10)
+Sex	 Male 111	814 148 13.2	(11.2,	15.5) 557 49.8	(45.8,	54.1) 3.67	(3.02,	4.46)
+	 Female 96	852 238 24.6	(21.6,	27.9) 374 38.6	(34.8,	42.7) 1.53	(1.28,	1.83)
+Sex	(comparable	sports
+b)
+	 Male 68	525 102 14.9	(12.1,	18.1) 208 30.4	(26.4,	34.8) 2.01	(1.56,	2.58)
+	 Female 64	842 109 16.8	(13.8,	20.3) 177 27.3	(23.4,	31.6) 1.59	(1.23,	2.06)
+Men’s	sports	 Baseball 7040 17 24.1	(14.1,	38.6) 38 54.0	(38.2,	74.1) 2.23	(1.31,	3.79)
+	 Basketball 6768 8 11.8	(5.1,	23.1) 56 82.7	(62.5,	107.4) 7.04	(3.02,	16.43)
+	 Cross-country	and	track	 	 	and	field22	770 40 17.6	(12.6,	23.9) 55 24.2	(18.2,	31.4) 1.37	(0.9,	2.08)
+	 Football 32	300 20 6.2	(3.8,	9.6) 166 51.4	(43.9,	59.8) 8.35	(5.38,	12.97)
+	 Gymnastics 11	472 26 22.7	(14.8,	33.2) 39 34.0	(24.2,	46.5) 1.50	(0.86,	2.6)
+	 Swimming	and	diving 20	475 11 5.4	(2.7,	9.6) 20 9.8	(6.0,	15.1) 1.81	(1.02,	3.23)
+	 Wrestling 10	989 26 23.7	(15.5,	34.7) 183 166.5	(143.3,	192.5) 6.99	(4.57,	10.68)
+Women’s	sports	 Basketball 4950 14 28.3	(15.5,	47.3) 45 90.9	(66.4,	121.7) 3.19	(1.65,	6.15)
+	 Cross-country	and	track	 	 	and	field18	150 15 8.3	(4.6,	13.6) 32 17.6	(12.1,	24.9) 2.13	(1.16,	3.93)
+	 Field	hockey 4965 35 70.5	(49.2,	98.1) 70 141.0	(110.0,	178.0) 2.02	(1.39,	2.92)
+	 Gymnastics 10	962 22 20.1	(12.6,	30.4) 43 39.2	(28.4,	52.9) 1.95	(1.07,	3.55)
+	 Rowing 18	540 56 30.2	(22.8,	39.2) 42 22.7	(16.3,	30.6) 0.75	(0.51,	1.10)
+	 Soccer 3105 15 48.3	(27.1,	79.5) 59 190.0	(144.8,	244.9) 3.90	(1.91,	7.96)
+	 Softball 6000 34 56.7	(39.3,	79.2) 36 60.0	(42.1,	83.1) 1.05	(0.72,	1.54)
+	 Swimming	and	diving 24	780 24 9.7	(6.2,	14.4) 21 8.5	(5.3,	12.9) 0.87	(0.51,	1.51)
+	 Volleyball 5400 23 42.6	(27.0,	63.9) 26 48.1	(31.5,	70.5) 1.12	(0.63,	2.01)
+Abbreviations:	 AEs,	athlete-exposures;	 CI,	confidence	 interval.
+a	Generalized	linear	models	were	constructed	to	estimate	injury	rate	ratio	accounting	for	the	correlations	of	the	injuries	from	the	same	athlete.	
+The	overuse	injury	rate	is	the	reference	group	for	the	injury	rate	ratio.
+b	Includes	men’s	and	women’s	basketball,	cross-country	and	track	and	field,	gymnastics,	and	swimming	and	diving	and	men’s	baseball	and	
+women’s	softball.Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/198/1455074/1062-6050-47_2_198.pdf by guest on 12 August 2024
+
+202	 Volume	47	•	Number	2	•	April	2012Table 4. Overuse and Acute Injuries by Sex, Injured Body Region, and Severitya
+	 Time	Lost	to	Overuse	Injuries	 Time	Lost	to	Acute	Injuries	
+	 	 No	 	 	 	 	 No	 	 	  
+Variable	 Total	 Time	Lost	 Minor	 Moderate	 Major	 Total	 Time	Lost	 Minor	 Moderate	 Major
+	 N	(%)	 n	(%)	 n	(%)	 n	(%)	 n	(%)	 N	(%)	 n	(%)	 n	(%)	 n	(%)	 n	(%)
+Total	 386	(100.0)	 196	(50.8)	 41	(10.6)	 26	(6.7)	 123	(31.9)	 931	(100.0)	 277	(29.8)	 235	(25.2)	 138	(14.8)	 281	(30.2)
+Sexb
+	 Male	 148	(38.3)	 49	(33.1)	 17	(11.5)	 14	(9.5)	 68	(45.9)	 557	(59.8)	 143	(25.7)	 140	(25.1)	 102	(18.3)	 172	(30.9)
+	 Female	 238	(61.7)	 147	(61.8)	 24	(10.1)	 12	(5.0)	 55	(23.1)	 374	(40.2)	 134	(35.8)	 95	(25.4)	 36	(9.6)	 109	(29.1)
+Sex	(comparable	sportsc)
+	 Male	 102	(48.3)	 30	(29.4)	 10	(9.8)	 12	(11.8)	 50	(49)	 208	(54)	 54	(26)	 51	(24.5)	 28	(13.5)	 75	(36.1)
+	 Female	 109	(51.7)	 57	(52.3)	 17	(15.6)	 3	(2.8)	 32	(29.4)	 177	(46)	 53	(29.9)	 49	(27.7)	 18	(10.2)	 57	(32.2)
+Injured	body	region	
+			Head,	face,	neck	 14	(3.6)	 8	(57.1)	 4	(28.6)	 1	(7.1)	 1	(7.1)	 197	(21.2)	 92	(46.7)	 65	(33.0)	 18	(9.1)	 22	(11.2)
+			Torso	 75	(19.4)	 46	(61.3)	 5	(6.7)	 6	(8.0)	 18	(24.0)	 83	(8.9)	 33	(39.8)	 12	(14.5)	 14	(16.9)	 24	(28.9)
+			Upper	extremity	 108	(28.0)	 62	(57.4)	 7	(6.5)	 7	(6.5)	 32	(29.6)	 187	(20.1)	 57	(30.5)	 43	(23.0)	 27	(14.4)	 60	(32.1)					Shoulder,	upper	arm	 68	(17.6)	 37	(54.4)	 5	(7.4)	 4	(5.9)	 22	(32.4)	 73	(7.8)	 18	(24.7)	 16	(21.9)	 12	(16.4)	 27	(37.0)
+					Forearm,	elbow	 15	(3.9)	 8	(53.3)	 0	(0)	 1	(6.7)	 6	(40.0)	 43	(4.6)	 8	(18.6)	 12	(27.9)	 6	(14.0)	 17	(39.5)
+									Hand,	wrist,	fingers	 25	(6.5)	 17	(68.0)	 2	(8.0)	 2	(8.0)	 4	(16.0)	 71	(7.6)	 31	(43.7)	 15	(21.1)	 9	(12.7)	 16	(22.5)
+			Lower	extremity	 189	(49.0)	 80	(42.3)	 25	(13.2)	 12	(6.3)	 72	(38.1)	 463	(49.7)	 95	(20.5)	 115	(24.8)	 79	(17.1)	 174	(37.6)					Hip	 10	(2.6)	 6	(60.0)	 1	(10.0)	 1	(10.0)	 2	(20.0)	 48	(5.2)	 18	(37.5)	 12	(25.0)	 8	(16.7)	 10	(20.8)
+					Upper	leg,	thigh	 7	(1.8)	 5	(71.4)	 1	(14.3)	 0	(0)	 1	(14.3)	 74	(7.9)	 11	(14.9)	 21	(28.4)	 16	(21.6)	 26	(35.1)
+					Knee	 83	(21.5)	 30	(36.1)	 10	(12.0)	 8	(9.6)	 35	(42.2)	 139	(14.9)	 20	(14.4)	 21	(15.1)	 21	(15.1)	 77	(55.4)
+					Lower	leg,	ankle	 65	(16.8)	 32	(49.2)	 9	(13.8)	 2	(3.1)	 22	(33.8)	 156	(16.8)	 36	(23.1)	 47	(30.1)	 28	(17.9)	 45	(28.8)
+					Foot,	toe	 24	(6.2)	 7	(29.2)	 4	(16.7)	 1	(4.2)	 12	(50.0)	 46	(4.9)	 10	(21.7)	 14	(30.4)	 6	(13.0)	 16	(34.8)
+			Other,	unspecified	 0	(0)	 0	(0)	 0	(0)	 0	(0)	 0	(0)	 1	(0.1)	 0	(0)	 0	(0)	 0	(0)	 1	(100)
+a	Injury	severity	 was	defined	as	no time lost	 if	an	athlete	lost	no	time,	 minor	if	<1	wk	lost,	 moderate	 if	1–3	wk	lost,	or	major	if	>3	wk	lost.
+b	Based	on	Pearson	 c2	tests:	sex	difference	in	all	injuries	(P	 <	.0001),	overuse	injuries	(P	 <	.0001),	and	acute	injuries	(P	 =	.0002).
+c	Consists	of	men’s	and	women’s	basketball,	cross-country	and	track	and	field,	gymnastics,	and	swimming	and	diving	and	men’s	baseball	and	
+women’s	softball.	P values	based	on	Pearson	 c2	tests:	sex	difference	in	all	injuries	(P	 =	.0021),	overuse	injuries	(P	 =	.0002),	and	acute	injuries	
+(P	=	.5327).Table 3. Overuse and Acute Injuries by Injury Type and Sex
+Total Men Women
+P ValueaInjury N	(%) n	(%) n	(%)
+Overuse 386	(100.0) 148	(38.3) 238	(61.7) .1754
+	 General	stress 103	(26.7) 36	(24.3) 67	(28.2) .4085
+	 Inflammation 80	(20.7) 26	(17.6) 54	(22.7) .2274
+	 Tendinitis 60	(15.5) 25	(16.9) 35	(14.7) .5644
+	 Deformity	or	weakness 52	(13.5) 16	(10.8) 36	(15.1) .2273
+	 Loose	bodies	or	debris 20	(5.2) 11	(7.4) 9	(3.8) .1156
+	 Impingement 19	(4.9) 8	(5.4) 11	(4.6) .7293
+	 Bursitis 19	(4.9) 9	(6.1) 10	(4.2) .4066
+	 Stress	fracture 17	(4.4) 6	(4.1) 11	(4.6) .7915
+	 Joint	laxityb12	(3.1) 8	(5.4) 4	(1.7) .0659
+	 Otherb4	(1.0) 3	(2.0) 1	(0.4) .1296
+Acute 931	(100.0) 557	(59.8) 374	(40.2) .0015
+	 Sprain	or	strain 584	(62.7) 335	(60.1) 249	(66.6) .0465
+	 Superficial	or	contusion 94	(10.1) 56	(10.1) 38	(10.2) .9578
+	 Internal	organ 77	(8.3) 59	(10.6) 18	(4.8) .0017
+	 Fracture 67	(7.2) 36	(6.5) 31	(8.3) .2907
+	 Open	wound 58	(6.2) 45	(8.1) 13	(3.5) .0044
+	 Dislocation 29	(3.1) 18	(3.2) 11	(2.9) .8025
+	 Unspecified 17	(1.8) 6	(1.1) 11	(2.9) .0373
+	 Nerve 4	(0.4) 2	(0.4) 2	(0.5) .6878
+	 Blood	vesselb1	(0.1) 0	(0) 1	(0.3) .4017
+a	Based	on	Pearson	 c2	tests.
+b	Two-sided	Fisher	exact	test	used.Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/198/1455074/1062-6050-47_2_198.pdf by guest on 12 August 2024
+
+	 Journal	of	Athletic	Training	 203 it is important to educate athletes, coaches, parents, pediatri -
+cians, and sport governing bodies about overuse injury risks 
+and potential prevention strategies, including increasing activ -
+ity gradually, minimizing training error, and allowing adequate time for recovery within training programs.
+11
+ Although overuse injuries are well known among collegiate 
+athletes and other sports participants, few published studies on overuse injuries are available. Clearly defining and quantifying overuse injuries present researchers with several challenges. Overuse injuries are not often the result of a single macro-traumatic event; instead, they develop through repetitive mi-crotrauma.
+12 Athletes may be asymptomatic or may not report 
+their signs and symptoms when they first experience them. The participation status of an athlete with an overuse injury can also vary on a day-to-day basis, making time-loss calculations diffi-cult.
+9,15 As a result, time loss due to overuse injuries may not be 
+accurately reported. It is also sometimes hard for athletic train-ers and other medical professionals to diagnose overuse inju-ries because of their inconsistent injury patterns. These injuries have a gradual onset with no specific mechanism, and symp-toms can vary based on the frequency and intensity of activ -
+ity.
+9,15 Last, even though athletes with acute, traumatic injuries 
+often have detailed rehabilitation protocols to follow and are monitored during recovery, athletes with overuse injuries often modify their workout routines depending on the level of pain they are experiencing.
+15 As a result, acute and overuse injuries 
+present athletes and sports medicine professionals with very different rehabilitation scenarios.
+12,21 It is imperative to provide 
+an accurate and comprehensive diagnosis for an overuse injury and to treat each symptomatic athlete on a case-by-case basis. This may include tailored treatment plans, workout modifica -
+tions, preventive exercises, strength and conditioning proto-cols, and evaluation for underlying maladaptations that might precipitate reinjury. Our study had several limitations. First, it is possible that 
+athletes who suffered from overuse injuries did not report their symptoms to an athletic trainer or other health care professional or attempted to self-treat until their symptoms became too de-bilitating. Therefore, the number of overuse injuries reported in this study might be underestimated. Second, data on injured athletes’ functional and performance limitations were lacking. Using the duration of time loss to measure severity of over -
+use injuries is potentially problematic because a large number of overuse injuries involved no time loss. To better measure overuse injury severity, more data may be collected on injured athletes, including the level of medical attention received, func-tional and performance limitations, and cost of treatment. Fur -
+thermore, use of general stress as a category of overuse injury in the existing data set limited our ability to clearly define a specific type of overuse injury. Finally, this study was limited to a single NCAA Big Ten institution. A national sample is needed to determine the true incidence and prevalence of over -
+use injuries.
+CONCLUSIONS
+ Despite the limitations, this study revealed that more than 
+one-quarter of all injuries sustained by collegiate athletes were 
+overuse injuries, with female athletes having a higher rate of overuse injuries than did male athletes. Our results warrant more research on overuse injuries and associated risk factors, in particular, developing better measures to properly define and quantify overuse injuries. Future researchers also should with no time loss, and the proportion of no–time-loss injuries for female athletes was almost twice that of male athletes. These findings have implications for future research and for in-terventions in the area of overuse injury prevention. Previous researchers have suggested that high-contact sports 
+are commonly associated with a higher incidence of acute inju-ries,
+5,7,17,20 and low-contact sports typically lead to more chronic, 
+overuse injuries.4,7,9,10,21 In concordance, we found that contact 
+sports such as wrestling and women’s soccer were associated with a higher acute injury risk; overuse injuries were associ-ated with low-contact sports such as women’s rowing, softball, and volleyball and men’s and women’s cross-country and track and field. However, we found that 4 women’s teams (ie, field hockey, soccer, softball, and volleyball) had the highest rates of overuse injury rates among the 16 sports. Football ranked second highest among the 16 sport teams in total number of injuries and had the highest injury RR for acute versus over -
+use injury. Yet the high frequency of injuries in football does not automatically translate to the highest injury rate. When we factored in the number of AEs for games and practices, the rate of acute injury in football was no longer the highest, and the rate of overuse injury was among the lowest. Our findings that football injury rates were lower than those of other sports are inconsistent with the prior literature.
+5,6 This discrepancy may 
+be due to the large number of athletes on the football team, re-sulting in a larger number of AEs in the denominator when cal -
+culating the injury rate. Therefore, caution is necessary when interpreting our finding on football injury rates. Our findings, along with those of others, suggest the importance of account -
+ing for the number of AEs when quantifying the risk of in-jury.
+22,23 We noted that female athletes had a higher incidence of 
+overuse injuries compared with male athletes, although the dif-ference was less when the results were compared between men and women in comparable sports. Previous researchers
+9,15 have 
+found that female athletes sustained more overuse injuries than did male athletes. For example, female rowers reported a sig-nificantly greater number of chest overuse injuries (ie, rib stress fractures) than did male rowers,
+9 and female military recruits 
+reported more stress fractures than did male military recruits during basic training.
+15 The exact reasons for the higher rate of 
+overuse injuries in female athletes in our study are unknown. A possible partial explanation may be the structural and biome -
+chanical differences between male and female athletes, which may increase the likelihood of an overuse injury in female ath-letes in comparison with their male counterparts.
+13,24 More in-
+vestigation is warranted to determine why female athletes may be at a greater risk for overuse injuries than are male athletes. Further study is also needed on preseason screening procedures for identifying collegiate athletes who may be at greater risk of overuse injuries.
+13
+ We found that more than one-quarter of all injuries were 
+overuse injuries. Similar findings were reported by Junge et al,
+25 who observed that 22% of all reported injuries during the 
+2008 Summer Olympic Games were overuse injuries. We also noted that the time-loss patterns for overuse and acute injuries were quite different, with more overuse injuries involving no time loss. This probably indicates that athletes are returning to play before being fully recovered or playing through overuse injuries. Youth athletes may be particularly vulnerable to re-petitive biomechanical stress because of immature musculo-skeletal systems.
+12 With an increasing number of young people 
+becoming involved in competitive sports and more athletes being exposed to high-intensity training from an earlier age, Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/198/1455074/1062-6050-47_2_198.pdf by guest on 12 August 2024
+
+204	 Volume	47	•	Number	2	•	April	2012investigate why female athletes are at greater risk for overuse 
+injuries. Strategies for prevention of and early intervention with overuse injuries are needed to reduce the number and severity of overuse injuries.
+ACKNOWLEDGMENTS
+ This research work was supported by the University of 
+Iowa Injury Prevention Research Center, funded by grant #R49 
+CD001167-01 of the Centers for Disease Control and Preven-tion National Center for Injury Prevention and Control. We thank the University of Iowa Sports Medicine Research Center and the Department of Athletics at the University of Iowa. We acknowledge the invaluable contributions of the coaches, ath-letic trainers, and student-athletes who were involved in this project.
+REFERENCES
+ 1. Fuller CW, Ekstrand J, Junge A, et al. Consensus statement on injury 
+definitions and data collection procedures in studies of football (soccer) injuries. Clin J Sport Med. 2006;16(2):97–106.
+ 2. Fuller CW, Molloy MG, Bagate C, et al. Consensus statement on injury definitions and data collection procedures for studies of injuries in rugby union. Br J Sports Med. 2007;41(5):328–331.
+ 3. Wilder RP, Sethi S. Overuse injuries: tendinopathies, stress fractures, com-partment syndrome, and shin splints. Clin Sports Med. 2004;23(1):55–81.
+ 4. Bahr R, Reeser JC; Fédération Internationale de V olleyball. Injuries among world-class professional beach volleyball players: The Fédération Inter -
+nationale de V olleyball beach volleyball injury study. Am J Sports Med. 
+2003;31(1):119–125.
+ 5. Hootman JM, Dick R, Agel J. Epidemiology of collegiate injuries for 15 sports: summary and recommendations for injury prevention initiatives. J 
+Athl Train. 2007;42(2):311–319.
+ 6. Dick R, Ferrara MS, Agel J, et al. Descriptive epidemiology of colle -
+giate men’s football injuries: National Collegiate Athletic Association In-jury Surveillance System, 1988–1989 through 2003–2004. J Athl Train. 2007;42(2):221–233.
+ 7. Ristolainen L, Heinonen A, Turunen H, et al. Type of sport is related to 
+injury profile: a study on cross country skiers, swimmers, long-distance runners and soccer players. A retrospective 12-month study. Scand J Med Sci Sports. 2010;20(3):384–393.
+ 8. Schuer ML, Dietrich MS. Psychological effects of chronic injury in elite athletes. West J Med. 1997;166(2):104–109. 9. Smoljanovic T, Bojanic I, Hannafin JA, Hren D, Delimar D, Pecina M. Traumatic and overuse injuries among international elite junior rowers. Am J Sports Med. 2009;37(6):1193–1199.
+ 10. Gosheger G, Liem D, Ludwig K, Greshake O, Winkelmann W. Injuries 
+and overuse syndromes in golf. Am J Sports Med. 2003;31(3):438–443.
+ 11. Reeser JC, Verhagen E, Briner WW, Askeland TI, Bahr R. Strategies for the prevention of volleyball related injuries. Br J Sports Med. 2006;40(7):594–600.
+ 12. Bahr R. No injuries, but plenty of pain? On the methodology for recording 
+overuse symptoms in sports. Br J Sports Med. 2009;43(13):966–972.
+ 13. Devan MR, Pescatello LS, Faghri P, Anderson J. A prospective study of 
+overuse knee injuries among female athletes with muscle imbalances and structural abnormalities. J Athl Train. 2004;39(3):263–267.
+ 14. Dick R, Hertel J, Agel J, Grossman J, Marshall SW. Descriptive epidemi -
+ology of collegiate men’s basketball injuries: National Collegiate Athletic 
+Association Injury Surveillance System, 1988–1989 through 2003–2004. J Athl Train. 2007;42(2):194–201.
+ 15. Gam A, Goldstein L, Karmon Y , et al. Comparison of stress fractures of 
+male and female recruits during basic training in the Israeli anti-aircraft 
+forces. Mil Med. 2005;170(8):710–712.
+ 16. van Mechelen W, Hlobil H, Kemper HC. Incidence, severity, aetiology 
+and prevention of sports injuries: a review of concepts. Sports Med. 1992;14(2):82–99.
+ 17. Albright JP, Powell JW, Martindale A, et al. Injury patterns in Big Ten 
+Conference football. Am J Sports Med. 2004;32(6):1394–1404.
+ 18. Yang J, Marshall SW, Bowling JM, Runyan CW, Mueller FO, Lewis MA. 
+Use of discretionary protective equipment and rate of lower extremity injury in high school athletes. Am J Epidemiol. 2005;161(6):511–519.
+ 19. SAS Version 9.00 [instruction manual]. Cary, NC: SAS Institute; 2002.
+ 20. Dick R, Putukian M, Agel J, Evans TA, Marshall SW. Descriptive epidemi -
+ology of collegiate women’s soccer injuries: National Collegiate Athletic 
+Association Injury Surveillance System, 1988–1989 through 2002–2003. J Athl Train. 2007;42(2):278–285.
+ 21. Reinking MF, Hayes AM. Intrinsic factors associated with exercise-
+related leg pain in collegiate cross-country runners. Clin J Sport Med. 2006;16(1):10–14.
+ 22. Phillips LH. Sports injury incidence. Br J Sports Med. 2000;34(2):133–
+136.
+ 23. Brooks JH, Fuller CW. The influence of methodological issues on the 
+results and conclusions from epidemiological studies of sports injuries: illustrative examples. Sports Med. 2006;36(6):459–472.
+ 24. Hewett TE, Lindenfeld TN, Riccobene JV , Noyes FR. The effect of neu-
+romuscular training on the incidence of knee injury in female athletes: a 
+prospective study. Am J Sports Med. 1999;27(6):699–706.
+ 25. Junge A, Engebretsen L, Mountjoy ML, et al. Sports injuries during the Summer Olympic Games 2008. Am J Sports Med. 2009;37(11):2165–2172.
+Address correspondence to Jingzhen Yang, PhD, MPH, The Department of Community and Behavioral Health, University of 
+Iowa, 200 Hawkins Drive, E236 GH, Iowa City, IA 52242. Address e-mail to jingzhen-yang@uiowa.edu.Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/198/1455074/1062-6050-47_2_198.pdf by guest on 12 August 2024
+

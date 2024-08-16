@@ -1,0 +1,312 @@
+The International Journal of Sports Physical Therapy | Volume 10, Number 7 | December 2015 | Page 1026ABSTRACT
+Background:  Professional swimmers are often affected by a high number of injuries due to their large amount of 
+training. The occurrence of musculoskeletal pain during an important tournament has not been investigated.
+Objective:  The objective of the study was to assess the prevalence of musculoskeletal pain and its characteristics in 
+professional swimmers. Secondary objectives included evaluating the swimmers’ injury history over the previous 12 months, and examining the association of the presence of pain with personal and training characteristics of the swimmers.
+Design:  Observational, cross-sectional study
+Method:  T wo-hundred and fifty-seven swimmers who participated in the Brazilian Swimming Championship were 
+included in the study and answered a questionnaire about personal and training characteristics, presence of pain, and injuries in the previous 12 months. The relative risk of presence of pain was calculated for the following variables: gender, BMI, stroke specialty, swimmer’s position, strength training, practice of another physical activity, and previ-ous injuries. 
+Results:  The prevalence of musculoskeletal pain was about 20%, with 60% of swimmers reporting at least one injury 
+in the previous 12 months. The shoulder was the most commonly affected region and tendinopathy was the most common type of previous injury. No significant relationships were found between the presence of pain and personal or training characteristics.
+Conclusions:  The results demonstrated that the prevalence of musculoskeletal pain in professional swimmers par-
+ticipating in the most important Brazilian national tournament was approximately 20%, while the majority of partici-pants reported previous injuries in many areas.
+Level of Evidence: 2c
+Keywords:  Aquatic sports, epidemiologic studies, injuries, swimmingIJSPTORIGINAL RESEARCH
+PREVALENCE OF MUSCULOSKELETAL PAIN AMONG 
+SWIMMERS IN AN ELITE NATIONAL TOURNAMENT
+Matheus Oliveira de Almeida, PT, PhD1
+Luiz Carlos Hespanhol, Junior PT, MS1
+Alexandre Dias Lopes, PT, PhD1
+1 Master’s and Doctoral Program in Physiotherapy, 
+Universidade Cidade de São Paulo (UNICID), São Paulo, BrazilCORRESPONDING AUTHOR
+Matheus Oliveira de Almeida Universidade Cidade de São Paulo, Rua Cesário Galeno 448T atuapé, São Paulo – SP , CEP 03071-000, Brazil, E-mail: mathewsalmeida@hotmail.com
+The International Journal of Sports Physical Therapy | Volume 10, Number 7 | December 2015 | Page 1027INTRODUCTION
+Swimming is broadly practiced around the world and 
+people of all ages participate. The participants in this sport look for wellness and prevention of systemic dis-eases, principally in the cardiorespiratory system.
+1 How-
+ever, the high exposure to practice of swimming may be a risk for the integrity of musculoskeletal system.
+2 The 
+number of musculoskeletal injuries related to swimming may be an important consideration, mainly among pro-fessional swimmers, because they are more exposed by their amount of training compared to amateur swim-mers.
+2-5 Professional swimmers can swim around 10 to 
+14 kilometres a day, depending on stroke specialty and whether they are sprinters or distance swimmers.
+6 In 
+the United States, it is estimated that in the last 25 years a total of 42000 swimmers competed at the elite level of the National Collegiate Athletic Association (NCAA).
+7 In 
+the Federation Internationale de Natation (FINA) World Championship (2009), a total of 2592 athletes from 172 countries participated in the event.
+8
+Despite the apparently high injury rates in swimming, few epidemiologic studies are found in the literature. Available studies usually evaluate injuries in specific joints, particularly the shoulder complex, specific stroke specialties, or injuries related to the biomechan-ics of the sport.
+6,9-14 Information about injuries in swim-
+mer who participate in elite tournaments is scarce. 8,13,15 
+Until now, to the authors knowledge, no studies have 
+investigated the presence of musculoskeletal pain in swimmers competing in a large national tournament. Thus, the objective of the present study was to assess the prevalence of musculoskeletal pain and its char-acteristics in professional swimmers that participated from Brazilian Swimming Championship. Secondary objectives included evaluating the swimmers’ injury history over the previous 12 months, and to examining the association of the presence of pain with personal and training characteristics of the swimmers.
+METHODS
+This cross-sectional study utilized swimmers who par-ticipated in the Brazilian Swimming Championship (39
+th Troféu José Finkel Edition, 2010) that occured 
+in a short course pool (25 meters). The participants could only participate of the event if they achieved a qualifying time established by the Brazilian Aquatic Sports Federation. All 430 swimmers participants in the event were invited to participate in the study. If 
+the participants accepted, they signed the consent form in accordance with the study’s requirements and were included in the study.
+A questionnaire was developed, in which participants 
+were asked about: 1) personal characteristics (age, gender, weight, height and swimming experience); 2) training routine (weekly distance training, stroke spe-cialty, athlete’s position, practice of another physical activity, and strength training); 3) presence of current musculoskeletal pain, pain characteristics, pain ana-tomic region, situation that caused the pain (practice or competition); and 4) injury history over the previ-ous 12 months, with details regarding the respective situation, type, and region of injury. The following operational definition of injury used was: any muscu-loskeletal disorder related to swimming in previous 12 months, severe enough for the swimmer to seek med-ical attention or to prevent the swimmer from per-forming at least one training session or competition.
+16
+The swimmer’s position was defined as sprinter (if they typically competed in races of 200 metres or less) or distance (if they typically competed in races of greater than 200 metres). The swimmer’s stroke spe-cialty was classified according to the races they com-peted in (freestyle, backstroke, breaststroke, butterfly, and medley) and participants must to choose only one stroke specialty of his preference. Regarding presence of pain, athletes were asked if they were suffering any current pain of musculoskeletal origin, as well as the pain characteristics. T o better identify the type and anatomic region of pain and previous injuries, a pre-defined list used by previous studies was adopted.
+17-19 
+This study was approved by the Ethics Committee 
+of the University of the City of São Paulo and also received approval from the Medical Department of the Brazilian Aquatic Sports Federation in accor-dance with the Helsinki Declaration of 1975 and the guidelines of Harris and Atkinson.
+20 All participating 
+athletes signed the consent form in accordance with the study’s requirements.
+Statistical Analysis
+The description of participants’ personal and training characteristics was descriptively analyzed using fre-quency distribution and percentages for categorical data (gender, body mass index [BMI], stroke specialty, 
+The International Journal of Sports Physical Therapy | Volume 10, Number 7 | December 2015 | Page 1028swimmer’s position, strength training, and previous 
+injuries). Swimmers were categorized as freestyle or non-freestyle, and more than half of the participants had freestyle as their stroke specialty. Continuous data (age, height, weight, swimming experience, and weekly distance) were reported in mean and stan-dard deviation, since all data presented in a normal distribution. Normality evaluation of continuous data was done through a curve symmetry analysis.
+For categorical data comparison, the Chi-squared 
+T est was utilized. For continuous data comparison, the Students t-test for independent samples was used. The relative risk of presence of pain was also calculated for the following variables: gender, BMI, 
+stroke specialty, swimmer’s position, strength train-ing, practice of another physical activity (another modality besides the swimming), and previous inju-ries. For all analyses, a 95% significance level was regarded as statistically significant and the analyses were performed using SPSS 17.0.
+RESULTS
+T wo hundred and fifty-seven (59.8%) swimmers accepted the invitation to participate in the study and completed the questionnaire. The description of swimmers’ personal and training characteristics are presented in T able 1.
+Table 1. Characteristics of swimmers included in the study
+Total (n= 257) Male (n = 140) Female (n = 117) 
+Age (years) 20.1 (3.8) 20.6 (3.7) 19.4 (3.9) 
+Height (cm) 176.2 (14.4) 181.5 (16.8) 169.9 (6.9) 
+Weight (kg) 70.4 (12) 77.7 (9.9) 61.6 (7.7) 
+BMI 
+≤ 25 92.6% (238) 88.5% (123) 98.3% (115) 
+)2(%7.1 )61(%5.11 )91(%4.7 52>
+Swimming experience (years) 13.2 (4.7) 13.6 (4.7) 12.6 (4.8) 
+Stroke specialty 
+     Freestyle 41.6% (107) 40% (56) 43.6% (51) 
+     Backstroke 18.3% (47) 16.4% (23) 20.5% (24) 
+     Breaststroke 15.6% (40) 18.6% (26) 12% (14) 
+     Butterfly 13.2% (34) 13.6% (19) 12.8% (15) 
+     Medley 11.3% (29) 11.4% (16) 11.1% (13) 
+Position 
+     Distance 32.7% (84) 33.6% (47) 31.6% (37) 
+     Sprinter 67.3% (173) 66.4% (93) 68.4% (80) 
+Week distance (km) 57.1 (29.9) 59.7 (32.5) 53.9 (26.4) 
+Strength training 
+     Yes 93.4% (239) 94.3% (132) 91.5% (107) 
+)01(%5.8 )8(%7.5 )81(%6.6 oN
+Another physical activity 
+)91(%2.61 )32(%4.61 )24(%3.61 seY
+     No 83.7% (215) 83.6% (117) 83.8% (98) 
+Continuous data are expressed in mean and standard deviation, and categorical data are expressed in 
+percentage and number of participants. 
+The International Journal of Sports Physical Therapy | Volume 10, Number 7 | December 2015 | Page 1029The prevalence of musculoskeletal pain among 257 
+swimmer participants was 21% (n=54). The pain was most frequent during swimming practice but without performance limitation or after swimming. Around 70% of athletes reported that the pain was derived from training sessions. The anatomic region most commonly affected by pain was the shoulder, followed by the low back. Additional information about pain characteristics reported by the swimmers is provided in T able 2.A total of 144 swimmers (56%) reported previous 
+musculoskeletal injuries in the previous 12 months. T able 3 shows a description of previous injuries’ characteristics. Around 60% of previous injuries affected the upper extremities, and the shoulder was the anatomic region most commonly affected in both genders (males, 41.4%; females, 48%). The sec-ond region most affected by previous injuries was the knee and tendinopathy was the most common type of knee injury most reported by swimmers.
+Table 2. Prevalence and description of current pain reported by the swimmers
+Total  Males Females 
+Presence of pain (n=257) 
+)52(%4.12 )92(%7.02 )45(%12 seY
+     No 79% (203) 79.3% (111) 78.6% (92) 
+Pain situation (n=54) 
+     Training 68.5% (37) 62.1% (18) 72% (19) 
+%5.13 noititepmoC (17) 37.9% (11) 28% (6) 
+Pain characteristics (n=54) 
+     Continuous 3.7% (2) - 8% (2) 
+     With performance limitation* 22.2% (12) 24.1% (7) 20% (5) 
+     Without performance limitation#37% (20) 37.9% (11) 36% (9) 
+     After competition/training 29.7% (16) 31% (9) 28% (7) 
+     Only during warm-up 3.7% (2) 3.5% (1) 4% (1) 
+     Not reported 3.7% (2) 3.5% (1) 4% (1) 
+)45=n(noigerniaP
+     Neck/Cervical 7.8% (4) 6.9% (2) 8% (2) 
+)21(%84 )21(%4.14 )42(%4.44 redluohS
+     Elbow/wrist/hand/finger 7.8% (4) 13.8% (4) - 
+)2(%8 )3(%4.01 )5(%3.9 hgihT/piH
+     Knee 5.5% (3) 3.4% (1) 8% (2) 
+- )1(%4.3 )1(%8.1 tooF/elknA
+     Low back 16.7% (9) 17.3% (5) 16% (4) 
+)3(%21 )1(%4.3 )4(%8.7 srehtO
+*Pain during competition/practice, with performance limitation. 
+#Pain during competition/practice, without performance limitation. 
+The International Journal of Sports Physical Therapy | Volume 10, Number 7 | December 2015 | Page 1030The comparison of continuous variables between 
+swimmers with pain and without pain is shown in T able 4. It should be noted that there were no statis-tically significant differences for any of the variables between swimmers with and without pain. 
+With regard to relative risk for musculoskeletal pain, 
+note that the relative risk values were not statisti-cally different among groups for any of the variables (T able 5). DISCUSSION
+The results of the present cross-sectional study demonstrated that approximately 20% of swimmers reported musculoskeletal pain during the Brazilian Swimming Championship (39
+th Troféu José Finkel 
+Edition, 2010). Around 60% of participants reported previous injuries. T endinopathy was the most com-mon type of previous injury and the shoulder the most affected anatomic region in both males and females. When analysing the relative risk of pres-Table 3. Prevalence and description of previous injuries in last 12 months in swimmers
+selameF selaM latoT
+Previous injury (within 12 months) (n=257) 
+)36(%8.35 )18(%9.75 )441(%65 seY
+     No 44% (113) 42.1% (59) 46.2% (54) 
+Injury situation  
+     Practice 91% (131) 90.1% (73) 92.1% (58) 
+)5(%9.7 )8(%9.9 )31(%9 noititepmoC
+Type of injury
+)72(%9.26 )43(%7.55 )16(%7.85 yhtaponidneT
+     Muscular lesion 7.7% (8) 9.8% (6) 4.6% (2) 
+- )4(%7.6 )4(%8.3 noitacolsiD
+     Arthritis/Synovitis/Bursitis 3.8% (4) 1.6% (1) 7% (3) 
+     Ligamentar rupture 2.9% (3) 1.6% (1) 4.6% (2) 
+     Meniscal/Cartilage 6.7% (7) 8.2% (5) 4.6% (2) 
+)2(%6.4 - )2(%9.1 niarpS
+     Others 14.5% (15) 16.4% (10) 11.7% (5) 
+noigeryrujnI
+     Neck/Cervical 6.2% (9) 6.2% (5) 6.3% (4) 
+)62(%3.14 )14(%6.05 )76(%5.64 redluohS
+     Elbow/Wrist/Hand/Finger 2.8% (4) 1.2% (1) 4.8% (3) 
+)4(%3.6 )2(%5.2 )6(%2.4 hgihT/piH
+     Knee 16% (23) 14.8% (12) 17.5% (11) 
+)2(%2.3 )1(%2.1 )3(%1.2 geL
+     Ankle/Foot 4.9% (7) 2.5% (2) 7.9% (5) 
+- )9(%1.11 )9(%2.6 kcabwoL
+     Others 11.1% (16) 9.9% (8) 12.7% (8) 
+The International Journal of Sports Physical Therapy | Volume 10, Number 7 | December 2015 | Page 1031Table 4. Comparisons of between swimmers with and without pain
+ Without pain With pain p-value 
+Age (years) 19.9 (3.8) 20.1 (4) 0.09 
+Height (cm) 176.8 (9.3) 177.2 (9.6) 0.69 
+Weight (kg) 70.6 (11.1) 70.9 (11.7) 0.79 
+Swimming experience (years) 13 (4.7) 13.8 (4.8) 0.17 
+Week distance (km) 57.8 (31.1) 54.2 (25.3) 0.61 
+Data are expressed in mean and standard deviation. Co mparisons were conducted with the Student-t Test for 
+independent samples 
+Table 5. Comparison of categorical data between swimmers with and without pain
+Without pain With pain p-
+value RR (CI) 
+Gender 0.9 
+     Male 79.3 (111) 20.7 (29)  1 
+     Female 78.6 (92) 21.4 (25) 1.03 (0.64 – 1.66) 
+BMI   0.94  
+≤ 25 77.7(185) 22.3 (53) 1 
+     > 25 94.4 (17) 5.6 (1)  0.25 (0.04 – 1.70) 
+Stroke specialty - - 0.88 
+     Freestyle 79.4 (85) 20.6 (22)  1 
+     Non-Freestyle 78.7 (118) 21.3 (32) 1.11 (0.68 – 1.79) 
+Position   0.23  
+     Distance 83.3 (70) 16.7 (14) 1 
+     Sprinter 76.9 (133) 23 .1 (40)  1.38 (0.80 – 2.40) 
+Strength training 0.14 
+     No 64.7 (11) 35.3 (6)  1.65 (0.82 – 3.44) 
+     Yes 79.9 (191) 20.1 (48) 1 
+Another physical activity   0.61  
+     No 79.7 (169) 20.3 (44) 1 
+     Yes 76.2 (32) 23.8 (10)  1.17 (0.64 – 2.15) 
+Previous injury 0.25 
+     No 82.3 (93) 17.7 (20)  1 
+     Yes 76.4 (110) 23.6 (34) 1.33 (0.81 – 2.19) 
+Data are expressed in percentage and number of swimmers. The p-value were obtained using the Chi-
+squared Test.  RR = relative risk, CI = confidence interval
+The International Journal of Sports Physical Therapy | Volume 10, Number 7 | December 2015 | Page 1032ence of pain for personal and training characteristics, 
+it should be noted that there were no statistically sig-nificant differences for any of the variables between those who had pain and those who did not.
+This is first study that has investigated and described 
+a 20% prevalence of musculoskeletal pain in pro-fessional swimmer participants in a large Brazil-ian national tournament. Several previous authors have also evaluated professional swimmers, but with a longitudinal prospective design.
+8,15,21 Wolf et 
+al21 reported an injury incidence of four injuries per 
+1,000 exposures in swimmers from the National Col-legiate Athletic Association (NCAA) team followed during five seasons, while Chase et al
+15 found an 
+incidence of 5.5 per 1,000 hours exposure in swim-mers also from the NCAA. Mountjoy et al
+8 evaluated 
+the occurrence of new injuries sustained during the World Swimming Championship, and their inci-dence was 66 injuries per 1,000 athletes.
+The present study also evaluated the rate of injuries 
+in the previous 12 months, and 144 (56%) swimmers reported at least one musculoskeletal injury within the previous 12 months. This injury rate is similar to the results of Aguiar et al,
+22 which, despite the use 
+of a different definition of injury, found an injury rate in the previous 12 months of 56.3% in swimmer participants in minor national tournaments. This similar result can be explained by the characteristics that are alike in both studies, such as age, swimming experience, and BMI.
+The shoulder was the anatomic region most com-
+monly affected by both musculoskeletal pain at the time of the survey, and by previous injuries (within 12 months) in swimmers in this study. Despite the different ways of monitoring swimmers in their stud-ies, as in a longitudinal prospective way of evaluat-ing new injuries,
+8,15,21,23 or only the previous injuries,22 
+these previous authors also cited the shoulder as the region most affected by swimming injuries. This find-ing was expected, as the shoulder is responsible for around 90% of propulsive power in swimmers.
+6 When 
+this is associated with the training overloads to which professional athletes are exposed, then this makes the shoulder a region very susceptible to overuse injuries. 
+The type of previous injuries most reported by 
+swimmers was tendinopathy, similar to the findings in Aguiar et al.
+22 T endinopathy is usually related to 
+excessive loads imposed by sports activities and is characterized as an overuse injury.
+24 The tendon, 
+when exposed to repetitive harmful movements, exceeds its physiologic limit, causing the rupture of collagen fibers and tendon degeneration.
+25 Overuse 
+injuries were also the most frequent in the studies by Kerr et al,
+23 Mountjoy et al8 and Chase et al,15 indi-
+cating that as in other sports,17,26,27 such as athletics 
+and running, these type of injuries occur most fre-quently as in swimming. Future studies about pre-ventive measures in swimming should attempt to overuse injuries, specially the tendinopathies, and how the amount of exposure by the athletes could be related to these injuries.
+One hypothesis of this study was that variables, such 
+as swimming experience, weekly distance, stroke specialty, swimmer’s position, and previous injuries, could be associated with the presence of musculo-skeletal pain in the swimmers. However, there were no statistically significant differences found between swimmers with pain and without pain for any of these variables. Previous authors have reported some factors associated with injuries. For instance, Aguiar et al
+22 reported that age and swimming experience 
+were associated with previous injuries in swimmers in minor national tournaments. Wolf et al
+21 and Chase 
+et al15, in prospective studies, noted the association 
+between occurrence of new injuries with backstroke specialty and previous injuries, respectively. These different findings from the present study may be explained by the use of different injury definitions utilized by each study. Another explanation is that sports injuries usually are characterized by a multi-factorial causes, maybe the questions included in the current study’s questionnaire were not sufficient to detect possible differences between swimmers with pain and without pain.
+As a limitation of the present study, one swimming 
+team that had a large number of participants in the tournament refused to participate in the study, explaining why the study had 59.8% of attendance from the swimmers participants in the champion-ship. Another limitation is the use of a questionnaire about previous injuries and swimming distance, since the participants could underreport both infor-mation, explaining why the present study did not 
+The International Journal of Sports Physical Therapy | Volume 10, Number 7 | December 2015 | Page 1033 9. T ate A, T urner GN, Knab SE, Jorgensen C, 
+Strittmatter A, Michener LA. Risk factors associated with shoulder pain and disability across the lifespan of competitive swimmers. J Athl Train. 
+2012;47(2):149-158.
+ 10. Weldon EJ, 3rd, Richardson AB. Upper extremity 
+overuse injuries in swimming. A discussion of swimmer’s shoulder. Clin Sport Med.  2001;20(3):423-
+438.
+ 11. Vizsolyi P , T aunton J, Robertson G, et al. 
+Breaststroker’s knee. An analysis of epidemiological and biomechanical factors. Am J Sport Med.  
+1987;15(1):63-71.
+ 12. Keskinen K, Eriksson E, Komi P . Breaststroke 
+swimmer’s knee. A biomechanical and arthroscopic study. Am J Sport Med. 1980;8(4):228-231.
+ 13. Walker H, Gabbe B, Wajswelner H, Blanch P , Bennell 
+K. Shoulder pain in swimmers: a 12-month prospective cohort study of incidence and risk factors. Phys Ther Sport. 2012;13(4):243-249.
+ 14. Butler D, Funk L, Mackenzie TA, Herrington LC. 
+Sorting swimmers shoulders: An observational study on swimmers that presented to a shoulder surgeon. Int J Should Surg. 2015;9(3):90-93.
+ 15. Chase KI, Caine DJ, Goodwin BJ, Whitehead JR, 
+Romanick MA. A prospective study of injury affecting competitive collegiate swimmers. Res Sports 
+Med. 2013;21(2):111-123.
+ 16. Fuller CW, Ekstrand J, Junge A, et al. Consensus 
+statement on injury deﬁ  nitions and data collection 
+procedures in studies of football (soccer) injuries. Br 
+J Sport Med. Mar 2006;40(3):193-201.
+ 17. Alonso JM, Tscholl PM, Engebretsen L, Mountjoy M, 
+Dvorak J, Junge A. Occurrence of injuries and illnesses during the 2009 IAAF World Athletics Championships. Br J Sport Med.  2010;44(15):1100-
+1105.
+ 18. Alonso JM, Junge A, Renstrom P , Engebretsen L, 
+Mountjoy M, Dvorak J. Sports injuries surveillance during the 2007 IAAF World Athletics Championships. Clin J Sport Med.  2009;19(1):26-32.
+ 19. Junge A, Engebretsen L, Mountjoy ML, et al. Sports 
+injuries during the Summer Olympic Games 2008. Am J Sport Med. 2009;37(11):2165-2172.
+ 20. Harriss DJ, Atkinson G. Update--Ethical standards in 
+sport and exercise science research. Int J Sport Med.  
+2011;32(11):819-821.
+ 21. Wolf BR, Ebinger AE, Lawler MP , Britton CL. Injury 
+patterns in Division I collegiate swimming. Am J 
+Sport Med. 2009;37(10):2037-2042.
+ 22. Aguiar P , Bastos F , Júnior J, Vanderlei L, Pastre C. 
+Lesões Desportivas na Natação. Rev Bras Med 
+Esporte. 2010;16(4):273-277.find association between presence of pain and previ-
+ous injuries or swimming distance. Despite limiting the questioning to injuries sustained in the last 12 months, it is not possible to discard the recall bias, since a previous study
+28 demonstrated that when a 
+retrospective injury registration is used, participants can forget to record previous injuries and injury rate could be underestimated. 
+CONCLUSION
+The results of the current study demonstrated that the prevalence of musculoskeletal pain in profes-sional swimmer participants in the most impor-tant Brazilian national tournament was 20%, while around 60% of participants reported previous inju-ries. These results indicate that a substantial prob-lem exists involving elite swimmers and further studies should address preventive measures through randomized controlled trials. Because overuse inju-ries of the shoulder were most common, attention to preventive measures should be given to these types of injuries, especially tendinopathies of the shoulder.
+REFERENCES
+ 1. T anaka H. Swimming exercise: impact of aquatic 
+exercise on cardiovascular health. Sports Med. 
+2009;39(5):377-387.
+ 2. Richardson AB. Injuries in competitive swimming. 
+Clin Sport Med. 1999;18(2):287-291, v-vi.
+ 3. Johnson JN. Competitive swimming illness and 
+injury: common conditions limiting participation. Curr Sport Med Rep. 2003;2(5):267-271.
+ 4. Wanivenhaus F , Fox AJ, Chaudhury S, Rodeo SA. 
+Epidemiology of injuries and prevention strategies in competitive swimmers. Sports Health. 
+2012;4(3):246-251.
+ 5. Hill L, Collins M, Posthumus M. Risk factors for 
+shoulder pain and injury in swimmers: A critical systematic review. Phys Sportsmedicine. 2015:
+1-9.
+ 6. Pink M, Tibone J. The painful shoulder in the 
+swimming athlete. Orthop Clin North Am. 
+2000;31(2):247-261.
+ 7. McMaster WC, Troup J. A survey of interfering 
+shoulder pain in United States competitive swimmers. Am J Sport Med. 1993;21(1):67-70.
+ 8. Mountjoy M, Junge A, Alonso JM, et al. Sports 
+injuries and illnesses in the 2009 FINA World Championships (Aquatics). Br J Sport Med. 
+2010;44(7):522-527.
+The International Journal of Sports Physical Therapy | Volume 10, Number 7 | December 2015 | Page 1034Musculoskeletal Injuries?: A Systematic Review. 
+Sports Med. 2012;42(10):891-905.
+27.  Lian OB, Engebretsen L, Bahr R. Prevalence of 
+jumper’s knee among elite athletes from different sports: a cross-sectional study. Am J Sport Med.  
+2005;33(4):561-567.
+28.  T wellaar M, Verstappen FT, Huson A. Is prevention 
+of sports injuries a realistic goal? A four-year prospective investigation of sports injuries among physical education students. Am J Sport Med. 
+1996;24(4):528-534.23.  Kerr ZY, Baugh CM, Hibberd EE, Snook EM, Hayden 
+R, Dompier TP . Epidemiology of National Collegiate Athletic Association men’s and women’s swimming and diving injuries from 2009/2010 to 2013/2014. Br 
+J Sport Med. 2015;49(7):465-471.
+24.  Rees JD, Wilson AM, Wolman RL. Current concepts 
+in the management of tendon disorders. Rheumatol. 
+2006;45(5):508-521.
+25.  Knobloch K. The role of tendon microcirculation in 
+Achilles and patellar tendinopathy. J Orthop Surg Res. 
+2008;3:18.
+26.  Lopes AD, Hespanhol Junior LC, Yeung SS, Costa 
+LO. What are the Main Running-Related 

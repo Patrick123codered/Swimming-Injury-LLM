@@ -1,0 +1,1797 @@
+The relationship between training load and pain, injury and illness in
+The relationship between training load and pain, injury and illness in
+competitive swimming: A systematic review
+competitive swimming: A systematic review
+Lorna Barry, MARK LYONS, KAREN MC GRATH, Cormac Powell, Thomas M. Comyns
+Publication date
+Publication date
+01-01-2021
+Published in
+Published in
+Physical Therapy in Sport;48, pp. 154-168
+Licence
+Licence
+This work is made available under the 
+CC BY-NC-SA 1.0
+ licence and should only be used in accordance with
+that licence. For more information on the specific terms, consult the repository record for this item.
+Document Version
+Document Version
+1
+Citation for this work (HarvardUL)
+Citation for this work (HarvardUL)
+Barry, L., LYONS, M., MC GRATH, K., Powell, C.and Comyns, T.M. (2021) ‘The relationship between training
+load and pain, injury and illness in competitive swimming: A systematic review’, available:
+https://hdl.handle.net/10344/9787 [accessed 30 Sep 2022].
+This work was downloaded from the University of Limerick research repository.
+For more information on this work, the University of Limerick research repository or to report an issue, you can
+contact the repository administrators at 
+ir@ul.ie
+. If you feel that this work breaches copyright, please provide
+details and we will remove access to the work immediately while we investigate your claim.
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 1 Title : The Relationship Between Training Load and Pain, Injury and Illness in Competitive Swimming: A 
+Systematic Review  
+ 
+Running Title:  Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 
+Authors:  Lorna Barry1,3,4, Mark Lyons1, Karen McCreesh2,4, Cormac Powell3,5, Tom Comyns1,4 
+ 
+Affiliations:   
+1Department of Physical Education and Sport Sciences, University of Limerick, Limerick, Ireland . 
+2School of Allied Health, University of Limerick, Limerick, Ireland . 
+3Performance Department, Swim  Ireland, Sport HQ, Dublin, Ireland.  
+4Health Research Institute, University of Limerick, Limerick, Ireland  
+5Physical Activity for Health Cluster, Health Research Institute, University of Limerick, Limerick, Ireland  
+ 
+ 
+Corresponding Author:  
+Lorna Barry,  
+Department of Physical Education and Sport Sciences,  
+University of Limerick,  
+Limerick,  
+Ireland.  
+Email: lorna.a.barry@ul.ie  
+ 
+ 
+Acknowledgements : The authors would like to acknowledge and thank Liz Dore, (Librarian  for the Faculty of 
+Education and Health Sciences , University of Limerick)  for her help in developing the search strategy.  
+ 
+  
+  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 2 ABSTRACT  
+Background: Research suggests that the f requency of training, combined with the repetitive motion involved in 
+high volume swimming can predispos e swimmers to symptoms of over -training. The prevention of pain, injury 
+and illness  is of paramount importance in  competitive swimming  in order to maximise a swimmer’s  ability to 
+train and perform consistently. A significant factor in the prevention of pain, injury or illness is the appropriate 
+load monitoring  and management  practices within a  training programme.  
+Objective: The purpose of this systematic review is to investigate the relationship  between  training load and pain, 
+injury or i llness in competitive swimmers.  
+Methods: The databases SPORTDiscus, CI NAHL, Scopus, MEDLINE and Embase were  searched in accordance 
+with PRISMA guidelines. Studies were included if they report ed on competitive swimmers and analyse d the link 
+between training load and either pain,  injury or illness . The methodological quality and study bias was assessed 
+using the Joanna Briggs Institute Critical Appraisal Checklist .   
+Results: The s earch retrieved 1,959 articl es, 15 of which were  included for review. The critical appraisal process  
+indicated study quality was poor overall . Pain was the most explored condition (N=12), with injury (N=2) and 
+illness (N=1) making up the remain ing articles . There was no evidence of an association  between training load 
+and pain , while t here may be  some evidence to  suggest a relationship between training load and injury or illness.   
+Conclusions : The relationship between training load and pain, injury or illness is unclear owing to a host of 
+methodological constraints . The review highlight ed that youth, master ’s and competitive swimmers of a lower 
+ability  (e.g. club versus international)  may need particular consideration  when planning training loads . Winter 
+periods, higher intensity  sessions  and speed elements may also need to be programmed with care. Monitoring  
+practices need to be developed in conjunction with consensus guidelines, with the inclusion of internal training 
+loads being a priority.  Future research  should focus on longitudinal prospective studies , utili sing the session  
+Rating of Perceived Exertion  (sRPE) monitoring method and investigating the applicability  of Acute/Chronic 
+Workload Ratio  (ACWR)  and exponentially weighted moving  average  (EWMA) .  Improved methods  and study 
+design  will provide further clarity on the relationship between load and pain, injury, and illness.  
+ 
+Keywords; Internal Load; External Load;  Surveillance; Monitoring ; Elite Swimmer  
+ 
+ 
+ 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 3 1. BACKGROUND  
+ 
+Aquatic sports were  one of the original sports in the modern Olympic Games , and have since grown to  have the 
+second highest athlete participation , with 900 competitive swimmers participating at the 2016 Rio Olympic  Games  
+(Rio 2016 - Swimming | FINA.Org - Official FINA Website , n.d.) . In competitive swimmers, injury prevalence 
+ranges from 32.2% to 74.6%, with the shoulder accounting for a large proportion of injuries, followed by knee 
+and lower back  injuries  (Toomey et al., 2018) . The incidence of overuse injuries (1.48) surpass  that of acute 
+injuries (1.10), when adjusted per 1000 exposure hours  in competitive swimmers  (Ristolainen et al., 2010) . 
+Despite 81% of Olympic swimming e vents being contested in under two minutes and twenty seconds, the 
+traditional training practices of competitive swimmers are high in  volume (F. Nugent et al., 2019) . The extensive 
+nature of training means there is a significantly higher incidence of injury in training than in competition (Soligard 
+et al., 2017) . An abundance of research suggests that the high frequency of training (Weldon & Richardson, 2001) , 
+as well as the repetitive motion (Pink & Tibone, 2000)  can predispose swimmers to symptoms  of overtraining 
+(Khodaee et al., 2016) . Overtraining is defined as the accumulation of training or non -training stress resulting i n 
+a long term decrement in performance capacity  (Lehmann et al., 1999) . Overtraining can often have  related  
+physiological  signs and symptoms of  prolonged  maladaptation  (Meeusen et al., 2006) , leadin g to disturbances  in 
+the endocrine,  immune,  musculoskeletal  and neurologic  systems  (Myrick, 2015) .  
+ 
+Prevention of pain, injury and illness is of paramount importance within elite sport, not only to safeguard the long -
+term health of the athlete , but to maximi se their ability to train and perform without interruption (Palmer -Green 
+et al., 2013) . Finding a balance between trainin g load and recovery is crucial in the prevention of overtraining  
+(Kenttä & Hassmén, 1998) . To this end, the dose -response relationship needs to be monitored. While the respons e 
+aspect of this paradigm is more  easily  measured, the dose imposes more logistical challenges  (Lam bert & 
+Borresen, 2010) . The incidence of injury in swimming is seen as being low in comparison to other sports,  but the 
+prevalence of overuse injuries is high (Matsuura et al., 2019) . This further emphasises the importance of load 
+monitoring among elite swimmers (Pollock et al., 2019) , and also quantification of the training load in order to 
+identif y the effects of training (Mujika, 2017) . Training load can be divided into internal and external loads, with 
+external loads describ ing the quantification of work and internal loads describing the response to that work (Drew 
+& Finch, 2016) . In swimming, distance, time or speed are habitually used to monitor the external training load, 
+with heart rate typica lly used to monitor internal training load (García -Ramos et al., 2015) . A range of other 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 4 methods such as self -administered questionnaires, sport -specific performance test and blood screening have been  
+used as methods to reduce the risk of overtraining (Pollock et al., 2019) .  
+ 
+The links between various measures of training load and either pain, injury or illness has been examined across a 
+variety of sports (Eckard et al. , 2018; Johnston et al., 2019; Jones et al., 2017) . While training load, pain, injury 
+and illness have become key terms within sport science, a lack of consistency in their definitions has also arisen 
+(Jones et al ., 2017) . The rise to prominence of training load monitoring (Newton et al., 2019)  and injury 
+surveillance (Palmer -Green et al., 2013)  practices over the past decade  has seen a subsequent increase in the need 
+for consensus statements. Sports such as, cricket, football, rugby union, rugby league, tennis, athletics and horse 
+racing have all published epidemiological consensus statements in recent years (Roald Bahr et al., 2020) . Many 
+of these statements attempt to improve consistency in reporting guidelines to enable the comparison of 
+methodologies and findings.  A consensus stat ement from  Fédération Internationale de Natation ( FINA ) in 2016  
+(Mountjoy et al., 2016) , provided clari ty on the report ing of  injuries and illness in aquatic sports , but neglected to 
+address  the monitoring of training load within the sport  and its links with injury surveillance. In the same year, 
+Drew and Finch (Drew & Finch, 2016)  published a systematic review investigating the relationship between 
+training load, and injury, illness and soreness  in a broad range of sports . The review categorised injury and illness 
+into medical attention and time  loss definitions, while it also expanded into the area of overuse injuries. The term 
+soreness in this review was identified as the prevalence of symptoms irrespective of medical attention or time 
+loss. Including this term broadened the reviews focus to papers that may incorporate ‘athlete ’s self-reported  
+injury’ (soreness or pain)  as recommended by the Injury Definitions Concept Framework  (Drew & Finch, 2016; 
+Timpka et al., 2015) . The review  concluded that there is moderate evidence of a relationship between training and 
+competition load and the incidence of injury,  illness  and soreness . Their findings highlighted that training load 
+should be monitored, using sRPE to avoid acute spikes in load (Drew & Finch, 2016) . This review included 35 
+studies ; however, only one swimming paper me t the inclusion criteria. More recently, a  systema tic review 
+completed by Feijen et al. (Feijen et al., 2020)  investigated the link between swim training volume and shoul der 
+pain. The review encompassed 12 studies and highlighted that swim training volume was associated with shoulder 
+pain in adolescent competitive swimmers. While the review provided worthwhile information, several limitations  
+were acknowledged . The review solely focused on measures of external training load ( i.e. volume) and limited 
+the scope to shoulder pain. The I nternational Olympic Committee  (IOC)  consensus statement s on load in sport 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 5 and risk of injury (Soligard et al., 2016) , and risk of illness (Schwellnus et al., 2016)  have stated injury aetiology 
+is multifactorial and that load m onitoring  need s to include a combination  of both external and internal  loads.   
+ 
+To date, no review  has completed a comprehensive assessment  on the  relationship between internal an d external 
+training load and pain, injury , or illness in competitive swimming. This review  aims to provide a clear consensus 
+for practitioners working within competitive swimming on the relationship between training load and pain, injury,  
+and illness. Using the most recent guidelines on training load and injury/illness surveillance , it is intended to close 
+a gap within the literature in competitive swimming as other sports have done in recent years. Consequently, t he 
+purpose of this systematic review is to determine if a relationship exists between training load and pain, injury or 
+illness in competitive swimmers .  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 6 2. METHODS  
+2.1. Literature Search  
+The search strategy followed the Preferred Reporting Items for Systematic Review and Meta -Analysis (PRISMA) 
+Guidelines (PRISMA -P Group et al., 2015) . The keyword search string included combinations of the following: 
+Training Load, Swimming, Competitive, Injury, Pain, Illness. Each keyword was broken into its individual  
+Medical Su bject Headings  (MeSH), terms or synonyms and joined where appropriate by Bolan terms “AND”/ 
+“OR”. A copy of the keyword search string is provided in the  electronic supplementary material .   Relevant 
+studies were then identified through running the keyword string through five targeted databases: SPORTDiscus, 
+CINAHL, Scopus, MEDLINE and Embase .  
+ 
+2.2. Selection Criteria  
+Once the search was conducted, results were fil tered for English l anguage with in each database. No date limits 
+were applied. Remaining results were then stored on a reference managem ent tool  (Zotero.org) for manual 
+screening . Using the reference management tool, duplicate s were removed , and titles were initially screened for 
+relevan ce to the subject matter by a single reviewer ( LB). Articles clearly outside the scope of this review were 
+excluded. Titles and abstracts were then screened for the inclusion criteria by two reviewers  (LB, TC). Articles 
+were segregated into “YES”, “NO”, “M AYBE” folders according to their eligibility.  
+ 
+The following inclusion criteria had to be present in order f or the study to be considered: 1 ) the study had to be 
+printed in the English langua ge in a peer -reviewed journal and excluded case study, case series, reviews, 
+interv entions, conference proceedings and study designs; 2 ) the method of the study had to clarify that participa nts 
+were competitive swimmers;  3) one or more measures of internal or external tra ining load had to be reported; 4 ) 
+an outcome  measure of pain, injury or illness had to be reported , which could  be self -reported or diagnosed by a 
+health professional; and 5) a statistical analysis of the difference or association between training load and pain, 
+injury or illness had to be reported.   
+ 
+Full text cop ies of both the “YES” and “MAYBE ” articles were sourced and rescreened for inclusion. A 
+comparison of both reviewers’ results was made with a third independent reviewer  (ML) acting as adjudicator in 
+the event of a disagreement. Once consensus was reached, a full search for additional papers of the final articles 
+reference lists was carried out. Any articles sourced through secondary means (e.g. reference list search , etc.) , 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 7 were screened by both reviewers and included where appropriate. Figure 1 presents a flow chart diagram of the 
+systematic search process.  
+ 
+2.3. Data Extraction  
+Key information pertaining to the inclusion criteria w ere extracted from each study,  using a standard data 
+collection form. Study design, population characteristics ( i.e. number of participants, level of ability, sex  and age), 
+training load measured (internal or external), outcome (measure of pain, injury, illness), method of collection for 
+both training l oad and outcome, definition of outcome used, key results or findings were extracted. If any key 
+information was not available, the corresponding author was contacted. If no response was rec eived after a period 
+of six  weeks, the information was deemed unava ilable. Findings included those that tested for significant 
+difference ( p-values between groups) as well as those that tested for an association (Odds Ratios between exposure 
+and outcome).  The data extraction table was cross -checked for accuracy by a second reviewer  (TC). Studies were 
+grouped by outcome for comparison purposes.  
+ 
+2.4. Training Load Measures  
+Internal and external training load measures were defined and extracted based on Eckard et al.  (Eckard et al., 
+2018) . Internal training load  was defined as the athlete’s response to an external stimulus  (e.g. RPE , heart rate 
+(HR) , etc.) . External training load w as defined as any external stimulus applied to the athlete independent of their 
+athlete characteristics  (e.g. distance , time, etc.)  (Eckard et al., 2018) . Method of collection was designated as 
+either being self -reported (SR) when the athlete  themselves  record ed the load , or “third party” when the load data 
+was collected and reported by a designated person within the coaching or research team.  
+ 
+2.5. Operational Outcome Definition  
+The definition used for pain, injury or illness was extracted  and categorised where possible  according to Mountjoy 
+et al . (Mountjoy et al., 2016)  and Langhout et al . (Langhout et al., 2019) . Pain, injury or illness could be 
+catego rised as “non -time loss” (NTL ), “medical attention” (MA) or “time loss” (TL). Medical attention  is where 
+a qualified clinician has assessed the athlete ’s medical condition (Mountjoy et al., 2016) , TL was defined as one 
+which led to the athlete being unable to participate in full FINA activities  (Mountjoy et al., 2016) , and NTL was 
+any physical complaint as a result of competition or training  but without time -loss (Langhout et al., 2019) . 
+ 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 8  
+ 
+2.6. Critical Appraisal  
+The Joanna Briggs Institute (JBI) Critical Appraisal Checklists for cohort  and cross-sectional studies w ere utilised 
+to assess the risk of bias for each individual study as relevant to their study design  (Joanna Briggs Institute, 2019) . 
+Two reviewers (LB, TC) individually cr itically appraised 15 studies (10  cross -sectional, 5  cohorts ). Each tool 
+included between 8 -11 questions with a focus on the appropriateness of the study design, presence of selection 
+bias, validity and reliability of methods, the handling of confounding factors and appropriate ness of the statistical 
+analys es used. Authors assigned a “Yes”, “No”, “Unclear” or “Not Applicable” to each question , depending on 
+the perceived risk of bias. Study quality was considered poor if they had ≥3 “no” or “unclear” responses  as outlined 
+in Nour  et al. (Nour et al., 2018) . Discrepancies between the two reviewers were resolved through d iscussion and 
+a third party (CP) was consulted in the event an agreement could not be reached.   
+ 
+ 
+ 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 9  
+Figure 1. Preferred Reporting Items for Systematic Review flow diagram representing the systematic search 
+process.  SPORTDiscus
+N=263
+Titles and Abstract 
+Screened N=1,959
+Full text articles 
+assessed for 
+eligibility N=160
+Articles included 
+for qualitative 
+synthesis N=10
+Articles identified 
+from secondary 
+sources N=5
+Articles included for review N=15Excluded N=150
+Language N=5
+No link between exposure/outcome N=17
+No pain, injury, illness measure N=67
+No Training load measure N=30
+Population N=2
+Study Design N=29Duplicates N=803 
+Excluded N=996CINAHL 
+N=201EMBASE 
+N=340MEDLINE 
+N=585SCOPUS 
+N=570Screening  Eligibility  Identification  Included  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 10 3. RESULTS  
+An online systematic search retrieved 1,959 articles across five databases, 803 of which were duplicates. Initial 
+screening o f titles and abstracts excluded 996 articles, leaving 160 full text articles to be assessed. The original 
+database search uncovered 10 articles which met the inclusion criteria, with a further 5 articles being included 
+from secondary sources . A total of 15  articles were i ncluded for review; 5 cohort and 10  cross -sectional study 
+designs . An outcome of pain was the most explored condition (N=12), with injury (N=2) and illness (N=1) making 
+up the remainder of the articles.  
+ 
+3.1. Critical Appraisal  
+The overall study quality was poor, with ten (Capaci et al., 2002; de Almeida et al., 2015; Harrington et al., 
+2014; Hellard et al., 2015; Krüger et al., 2012; Martins et al., 2018; Ristolainen et al., 2014; Tate et al., 2012; 
+Tomar & Allen, 2019; Walker et al., 2012)  of the fifteen studies scoring ≥3 in the “no” or “unclear” categories.  
+Tessaro et al. (Tessaro et al., 2017)  was the only study to receive a positive  appraisal in all eight categories, while 
+Krüger et al. (Krüger et al., 2012)  had the most “no” or “unclear” responses.  A consistent weakness of all the 
+studies was related to managing confounding factors. Twelve studies identified  confounding factors, but only six 
+(Capaci et al., 2002; Harrington et al., 2014; Hellard et al., 2015; Martins et al., 2018; Tate et al., 2012; Walker 
+et al., 2012)  outlined  a strategy to deal with them. Strategies  included excluding participants who participat ed in 
+additional sports or  who had a previous surgery an area of interest . In the cross -sectional studies , all reported 
+sufficient detail regarding the population and setting . The exposure and outcome were measured in a valid and 
+reliable way in 2 7% and 67 % of all studies. This highlighted that the method of monitoring exposure was a 
+common limitation within the study design, most of which rel ied on self-reported questionnaire s. Statistical 
+analysis were conducted in an appropriate manner in 8 7% of all studies.  Table 2 presents the JBI quality checklist 
+information for each of the included studies .  
+ 
+3.2. Participant Demographics  
+A total of 1510 swimmers were included in the review with 11% of them categorised as elite  (Hellard et al., 2015; 
+Hidalgo -Lozano et al., 2012, 2013; Martins et al., 2018) , 36% club level (Capaci et al., 2002; Cejudo et al., 2019; 
+Su et al., 2004; Tate et al., 2012;  Tessaro et al., 2017; Walker et al., 2012) , 23% master ’s level (Krüger et al., 
+2012; Tate et al., 2012) , 3% collegiate (Harrington et al., 2014; Tomar & Allen, 2019)  and 27% national level (de 
+Almeida et al., 2015; Ristolainen et al., 2014) . The  mean age range was 8 -49.5 years , with two studies not 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 11 reporting age for one group , or all of their participants ’ demographics  (Tate et al., 2012; Tomar & Allen, 2019) . 
+A variety of descriptors outlining participant’s level of ability, including average training distance and hours per 
+week were recorded in the majority of circumstances. Large range training volume s in kilometres per week (25  - 
+58 km/w eek) or hours per week ( 4 – 24 hours/week ) were reported. Ten studies reported results from both male 
+and female participants, while one study reported solely on male participants (Capaci et al., 2002)  and two studies 
+on female participants  (Harrington et al., 2014; Tate et al., 2012) . Two  studies did not disclose the gender balance 
+of their participants (Hidalgo -Lozano et al., 2013; Walker et al.,  2012) .  
+ 
+ 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 12 Table 2 – Critical Appraisal using the JBI checklist for cohort and cross -sectional studies.  
+Cohort  Were the 
+two groups 
+similar and 
+recruited 
+from the 
+same 
+population?  Were the 
+exposures 
+measured 
+similarly to 
+assign 
+people to 
+both 
+exposed 
+and 
+unexposed 
+groups?  Was the 
+exposure 
+measured 
+in a valid 
+and reliable 
+way?  
+ Were 
+confoundin
+g factors 
+identified?  Were 
+strategies 
+to deal with 
+confoundin
+g factors 
+stated?  Were the 
+groups/part
+icipants 
+free of the 
+outcome at 
+the start of 
+the study 
+(or at the 
+moment of 
+exposure)?  
+ Were the 
+outcomes 
+measured 
+in a valid 
+and reliable 
+way?  Was the 
+follow up 
+time 
+reported 
+and 
+sufficient 
+to be long 
+enough for 
+outcomes 
+to occur?  Was follow 
+up 
+complete, 
+and if not, 
+were the 
+reasons to 
+loss to 
+follow up 
+described 
+and 
+explored?  Were 
+strategies 
+to address 
+incomplete 
+follow up 
+utilised? Was 
+appropriate 
+statistical 
+analysis 
+used?  
+Tomar and Allen 
+(Tomar & Allen, 
+2019)   Y NA Y N N UC Y N UC UC Y 
+Walker et al.  
+(Walker et al., 
+2012)  N NA N Y N Y Y Y Y Y Y 
+Hellard et al.  
+(Hellard et al., 
+2015)  Y NA Y Y N UC Y Y UC Y Y 
+Ristolainen et al.  
+(Ristolainen et 
+al., 2014)  Y NA N Y Y UC Y N N N Y 
+Krüger et al.  
+(Krüger et al., 
+2012) Y NA N N N UC N N N N Y 
+Cross -Sectional  Were the 
+criteria for 
+inclusion in 
+the sample 
+clearly 
+defined?   Were the 
+study 
+subjects 
+and the 
+setting 
+described 
+in detail?   Was the 
+exposure 
+measured 
+in a valid 
+and reliable 
+way?   Were 
+objective, 
+standard 
+criteria 
+used for 
+measureme
+nt of the 
+condition?   Were 
+confoundin
+g factors 
+identified?   Were 
+strategies 
+to deal with 
+confoundin
+g factors 
+stated?   Were the 
+outcomes 
+measured 
+in a valid 
+and reliable 
+way?  Was 
+appropriate 
+statistical 
+analysis 
+used?      
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 13 Martins et al.  
+(Martins et al., 
+2018)  N Y Y Y N N N Y    
+de Almeida et al. 
+(de Almeida et 
+al., 2015)  Y Y N N N N N Y    
+Harrington et al.  
+(Harrington et 
+al., 2014) Y Y N Y N N Y Y    
+Tate et al.  (Tate 
+et al., 2012) N Y N Y N N Y Y    
+Tessaro et al.  
+(Tessaro et al., 
+2017)  Y Y Y Y Y Y Y Y    
+Hidalgo -Lozano 
+et al. (Hidalgo -
+Lozano et al., 
+2012)  Y Y N Y Y Y Y N    
+Hidalgo -Lozano 
+et al.  (Hidalgo -
+Lozano et al., 
+2013)  Y Y N Y Y Y Y Y    
+Cejudo et al.  
+(Cejudo et al., 
+2019) Y Y N Y Y Y N Y    
+Capaci et al.  
+(Capaci et al., 
+2002)  N Y N Y N N N Y    
+Su et al.  (Su et 
+al., 2004)  Y Y UC Y Y Y Y N    
+ 
+ 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 14 3.3. Operational Outcome Definition  
+The definition of pain, injury and illness varied amongst the fifteen studies. Of the two injury based studies, one 
+of the definitions required a restriction of training (Tomar & Allen, 2019) , with the second specifically focused 
+on overuse injuries, outlining a definition with elements of TL and MA criteria (Ristolainen et al., 2014) . 
+Regarding illness, the definition provided was based on  Fricker et al.  (Fricker et al., 2005)  and require d the athlete 
+to have received MA and TL away from training. Out of the three categories of pain, injury and illness, studies 
+investigating pain used the  most diverse definitions. Three studies utilised a Numerical Pain Rating Scale (NPRS)  
+(Hidalgo -Lozano et al., 2012, 2013; Tessaro et al., 2017)  with two reporting  a set threshold of 4/10 on the NPRS 
+to denote significant pain (Hidalgo -Lozano et al., 2012, 2013) . The remaining study did not provide a  set threshold 
+on the scale (Tessaro et al., 2017) .  Subscales from the Disabilities of the Arm, Shoulder and Hand (DASH) 
+questionnaire and the Penn Shoulder Score (PSS) were combined to form the Sports and Sym ptom Survey Form 
+utilised in two of the studies (Harrington et al., 2014; Tate et al., 2012) . A set injury definition  (McMaster WC et 
+al., 1998)  was used in two studies (Cejudo et al., 2019; Walker et al., 2012)  which classified significant interfering 
+shoulder pain (SIP) as a pain that interfered with training or competition, or progression in training and caused a 
+cessation or modification of training or racing. A 1 -5 pain scale was used in one study which indicated if the 
+participant had no pain at level 1 , up to pain preventing competitive swimming at level 5 (Capaci et al., 2002) . A 
+mixed MA/TL definition was employed in one study (de Almeida et al., 2015) , which referred to the consensus 
+statement of  Fuller (Fuller, 2006) . A clinical assessment or screening process was conducted in two of the studies 
+(Hidalgo -Lozano et al., 2013; Su et al., 2004)  in conjunction with a s et definition. Martins et al. (Martins et al., 
+2018)  did not provide a definition of pain but highlighted that a questionnaire which evaluated the occurrence of 
+pain was administered. Pain was present if the responder answered “yes” to a question  on the presence of pain. 
+Similarly, Krüger et al. (Krüger et al., 2012)  did not provide a set definition of pain but outlined that a retrospective 
+questionnaire was used to determine the incidence of shoulder pain  over a three -year period.  
+ 
+3.4. Monitoring Training Load  
+All the papers included for review collected external training load , using one or more variations . Session duration 
+was the most commonly used unit of load . Nine out of fifteen studies employed this approach  and was most often 
+recorded as hours per week.  This was closely followed by session  distance,  which was collected in eight studies , 
+most of which was recorded as kilometres per week. Finally, session fr equency was collected in five studies  with 
+practices per week being most frequent. Two out of fifteen studies collected internal training  load, with session 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 15 intensity recorded through the use of  sRPE (Tomar & Allen, 2019)  and blood lactate concentration (Hellard et 
+al., 2015) . The method of colle cting training load data was reported well in the majority of cases. However, one 
+study (Hidalgo -Lozano et al., 2012)  collected training load as hours/week but did not report the method of data 
+collection. Another study  report ed how the internal training load  (blood lactate profile)  was collected , but not the 
+external training load measure  (meters/ week)  (Hellard et al., 2015) . Training load data w ere collected subjectively 
+through athlete self -reporting, generally through the use of a questionnaire. A third party was used to submit the 
+data in two instances (Tessaro et al., 2017; Walker et al., 2012) , namely  the coach, clinician or research assistant . 
+ 
+ 
+3.5. Relationship Between Training Load and Pain, Injury , and Illness  
+Eleven of the fifteen studies stated no statistically significant differences or associations between a measurement 
+of training load and the outcome reported (Cejudo et al., 2019; de Almeida et al. , 2015; Harrington et al., 2014; 
+Hidalgo -Lozano et al., 2012, 2013; Martins et al., 2018; Su et al., 2004; Tate et al., 2012; Tessaro et al., 2017; 
+Tomar & Allen, 2019; Walker et al., 2012) . In the remaining studies, a statistically significant differen ce was 
+reported betwe en training load and injury (Ristolainen et al., 2014)  and pain  (Capaci et al., 2002) . A positive 
+association w as seen between training load and illness  (Hellard et al., 2015) , while  a negative association  was 
+reported between train ing load and pain  (Krüger et al., 2012) .  
+ 
+Two out of twelve studies found a  statistical difference or association between tr aining load and pain  (Capaci et 
+al., 2002; K rüger et al., 2012) . Both studies reported contrasting conclusions with Capaci et al.  (Capaci e t al., 
+2002)  highlighting that swimmers experiencing musculoskeletal pain reported swimming  significantly (p <0.05) 
+more hours per week than those without pain  (8.86±1.25 vs 8.00±1.06 hours/week) . This finding  contradicted 
+Krüger et al.  (Krüger et al., 2012)  who suggested that tho se swimming lower volumes (0 -4,999  meters/week), 
+were 2.8 times more likely to develop shoulder pain. The remaining ten studies that reported on the relationship 
+between training load and pain showed no significant difference or association.  
+ 
+Two studies  investigated the relationship between training load and injury  (Ristolainen et al., 2014; Tomar & 
+Allen, 2019) . Ristolainen et al.  (Ristolainen et al., 2014)  found a positive relationship , and reported that the mean 
+number of kilometres sw am per year was significantly higher in injured swimmers , when compared to non-injured 
+swimmers (1612  km/year vs. 1380  km/year, p=0.04 ). The second study reported no significant relationship 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 16 between  training load  (r = -0.35) , training monotony  (r = 0.62) , training strain  (r = -0.12)  or Acute/Chronic 
+Workload Ratio  (ACWR)  (r = 0.08)  and the incidence of injury (Tomar & Allen, 2019) . 
+ 
+The risk of illn ess (i.e. Upper Respiratory Tract and Pulmonary Infections (URTPI )) was significantly higher  (p 
+= 0.0244)  during high load training periods, while the odds of having a URTPI was 70% and 50% higher during 
+intensive training periods than both taper and competition periods , respectively  (Hellard et al., 2015) . High load 
+workouts at maximal speed  (blood lactate ≥ 10mmo·L-1) contributed considerably to the increased risk (not 
+specified) of URTPI. While the authors highlighted that t he risks of URTPI were higher for swimmers during the 
+winter months, they also specified that national swimmers were generally more at risk th an international level 
+swimmers  despite similarities in age and training prescription. This may be explained by a superior genetic 
+resistance response to infection or improved athletic lifestyle management by international swimmers, or a lower 
+training load threshold by national level s wimmers (Hellard et al., 2015) .  
+      
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 17 Table 1.  Summary of the included studies  
+Reference  
+(Study Design ) Population  
+(N, gender, age)  Level of 
+Competitiveness  Load  Method of 
+Collection  Outcome  
+(Definition)  Findings  
+Martins et al.  
+(Martins et al., 
+2018)  
+ 
+Cross -Sectional  42 Elite Swimmers  
+22M  
+20F 
+Mean Age 22.9 (±4.4) 
+yrs. Swam average of 
+45.2 (±20) km/wk  
+Competitive for 
+13.9(±6.9) years.  External: 
+km/wk  
+ Load: SR  
+ 
+Outcome: 
+SR Pain 
+ 
+NR km/wk did not have any significant statistical 
+associatio n with the occurrence of pain ( p 
+=0.787)  
+Tessaro et al.  
+(Tessaro et al., 
+2017)  
+ 
+Cohort  
+12months  
+Retrospective  197 Club  Swimmers.  
+108M  
+89F  
+Mean Age: 14.01 (± 
+2.12) yrs.  Swim average of 
+25.31 (±9.02) km/wk  External: 
+freq/wk  
+hr/session  
+km/session  Load: 
+SR/Third 
+Party  
+ 
+Outcome: 
+SR Pain 
+  
+NR No statistically significant differences were 
+found between pain and freq/wk ( p =0.114), 
+hr/se ssion ( p = 0.161), km/wk ( p = 0.309).  
+Krüger et al. 
+(Krüger et al., 
+2012) 
+ 
+Cohort  
+3 years  
+Retro spective  282 Master ’s Swimmers.  
+138M  
+144F  
+Mean age: 50 yrs males, 
+49 yrs females.  South African 
+Master ’s Swimming 
+Championship.  
+  
+ 
+ 
+ External: 
+m/wk   
+low (0 -
+4,999 ) 
+medium 
+(5,000 - 
+11,999)  
+high 
+(>12,000)  Load: SR  
+ 
+Outcome: 
+SR Pain 
+ 
+NR Low/medium training volume (OR 1.0)  
+ 
+High Volume ( OR 0.36, 95% CI 0.568 - 
+0.680; p =0.004)  
+Harrington  et al. 
+(Harrington et 
+al., 2014) 
+ 
+Cross -Sectional  37F Collegiate 
+Swimmers  
+Mean Age = 19.5 (± 
+1.19) yrs.  
+ NCAA Division I 
+swim programs  
+Swimming 18.8 
+hr/wk.  
+ 
+ 
+ External: 
+hr/wk  
+practices/ wk Load: SR  
+ 
+Outcome: 
+SR Pain 
+DASH  
+(>6/20 points)  
+ 
+PSS  
+(>4/10)  No significant difference was found in the 
+hr/wk for the dominant ( p = .77) or non -
+dominant arm ( p = .97) in relation to 
+presence of shoulder pain.  
+Walker et al. 
+(Walker et al., 
+2012)  
+ 
+Prospective  
+Cohort  
+12 months  74 Club Swimmers  
+37M  
+37F  
+Mean Age: 15 (± 3) yrs.  Swimming 8 (± 2) 
+sessions/wk  
+Average distan ce of 
+44 (± 15) km/wk.  External: 
+km/wk  
+practices/wk  Load: Third 
+Party  
+ 
+Outcome: 
+SR Pain/Injury  
+ 
+NTL/TL  
+SIP 
+SSI Swim training distance (km) was not a 
+significant predictor of:  
+SSI (OR, 1.0; 95%CI ,1.0,1.0), ( p =0.11).  
+SIP (OR, 1.0; 95%CI ,1.0,1.0), ( p =0.07).  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 18  
+de Almeida et 
+al. (de Almeida 
+et al., 2015)  
+ 
+Cross -Sectional  257 National Swimmers  
+140 male and 117 female  
+Mean age  Male: 20.6 (± 
+3.7); Female 19.4 (± 3.9) 
+yrs. Weekly distance 57.1 
+(± 29.9) km/wk.  External: 
+km/wk  Load: SR  
+ 
+Outcome: 
+SR Pain/Injury  
+ 
+MA/TL  No significant difference found for weekly 
+distance in km ( p =0.61) when those with and 
+without pain were compared.  
+ 
+Tate et al.  (Tate 
+et al., 2012)  
+ 
+Cross -Sectional  42 F Youth Swimmers  
+Age: 8 -11 yrs  Swimming 6.9 (± 
+2.4) hr/wk.  
+External: 
+hr/wk 
+ 
+ 
+ Load: SR  
+ 
+Outcome: 
+SR 
+ Pain 
+ 
+PSS  
+(>2/10)  There were no significant differences in:  
+Time swam (yrs) (p =0.74)  
+Time swam/wk (hr) ( p =0.18)  
+Time swam/yr (hrs) ( p =0.54)  
+43F Youth Swimmers  
+Age:12 -14 yrs  Swimming 10.1 (± 
+4.3) hr/wk.  
+  
+ 
+DASH  
+(>6/20)  
+PSS  
+(>4/10)  
+ 
+ 
+ 
+ There were no significant d ifferences in:  
+Time swam (yrs) ( p =0.29)  
+Time swam /wk (hr) ( p =0.56)  
+Time swam/yr (hrs) ( p =0.69)  
+84 F High -School 
+Swimmers  
+Age:15 -19 yrs  
+ Swimming 16.1 (± 
+6.0) hr/wk.  
+ There were no significant d ifferences in:  
+Time swam (yrs) ( p =0.01)  
+Time swam/wk (hr) ( p =0.71)  
+Time swam/yr (hrs) ( p =0.60)  
+67F Master ’s swimmers  Swimming 4.0 (± 
+1.7) hr/wk.  
+ There were no significant d ifferences in:  
+Time swam (yrs) ( p =0.13)  
+Time swam/wk (hr) ( p =0.06)  
+Time swam/yr (hrs) ( p =0.02)  
+Capaci  et al. 
+(Capaci et al., 
+2002)  
+ 
+Cross -Sectional  38M Club Swimmers  
+Mean age: 14.44 (± 2.4)  
+yrs Average training 
+hr/wk: 8.52 (± 1.54)  External: 
+Average 
+training 
+hr/wk  Load: SR  
+ 
+Outcome: 
+SR Pain 
+NTL/TL  
+Classified into 
+categories (1 -5) 
+ Swimmers with pain swam 8.86 (±1.25)  
+hr/wk which was significantly different to 
+swimmers without pain who swam 8.00 
+(±1.06)  hr/wk.  
+Su et al.  (Su et 
+al., 2004)  
+ 
+Cross -Sectional  40 Club Swimmers.  
+19M  
+21F 
+18 and 35 yr s. Competitive 
+experience >5years.  
+ 
+Training Schedule >2 
+days and 10km/wk.  
+ External: 
+hr/wk  
+km/session  Load: SR  
+ 
+Outcome: 
+SR/CA  Pain 
+ 
+NTL/CA  
+ 
+Phase II or III - 
+Neer and Welsh 
+swimmer’s 
+shoulder grading 
+system.  There were no significant  
+differences in practice duration( p =0.80) and 
+practice distance ( p =0.33) between  
+the healthy and impingement groups.  
+Hidalgo -Lozano 
+et al.(Hidalgo -54 elite swimmers.  
+18M, 16F  European and World 
+Championship External: 
+hr/wk  Nil Pain 
+Pain felt in the No correlation between shoulder pain and 
+hr/wk ( p =0.731) was found.  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 19 Lozano et al., 
+2012)   
+ 
+Cross -Sectional  Age: 18 -30 yrs  participants.  
+Swimming 6 hours 
+per day for 4 days per 
+week.  neck -shoulder 
+and/or arm >3 
+months.  
+>4/10 NPRS.  
+Hidalgo -Lozano 
+et al.  (Hidalgo -
+Lozano et al., 
+2013)  
+ 
+Cross -Sectional  35 Elite Swimmers.  
+Age:18 -30years  Swimming >6 
+hrs/wk.  
+ External: 
+hr/wk  Load: SR  
+ 
+Outcome: 
+NPRS, 
+Anatomical 
+Chart  Pain 
+>3months  
+4/10 NPRS 
+during arm 
+elevation.  
+CA +ive Neers 
+and Hawkins 
+test. No correlation between shoulder pain and 
+hours training/wk ( p =0.129).  
+Cejudo et 
+al.(Cejudo et al., 
+2019)  
+ 
+Cross -Sectional  24 Club Swimmers.  
+15M  F9 
+Mean age: 15.6 (±2.2) 
+yrs. Swimming 
+experience of 6.8 (± 
+2.1) yrs.  
+Training hr/wk 15.3 
+(±1.7).  External: 
+Practice 
+frequency  
+hr/wk Load: SR  
+ 
+Outcome: 
+SR Pain 
+ 
+NTL/TL  
+SIP Training hours per week was not a 
+distinguishing factor between those with 
+shoulder pain and those without ( p =0.773, 
+d=0.30 small)  
+Tomar and 
+Allen (Tomar & 
+Allen, 2019)  
+ 
+Prospective 
+Cohort  
+7Weeks  12 Collegiate Swimmers  Mean weekly training 
+load: 260.97 ± 
+56.33AU  External: 
+min/session  
+ 
+Internal: 
+sRPE Load: SR  
+ 
+Outcome: 
+Third Party  Injury  
+NTL  No significant relationship between training 
+load (r = -0.35), monotony (r = 0.62), strain (r 
+= -0.12), acute/chronic workload (r = 0.08) 
+and injury.  
+Ristolainen et 
+al. (Ristolainen 
+et al., 2014)  
+ 
+Cohort  
+Retrospective  
+12 months  154 National Swimmers.  
+71M  83F  
+Mean Age 18.6 (± 2.9) 
+yrs. Finnish Top Level.  
+Swimming exposure 
+of 767 (± 326) hr/yr.  
+Active Training 
+(years) 9.9 (± 3.1)  yrs 
+ External: 
+km/yr  
+hr/wk  
+hr/yr  Load: SR  
+ 
+Outcome: 
+SR Injury  
+ 
+Overuse injury  
+TL/MA  Injured swimmers had swum significantly 
+more than non -injured swimmers during the 
+past 12 months ( p =0.04)  
+ 
+The mean number of kilometres swam  was 
+higher in swimmers with at least one joint 
+injury compared to swimmers without such 
+an inj ury ( p =0.03)  
+Hellard et al.  
+(Hellard et al., 
+2015)  
+ 
+Prospective  
+Cohort  28 elite swimmers.  
+14M  14F 
+Age 16 -30yrs  National 
+Championship 
+participants.  
+>9 sessions/wk  
+(including dryland 
+conditioning . High External: 
+m/wk 
+ 
+Internal:  
+Blood 
+Lactat e Load:  
+External - 
+NR 
+Internal - 
+Third Party  
+ Illness (URTPI)   
+ 
+MA/TL  The risk of URTPI was significantly 
+increased with high load training (OR 1.10; 
+95% CI, 1.01 –1.19), ( p =0.0244).  
+ 
+The odds of having an URTPI  was 70% 
+lower during  taper (OR .30; 95%  CI, 0.13 –
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 20 4 years  motivation in the past 
+6 months.  Profile   Outcome: 
+SR 0.70), ( p =0.0054) 50% lower during 
+competition  (OR 0.50; 95% CI, 0.23 –1.06), 
+(p =0.0686) than during periods of intensive 
+training.  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 21 4. DISCUSSION  
+The aim of this systematic review was to investigate the relati onsh ip between training load  and pain, injury , or 
+illness in competitive swimmers. A clear lack of consistency within the findings was evident, with conflicting 
+results being presented and many methodological limitations preventing a ccurate comparison of r esults. This lack 
+of consistent reporting prevented a meta -analysis of the result s been conducted . There is no clear evidence of a 
+relationship  between training load and pain, with the majority of studies reporting no statistical difference or 
+association between those with pain and their exposure to external training loads. This link would require further 
+investigation using prospective study de signs and coupling of both in ternal and external training load to get a 
+more accurate representation. There is limited  evidence to  suggest a relationship between training load and injury 
+with one study  finding swimming more distance  (km)  in the past year i ncreased the risk of injury  (Ristolainen et 
+al., 2014) . This relationship would need to be investigated further with both internal and external training loads 
+being used to accurately measure training load. There is also limited evidence for the relationship between training 
+load and illness based on the work of Hellard  et al.  (Hellard et al., 2015) ; however, this needs further rigorous 
+investigation in multiple swimming populations.   
+ 
+4.1. Participant Demographics  
+The variability in findings is in keeping with the premise that pain, injury and illness are complex and 
+multifactorial (Schwellnus et al., 2016; Wanivenhaus et al., 2012) , with no single variable predicting 
+maladaptation (Soligard et al., 2016) . It is well docum ented that factors including chronological age, training age, 
+injury history and physical capacity can impact an athlete ’s training response (Gabbett, 2016) . Chronological age 
+and training experience were two factors which varied greatly within this review.  Two studies found significant , 
+but contrasting  findings between training load and pain i n this review (Capaci et al., 2002; Krüger et al., 2012) . 
+Capaci et al.  (Capaci et al., 2002)  focused on male  competitive swimmers with a young  mean age (14.44 ± 2.4 
+years)  and found swimming more hours per week  influenced the presence of pain. This is in contrast to Krüger et 
+al. (Krüger et al., 2012) , who solely focused on master’s level swimmers (mean age 49.6 ± 12.29 years) and found 
+swimming lower volumes per week to be a risk factor for shoulder pain. This may be explained by the 
+considerable changes  experienced with aging, i.e. loss of muscle mass, strength and function, al terations called 
+sacropenia (Volpi et al., 2004) . This age related decline also extends to a loss of tendon stiffness, resulting in 
+decreased force transfer capabilities (Reeves et al., 2006) . The rotator cuff is among the most common clinical 
+tendon problems for the aging populatio n (McCarthy & Hannafin, 2014) , with the risk of having a full thickness 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 22 tear being 2.69 times greater in older adul ts than a dults 10 years their junior (Fehringer et al., 2008) . Older 
+athletes face an accumulation of residual injuries which may limit their training volume a nd intensity, thus 
+causing a reduct ion in training adaptations (Foster et al., 2007) . This can result in a cyclical pattern of reduced 
+ability to train, causing a decreased training load and an increased susceptibility to musculoskeletal injuries. This 
+is supported by Tate et al. (Tate et al., 2012)  where the master’s population swam less time per week than any 
+other group within the study. The presence of pain at lower volumes may be a by -product of the ‘ injury 
+prevention paradox’ , wh ere higher loads are thought  to have a prote ctive effect against injury (Gabbett, 2016) . 
+Master ’s athletes, swimming at lower loads, may be more susceptible to injury as they never reach the desired 
+threshold of training to provide a protective effect. The reported  modifications in training volume with  age are 
+thought to be as a result changes in stroke biomechanics. It has been reported that older swimmers have altered 
+stroke biomechanics when compared with elite swimmers. This is understood to be driven b y lower values of 
+stroke length  which may be explained by lower mechanical power and muscl e strength (Ferreira et al., 2016) . 
+The master’s population, in an effort to reduce the effects of aging and to break the cyclical pattern of load 
+related injuries should focus on appropriate recovery strategies between sessions, increased resistance training 
+and complementa ry cross -training sessions (Foster et al., 2 007) . 
+ 
+ 
+The level of a swimmer is also deemed to be a contributing factor to their ri sk of injury. Tate et al.  (Tate et al., 
+2012)  explored  the presence of shoulder pain across the lifespan of a swimmer.  They found that as the competitive 
+level increased , so did the training exposure in hours per week, up until 15 -19 years old, after which it dropped 
+off when entering master ’s level  swimming . This study found that high school swimmers were most symptomatic 
+and those swimmers with shoulder pain had significantly more swimming exposure than those without shoulder 
+pain (1.5±1.14  years, p = 0.01). However, t his finding was not replicated in acute swimming load (hours/w eek). 
+Unfortunately, this study did not include a collegiate swimming group within the study design, leaving a gap 
+between those in high -school and master ’s level. Typically, it is thought that the collegiate swimming population 
+are at increased risk of injury in the first twelve months of joining a varsity swim team  (Wolf et al., 2009) . This 
+was a key finding by Wolf et al.  (Wolf et al., 2009)  who reported the highest number of injuries during the first 
+year of eligibility, followed by a substantial drop off in the subsequent years.  In this study, m ale and female 
+swimmers had a mean number of injuries of 1.21 and 1.19 in their freshman year compared to 0.71 and 0.46 in 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 23 their senior year (Wolf et al., 2009) . This is likely due to th e transition from high -school or club swimming coupled 
+with a sudden increase in training demands, followed by acclimatisation in those that do not drop out of the sport. 
+Of the two collegiate swimming populations included in this review, one was not a tru e representation of a high 
+level varsity programme due to the low loads presented (Tomar & Allen, 2019) , while the second was a National 
+Collegiate Athletic Association (NCAA ) Division I population , swimming 18.8  hours/week (Harrington et al., 
+2014) . Neither study found a statistically significant relationship between training load and pain or injury ; 
+however,  the stage of collegiate swimming was not investigated in either study. Th is could mean that the 
+population investigated had become acclimatised to such a training demand  or those who experience pain or injur y 
+during the transition from high -school to coll ege do not continue to compete at that level  (Harrington et al., 2014; 
+Wolf et al., 2009) .   
+ 
+In an elite population, Hellard  et al.  (Hellard et a l., 2015)  found a  higher risk of pathology in national level 
+swimmers compared to  international level swimmers.  Coaches should  consider the level of individual swimmers, 
+understandi ng that  swimmers of lower ability may be more susceptible than their counterpar ts. National level 
+swimmers may be of a lower training age  or capacity  causing a decreased resistance to illness in comparison to 
+their international level counterparts (Hellard et al., 2015) . More mature international level athletes may also 
+manage the training lifestyle demands better than their national level peers.  Coaches should ensure that the 
+swimmers’ level is considered and modified for when planning training loads and session intensity.  
+ 
+4.2. Operational Outcome Definition  
+It has been clearly reported that inconsistencies in methodological approach and definitions  can create significant 
+variations in findings (Fuller, 2006) . While a number of consensus statements have provided cl arity in the use of 
+standard terminology over recent years, disparities in definitions stem from the specific sporting context for which 
+the statements are developed (Roald Bahr et al., 2020) . A total of four (Cejudo et al., 2019; Martins et al., 2018; 
+Tessaro et al., 2017; Tomar & Allen, 2019)  of the inclu ded studies were published after the release of the 2016 
+FINA consensus statement with none of them making reference to the guidelines and recommendations. A host 
+of outcome definitions were used amongst the 15 studies included  in this systematic review, showing large 
+inconsistencies that may be a factor in the conflicting nature of the findings. Many of the definitions reported an 
+element of TL from the sport, a restriction in training or the need to have sought MA. While the u se of this 
+terminology is appropriate and common place in many sports, they have limitations when applied to sports such 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 24 as swimming , where few traditional TL injuries occur (R Bahr, 2009) . As many swimmers  tend to train in the 
+presence of pain (Hibberd & Myers, 2013) , using a traditional TL injury definition may mask and under -report 
+the true impact of such pain/injuries (R Bahr, 2009) . Successful injury and illness prevention protocols rely on 
+the correct categorisation of surveillance data (Palmer -Green et al., 2013) . A c onsensus statement from FINA on 
+injury and illness reporting was published in 2016 , and provides a clear framework to be implemented in such 
+cases (Mountjoy et al., 2016) . Though this consensus statement provides clarity of the use of set definitions for 
+injury, illness, TL and MA classifications, it also highlighted the need to prospectively monitor symptoms and 
+complaints through the use of The Oslo Sports Trauma Research Centre (OSTRC) questionnaire . The OSTRC 
+questionnaire has been validated in swimming , and can be implemented longitudinally to record medical 
+conditions that include complaints not leading to absence from  the sport (Mountjoy et al., 2016) .  
+ 
+While the development of a sport specific consensus statement is a positive step towards consistency in reporting, 
+the optimisation of  the dissemination  procedure  and uptake of the key principles is a crucial  aspect of the process . 
+Even though r esearchers working within a specific related field may be aware of such consensus statements, those 
+working at a practical level may have limited knowledge. The utilisation of consensus statements can be 
+determined by the perception of rel evance within a set period of time as developments of these concepts are 
+rapidly evolving . As consensus statements can take 12 -18 months to develop, the time elapsed  between evidence  
+discuss ion and collation , and recommendations published is crucial (Kwong et al., 2016) . Developing and 
+disseminating consensus statements in a timely manner is essential to their effectiveness  and relevance  (Kwong 
+et al., 2016) . Consensus statements might benefit from under going a  “knowledge management”  process . 
+Knowledge management is the process of simplifying and improving the creation, sharing and distribution of 
+knowledge within a system  (Gasik, 2011) . A link between those that develop the consensus statement and the 
+relevant National Governing Bod y (NGB) should be formed as part of the dissemination process. Providing clear 
+educational strategies to the NGB should be a cornerstone of the dissemination process, allowing the key 
+information to be communicate d and understood at the practitioner level.    
+ 
+4.3. Relationship Between Training Load and Pain  
+The relationship between training load and  pain was evaluated in twelve of the fifteen studies included in this  
+review. A total of two studies  found statistical ly significant  differences or associations between a measure of 
+training load and pain  (Capaci et al., 2002; Krüger et al., 2012) . A large percentage (60.5%) of competitive male 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 25 swimmers reported musculoskeletal pain through the use of a questionnaire  (Capaci et al., 2002) . Those who 
+experienced pain spent more time training (training history (years)  or training hours per week) , than those without 
+pain. This suggest s that those with a longer training history , and who swim more hours per week , have an increased 
+chance of experiencing musculoskeletal  pain.  This finding challenges the traditional high-volume  approach which  
+spurs the quantity versus quality debate.  Nugent  et al. (F. J. Nugent et al., 2017)  discussed  this concept  with expert 
+swimming coaches. Coaches tended to defend the high-volume  swimming approach, particularly in youth 
+swimming, as it promotes a large aerobic base and aids in technical development. However, they clarified that 
+this should transition to a quality or more intensity based training system as the swimmer improves (F. J. Nugent 
+et al., 2017) . This finding is also in contradiction with the theory that training load can have a protective effect 
+(Gabbett, 2016) ; however , the ag e of those with pain was relatively young  (14.78±1.56 years). A swimmer ’s 
+ability to acclimatise and develop a robustness to higher training thresholds m ay be impacted by maturation  
+(Difiori, 2002) , and therefore training hours should be gradually increased and a djusted for the pubertal 
+development of the athlete  (Corso, 2018) .  
+ 
+While maturation  was not investigated in the current review and research on the impact of maturation on injury 
+is unclear (Bowerman et al., 2014) , coaches should be cognisant of the effects of an adolescent growth spurt on 
+their training ability  (Corso, 2018) . A similar  youth  age category  was investigated in four  studies  (Cejudo et al., 
+2019; Tate et al., 2012; Tessaro et al., 2017; Walker et al., 2012) . All four stu dies found no statistically significant 
+relationship between pain and training load when hours per week, kilometres  per week or frequency of sessions 
+per week were examined. Su et al.  (Su et al., 2004)  reported no difference in healthy swimmers compared with 
+swimmers with shoulder pain (7.6±5.3 vs . 8.1±5.1 hours/week, p = 0.80) and (3.3±1.1 vs . 3.0±0.9  km/session , p 
+= 0.33)  respectively  (Su et al., 2004) . Swim training distance was not a significant predictor  of SIP or significant 
+shoulder injury  (SSI)  (SIP: OR 1.0, 95% CI 1.0 – 1.0; p = 0.07 / SSI: OR 1.0, 95% CI 1.0 – 1.0; p =0.11) (Walker 
+et al., 2012) . A similar finding reported no  statistically  significant difference between pain and week ly volume  (p 
+=0.309) (Tessaro et al., 2017) . Training hours/week showed no difference in those with and without pain across 
+a number of age groups (8 -11 years , p =0.18; 12-14 years , p =0.56; 15-19 years , p = 0.71; master ’s, p = 0.06) .  
+ 
+Where hours  per week were monitored, 12-19 year-old swimmers w ere training  approximately 9 -16 hours per 
+week  (Tate et al., 2012) . In youth swimming , training capacity  needs to be carefully developed as their technical 
+stroke mechanics  improve. Technical aspects  such as  chang ing from unilateral to  bilateral breathing  may be  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 26 improving , resulting in an increased ris k of shoulder pain  as they develop  (Tate et al., 2012) . In populations 
+ranging in age from 18 -30 years  old, the training demand typically increased , with five studies reporting average 
+training load ranges of 18.8  - 26.8 (±4.8) hours per week , or 45  (±20) - 57.1 (±29.9 ) km/w eek. No difference was 
+found in any of the studies for the those with and without pain. These increased training loads suggest that the 
+external training load prescribed increases with age , which is in agreement with  Feijen et al. (Feijen et al., 2020) . 
+However, the subsequent lack of increase d pain suggests that as the athlete ages , their ability to tolerate  increase d 
+external training loads is improved . Another reason may be those athletes th at do not experience pain are more 
+likely to remain in the sport for longer periods. By tracking extern al training load (km/session or hr/week)  alone, 
+these studies may have been unable to quantify the individual resp onse to external training load , and thus a major 
+risk factor for musculoskeletal pain may not have been detected.  
+ 
+Krüger et al.  (Krüger et al., 2012)  was the only study to find a negative association between training load and 
+musculoskeletal pain. While th e reported incidence of  pain (62.4%) was similar to that of Capaci et al.  (Capaci et 
+al., 2002) , the population and training load measure were different. It was found that the volume of training in 
+meters/week was negatively associated with shoulder pain, meaning tho se that swam a lower volume (0 -4,999  
+meters/week) were 2.8 times more likely to develop shoulder pain  than those that swam a higher volume (≥12,000 
+meters/week) . These findings contrasted with the popular opinion that a swimmers pain is directly proportional 
+to training volume (Contreras Fernandez et al., 2012) . While the age of this population could be a significant 
+factor in this finding as discussed in section 4.1, there is another possible explanation. This finding could also be 
+explained by the injury prevention paradox which highlights that low load can render an athlete less prepared and 
+more susceptible to injur y (Gabbett, 2016) . The concept stipulates  that excessive ly high loads may be 
+inappropriate for individual athletes and can increase the risk of injury  or illness. However,  loads that are not high 
+enough can also create an element of fragility within the athletes’ ability to  tolerate load and have the same 
+outcome .  This concept reinforces the idea that training loads are not high or low but are appropriate or 
+inappropriate for a specific individual. Coaches need to consider all the individual elements when planning 
+appropriate loads to ensure a reduced risk of pai n, injury or illness  (Halson, 2014) .  
+ 
+4.4. Relationship Between Training Load and Injury  
+The relationship between training load and injury was assessed in two of the included studies. The studies reported 
+contrasting findings with one (Ristolainen et al., 2014)  presenting the finding that injured swimmers had swum 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 27 significantly more than non -injured swimmers in the past 12 months ( p = 0.04).  The second study (Tomar & 
+Allen, 2019)  stated that no ass ociation between measures of tot al training load (sRPE ), training monotony, strain 
+or ACWR and incidence of injury was present. The populations and method s studied  in both papers varied great ly. 
+While Tomar  and Allen (Tomar & Allen, 2019)  used a  common  method of monitoring training load  (sRPE)  
+(Williams, Trewartha, et al., 2017) , their population was not exposed to a rigorous training regime over a duration 
+that is reflective of competitive swimming environments. Conversely, the population in Ristolainen et al.  
+(Ristolainen et al., 2014)  was an elite group of swimmers. However, the retrospective study design, coupled with 
+a twelve -month recall period, the measurement of external training loa d and no quantification o f internal training 
+load means less confidence may be placed on the results.  
+ 
+4.5. Relationship Between Training Load and Illness  
+The relationship between training load and i llness  was investigated in one study meeting the required inclusion 
+and exclusion crit eria. The study utilised a prospective cohort design where training loads and illness was logged 
+over a four -year period  (Hellard et al., 2015) . The population observed were elite level swimmers , with both 
+internal and external training loads being monitored. Training load was quantified in meters per week at each 
+intensity determined by a blood lactate step test detailed by  Mujika  et al.  (Mujika et al., 1996) . Findings showed 
+a positive relationship between training loads and illness with periods of high training loads (OR 1.10, 95% CI 
+1.01 – 1.19; p = 0.0244) increasing the odds of illness by 50 -70%. While this single study presents limited 
+evidence, it does concur with the review  of Drew and  Finch (Drew & Finch, 2016)  who summate d that the 
+relationship between training load and illness was found to be moderate. The review found a positive relationship 
+in sports such as speed skating, Australian football, soccer and rugby league, with no relationship in an elite 
+running population  (Drew & Finch, 2016) .  
+ 
+4.6. Monitoring Training Load  
+The studies included in this systematic review, relied heavily on the use of self -reported d ata collected  
+retrospectively  through the use of ques tionnaires. This data is  dependent  on the athlete’s ability to recall and report 
+their individual training data accurately (Black et al., 2016) . Previous research has shown that quantifying exercise 
+dosage  from data collected by questionnaire  may be considered as inadequate (Borresen & Lambert, 2006) , 
+particularly with retrospective questionnaires, as the longer the recall period the less accurate the reported 
+estimates (Kjellsson et al., 2014) . The majority of the retrospective studies used a  twelve -month rec all period  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 28 (Ristolainen et al., 2014; Tessaro et al., 2017; Walker et al., 2012) , with one spanning a three -year period (Krüger 
+et al., 2012) . Previous research has shown a twelve -month recall to be sufficient  method of collecting data  
+(Mukherjee, 2015) . However, in a study compari ng retrospective and prospective injury surveillance data , perfect 
+agreement between the two methods was found when a simple yes or no answer was required. However,  the 
+accuracy of recall was severely  diminished  (approx. 40%) when specific  details were  required (Gabbe, 2003) . 
+This shows that the use of self -reported retrospective data for establishing patterns in sport should be avoided 
+when detailed information is needed.   
+ 
+The relationship between training load and pain was evaluated using external training load in all twelve relevant 
+studies . Of the two studies examining the relationship between training load and injury , one utilised a measure of 
+external training load, with the second study reporting both internal and external training load. Finally, the 
+relationship between training load and illness was assessed using both internal and  external training load . The 
+results showed that session duration (hours/week) was the  most widely used external training load measure with 
+swimming durations of 4.0 (± 1.7) - 24 hours /week , and was closely followed by distance per session (km) . An 
+external trai ning load such as hours/week,  should be carefully im plemented particularly in an advanced  training  
+environment . Beginner and intermediate athletes can focus on increas es in training time  to good effect ; however , 
+once a training  programme has plateaued, any further  increase in tra ining hours can become  unproductive  
+resulting in session intensity being manipulated in order to achieve a training effect  (Friel, 2018) . Monitoring 
+training distance (km/week) can also cause issues as the swim load measure cannot be extrapolated to other cross -
+training modalities such as resistance training.  This leads to multiple measures of load being collected but unable 
+to be combined or aspects of the training programme not being monitored at all. Another limitation of the 
+exclusive use of external tr aining load met hods is that it  does not accurately capture the athletes’  individual 
+response to the training dose and therefore internal training load needs to be  combined with external load to 
+provide greater insight to training stress (Bourdon et al., 20 17). The use of sRPE  has become one of the most 
+commonly used measures of intensity in team spor ts. Session RPE, combined with session duration can provide 
+an integrated training load measure capturing an athlete’s  external load and their individual response to it. An 
+additional  benefit of this approach is the ability to monitor sRPE globally across a training programme such as 
+resistance training and cross train ing, allowing for a holistic monitoring approach to al l aspects of the programme 
+(Williams, Trewartha, et al., 2017) .   
+ 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 29 All but two (Hellard et al., 2015; Tomar & Allen, 2019)  of the included  studies used external training load 
+exclusively as a means of quantifying training load. Bourdon et al . (Bourdon et al., 2017)  summated that an 
+integrated approach to training load monitoring is important  as no single marker of an athletes response to load 
+can consistently predict maladaptation (Soligard et al., 2016) .  Therefore int ernal and external load  should be 
+monitored in combination to provide greater insight (Bourdon et al., 2017) . Tomar and Allen (Tomar & Allen, 
+2019)  and Hellard et al.  (Hellard et al., 2015)  both used a combination of int ernal and external training load in 
+line with current recommendatio ns. Rating of Perceived Exertion was collected as a measure of internal training 
+load and was monitored in conjunction with session du ration by Tomar  and Allen (Tomar & Allen, 2019) . The 
+data was anal ysed to provide measures of training load, monotony  and strain (Foster, 1998; Foster et al., 2001)  as 
+well as ACWR , as outlined  by Gabbett  et al.  (Gabbett, 2016) . These training parameters were employed to find 
+the relationship with inc idence of injury in a university swimming population over a seven -week period. No 
+significant relationship was found between training load, strain and monotony or ACWR and the inciden ce of 
+injury in this population, which contradicts earlier studies in a variety of sports (Anderson et al., 2003; Gabbett & 
+Jenkins, 2011; Hulin et al., 2014) . The lack of significan t association  could be due to the observational period 
+being  relatively short ( seven  weeks) or the low training load experienced by the group. A weekly mean training 
+load of 260±56.33  Arbit rary Units ( AU) appears to be relatively low, compared to other competitive sporting 
+populations . The mean weekly ACWR was  0.94±.53 with a peak of 1.03. These ACWR are within acceptable risk 
+ranges according to Gabbett  et al.  (Gabbett, 2016)  and combined with the low training load are unlikely to stress 
+the athlete s beyond their capacity  (Gabbett, 2016) .   
+ 
+Tomar  and Allen (Tomar & Allen, 2019)  was the only study in the r eview to use the Foster et al. (Foster, 1998; 
+Foster et al., 2001)  method of monitoring training load. This is in contrast to Eckard et al. (Eckard et al., 2018)  
+whose multisport review of fifty -seven studies found twenty -two ( 39%)  of those studies m easured internal training 
+load using the sRPE method. A similar multisport review conducted by Drew and Finch (Drew & Finch, 2016)  
+found tha t twenty -five out of a total of thirty -five (71%) studies utilised sRPE.  The significant difference between 
+the frequency of sRPE use in swim specific research and a multisport research highlights how underutilised this 
+method of monitoring training load is in competitive swimming research.  
+ 
+Research surrounding training load has evolved to understand that neither high or low tr aining load can be 
+considered  solely at fault for  pain,  injury  or illness (Gabbett, 2016) . It is more central to consider t he appropriate 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 30 amount  of training load or rate of load application for that individual athlete  in order  to maximise performance  
+while simultaneously limiting maladaptation (Gabbett, 2019; Griffin et al., 2020) . Researc h into m onitoring  
+changes in training load originated with Banisters “Training Stress Balance” method and developed into the 
+ACWR in recent years (Griffin et al., 2020) . The ACWR  is designed to balance the most recent training loads 
+(acute) with the athletes’ recent history of training load (chronic) in  an effort to predict how fit or fatigued they 
+are (Hulin et al., 2014) . The ACWR has been shown to quantify changes in training load by presenting a numerical 
+range where train ing load is said to be at the “sweet spot” and injury risk is reduced (0.8 – 1.3) (Gabbett, 2 016). 
+It is important to note that this sweet spot numerical range can vary per population  and individual physical 
+capacities  with team sports citing a ACWR sweet spot of 1.00 -1.25 (Malone et al., 2017)  and 0.85 -1.35 (Hulin et 
+al., 2014) . This is crucial to an individual athlete sport like swimming where  a squad “sweet spot” range cannot 
+be relied upon and  each individual’s ACWR need s to be quantified . While a number of studies have used this 
+method to goo d effect in a variety of sports  (Bowen et al., 2019; Carey et al., 2017; Delecroix et al., 2018; Hulin 
+et al., 2014) , the most accurate method of calculating the ACWR is contentious (Menaspà, 2017; Williams, West, 
+et al., 2017) . A recent review by Griffin et al.  (Griffin et al., 2020)  investigated the association between ACWR 
+and injury in team sports. The review concluded that ACWR is associated with non -contact injuries which is a 
+key findi ng for  sport s like swimming. The review also highlighted the key differences between the calculation of 
+ACWR using the rolling average model and the exponentially weighted moving average (EWMA) model. The 
+rolling average m odel divides the acute workload by the chronic workload whereas the  EWMA model accounts 
+for the decaying nature of fitness and fatigue by applying a greater weight to the most recent loads (Griffin et al., 
+2020) .  While the rolling average model has received more substan tial attention in team sport research , the review 
+states  that EWMA may be a more sensitive measure  (Griffin et al., 2020) .  The applicability of these models 
+warrants further investigation, particularly in an elite swimming population where current research is severely 
+limited.  
+ 
+Hellard et al.  (Hellard et al., 2015)  quantified intensity levels based on the work of  Mujika et al.  (Mujika et al., 
+1996)  where blood lactate concentration was mapped throughout a swim specific step test  (Mujika et al., 1996) . 
+Session intensities were planned accordingly  and in conjunction with meters per week. Low intensity training 
+load was categorised as the  mean percentage volume at intensity levels 1 -3, while high intensity training was 
+categorised at  intensity levels 4 and 5. Results of the study showed the odds of illness were 50% -70% higher 
+during intensive training periods. The risk of illness was also increased during winter months , and in national 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 31 level swimmers over international level swimmers. Coaches should be aware of the increased risks of URTPI 
+during intensive training periods  and should accurately measure and programme the intensity and overall load of 
+the sessions accordingly. The scheduling of intensive training periods should be strategic, keeping non -sport stress 
+in mind and avoiding periods of high academic or professional re sponsibilities , or demanding competition 
+calendars. This is particularly important du ring the winter months where the  population risk of URTPI is already 
+considerably high  (Hellard et al., 2015) . The findings also showed that for every 10% increase in training  load, a 
+corresponding 10% increase in the risk of illness was likely , which is in agreement with current evidence th at has 
+shown very high training loads, very low loads and rapid changes in load can also contribute to illness (Schwellnus 
+et al., 2016) . The findings indicate that recover y strategies during intensive training blocks should be given higher 
+consideration than normal. This is particularly important directly after acute maximal speed sessions (blood lactate 
+≥10 mmo·L-1) as these sessions contributed most to increasing risk of illness. This finding is in line with general 
+consensus that immune disturbances are associated with acute session intensity (Walsh et al., 2011) . A consensus 
+statement by Walsh et al. (Walsh et al., 2011)  highlighted that , in order to maintain immune health , training 
+programmes should involve gradual increases in volume and intensity, avoiding sudden increases, adding variety 
+of stimuli including cross -training metho ds and paying particular attention to recovery and nutritional strategies  
+(Walsh et al., 2011) . 
+ 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 32 5. FUTURE CONSIDERATIONS  
+The ability to synthesi se the data and summ arise  the findings is s ignificantly restricted by study design, a variet y 
+of training load methods , large variations in pop ulation  and operating definitions of pain, injury , and illness.  The 
+guidance of a consensus statement may have aided authors in collecting both internal and external training load, 
+which in  turn would have improved the strength of the results . However, as only four (Cejudo et al., 2019; Martins 
+et al., 2018; Tessaro et al., 2017; Tomar & All en, 2019)  of the studies included in this systematic review were 
+published after the introduction of the most recent FINA (Mountjoy et al., 2016)  and IOC (Schwellnus et al., 
+2016; Soligard et al., 2016)  Consensus Guidelines covering load  and the risk of injury and illness, their overall 
+influence was diminished. Publication prior to 2016 reduced the likelihood of authors maintaining a high level of 
+consensus in the operational definitions used for pain, injury and illness, as well as the protocols used to collect 
+that information. Nevertheles s, only one (Tomar & Allen, 2019)  of the  four studies highlighted made reference to 
+the IOC consensus statement, with none referenc ing the FINA consensus statement . This systematic review 
+highlights the need to refer to these guidelines  prior to publishing research of this nature, ideally improv ing the 
+study design and consistency across training load and injury/illness surveillance methods.  
+ 
+Conducting a meta -analysis was not possible within this review due to the large discrepancies between the studies’  
+definitions, analys es, data collection methods and load measures . Future research should stri ve to rectify the  
+limit ations presented by this review by conforming to published consensus statements. If adherence to these 
+guidelines was to increase going forward, the publication of a meta -analysis  would be of signific ant benefit to 
+researchers and practitioners alike .  
+ 
+The FINA guidelines also recommend in and out -of-competition monito ring of  athletes using a sport -specific tool 
+such as OSTRC (Mountjoy et al., 2016) . This validated questionnaire has played an increasing role in sports injury 
+and illness surveillance as it is purposefully designed for the collection of conditions that are below the time -loss 
+threshold (Roald Bahr et al., 2020) .  
+ 
+Load monitoring is largely a subjective practice and thus is reliant on an athlete ’s recall of the key variables. 
+While subjective measures have been shown to be more sensitive a nd consistent than objective measures in 
+determining homeostatic changes to load (Schwellnus et al., 2016) , their use in retrospective studies can lead to 
+inaccuracies in d ata collection. Future research should focus on prospective cohort study designs as they are 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 33 considered to be more reliable and generate real -time knowledge and allow for a more accurate estimation of the 
+risk and incidence of injury and illness (Mukherjee, 2015) .  
+ 
+While a variety of training load measures can be used in the m onitoring of athletes, it is clear that no one measure 
+will provide a clear picture when used in isolation. The reliance upon training volume as an external training load 
+measure in a variety of forms was unable to determine a standardised variable suitabl e for a swimming population. 
+To that end, in line with recent consensus statements, a combination of  internal and external training load should 
+be used in an integrated approach (Bourdon et al., 2017) .  
+ 
+Future research also needs to explore the applicability of the sRPE method of monitoring internal training load 
+within competitive swimming. A recent review by Eckard et al.  (Eckard et al., 2018)  found that  22/57 articles 
+used the sRPE metho d to quantify session intensity. S tatistically significant results  were reported in 21 studies , 
+with one study reporting all null findings  (Eckard et al., 2018) . The collection of sRPE in conjunction with 
+additional external training load provides the opportunity to investigate the  effect of not only increased loads , but 
+also ch anges in load. Unlike similar research in other sports , no study has investigated the links between training 
+load and the incidence of pain, injury and illness  in an elite swimming population  using sRPE  in a longitudinal 
+prospective cohort study.  
+ 
+Finally, research into elite competitive swimming populations is necessary to provide a clear picture of the 
+associations between training load and pain, injury and illness for coaches and practitioners working at the highest 
+echelons of the sport. Conducting research at elite level is often difficult due to the limited access, numbers of 
+athletes and ability to implement good research processes in the practical training environments. However, t here 
+is greater control and resources available at that level , with less confounding factors affecting the results. A 
+universal classification model as seen in Swann et al. (Swann et al., 2015)  should be referred to when defining 
+the athletes level of expertise, allowing for improved  clarity and  comparison of populations (Roald Bahr et al., 
+2020) . 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 34 6. CONCLUSIONS  
+This systematic review provides an appraisal of the literature examining the r elationship between training load 
+and pain, injury, and illness in competitive swimming. The findings highlight that the relationship between these 
+variables is unclear owing to a host of methodological constraints associated with research in this field.  While the 
+relationship has yet to be established, the review highlights that youth, master’s and competitive swimmers of a 
+lower ability should receive particular attention. Planning of load within the seasonal calendar needs prudence, 
+with winter months be ing a key period in the training cycle. Sessions of higher intensity and speed elements 
+should be planned with caution. Monitoring and injury surveillance practices need to be developed in conjunction 
+with consensus guidelines, ensuring load monitoring inc ludes both internal and external training loads. The use 
+of longitudinal load monitoring of elite populations, utilising sRPE and investigating the applicability of the 
+ACWR and EWMA approaches should be a priority for researchers going forward. This will not only improve 
+the quality of the research being conducted, it will also provide greater clarity on the relationship between training 
+load and pain, injury, and illness.  
+ 
+ 
+ 
+ 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 35 7. DECLARATIONS  
+Ethics approval and consent to participate : Not applicable .  
+Consent for publication : Not applicable . 
+Code Availability : Not applicable .   
+Availability of data and material:  Data and materials are available from the corresponding author, upon 
+reasonable and appropriate request.  
+Competing interests : Lorna Barry, Tom Comyns, Karen McCreesh, Mark Lyons, Cormac Powell  declare that 
+they have no competing interests. Lorna Barry and Cormac Powell are employees of Swim Ireland, but this does 
+not constitute a competing  interest.  
+Funding : Lorna Barry is funded by the Irish Research Coun cil Employment Based Programme in conjunction 
+with Swim Ireland.  
+Authors' contributions: All authors contributed to the review conception and design. Material preparation, data 
+collection and analysis were performed by Lorna Barry, Tom Comyns, Mark Lyons, Karen McCreesh and Cormac 
+Powell. The first draft of the manuscript was written by Lorna Barry and all authors commented on previous 
+versions of the manuscript. All authors read and approved the final manus cript.  
+Acknowledgements : The authors would like to acknowledge and thank Liz Dore, (Librarian  for the Faculty of 
+Education and Health Sciences , University of Limerick)  for her help in developing the search strategy.  
+Authors' information (optional) : Not applicable.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 36  
+ 
+List of abbreviations  
+ 
+NR Not Reported  
+NPRS  Numerical Pain Rating Scale  
+DASH  Disability  of the Arm, Shoulder and Hand Questionnaire  
+PSS PENN Shoulder Score  
+SSQ Shoulder Service Questionnaire  
+SIP Significant interfering shoulder pain 
+SSI Significant shoulder injury  
+MA Medical Attention  
+NTL  Non- Time Loss  
+TL Time loss  
+SR Self-reported  
+Third Party  Coach or Investigator reported information  
+CA Clinical Assessment  
+RPE Rate of Perceived Exertion  
+sRPE  Sessional Rate of Perceived Exertion  
+freq/wk  Frequency per week  
+hr/wk  Hours per week  
+Km/wk  Kilometres per week  
+m/wk  Meters per week  
++ive Positive  
+IOC International Olympic Committee  
+FINA  Fédération Internationale de Natation  
+JBI Joanna Briggs Institute  
+ACWR  Acute Chronic Workload Ratio  
+EWMA  Exponential Weighted Moving Average  
+NCAA  National Collegiate Athletic Association  
+URTPI  upper respiratory tract and pulmonary infections  
+OSTRC  Oslo Sports Trauma Research Centre  
+NGB  National Governing Body  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 37 REFERENCES  
+ 
+Anderson, L., Triplett -Mcbride, T., Foster, C., Doberstein, S., & Brice, G. (2003). Impact of 
+training patterns on incidence of illness and injury during a women’s collegiate 
+basketball season. Journal of Strength & Conditioning Research , 17(4), 5.  
+Bahr, R . (2009). No injuries, but plenty of pain? On the methodology for recording overuse 
+symptoms in sports. British Journal of Sports Medicine , 43(13), 966 –972. 
+https://doi.org/10.1136/bjsm.2009.066936  
+Bahr, Roald, Clarsen, B., Derman, W., Dvorak, J., Emery, C . A., Finch, C. F., Hägglund, M., 
+Junge, A., Kemp, S., Khan, K. M., Marshall, S. W., Meeuwisse, W., Mountjoy, M., 
+Orchard, J. W., Pluim, B., Quarrie, K. L., Reider, B., Schwellnus, M., Soligard, T., … 
+Chamari, K. (2020). International Olympic Committee con sensus statement: 
+Methods for recording and reporting of epidemiological data on injury and illness in 
+sport 2020 (including STROBE Extension for Sport Injury and Illness Surveillance 
+(STROBE -SIIS)). British Journal of Sports Medicine , bjsports -2019 -101969 . 
+https://doi.org/10.1136/bjsports -2019 -101969  
+Black, G. M., Gabbett, T. J., Cole, M. H., & Naughton, G. (2016). Monitoring workload in 
+throwing -dominant sports: A systematic review. Sports Medicine , 46(10), 1503 –
+1516. https://doi.org/10.1007/s40279 -016-0529-6 
+Borresen, J., & Lambert, M. (2006). Validity of self -reported training duration. International 
+Journal of Sports Science & Coaching , 1(4), 353 –359. 
+https://doi.org/10.1260/174795406779367666  
+Bourdon, P. C., Cardinale, M., Murray, A., Gastin, P., Kellm ann, M., Varley, M. C., Gabbett, T. 
+J., Coutts, A. J., Burgess, D. J., Gregson, W., & Cable, N. T. (2017). Monitoring athlete 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 38 training loads: Consensus statement. International Journal of Sports Physiology and 
+Performance , 12(s2), S2 -161-S2-170. https://do i.org/10.1123/IJSPP.2017 -0208  
+Bowen, L., Gross, A. S., Gimpel, M., Bruce -Low, S., & Li, F. -X. (2019). Spikes in acute:chronic 
+workload ratio (ACWR) associated with a 5 –7 times greater injury rate in English 
+Premier League football players: A comprehensive 3-year study. British Journal of 
+Sports Medicine , bjsports -2018 -099422. https://doi.org/10.1136/bjsports -2018 -
+099422  
+Bowerman, E., Whatman, C., Harris, N., Bradshaw, E., & Karin, J. (2014). Are maturation, 
+growth and lower extremity alignment associated wi th overuse injury in elite 
+adolescent ballet dancers? Physical Therapy in Sport , 15(4), 234 –241. 
+https://doi.org/10.1016/j.ptsp.2013.12.014  
+Capaci, K., Ozcaldiran, B., & Durmaz, B. (2002). Musculoskeletal pain in elite competitive 
+male swimmers. Pain Clinic , 14(3), 229 –234. Embase. 
+https://doi.org/10.1163/156856902320761432  
+Carey, D. L., Blanch, P., Ong, K. -L., Crossley, K. M., Crow, J., & Morris, M. E. (2017). Training 
+loads and injury risk in Australian football —differing acute: Chronic workload rati os 
+influence match injury risk. British Journal of Sports Medicine , 51(16), 1215 –1220. 
+https://doi.org/10.1136/bjsports -2016 -096309  
+Cejudo, A., Sánchez -Castillo, S., Sainz de Baranda, P., Gámez, J. C., & Santonja -Medina, F. 
+(2019). Low range of shoulders h orizontal abduction predisposes for shoulder pain in 
+competitive young swimmers. Frontiers In Psychology , 10, 478 –478. cmedm. 
+https://doi.org/10.3389/fpsyg.2019.00478  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 39 Contreras Fernandez, J. J., Liendo, R., Osorio, M., & Soza, F. (2012). Shoulder pain in 
+swimmers. In S. Ghosh (Ed.), Pain in Perspective . InTech. 
+https://doi.org/10.5772/51013  
+Corso, M. (2018). Developmental changes in the youth athlete: Implications for movement, 
+skills acquisition, performance and injuries. The Journal of the Canadian Chirop ractic 
+Association , 62(3), 150 –160.  
+de Almeida, M. O., Hespanhol Junior, L. C., & Dias Lopes, A. (2015). Prevalence of 
+musculoskeletal pain among swimmers in an elite national tournament. 
+International Journal of Sports Physical Therapy , 10(7), 1026 –1034. ccm.  
+Delecroix, B., McCall, A., Dawson, B., Berthoin, S., & Dupont, G. (2018). Workload and non -
+contact injury incidence in elite football players competing in European leagues. 
+European Journal of Sport Science , 18(9), 1280 –1287. 
+https://doi.org/10.1080/1 7461391.2018.1477994  
+Difiori, J. P. (2002). Overuse injuries in young athletes: An overview. Athletic Therapy Today , 
+7(6), 25 –29. https://doi.org/10.1123/att.7.6.25  
+Drew, M., & Finch, C. (2016). The relationship between training load and injury, illness an d 
+soreness: A systematic and literature review. Sports Medicine , 46(6), 861 –883. s3h.  
+Eckard, T. G., Padua, D. A., Hearn, D. W., Pexa, B. S., & Frank, B. S. (2018). The relationship 
+between training load and injury in athletes: A systematic review. Sports Medicine , 
+48(8), 1929 –1961. https://doi.org/10.1007/s40279 -018-0951 -z 
+Fehringer, E. V., Sun, J., VanOeveren, L. S., Keller, B. K., & Matsen, F. A. (2008). Full -thickness 
+rotator cuff tear prevalence and correlation with function and co -morbidities in 
+patie nts sixty -five years and older. Journal of Shoulder and Elbow Surgery , 17(6), 
+881–885. https://doi.org/10.1016/j.jse.2008.05.039  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 40 Feijen, S., Tate, A., Kuppens, K., Claes, A., & Struyf, F. (2020). Swim -training volume and 
+shoulder pain across the life span of the competitive swimmer: A systematic review. 
+Journal of Athletic Training , 55(1), 32 –41. https://doi.org/10.4085/1062 -6050 -439-
+18 
+Ferreira, M. I., Barbosa, T. M., Costa, M. J., Neiva, H. P., & Marinho, D. A. (2016). Energetics, 
+biomechanics, and perfor mance in mastersʼ swimmers: A Systematic Review. Journal 
+of Strength and Conditioning Research , 30(7), 2069 –2081. 
+https://doi.org/10.1519/JSC.0000000000001279  
+Foster, C. (1998). Monitoring training in athletes with reference to overtraining syndrome. 
+Medic ine & Science in Sports & Exercise , 30(7), 1164 –1168. 
+https://doi.org/10.1097/00005768 -199807000 -00023  
+Foster, C., Florhaug, J. A., Franklin, J., Gottschall, L., Hrovatin, L. A., Parker, S., Doleshal, P., & 
+Dodge, C. (2001). A new approach to monitoring ex ercise training. Journal of 
+Strength and Conditioning Research , 15(1), 109 –115. 
+https://doi.org/10.1519/00124278 -200102000 -00019  
+Foster, C., Wright, G., Battista, R. A., & Porcari, J. P. (2007). Training in the aging athlete. 
+Current Sports Medicine Reports , 6(3), 200 –206. https://doi.org/10.1007/s11932 -
+007-0029 -4 
+Fricker, P. A., Pyne, D. B., Saunders, P. U., Cox, A. J., Gleeson, M., & Telford, R. D. (2005). 
+Influence of training loads on patterns of illness in elite distance runners. Clinical 
+Journal  of Sport Medicine , 15(4), 246 –252. 
+https://doi.org/10.1097/01.jsm.0000168075.66874.3e  
+Friel, J. (2018). The cyclist’s training bible: The world’s most comprehensive training guide  
+(5th edition). VeloPress Books.  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 41 Fuller, C. W. (2006). Consensus statement o n injury definitions and data collection 
+procedures in studies of football (soccer) injuries. British Journal of Sports Medicine , 
+40(3), 193 –201. https://doi.org/10.1136/bjsm.2005.025270  
+Gabbe, B. J. (2003). How valid is a self reported 12 month sports inj ury history? British 
+Journal of Sports Medicine , 37(6), 545 –547. https://doi.org/10.1136/bjsm.37.6.545  
+Gabbett, T. J. (2016). The training —injury prevention paradox: Should athletes be training 
+smarter and harder? British Journal of Sports Medicine , 50(5), 273–280. 
+https://doi.org/10.1136/bjsports -2015 -095788  
+Gabbett, T. J. (2019). How much? How fast? How soon? Three simple concepts for 
+progressing training loads to minimize injury risk and enhance performance. Journal 
+of Orthopaedic & Sports Physical Thera py, 1–9. 
+https://doi.org/10.2519/jospt.2020.9256  
+Gabbett, T. J., & Jenkins, D. G. (2011). Relationship between training load and injury in 
+professional rugby league players. Journal of Science and Medicine in Sport , 14(3), 
+204–209. https://doi.org/10.1016/ j.jsams.2010.12.002  
+García -Ramos, A., Feriche, B., Calderón, C., Iglesias, X., Barrero, A., Chaverri, D., Schuller, T., 
+& Rodríguez, F. A. (2015). Training load quantification in elite swimmers using a 
+modified version of the training impulse method. Europ ean Journal of Sport Science , 
+15(2), 85 –93. s3h.  
+Gasik, S. (2011). A model of project knowledge management. Project Management Journal , 
+42(3), 23 –44. https://doi.org/10.1002/pmj.20239  
+Griffin, A., Kenny, I. C., Comyns, T. M., & Lyons, M. (2020). The associ ation between the 
+acute:chronic workload ratio and injury and its application in team sports: A 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 42 systematic review. Sports Medicine , 50(3), 561 –580. 
+https://doi.org/10.1007/s40279 -019-01218 -2 
+Halson, S. L. (2014). Monitoring training load to understand fati gue in athletes. Sports 
+Medicine , 44(S2), 139 –147. https://doi.org/10.1007/s40279 -014-0253 -z 
+Harrington, S., Meisel, C., & Tate A. (2014). Cross -sectional study examining shoulder pain 
+and disability in division I female swimmers. Journal of Sport Rehabili tation , 23(1), 
+65–75. Medline. https://doi.org/10.1123/JSR.2012 -0123  
+Hellard, P., Avalos, M., Guimaraes, F., Toussaint, J. -F., & Pyne, D. B. (2015). Training -related 
+risk of common illnesses in elite swimmers over a 4 -yr period. Medicine & Science in 
+Sport s & Exercise , 47(4), 698 –707. https://doi.org/10.1249/MSS.0000000000000461  
+Hibberd, E. E., & Myers, J. B. (2013). Practice habits and attitudes and behaviors concerning 
+shoulder pain in high school competitive club swimmers. Clinical Journal of Sport 
+Medicine , 23(6), 450 –455. ccm. https://doi.org/10.1097/JSM.0b013e31829aa8ff  
+Hidalgo -Lozano, A., Calderón -Soto, C., Domingo -Camara, A., Fernández -De-Las-Penas, C., 
+Madeleine, P., & Arroyo -Morales, M. (2012). Elite swimmers with unilateral shoulder 
+pain demo nstrate altered pattern of cervical muscle activation during a functional 
+upper -limb task. Journal of Orthopaedic and Sports Physical Therapy , 42(6), 552 –558. 
+Medline. https://doi.org/10.2519/jospt.2012.3875  
+Hidalgo -Lozano, A., Fernández -de-las-Peñas, C., Calderón -Soto, C., Domingo -Camara, A., 
+Madeleine, P., & Arroyo -Morales, M. (2013). Elite swimmers with and without 
+unilateral shoulder pain: Mechanical hyperalgesia and active/latent muscle trigger 
+points in neck -shoulder muscles. Scandinavian Journal of M edicine and Science in 
+Sports , 23(1), 66 –73. Scopus. https://doi.org/10.1111/j.1600 -0838.2011.01331.x  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 43 Hulin, B. T., Gabbett, T. J., Blanch, P., Chapman, P., Bailey, D., & Orchard, J. W. (2014). Spikes 
+in acute workload are associated with increased injury risk in elite cricket fast 
+bowlers. British Journal of Sports Medicine , 48(8), 708 –712. 
+https://doi.org/10.1136/bjsports -2013 -092524  
+Joanna Briggs Institute. (2019). JBI Reviewer’s Manual . Joanna Briggs Institute Reviewer’s 
+Manual. https://wiki.joannabrigg s.org/display/MANUAL/JBI+Reviewer%27s+Manual  
+Johnston, R., Cahalan, R., Bonnett, L., Maguire, M., Nevill, A., Glasgow, P., O’Sullivan, K., & 
+Comyns, T. (2019). Training load and baseline characteristics associated with new 
+injury/pain within an endurance s porting population: A prospective study. 
+International Journal of Sports Physiology & Performance , 14(5), 590 –597. s3h.  
+Jones, C. M., Griffiths, P. C., & Mellalieu, S. D. (2017). Training load and fatigue marker 
+associations with injury and illness: A syst ematic review of longitudinal studies. 
+Sports Medicine , 47(5), 943 –974. https://doi.org/10.1007/s40279 -016-0619 -5 
+Kenttä, G., & Hassmén, P. (1998). Overtraining and recovery: A conceptual model. Sports 
+Medicine , 26(1), 1 –16. https://doi.org/10.2165/0000725 6-199826010 -00001  
+Khodaee, M., Edelman, G. T., Spittler, J., Wilber, R., Krabak, B. J., Solomon, D., Riewald, S., 
+Kendig, A., Borgelt, L. M., Riederer, M., Puzovic, V., & Rodeo, S. (2016). Medical care 
+for swimmers. Sports Medicine - Open , 2(1), 27. https: //doi.org/10.1186/s40798 -
+016-0051 -2 
+Kjellsson, G., Clarke, P., & Gerdtham, U. -G. (2014). Forgetting to remember or remembering 
+to forget: A study of the recall period length in health care survey questions. Journal 
+of Health Economics , 35, 34–46. https://d oi.org/10.1016/j.jhealeco.2014.01.007  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 44 Krüger, P. E., Dressler, A., & Botha, M. (2012). Incidence of shoulder injuries and related risk 
+factors among master swimmers in South Africa. African Journal for Physical, Health 
+Education, Recreation & Dance , 57–76. s3h. 
+Kwong, J. S. W., Chen, H., & Sun, X. (2016). Development of evidence -based 
+recommendations: Implications for preparing expert consensus statements. Chinese 
+Medical Journal , 129(24), 2998 –3000. https://doi.org/10.4103/0366 -6999.195475  
+Lambert, M. I., & Borresen, J. (2010). Measuring training load in sports. International Journal 
+of Sports Physiology and Performance , 5(3), 406 –411. 
+https://doi.org/10.1123/ijspp.5.3.406  
+Langhout, R., Weir, A., Litjes, W., Gozeling, M., Stubbe, J. H., Kerk hoffs, G., & Tak, I. (2019). 
+Hip and groin injury is the most common non -time -loss injury in female amateur 
+football. Knee Surgery, Sports Traumatology, Arthroscopy , 27(10), 3133 –3141. 
+https://doi.org/10.1007/s00167 -018-4996 -1 
+Lehmann, M., Foster, C., Gast mann, U., Keizer, H., & Steinacker, J. M. (1999). Definition, 
+types, symptoms, findings, underlying mechanisms, and frequency of overtraining 
+and overtraining syndrome. In M. Lehmann, C. Foster, U. Gastmann, H. Keizer, & J. 
+M. Steinacker (Eds.), Overload, Performance Incompetence, and Regeneration in 
+Sport  (pp. 1 –6). Springer US. https://doi.org/10.1007/978 -0-585-34048 -7_1 
+Malone, S., Owen, A., Newton, M., Mendes, B., Collins, K. D., & Gabbett, T. J. (2017). The 
+acute:chonic workload ratio in relation to in jury risk in professional soccer. Journal of 
+Science and Medicine in Sport , 20(6), 561 –565. 
+https://doi.org/10.1016/j.jsams.2016.10.014  
+Martins, L. C. X., Paiva, J. R., Freitas, A. C., Miguel, L. B., & Maia, F. R. C. (2018). Prevalence of 
+pain and psycholo gical distress in high‐performance swimmers: Job stress and 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 45 associated factors – a cross -sectional study. Revista de Educação Física / Journal of 
+Physical Education , 87(4). https://doi.org/10.37310/ref.v87i4.809  
+Matsuura, Y., Hangai, M., Koizumi, K., Ueno,  K., Hirai, N., Akuzawa, H., & Kaneoka, K. (2019). 
+Injury trend analysis in the Japan national swim team from 2002 to 2016: Effect of 
+the lumbar injury prevention project. BMJ Open Sport & Exercise Medicine , 5(1), 
+e000615. https://doi.org/10.1136/bmjsem -2019-000615  
+McCarthy, M. M., & Hannafin, J. A. (2014). The mature athlete: Aging tendon and ligament. 
+Sports Health: A Multidisciplinary Approach , 6(1), 41 –48. 
+https://doi.org/10.1177/1941738113485691  
+McMaster WC, Roberts A, & Stoddard T. (1998). A correlati on between shoulder laxity and 
+interfering pain in competitive swimmers. American Journal of Sports Medicine , 
+26(1), 83 –86. ccm.  
+Meeusen, R., Duclos, M., Gleeson, M., Rietjens, G., Steinacker, J., & Urhausen, A. (2006). 
+Prevention, diagnosis and treatment of the Overtraining Syndrome: ECSS Position 
+Statement ‘Task Force.’ European Journal of Sport Science , 6(1), 1 –14. 
+https://doi.org/10.1080/17461390600617717  
+Menaspà, P. (2017). Are rolling averages a good way to assess training load for injury 
+prevention? British Journal of Sports Medicine , 51(7), 618.1 -619. 
+https://doi.org/10.1136/bjsports -2016 -096131  
+Mountjoy, M., Junge, A., Alonso, J. M., Clarsen, B., Pluim, B. M., Shrier, I., van den 
+Hoogenband, C., Marks, S., Gerrard, D., Heyns, P., Kaneoka, K., Dijkst ra, H. P., & 
+Khan, K. M. (2016). Consensus statement on the methodology of injury and illness 
+surveillance in FINA (aquatic sports). British Journal of Sports Medicine , 50(10), 590 –
+596. https://doi.org/10.1136/bjsports -2015 -095686  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 46 Mujika, I. (2017). Quanti fication of training and competition loads in endurance sports: 
+Methods and applications. International Journal of Sports Physiology and 
+Performance , 12(s2), S2 -9-S2-17. https://doi.org/10.1123/ijspp.2016 -0403  
+Mujika, I., Busso, T., Lacoste, L., Barale, F. , Geyssant, A., & Chatard, J. -C. (1996). Modeled 
+responses to training and taper in competitive swimmers. Medicine &amp Science in 
+Sports &amp Exercise , 28(2), 251 –258. https://doi.org/10.1097/00005768 -
+199602000 -00015  
+Mukherjee, S. (2015). Retrospective de signs in sports injury surveillance studies: All is not 
+lost. Sports and Exercise Medicine - Open Journal , 1(5), 164 –166. 
+https://doi.org/10.17140/SEMOJ -1-125 
+Myrick, K. M. (2015). Overtraining and overreaching syndrome in athletes. The Journal for 
+Nurse P ractitioners , 11(10), 1018 –1022. 
+https://doi.org/10.1016/j.nurpra.2015.08.038  
+Newton, M. D., Owen, A. L., & Baker, J. S. (2019). Monitoring external and internal training 
+loads: Relationships with injury risk in professional soccer: A review. EC 
+Orthopaedi cs, 12.  
+Nour, M., Lutze, S., Grech, A., & Allman -Farinelli, M. (2018). The relationship between 
+vegetable intake and weight outcomes: A systematic review of cohort studies. 
+Nutrients , 10(11), 1626. https://doi.org/10.3390/nu10111626  
+Nugent, F., Comyns, T., Nevill, A., & Warrington, G. D. (2019). The effects of low -volume, 
+high -intensity training on performance parameters in competitive youth swimmers. 
+International Journal of Sports Physiology & Performance , 14(2), 203 –208. s3h.  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 47 Nugen t, F. J., Comyns, T. M., & Warrington, G. D. (2017). Quality versus quantity debate in 
+swimming: Perceptions and training practices of expert swimming coaches. Journal 
+of Human Kinetics , 57(1), 147 –158. https://doi.org/10.1515/hukin -2017 -0056  
+Palmer -Green,  D., Fuller, C., Jaques, R., & Hunter, G. (2013). The Injury/Illness Performance 
+Project (IIPP): A novel epidemiological approach for recording the consequences of 
+sports injuries and illnesses. Journal of Sports Medicine , 2013 , 1–9. 
+https://doi.org/10.115 5/2013/523974  
+Pink, M. M., & Tibone, J. E. (2000). The painful shoulder in the swimming athlete. 
+Orthopedic Clinics of North America , 31(2), 247 –261. https://doi.org/10.1016/S0030 -
+5898(05)70145 -0 
+Pollock, S., Gaoua, N., Johnston, M. J., Cooke, K., Girard, O., & Mileva, K. N. (2019). Training 
+regimes and recovery monitoring practices of elite British swimmers. Journal of 
+Sports Science & Medicine , 18(3), 577 –585. s3h.  
+PRISMA -P Group, Moher, D., Shamseer, L., Clarke, M., Ghersi, D., Liberati, A., Petticrew, M ., 
+Shekelle, P., & Stewart, L. A. (2015). Preferred reporting items for systematic review 
+and meta -analysis protocols (PRISMA -P) 2015 statement. Systematic Reviews , 4(1), 
+1. https://doi.org/10.1186/2046 -4053 -4-1 
+Reeves, N. D., Narici, M. V., & Maganaris, C . N. (2006). Myotendinous plasticity to ageing 
+and resistance exercise in humans: Myotendinous plasticity. Experimental 
+Physiology , 91(3), 483 –498. https://doi.org/10.1113/expphysiol.2005.032896  
+Rio 2016 —Swimming | FINA.org —Official FINA website . (n.d.). R etrieved April 8, 2020, from 
+http://www.fina.org/content/rio -2016 -swimming  
+Ristolainen, L., Heinonen, A., Turunen, H., Mannström, H., Waller, B., Kettunen, J. A., & 
+Kujala, U. M. (2010). Type of sport is related to injury profile: A study on cross 
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 48 country skiers, swimmers, long -distance runners and soccer players. A retrospective 
+12-month study. Scandinavian Journal of Medicine & Science in Sports , 20(3), 384 –
+393. s3h.  
+Ristolainen, L., Kettunen, J. A., Waller, B., Heinonen, A., & Kujala, U. M. (2014). Training -
+related risk factors in the etiology of overuse injuries in endurance sports. The 
+Journal of Sports Medicine and Physical Fitness , 54(1), 78 –87. 
+Schwellnus, M., So ligard, T., Alonso, J. -M., Bahr, R., Clarsen, B., Dijkstra, H. P., Gabbett, T. J., 
+Gleeson, M., Hägglund, M., Hutchinson, M. R., Janse Van Rensburg, C., Meeusen, R., 
+Orchard, J. W., Pluim, B. M., Raftery, M., Budgett, R., & Engebretsen, L. (2016). How 
+much  is too much? (Part 2) International Olympic Committee consensus statement 
+on load in sport and risk of illness. British Journal of Sports Medicine , 50(17), 1043 –
+1052. https://doi.org/10.1136/bjsports -2016 -096572  
+Soligard, T., Schwellnus, M., Alonso, J. -M., Bahr, R., Clarsen, B., Dijkstra, H. P., Gabbett, T., 
+Gleeson, M., Hägglund, M., Hutchinson, M. R., Janse van Rensburg, C., Khan, K. M., 
+Meeusen, R., Orchard, J. W., Pluim, B. M., Raftery, M., Budgett, R., & Engebretsen, L. 
+(2016). How much is too much? ( Part 1) International Olympic Committee consensus 
+statement on load in sport and risk of injury. British Journal of Sports Medicine , 
+50(17), 1030 –1041. https://doi.org/10.1136/bjsports -2016 -096581  
+Soligard, T., Steffen, K., Palmer, D., Alonso, J. M., Bahr,  R., Lopes, A. D., Dvorak, J., Grant, M. -
+E., Meeuwisse, W., Mountjoy, M., Pena Costa, L. O., Salmina, N., Budgett, R., & 
+Engebretsen, L. (2017). Sports injury and illness incidence in the Rio de Janeiro 2016 
+Olympic Summer Games: A prospective study of 112 74 athletes from 207 countries. 
+British Journal of Sports Medicine , 51(17), 1265 –1271. 
+https://doi.org/10.1136/bjsports -2017 -097956  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 49 Su, K. P. E., Johnson, M. P., Gracely, E. J., & Karduna, A. R. (2004). Scapular rotation in 
+swimmers with and without imping ement syndrome: Practice effects. Medicine & 
+Science in Sports & Exercise , 36(7), 1117 –1123. 
+https://doi.org/10.1249/01.MSS.0000131955.55786.1A  
+Swann, C., Moran, A., & Piggott, D. (2015). Defining elite athletes: Issues in the study of 
+expert performance i n sport psychology. Psychology of Sport and Exercise , 16, 3–14. 
+https://doi.org/10.1016/j.psychsport.2014.07.004  
+Tate, A., Turner, G. N., Knab, S. E., Jorgensen, C., Strittmatter, A., & Michener, L. A. (2012). 
+Risk factors associated with shoulder pain and  disability across the lifespan of 
+competitive swimmers. Journal of Athletic Training (National Athletic Trainers’ 
+Association) , 47(2), 149 –158. s3h.  
+Tessaro, M., Granzotto, G., Poser, A., Plebani, G., & Rossi, A. (2017). Shoulder pain in 
+competitive teena ge swimmers and it’s prevention: A retrospective epidemiological 
+cross sectional study of prevalence. International Journal of Sports Physical Therapy , 
+12(5), 798 –811. https://doi.org/10.26603/ijspt20170798  
+Timpka, T., Jacobsson, J., Ekberg, J., Finch, C. F., Bichenbach, J., Edouard, P., Bargoria, V., 
+Branco, P., & Alonso, J. M. (2015). Meta -narrative analysis of sports injury reporting 
+practices based on the Injury Definitions Concept Framework (IDCF): A review of 
+consensus statements and epidemiological s tudies in athletics (track and field). 
+Journal of Science and Medicine in Sport , 18(6), 643 –650. 
+https://doi.org/10.1016/j.jsams.2014.11.393  
+Tomar, R., & Allen, J. A. (2019). The relationship of training parameters with incidence of 
+injury, sleep and well being of young university swimmers. International Journal of 
+Pharmaceutical Research and Allied Sciences , 8(3), 47 –60. Embase.  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 50 Toomey, C., Richmond, S. A., & Black, A. (2018). Evidence Summary: Swimming  (Evidence 
+Summary No. 1; Active & Safe, p. 18). Activ e & Safe Central. BC Injury Research and 
+Prevention Unit: Vancouver. https://activesafe.ca  
+Volpi, E., Nazemi, R., & Fujita, S. (2004). Muscle tissue changes with aging: Current Opinion 
+in Clinical Nutrition and Metabolic Care , 7(4), 405 –410. 
+https://doi.or g/10.1097/01.mco.0000134362.76653.b2  
+Walker, H., Gabbe, B., Wajswelner, H., Blanch, P., & Bennell, K. (2012). Shoulder pain in 
+swimmers: A 12 -month prospective cohort study of incidence and risk factors. 
+Physical Therapy in Sport , 13(4), 243 –249. 
+https://d oi.org/10.1016/j.ptsp.2012.01.001  
+Walsh, N. P., Gleeson, M., Pyne, D. B., Nieman, D. C., Dhabhar, S., Shephard, R. J., Oliver, S. 
+J., & Bermon, S. (2011). Position statement part two: Maintaining immune health. 
+Exercise Immunology Review , 17, 41.  
+Wanivenha us, F., Fox, A. J. S., Chaudhury, S., & Rodeo, S. A. (2012). Epidemiology of injuries 
+and prevention strategies in competitive swimmers. Sports Health: A 
+Multidisciplinary Approach , 4(3), 246 –251. 
+https://doi.org/10.1177/1941738112442132  
+Weldon, E. J., & R ichardson, A. B. (2001). Upper extremity overuse injuries in swimming. 
+Clinics in Sports Medicine , 20(3), 423 –438. https://doi.org/10.1016/S0278 -
+5919(05)70260 -X 
+Williams, S., Trewartha, G., Cross, M. J., Kemp, S. P. T., & Stokes, K. A. (2017). Monitoring 
+what matters: A systematic process for selecting training -load measures. 
+International Journal of Sports Physiology and Performance , 12(s2), S2 -101-S2-106. 
+https://doi.org/10.1123/ijspp.2016 -0337  
+Training Load and Pain, Injury and Illness in Competitive Swimming  
+ 51 Williams, S., West, S., Cross, M. J., & Stokes, K. A. (2017).  Better way to determine the 
+acute:chronic workload ratio? British Journal of Sports Medicine , 51(3), 209 –210. 
+https://doi.org/10.1136/bjsports -2016 -096589  
+Wolf, B. R., Ebinger, A. E., Lawler, M. P., & Britton, C. L. (2009). Injury patterns in division I 
+collegiate swimming. The American Journal of Sports Medicine , 37(10), 2037 –2042. 
+https://doi.org/10.1177/0363546509339364  
+ 

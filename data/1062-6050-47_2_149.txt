@@ -1,0 +1,505 @@
+ Journal of Athletic Training 149 Risk Factors Associated With Shoulder Pain and 
+Disability Across the Lifespan of Competitive Swimmers
+Angela Tate, PhD, PT, Cert MDT*; Gregory N. Turner, DPT, PT, ATC†; 
+Sarah E. Knab, DPT, PT, ATC‡; Colbie Jorgensen, DPT, PT*; Andrew 
+Strittmatter, SPT*; Lori A. Michener, PhD, PT, ATC, SCS§
+*Arcadia University, Glenside, PA; †Drayer Physical Therapy, Lancaster, PA; ‡Nazareth Hospital, 
+Philadelphia, PA; §Virginia Commonwealth University, Richmond
+Context: The prevalence of shoulder pain among competi-
+tive swimmers is high, but no guidelines exist to reduce shoul-
+der injuries. Elucidating differences between swimmers with and without shoulder pain can serve as a basis for the develop-ment of a program to prevent shoulder injury that might lead to 
+pain and dysfunction.
+Objective: To determine whether physical characteristics, 
+exposure, or training variables differ between swimmers with 
+and without shoulder pain or disability.
+Design: Cross-sectional study.Setting: Multisite swimming centers.Patients or Other Participants: A total of 236 competitive 
+female swimmers aged 8 to 77 years.
+Data Collection and Analysis: Participants completed the 
+Penn Shoulder Score and underwent testing of core endurance, range of motion, muscle force production, and pectoralis minor muscle length and the Scapular Dyskinesis Test. Swimmers were grouped by age for analysis: ages 8 to 11 years (n = 42), 
+12 to 14 years (n = 43), 15 to 19 years (high school, n = 84), and 
+23 to 77 years (masters, n = 67). Comparisons were made be-
+tween groups with and without pain and disability using inde-pendent t tests for continuous data and χ
+2 analyses and Fisher 
+exact tests for categorical data.Results: Nine (21.4%) swimmers aged 8 to 11 years, 8 
+(18.6%) swimmers aged 12 to 14 years, 19 (22.6%) high school swimmers, and 13 (19.4%) masters swimmers had shoulder pain and disability. Differences that were found in 2 or more age groups between athletes with and without shoulder pain and dis-ability included greater swimming exposure, a higher incidence of previous traumatic injury and patient-rated shoulder insta -
+bility, and reduced participation in another sport in the symp-tomatic groups (P < .05). Reduced shoulder flexion motion, 
+weakness of the middle trapezius and internal rotation, shorter pectoralis minor and latissimus, participation in water polo, and decreased core endurance were found in symptomatic females in single varying age groups (P < .05).
+Conclusions: Female competitive swimmers have shoulder 
+pain and disability throughout their lives. Given that exposure and physical examination findings varied between athletes 
+with and without substantial pain and disability, a program to 
+prevent shoulder injury that might lead to pain and dysfunc-tion appears warranted and might include exposure reduc-tion, cross-training, pectoral and posterior shoulder stretching, strengthening, and core endurance training.
+Key Words: swimming, exposure variables, injury preven-
+tion
+Key Points
+•	 Competitive	 swimmers	 less	than	12	years	of	age	had	substantial	 shoulder	 pain,	and	older	swimmers	 had	pain,	dissatis-
+faction, and disability.
+•	 High	school	swimmers	 were	the	most	symptomatic	 and	incurred	 the	greatest	 load	in	terms	of	hours	swum	per	week	and	
+per year.
+•	 Shoulder	 pain,	dissatisfaction,	 and	disability	 were	correlated	 positively	 with	increased	 upper	extremity	 usage	in	terms	of	
+swimming or water polo exposure and were correlated negatively with participation in another sport, specifically soccer for young and running or walking for mature swimmers.
+•	 Symptomatic	 swimmers	 who	were	less	than	12	years	of	age	had	reduced	 shoulder	 flexibility,	 weakness	 of	the	middle	
+trapezius and shoulder internal rotators, and latissimus dorsi tightness, whereas symptomatic swimmers who were 12 years of age or older had pectoralis minor tightness and decreased core endurance.
+•	 Because	 female	competitive	 swimmers	 have	shoulder	 pain	and	disability	 throughout	 their	lives,	a	program	 to	prevent	
+shoulder injury that might lead to pain and dysfunction is warranted and might include exposure reduction, cross- training, pectoral and posterior shoulder stretching, strengthening, and core endurance training.Journal of Athletic Training  2012:47(2):149–158
+© by the National Athletic Trainers’ Association, Incwww.nata.org/jat original researchDownloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/149/1454740/1062-6050-47_2_149.pdf by guest on 12 August 2024
+
+150	 Volume	47	•	Number	2	•	April	2012Each year, millions of people swim for exercise and recre -
+ation. Competitive swimmers might practice 5 to 7 days 
+per week and sometimes twice daily. They have shoul-
+der pain at a reported prevalence of 40% to 91%.1–3 Shoulder 
+pain can be so severe that it leads to functional impairments and termination of participation.
+4 Conditions theorized to cause 
+shoulder pain in swimmers include glenohumeral laxity, biceps or rotator cuff lesions, and impingement syndrome.
+3 The inci -
+dence of rotator cuff lesions increases with age, and the cause of impingement is considered to be multifactorial. It might be due to weakness or reduced endurance of the shoulder muscles, a lack of scapular stability, poor posture, reduced flexibility, or bony alterations.
+5 An injury-prevention program might help re-
+duce the shoulder pain of swimmers, but no such program ex-ists. To develop a prevention program, physical characteristics and exposure or training factors associated with shoulder pain must first be identified. A relationship between exposure, which is defined by dis-
+tance or time spent swimming, and shoulder pain exists,
+3 but 
+exposure might not be the only factor related to shoulder pain. Physical impairments found in symptomatic swimmers include reduced shoulder internal rotation strength and external rotation and abduction muscle endurance.
+6,7 However, these data were 
+collected in small, homogeneous age and training groups of swimmers. Therefore, we do not know whether deficits found in symptomatic swimmers of different training and age groups are present in swimmers across their competitive lifespans. Over the past decade, changes have been made in competi -
+tive swimming training and equipment, such as more extensive dry-land programs and the use of redesigned paddles to improve stroke mechanics. Given these changes and the high prevalence of pain in swimmers, potentially modifiable physical charac -
+teristics of swimmers’ exposure and training variables that are related to their pain need to be identified. No researchers have combined training and exposure data with physical examina -
+tion findings to identify factors related to shoulder pain over an age range from the young team competitor to the master’s-level swimmer. Therefore, the purpose of our study was to determine whether physical characteristics, training methods, or exposure differs between swimmers with and without shoulder pain, dissatisfaction with their shoulders, and disability over 4 age groups representing the swimmer’s lifespan. Identification of factors that differentiate swimmers with and without shoulder pain could provide the basis for a program to prevent shoulder injury that might lead to pain and dysfunction.
+METHODS
+Participants
+ A total of 236 female swimmers from 8 to 77 years of age 
+volunteered for this multicenter study. Each participant be-
+longed to a youth, high school, or US Masters swim team. Swimmers in the Philadelphia, Pennsylvania, area were invited to participate with their coaches’ approval. Adult swimmers and parents or guardians of minors provided written informed consent, and minors signed an assent form. The study was ap-proved by the Arcardia University Institutional Review Board.
+Procedures
+ Adult swimmers and the parents or guardians of minors com-
+pleted or assisted with a survey that included demographics, questions about other sport participation, and the amount of 
+participation in swimming on a weekly basis. They also were instructed to indicate the number of months per year they prac-ticed and how many years they had participated in competitive swimming. Shoulder pain and dissatisfaction were assessed us-ing the respective subscales of the Penn Shoulder Score.
+8 Pain 
+was rated at rest, with normal activities (eating, dressing, bath-ing), and with strenuous activities (sports, reaching, lifting) on a scale of 0 (no pain) to 10 (worst possible pain). The pain sub-scale total was calculated by subtracting each of the 3 scores from 10 and then adding them for a total of 0 to 30, with 30 indicating no pain. Disatisfaction also was assessed using the 
+0 (not satisfied) to 10 (very satisfied ) scale. Shoulder function 
+with swimming was measured using the Sports/Performing Arts Module of the Disabilities of the Arm, Shoulder, and Hand Outcome Measure
+9 (DASH) because the sports module of the 
+DASH has face validity for our study population, given the lack of a validated outcome measure for athletes. The DASH sports module instructs participants to rate 4 items (physical ability with sports technique, participation, satisfaction, and frequency), using a 5-point scale, with 1 indicating no difficulty  
+and 5 indicating unable over the past week.
+ Next, swimmers rotated through a series of 5 stations where 
+range of motion (ROM), strength, pectoral muscle length, core endurance, and scapular dyskinesis were assessed by members of the research team. This team consisted of an experienced physical therapist (A.T.) and 4 graduate physical therapist stu-dents (G.N.T., S.E.K., C.J., A.S.), 2 of whom were certified ath-letic trainers (G.N.T., S.E.K.). Before data collection on swimmers, 2 training sessions 
+were held in which the research team was given written in-structions and practiced the testing procedures. Intrarater reli -
+ability of ROM, strength, pectoral muscle length, and scapular dyskinesis was established with 14 athletically active females (age = 23.8 ± 1.7 years). Athletically active  was defined as exer -
+cising regularly or participating in sports. Intraclass correlation coefficients (ICCs) for continuous data from strength measured by dynamometry, ROM, and pectoral length were fair to excel -
+lent (ICC [3,1] = 0.60 to 0.92), and percentage agreement for 
+scapular dyskinesis and manual muscle testing was excellent (κ = 0.83 to 1.0).
+ Station 1: Range of Motion. Passive ROM (PROM) of 
+both shoulders was assessed using an inclinometer for shoul-der flexion in neutral rotation with the participant lying supine; shoulder flexion, with the elbow maximally flexed for long head triceps tightness
+10; shoulder flexion, with the humerus ex-
+ternally rotated, knees and hips flexed, and abdominal muscles actively contracted for latissimus dorsi tightness
+10; and internal 
+and external rotation, with the shoulder abducted to 90°. Station 2: Strength. Bilateral glenohumeral strength was 
+assessed using a handheld dynamometer (microFET; Hoggan Industries, Draper, UT). For this study, maximal isometric force production was tested for shoulder internal and external rotation with the participant lying prone and the shoulder ab-ducted to 90°; this position has been recommended because swimmers are familiar with it and because it is comfortable and has the highest torque values.
+11 Shoulder horizontal abduc-
+tion strength was measured with the participant lying prone with the elbow extended, and shoulder elevation was measured with the participant standing in the empty-can position (90° of shoulder elevation in the scapular plane and internally rotated). Two repetitions of each test were performed, and an additional repetition was performed if the difference between the first Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/149/1454740/1062-6050-47_2_149.pdf by guest on 12 August 2024
+
+2 measurements was greater than 1.36 kg. Arm and forearm 
+lengths also were measured and used to calculate normalized torque values, which were obtained by multiplying the dyna-mometer output by the distance from the shoulder to the appli -
+cation of force and then dividing by body mass. Manual muscle testing was performed bilaterally on the ser -
+ratus anterior, lower trapezius, and middle trapezius muscles as described by Kendall et al.
+10 Each muscle was graded categori-
+cally as normal or reduced. Normal was defined as no move-
+ment of the scapula when resistance was applied to the distal humerus, and reduced  was defined as movement of the scapula 
+with application of pressure. Station 3: Scapular Dyskinesis. Scapular motion patterns 
+were assessed for winging or dysrhythmia using the scapular dyskinesis test (SDT). The SDT has demonstrated reliability and validity in adult athletes participating in sports that include overhead use of the upper extremity, specifically swimming and water polo.
+12,13 Shoulder flexion and abduction each were 
+performed 5 times bilaterally with dumbbells. A 0.45-kg dumb-bell was used for participants who weighed less than 36.29 kg, 1.36-kg dumbbells were used for participants who weighed from 36.29 to 68.04 kg, and 2.27-kg dumbbells were used for participants who weighed more than 68.04 kg. These weights were selected based on a pilot study in which Tate et al
+14 de-
+termined that swimmers could lift the required amount safely. The examiner observed the scapulae from a posterior view and graded the motion pattern as normal or subtle dyskinesis or ob-vious dyskinesis. Station 4: Endurance. Endurance of core musculature was 
+assessed using the side bridge test (Figure 1),
+15 the prone bridge 
+test,16 and the closed kinetic chain upper extremity stability 
+test.17 Participants were timed for the aforementioned tests, and 
+a yardstick was held vertically by the tester from the mat to the lowest portion of the hip. If the hip dropped, the participant was given oral instructions to try to resume the straight position. If the hip dropped a second time, the test was ended. The par -
+ticipant’s scapula also was monitored because loss of control resulted in winging and inability to maintain the original po-sition. For the closed kinetic chain upper extremity stability test, 2 pieces of athletic tape were placed on a mat 36 in (91.44 cm) apart for participants more than 12 years of age and 24 in (60.96 cm) apart for younger participants. Participants assumed a push-up position with 1 hand on each piece of tape. They lifted each hand sequentially, quickly touched the opposite piece of tape, and then returned the hand to its original position. The number of repetitions in 15 seconds was recorded.
+17
+ Station 5: Pectoralis Minor Length. Pectoralis minor 
+length was measured with a PALM palpation meter (Perfor -
+mance Attainment Associates, St Paul, MN) using surface landmarks validated by Borstad
+18 (Figure 2). The following 
+landmarks were palpated and marked by the first author (A.T.): the inferior aspect of the sternal notch and the lateral aspect of the acromioclavicular joint, which represented the clavicle length; and the medioinferior aspect of the coracoid in the deltopectoral groove, which is the proximal pectoralis minor attachment. Next, the anteroinferior aspect of rib 4 one finger -
+width lateral to the sternum was identified, and the swimmer was instructed to hold her index finger on the spot while the investigator measured the distance from rib 4 to the coracoid process, which represented the pectoralis minor length at rest. Next, the swimmer was instructed to elevate her upper extrem -
+ity to shoulder level and flex her elbow to 90° while placing her forearm on the doorjamb. She then was instructed to twist her trunk away from her upper extremity without moving her feet until she felt a strong stretch in her pectoral muscle. A second measurement from the coracoid to rib 4 was taken and repre-sented the length of the pectoralis minor on stretch (Figure 2).
+19 
+Normalized pectoralis minor length at rest and on stretch was obtained by dividing the pectoral length under each condition by the clavicle length.
+Figure 1. Timing for the side bridge test begins with the participant lying on her side on 1 
+elbow and both feet with the top foot in front and ends when her hips drop.
+ Journal of Athletic Training 151Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/149/1454740/1062-6050-47_2_149.pdf by guest on 12 August 2024
+
+152	 Volume	47	•	Number	2	•	April	2012Data Analysis
+ Participants were divided into 4 groups by age, based on 
+the similarity of hours of training and competitive level: ages 
+8 to 11 years (n = 42), 12 to 14 years (n = 43), 15 to 19 years 
+(high school, n = 84), and 23 to 77 years (masters, n = 67). 
+These groups had different swimming exposures, with respec-tive means of 6.9 ± 2.4, 10.1 ± 4.3, 16.1 ± 6.0, and 4.0 ± 1.7 hours 
+swum per week (P < .001). Cases were classified as positive  
+or negative  for substantial pain, dissatisfaction, and disability 
+(PDD) based on the total of the Penn Shoulder Score pain scale and the satisfaction question (range, 0–40, with 40 indicat -
+ing no pain, fully satisfied ) and the total score for swimming 
+disability using the DASH sports module (range, 4–20, with 4 indicating no swimming disability ). For the 3 oldest groups 
+(age > 11 years), a positive case (+PDD) had to meet 2 criteria: 
+(1) The DASH sports module score was greater than 6 points and (2) the Penn Shoulder Score was less than 35 points. For the DASH sports module, a score greater than 6 points requires the swimmer to have at least mild difficulty in 3 of the 4 areas (dif-ficulty with usual technique, swimming because of pain, swim-ming as well as she would like, and spending usual amount of time practicing swimming) or moderate or severe difficulty or inability in at least 1 of the 4 areas. A Penn Shoulder Score of less than 35 points for pain and satisfaction reflects change greater than 5 points, which exceeds the total error (standard error of the mean) for the combined pain and satisfaction sub-scales.
+8 All cases not satisfying the requirements for +PDDs 
+were classified as –PDDs. In the youngest group (age range, 8–11 years), only 1 of 42 
+swimmers fit the +PDD definition used for the older partici -
+pants, which precluded further data analysis. Therefore, in the 8- to 11-year-old age group, a case was considered positive if the swimmer rated her pain equal to or greater than 2 of 10 with strenuous activity on the Penn Shoulder Score pain scale. All cases that did not satisfy the requirements for +PDDs were classified as –PDDs. For swimmers with bilateral symptoms, the data from the most painful side were used for +PDDs. For swimmers with equal pain bilaterally or no pain, the partici -
+pants were listed in consecutive numeric order based on age, and alternate sides were selected. Continuous variables for participant demographics, expo- sure, and physical examination were compared using inde-pendent t tests. Categorical variables were compared using χ
+2 
+tests. When we found categorical variables in which 20% of the cells did not contain a minimum of 5 cases and therefore did not meet the assumption of expected cell frequency, we used a Fisher exact probability test. A 1-tailed test was used for the variables we hypothesized had a directional preference based on pilot data: history of traumatic injury, unilateral breathing pattern, and participation in water polo.
+14 A 2-tailed test was 
+used for all other variables. To determine whether stroke spe-cialty (butterfly, backstroke, breaststroke, or freestyle) was as-sociated with pain and disability, the data from all age groups were combined because a failure to meet minimum cell count for χ
+2 occurred within each age group. We used SPSS (SPSS 
+Inc, Chicago, IL) for data analysis.
+RESULTS
+ The number of +PDDs was 9 of 42 (21.4%) in swimmers 
+aged 8 to 11 years, 8 of 43 (18.6%) in swimmers aged 12 to 
+14 years, 19 of 84 (22.6%) in high school swimmers, and 13 of 67 (19.4%) in masters swimmers. Participant demograph -
+ics for +PDDs and –PDDs are presented in Table 1. Table 2 contains quantification of swimming exposure. Table 3 con-tains associated categorical variables relating to sport participa -
+tion and history. Table 4 contains physical examination data. All tables contain the P values from the respective statistical 
+tests. Pearson χ
+2 analysis comparing frequency of +PDDs and 
+–PDDs with swimmers’ reported stroke specialty (butterfly, backstroke, breaststroke, freestyle) did not reveal a difference (χ
+2
+3 = 2.92, P = .40).
+DISCUSSION
+ Competitive swimmers are at risk for developing shoulder 
+pain and disability, which can lead to dissatisfaction with the 
+use of their shoulders during swimming and daily activities. Although specific differences in swimmers with and with-out symptoms have been investigated extensively, we are the first to our knowledge to collectively use validated and reli -
+able methods to test groups of swimmers poolside without ex-pensive, labor-intensive equipment. This method has allowed Figure 2. The pectoralis minor muscle was measured by palpating from the coracoid process to 
+rib 4 with a PALM palpation meter (Performance Attainment Associates, St Paul, MN). A, At rest, and B, during a self-imposed corner stretch.
+Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/149/1454740/1062-6050-47_2_149.pdf by guest on 12 August 2024
+
+ Journal of Athletic Training Table 1. Participant Demographics by Age Group and Casea (Mean ± SD)
+Age Group
+8–11 y 12–14 y 15–19 y Masters
+CharacteristicNegative 
+CasePositive  
+Case t PNegative  
+CasePositive  
+Case t PNegative 
+CasePositive 
+Case t PNegative 
+CasePositive  
+Case t65 P
+Participants, no. 33 9 NA NA 35 8 NA NA 65 19 NA NA 54 13 NA NA
+Height, cm 144.48 ± 8.31 148.87 ± 9.91 1.35 .18 157.99 ± 13.36 166.37 ± 7.92 0.54 .10 165.63 ± 6.71 166.65 ± 6.10 0.54 .56 166.83 ± 6.86 168.33 ± 7.01 0.71 .48
+Weight, kg 36.29 ± 7.01 36.48 ± 7.33 0.07 .94 48.69 ± 7.18 52.90 ± 6.51 0.40 .14 58.06 ± 7.69 58.88 ± 8.66 0.40 .69 65.42 ± 10.47 66.74 ± 12.59 0.39 .70
+Body	mass	index 16.94 ± 2.66 16.00 ± 1.66 –1.00 .32 19.40 ± 3.77 18.63 ± 1.41 0.21 .57 20.80 ± 2.68 20.95 ± 2.82 0.21 .84 23.13 ± 3.30 23.23 ± 3.92 0.09 .92
+Age, y 9.67 ± 1.29 10.11 ± 1.27 0.92 .36 13.00 ± 0.69 13.38 ± 0.74 1.43 .18 16.31 ± 1.30 16.79 ± 1.27 1.43 .16 41.72 ± 13.97 43.77 ± 12.77 0.48 .63
+Abbreviation: NA, not applicable.
+a Case indicates absence (negative case) or presence (positive case) of shoulder pain, dissatisfaction, and disability.
+Table 2. Quantification of Swimming Exposure (Mean ± SD)a
+Age Group
+8–11 y 12–14 y 15–19 y Masters
+Swimming ExposureNegative  
+CasebPositive  
+Case PNegative  
+Case  Positive  
+  Case PNegative  
+CasePositive  
+Case PNegative  
+CasePositive  
+Case P
+Time swum, y 3.48 ± 1.64 3.28 ± 1.75 .74 5.72 ± 2.10   6.56 ± 1.45 .29   7.65 ± 2.94   9.16 ± 1.80 .01   15.36 ± 13.21   22.00 ± 16.76 .13
+Time swum per week, h 6.64 ± 2.17 7.83 ± 2.94 .18 9.93 ± 4.34 10.94 ± 4.36 .56 15.94 ± 6.19 16.53 ± 5.54 .71   3.78 ± 1.70   4.77 ± 1.54 .06
+Time swum per year, h 189.88 ± 130.58 237.93 ± 213.62 .54 355.81 ± 262.13   396.00 ± 188.25 .69   600.30 ± 392.11   652.02 ± 302.07 .60 163.88 ± 81.22 223.60 ± 81.81 .02
+a Indicates that t values are reported in Appendix 1.
+b Case indicates absence (negative case) or presence (positive case) of shoulder pain, dissatisfaction, and disability.
+153Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/149/1454740/1062-6050-47_2_149.pdf by guest on 12 August 2024
+
+154	 Volume	47	•	Number	2	•	April	2012tendinopathy as those who trained less. This might help explain 
+our finding that high school athletes had the highest levels of pain and disability. Allegrucci et al
+2 estimated that competitive 
+swimmers performing 10 stroke cycles per 25 m and cover -
+ing 10 000 m per day would incur 4000 shoulder revolutions 
+daily. Given that repetitive upper extremity usage at or above shoulder level has been identified as a risk factor for shoulder pain, it is not surprising that those with greater exposure have pain and disability.
+20 In addition, the high school +PDD group 
+had greater participation in water polo. This sport requires end-range shoulder abduction and external rotation positioning dur -
+ing the late cocking phase, which has been reported to result in pain due to posterosuperior impingement of the rotator cuff.
+21 
+With posterosuperior impingement, contact occurs between the posterior glenoid rim and the insertion of the supraspina-tus and the superior portion of the infraspinatus insertion into the posterior greater tuberosity. Taken collectively, our findings clearly support the association between repetitive exposure to overhead upper extremity activity and shoulder pain. In the masters group, the +PDD group swam a greater num-
+ber of hours per year (223.60 ± 81.81 hours) than the –PDD 
+group (163.88 ± 81.22 hours), and a trend was seen for hours 
+swum per week. The association between exposure and pain and disability in our study is consistent with that reported in other studies, in which the presence of supraspinatus tendinop -
+athy in elite swimmers was predicted 85% of the time from hours swum per week alone or in combination with distance swum per week.
+3 Although pitch-count rules exist for youth 
+baseball pitchers, no exposure recommendations are available to guide coaches of youth competitive swimmers. Whereas increased swimming exposure and participation in 
+water polo were positively associated with pain and disability, other findings had a negative association. Specifically, the 8- to 11-year-old –PDD swimmers more frequently participated in another sport, with soccer specifically reported, and the –PDD masters swimmers more frequently participated in a walking or running program than their symptomatic counterparts. In-dependent t tests revealed no difference in the amount of time 
+spent swimming in terms of hours per week, hours per year, or years of participation between the groups that did and did not participate in these activities. Although we cannot conclude us to assess physical performance and exposure variables in competitive swimmers aged 8 to 77 years and to document the presence of shoulder symptoms throughout the lifespan of swimmers. Potential factors related to shoulder pain and dis-ability are exposure time to swimming, training methods, and physical characteristics of the swimmers. We found that 18.6% to 22.6% of competitive swimmers in each of our 4 age groups experienced shoulder pain and disability. Swimmers less than 12 years of age primarily had pain, whereas participants more than 12 years of age experienced pain, dissatisfaction, and dis-ability with the use of their shoulders. The high school swim-mers were the most symptomatic. Factors related to shoulder pain, dissatisfaction, and disability with shoulder use in 2 or more age groups were greater swimming exposure, a history of traumatic shoulder injury, participant-rated feeling of in-stability, and reduced participation in another sport or activity (cross-training). Additional factors associated with symptoms in only a single age group were less shoulder flexion ROM, less strength of shoulder internal rotation and the middle trape -
+zius, shorter pectoralis minor, latissimus dorsi tightness, more participation in water polo, bilateral breathing, and less core endurance. We found significant differences between participants with 
+and without shoulder pain, disability, and dissatisfaction in ex-posure and physical characteristics but found no differences in age, height, mass, or body mass index. For all age groups, the +PDD group had greater exposure than the –PDD group in terms of years swum and of hours per week and hours per year practiced; however, we found differences in exposure only in the high school and masters groups. High school swimmers in the +PDD group had 1.50 ± 1.14 years more swimming ex-
+posure than those in the –PDD group. In a study of elite com-petitive swimmers aged 13 to 25 years, Sein et al
+3 found a 
+correlation between years of training and supraspinatus tendon thickness on magnetic resonance imaging. They reported that all swimmers with tendon thickening had supraspinatus ten-dinopathy and shoulder impingement pain. In our study, both +PDD and –PDD swimmers averaged more than 15 hours per week of swimming, and some swimmers reported swimming 10 000 m or more daily. Sein et al
+3 also found that athletes who 
+swam more than 15 hours per week were twice as likely to have Table 3. Comparison of Variables Related to History and Sport Participation Between Swimmers With and Without  
+Shoulder Pain, Dissatisfaction, and Disability
+Age Group
+8–11 y 12–14 y  15–19 y Masters
+P P P χ2
+1 P χ2
+1
+Participation in additional organized sport teams .03a.66a.51 0.44 NA NA
+Participation in specific sport or activity differing  
+ between groups  .04a,bNA  .03c4.93   .01a,dNA
+Swim paddle use >.99a,e>.99a,e.44 0.59 >.99a,eNA
+Unilateral versus bilateral breathing pattern .03a>.99a,e.10 2.76 .18 1.83
+History of shoulder trauma .21a.09a.04fNA .04fNA
+Feeling of shoulder instability >.99a,e.03a.02aNA .11aNA
+Abbreviation: NA, not applicable. 
+a Indicates Fisher exact 2-sided test.
+b Indicates soccer.
+c Indicates water polo.
+d Indicates running or walking program.
+e Indicates that the groups compared had exactly the same frequency of condition.
+f Indicates Fisher exact 1-sided test.Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/149/1454740/1062-6050-47_2_149.pdf by guest on 12 August 2024
+
+ Journal of Athletic Training that participation in other activities offers a direct protective 
+mechanism, these findings lend support to the concept of cross-training. Investigators of the effects of cross-training have concluded that adolescents participating in several sport and exercise activities throughout the year were less likely to expe-rience neck, shoulder, or low back pain.
+22 Cross-training might 
+add to the overall fitness level and improve trunk muscle endur -
+ance and strength that aids in preventing injury.22 In our study, 
+soccer and walking or running might provide a mechanism for conditioning while affording relative rest for the shoulders, but specific mechanisms of cross-training to reduce symptoms merit further investigation. Whereas Richardson and colleagues
+23 found that unilateral 
+breathing patterns increased the risk of shoulder problems, we found that the 8- to 11-year-old +PDD group had a greater in-cidence of a bilateral breathing pattern. Young swimmers may lack appropriate stroke mechanics, but this cannot be deter -
+mined from our study. Although a trend existed for the +PDD group to breathe unilaterally at the high school level, we found no differences in breathing patterns among the other 3 age groups. A history of a traumatic injury to the shoulder, such as a dis-
+location, fracture, or fall, was reported more frequently in the +PDD group in swimmers from 3 groups (age 12 years through masters). These injuries may have left residual deficits that pre-disposed them to pain and disability. Similarly, +PDD swim-mers in the 12- to 14-year-old and high school groups more frequently answered “yes” when asked, “Does your shoulder feel unstable, or do you feel like it ever ‘slips’ out of place?” These findings suggest that swimmers with previous injuries or instability should be assessed to determine whether they have deficiencies that could be addressed to reduce the risk of shoul-der pain. Although paddle use has been associated with pain,
+23 our 
+data did not show differences in swim paddle use between +PDD and –PDD groups. Paddle design has changed from Table 4. Comparison of Physical Examination Measures Between Swimmers With (Positive Case) and Without 
+(Negative Case) Shoulder Pain, Dissatisfaction, and Disabilitya–c
+    Age Group
+8–11 y 12–14 y 15–19 y Masters
+MeasureNegative  
+CasePositive 
+Case PNegative 
+CasePositive 
+Case PNegative 
+CasePositive 
+Case PNegative 
+CasePositive 
+Case P
+Shoulder passive range of motion, ° (mean ± SD)
+ Flexion 192.85 ± 8.52 185.11 ± 9.85 .02188.83 ± 7.88 189.50 ± 7.91 .83 189.82 ± 8.23 187.26 ± 8.29 .24186.35 ± 9.99 188.77 ± 9.68 .43
+ Flexion – triceps  
+  length180.12 ± 11.45 173.33 ± 6.84 .10176.80 ± 7.93 177.75 ± 6.36 .75 178.31 ± 8.76 179.89 ± 9.07 .49174.72 ± 10.70 177.54 ± 8.15 .38
+ Flexion – latissimus  
+  length183.33 ± 9.77 174.33 ± 13.77 .03178.71 ± 10.41 182.63 ± 6.41 .32 178.57 ± 10.82 177.53 ± 11.85 .72173.85 ± 11.69 174.08 ± 13.07 .95
+ External rotation 111.85 ± 12.72 112.11 ± 11.46 .96104.09 ± 9.50 102.25 ± 12.82 .65   95.86 ± 11.26   98.63 ± 13.16 .37  92.35 ± 13.09   96.69 ± 10.94 .27
+ Internal rotation 41.76 ± 13.58   32.56 ± 6.02 .05  40.11 ± 13.59   39.75 ± 6.92 .94   35.78 ± 10.91   34.58 ± 6.60 .65  34.39 ± 7.87   32.54 ± 11.76 .50
+Strength: manual muscle test (reduced/totald)
+ Lower trapezius 27/33 (81.8%) 9/9 (100.0%) .31 29/35 (82.9%) 7/8 (87.5%)  >.99 56/65 (86.2%) 15/19 (78.9%) .48 41/54 (75.9%) 11/13 (84.6%) .72
+ Middle trapezius 16/33 (48.5%) 8/9 (88.9%) .05 23/35 (65.7%) 7/8 (87.5%) .40 47/65 (72.3%) 15/19 (78.9%) .77 37/54 (68.5%) 10/13 (76.9%) .74
+ Serratus anterior 7/33 (21.2%) 3/9 (33.3%) .66 7/35 (20%) 2/8 (25%)  >.99 12/65 (18.5%) 1/19 (5.3%) .28 2/54 (3.7%) 1/13 (7.7%) .48
+Strength: normalized muscle torque, Nm (mean ± SD)
+ Elevation 0.05 ± 0.02 0.05 ± 0.01 .25 0.05 ± 0.02 0.06 ± 0.01 .12 0.05 ± 0.02 0.06 ± 0.01 .10 0.03 ± 0.01 0.03 ± 0.01 .44
+ External rotation 0.04 ± 0.01 0.04 ± 0.01 .43 0.04 ± 0.01 0.04 ± 0.01 .41 0.04 ± 0.01 0.04 ± 0.01 .36 0.02 ± 0.01 0.02 ± 0.01 .62
+ Internal rotation 0.04 ± 0.01 0.04 ± 0.01 .41 0.05 ± 0.01 0.04 ± 0.01 .05 0.05 ± 0.01 0.05 ± 0.01 .76 0.02 ± 0.01 0.02 ± 0.01 .55
+ Horizontal  
+  abduction0.03 ± 0.01 0.04 ± 0.01 .54 0.04 ± 0.01 0.04 ± 0.01 .48 0.04 ± 0.01 0.04 ± 0.01 .83 0.02 ± 0.01 0.02 ± 0.01 .59
+Normalized pectoralis minor length, cm (mean ± SD)
+ Rest 0.87 ± 0.16 0.79 ± 0.12 .09 0.84 ± 0.15 0.82 ± 0.16 .61 0.83 ± 0.09 0.73 ± 0.19 .00 0.75 ± 0.29 0.78 ± 0.35 .78
+ Stretch 1.15 ± 0.12 1.15 ± 0.12 .95 1.12 ± 0.12 1.10 ± 0.12 .77 1.09 ± 0.08 1.00 ± 0.26 .15 0.97 ± 0.36 0.99 ± 0.45 .89
+Scapular dyskinesis  
+ (obvious  
+ dyskinesis/total)21/33 (63.6%) 7/9 (77.8%) .69 20/35 (57.1%) 4/8 (50%)  >.99 21/65 (32.3%) 6/19 (31.6%) .95 25/54 (46.3%) 7/13 (53.8%) .63
+Core endurance, s (mean ± SD)
+ Side bridge 14.61 ± 11.43 13.51 ± 11.34 .80 24.62 ± 16.61 16.13 ± 6.17 .02 35.60 ± 18.33 28.41 ± 17.78 .13 40.78 ± 21.84 30.10 ± 14.12 .10
+ Prone bridge 19.13 ± 14.62 17.15 ± 20.79 .75 33.09 ± 21.47 23.94 ± 9.97 .08 54.78 ± 25.85 42.71 ± 27.96 .08 52.21 ± 24.36 55.16 ± 19.53 .69
+ Closed kinetic  
+  chain stability  
+  test (no. hits/15 s)17.73 ± 3.31 19.11 ± 5.23 .34 17.40 ± 2.63 15.50 ± 6.97 .47 17.20 ± 4.41 17.90 ± 17.90 .54 15.45 ± 5.23 16.38 ± 3.50 .55
+a Indicates that the t tests were performed for analysis of variables of passive range of motion, strength using normalized muscle torque, 
+normalized pectoralis minor length, and core endurance, and the values are presented in Appendix 2.
+b Indicates that Fisher exact probability tests were performed for analyses of variables of manual muscle test for all muscles and scapular 
+dyskinesis (groups 8–11 years and 12–14 years of age).
+c Indicates that χ2 tests were performed for analyses of variables of scapular dyskinesis (groups 15–19 years of age and masters), and the values 
+are presented in Appendix 2.
+d Reduced strength was defined as movement of the scapula during application of pressure.
+155Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/149/1454740/1062-6050-47_2_149.pdf by guest on 12 August 2024
+
+156	 Volume	47	•	Number	2	•	April	2012solid and rectangular to a shape that conforms to the hand and 
+is perforated to reduce resistance. In addition, coaches might be more judicious in their use of paddles because of findings reported in previous studies. Individual stroke preference was not found to differ between +PDDs and –PDDs. This finding is consistent with that of Sein et al,
+3 who reported that strokes 
+have little effect on predisposition to shoulder pain. This is not surprising because practice sessions typically involve 80% freestyle swimming.
+7
+ Core endurance measured by time held for the side bridge 
+position was less (8.5 seconds) in the 12- to 14-year-old +PDD group. Trends of reduced core endurance were seen for the high school and masters-level swimmers. The side and prone bridge positions evoke increased activity in the external oblique ab-dominis and the rectus abdominis in addition to requiring glenohumeral and scapular control. Scapular winging due to trapezius or serratus anterior fatigue would result in test ter -
+mination due to loss of core position. High levels of serratus anterior muscle activity have been demonstrated for the fore-arm push-up plus,
+24 which is essentially an isometric hold of 
+the prone bridge exercise. Fatigue of the shoulder and trunk musculature might initiate the development of pain in the swimmer’s shoulder,
+25 and improved strength and endurance of 
+the trunk muscles might protect against shoulder pain in ado-lescents participating in sports.
+22 Our findings are in agreement 
+with those of Beach et al,7 who found a negative correlation 
+between pain in competitive swimmers and isokinetic shoul-der muscle endurance. Swimming has been described as an endurance-based sport,
+2 so the finding of reduced endurance in 
+symptomatic swimmers has face validity. However, a prospec-tive longitudinal study is needed to determine whether reduced endurance predisposes swimmers to pain or injury. No swim-mer terminated our testing protocol because of pain. Reduced resting length of the pectoralis minor was found 
+in the high school +PDD group, and a trend was seen in the youngest swimmers. People with shorter pectoralis minor muscles have displayed altered scapular kinematics, with less scapular posterior tilting and greater internal rotation during humeral elevation.
+26 This might narrow the subacromial space 
+and subsequently cause impingement of the rotator cuff. Sub-acromial space narrowing is greatest at 60° to 120° of humeral flexion and abduction with internal rotation,
+27 which is a mo-
+tion that swimmers perform thousands of times during practice. If the subacromial tissues become encroached, then injury due to compression might occur. Reduced posterior shoulder flexibility assessed with inter -
+nal rotation PROM at 90° of abduction was found in the 8- to 11-year-old +PDD swimmers. Harryman et al
+28 noted that se-
+lective tightening of the posterior capsule produced superior and anterior humeral head translation. This could reduce sub-acromial space during overhead upper extremity use and cause shoulder pain due to impingement. Three-dimensional videog-raphy has supported this finding by showing that people with limited shoulder internal rotation were likely to experience a large amount of mechanical impingement during the swimming stroke.
+29
+ The 8- to 11-year-old swimmers with pain also had reduced 
+flexion ROM with latissimus dorsi tightness. Reduced flexion ROM, which we tested with the shoulder in neutral rotation, might be attributed to capsular tightness, but reduced flexion with the pelvis posteriorly tilted and shoulder externally rotated is proposed to be due to tightness of the latissimus dorsi. If one chose to implement a stretching program to address limitations in shoulder elevation, a differentiation should be made about the restricted structure so that specific stretching exercises could be given. Theoretically, swimmers with reduced flexion ROM could have a reduced stroke length and, therefore, need additional strokes compared with swimmers with greater mo-bility, incurring greater shoulder load. However, because older swimmers exhibit shoulder hypermobility
+7 and stretching has 
+been reported to aggravate shoulder symptoms,1 careful con-
+sideration should be given when evaluating potential merits of shoulder elevation stretching. Consistent with findings reported in previous studies,
+6,7 none of the other age groups showed a 
+difference in flexion ROM between swimmers with and with-out PDD. The frequency of obvious scapular dyskinesis was not dif-
+ferent between the +PDD and –PDD groups in any age group. This differs from findings reported by Bak and Magnusson
+6 of 
+“a severe lack of coordination of the scapulohumeral joint” in 33% of the symptomatic compared with 9% of the asymptom -
+atic shoulders of 12- to 23-year-old competitive swimmers dur -
+ing observation of repeated arm abduction. We used a validated and reliable classification system of scapular motion assessed with swimmers holding weights while elevating in the frontal and sagittal planes, whereas Bak and Magnusson
+6 used a non-
+validated system. Scapular dyskinesis was observed at all age levels and often occurred bilaterally, but this study does not support dyskinesis as being more common in swimmers with pain and disability. Normalized internal rotation torque was less in the 12- to 
+14-year-old +PDD group. Electromyographic analysis of free-style swimming has shown that the subscapularis exhibits constant muscle activity throughout the stroke in addition to its functioning for upper extremity entry and exit, so internal rotation deficits might adversely affect stroke mechanics.
+30 Our 
+finding of reduced internal rotation torque is consistent with the work of previous researchers, who reported that concentric and eccentric internal rotation strength were less in injured than uninjured competitive swimmers.
+6 We also found that middle 
+trapezius weakness was present more often in the 8- to 11-year-old +PDD group. Weak scapular stabilizing muscles might cause a loss of proximal stability that would increase demands on the rotator cuff and perhaps contribute to faulty stroke me-chanics,
+31 leading to shoulder pain. Strengthening of the middle 
+trapezius and internal rotators probably should be a component of a swimmer’s program to prevent shoulder injury. Our convenience sample from 1 geographic area might 
+not be representative of the US swimming population. How-ever, 4 or 5 teams for each age group participated. In addition, our study lacked collegiate representation because all invited National Collegiate Athletic Association Division I teams de-clined participation because of their schedules. It was not prac-tical to perform stroke biomechanical analysis on individual swimmers, although stroke mechanics might affect shoulder impingement. We investigated factors associated with shoul-der pain, dissatisfaction, and disability; therefore, a cause-and- effect relationship cannot be assumed.
+CONCLUSIONS
+ Competitive swimmers less than age 12 years experienced 
+substantial shoulder pain, whereas older swimmers experienced 
+pain, dissatisfaction, and disability. As a group, high school swimmers were the most symptomatic, and they incurred the greatest shoulder load, practicing an average of 16 hours per Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/149/1454740/1062-6050-47_2_149.pdf by guest on 12 August 2024
+
+ Journal of Athletic Training week and 600 hours or more per year. Shoulder pain, dissatis-
+faction, and disability were correlated positively with increased repetitive upper extremity usage in terms of swimming or wa-ter polo exposure and were correlated negatively with partici -
+pation in another sport, specifically soccer for the young and running or walking for mature swimmers. Reduced shoulder flexibility and latissimus dorsi tightness were found in symp-tomatic young swimmers, whereas pectoralis minor tightness and decreased core endurance were associated with symptoms in swimmers aged 12 years and more. Furthermore, weakness of the middle trapezius and shoulder internal rotators was seen in the younger swimmers. Given our findings of symptom oc-currence throughout the swimmer’s life, a symptom-prevention program appears warranted. Our study provides a basis for other researchers to investigate the effectiveness of exposure reduction, pectoral and posterior shoulder stretching, strength-ening, core endurance, and cross-training in limiting or pre-venting shoulder injury that might lead to pain and disability in competitive swimmers.
+ACKNOWLEDGMENTS
+ This study was funded by a grant from US Masters Swim-
+ming. We thank James Hurley, MD, for his assistance with the 
+study design and manuscript review. This study was presented at the Combined Section Meeting of the American Physi-cal Therapy Association on February 25, 2010, in San Diego, California, the National Athletic Trainers’ Association Annual Meeting on June 24, 2010, in Philadelphia, Pennsylvania, and the 19th Annual Meeting of the American Society of Shoulder and Elbow Therapists on October 14, 2011, in White Sulfur Springs, West Virginia.
+REFERENCES
+ 1. McMaster WC, Troup J. A survey of interfering shoulder pain in United 
+States competitive swimmers. Am J Sports Med. 1993;21(1):67–70.
+ 2. Allegrucci M, Whitney SL, Irrgang JJ. Clinical implications of secondary impingement of the shoulder in freestyle swimmers. J Orthop Sports Phys 
+Ther. 1994;20(6):307–318.
+ 3. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite swimmers: primarily due to swim-volume–induced supraspinatus tendinopathy. Br J 
+Sports Med. 2010;44(2):105–113.
+ 4. Pollard H, Croker D. Shoulder pain in elite swimmers. Australas Chiropr 
+Osteopathy. 1999;8(3):91–95.
+ 5. Michener LA, McClure PW, Karduna AR. Anatomical and biomechanical mechanisms of subacromial impingement syndrome. Clin Biomech (Bris-
+tol, Avon). 2003;18(5):369–379.
+ 6. Bak K, Magnusson P. Shoulder strength and range of motion in symptom-atic and pain-free elite swimmers. Am J Sports Med. 1997;25(4):454–459.
+ 7. Beach ML, Whitney SL, Dickoff-Hoffman S. Relationship of shoulder flexibility, strength, and endurance to shoulder pain in competitive swim-mers. J Orthop Sports Phys Ther. 1992;16(6):262–268.
+ 8. Leggin BG, Michener LA, Shaffer MA, Brenneman SK, Iannotti JP, Wil-liams GR Jr. The Penn Shoulder Score: reliability and validity. J Orthop 
+Sports Phys Ther. 2006;36(3):138–151.
+ 9. Hudak PL, Amadio PC, Bombardier C. Development of an upper extrem -
+ity outcome measure: the DASH (disabilities of the arm, shoulder and hand) [corrected]. The Upper Extremity Collaborative Group (UECG). Am 
+J Ind Med. 1996;29(6):602–608. 10. Kendall FP, McCreary EK, Provance PG. Muscles: Testing and Function 
+with Posture and Pain. 4th ed. Philadelphia, PA: Lippincott Williams & 
+Wilkins; 1993.
+ 11. Falkel JE, Murphy TC, Murray TF. Prone positioning for testing shoulder internal and external rotation on the Cybex II® isokinetic dynamometer. J 
+Orthop Sports Phys Ther. 1987;8(7):368–370.
+ 12. McClure P, Tate AR, Kareha S, Irwin D, Zlupko E. A clinical method 
+for identifying scapular dyskinesis, part 1: reliability. J Athl Train. 
+2009;44(2):160–164.
+ 13. Tate AR, McClure P, Kareha S, Irwin D, Barbe MF. A clinical method 
+for identifying scapular dyskinesis, part 2: validity. J Athl Train. 2009;44 
+(2):165–173.
+ 14. Tate AR, McClure P, Mayer D, Smith J, Gerwer A, Andrew S. Identifica -
+tion of risk factors for shoulder pain in female high school competitive 
+swimmers [abstract]. J Orthop Sports Phys Ther. 2009;39(1):A113.
+ 15. McGill SM, Childs A, Liebenson C. Endurance times for low back stabi-
+lization exercises: clinical targets for testing and training from a normal database. Arch Phys Med Rehabil . 1999;80(8):941–944.
+ 16. Schellenberg KL, Lang JM, Chan KM, Burnham RS. A clinical tool for of-
+fice assessment of lumbar spine stabilization endurance: prone and supine bridge maneuvers. Am J Phys Med Rehabil. 2007;86(5):380–386.
+ 17. Goldbeck TG, Davies GJ. Test-retest reliability of the Closed Kinetic 
+Chain Upper Extremity Stability Test: a clinical field test. J Sport Rehabil . 
+2000;9(1):35–45.
+ 18. Borstad JD. Measurement of pectoralis minor muscle length: validation 
+and clinical application. J Orthop Sports Phys Ther. 2008;38(4):169–174.
+ 19. Borstad JD, Ludewig PM. Comparison of three stretches for the pectoralis 
+minor muscle. J Shoulder Elbow Surg. 2006;15(3):324–330.
+ 20. Silverstein BA, Bao SS, Fan ZJ, et al. Rotator cuff syndrome: personal, 
+work-related psychosocial and physical load factors. J Occup Environ 
+Med. 2008;50(9):1062–1076.
+ 21. Webster MJ, Morris ME, Galna B. Shoulder pain in water polo: a system-
+atic review of the literature. J Sci Med Sport. 2009;12(1):3–11.
+ 22. Auvinen JP, Tammelin TH, Taimela SP, Zitting PJ, Mutanen PO, Karp-
+pinen JI. Musculoskeletal pains in relation to different sport and exercise activities in youth. Med Sci Sports Exerc. 2008;40(11):1890–1900.
+ 23. Richardson AB, Jobe FW, Collins HR. The shoulder in competitive swim-
+ming. Am J Sports Med. 1980;8(3):159–163.
+ 24. Ludewig PM, Hoff MS, Osowski EE, Meschke SA, Rundquist PJ. Rela -
+tive balance of serratus anterior and upper trapezius muscle activity during 
+push-up exercises. Am J Sports Med. 2004;32(2):484–493.
+ 25. Stocker D, Pink M, Jobe FW. Comparison of shoulder injury in collegiate- 
+and master’s-level swimmers. Clin J Sport Med. 1995;5(1):4–8.
+ 26. Borstad JD, Ludewig PM. The effect of long versus short pectoralis mi-
+nor resting length on scapular kinematics in healthy individuals. J Orthop 
+Sports Phys Ther. 2005;35(4):227–238.
+ 27. Brossmann J, Preidler KW, Pedowitz RA, White LM, Trudell D, Resn-
+ick D. Shoulder impingement syndrome: influence of shoulder position on rotator cuff impingement: an anatomic study. AJR Am J Roentgenol . 
+1996;167(6):1511–1515.
+ 28. Harryman DT II, Sidles JA, Clark JM, McQuade KJ, Gibb TD, Matsen FA 
+III. Translation of the humeral head on the glenoid with passive glenohu-meral motion. J Bone Joint Surg Am. 1990;72(9):1334–1343.
+ 29. Yanai T, Hay JG. Shoulder impingement in front-crawl swimming, II: 
+analysis of stroking technique. Med Sci Sports Exerc. 2000;32(1):30–40.
+ 30. Pink M, Perry J, Browne A, Scovazzo ML, Kerrigan J. The normal shoul-
+der during freestyle swimming: an electromyographic and cinematograph -
+ic analysis of twelve muscles. Am J Sports Med. 1991;19(6):569–576.
+ 31. Russ DW. In-season management of shoulder pain in a collegiate swim-
+mer: a team approach. J Orthop Sports Phys Ther. 1998;27(5):371–376.
+Address correspondence to Angela Tate, PhD, PT, Cert MDT, Arcadia University, 450 South Easton Road, Glenside, P A 19038. 
+Address e-mail to tatea@arcadia.edu.
+157Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/149/1454740/1062-6050-47_2_149.pdf by guest on 12 August 2024
+
+158	 Volume	47	•	Number	2	•	April	2012Appendix 1. The t Values Associated With Quantification of Swimming Exposure
+Age Group
+8–11 y 12–14 y 15–19 y Masters
+Swimming Exposure tDegrees of 
+Freedom tDegrees of 
+Freedom tDegrees of 
+Freedom tDegrees of 
+Freedom
+Time swum, y –0.33 40 1.07 40 2.73 48.68 1.54 65
+Time swum per week, h –1.36 40 0.59 39 0.37 82 1.92 65
+Time swum per year, h –0.64 9.69 0.41 41 0.53 82 2.38 65
+Appendix 2. The t Values and χ2 Valuesa Associated With Comparison of Physical Examination Measures Between 
+Swimmers With and Without Shoulder Pain, Dissatisfaction, and Disability
+Age Group
+8–11 y 12–14 y 15–19 y Masters
+Measure tDegrees of 
+Freedom tDegrees of 
+Freedom tDegrees of 
+Freedom χ2
+1 tDegrees of 
+Freedom χ2
+1
+Shoulder passive range of  
+  motion, ° Flexion –2.34 40 –0.22 41 –1.19 82 NA –0.79 65 NA
+ Flexion – triceps length –1.69 40 –0.32 41 –0.69 82 NA –0.89 65 NA
+ Flexion – latissimus length –2.24 40 –1.01 41 –0.36 82 NA –0.06 65 NA
+ External rotation –0.06 40 –0.46 41 –0.91 82 NA –1.11 65 NA
+ Internal rotation –1.97 40 –0.07 41 –0.46 82 NA –0.69 65 NA
+Strength: manual muscle test    (reduced/total
+a)
+ Lower trapezius NA NA NA NA NA NA NA NA NA NA
+ Middle trapezius NA NA NA NA NA NA NA NA NA NA
+ Serratus anterior NA NA NA NA NA NA NA NA NA NA
+Strength: normalized muscle    torque, Nm Elevation –1.17 40 –1.58 41 –1.65 82 NA –0.78 65 NA
+ External rotation –0.80 40 –0.83 41 –0.92 82 NA –0.50 65 NA
+ Internal rotation –0.83 40 –1.98 41 –0.31 82 NA –0.61 65 NA
+ Horizontal abduction –0.62 40 –0.72 41 –0.21 82 NA –0.54 65 NA
+Normalized pectoralis minor    length, cm Rest –1.8– 17.3 –0.51 41 –3.37 82 NA –0.28 65 NA
+ Stretch –0.12 40 –0.29 41 –1.5– 19.05 NA –0.14 65 NA
+Scapular dyskinesis (obvious    dyskinesis/total)
+bNA NA NA NA NA NA 0.004 NA NA 0.24
+Core endurance, s Side bridge –0.26 40 –2.39 31.55 –1.51 82 NA –1.68 65 NA
+ Prone bridge –0.33 40 –1.81 24.11 –1.76 82 NA –0.41 65 NA
+ Closed kinetic chain stability  
+  test (no. hits/15 s)–0.96 40 –0.76 7.5 –0.61 82 NA –0.61 64 NA
+Abbreviation: NA, not applicable.
+a Reduced strength was defined as movement of the scapula during application of pressure.
+b Indicates that χ2 tests were performed for analyses of variables of scapular dyskinesis for groups 15–19 years of age and masters.Downloaded from http://meridian.allenpress.com/jat/article-pdf/47/2/149/1454740/1062-6050-47_2_149.pdf by guest on 12 August 2024
+

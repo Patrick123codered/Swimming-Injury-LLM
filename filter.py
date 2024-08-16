@@ -6,10 +6,10 @@ from langchain.chains import RetrievalQA
 
 from basic_chain import get_model
 from ensemble import ensemble_retriever_from_docs
-from remote_loader import load_web_page
+#from remote_loader import load_web_page
 from vector_store import create_vector_db
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 
 def create_retriever(texts):

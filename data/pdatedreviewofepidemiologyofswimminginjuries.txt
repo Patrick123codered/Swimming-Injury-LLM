@@ -1,0 +1,1381 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/344476888
+Updated review of epidemiology of swimming inju ries
+Article    in  PM&R  · Oct ober 2020
+DOI: 10.1002/pmr j.12503
+CITATIONS
+19READS
+947
+3 author s:
+Alfonso T rinidad Mor ales
+Europe an Univ ersity of Madrid
+33 PUBLICA TIONS    136 CITATIONS    
+SEE PROFILE
+Higinio Gonz ález-Gar cía
+Univ ersidad Int ernacional de La Rioja
+117 PUBLICA TIONS    316 CITATIONS    
+SEE PROFILE
+Alejandr o Lope z-Valenciano
+Univ ersity CEU Car denal Herr era
+76 PUBLICA TIONS    1,690  CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Higinio Gonz ález-Gar cía on 02 April 2023.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+This article has been accepted for publication and undergone full peer review but has not 
+been through the copyediting, typesetting, pagination and proofreading process which 
+may lead to differences be tween this version and the Version of Record. Please cite this 
+article as doi: 10.1002/pmrj.12503  
+ Updated review of epidemiology of swimming injuries  
+ 
+Short title: Epidemiology of swimming injuries  
+ 
+Alfonso Trinidad1; Higinio González -Garcia2, Alejandro López- Valenciano3 
+ 
+1Universidad Europea de Madrid  
+2 Faculty of Education, International University of La Rioja (UNIR)  
+3Centre for Sport Studies, King Juan Carlos University, Madrid.  
+ 
+Corresponding author : Alejandro López -Valenciano . Centre for Sport Studies, King Juan Carlos 
+University, Madrid  (Spain ). Email address: alex_tanaco@hotmail.com  
+ 
+ORCID: Alfonso Trinidad  (0000- 0002- 3767- 3642); Higinio González García (0000- 0002- 9921- 744X ); 
+Alejandro López -Valenciano (0000- 0002- 5443- 5101) . 
+ 
+Funding: Nothing to declare.  
+ Conflict of interest: All the authors declare that they have no conflicts of interest relevant to the content 
+of this review.  
+ 
+Authors' contributions: AT and AL -V were responsible for the conception and design of the study. AT, 
+HG-G and AL-V were involved in the systematic review process . All authors contributed to the 
+interpretation of findings and had full access to all data. AT  wrote the first draft of the paper, which was 
+critically revised by AL-V. The final manuscript was approved by all authors.  
+This article is protected by copyright. All rights reserved.
+An u pdated review of the epidemiology of swimming injuries  
+  
+O
+bjective: To carry out a systematic review to update the scientific evidence on the incidence and 
+prevalence of injuries in the swimming discipline, as well as the location, type and mechanism of the 
+injuries, and to assess whether studies are meeting methodological recommendations for data collection and injury surveillance. Literature Survey : The databases of Pubmed and Sportdiscus were used to search for studies that 
+describe the epidemiology of injuries in adult swimmers between 2010 to March 2020. Method ology: Of the 864 articles identified, 1 4 studies were finally included in this  review. The 
+methodological quality of  the studies was analysed with the Strobe scale and PRISMA guidelines 
+were followed.  
+Synthesis : The results showed a high prevalence of shoulder, knee and lower back injuries among 
+swimmers due to overuse. These injuries were mainly short -term tendon- muscles, there were reported 
+data differences between genders.  
+Conclusions: Despite the publication of an injury surveillance single and multi- sport events 
+document and a consensus on data collection and injury surveillance in swimming, there are huge 
+methodological limitations that do not allow firm conclusions. As such, m ore epidemiological studies 
+following guidelines for data collection and injury surveillance are needed to establish differences by 
+gender, age group, and swimming stroke. Keywords: swimming, risk factors,  prevention, shoulder, tendinopathy.  
+ 
+  
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+An updated review of the epidemiology of swimming injuries  
+ 
+ Swimming has become one of the most practi sed and popular sports worldwide1,2 thanks to its 
+peculiarity  of being  in an aquatic environment3, and the multitude of benefits that it brings to  the 
+health2,4,5. Likewise, swimming is available to everyone regardless of age and sex, since the water 
+hardly generates an impact on the bones and joints2. Nevertheless , its cyclical nature, combined with 
+large training loads, high technical requirements and demands on strength to overcome an external 
+load, mainly in the upper limb6,7, might lead to  joint and muscular overloads, increasing the risk of 
+injury8-10. For example, an elite swimmer can swim an average of 6 -10 km per day , 5 to 7 days a 
+week, and often twice a day. This equates approximately 60 to 80 km and 30,000 strokes per week11,12. 
+In particular , two reviews have described that the most common injuries in swimming occur m ainly 
+due to overuse in the knee, the lumbar/hip area, and especially in the shoulder of the swimmer8,10. 
+Regarding the type of injury, it seems that the most predominant injuries are  musculoskeletal and 
+ligamentous8,10. 
+There is no consensus on reporting injury rates, however, which does not allow us to compare 
+the risk of injury in swimmers across studies. Injuries have a negative impact on the swimmer , 
+evoking a high number of absences in training and/or competition13-15, leading  to chronic pain or even 
+end up in a surgery16,17 which can turn into a disability or withdrawal from the sport15,18,19. 
+Furthermore, the pain may persist for years after withdrawal19, and as a consequence, this is 
+associated with a great social and economic cost for the athlete.  
+Notwithstanding , research on the prevalence of swimming injuries is precarious from a  
+methodological level8. Swimming science  does  not allow the establish ment of  valid and reliable 
+conclusions to develop effective program mes aimed at reducing the incidence and severity  of injuries 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+in this sport8, as is the case in other sports , where injury registration guidelines have been already  
+established20-23.  
+ 
+ Th
+e swimming literature has mainly focused on shoulder injuries, largely avoiding other less 
+prevalent injuries that may be just as relevant.  Likewise, most of the identified studies were 
+descriptive or retrospective with low samples and using a questionnaires format8. For this reason, in 
+2016, the International Swimming Federation (FINA) publishe d a consensus statement on the 
+methodology of injury and illness surveillance in aquatic sports24. This document not only discuss es 
+medical care guideline s for swimmers at the elite level , but it also examines a wide array of different 
+competition s and age levels24. As such, the aim  of the document is to improve the quality of the data 
+collected and the development of effective and individualised preventive measures.  On the other 
+hand, a previous document (2008)  has been shown to be reliable  in the injury surveillance for single -
+sport and multi -sport events, thus, its use allow s comparison of the results between swimming 
+studies25.  
+Since the last reviews, there are several  epidemiological studies that have been published in 
+swimming in clubs14,15,26-28 as well as  in international championships13,29 ,30,3 1 that could improve the 
+quality of the existing information8,10. Therefore, it is important to check if the injury surveillance for 
+single and multi- sport events  and swimming guidelines established for the data collection have been 
+followed24,25  in order to respond to the suggestions established by Gaunt and Maffuli8. Doing so will 
+allow rigorous compliance with the first step of the guidelines to develop effective prevention 
+program mes for swimmers32. Therefore, the objective s of this study were to carry out a systematic 
+review to update the scientific evidence on the incidence and prevalence of injuries in the swimming discipline, as well as the location, type and mechanism of the injuries ; and to assess whether  studies 
+are meeting methodologica l recommendations for data collection and injury surveillance. 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+Method  
+ 
+ T
+o carry out this study, guidelines for reporting systematic reviews of observational studies in 
+epidemiology (PRISMA guidelines) were followed33. PRISMA checklist can be found in Appendix 
+1.  
+ 
+  
+Search strategy  
+Potential studies were identified by combined search processes, clearly planned and ordered. 
+First, the following bibliographical databases were consulted: PubMed and Sportdiscus with the 
+following search terms included in Boolean search strategies: (swim* [tiab] OR aquatic[ tiab]) AND 
+(injury[ tiab] OR incidence [tiab] OR prevalence[ tiab] OR epidemiology [tiab]) or in Spanish 
+(natación [tiab] OR acuático [tiab]) AND (lesión [tiab] OR incidencia[ tiab] OR prevalencia[ tiab] OR 
+epidemiología [tiab]). By using filter criteria of the respective databases, the search was limited to 
+publication dates (from 01/01/2010 to 31/03/2020), species (humans), and English and Spanish 
+languages. Finally, the reference lists of the studies recovered were hand -searched to identify 
+potentially eligible studies not captured by the electronic searches.  
+Two reviewers independently (A.T. and H.G -G.): a) screened the title and abstract of each 
+reference to locate potentially relevant studies, and once hard  copies of the screened documents were 
+obtained; b) reviewed them in detail to identify articles that met the selection criteria. A third external reviewer (A.L -V.) was consulted to resolve discrepancies between reviewers in the studies selection. 
+ Study selection  
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+To be included in the systematic review, the studies had to fulfil the following criteria: 1) studies 
+m
+ust report either injury incidence rate or prevalence in  swimmers ; 2) swimmers had to be adults or 
+compete at a high level of swimming ; 3) preventive studies had to provide a control group to be 
+included in this review; 4) the study had to be published in a peer -reviewed journal; and 5) it had to 
+be written in English or Spanish. Literature reviews, abstracts, editorial commentaries and letters to 
+the editors were excluded. Finally, some authors were contacted to provide missing data. Moreover, incomplete data, or data from an already included study, were excluded. 
+ 
+ W
+ith the aim of guaranteeing the maximum possible objectivity, a codebook was produced that 
+specified the standards followed in coding each of the studies characteristics. The moderator variables 
+of the eligible studies were coded and grouped into three categories: 1) general study descriptors (e.g ., 
+authors, country of the sample, year of publication, and study design); 2) description of the study population (e.g ., sample size, age, sex, stroke type and level of the swimmers); and 3) main 
+epidemiologic findings (e.g ., injury and exposure data, distribution of injuries by ana tomic location, 
+type of injury, injury severity and mechanism of the injuries). The datasets used and/or analysed during the current study are available from the corresponding author upon request.  
+ 
+Quality assessment  
+Two reviewers independently assessed th e reporting quality of included studies using an 
+adapted version of the “Strengthening the Reporting of Observational Studies in Epidemiology” 
+(STROBE) statement
+34. All included studies were rated on 11 specific criteria which were derived 
+from items 5, 6, 7, 8, 9, 12, 14 and 15 of the original checklist. The STROBE scale was considered 
+as a suitable starting point for assessing the quality of observational studies34. This 11- item checklist 
+provides guidance on the reporting of observational studies in order to facilitate critical appraisal and 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+interpretation of results. The observational studies were considered as having a low risk of bias if 
+t
+hey were determined as hi gh quality (score of ≥7/11) or a high risk of bias if they were low quality 
+(≤6/11)34.  
+ 
+ I
+n order to assess the inter -coder reliability of the coding process, two researchers coded all 
+studies randomly (including methodological quality assessment). For the quantitative moderator variables , intra-class correlation coefficients (ICC) were calculated, while for the qualitative 
+moderator variables , Cohen’s kappa coefficients were applied. On average, the ICC was 0.87 (range: 
+0.77 – 1.0) and the kappa coefficient was 0.92 (range: 0.83 - 1.0), which can be considered highly 
+satisfactory
+35. The inconsistencies between the two coders were resolved by consensus, and when 
+these were due to ambiguity in the coding book, this was corrected. As previously mentioned, any disagreement was resolved by mutual consent in consultation with a third reviewer.  
+   Results  
+After the search process , 805 were deleted due to duplication or not meeting inclusion criteria 
+based on review of the title and abstract. The remaining 59 articles were selected for their complete review. Finally, 45 articles were excluded due to not meeting some of the established inclusion criteria and thus 14 articles were included in the present review
+13-15,26-31, 36-40. The article selection process 
+can be found in Figure 1. 
+ 
+***Please insert Figure 1 near here*** 
+ 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+Descriptive characteristics of the studies  
+ 
+ T
+he main characteristics of each of the integrated studies are presented in Table 1. The studies 
+selected were carried out between 2010 and 2019. Three studies were carried out in the United States 
+of America (USA), two in Japan, one in Brazil, one in Finland, one in Denmark, four in World 
+Championships and two in Olympic Games. The total sample size was larger than 6.000 swimmers. 
+Thirteen out of f ourteen  included both male and females, and only one study included only female 
+swimmers39. 
+Twelve articles provided information about the location of injuries and eight articles about the 
+type of injuries. One article  studied only the prevalence of spine/low back injuries38. 
+ 
+***Please insert Table 1 near here*** 
+ 
+Quality of the selected studies  With regards to the reporting quality of the studies, the mean score obtained with the STROBE 
+quality scale was 7 (minimum: 5, maximum: 9) , showing high quality, low bias  in most of the studies 
+included in the review. All studies reported participation locations, and most of the relevant dates about recruitment, follow -up and data collection. However, very few of the  studies included data 
+about methods of follow -up, verified injuries by a medical professional and indicated the number of 
+participants with missing data. The detailed data are presented in Table 2.  
+Furthermore, it is quite relevant to show that five papers provided retrospective data. It has been 
+assumed than retrospective studies have more bias since the study operations, data collected, data entry, and data quality assurance, were not planned ahead of time, thus some data could be lost
+41. 
+ 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+***Please insert Table 2 near here*** 
+ 
+ I
+njury incidence 
+Only six studies15,27-30,40 included incidence values  in their research . Nevertheless, al most all 
+the studies presented a different value. Chase et al.27 revealed that university swimmers suffer  3.04 
+injuries/1000hours of exposure or 5.55 injuries per  1000 athlete exposure (AE),  with the incidence 
+greater in females t han males  (3.32 injuries/1000 hours of exposure or 6.06 injuries 1000 AE vs 2.74 
+injuries/1000 hours of exposure or 4.97 injuries 1000 AE, respectively). On the other hand, 
+Ristololainen et al.15 found lower values of incidence than Chase et al.27 in elite swimmers with  2.6 
+injuries/1000 hours of exposure. In the same line, Kerr et al.28 also showed a  lower  incidence in 
+university swimmers , both females (1.48 injuries/1000 AE)  and males  (1.63 injuries/1000 AE). 
+Finally, Mountjoy et al.30,40 reflected the incidence in World Championships with values of 31.9 
+injuries/1000 athletes and 6,1 injuries per  100 registered athletes, respectively , while Dijkstra et al.29, 
+in a 25m pool World Championship, revealed much lower incidenc e (3,5 injuries per 100 registered 
+athletes) . In the 2009 World Championship30, as in the rest  of the studies , the incidence was higher 
+in females  (34.8 injuries per 1000 athletes ) than males  (21.8 injuries per 1000 athletes).  
+    
+Injury location All studies  reported information about the localisation of injuries , except for Folkvardsen et 
+al.
+38. Most of the studies pointed out that shoulder or shoul der/clavicle injuries were the most common 
+injury location in swimmers, except for two studies14,39. Those studies  showed that the most common 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+location of injuries was  the lower back follow ed by shoulder injuries, although Nagano et al.39 only 
+included overuse injuries. In this sense, all studies included back/lower  - back/upper - back/trunk 
+(different methodological classifications) as one of the most frequent injur ies in swimmers. On the 
+other hand, most of the studies in World Championships29,30,40 and Olympic Games31, revealed that 
+wrist/hand injuries were very common in these competitions. Regarding lower extremities, knee and 
+ankle are the regions more affected by the injuries in swimmers. M ore detailed information can be 
+found in Table 3.  
+ 
+ ***P
+lease insert Table 3 near here*** 
+Comparing gender -location injuries, only four studies established a difference between male 
+and female swimmers26,27,28,36. Shoulder injuries were the most common  in both male and female in 
+all studies. Spine/trunk/ back was the second most usual injury in one study , both male and female28, 
+and in the male sample  of Chase et al.27. In the female sample of Chase et al.27, ankle and knee injuries 
+were more frequent than back injuries. Otherwise, De Almeida et al.36 found that the knee was the 
+second region most affected by injuries in both male and female, follow ed by lower back and 
+ankle/foot, respectively.  
+Finally, one  study38 further classified reported lower -back injuries in elite swimmers  by spinal 
+level , and the L5-S1 region was the most affected ( more than 30%  of injuries ), followed by L4- L5 
+(25.3%), L1- L2 (19.8%) and L2 -L3/L3 -L4 (15.4% each one).  
+ Injury type Seven studies analysed the type of injuries suffer ed by swimmers
+27,28,30,31,36,37,40. Strain/-
+tendinopathy injuries seem to be the most usual injuries in swimmers . However, this statement should 
+be analysed with caution due to the different classifications used in each study. Moreover, c ontusions 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+also showed a higher prevalence (6% -17.4% ) in all studies included. For instance, Chase et al.27 and 
+Kerr et al .28 found that strain and tendonitis were the most usual type of injury in university swimmers 
+followed by sprain. Concerning International Championships, Mountjoy et al.30 combined strain and 
+sprain injuries as the most common type of injury (33%), thus, it cannot be compared to other studies 
+in the same way. Engebretsen et al.37, showed that more than 20% were strain injuries followed by 
+sprain (16%) and tendinosis (12%), similar to Mountjoy et a l.40 which registered 18.5% of tendinosis, 
+followed by sprain (12.3%) and strain (6.2%). Contrary to these findings, Soligard et al.31, in the 2016 
+Olympic games, showed sprain/ligament ruptures were more frequent (26.1%) than 
+tendinosis/tendinopathy (17.4%).  
+ 
+ F
+inally, Folkvardsen et al.38 provided information about the type of lower back injuries. Disc 
+degeneration (52.7%) was the mos t common type of spine injury, followed by bulges (26.4%) and 
+herniations (20.9%) in elite swimmers.  
+ Mechanism of injuries Five studies showed that overuse injuries occurred more  frequently than contact/traumatic 
+injuries
+15,27,28,29,31, while one study found a higher prevalence of traumatic injuries37. However, 
+traumatic injuries were more common than overuse injuries in male samples  of two studies27,28. 
+Regarding gender differences, overuse injuries where more frequent in female in two studies27,28. 
+ Severity of injuries  
+Only one study
+ included any severity classification , measured by duration of time needed for 
+recovery,  in their studies. In the Ristolainen et al.15 study, m inor injuries (> 1 week) were the most 
+common injuries (63.5%) , in both male and female . Besides, m ajor injuries (> 3 weeks) showed  a 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+low percentage of prevalence (11.5%).  
+ 
+  
+ I
+njuries by stroke type  
+One study provided information  about injuries by stroke type29. Both males and females  
+suffered more injuries (>45%) when the four swimming strokes (butterfly, backstroke, breaststroke, and freestyle) where combined in a sequential order (individual medley) during training and/or race. The second stroke with more injuries in male s was the butterfly, followed by freestyle, backstroke 
+and breaststroke. In females, backstroke had a higher prevalence than males, followed by butterfly and breaststroke with the same prevalence as  males, and freestyle with lower prevalence than males.  
+ 
+Discussion  
+The main finding of this review is that , to date , the methodological recommendations for data 
+collection and injury surveillance in swimming are not being followed
+24,25. Only 6 studies included 
+these methodologies in their research13,14,29,30,31,40. As a whole, several definitions of injury or pain, 
+and different classifications of location, type, mechanism and severity of injuries are used, as well as 
+the incidence values provided (1000 hours exposure/100 athlete exposure, 10.000 athlete exposure, 
+injuries per athlete, competition starts , etc). As a consequence, this lack of guidelines in methodology 
+hinder ed ways to compare all those results to establish preventive measures depending on category, 
+age, gender, swimming stroke and/or level, that might allow reducing the number and severity of the 
+most prevalent injuries in swimming.  
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+Secondly, shoulder, back and knee injuries are the main locations of  i njuries. Regarding the 
+type of injury, it seems that overuse muscle/tendon injuries (cramps/strains/tendinopathies) are the 
+most common . 
+ 
+  I
+njury incidence  
+The incidence of injuries (2.6- 3.0 injuries per 1000 hours of exposure / 1.5- 5.5 injuries per -
+1000 AE / 3.2- 6.1 per -100 registered athletes) shows that swimming is a sport with a relatively low 
+risk of injury compared to other sports with great involvement of the upper body31,37. This is mainly 
+due to the characteristics of the environment in which the sport takes place, without impacts, without interference with other rivals or teammates and without any implement, which greatly reduces the probability of injury
+42,43. 
+The incidence of injuries seems to be higher in competitions than in training, although the 
+prevalence is much higher in training. However, the pressure to which athletes are exposed during the competition
+44, the intensity and the overload of events in the competition13,30,31,37, 40, and the 
+limited recovery time between t he events greatly increase the risk of injury43. 
+A high  percentage of the studies included in this review indicate a higher incidence of injuries 
+in women swimmers than in men. This may be due to anatomical, biomechanical, physiological and psychological differences compared to men
+45-48. For instance, the shorter length of arms and legs in 
+women makes it necessary to perform a greater number of strokes at the same distance, thus 
+generating greater stress on the joints47. Likewise, lower levels of strength in women49, as well as the 
+energetic differences observed in competition between genders45,47, could generate greater fatigue in 
+women and with it, an increased risk of injury. However, the scarcity of studies that analy se the 
+influence of different risk factors by gender make it difficult to draw firmer conclusions. Hence, the 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+importance of carrying out specific studies in order to establish preventive program mes  aimed at 
+women and men individually. 
+ 
+  
+I
+njury location 
+Regarding injury location, and in line with previous  reviews3,8,9, the shoulder is the body region 
+most affected by injuries, assuming between 16 and 76% of all injuries . The main risk factor for 
+shoulder injuries is the repetitive cyclical movement of the glenohumeral joint, with a positive correlation with training time and distance
+12. Likewise, these repetitive and continuous movements 
+generate great fatigue3 and friction between the different structures of the joint that leads to 
+inflammation and pain50. As such, the fatigue caused in the agonist musculature may cause a 
+biomechanical alteration in the movement of the shoulder that can trigger an injury3,12. It is also worth 
+noting the previous clinical history of pain, a limitation of motion  range , excessive shoulder laxity 
+and/or unilateral/bilate ral dominance as determinants of the injury8,10,12,51-53. 
+Shoulder prevalence varies slightly according to gender (men: 23.8-50.6% and women: 33.3% 
+-41.3%), being slightly higher in men in most of the studies27,29,36. Although women have a lower 
+average height and a shorter stroke45, it is likely  that greater muscle development in men and altered 
+biomechanics in  women45,54 increase the risk of shoulder injury in men. 
+As for knee injuries, the second most injured body region (3.1- 17.7%), are mainly caused by 
+overuse8. Likewise, it should be noted that breaststroke swimmers have a greater number of knee 
+injuries compared to other strokes55 and up to 75% of breaststrokers report medial knee pain 
+throughout their career56. The repetition of certain technical gestures such as the breaststroke kick55,57, 
+the frequency and technical intensity of the kick55, a different propulsive pattern58, decompensation 
+of the kick angle, a mechanical imbalance of the joint55,59, or the degree of flexion during pushing 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+from the  w all60, would affect the movement pattern of the knee and increase the risk of injury and 
+pain. Likewise, it has been proven that an increased Q angle is related to knee pain57. Hence, the 
+importance of teaching the technical performance of the kick and k nowing how to detect possible 
+propulsive irregularities at the biomechanical level in swimmers.  
+ 
+ R
+egarding gender differences, there is no clear trend in this review. Although the literature does 
+not clarify the main risk factors by gender, it could be spec ulated that the differences in the Q angle57, 
+as well as the greater propulsive force generated during the kick or the push on the wall after “flip 
+turns”61, could increase the risk of injury in men .  
+Moreover, the lower back is consolidated as a region with a high risk of swimming injury3,8,10, 
+showing a higher prevalence in the butterfly stroke (33-50 % of lower back injuries)62. All 
+competitive swimming strokes require that the lumbar spine should be maintained in hyperextension to achieve a streamlined body position while performing trunk rotations, which can generate an excessive load on the lumbar area
+3,63. This pain is directly related to the intensity, duration and 
+distance of the training, the technique of the undulating strokes and the use of auxiliary material64, 
+the position of the cervical region65 and the head during breathing66, along with the “flip turns” typical 
+of changes in direction3. In line with previous studies67,68, lower vertebral discs (L4 -L5-S1) were 
+more affected by swimming. The fact that lower vertebral discs are the most load -bearing structures 
+and that they are the axis of rotation during swimming could explain this high incidence compared to other vertebral areas. Consequently, teaching, correcting an d maintaining good swimming technique, 
+as well as strengthening the lumbopelvic complex area 4, could help reduce the risk of injury and 
+pain to the lumbar area in swimmers
+69,70. 
+Unlike shoulder and knee injuries, it seems clear that injuries to the lower back are more 
+prevalent in men. A greater hydrostatic lift and a smaller sinking force in women, which would reduce 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+hyperextension of the lumbar area71,72, the higher percentage of fat and lower relative body weigh t in 
+the trunk72, as well as its greater resistance in the trunk extensors73 that would help reduce water 
+resistance72 reduces the risk of a lower back injury in women. 
+ 
+ I
+njury type  
+The most prevalent type of injury in swimmers, strain/tendinopathy, is closely associated with 
+the location and mechanism of the previously mentioned injuries, since they appear mainly due to 
+repetitive movements in joint areas such as shoulder, knee, intervertebral and hip3,8,10. Although there 
+are methodological limitations, no groupings can be established by specific injuries, previous studies 
+reveal the main strain/tendinopathy injuries in swimming. For instance, the cyclical movement of the stroke generates some deterioration on the shoulder tha t could destabilise the phase of the arm and 
+hand, leading to impingement of the supraspinatus and the long head of the biceps
+10,12. Likewise, 
+subacromial or intra -articular shock generated  at the end of the aerial recovery phase of the stroke 74 
+and during the underwater phase75 is also common . 
+On the other hand, the repetitive movement of the kick, especially in the breaststroke, causes 
+great strain on the ligaments and tendons of the knee joint3,55. Furthermore, it was pointed out in a 
+previous review that a large number of knee pathologies are associated with strain/sprain injuries , 
+such as : medial collateral ligament sprain, patellofemoral pain syndrome, patellar tendinopathy 
+and/or adductor longus /brevis muscle strains3. All of those previously mentioned pathologies are a 
+result of knee valgus during the breaststroke kick58-61, the low angles of hip abduction in the kick58 
+and/or repetitive quadriceps contractions associated with flutter and dolphin kicks, and from patellofemoral joint contact pressure during the wall push- off and start
+60. 
+Concerning the lower back area, the literature refers more to subtypes of spinal disorders such 
+as scoliosis, hyperlordosis, hyperkyphosis, than more specific injuries such as spondylolysis, 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+spondylolisthesis, lumbago and/or lumbosciatica10,64,66,67,76. The need to maintain a position as 
+aerodynamic as possible through hyperextension, together with the constant rotation of the trunk, 
+generates a great overload in the lower back area that could lead to different tendon, ligament or 
+muscle pathologies3,10,66. This position degenerates in pathologies of the intervertebral disc, bulges 
+and herniations38,67,68, as well as joint inflammation77. 
+ 
+ S
+everity of injuries  
+One study included in this review provide d information on the severity of injuries, which shows 
+that injuries are predominantly short -term (< 7 days). The fact that a large percentage of injuries are 
+due to overuse and not trauma24,31,37,40 as reported in previous reviews8,10, could make recovery faster 
+because these injuries would require  only rest in some cases. Injuries such as fractures , ruptures or 
+muscle tears , which require long recovery periods, are rare in swimming, so most of the swimming 
+injuries allow  to return to practice in short periods of time30,31,37,40. 
+Injuries by stroke type  
+Unfortunately, only one study in this review reported swim -stroke injuries29. Medley swimmers 
+had a much higher prevalence of injuries in both genders, so the combination of several strokes that 
+imply different swimming techniques could increase the risk of injury due to abrupt biomechanical changes, together with the co mbination of the risk factors of each stroke
+3,42. 
+With regards to individual stroke type, butterfly and specially  backstroke were those that had a 
+higher prevalence of injuries . This fact may be caused because these strokes , especially butterfly, 
+require spinal hyperextension positions and hyperextension plus abduction arm movements10,25,78. If 
+we combine these risk factors with limited ranges of motion in some swimmers, we have a combination of potentially risky actions
+79,80.  
+Limitations  
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+The main limitation of this review is that the  di fferent methodologies used in injury 
+definitions, data collection and injury surveillance did not allow a direct comparison between the 
+studies . Likewise, few studies provide d relevant information regarding severity, swimming stroke , 
+mechanism of injury an d/or age group. It may  decreas e validity and reliability when it comes to 
+carrying out effective and individualised preventive program mes. Finally, it is important to highligh t 
+that studies comparing and explaining the different risk  patterns by gender are minimal , when there 
+is evidence of the anatomical, biomechanical and physiological gender differences45-48.  
+ 
+ C
+onclusions 
+ The latest epidemiological studies in swimming show a high prevalence of short -term 
+muscle /tendon injuries to the shoulder, knee and lower back in adult swimmers . The aforementioned 
+studies provided insufficient information regarding the injury pattern due to methodological 
+limitations.  Future studies should follow the guideline recommendations in data collection and injury 
+surveillance in swimming.  
+This review identifies current limitations in understanding of injury type and risk factors. We 
+recommend future epidemiological studies follow the methodological recommendations established 
+in recent years. Criteria should include the anatomical location, type (acute, overuse, or traumatic), and severity of injuries. Details on population studied should include gender, level, age group, and primary swimming stroke. These common data reporting practices would allow for developing injury specific preventive programs in the predominant stroke of each swimmer and may reduce risk of the most prevalent injuries.  
+   
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+ 
+ 
+  
+R
+eferences  
+1. Tanaka H. Swimming Exercise. Sports Medicine . 2009;39(5):377-387. 
+2. Vaz de Almeida M, Graça P, Afonso C, D'Amicis A, Lappalainen R, Damkjaer S. Physical activity 
+levels and body weight in a nationally representative sample in the European Union. Public 
+Health Nutrition . 1999;2(1):105-114. 
+3. Nichols A. Medical Care of the Aquatics Athlete. Current Sports Medicine Reports . 
+2015;14(5):389-396. 
+4. Lahart IM, Metsios GS. Chronic Physiological Effects of Swim Training Interventions in Non-
+Elite Swimmers: A Systematic Review and Meta -Analysis. Sports Med. 2018;48(2):337‐359. 
+doi:10.1007/s40279-017-0805-0 
+5. Lee BA, Oh DJ. Effect of regular swimming exercise on the physical composition, strength, and 
+blood lipid of middle -aged women. J of Exerc Rehabil .2015; 11(5), 266. 
+doi:10.12965/jer.150242 
+6. Jürimäe J, Haljaste K, Cicchella A, Lätt E, Purge P, Leppik A, Jürimäe T. (2007). Analysis of 
+swimming per formance from physical, physiological, and biomechanical parameters in young 
+swimmers. Pediatr Exerc Sci . 2007;19(1):70‐81. doi:10.1123/ pes.19.1.70  
+7. Troup JP. The physiology and biomechanics of competitive swimming. Clinics in Sports Medicine . 
+1999;18(2):267-285. doi:10.1016/s0278-5919(05)70143-5. 
+8. Gaunt T, Maffulli N. Soothing suffering swimmers: a systematic review of the epidemiology, 
+diagnosis, treatment and rehabilitation of musculoskeletal injuries in competitive swimmers. Br 
+Med Bull . 2012;103(1) :45‐88. doi:10.1093/ bmb/ ldr039  
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+9. Hill L, Collins M, Posthumus M. Risk factors for shoulder pain and injury in swimmers: A critical 
+systematic review. Phys Sportsmed. 2015;43(4):412‐420. 
+doi:10.1080/00913847.2015.1077097 
+ 
+ 10. Wanivenhaus F, Fox AJ, Chaudhury S, Rodeo SA. Epidemiology of injuries and prevention 
+strategies in competitive swimmers. Sports Health. 2012;4(3):246-51. 
+doi:10.1177/1941738112442132.  
+11. Heinlein SA, Cosgarea AJ. Biomechanical Considerations in the Competitive Swimmer's 
+Shoulder. Sports Health . 2010;2(6):519‐525. doi:10.1177/ 1941738110377611  
+12. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite swimmers: primarily due to swim -
+volume- induced supraspinatus tendinopathy. Br J Sports Med. 2010;44(2):105‐113. 
+doi:10.1136/bjsm.2008.047282 
+13. Prien A, Mountjoy M, Miller J, et al. Injury and illness in aquatic sport: how high is the risk? A 
+comparison of results from three FINA World Championships. Br J Sports Med. 
+2017;51(4):277‐282. doi:10.1136/ bjsports -2016-096075 
+14. Matsuura Y, Hangai M, Koizumi K, Ueno K, Hirai N, Akuzawa H, Kaneoka K. Injury trend 
+analysis in the Japan national swim team from 2002 to 2016: effect of the lumbar injury 
+prevention project. BMJ Open Sport Exerc Med . 2019;5(1):e000615. doi: 10.1136/bmjsem -
+2019-000615. 
+15. Ristolainen L, Heinonen A, Turunen H, Mannström H, Waller B, Kettunen JA, Kujala UM. Type 
+of sport is related to injury profile: a study on cross country skiers, swimmers, long -distance 
+runners and soccer players. A retrospective 12- month study. Scand J Med Sci Sports . 
+2010;20(3):384-93. doi: 10.1111/j.1600-0838.2009.00955.x. 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+16. Brushøj C, Bak K, Johannsen H, Faunø P. Swimmers' painful shoulder arthroscopic findings and 
+return rate to sports. Scandinavian Journal of Medicine and Science in Sports . 
+2006;0(0):061120070736023- ???. 
+ 
+ 17. Tovin BJ. Prevention and Treatment of Swimmer's Shoulder. N Am J Sports Phys Ther . 
+2006;1(4):166‐175.  
+18. Tate A, Turner GN, Knab SE, Jorgensen C, Strittmatter A, Michener LA. Risk factors associated 
+with shoulder pain and disability across the lifespan of competitive swimmers. Journal of 
+Athletic Training . 2012;47(2):149-158. doi:10.4085/1062-6050-47.2.149. 
+19. Tran G, Smith TO, Grice A, Kingsbury SR, McCrory P, Conaghan PG. Does sports participation 
+(including level of performance and previous injury) increase risk of osteoarthritis? A 
+systematic review and meta -analysis. Br J Sports Med. 2016;50(23):1459‐1466. 
+doi:10.1136/bjsports-2016-096142 
+20. Fuller CW, Ekstrand J, Junge A, Andersen TE, Bahr R, Dvorak J, Hägglund M, McCrory P, 
+Meeuwisse WH. Consensus statement on injury definitions and data collection procedures in 
+studies of football (soccer) injuries. Br J Sports Med. 2006;40(3):193- 201. doi: 
+10.1136/bjsm.2005.025270.  
+21. Fuller CW, Molloy MG, Bagate C, Bahr R, Brooks JH, Donson H, Kemp SP, McCrory P, 
+McIntosh AS, Meeuwisse WH, Quarrie KL, Raftery M, Wiley P. Consensus statement on injury 
+definitions and data collection procedures for studies of injuries in rugby union. Br  J Sports 
+Med. 2007;41(5):328-31. doi: 10.1136/bjsm.2006.033282.  
+22. Pluim BM, Fuller CW, Batt ME, Chase L, Hainline B, Miller S, Montalvan B, Renström P, Stroia 
+KA, Weber K, Wood TO. Tennis Consensus Group. Consensus statement on epidemiological 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+studies of medical conditions in tennis, April 2009. Clin J Sport Med. 2009;19(6):445-50. 
+doi:10.1097/JSM.0b013e3181be35e5.  
+ 
+ 23. Timpka T, Alonso JM, Jacobsson J, Junge A, Branco P, Clarsen B, Kowalski J, Mountjoy M, 
+Nilsson S, Pluim B, Renström P, Rønsen O, Steffen K, Edouard P. Injury and illness definitions 
+and data collection procedures for use in epidemiological studies in Athletics (track and field): 
+consensus statement. Br J Sports Med. 2014;48(7):483- 90. doi:10.1136/bjsports -2013-093241. 
+PMID: 24620036 
+24. Mountjoy M, Junge A, Alonso JM, Clarsen B, Pluim BM, Shrier I, van den Hoogenband C, Marks 
+S, Gerrard D, Heyns P, Kaneoka K, Dijkstra HP, Khan KM. Consensus statement on the 
+methodology of injury and illness surveillance in FINA (aquatic sports). B r J Sports Med. 
+2016;50(10):590-6. doi:10.1136/bjsports-2015-095686. 
+25. Junge A, Engebretsen L, Alonso JM, Renström P, Mountjoy M, Aubry M, Dvorak J. Injury 
+surveillance in multi-sport events: the International Olympic Committee approach. Br J Sports 
+Med. 2008;42(6):413-21. doi: 10.1136/bjsm.2008.046631.  
+26. Baker B, Lapierre S, Tanaka H. Role of Cross -training in Orthopaedic Injuries and Healthcare 
+Burden in Masters Swimmers. International Journal of Sports Medicine. 2018;40(01):52-56. 
+27. Chase K, Caine D, Goodwin B, Whitehead J, Romanick M. A Prospective Study of Injury 
+Affecting Competitive Collegiate Swimmers. Research in Sports Medicine . 2013;21(2):111-
+123. 
+28. Kerr ZY, Hayden R, Barr M, Klossner DA, Dompier TP. Epidemiology of National Collegiate 
+Athletic Association men’s and women’s swimming and diving injuries from 2009/2010 to 
+2013/2014. J Athl Train . 2015;50(8):870-8. doi: 10.4085/1062-6050-50.7.02. 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+29. Dijkstra HP, Geertsema L, Benzarti N, van Dorssen EA, Van den Hoogenband CR, Mountjoy M. 
+Review of the Local Organizing Committee (LOC) medical services during the 12th FINA 
+World Swimming Championships (25 m) in Doha, Qatar. Br J Sports Med. 2016;50(10):613-
+8. doi:10.1136/bjsports-2015-095600. 
+ 
+ 30. Mountjoy M, Junge A, Alonso JM, Engebretsen L, Dragan I, Gerrard D, Kouidri M, Luebs E, 
+Shahpar FM, Dvorak J. Sports injuries and illnesses in the 2009 FINA World Championships 
+(Aquatics). Br J Sports Med. 2010;44(7):522-7. doi: 10.1136/bjsm.2010.071720.  
+31. Soligard T, Steffen K, Palmer D, Alonso JM, Bahr R, Lopes AD, Dvorak J, Grant ME, Meeuwisse 
+W, Mountjoy M, Pena Costa LO, Salmina N, Budgett R, Engebretsen L. Sports injury and 
+illness incidence in the Rio de Janeiro 2016 Olympic Summer Games: A prospective study of 
+11274 athletes from 207 countries. Br J Sports Med. 2017;51(17):1265- 1271. doi: 
+10.1136/bjsports-2017-097956.  
+32. Van Tiggelen D, Wickes S, Stevens V, Roosen P, Witvrouw E. Effective prevention of sports 
+injuries: a model integrating ef ficacy, efficiency, compliance and risk -taking behaviour. Br J 
+Sports Med. 2008;42(8):648-52. doi:10.1136/bjsm.2008.046441. 
+33. Hutton B, Catalá -López F, Moher D. The PRISMA statement extension for systematic reviews 
+incorporating network meta -analysis: PR ISMA -NM. Med Clin (Barc) . 2016;147(6):262-6. 
+doi:10.1016/j.medcli.2016.02.025. 
+34. Doherty C, Delahunt E, Caulfield B, Hertel J, Ryan J, Bleakley C. The incidence and prevalence 
+of ankle sprain injury: a systematic review and meta- analysis of prospective epidemiological 
+studies. Sports Med. 2014;44(1):123-40. doi:10.1007/s40279-013-0102-5.  
+35. Orwin RG, Vevea JL. Evaluating coding decisions. The handbook of research synthesis and meta -
+analysis. 2009;2, 177-203. 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+36. 
+ 
+ de Almeida MO, Hespanhol LC, Lopes AD. Prevalence of musculoskeletal pain among swimmers 
+in an elite national tournament. Int J Sports Phys Ther . 2015;10(7):1026-34. 
+37. Engebretsen L, Soligard T, Steffen K, Alonso JM, Aubry M, Budgett R, Dvorak J, Jegathe san M, 
+Meeuwisse WH, Mountjoy M, Palmer -Green D, Vanhegan I, Renström PA. Sports injuries and 
+illnesses during the London Summer Olympic Games 2012. Br J Sports Med. 2013;47(7):407-
+14. doi: 10.1136/bjsports-2013-092380.  
+38. Folkvardsen S, Magnussen E, Karppinen J, Auvinen J, Larsen RH, Wong C, Bendix T. Does elite 
+swimming accelerate lumbar intervertebral disc degeneration and increase low back pain? A 
+cross -sectional comparison. Eur Spine J . 2016;25(9):2849- 55. doi:10.1007/s 00586-016-4642-
+x.  
+39. Nagano Y, Kobayashi -Yamakawa K, Higashihara A, Yako -Suketomo H. Japanese translation and 
+modification of the Oslo Sports Trauma Research Centre overuse injury questionnaire to 
+evaluate overuse injuries in female college swimmers. Plo s One . 2019;14(4):e0215352. 
+doi:10.1371/journal.pone.0215352 
+40. Mountjoy M, Junge A, Benjamen S, Boyd K, Diop M, Gerrard D, van den Hoogenband CR, 
+Marks S, Martinez -Ruiz E, Miller J, Nanousis K, Shahpar FM, Veloso J, van Mechelen W, 
+Verhagen E. Competing with injuries: injuries prior to and during the 15th FINA World 
+Championships 2013 (aquatics). Br J Sports Med. 2015;49(1):37- 43. doi: 10.1136/bjsports -
+2014-093991. 
+41. Norvell DC. Study types and bias -Don't judge a study by the abstract's conclusion alone . 
+Evidence -based Spine-care Journal . 2010;1(2):7-10. doi:10.1055/s-0028-1100908. 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+42. Khodaee M, Edelman GT, Spittler J, Wilber R, Krabak BJ, Solomon D, Riewald S, Kendig A, 
+Borgelt LM, Riederer M, Puzovic V, Rodeo S. Medical Care for Swimmers. Version 2. Sports 
+Med Open . 2016;2:27. doi: 10.1186/s40798-016-0051-2.  
+ 
+ 43. Pyne DB, Sharp RL. Physical and energy requirements of competitive swimming events. Int J 
+Sport Nutr Exerc Metab. 2014;24(4):351-9. doi: 10.1123/ijsnem.2014-0047.  
+44. Hootman JM, Dick R, Agel  J. Epidemiology of collegiate injuries for 15 sports: summary and 
+recommendations for injury prevention initiatives. J Athl Train . 2007;42(2):311-9.  
+45. Costa MJ, Bragada JA, Marinho DA, Silva AJ, Barbosa TM. Longitudinal interventions in elite 
+swimming: a systematic review based on energetics, biomechanics, and performance. J 
+Strength Cond Res . 2012;26(7):2006- 16. doi: 10.1519/JSC.0b013e318257807f. PMID: 
+22531620. 
+46. Jesús S, Costa MJ, Marinho DA, Garrido ND,  Silva AJ, Barbosa TM. (2011). 13th FINA World 
+Championship finals: stroke kinematics and race times according to performance, gender and 
+event . Portuguese J of Sport Sci . 2011;11(2):275-278. 
+47. Ferreira M, Barbosa T, Neiva H, Marta C, Costa M, Marinho D. Effect of Gender, Energetics, 
+and Biomechanics on Swimming Masters Performance. Journal of Strength and Conditioning 
+Research . 2015;29(7):1948-1955.60.  
+48. Senefeld J, Joyner MJ, Stevens A, Hunter SK. Sex differences in elite swimming with advanced 
+age are less than marathon running. Scand J Med Sci Sports . 2016;26(1):17-28. 
+doi:10.1111/sms.12412. Epub 2015 Feb 4. PMID: 25648250. 
+49. Anderson M, Hopkins W, Roberts A, Pyne D. Monitoring seasonal and long -term changes in test 
+performance in elite swimmers. European Journal of Sport Science . 2006;6(3):145-154. 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+50. Bak K. The practical management of swimmer's painful shoulder: etiology, diagnosis, and 
+treatment. Clin J Sport Med. 2010;20:386–90. Doi:10.1097/JSM.0b013e3181f205fa 
+ 
+ 51. Folland J, Archer G. Shoulder injuries in highly trained competitive swimmers. British Journal 
+of Sports Medicine. 2014;48:593 
+52. Walker H, Gabbe B, Wajswelner H, Blanch P, Bennell K. Shoulder pain in swimmers: a 12-month 
+prospective cohort study of incidence and risk factors. Phys Ther Sport . 2012;13(4):243-9. 
+doi:10.1016/j.ptsp.2012.01.001.  
+53. Jansson A, Saartok T, Werner S, Renström P. Evaluation of general joint laxity, shoulder laxity 
+and mobility in competitive swimmers during growth and in normal controls. Scand J Med Sci 
+Sports . 2005;15(3):169-76. doi: 10.1111/j.1600-0838.2004.00417.x.  
+54. Bradley J, Kerr S, Browmaker D, Gomez J -F. Review  of  Shoulder  Injuries  and  Shoulder  
+Problems  in  Competitive  Swimmers. American Journal of Sports Science and Medicine . 
+2016;4(3):57-73. 
+55. Knobloch K, Yoon U, Kraemer R, Vogt PM. 200 - 400 m breaststroke event dominate among 
+knee overuse injuries in elite swimming athletes. Sportverletzung Sportschaden: Organ der Gesellschaft fur Orthopadisch- traumatologische Sportmedizin. 2008;22(4):213-219. 
+doi:10.1055/s-2008-1027987. 
+56. Kenal K, Knapp L. Rehabilitation of Injuries in Competitive Swimmers. Sports Medicine . 
+1996;22(5):337-347. 
+57. Hefzollesan M, Tofighi A, Qarakhanlou BJ, Ghalehgir S. The relationship of breaststroke training 
+on knee pain and Q angle of breaststroke and crawl swimmers.  Central European Journal of 
+Sport Sciences and Medicine . 2014;2(3). 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+58. 
+ 
+ Stulberg SD, Shulman K, Stuart S, Culp P. Breaststroker’s knee: pathology, etiology, and 
+treatment. The American Journal of Sports Medicine . 1980;8(3):164–171. 
+doi:10.1177/036354658000800304 
+59. Lin YF, Jan MH, Lin DH, Cheng CK. Different effects of femoral and tibial rotation on the 
+different measurements of patella tilting: An axial computed tomography study. Journal of 
+Orthopaedic Surgery and Research. 2008;3:5. doi:10.1186/1749-799X-3-5 
+60. Rodeo SA. Knee pain in competitive swimming. Clin Sports Med. 1999;18(2):379 -87. 
+doi:10.1016/s0278-5919(05)70152-6. PMID: 10230572.  
+61. Takagi H, Sugimoto S, Nishijima N, Wilson B. Swimming: Differences in stroke phases, ar m‐
+leg coordination and velocity fluctuation due to event, gender and performance level in 
+breaststroke.  Sports Biomechanics . 2004;3(1): 15-27. doi:10.1080/14763140408522827  
+62. Capaci K, Ozcaldiran B, Durmaz B. Musculoskeletal pain in elite competitive male swimmers. 
+The Pain Clinic . 2002;14(3):229-234.  
+63. Pollard H, Fernandez M. Spinal musculoskeletal injuries associated with swimming: a discussion 
+of technique. Australas Chiropr Osteopathy . 2004;12(2):72-80.  
+64. Nyska M, Constantini, Calé -Benzoor, Back, Kahn, Mann. Spondylolysis as a Cause of Low Back 
+Pain in Swimmers. International Journal of Sports Medicine . 2000;21(5):375-379. 
+65. Wolf BR, Ebinger AE, Lawler MP, Britton CL. Injury patterns in Division I collegiate swimming. 
+Am J Sports Med. 2009;37(10):2037-42. doi: 10.1177/0363546509339364.  
+66. Gil M. Espondilolisis y espondilolistesis en el nadador. NSW: Natación, saltos/sincro, waterpolo. 
+2011;1:21-24. 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+67. Hangai M, Kaneoka K, Hinotsu S, Shimizu K, Okubo Y, Miyakawa S, Mukai N, Sakane M, 
+Ochiai N. Lumbar intervertebral disk degeneration in athletes. 
+ 
+ Am J Sports Med. 
+2009;37(1):149-55. doi: 10.1177/0363546508323252.  
+68. Kaneoka K, Shimizu K, Hangai M, Okuwaki T, Mamizuka N, Sakane M, Ochiai N. Lumbar 
+intervertebral disk degeneration in elite competitive swimmers: a case control study. Am J 
+Sports Med. 2007;35(8):1341-5. doi:10.1177/0363546507300259.  
+69. Crowley E, Harrison AJ, Lyons M. Dry -Land Resistance Training Practices of Elite Swimming 
+Strength and Conditioning Coaches. J Strength Cond Res . 2018;32(9):2592-2600. 
+doi:10.1519/JSC.0000000000002599.  
+70. Fig G. Strength training for swimmers: Training the core.  Strength & Conditioning Journal. 
+2005;27(2):40-42. 
+71. Leblanc H, Seifert L, Chollet D. Does Floatation Influence Breaststroke Technique? Journal of 
+Applied Biomechanics . 2010;26(2):150-158. 
+72. Seifert L, Barbosa TM, Kjendlie PL. Biophysical approach in swimming: Gender effect.  Gender 
+gap: Causes, experiences and effects . 2010;59-80. 
+73. McGill SM, Childs A, Liebenson C. Endurance times for low back stabilization exercises: clinical 
+targets for testing and training from a normal database. Arch  Phys Med Rehabil . 
+1999;80(8):941-4. doi:10.1016/s0003-9993(99)90087-4.  
+74. Yanai T, Hay JG, Miller GF. Shoulder impingement in front -crawl swimming: I. A method to 
+identify impingement. Med Sci Sports Exerc . 2000;32(1):21- 9. doi:10.1097/00005768-
+200001000-00005.  
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+75. Scovazzo ML, Browne A, Pink M, Jobe FW, Kerrigan J. The painful shoulder during freestyle 
+swimming. An electromyographic cinematographic analysis of twelve muscles. Am J Sports 
+Med. 1991;19(6):577-82. doi: 10.1177/036354659101900604.  
+ 
+ 76. Zaina F, Donzelli S, Lusini M, Minnella S, Negrini S. Swimming and spinal deformities: a cross -
+sectional study. J Pediatr . 2015 Jan;166(1):163-7. doi: 10.1016/j.jpeds.2014.09.024.  
+77. Chek P. Stabilisation for Propulsion: Abdominal training for Swimming. The Official Magazine 
+of the Strength and Conditioning Association.1996;4(3):18-21. 
+78. Pink MM, Edelman GT, Mark R., Rodeo SA. Applied biomechanics of swimming. Athletic and 
+sport issues in musculoskeletal rehabilitation. St. Louis: Saunders Elsevier, 2011. 
+79. Cejudo A, Sánchez -Castillo S, Sainz de Baranda P, Gámez JC, Santonja -Medina F. Low Range 
+of Shoulders Horizontal Abduction Predisposes for Shoulder Pain in Competitive Young 
+Swimmers. Front Psychol . 2019;10:478. doi:10.3389/fpsyg.2019.00478.  
+80. Higson E, Herrington L, Butler C, Horsley I. The short- term effect of swimming training load on 
+shoulder rotational range of motion, shoulder joint position sense and pectoralis minor  length. 
+Shoulder Elbow . 2018;10(4):285-291. doi: 10.1177/1758573218773539.  
+ 
+Tables Caption 
+Table 1. Characteristics of the studies reviewed in the meta- analysis.  
+Table 2. Analysis of the selected studies’ methodological quality (n = 14).  
+Table 3. Injury location and type of injury of the studies included in the review. 
+Figure Caption 
+Figure 1. Flow chart of the selection of studies in the systematic review.  
+Appendix Caption 
+This article is protected by copyright. All rights reserved.
+
+Epidemiology of swimming injuries  
+Appendix 1. PRISMA checklist. 
+ 
+  
+This article is protected by copyright. All rights reserved.
+
+Table 1. Characteristics of the studies reviewed in the meta-analysis.
+Reference
+(Country/Year study)Design (type of 
+study/weeks of 
+follow-up/data 
+collection)Sample
+CharacteristicsLevel of swimmers Exposure Prevalence of InjuriesSwimming
+Injury 
+surveillance
+Baker et al. 2019
+(USA/-)R/-/QN = 499
+♂= 205; ♀ = 294
+55.3 ± 13.7 Years old (20-86)Master1. 67 ± 25min/day and 2.5 days/week.
+2. 13.3 ± 11.5 years of practice.- 160 injuries -
+Chase et al. 2013
+(USA/-)P/1 year/CAN= 34 (19.5 ± 1.4 years old) (18-23)
+♂= 16; ♀= 18
+♂ 19.6 Years old (18-23)
+♀ 19.3 Years old (18-22)NCAA Division
+I level University1. 6-7 days/week, 10.180hours training.
+2. 11.0 ± 3.4 years of practice:
+- ♂ 4752.9 hours training - 10.9 ± 4.3 years of 
+practice.
+- ♀ 5427.8 hours training - 11.1 ± 2.6 years of 
+practice.- 31 injuries - 3.04 injuries/1000hours - 5.55 injuries 1000 
+Athlete exposure(AE)
+♂ 13 injuries - 2.74 injuries/1000 hours 4.97 injuries 1000 
+AE 
+♀ 18 injuries - 3.32 injuries/1000hours  6.06 injuries 1000 
+AE-
+de Almeida et al. 2015
+(Brazil/ 2010)R/1 year/QN= 257 (20.1 ± 3.8 Years Old)
+♂= 117 (19.4 ± 3.9 Years Old)
+♀ = 140 (20.6 ± 3.7 Years Old)National
+ International
+ 1. Not given.
+2. 57.1 ± 29.9km/week - 13.2 ± 4.7 years of 
+practice:
+♂ 59.7 ± 32.5km/week - 13.6 ± 4.7 years of 
+practice.
+♀ 53.9 ± 26.4km/week - 12.6 ± 4.8 years of 
+practice.- 54 (21%) showed pain in the last year/ 37 (68.5%) 
+training/17 (31.5%) competition
+♂ 29 (20.7%) showed pain in the last year/ 18 (62.1%) 
+training/11 (37.9%) competition
+♀ 25 (21.4%) showed pain in the last year/ 19 (72%) 
+training/6 (28%) competition
+- 144 (56%) had an injury in the last year/ 131 (91%) 
+training/13 (9%) competition.
+♂ 81 (57.9%) had an injury in the last year/ 73 (90.1%) 
+training/8 (9.9%) competition.
+♀ 63 (53.8%) had an injury in the last year/ 58 (92.1%) 
+training/5 (7.9%) competition.-
+Dijkstra et al. 2016
+(Qatar/WC 25m 2014)P/1 week/CA N = 974Elite/
+World Championship1. Not given.
+2. Not given.- 34 injuries - 3.5 injuries per 100 registered athletes.
+♂ 21 injuries.
+♀ 13 injuries.Yes (a)
+Engebretsen et al. 2013
+(Great Britain/OG 2012)P/1 week/CAN = 931
+♂= 481; ♀= 450Elite
+Olympic games1. Not given.
+2. Not given.- 50 injuries/ 13 competition (31%)/ 29 training (67%).*
+♂ 24 injuries.
+♀ 26 injuries.-
+Folkvardsen et al. 2016
+(Denmark/-)D/-/CAN=100 (18.7 years old) (16-25)
+♂= 60 (18.9 years old)
+♀= 40 (18.5 years old)Elite1. 47.4km/week - 20.3hours/week
+♂ 46.8km/week - 20hours/week
+♀ 48.2km/week - 20.8hours/week
+2. Not given.- 91 spine injuries.
+- 52% low back pain.-
+Kerr et al. 2015
+(USA/2009-2014)P/5 seasons/CAN = 295
+♂= 124; ♀= 171NCAA level 
+University1. Not given.
+2. Not given.- 295 injuries.
+♂ 124 injuries - 1.48 injuries 1000 AE/ 110 injuries 
+training - 1.43 injuries 1000 AE /14 injuries competition - 
+1.96 injuries 1000 AE.
+♀ 171 injuries - 1.63 injuries 1000 AE/ 157 injuries 
+training - 1.62 injuries 1000 AE /14 injuries competition - 
+1.70 injuries 1000 AE.-
+Accepted Article
+This article is protected by copyright. All rights reserved.
+Matsuura et al. 2019
+(Japan/2002-2008)P/7 years/ CAN = 217
+♂= 121; ♀= 96
+♂ 21.2 ± 2 years old
+♀ 21.3 ± 3 years oldElite1. Not given.
+2. Not given.- 94 injuries. Yes (b)
+Mountjoy et al. 2010
+(Italy/WC 2009)P/1 week/CAN = 1502
+♂= 872; ♀= 630Elite
+World Championship1. Not given.
+2. Not given.- 48 injuries - 31.9 injuries per 1000 athletes.
+♂ 19 injuries (13 training/6 competition)-21.8 injuries per 
+1000 athletes.
+♀ 22 injuries (13 training/9 competition)-34.8 injuries per 
+1000 athletes.Yes (b)
+Mountjoy et al. 2015
+(Spain/WC 2013)R/4weeks/Q
+P/1 week/CAN= 464 (21.9 ± 3.8 years old) 
+retrospective. ♂= 250; ♀= 214
+N= 1071 (21.5 ± 3.8 years old) 
+prospective. ♂= 608; ♀= 463Elite
+World Championship1. 3102 (1652/1450) number of starts 
+(male/female) 
+2. Not given.- 23.5% (21.6% male/25.7% female) athletes reported a 
+physical complaint in the 4 weeks prior WC. 
+- 65 injuries - 6.1 per 100 registered athletes/46 training 
+injuries - 4.3 per 100 registered athletes/16 competition 
+injuries-0.5 per 100 starts.
+♂ 31 injuries.
+♀ 34 injuries.Yes (b)
+Nagano et al. 2019
+(Japan/-)P/24 weeks/Q 
+and CA♀ = 29 (19.9 ± 1.3 years old) University1. Not given.
+2. 7.7 ± 1.2 years of practice- -
+Prien et al. 2017
+(Russia/WC 2015)R/4weeks/Q
+P/1 week/CAN=576 (21.3 years old)
+♂= 669; ♀= 525Elite
+World Championship1. Not given.
+2. Not given.- 73 injuries 4 weeks prior WC.
+- 9 injuries/2 time-loss injuries.Yes (b)
+Ristolainen et al. 2010
+(Finland/2006)R/1 year/QN=154 (18.7 ± 2.9 years old; 15-35 
+years old).
+♂= 71; ♀= 183Elite1. Not given.
+2. 1500.8km/year - 9.9 ± 3.1 years of practice- 210 injuries/2.6 injuries per 1000 hours exposure.-
+Soligard et al. 2017
+(Brazil/OG 2016)P/1 week/CAN= 906.
+♂= 490; ♀ = 416Elite/Olympic games1. Not given.
+2. Not given.- 23 injuries (17 training-5 competition-1 unknown).
+♂ 11 injuries.
+♀ 12 injuries.Yes (a)
+-: Not information available; CA: clinical assessment; D: descriptive; P: prospective study; Q: questionnaire/survey; R: retrospective study.
+Note. * Information missing in 8 injuries; OG: Olympic Games; WC: World Championship. 1. = Activity exposure; 2. = Years of experience.
+a) Mountjoy M, Junge A, Alonso JM, Clarsen B, Pluim BM, Shrier I, van den Hoogenband C, Marks S, Gerrard D, Heyns P, Kaneoka K, Dijkstra HP, Khan KM. Consensus statement on the methodology of injury and illness surveillance in 
+FINA (aquatic sports). British Journal of Sports Medicine. 2016;50(10):590-596.
+b) Junge A, Engebretsen L, Alonso JM, Renström P, Mountjoy M, Aubry M, Dvorak, J. Injury surveillance in multi-sport events: the International Olympic Committee approach. British Journal of Sports Medicine. 2008;42(6): 413-421.
+Accepted Article
+This article is protected by copyright. All rights reserved.
+Table 2. Analysis of the selected studies’ methodological quality (n = 14).
+Study 1 2 3 4 5 6 7 8 9 10 11 Score
+Baker et al. 2019 + + + - - - - - + - + 5
+Chase et al. 2013 + + + + - + - + + - + 8
+de Almeida et al. 2015 + + + - - - + - + - + 6
+Dijkstra et al. 2016 + + + - - + + + - - + 7
+Engebretsen et al. 2013 + + + - + - - - - - + 5
+Folkvardsen et al. 2016 + + + - + - - + + - + 7
+Kerr et al. 2015 + + + + + - + - + - + 8
+Matsuura et al. 2019 + + - - + + - + + + + 9
+Mountjoy et al. 2010 + + + - - - + - + - + 6
+Mountjoy et al. 2015 + + + - - + - - + - + 6
+Nagano et al. 2019 + + + + - - + - + + + 7
+Prien et al. 2017 + + + - + + - + + - + 7
+Ristolainen et al. 2010 + + - - + + + - + + + 9
+Soligard et al. 2017 + + + - + + + + + - + 8
+Note. The numbers of the columns corresponded to the following items of the STROBE scale. Materials and methods:
+1. Describes the setting or participating locations.
+2. Describes relevant dates (period of recruitment, exposure, follow-up, data collection).
+3. Provides statement concerning institutional review board approval and consent.
+4. Gives the inclusion and exclusion criteria.
+5. Describes injury history.
+6. Describes methods of follow-up.
+Data sources/measurement
+7. Provides a definition of injury.
+8. Verifies injury by an independent medical professional.
+9. Classifies injury (severity, location and type of injury).
+10. Indicates the number of participants with missing data and explain how this was addressed.
+11. Measures and presents exposure data.
+Accepted Article
+This article is protected by copyright. All rights reserved.
+Table 3. Injury location and type of injury of the studies included in the review.
+Location of injury Type of injury
+References
+Both Genders Men Women Both Genders Men WomenMechanism of injury
+Baker et al. 2019 Shoulder: 121 (76%)
+ Knee: 10 (6%)
+ Ankle: 9 (6%)
+ Other: 20 (13%)
+Chase et al. 2013 Shoulder: 12 (38.7%)/ 
+ Back: 5 (16.1%)
+ Knee: 4 (12.9%)
+ Ankle: 4 (12.9%)
+ Upper leg: 3 (9.7%)
+ Groin: 2 (6.5%)
+ Neck: 1 (3.2%) Shoulder: 6 (46.2%)
+ Back: 3 (23%)
+ Groin:2 (15.4%)
+ Knee:1 (7.7%)
+ Upper leg:1 (7.7%)
+ Ankle:0
+ Neck: 0 Shoulder: 6 (33.3%)
+ Ankle:4 (22.2)
+ Knee:3 (16.7%)
+ Back: 2 (11.1%)
+ Upper leg:2 (11.1%)
+ Neck: 1 (5.6%)
+ Groin:0 Tendonitis: 18 (58%)
+ Strain: 11 (35.5%)
+ Sprain: 2 (6.5%) Tendonitis: 6 (46.2%)
+ Strain: 6 (46.1%)
+ Sprain: 1 (7.7%) Tendonitis: 12 (66.6%)
+ Strain: 5 (27.8%)
+ Sprain: 1 (5.6%)
+  58.1% overuse injuries/ 
+41.9% traumatic injuries
+♂ 46.2% overuse injuries/ 
+53.8% traumatic injuries
+♀ 66.7% overuse injuries/ 
+33.3% traumatic injuries
+de Almeida et al. 
+2015 Shoulder: 67 (46.5%)
+ Knee: 23 (16%)
+ Lower back: 9 (6.2%)
+ Neck/cervical: 9 (6.2%)
+ Ankle/foot: 7 (4.9%)
+ Hip/Thigh: 6 (4.2%)
+ Elbow/wrist/hand: 4 (2.8%)
+ Others: 16 (11.1%) Shoulder: 41 (50.6%)
+ Knee: 12 (14.8%)
+ Lower back: 9 (11.1%)
+ Neck/cervical: 5 (6.2%)
+ Ankle/foot: 3 (2.1%)
+ Hip/Thigh: 2 (2.5%)
+ Elbow/wrist/hand: 1 (1.2%)
+ Others: 8 (9.9%) Shoulder: 26 (41.3%)
+ Knee: 11 (17.5%)
+ Ankle/foot: 5 (7.9%)
+ Neck/cervical: 4 (6.3%)
+ Hip/Thigh: 4 (6.3%)
+ Elbow/wrist/hand: 3 (4.8%)
+ Lower back: 0 (0%)
+ Others: 8 (12.7%) Tendinopathy: 61 (58.7%)
+ Muscular lesion: 8 (7.7%)
+ Dislocation: 4 (3.8%)
+ Arthritis/Synovitis/Bursitis: 
+4 (3.8%)
+ Ligament rupture: 3 (2.9%)
+ Meniscal/Cartilage: 2 
+(6.7%)
+ Sprain: 2 (1.9%)
+ Others: 15 (14.5%) Tendinopathy: 34 (55.7%)
+ Muscular lesion: 6 (9.8%)
+ Meniscal/Cartilage: 5 
+(8.2%)
+ Dislocation: 4 (6.7%)
+ Arthritis/Synovitis/Bursitis: 
+1 (1.6%)
+ Ligament rupture: 1 (1.6%)
+ Sprain: 0 (0%)
+ Others: 10 (16.4%) Tendinopathy: 27 (62.9%)
+ Arthritis/Synovitis/Bursitis: 
+3 (7%)
+ Muscular lesion: 2 (4.6%)
+ Meniscal/Cartilage: 2 
+(4.6%)
+ Ligament rupture: 2 (4.6%
+ Sprain: 2 (4.6%)
+ Dislocation: 0 (0%)
+ Others: 5 (11.7%)
+Dijkstra et al. 
+2016 Shoulder: 10 (29.4%)
+ Knee: 6 (17.7%)
+ Foot/ankle: 4 (11.8%)
+ Hand/fingers: 2 (5.9%)
+ Groin: 2 (5.9%)
+ Back: 4 (11.7%)
+ Head: 2 (5.9%)
+ Chest: 1 (2.9%)
+ Wrist: 1 (2.9%)
+ Elbow: 1 (2.9%)
+ Hip: 1 (2.9%) Shoulder: 5 (23.8%)
+ Knee: 5 (23.8%)
+ Foot/ankle: 3 (14.3%)
+ Hand/fingers: 2 (9.5%)
+ Groin: 2 (9.5%)
+ Back: 2 (9.5%)
+ Head: 1 (4.8%)
+ Chest: 1 (4.8%)
+ Wrist: 0 (0%)
+ Elbow: 0 (0%)
+ Hip: 0 (0%) Shoulder: 5 (38.5%)
+ Back: 2 (15.4%)
+ Knee: 1 (7.7%)
+ Foot/ankle: 1 (7.7%)
+ Head: 1 (7.7%)
+ Wrist: 1 (7.7%)
+ Elbow: 1 (7.7%)
+ Hip: 1 (7.7%)
+ Groin: 0 (0%)
+ Hand/fingers: 0 (0%)
+ Chest: 0 (0%)♂ 5 (23.8%) overuse 
+injuries/ 16 (76.2%) 
+traumatic injuries
+♀ 7 (53.8%) overuse 
+injuries/ 6 (46.2%) 
+traumatic injuries
+Engebretsen et al. 
+2013 Shoulder/clavicle: 8 (16%)
+ Upper back: 6 (12%)
+ Ankle: 3 (6%)
+ Foot and toe: 3 (6%)
+ Thigh: 3 (6%)
+ Lower leg: 3 (6%)
+ Achilles tendon: 3 (6%)
+ Face: 3 (6%)
+ Fingers: 3 (6%)
+ Lower back: 2 (4%)
+ Knee: 2 (4%) Strain: 11 (22%)
+ Sprain: 8 (16%)
+ Contusion/hematoma/bruise: 
+6 (12%)
+ Tendinosis: 6 (12%)
+ Laceration/abrasion/skin 
+lesion: 5 (10%)
+ Arthritis/bursitis/synovitis: 2 
+(4)
+ Fracture: 1 (2%)Contact injuries: 18 (36%)
+Overuse: 14 (28%)
+Others: 11 (12%)
+NA: 11 (12%)
+Accepted Article
+This article is protected by copyright. All rights reserved.
+ Neck/cervical spine: 2 (4%)
+ Head: 1 (2%)
+ Groin: 1 (2%)
+ Elbow: 1 (2%)
+ Wrist: 1 (2%)
+ Thumb: 1 (2%)
+ Not available: 4 (8%) Fasciitis/Aponeurosis: 1 
+(2%)
+ Others: 10 (20%)
+Folkvardsen et al. 
+2016 Spine injuries (91%)
+ Low back pain (52%)
+ L1/L2: 18 (19.8%)
+ L2/L3: 14 (15.4%)
+ L3/L4: 14 (15.4%)
+ L4/L5: 23 (25.3%)
+ L5/S1: 28 (30.8%) Disc degeneration: 48 
+(52.7%)
+ Bulges: 24 (26.4%)
+ Herniations: 19 (20.9%)
+Kerr et al. 2015 Shoulder/Clavicle: 106 
+(35.9%)
+ Trunk: 50 (17.0%)
+ Knee: 30 (10.2%)
+ Hip/groin: 16 (5.4%)
+ Foot: 16 (5.4%)
+ Hand/wrist: 15 (5.1%)
+ Thigh/upper leg: 12 (4.1%)
+ Arm/Elbow: 10 (3.4%)
+ Head/Face: 9 (3%)
+ Lower leg: 8 (2.7%)
+ Ankle: 7 (2.4%)
+ Neck: 2 (0.7%)
+ Others: 14 (4.7%) Shoulder/Clavicle: 53 
+(34.7%)
+ Trunk: 20 (16.1%)
+ Knee: 11 (8.9%)
+ Hand/wrist: 11 (8.9%)
+ Foot: 7 (5.7%)
+ Arm/Elbow: 6 (4.8%)
+ Hip/groin: 6 (4.8%)
+ Thigh/upper leg: 6 (4.8%)
+ Head/Face: 5 (4%)
+ Lower leg: 2 (1.6%)
+ Ankle: 2 (1.6%)
+ Neck: 0 (0%)
+ Others: 5 (4%) Shoulder/Clavicle: 63 
+(36.8%)
+ Trunk: 30 (17.5%)
+ Knee:19 (11.1%)
+ Hip/groin: 10 (5.9%)
+ Foot: 9 (5.3%)
+ Thigh/upper leg: 6 (3.5%)
+ Lower leg: 6 (3.5%)
+ Ankle: 5 (2.9%)
+ Head/Face: 4 (2.3%)
+ Arm/Elbow: 4 (2.3%)
+ Hand/wrist: 4 (2.3%)
+ Neck: 2 (1.2%)
+ Others: 9 (5.3%) Strain: 50 (17.3%)
+ Tendonitis: 44 (15.2%)
+ Impingement: 37 (12.8%)
+ Sprain: 15 (5.2%)
+ Spasm: 9 (3.1%)
+ Inflammation: 8 (2.8%)
+ Contusion: 7 (2.4%)
+ Concussion: 6 (2.1%)
+ Subluxation: 6 (2.1%)
+ Sacroiliac joint dysfunction: 
+6 (2.1%)
+ Fracture: 3 (1%)
+ Others: 98 (33.9%) Strain: 21 (21.8%)
+ Impingement: 18 (14.5%)
+ Tendonitis: 17 (13.7%)
+ Sprain: 6 (4.8%)
+ Spasm: 5 (4%)
+ Concussion: 5 (4%)
+ Contusion: 4 (3.2%)
+ Fracture: 3 (2.4%)
+ Inflammation: 2 (1.6%)
+ Subluxation: 1 (0.8%)
+ Sacroiliac joint dysfunction: 
+0 (0%)
+ Others: 36 (29%) Strain: 29 (17%)
+ Tendonitis: 27 (15.8%)
+ Impingement: 19 (11.1%)
+ Sprain: 9 (5.3%)
+ Sacroiliac joint dysfunction: 
+6 (3.5%)
+ Inflammation: 6 (3.5%)
+ Subluxation: 5 (2.9%)
+ Spasm: 4 (2.3%)
+ Contusion: 3 (1.8%)
+ Concussion: 1 (0.6%)
+ Fracture: 0 (0%)
+ Others: 62 (36.2%)♂ 55 (44.4%) overuse 
+injuries/ 58 (46.7%) 
+traumatic injuries [27 
+(21.7%) contact injuries/ 31 
+(25%) noncontact 
+injuries]/11 (8.8%) others 
+♀ 109 (63.7%) overuse 
+injuries/46 (26.9%) 
+traumatic injuries [17 
+(9.9%) contact injuries/ 29 
+(17%) noncontact 
+injuries]/16 (9.4%) other
+Matsuura et al. 
+2019 Lumbar: 51 (54.3%)
+ Shoulder: 22 (23.4%)
+ Knee:10 (10.6%)
+ Ankle: 8 (3.7%)
+ Others: 3 (3.2%)
+Mountjoy et al. 
+2010 Shoulder: 9 (18.8%)
+ Wrist/hand: 9 (18.8%)
+ Lower back: 5 (10.4%)
+ Head/face: 5 (10.4%)
+ Hip/groin: 5 (10.4%)
+ Multiple: 5 (10.4%)
+ Cervical spine/neck: 3 
+(6.2%)
+ Knee: 3 (6.2%)
+ Others trunk: 2 (4.2%)
+ Thigh/lower leg: 1 (2.1%)
+ Ankle/foot: 1 (2.1%)
+ Arm/elbow: 0 (0%) Sprain/strain: 16 (33.3%)
+ Skin lesion: 6 (12.5%)
+ Contusion: 6 (12.5%)
+ Tendinosis: 5 (10.4%)
+ Subluxation/Dislocation: 3 
+(6.25%)
+ Enthesopathy/fasciitis: 2 
+(4.2%)
+ Muscle cramps: 1 (2.1%)
+ Concussion: 1 (2.1%)
+ Inflammation/bursitis: 1 
+(2.1%)
+ Fracture: 1 (2.1%)
+ Impingement: 1 (2.1%)
+ Others: 5 (10.4%)
+Accepted Article
+This article is protected by copyright. All rights reserved.
+Mountjoy et al. 
+2015 Shoulder: 19 (29.2%)
+ Trunk: 6 (9.2%)
+ Hand/Fingers: 4 (6.2%)
+ Head/face: 3 (4.6%)
+ Wrist: 3 (4.6%)
+ Knee: 2 (3.1%)
+ Foot/toe: 2 (3.1%).
+ Arm: 2 (3.1%)
+ Hip/groin/thigh: 1 (1.5%)
+ Lower leg/ankle: 1 (1.5%)/
+ Cervical spine/neck: 1 
+(1.5%)
+ NA: 21 (32.3%) Tendinosis: 12 (18.5%)
+ Sprain: 8 (12.3%)
+ Laceration: 6 (9.2%)
+ Strain: 4 (6.2%)
+ Contusion: 4 (6.2%)
+ Muscle cramps/spasm: 2 
+(3.1%)
+ Impingement: 2 (3.1%)
+ Arthritis/bursitis: 1 (1.5%)
+ Fracture: 1 (1.5%)
+ Concussion: 0 (0%)
+ Others: 25 (38.5%)
+Nagano et al. 
+2019* Only overuse injuries
+ Lower back: 27.6%
+ Shoulder: 16%
+ Knee: 9.9%
+ Ankle: 9.0%
+ Hip/Thigh: 5.2%
+ Pelvis/glute: 3.1%
+ Foot: 2.8%
+ Elbow/Upper arm: 2.2%
+ Wrist/forearm: 1.3%
+ Shank: 1%
+ Finger: 0.3%
+ Unknown: 1%47.8% overuse injuries
+Ristolainen et al. 
+2010 Upper arm/shoulder: 75 
+(35.7%)
+ Knee: 34 (16.2%)
+ Back (low back/upper back): 
+33 (15.7%)
+ Forearm (elbow/palm/ 
+wrist/fingers: 20 (9.5%)
+ Ankle: 12 (5.7%)
+ Foot (toes/heel/Achilles/ 
+sole): 7 (3.3%)
+ Hip/groin/gluteal/pelvis: 6 
+(2.9%)
+ Thigh: 6 (2.9%)
+ Head/neck/face/eye/tooth: 5 
+(2.4%)
+ Calf: 5 (2.4%)
+ Thorax/abdomen: 1 (0.5%)
+ NA: 6 (2.9%) 93 acute injuries (1.10 
+injuries per 1000 exposure 
+hours)/ 117 overuse injuries 
+(1.48 injuries per 1000 
+exposure hours)
+Soligard et al. 
+2017 Shoulder/clavicle: 7 (30.5%)
+ Hand: 3 (13.1%)
+ Knee: 3 (13.1%)
+ Lumbar spine/lower back: 2 
+(8.7%)
+ Ankle: 1 (4.3%)
+ Elbow: 1 (4.3%)
+ Face: 1 (4.3%) Sprain/ligamentous rupture: 
+6 (26.1%) 
+Contusion/haematoma/bruise
+: 4 (17.4%)
+ Tendinosis/tendinopathy: 4 
+(17.4%)
+ Impingement: 2 (8.7%) Contact injuries: 4
+ Equipment failure: 1
+ Non-contact/trauma: 3
+ Overuse: 9
+ NA: 2
+ Others: 4
+Accepted Article
+This article is protected by copyright. All rights reserved.
+ Finger: 1 (4.3%)
+ Foot/toe: 1 (4.3%)
+ Head: 1 (4.3%)
+ Lower leg: 1 (4.3%)
+ Thigh: 1 (4.3%) Strain/muscle rupture/tear: 2 
+(8.7%)
+ Lesion of meniscus or 
+cartilage: 2 (8.7%)
+ Laceration/abrasion/skin 
+injury: 1 (4.3%)
+ Others: 2 (8.7%)
+♂: male; ♀: female, NA: Not available. 
+Accepted Article
+This article is protected by copyright. All rights reserved.
+Figure 1. Flow chart of the selection of studies in the systematic review.Records identified through database 
+searching databases: 
+PUBMED (n=807)
+Sportdiscus (n=46)
+(n=853) Additional records identified through 
+other sources
+(n=11)
+Records after duplicates removed
+(n=823)
+Records screened
+(n=823)Records excluded
+based on title and abstract 
+(n=764)
+Full-text articles assessed 
+for eligibility (n=59)
+(n =   )Full-text articles excluded        
+(n=45)
+Duplicate data (n=2)
+Not enough data (n= 28)
+Reviews (n=3)
+No adults or children competing at 
+a low level  (n=12)
+Studies included in 
+qualitative synthesis
+ (n=14)Screening Included Eligibility Identification
+Accepted Article
+This article is protected by copyright. All rights reserved.
+View publication stats

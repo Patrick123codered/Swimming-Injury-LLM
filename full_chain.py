@@ -1,6 +1,6 @@
 import os
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from langchain.memory import ChatMessageHistory
 from langchain_core.prompts import ChatPromptTemplate
 

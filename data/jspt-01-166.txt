@@ -1,0 +1,691 @@
+ORIGINAL RESEARCH
+PREVENTION AND TREATMENT OF
+SWIMMER’S SHOULDER
+Brian J. Tovin, D PT, MMSc, PT, SCS, ATC, FAAOMPTa
+166ABSTRACT
+Swimmer’s shoulder is a musculoskeletal
+condition that results in symptoms in the area ofthe anterior lateral aspect of the shoulder, some-
+times confined to the subacromial region.  The
+onset of symptoms may be associated with
+impaired posture, glenohumeral joint mobility,
+neuromuscular control, or muscle performance.Additionally, training errors such as overuse, mis-
+use, or abuse may also contribute to this condition.
+In extreme cases, patients with swimmer’s shoul-der may have soft tissue pathology of the rotator
+cuff, long head of the biceps, or glenoid labrum.
+Physical therapists involved in the treatment ofcompetitive swimmers should focus on prevention
+and early tr eatment, addr essing the impairments
+associated with this condition, and analyzing train-ing methods and stroke mechanics. The purposeof this clinical comment ary is t o provide an
+overview of the biomechanics of swimming, the
+etiology of the clinical entity referred to as swim-mer’s shoulder, and strategies for injury preven-tion and treatment.
+Key words. Swimmer’ s shoulder , injury preven-
+tion, rotator cuff.INTRODUCTION
+The shoulder complex is designed to achieve the
+greatest range of motion (ROM) with the mostdegrees of freedom of any joint system in the body.
+1
+The excessive mobility of the shoulder at the gleno-
+humeral and scapulothoracic joints is balanced by the
+stability of the acromioclavicular (AC) and stern-
+oclavicular joints.  At the glenohumeral joint, acomplex ligamentous system contributes to primary
+stability and an elaborate musculotendinous system
+serves as secondary stabilizers.  This support mecha-nism allows the shoulder to withstand large external
+forces, while providing enough mobility for the upper
+extremity to accomplish complex movement pat-terns.  
+Perhaps the greatest illustration of the balance
+between shoulder mobility and stability occurs dur-ing sports that r equir e overhead motions.  Many
+overhead sports such as throwing, racket sports, and
+volleyball r equir e two or thr ee ov erhead mov ement
+patterns . Conv ersely, swimming r equir es sev eral
+overhead mov ement patterns , involving continuous
+humeral circumduction in clockwise and counter-clockwise dir ections.
+2,3A competitiv e swimmer
+usually e xceeds 4000 strokes for one shoulder in a
+single workout, making this sport a common source
+of shoulder pathology.   Shoulder pain is the most
+common musculosk eletal complaint in swimming4-6
+with reports of incidence of disabling shoulder pain
+in competitive swimmers ranging from 27% to 87%.4-
+12The purpose of this clinical commentary is to pro-
+vide an overview of the biomechanics of swimming,
+the etiology of the clinical entity referred to as swim-
+mer’s shoulder , and str ategies f or injury prevention
+and treatment.
+SWIMMING BIOMECHANICS 
+Swimming requires several different shoulder
+motions, most being performed during circumduc-
+tion in clockwise and counter-clockwise directionswith varying degrees of internal and external rotationand scapular protraction and retraction.
+2Swimming
+is comprised of f our differ ent str okes of varying dis-
+NORTH AMERICAN JOURNAL OF SPORTS PHYSICAL THERAPY   |   NOVEMBER 2006   |   VOLUME 1, NUMBER 4aThe Sports Rehabilitation Center
+Atlanta, Georgia 
+starts in full flexion with internal rotation.  However, the
+elbow s remain flexed during the pull-through until the
+humerus is fully adducted and brought into horizontal
+adduction with forearms touching each other.  Unlike theother strokes, the hands never move below the hips sothe tensile forces on the rotator cuff that occurs during
+the other strokes at the end of pull-thorough does not
+occur during breaststroke.
+2
+ETIOLOGY OF SWIMMER’S SHOULDER
+Most musculoskeletal conditions can be divided into
+macrotrauma and microtrauma based on the onset.14A
+condition with sudden onset that occurs due to one spe-cific incident usually is referred to as macrotrauma.
+14
+Macrotrauma results from external forces and patients
+usually present with tissue pathology that causes associ-ated impairments such as loss of motion, strength, and
+proprioception.  Swimmer’s shoulder is a condition with
+a gradual onset due to repetitive activity and can be clas-
+sified as microtrauma.  Unlike macrotrauma, the etiologyof microtrauma is multifactorial and may be due to intrin-
+sic factors or extrinsic factors.  
+Intrinsic F actors
+Swimmer’s shoulder usually presents as subacromial
+impingement involving the rotator cuff tendon, bicipital
+tendon, or subacr omial bur sa.15Primary subacr omial
+impingement involves compression of these structuresbetween the acromion and greater tuberosity.
+16The
+cause of primary impingement is usually a tight posteri-or capsule (causing the humeral head to migrateanteriorly) or abnormal acr omial morphology.   How ever,
+primary impingement syndrome is less common in com-
+petitive swimmers than secondary impingement.
+The mechanism of secondary impingement occurs
+through a series of impairments, usually initiating in a
+swimmer with increased anterior glenohumeral laxity.
+10,15
+Shoulder R OM in swimmers is similar to that of overhead
+athletes, with excessive external rotation and limitedinternal rotation.  This shift in ROM towards increased
+external r otation is an adjustment t o the demands on the
+glenohumeral joint which goes through approximately
+4,000 str okes daily.
+15The acquir ed anterior laxity permits
+excessive external rotation, but places greater demand on
+the rotator cuff and the long head of the biceps to reduce
+humeral head elevation and anterior translation.  
+Failure of the rotator cuff and the scapular stabilizers to
+maintain the humeral head in the glenoid fossa can leadto excessiv e humer al head migr ation and either incr eased
+167tances, including freestyle (sometimes referred to as
+the crawl), butterfly, backstroke, and breastroke.  Moststrokes are divided into two primary phases referred toas the pull-through and recovery.  The pull-through is
+where propulsion is achieved and is further divided into
+different phases consisting of the hand entry, the catch,mid-pull, and finish or end pull-through. This sectionwill provide an overview of swimming mechanics foreach stroke related to the shoulder.  For more detailed
+analysis of swimming biomechanics, the reader isreferred to other sources.
+13
+Freestyle requires a combined motion of scapular
+retraction and elevation, with humeral abduction and
+external rotation during the recovery.2During the pull-
+through phase, the scapula is protracted while thehumerus is adducted, e xtended, and internally rotated.
+Stroke power is achieved through the shoulder adduc-tors, extenders, and internal rotators with the serratus
+anterior and latissumus dorsi being the key propulsion
+muscles for swimmers.
+2Because the trunk is rotated
+away from the side that is beginning to pull, the shoul-der avoids a true impingement position of forwardflexion with internal rotation and horizontal adduction. 
+The 
+butterfly has a similar motion at the shoulder as
+freestyle, but the stresses are different because botharms ar e mov ed through the same motion simultane-
+ously rather than alternating.  For this reason, no trunkrotation occurs so the demand of the medial scapular
+stabiliz ers and r etractors during recovery is greater with
+butterfly than fr eestyle .
+2In addition, the humer al head
+moves into an impingement position of elevation, hori-zontal adduction, and internal rotation at hand entry.
+Much of the propulsion during the butterfly comes
+from the hips and trunk so inefficiency of these muscle
+groups can lead to increased stress on the shoulders. 
+The motion at the shoulder during the 
+backstroke is
+opposite to the freestyle stroke with the shoulder inretraction, horiz ontal abduction, and e xternal r otation
+at hand entry and the beginning of pull-through.  This
+position places increased stress on the anterior capsule.
+The arm position during the r ecovery is differ ent than
+freestyle because the elbow is extended (rather than
+flexed).  Due to trunk rotation, the swimmer is rarely
+flat on the back during the movement, spending more
+time on the side. Movement at the shoulder during 
+breaststroke can vary,
+with mor e motion occurring below the surf ace of the
+water than any other stroke.  Like the butterfly, the
+arms ar e mov ed simult aneously through a motion that
+NOR TH AMERICAN JOURNAL OF SPOR TS PHYSICAL THERAPY   |   NOVEMBER 2006   |   VOLUME 1, NUMBER 4
+tensile stress on the tendons 10, 15or compression of the
+tendons fr om abutment of the humeral head on the
+undersurface of the acromian.15The proposed mecha-
+nism of f ailure initiates with muscle fatigue.  For example,
+the serratus anterior in the healthy shoulder stabilizes thescapula in upward rotation and protraction, creating ade-
+quate subacromial space for the biceps tendon and
+rotator cuff and maintaining good approximation between
+the humeral head and the glenoid fossa.  During thepulling motion of swimming, the serratus anterior effec-tively reverses origin and insertion to propel the body
+over the arm, while maintaining the subacromial space
+and glenohumeral joint congruency. When the serratus
+anterior becomes fatigued, the scapula fails to protract
+and upwardly rotate and the subacromial space may becompromised.  Additionally, the space between the
+humeral head and glenoid increases, contributing to more
+laxity.  
+Symptoms that develop as a result of fatigue can also
+affect stroke mechanics.  Research has documentedchanges in muscle activity that occurs in swimmers with
+painful shoulders compared to swimmers with healthy
+shoulders.
+6Many swimmers will inherently adjust their
+stroke to avoid painful movement patterns.17For exam-
+ple, during early pull-thr ough, the hand usually enters the
+water close to the midline with the elbow above the sur-
+face of the w ater.   The upper e xtremity then continues t o
+“reach” f orward below the surf ace of the w ater towards
+the midline of the body.  In swimmer s with painful shoul -
+ders, the hand enters further away from the midline withthe elbow dr opped closer to the surface of the water.   This
+change is usually made t o avoid an impingement position
+of full elevation with internal rotation and horizontal
+adduction.  Another adjustment occur s at the end of the
+pull-thr ough phase, when the hand should be close to the
+thigh with internal rotation of the shoulder. In swimmers
+with painful shoulders, the shoulder was externally rotat-
+ed and the pull-through phase was shortened to avoidimpingement.
+Another proposed impingement mechanism involves the
+microvasculature of the rotator cuff.  Studies indicate that
+when the shoulder is abducted, the vessels of thesupraspinatus and long head of the biceps ar e filled.
+18
+Conversely, when the arm is adducted and at the side, the
+vascular system to these tendons is compromised.  This
+phenomenon is referred to as a “wringing out” of thetendon, causing a temporary avascular zone 1 cm
+proximal to the insertion on the humeral head.  Thisresponse also occurs when the humerus is adducted andflexed, a position that occurs with faulty mechanics or
+muscle f atigue.
+Extrinsic F actors
+In addition to identifying the impairments that may have
+contributed to swimmer’s shoulder, the clinician must
+determine if the microtrauma is due to overuse, misuse,
+abuse, or disuse.   Overuse in sports is performing a task
+with a frequency that does not allow the tissues to recov-er and symptoms may be due to lack of muscle strengthor endurance.  An example of overuse would be a swim-
+mer increasing her yardage in a swim workout from 5000
+yards to 10,000 yards per day.  
+Misuse is using improper
+form or equipment, which may put abnormal stress on
+the tissue structures.  An example of misuse is a swimmerusing faulty stroke mechanics.  One common error is
+inadequate or excessive body roll during freestyle.  A
+swimmer with excessive body roll may cross the midlineof the body during the pull through phase and this
+increased horizontal adduction can lead to impingement.
+2
+Lack of body roll will also cause the humerus to compen-
+sate by moving into further horizontal adduction for
+adequate pr opulsion.  Abuse is having e xcessiv e force
+going though normal tissues.  An example of abuse is aswimmer who trains excessively with hand paddles,increasing str ain on the shoulder .  
+Disuse occur s when a
+swimmer has taken a period of time off without trainingresulting in atrophy or altered neuromuscular control ofthe stabilizing shoulder girdle musculature.  In all of thesecases, the tissues cannot accommodate the repetitiveness,
+force, or str ess that is encountered with a specific
+activity.  
+PRESEASON AND CLINICAL ASSESSMENT
+Overview
+This section will discuss key points when assessing a
+swimmer during a preseason physical or during the sea-son when symptoms are present.  Some individuals may
+be pr edisposed t o swimmer’ s shoulder if they hav e mus-
+culoskeletal impairments or engage in improper training
+methods .   A pr eseason evaluation should screen for these
+impairments in a similar manner as a physical evaluation
+used for a swimmer with symptoms.  In both cases, the
+goal is to determine if impairments exist that could leador have led to swimmer’s shoulder. The reader is referred
+to other sources for a comprehensive orthopedic shoulderassessment.
+19
+During a clinical examination, information is collected in
+the subjective and objective assessment to determine a
+168 NOR TH AMERICAN JOURNAL OF SPOR TS PHYSICAL THERAPY   |   NOVEMBER 2006   |   VOLUME 1, NUMBER 4
+potential cause and effect r elationship between the tissue
+pathology and presenting impairments.  This information
+may be used to set up a preventative training program orguide treatment.  The exact impairments that may pre-dispose a swimmer to symptoms or tissue pathology are
+not fully understood as no research has studied impair-
+ments in asymptomatic swimmers to determine whichimpairments were most likely to lead to swimmer’s shoul-
+der.   Most of the preventative programs are based on
+addressing impairments that occur as a result of develop-
+ing swimmer’s shoulder.
+In swimmers who have already developed symptoms, the
+primary complaint is usually pain in the subacromial
+region.   These symptoms may be associated with an
+inflammatory condition such as tendonitis, bursitis, cap-
+sulitis , or arthritis and may be labeled as impingement
+syndrome.   While diagnosis of these symptoms and tis-sue pathology may guide medical treatment of eitherpharmacological interv ention with or al medication or
+injections, this treatment may not address the causative
+factors.   Physical therapists should focus on the impair-
+ments that are associated with the onset of symptomsincluding glenouhumeral hypermobility or instability,impair ed postur e, impaired rotator cuff strength, altered
+scapulohumeral rhythm or poor neuromuscular control,or a tight posterior capsule.  Like most microtraumatic
+conditions , swimmer s can usually not single out a specif -
+ic event so the physical ther apist has t o discern which of
+these impairments or training errors may have
+contributed t o the condition or injury.   The subjectiv e
+assessment may help identify the contributing impair-ments while the physical examination can focus onspecific tests and measures to confirm this information.
+Subjective Assessment
+The subjectiv e examination also provides information
+about the area, symptom description, and behavior of thesymptoms in patients with swimmer’s shoulder.  This
+information may help the clinician identify potential
+sources of the symptoms. For example, a patient whopoints with one finger t o the anterior later al aspect of the
+shoulder and describes a sharp pain with overhead move-
+ments may have involvement of the subacromial regionor AC joint.  The physical examination would need to
+focus on these areas. Conversely, a patient who presentswith diffuse pain throughout the shoulder and upper
+extremity and describes burning, shooting pains may
+need t o hav e a det ailed ev aluation of the cervical spine t o
+rule out spinal pathology.  Other subjective information may help the physical
+therapist determine the appropriate amount of testingperformed during the physical examination.  Theclinician should determine the lev el of irritability of a con-
+dition during the subjective examination.  Irritability is
+characterized by three parameters: pain level, what it
+takes to provoke the symptoms, and the latency or time ittakes the symptoms to resolve after provocation.  A high-
+ly irritable condition is determined by all three factors.For example, a patient who reports symptoms with a 7/10
+pain level that are brought on with lifting the arm above
+90 degrees without a load and the symptoms last for sev-
+eral hours, has a highly irritable condition. Conversely, apatient who reports symptoms with a 5/10 pain level thatcomes on with lifting 200 lbs on a bench pr ess, and last
+only for a few seconds has low irritability.  
+In swimmer s, low-level shoulder pain that only occurs
+after heavy training and resolves quickly is low irritabili-
+ty.  A swimmer who has high-lev el shoulder pain during
+swimming and following training for the remainder of theday has high irritability. The rehabilitation specialist mustbe cautious during the physical examination of a patientwith high irritability because once the symptoms are pro-voked, results from the remaining tests and measuresmay be unclear .
+One key element in the history is assessing the training
+program and methods of the swimmer .  The physical ther-
+apist should determine the number of yards or metersperformed in each workout, the number of workouts perweek, the dry-land pr ogram, and any r ecent changes in
+training. 
+Common Findings on Physical Examination
+A pr eseason physical or clinical e xamination of a
+swimmer with shoulder symptoms will screen for several
+impairments .  Initial observ ation may r eveal common
+postur al impairments related to the shoulder girdle.  A
+common postural deviation observed with swimmers is a
+forward head, rounded shoulder posture.  This posture is
+a combination of upper quarter impairments includingincreased thoracic kyphosis, decreased cervical lordosis,
+protracted scapulae, and internally rotated/anteriorhumer al head.
+20,21Soft tissue findings associated with this
+posture include restricted anterior shoulder musculature,
+lengthened and w eak medial scapular stabilizers, tight
+glenohumeral  posterior capsule, and weak anterior cervi-cal flexors.
+22
+169NORTH AMERICAN JOURNAL OF SPORTS PHYSICAL THERAPY   |   NOVEMBER 2006   |   VOLUME 1, NUMBER 4 
+prevention of swimmer’s shoulder focuses on addressing
+impairments and the training errors of overuse, misuse,
+or abuse as described earlier in this chapter.  Achievingfunctional goals also requires knowledge of swimmingmechanics and training techniques, as well as the stress
+placed on the shoulder during swimming.  This knowl-
+edge will guide the physical therapist to choose exercisesthat place demands on the shoulder similar to those
+encountered with a specific sport or position. 
+Address Impairments
+The first step in treating swimmer’s shoulder is to address
+any related impairments.  Because the clinical presenta-tion usually involves pain related to inflammation, initialtreatments may use modalities and manual techniques,such as grade I or II mobilizations, to address pain.  As
+pain r esolves, the physical therapist should prioritize the
+problem list related to the symptoms.   Potential commonimpairments that need to be addressed include postural
+deviations, tight anterior chest musculature, hypomobili-
+ty of the thoracic spine, loss of joint mobility or excessivejoint mobility, tight posterior capsule , and impair ed
+strength and endurance of the rotator cuff and scapularstabilizers.  
+Posture
+Postural impairments are managed through joint /soft
+tissue mobiliz ation, fle xibility, and str engthening/st abi-
+lization exercises of the scapular retractors and deep
+cervical flexors.  Tight anterior shoulder musculatureincluding the pect oralis minor can be self stretched or
+manually str etched.  Care must be taken to avoid over-
+stretching the anterior capsule.  One method that allowsthe anterior chest to be stretched without overstressingthe anterior capsule is to apply a low load on the anterior
+aspects of the shoulderusing cuff weights whilethe patient lies supine over
+a bolster 
+(Figur e 1).  This
+position allows the scapu-lae t o retract over the
+bolster so the stretch isconcentrated on the anteri-
+or chest musculature.   
+Joint Mobility
+In swimmer’s shoulder,
+posterior capsule tightness
+may accompany anteriorshoulder laxity and shouldbe addressed by the physi-Physical e xamination of swimmer’s shoulder will usually
+reveal alterations in active ROM of the shoulder, particu-
+larly at the midrange or end range of elevation.Swimmers with impingement may have a painful arcfrom 60-120 degrees if the head of the humerus is not
+maintained in the glenohumeral joint.
+4,11,15Altered
+scapulohumeral rhythm may be observed with excessiveelevation or upward rotation of the scapula. Kibler
+23has
+presented an assessment technique to measure lateralscapular slide, by measuring the distance between the
+medial border of the scapula and the spine during eleva-tion.  Assessment of passive ROM will usually show
+excessive external rotation and horizontal abduction dueto hypermobility of the anterior glenohumeral joint cap-sule.  These swimmers will usually have a sulcus sign, apositive load and shift, a positive relocation test, and may
+have a positive apprehension sign.
+5,7,10However, hyper-
+mobility determined by these tests may be the result ofligamentous laxity.
+7,10Hypermobility is not instability
+unless the secondary stabilizers do not function
+adequately and symptoms occur.  In swimmers withinstability, w eakness of the r otator cuff and scapular sta-
+bilizers will be noted.   If these structures are inflamed,impingement tests will be positive and resisted tests may
+be painful. 
+If these provocation tests are positive, the clinician must
+rule out sour ces of primary impingement such as abnor -
+mal acr omial morphology (thr ough x-r ay) or a tight
+posterior capsule.  In addition, if tissue pathology is sus-
+pected by the physical ther apist based on the findings in
+the physical examination, the swimmer may need to bereferred back to the physician for additional tests.Chronic swimmer’s shoulder can result in pathology ofthe r otator cuff, glenoid labrum, and long head of the
+biceps. 
+PRINCIPLES OF 
+PREVENTION ANDTREATMENT
+Introduction
+The f oundation f or est ab-
+lishing a prevention or
+treatment plan for theswimmer’s shoulder is hav-
+ing a clear understanding ofthe impairments, underly-
+ing tissue pathologies , and
+resultant functional limit a-
+tions.  Treatment and
+170NOR TH AMERICAN JOURNAL OF SPOR TS PHYSICAL THERAPY   |   NOVEMBER 2006   |   VOLUME 1, NUMBER 4
+Figure 1. Anterior capsule stretch using cuff weights;
+supine ov er bolster .
+scapular stabilizers.  Research has
+documented the effectiv eness of
+different prone exercises for
+recruiting the scapular stabilizers.24
+Prone scapular stability exercises
+are assessed by the ability to
+recruit targeted muscles is posi-
+tions that simulate swimming.  For
+prone exercises, the clinicianshould instruct the patient tomaintain the scapula in retrac-
+tion/depression while palpating
+the upper trapezius to ensure no
+compensation is occurring. 
+Figures 4-11 illustrate some com-
+mon prone table exercises used for
+shoulder strengthening and scapu-lar stabilization.  The rowing
+motion is accomplished with
+humeral extension with elbowflexion 
+(Figure 4) .  For prone
+extension, the patient extends the
+shoulder with the elbow extendedand thumb facing away from thebody 
+(Figur e 5).   For pr one hori-
+zontal abduction, the patient
+horiz ontally abducts the arm with
+the elbow e xtended and either
+neutr al rotation or external humer-
+al rotation (Figure 6) .  During these
+exercises, the clinician should
+instruct the patient t o retract the
+scapula prior to and during the
+humer al motion.  The patient
+should also know not t o advance
+the humerus beyond the plane ofthe body, particularly if an injuryor postoperative condition war-rants protection of the anterior
+capsule.  
+Figure 7 is an example of
+an exercise used in our clinic t o
+recruit the lower trapezius. The
+patient lies pr one with the
+humerus abducted to 150 degreesand the elbow is flexed to 90
+degrees.  The patient is instructed
+to lift the hand off the table byexternally rotating the shoulder.  cal therapist.  Posterior capsule
+mobiliz ations can be performed
+with the patient in supine and the
+shoulder blade supported in thescapular plane using a mobiliza-
+tion wedge or folded towel.  The
+clinician holds the arm in midrange abduction, applies a gentleglenohumeral distraction whileproviding a posterior glide to theproximal humerus 
+(Figure 2) .  A
+self stretch to the posterior cap-sule can also be applied by lyingon the involved side with theshoulder flexed to 90 degrees.The patient applies a self stretch
+by applying a downward force to
+the distal forearm towards theplinth 
+(Figure 3) .  
+Scapular Stabilization
+Scapular stability and proper
+scapulohumor al rhythm is an
+essential element of shoulderrehabilitation and prevention.Scapular position dir ectly affects
+humeral head position and deter-mines the length tension relation-ship for the rotator cuff as thesemuscles originate on the scapu-
+la.
+23An unst able scapula or f aulty
+movement patterns can change
+the demands on the rotator cuffmuscles, potentially leading tomicrotrauma injuries.    The phys-
+ical therapist should assess the
+muscles essential to scapular sta-bility such as the middle andlower trapezius , serr atus anterior,
+and rhomboids.  Scapular position
+and impr oper mov ement patterns
+are treated with a combination of
+soft tissue release and neuromus-
+cular re-education to inhibitoveractive, dominant muscles and
+facilitate weak, inhibited muscles. 
+Rehabilitation and prevention of
+swimmer’s shoulder shouldincorporate neuromuscular reed-
+ucation and str engthening of the
+171 NOR TH AMERICAN JOURNAL OF SPOR TS PHYSICAL THERAPY   |   NOVEMBER 2006   |   VOLUME 1, NUMBER 4
+Figur e 3. Self str etch of posterior capsule .
+Figur e 2. Posterior guide to humerus (pos-
+terior bolster).
+Figur e 4. Rowing in prone.
+Figure 5. Prone extension.
+Figure 6. Prone horizontal abduction 
+172NOR TH AMERICAN JOURNAL OF SPOR TS PHYSICAL THERAPY   |   NOVEMBER 2006   |   VOLUME 1, NUMBER 4
+Figure 7. Recruitment of the lower trapez-
+ius. Lift the hand off the table by externally
+rotating the shoulder.
+Figure 8. “Superman.”
+Figur e 9. “TYI Exercises .” T: Prone on mat.
+Retract scapulae with arms abducted to 90
+degrees and humerus in horizontal abduc-
+tion.
+Figur e 10. “TYI Exercises.” Y: Shoulders
+externally rotate with elbow flexed to 90
+degrees.
+Figure 11. “TYI Exercises.” I: Shoulders in full
+bilateral elevation with elbow extension.
+Figure 12. Protraction of scapula.
+Figure 13. Prone, supported on
+elbows.
+Figur e 14. Quadruped position.
+Figure 15. Push up position.
+Figur e 16. Push up position; legs
+elevated in chair. 
+Figures 8 though 11 represent bilateral scapular stabiliza-
+tion e xercises.  “Supermans” are performed in prone
+with the elbows in full extension and the shoulders exter-
+nally rotated at the sides of the body (Figure 8) .  The
+patient is instructed to retract the scapulae and lift the
+hands and arms off the table.  Figure 9 is the first in a pro-
+gressive sequence of three exercises that we refer to as
+TYI exercises because of the patterns
+formed.  The patient retracts the
+scapulae with the arms abducted to 90degrees and moves the humerus into
+horizontal abduction forming a “T” .  Asthe patient advances, the shoulders
+are externally rotated with the elbowsflexed to 90 degrees, forming a “Y”
+(Figure 10) .  The final exercise requires
+the patient to move into a position of
+full bilateral elevation with elbow
+extension, forming an “I” (Figure 11) .  
+Scapular protraction and stabilization
+in the protracted position are trainedthrough a series of exercises, startingwith a supine punch.  The patient ispositioned supine with the arm heldin 90 degrees flexion with full elbowextension and maint ained in the
+scapular plane.  During the move-
+ment, the patient is told to move the
+hand towards the ceiling, by protract-ing the scapula.  Manual resistance or
+weights can be added t o this motion as
+the patient advances 
+(Figure 12) . These
+exercises may also be used in con-junction with weight bearing exercis-es.  
+Weight bearing exercises for scapular
+stabilization are illustrated in figures
+13-19.    Exercises are advanced fromprone on elbows 
+(Figure 13) to
+quadruped (Figure 14) to a push up
+position (Figur e 15).  As the patient
+improves, the lower extremities can
+be elev ated to increase resistance
+(Figure 16) .  A dynamic component can be added to high-
+er level athletes who demonstrate good control with the
+preceding exercises.  These patients can perform these
+exercises with the upper extremities on a wobble board
+(Figure 17) ,“walk-outs” with their upper extremities with
+the lower quarter on a gym ball (Figure 18) , or “step-overs” using the upper extremities to “walk” up and
+down ov er a foot stool (Figur e 19).  A slide boar d is also
+an excellent device to use for dynamic upper extremity
+stabilization.  Patients can be progressed from perform-ing horizontal abduction and adduction on their knees
+and eventually on their toes.  For these exercises,patients are instructed to maintain scapular protraction
+during the activity to strengthen the ser-
+ratus anterior. 
+Rotator Cuff Strength
+Strengthening exercises for the rotator
+cuff are progressed based on the present-
+ing condition and the ability of thepatient.  The range of rotator cuffstrengthening exercises may includeisometric, concentric, eccentric, and
+plyometric activities.  As healing allows,
+shoulder strengthening is initiated withisometric exercises including rhythmicstabiliz ation drills , which ar e exercises to
+challenge a patient t o maintain the upper
+extremity in a variety of positions while
+the rehabilit ation specialist challenges the
+position with manual resistance.  Theexercise selection should be based on posi-tions that do not overstress the healingtissues. This activity helps restore propri-oceptiv e feedback t o the centr al nerv ous
+system thr ough mechanoreceptors of the
+shoulder girdle and prepares the shoulder
+for isotonic strengthening.  
+Isotonic strengthening of the rotator cuff
+can be accomplished with different typesof resistance in different positions.
+Resistance can be applied manually, with
+resistive bands, or with weights. The
+advantage of using manual resistance isthat the ther apist can v ary the r esistance
+to accommodate the output from the
+patient.  The adv antage of using resistive
+bands is that the patient can performfunctional movement patterns against
+resistance.  However, these forms of resistance do not
+allow a clinician to quantify the amount of resistance,
+which is the advantage of using weights.  When choosinga position for rotator cuff strengthening, the rehabilita-
+tion specialist should hav e a goal f or the e xercise.  If the
+goal is to stabilize the scapula, exercising in supine may
+173NORTH AMERICAN JOURNAL OF SPORTS PHYSICAL THERAPY   |   NOVEMBER 2006   |   VOLUME 1, NUMBER 4
+Figure 17. Push up position; hands
+placed on wobble board.
+Figure 18. “Walk-outs.”
+Figure 19. “Step-overs.” 
+be the best position because the scapula is fixed against
+the table.  Patients can be progressed to a sidelying posi-
+tion to work against gravity or in standing position to
+simulate functional mov ement patterns.  Patients should
+be encouraged to exercise in the scapular plane and theposition of humeral abduction can advance to reproduce
+the position the arm is in during a specific sport.  
+Rotator cuff exercises are performed and advanced based
+on the available ROM.   Due to the importance of the
+eccentric component of the rotator cuff in overhead
+sports, this mode of exercise should be integrated intothe rehabilitation program, particularly for external rota-tion. The infraspinatus and teres minor contract to
+stabilize the humeral head by maintaining a posterior
+pull to counter any anterior translatory forces.  
+Address Training Errors
+Overuse is a classic training error that occurs in swim-
+ming as athletes typically train 10-12 hours per week in
+the water in addition to dry-land training.  Swimmerscan average 10,000 yards per day of training. The high
+level of repetitions, estimated at 4,000 strokes per side,
+that occur during training sessions can cause fatigue,leading to the conditions discussed earlier.   Modificationof swim yar dage may need t o be emphasized if the
+swimmer wants to prevent progression of an injury.
+Abuse is another tr aining err or that can occur in swim -
+ming, causing incr eased e xternal str ess on the shoulder.
+The use of hand paddles increases stress on the upperextremity by increasing surface area and resistance to
+movement.  Kickboards put the arm in position of full
+elevation and internal rotation, leading to subacromial
+joint compr ession.   U se of these devices should be omit-
+ted or limited f or a swimmer returning from a shoulder
+injury.
+Misuse in swimming occurs if an individual has faulty
+stroke mechanics.  An example of improper technique is
+when the hand crosses the mid-line during the pull-
+through phases of the fr eestyle str oke.  This motion is
+common in swimmers who have excessive body roll and
+can pr edispose them to impingement.   Optimal body
+roll allows the arm to stay close to the plane of the scapu-la, thus reducing the stress of soft tissue structures in the
+anterior shoulder region.
+25Optimal body roll also allows
+greater lengthening of the abdominal oblique muscles,shoulder adductors/medial rotators, and scapular retrac-tors so that at the beginning of the pull-through thesemuscles have a mechanical advantage.2Conversely, a
+lack of adequate body r oll forces the recovering arm into
+a greater range of shoulder extension, horizontal abduc-
+tion, and medial r otation in order to clear the hand from
+the water, causing encroachment of the subacromialspace. 
+An important issue to consider when working with
+swimmers is their reluctance to stay out of the water.
+25
+Although swimmers are involved in dry-land training,
+no suitable substitute exists for swimming.  Modification
+of training schedules and techniques allow the patient tocontinue swimming, enabling the physical therapist toestablish or maintain credibility with the swimmer.
+15, 25
+In extreme cases, the swimmer may need a short dry-
+land period to allow for adequate soft tissue healing.  In
+these cases, the rehabilitation specialist should educate
+the swimmer so that the reason for the lay-off is under-stood.   Time spent out of the water should be kept as
+short as possible, even if the swimmer is doing primari-
+ly kicking activities.   Although returning to the watermay not be ideal for rehabilitation, keeping a swimmer
+out of the water for a lengthy period may result in a reha-
+bilitation program that is ignored. Activity modificationin swimming may consist of the following tasks:
+• T emporarily reduce training distance and frequency.
+• Alter tr aining patterns so that differ ent strokes are used
+more frequently throughout the practice.  This alterationwill r educe the r epetitiv e pattern at the glenohumer al
+and allow the muscles t o function differ ently.
+• Avoid the use of hand paddles, kickboards, and surgi-
+cal tubing.
+• Use swim fins to enhance the propulsion from the legs
+and r educe the str ess on the shoulder
+SUMMAR Y
+Swimmers shoulder is a condition that may be
+prevented with adequate preseason screening that canidentify impairments and training errors that may lead
+to symptoms.  If a swimmer does become symptomatic
+during the season, the physical ther apist should identify
+the most likely impairments or training errors and rule
+out any significant tissue pathology that w ould warrant a
+referral to an orthopedic surgeon.  A comprehensiverehabilitation program usually includes strengthening of
+the rotator cuff and scapular stabilizers, stretching ante-
+rior chest musculature that may be shortened, andimplementing activity modification so the athlete can
+174NOR TH AMERICAN JOURNAL OF SPOR TS PHYSICAL THERAPY   |   NOVEMBER 2006   |   VOLUME 1, NUMBER 4
+still participate in the sport.  Future research should
+focus on determining if addressing specific impairments
+prior to the season can reduce the incidence of swim-
+mer’s shoulder and assessing which impairments are the
+greatest risk factors.
+REFERENCES
+1.  Abelew T. Kinesiology of the shoulder. In: T ovin BJ. 
+Evaluation and treatment of the shoulder: an integration of 
+the guide to physical therapist practice . Philadelphia: FA 
+Davis Co; 2001:25.
+2.  Shapiro C. Swimming. In Shamus E, Shamus J (eds). 
+Sports injury prevention and rehabilitation . New York: 
+McGraw-Hill; 2001:103-154.
+3.  Ciullo JV , Stevens GG. The prevention and treatment of 
+injuries to the shoulder in swimming. Sports Med . 
+1989;7:182-204.
+4.  Bak K. Nontraumatic glenohumeral instability and 
+coracoacromial impingement in swimmers. Scand J Med 
+Sci Sports . 1996;6:132–144.
+5.  Bak K, Faunø P . Clinical findings in competitive 
+swimmers with shoulder pain. Am J Sports Med . 
+1997;25:254–260.
+6.  Bak K, Magnusson SP . Shoulder strength and range of 
+motion in symptomatic and pain-free elite swimmers. 
+Am J Sports Med . 1997;25:454–460.
+7.  Beach ML, Whitney SL, Dickoff-Hoffman SA. Relationship 
+of shoulder flexibility, strength and endurance to shoulder pain in competitive swimmers. 
+J Orthop Sports Phys Ther . 
+1992;16:262–268.
+8.  McMaster WC. Anterior glenoid labrum damage: a painful 
+lesion in swimmer s. Am J Sports Med . 1986;14:383–387.
+9.  McMaster WC, Troup J. A survey of interfering shoulder 
+pain in United States competitive swimmers. Am J Sports 
+Med. 1993;21:67–70.
+10. McMaster WC, Roberts A, Stoddard T. A correlation 
+between shoulder laxity and interfering pain in competitive swimmers. 
+Am J Sports Med . 1998;26:83–87.
+11. Richardson AB, Jobe FW, Collins HR. The shoulder in 
+competitive swimming. Am J Sports Med . 1980;8:159–163.
+12. Stocker D, Pink M, Jobe FW. Comparison of shoulder 
+injury in collegiate-and master’s-level swimmers. 
+Clin J  Sport Med . 1995;5:4–8.
+13. Counsilman JE. The complete book of swimming, New 
+York: Atheneum, 1977.
+14. Johanson MA, Donatelli R, Greenfield BH. Rehabilitation 
+of microtrauma injuries. In Greenfield BH (ed) 
+Rehabilitation of the Knee: A Problem-Solving Approach . 
+Philadelphia: FA. Davis Co; 1993:139-173.
+15. Allegrucci M, Whitney SL, Irrgang JJ. Clinical 
+implications of secondary impingement of the shoulder in freestyle swimmers. 
+J Orthop Sports Phys Ther. 1994; 
+20:307–318.16. Neer CS. Impingement lesions. Clin Orthop. 
+1983;173:70-77. 
+17. Scovazzo ML, Browne A, Pink M et al. The painful 
+shoulder during freestyle swimming. Am J Sports Med . 
+1991; 19:577–582.
+18. Rathbun JB, McNab I. The microvascular pattern of the 
+rotator cuff. J Bone Joint Sur g. 1970; 52B:540-553.
+19. Magee DJ.  Orthopedic Physical Assessment . 4thEd. 
+Philadelphia: Saunders, 2002.
+20. Rocabado M. Biomechanical relationship of the cranial, 
+cervical, and hyoid regions. J Craniomandiular Pract . 
+1983;11:3. 
+21. Ayub E, Glasheen-Wray M, Kraus S. Head posture: a 
+study of the effects on the rest postion of the mandible. 
+J Orthop Sports Phys Ther. 1984;5:179.
+22. Janda V . Muscles, central nervous motor regulation and 
+back problems. In Korr IM (ed). Neurobiologic Mechanisms 
+in Manipulative Therapy . New York: Plenum; 1979.
+23. Kibler B. The role of the scapula in athletic shoulder 
+function. Am J Sports Med . 1998;26:325–339.
+24. Mosely JB, Jobe FW, Pink M, Perry J, Tibone J. EMG 
+analysis of the scapular muscles during a shoulder rehabilitation program. 
+Am J Sports Med . 1992;20:128-134.
+25. Murphy T C.  Shoulder injuries in swimming. In: Andr ews 
+JR, Wilk KE (eds). The Athlete’s Shoulder ., New York: 
+Churchill Livingstone;1994:411–424.
+CORRESPONDENCE
+Brian J. T ovin, DPT , MMMSc , PT, SCS, A TC, 
+FAAOMPT
+Clinic Director
+The Sports R ehabilitation Center
+555 10th StreetAtlanta, Georgia  30318
+Phone: (404) 477-8888Fax: (404) 477-8889
+Btovin@sportsrehabcenter.com
+175NORTH AMERICAN JOURNAL OF SPORTS PHYSICAL THERAPY   |   NOVEMBER 2006   |   VOLUME 1, NUMBER 4 

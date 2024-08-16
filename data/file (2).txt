@@ -1,0 +1,584 @@
+RESEARCH ARTICLE
+Effects of High-Intensity Swimming on Lung
+Inflammation and Oxidative Stress in aMurine Model of DEP-Induced Injury
+Leonardo C. M. Ávila1, Thayse R. Bruggemann1,2, Franciane Bobinski3, Morgana
+Duarte da Silva4, Regiane Carvalho Oliveira2, Daniel Fernandes Martins5,
+Leidiane Mazzardo-Martins3, Marta Maria Medeiros Frescura Duarte6, Luiz Felipe de
+Souza7, Alcir Dafre7, Rodolfo de Paula Vieira8, Adair Roberto Soares Santos3, Kelly
+Cattelan Bonorino1, Deborah de C. Hizume Kunzler1,2*
+1Department of Physical Therapy, State University of Santa Catarina, Florianopolis, Brazil, 2Departments
+of Medicine (LIM-5 and LIM 20), School of Medicine, University of Sao Paulo, Sao Paulo, Brazil,
+3Department of Biological Science, Federal University of Santa Catarina, Florianopolis, Brazil,
+4Department of Physical Therapy, Pampa Federal University, Uruguaiana, Rio Grande do Sul, Brazil,
+5Laboratory of Experimental Neuroscience, Postgraduate Program in Health Science, University of
+Southern Santa Catarina at Palhoça, Santa Catarina, Brazil, 6Health Sciences Center, Brazil Lutheran
+University, Santa Maria, Rio Grande do Sul, Brazil, 7Department of Biochemistry, Federal University of
+Santa Catarina, Florianopolis, Brazil, 8Postgraduate Program in Rehabilitation Sciences, Nove de Julho
+University, Sao Paulo (UNINOVE), Brazil
+*dehizume@gmail.com
+Abstract
+Studies have reported that exposure to diesel exhaust particles (DEPs) induces lung inflam-
+mation and increases oxidative stress, and both effects are susceptible to changes via regu-lar aerobic exercise in rehabilitation programs. However, the effects of exercise on lungsexposed to DEP after the cessation of exercise are not clear. Therefore, the aim of thisstudy was to evaluate the effects of high-intensity swimming on lung inflammation and oxi-dative stress in mice exposed to DEP concomitantly and after exercise cessation. MaleSwiss mice were divided into 4 groups: Control (n = 12), Swimming (30 min/day) (n = 8),DEP (3 mg/mL —10μL/mouse) (n = 9) and DEP+Swimming (n = 8). The high-intensity
+swimming was characterized by an increase in blood lactate levels greater than 1 mmoL/Lbetween 10th and 30th minutes of exercise. Twenty-four hours after the final exposure toDEP, the anesthetized mice were euthanized, and we counted the number of total and dif-ferential inflammatory cells in the bronchoalveolar fluid (BALF), measured the lung homoge-nate levels of IL-1 β, TNF- α, IL-6, INF- ϫ, IL-10, and IL-1ra using ELISA, and measured the
+levels of glutathione, non-protein thiols (GSH-t and NPSH) and the antioxidant enzymes
+catalase and glutathione peroxidase (GPx) in the lung. Swimming sessions decreased thenumber of total cells (p <0.001), neutrophils and lymphocytes (p <0.001; p <0.05) in the
+BALF, as well as lung levels of IL-1 β(p = 0.002), TNF- α(p = 0.003), IL-6 (p = 0.0001) and
+IFN- ϫ(p = 0.0001). However, the levels of IL-10 (p = 0.01) and IL-1ra (p = 0.0002) increased
+in the swimming groups compared with the control groups, as did the CAT lung levels (p =0.0001). Simultaneously, swimming resulted in an increase in the GSH-t and NPSH lunglevels in the DEP group (p = 0.0001 and p <0.002). We concluded that in this experimental
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 1/1 5a11111
+OPEN ACCESS
+Citation: Ávila LCM, Bruggemann TR, Bobinski F, da
+Silva MD, Oliveira RC, Martins DF, et al. (2015)Effects of High-Intensity Swimming on LungInflammation and Oxidative Stress in a Murine Modelof DEP-Induced Injury. PLoS ONE 10(9): e0137273.doi:10.1371/journal.pone.0137273
+Editor: Philipp Latzin, University Children's Hospital
+Basel, SWITZERLAND
+Received: October 16, 2014
+Accepted: August 16, 2015
+Published: September 2, 2015
+Copyright: © 2015 Ávila et al. This is an open
+access article distributed under the terms of theCreative Commons Attribution License , which permits
+unrestricted use, distribution, and reproduction in anymedium, provided the original author and source arecredited.
+Data Availability Statement: All relevant data are
+within the paper.
+Funding: This study was supported by the following
+Brazilian Scientific Agency: National Council forScientific and Technological Development. Thefunders had no role in study design, data collectionand analysis, decision to publish, or preparation ofthe manuscript.
+Competing Interests: The authors have declared
+that no competing interests exist.
+model, the high-intensity swimming sessions decreased the lung inflammation and oxida-
+tive stress status during DEP-induced lung inflammation in mice.
+Introduction
+Nowadays air contamination is a real problem of public health in urban areas, and motor vehi-
+cle emissions, undoubtedly, are a major source of airbone pollutants. Epidemiological studiesshowed a strong correlation between the air concentration of pollutants and the increase in
+mortality, hospitalizations and emergency care, mostly related to the aggravation of established
+respiratory and heart diseases. In healthy individuals, new cases of these diseases were associ-ated with levels of air pollution [ 1–4].
+One of the classic pollutants composing the biomass in the air is particulate matter (PM).
+This term describes a mixture of solid or liquid particles dispersed in the air; the exhaust fromvehicles and industries is the main source of PM [ 5,6]. The particles that result from burning
+diesel are essentially composed of metals, polycyclic aromatic hydrocarbons, and other organic
+species are called diesel exhaust particles (DEP), and affect different aspects of human healthand disease [ 7–11]. The component of DEP responsible for the oxidative stress and subsequent
+pro-inflammatory signaling is especially the organic fraction, although transition metals may
+also be involved [ 7,8].
+The oxidative stress triggered by DEP causes activation of signaling pathways such as those
+involving NF- κB and histone acetylation favoring pro-inflammatory gene expression. Interleu-
+kin-8 (IL-8) was induced in epithelial cells treated in vitro and in human lungs exposed by
+inhalation [ 12]. Tumor necrosis factor-alpha (TNF- α) has been reported to be increased in
+macrophages exposed to DEP in vitro and interleukin-6 (IL-6) is released by primed human
+bronchial epithelial cells exposed to DEP [ 12–14].
+The respiratory tract is particularly affected because of its huge internal surface and the fact
+that it is one of the first sites to be exposed to air pollution. The inhalation and deposition ofDEPs result in cell activation and the release of many pro-inflammatory molecules. Inflamma-
+tory processes are well-known contributors to the development and exacerbation of lung dis-
+eases, such as asthma, chronic obstructive pulmonary disease (COPD), acute respiratorydistress syndrome (ARDS), and lung cancer [ 15–17].
+Previous experimental studies have shown that short- and long-term administration of
+DEPs may activate immune cells, including neutrophils and macrophages; thus, DEPs contrib-ute to the release of inflammatory cytokines in the lungs, such as interleukin 1 β(IL-1 β), inter-
+leukin 6 (IL-6), chemokine ligand 1 (CXCL-1/KC) and tumor necrosis factor α(TNF- α)
+[5,6,9,11]. One of the possible mechanisms for the release of pro-inflammatory cytokines is
+related to the production of reactive oxygen (ROS) and nitrogen species (RNS) that activate
+transcription factors such as nuclear factor kappa β(NF-k β), disrupting the oxidant/antioxi-
+dant balance [ 9,18,19]. Furthermore, the increased oxidative stress status caused by activated
+immune cells may also contribute to the resulting DNA damage [ 20,21].
+Aerobic exercise is a powerful tool to combat oxidative stress activation; it also provides a
+protective mechanism that helps to re-establish cellular homeostasis, decrease the release of
+pro-inflammatory cytokines and production of ROS, and improve immune responses [ 22–24].
+Several studies, including clinical trials, have shown that aerobic exercise produces anti-
+inflammatory and antioxidant effects in different diseases, such as heart disease [
+25], diabetes
+[26], Alzheimer ’s disease [ 27], and Parkinson ’s disease [ 28], as well as in lung diseases, such as
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 2/1 5
+COPD [ 29–31], ARDS [ 32,33] and asthma [ 34–38]. Notably, Vieira et al., (2011) showed that
+aerobic exercise at low and moderate intensities resulted in the immunomodulation of epithe-
+lial cells from the airway of animals with long-term allergic lung inflammation, thus decreasingthe oxidative stress and lung inflammation [ 36]. In addition, in a murine experimental model,
+the same authors also showed that when low-intensity exercise is performed simultaneously
+with DEP administration, there are decreases in pro-inflammatory cytokine release and pulmo-
+nary oxidative stress, as well as an inhibition of the lung and systemic inflammation [ 39].
+However, the literature still contains controversial results concerning the effects of high-
+intensity aerobic exercise on health and disease. Hall et al. (2013) showed that high-intensity
+aerobic exercise resulted in the greatest reduction in insulin dosage compared with that forlow- or moderate-intensity treadmill training [ 40]. Furthermore, Balducci et al. (2010) also
+showed that high-intensity aerobic exercise improves the inflammatory status in diabetic
+patients [ 41]. However, Camiletti-Moirón et al. (2013) demonstrated a deteriorated antioxi-
+dant response in the brains of rats trained using high-intensity aerobic exercise [ 42]. Regarding
+lung effects, specifically, Stang et al. (2014), showed that after high-intensity exercise, there is a
+significant reduction in exhaled nitric oxide concentration, known by its inflammatory roleinto the lungs [ 31]. These studies highlighted the anti-inflammatory and pro-inflammatory
+response, as well as the changes in redox balance, induced by high-intensity aerobic exercise
+[40–43].
+Due to its dual feature and influence on redox balance, we hypothesized that high-intensity
+swimming could decrease inflammatory markers by decreasing oxidative stress and increasing
+antioxidants defenses into lungs [ 30,31]. Thus, in this study a short period high-intensity exer-
+cise (swimming) maintained blood lactate at elevated levels between the 10
+thand 30thminute
+of exercise. This, contrasts with long term exercise protocols, in which an adaptation to exercise
+keeps blood lactate levels lower than 1 mmoL/L [ 43].
+Therefore, the present study aimed to evaluate the effects of high-intensity swimming,
+which was performed prior to and simultaneously with DEP administration, on lung inflam-matory and oxidative stress responses.
+Materials and Methods
+This study was approved by the Review Board for Animal Studies of the Federal University ofSanta Catarina. All animals in the study received humane care in compliance with EU Directive2010/63/EU, which provides guidelines for animal experiments [ 44].
+2.1 Collection, analysis and suspension of diesel exhaust particles
+(DEP)
+A particle trap device was adapted for use with the exhaust pipe of a bus from the public trans-
+portation fleet of São Paulo city. The bus was equipped with a Mercedes Benz MB1620 210-hpengine, lacked electronic control of fuel injection, and was fueled with diesel containing
+500 ppm sulfur. This particular type of bus was chosen because it is the most frequently oper-
+ated bus in São Paulo, according to information provided by the municipality. Briefly, a meshmade of stainless steel was inserted into the exhaust pipe line of the bus. Diesel particles werecollected during 1 day of routine operation of the bus, and these particles were stored for toxi-
+cological studies. Twenty-four hours after the collection, the composition of the particles was
+analyzed [ 45]. These DEP samples were dispersed in 0.9% NaCl for 8 hours prior to use in the
+experiments [ 45]. The experimental DEP concentration (3 mg/mL) and protocol of instillation
+were based on a previous work of our group [ 39], showing that DEP instillation decreases exer-
+cise capacity and induces oxidative stress markers and pro-inflamatory cytokynes.
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 3/1 5
+2.2 Animals and experimental groups
+Thirty-seven male Swiss mice (30 –35 g) from the Animal Facility of Federal University of
+Santa Catarina were maintained in conditions that were controlled for temperature (22 ± 2°C),
+humidity (70 –75%) and dark/light cycle (12 h; lights on at 06:00 am). The experimental proto-
+col was initially set with 12 mice in each group (total of 48 animals). Some animals get injuried
+during experimental protocol (n = 4 in Swimming group, n = 3 in DEP group and n = 4 in
+DEP+Swimming group) and were removed from the experiment.
+Thus, animals were assigned to 4 groups as follows: a) Control group (mice that were not
+subjected to swimming and received intranasal saline instillation during 10 days, n = 12); b)
+Swimming group (Sw): animals that were forced to swim (30 minutes/day) from 1stto the 10th
+experimental day, and received intranasal saline instillation (n = 8); c) DEP group (mice thatwere not subjected to swimming and received DEP instillation during 10 days, n = 9) and, d)
+DEP+Swimming group (DEP+Sw): mice that were subjected to swimming and received DEP
+instillation, n = 8).
+2.3 DEP administration and swimming protocol
+DEPs (3 mg/mL) were intra-nasally administered (10 μL/mouse) using a 100 μL micropipette.
+The intra-nasal administration induces reflex apnea, followed by a deep inspiration, which
+drives the solution into the lungs. The saline-administered groups received vehicle (0.9%
+NaCl).
+The animals were put to swimming on a daily basis, according to experimental protocol
+shown at Fig 1 . DEP particles were administered just before swimming, without any kind of
+animal narcosis.
+The swimming protocol was adapted from Kuphal, Fibuch and Taylor (2007) [ 46]. A
+box containing 35 L of warm water (kept at 35°C during the exercise) was divided into 8 lanes,
+and we added 1 mL of shampoo (Johnson & Johnson) to reduce the surface tension and pre-
+vent floating. All groups were submitted to the same adaptation procedure: animals were ini-tially adapted to the water environment for 4 days: day 1, two periods of 30 seconds of
+swimming with an interval of 2 hours between the swimming periods; day 2, two periods of 2
+minutes of swimming separated by an interval of 2 hours; day 3, three periods of 10 minutes ofswimming separated by intervals of 5 minutes, and day 4, two periods of 15 minutes of swim-ming separated by intervals of 5 minutes. After the adaptive period, the mice were subjected to
+swimming for 30 minutes with no pause from day 1 to day 10.
+2.4 Blood lactate measurements
+The intensity of the exercise was determined using an adapted protocol [ 47]. The blood lactate
+concentration in the Swimming and DEP+Swimming groups was measured at the 5thand 10th
+days of exercise at the 10thand 30thminutes of swimming. At the 5thexperimental day, the
+Control and DEP groups were also subjected to 30 min exercise in order to obtain the lactate
+concentration, which was also measured at the 10thand 30thminute of swimming.
+2.5 Bronchoalveolar lavage fluid (BALF)
+Twenty-four hours after the final DEP administration, the animals were anesthetized withketamine (10 mg/kg i.p) and xylazine (10 mg/kg i.p), and a tracheotomy was performed forBALF collection. Before the BALF collection, the mice were euthanized by rapid exsanguina-
+tion by sectioning the abdominal aorta. The lungs were gently rinsed 3 times with 0.5 mL of
+phosphate buffered saline (PBS, pH 7.2) via a tracheal cannula. The total cell number was
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 4/1 5
+counted in a Neubauer hemocytometer chamber. The differential cell count of 300 cells/mouse
+was obtained after Diff-Quick staining of slides prepared with the BALF. All measurements
+were performed in a blinded fashion.
+2.6 Analysis of cytokines
+After the BALF collection, the chest was opened, and the heart-lung block was removed. The
+left lung was separated, collected in Eppendorf tubes and homogenized in a tissue processor
+(Ultra-Turrax IKA T18 basic, IKA, Germany) with a phosphate-buffered saline (PBS) solutioncontaining the following: Tween 20 (0.05%), 0.1 mM phenylmethylsulphonyl fluoride (PMSF),
+10 mM ethylenediaminetetraacetic acid (EDTA), 2 ng/ml Aprotinin and 0.1 mM benzetho-
+nium chloride. The homogenates were transferred to 1.5 mL Eppendorf tubes and centrifugedat 3000 × gfor 10 min at 4°C, and the resulting supernatant was stored at -80°C until cytokine
+analysis. The total protein content in the supernatant was measured using the Bradford
+method. The lung tissue levels of interleukin 10 (IL-10), interleukin 1ra (IL-1ra), interleukin 1 β
+(IL-1 β) tumor necrosis factor alpha (TNF- α), interleukin 6 (IL-6) and interferon gamma (IFN-
+γ) were measured using the ELISA technique according to the manufacturer ’s instructions
+(DuoSet ELISA R&D Systems, Minneapolis, MN, USA). The cytokine levels were estimated byinterpolation from a standard curve using colorimetric measurements at 450 nm (correctionwavelength 540 nm) in an ELISA plate reader (Berthold Technologies —Apollo 8 –LB 912, KG,
+Germany). All results were expressed as pg/mg of protein.
+2.7 Analysis of antioxidant defenses
+Samples of fresh lung tissue (right lung) weighing approximately 40 –50 mg were used for the
+analysis of the levels of total GSH (glutathione) and NPSH (non-protein thiols). The activities
+of glutathione peroxidase (GPx) and catalase (CAT) were measured using frozen lung tissuehomogenate. The non-protein thiols were measured by the spontaneous reaction of Ellman'sreagent (5,5 'dithiobis-2-nitrobenzoic; DTNB) with sulfhydryl groups to produce 5-thio-
+2-nitrobenzoic acid (TNB), which absorbs light at 412 nm [ 48]. An aliquot of the supernatant
+obtained from the centrifugation of the samples was added to TRIS/HCl 2.5 M pH 8 and 0.2mM DTNB. The samples were then measured spectrophotometrically at 412 nm. The total glu-
+tathione was measured using the Tietze method modified by Akerboom and Sies (1981) [ 49].
+The method also relies on the spontaneous reaction of DTNB with GSH to form TNB and
+Fig 1. Time line of the experimental protocol. Swimming was initiated on day 1, and ended on the 10th
+experiment day. DEP instillation occurred from 5thto 10thday of the swimming protocol, and until the 15thday,
+the animals were submitted only to daily DEP or saline instillation. Animals were euthanized 24 hours after
+the last instillation.
+doi:10.1371/journal.pone.0137273.g001
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 5/1 5
+GSTNB. The GSTNB is reduced back to GSH by the enzyme glutathione reductase, which uses
+NADPH as an electron donor and releases TNB. The rate of formation of TNB was measured
+spectrophotometrically at 412 nm for 2 minutes and compared to a standard curve.
+2.8 Statistical analysis
+Comparisons among groups were performed using Sigma Stat 3.5 software (California, EUA,2005) by Two-Way analysis of variance (ANOVA) followed by Holm-Sidak test for multiple
+comparisons. Data showed normal distribution, as analyzed by the Kolmogorov-Smirnov test.
+Significance levels were set at 5% (p <0.05). Values were expressed as the mean ± standard
+deviation (SD).
+Results
+3.1 Swimming sessions increased the blood lactate concentration
+The swimming sessions resulted in an increase in the blood lactate concentration between the
+10thand 30thminute of exercise ( Table 1 ), which was measured on each of the 5 days of the
+exercise protocol. These data confirm that this protocol can be considered a model of high-
+intensity exercise. As can be seen in Table 1 , all groups subjected to the swimming sessions pre-
+sented blood lactate concentration higher than 1 mmol/L.
+3.2 Swimming sessions decreased the number of BALF cells
+Swimming attenuated the increase in the number of total cell and neutrophils (p <0.001). Total
+number of cells ( Fig 2A ), neutrophils, and lymphocytes ( Fig 2B ) were not affected by exercise,
+while DEP produced a marked increase in these cells. A two-way ANOVA for the total numberof cells did not show any significant effect for swimming (F(3,7) = 2,68; p = 0.1); however, theeffect of DEP instillation was significant (F(3,8) = 30.28; p <0.001), and swimming x DEP inter-
+action (F(3,7) = 17.15; p <0.001) was significant. The two-way ANOVA for the neutrophils
+also showed significant effect for swimming (F(3,7) = 56.76; p <0.001). The effect of DEP instil-
+lation was significant (F(3,8) = 631.71; p <0.001), and swimming x DEP interaction was also
+significant (F(3,7) = 59.95; p <0.001). The two-way ANOVA for the lymphocytes did not show
+any significant effect for swimming (F(3,7) = 0.03; p = 0.8); however, the effect of DEP instilla-tion was significant (F(3,8) = 10.03; p <0.01), and swimming x DEP interaction was not signifi-
+cant (F(3,7) = 1.78; p = 0.2).
+3.3 Swimming sessions prevented the induction of pro-inflammatory
+cytokines in the lung
+Swimming attenuated the increase in lung levels of IL-1 β(Fig 3A ) and TNF- α(Fig 3B )
+(p = 0.002 and p = 0.003, respectively). A two-way ANOVA did not show any significant effect
+Table 1. Blood lactate concentration. Table 1 shows the values (mean ±SD) of blood lactate concentra-
+tion, expressed in mmol/L. Control and DEP groups were submitted only once to exercise protocol, in order to
+establish lactate blood basal control.
+Time Control Sw DEP DEP + Sw
+10° min 3.5 ±1.1 4.1 ±0.7 4.4 ±1.4 3.7 ±1.6
+30° min 5.6 ±1.4* 5.9±0.3* 6.2±1.2* 5.7±0.8*
+*= Signi ﬁcantly different from the 10thminute of the respective group (p <0.05).
+doi:10.1371/journal.pone.0137273.t001
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 6/1 5
+on IL-1 βfor swimming (F(3,8) = 2.78; p = 0.11) or DEP effect (F(3,8) = 3.68; p = 0.07. A two-
+way ANOVA also did not show any significant effect on TNF- αfor swimming (F(3,8) = 2.20;
+p = 0.16) or DEP effect(F(3,8) = 3.90; p = 0.07). However, swimming x DEP interaction wassignificant in both cytokines lung levels (F(3,7) = 14.15; p <0.01; F(3,8) = 8.93; p = 0.01,
+respectively).
+Similarly, swimming attenuated the increase in lung levels of IL-6 (p = 0.0001) ( Fig 3C ) and
+IFN- ɣ(p = 0.0001) ( Fig 3D ). Interestingly, two way ANOVA showed significant effect for
+swimming (F(3,8) = 27.85; p <0.001) and DEP effect (F(3,8) = 344.58; p <0.001) in IL-6 lung
+levels ( Fig 3C ), as well as swimming x DEP interaction was also significant (F(3,8) = 20.95,
+p<0.001). Two way ANOVA also showed significant effect for swimming (F(3,8) = 12.71;
+p = 0.001), DEP (F(3,8) = 637.02; p <0.001) and swimming x DEP interaction (F(3,8) = 7.59;
+p = 0.01) for IFN- ɣlung levels.
+3.4 Effects of swimming sessions on the lung levels of anti-inflammatory
+cytokines
+Swimming sessions resulted in an increase in the levels of anti-inflammatory cytokines
+(p = 0.01 for IL-10, Fig 4A ) (p = 0.0002 for IL-1ra, Fig 4B ). A two way ANOVA for lung levels
+of IL-10 ( Fig 4A ) showed significant effect for swimming (F(3,7) = 8.90; p = 0.01), but did not
+show significance for DEP effect (F(3,7) = 0.001; p = 0.97) and for swimming X DEP interac-
+tion (F(3,7) = 3.60; p = 0.08).
+Two way ANOVA also revealed that levels of IL-1ra ( Fig 4B ) showed significant effect for
+swimming (F(3,7) = 17.99; p <0.001) and DEP effect (F(3,8) = 13.233; p = 0.01), but did not
+show significance for swimming X DEP interaction (F(3,7) = 1.85; p = 0.185).
+3.5 Swimming sessions increased the CAT lung level
+The lung level of CAT ( Fig 5A ) was not affected by DEP instillation, while high-intensity swim-
+ming produced a marked increase in this anti-oxidant enzyme into lungs (p = 0.0001). A two
+way ANOVA for lung levels of CAT showed significant effect for swimming (F(3,7) = 21.15;
+Fig 2. Cells from BALF. Fig 2A shows the total number of cells from BALF. Values are expressed as mean ±SD.#p<0.001 when compared to all groups. Fig
+2B shows the differential counting of neutrophils and lymphocytes from BALF.#p<0.001 for neutrophils when compared to all groups and§p<0.05 for
+lymphocytes when compared to Control group.
+doi:10.1371/journal.pone.0137273.g002
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 7/1 5
+p<0.001), but did not show any significant DEP effect (F(3,8) = 0.03; p = 0.8) and for swim-
+ming x DEP interaction (F(3,7) = 0.9; p = 0.3). Additionally, two way ANOVA also showed
+that there were no significant differences in GPx lung levels ( Fig 5B ) for swimming training F
+(3,7) = 0.5; p = 0.4) and swimming x DEP interaction (F(3,7) = 0.77; p = 0.38), although thereis a significant DEP effect (F(3,8) = 6.42; p = 0.01).
+3.6 DEP exposure decreases the lung GSH and NPSH levels
+DEP instillation resulted in a pronounced decrease of GHS and NPSH lung levels ( Fig 6A and
+6B, respectively), while swimming sessions avoided a decrease in thiols lung levels (p = 0.0001
+for GSH and p = 0.002 for NPSH. A two way ANOVA for GSH lung levels showed significant
+differences for swimming (F(3,7) = 25.93; p <0.001), but not for DEP (F(3,8) = 3.12; p = 0.08).
+However, the swimming x DEP interaction was significant (F(3,7) = 10.82; p = 0.003). In addi-
+tion, DEP instillation also resulted in a decrease of NPSH lung levels ( Fig 6B ). A two way
+ANOVA for NPSH lung levels showed significant effect for swimming (F(3,7) = 4.96; p = 0.03),
+Fig 3. Pro-inflammatory cytokines lung levels. Fig 3 shows the total levels of IL-1 β(Fig 3A), TNF- α(Fig 3B), IL-6 (Fig 3C), IFN- γ(Fig 3D) from
+homogenate lung tissue. Values are expressed as mean ±SD. Fig 3A,§*p = 0.002 when compared to Control and Dep+Sw groups. Fig 3B,§*p = 0.003
+when compared to Control and Dep+Sw groups. Fig 3C,#p = 0.0001 when compared to all groups and Fig 3D,#p = 0.0001 when compared to all groups
+also.
+doi:10.1371/journal.pone.0137273.g003
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 8/1 5
+as well as a significant DEP effect (F(3,8) = 21.55; p <0.001), but did not show swimming x DEP
+interaction (F(3,7) = 1.84; p = 0.19).
+Discussion
+The present study provides the first demonstration that mice subjected to high-intensity swim-
+ming sessions and DEP administration for 10 days showed a decrease in the number of total
+cells, neutrophils and lymphocytes in BALF, even when the exercise was interrupted and theDEP administration was continued for 5 more days. Furthermore, exercise also decreased the
+levels of pro-inflammatory cytokines, such as IL-1 β, IL-6, TNF- αand IFN- ϫ, in the lung homog-
+enates, whereas exercises increased the levels of anti-inflammatory cytokines, such as IL-1ra andIL-10. In addition, swimming resulted in an increase in the levels of glutathione, non-protein
+thiols and catalase, which are known antioxidant molecules, in the lung homogenates.
+Fig 4. Anti-inflammatory cytokines lung levels. Fig 4 shows the total levels of IL-10 and IL-1ra (Fig 4A and 4B, respectively) from homogenate lung tissue.
+Values are expressed as mean ±SD. Fig 4A,§p = 0.01, when compared to Control group, and Fig 4B,§p = 0.0002, when compared to Control group also.
+When compared DEP and DEP+Sw groups, there was no significant statistical difference (p >0.05) in both measurements.
+doi:10.1371/journal.pone.0137273.g004
+Fig 5. Antioxidant enzymes lung levels. Fig 5 shows the pulmonary levels of CAT and GPx (Fig 5A and 5B, respectively). Values are expressed as
+mean ±SD. Fig 5A,§p = 0.0001, when compared to Control group.
+doi:10.1371/journal.pone.0137273.g005
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 9/1 5
+Diesel particles from the atmosphere (DEPs) are the largest source of the particulate matter
+that is associated with various deleterious effects on human health [ 7–14,45]. In epidemiologi-
+cal studies and experimental models, exposure to DEPs has been identified as a potent source
+of immunomodulation [ 50,51]. Salvi et al. (1999) observed the effects of acute exposure to
+DEPs in the blood and BALF of volunteer subjects exposed to DEPs in a controlled exposurechamber. After 1 hour of DEP exposure, the authors observed a significant increase in the
+number of mast cells, neutrophils, B lymphocytes, and the CD4 and CD8 subtypes of T lym-
+phocytes, as well as increased IL-8 levels and an increase in the expression of ICAM-1 andVCAM [ 52].
+Results from experimental models also have confirmed the impairment caused by DEP
+exposure, showing the increase in reactive oxygen and nitrogen species, either systemically orlocally in different organs [ 9,18,19]. Additionally, some studies suggest that DEP particles
+engulfed by immune and epithelial cells may induce an early hypersensitive response and sub-
+sequent DNA damage triggered by the break down and release of the soluble chemical DEP
+components in cells, which induces pulmonary inflammation and redox imbalance [ 10–14,39].
+However, animal and clinical studies have suggested that aerobic exercise has a protective
+effect against DEP exposure, decreasing the release of inflammatory mediators and reactive
+oxygen species (ROS). Vieira et al. (2012) demonstrated that low-intensity aerobic exerciseresulted in a decreased release of pro-inflammatory cytokines and decreased levels of oxidative
+and nitrosative stress, as well as inhibition of both lung and systemic inflammation; these
+results suggested a possible modulation of the beneficial effects of exercise through anti-inflam-matory and antioxidant pathways [ 39]. This theory could be supported by other studies show-
+ing that the beneficial effects of exercise may be directly related to the anti-inflammatory and
+antioxidant response induced by exercise [ 22–24,53].
+In our study, we showed that DEP exposure resulted in a significant increase in the number
+of BALF cells (total cells, neutrophils and lymphocytes), and swimming sessions decreased the
+number of total cells, neutrophils and lymphocytes. These data corroborate those of Vieira
+et al. (2012), who demonstrated a decrease in inflammatory cells not only in the BALF but alsoin the lung parenchyma of mice exposed to DEPs and subjected to exercise [ 36]. When acti-
+vated by chemical substances (e.g., the substances in DEP), inflammatory cells (e.g., macro-
+phages and neutrophils) secrete ROS [ 30,39]. In our study, we demonstrated that swimming
+Fig 6. Thiols lung levels. Fig 6 shows the lung levels of GSH-t and NPSH (Fig 6A and 6B, respectively). Values are expressed as mean ±SD. Fig 6A and
+6B,§*p = 0.0001 and§*p = 0.002, respectively, both when compared to Control and DEP+Sw groups.
+doi:10.1371/journal.pone.0137273.g006
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 10 / 15
+sessions were able to significantly improve the antioxidant defense, as demonstrated by
+improvements in the levels of CAT, GSH-t and NPSH. These findings could then partially
+explain the antioxidant effects of swimming in this model of DEP-induced lung inflammation.Similarly, Vieira et al. (2012) have shown that aerobic exercise reduces ROS and RNS in amodel of DEP-induced lung inflammation [ 39].
+Any acute condition of increased oxygen consumption leads to oxidative stress and conse-
+quently ROS production. Thus, the repeated mild increases in ROS caused by exercise resultsin an adaptive response with an improvement in the antioxidant defense system. Furthermore,
+there is an associated change in the redox balance (balance between oxidation and reduction)
+that produces a reducing environment, resulting in an increase in antioxidant defenses. Thismechanism results in an adaptive protection against ROS during subsequent exercise sessions;
+for example, glutathione, a non-protein thiol, is produced and released [ 43].
+GSH plays a central role in the maintenance of the reducing cellular environment, which is
+required to maintain the redox homeostasis, counteracting doxidative forces, and strengthen-
+ing the antioxidant system [ 54–56]. However, inflammatory mediators and toxic substances
+can decrease the pools of GSH and other thiols [ 57]. Kooter et al. (2010), for example, observed
+that after an acute DEP exposure for 2 hours (1.9 μg/m
+3), the glutathione level was significantly
+decreased in the lung [ 58]. Our findings corroborate these results because the mice exposed to
+DEP for 10 days had a decrease in the levels of GSH and NPSH in the lung, but high-intensity
+swimming prevented this thiol loss, suggesting its influence on redox balance.
+Redox balance is also maintained by the action of antioxidant enzymes. One of these
+enzymes is catalase, which degrades hydrogen peroxide into water and oxygen. Several patho-
+gens produce catalase for defense against attacks by hydrogen peroxide, a weapon commonlyused by the immune system of the host [ 59]. Some studies show that regular exercise may
+increase the levels of catalase, reestablishing organic homeostasis by increasing antioxidant
+defenses [ 60,61]. Corroborating those studies, our results showed that swimming resulted in an
+increase in the CAT activity levels in the lungs of mice, regardless of exposure to DEPs. Ourresults reinforce the idea that exercise, per se , can contribute to the enhancement of antioxidant
+defenses.
+The increase in the oxidative stress induced by the exposure to toxic particulates, such as
+DEPs, is also associated with the release of pro-inflammatory cytokines in both clinical trials
+and experimental mice models [ 15,17,19,62,63].
+DEP-induced ROS formation may activate transcription factors, such as NF-K β, involved in
+the regulation and release of pro-inflammatory cytokines [ 64,65]. Some studies suggest that
+pro-inflammatory reactions tend to start with the release of early responding cytokines, such as
+IL-1βand TNF- α, allowing an immediate response upon encounters with inhaled pathogens.
+IL-1βand TNF- αsubsequently may regulate the expression of a variety of cytokines and che-
+mokines, including IL-6. However, secondary cytokines may also be activated more directly by
+DEP in an IL-1 β- and TNF- α-independent manner through activation of pro-inflammatory
+signaling pathways within the cells [ 22,66].
+In this study, we showed that the lung IL-1 β, TNF- α, IL-6 and IFN- ϫlevels were increased
+in mice that received DEP, corroborating the data of previous experimental studies [ 6,11,39].
+Nevertheless, our results showed that high-intensity swimming resulted in a decrease in thelevels of these pro-inflammatory cytokines.
+In our experimental model, the lung levels of regulatory cytokines, such as IL-10 and IL-1ra
+in the mouse group subjected to swimming showed an increase, which was maintained in theDEP+Sw group, but it did not show significant difference when compared to DEP group.
+These results may be related to several features of the experimental design, including the activa-
+tion time and the molecular pathways of the regulatory cytokines.
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 11 / 15
+For instance, Yssel et al. (1992) showed that IL-10 levels were detectable in blood 8 hours
+after activation, and its maximal levels could be observed at 24 hours [ 67]. Furthermore, some
+studies also showed that the IL-10 and IFN- ϫsignaling pathways may share either common
+receptor subunits or intracellular activation pathways; thus, these molecules compete for bind-ing sites [ 68]. In addition, the proposed interruption of the swimming sessions simultaneously
+with the addition of 5 more days of DEP administration in this experimental model could have
+influenced the IL-10 and IL-1ra results. The type, duration and intensity of exercise may be fac-tors that influence the profile of the cytokine response [ 69].
+Therefore, we conclude that in this experimental model, high-intensity swimming presented
+protective effects against DEP-induced lung inflammation, and these effects seems to be, atleast partially, mediated by the antioxidant effects of exercise.
+Author Contributions
+Conceived and designed the experiments: DCHK LCMA TRB. Performed the experiments:
+LCMA TRB DFM LMM FB MDS. Analyzed the data: DCHK LCMA TRB LFS FB KCB. Con-
+tributed reagents/materials/analysis tools: LFS AD RCO MMMFD ARSS. Wrote the paper:DCHK KCB RPV AD ARSS DFM.
+References
+1. Becker S, Soukup JM, Gilmour MI, Devlin RB (1996) Stimulation of human and rat alveolar macro-
+phages by urbana ir particulates: effects on oxidant radical generation and cytokine production. Toxicol
+Appl Pharmacol 141: 637 –648. PMID: 8975789
+2. Dockery DW, Pope CA III, Xu X, Spengler JD, Ware JH, Fay ME, et al. (1993) An association between
+air pollution and mortality in six US: cities. N EngI J Med 329: 1753 –1759.
+3. Schwartz J (1994) What are the people dying of on high air pollution days? Environ Res 64: 26 –35.
+PMID: 8287840
+4. Pope CA III, Burnett RT, Thuston GD, Thun MJ, Calle EE, Krewsky D, et al. (2004) Cardiovascular Mor-
+tality, and Long-Term Exposure to fine Particulate Air pollution. Epidemiological Evidence of General
+Pathophysiological Pathways of Disease. Circulation 109: 71 –77. PMID: 14676145
+5. Rao KM, Ma JY, Meighan T, Barger MW, Pack D, Vallyathan V. (2005) Time course of gene expression
+of inflammatory mediators in rat lung after diesel exhaust particle exposure. Environ Health Perspect113: 612 –617. PMID: 15866772
+6. Inoue K, Takano H, Yanagisawa R, Hirano S, Ichinose T, Shimada A, et al. (2006) The role of toll-like
+receptor 4 in airway inflammation induced by diesel exhaust particles. Arch Toxicol 80: 275 –279.
+PMID: 16254717
+7. Donaldson K, Tran L, Jimenez LA, DuYn R, Newby DE, Mills N, et al. (2005) Combustion-derived nano-
+particles: a review of their toxicology following inhalation exposure. Part Fibre Toxicol 2:10. PMID:
+16242040
+8. Duffin R, Mills NL, Donaldson K. Nanoparticles: A thoracic toxicology perspective. Yonsei Med J. 2007
+Aug 31; 48(4):561 –72. PMID: 17722227
+9. Cao D, Tal TL, Graves LM, Gilmour I, Linak W, Reed W, et al. (2007) Diesel exhaust particulate-
+induced activation of Stat3 requires activities of EGFR and Src in airway epithelial cells. Am J Physiol
+Lung Cell Mol Physiol 292: 422 –429.
+10. Maier KL, Alessandrini F, Beck-Speier I, Hofer TP, Diabaté S, Bitterle E, et al. (2008) Health effects of
+ambient particulate matter- biological mechanisms and inflammatory responses to in vitro and in vivo
+particle exposures. Inhal Toxicol 20: 319 –337. doi: 10.1080/08958370701866313 PMID: 18300050
+11. Park EJ, Roh J, Kang MS, Kim SN, Kim Y, Choi S. (2011) Biological responses to diesel exhaust parti-
+cles (DEPs) depend on the physicochemical properties of the DEPs. PLoS ONE 6: 10.
+12. Salvi SS, Nordenhall C, Blomberg A, Rudell B, Pourazar J, Kelly FJ, et al. (2000) Acute exposure to die-
+sel exhaust increases IL-8 and GRO-alpha production in healthy human airways. Am J Respir Crit CareMed. 161:550 –557. PMID: 10673199
+13. Yang HM, Ma JY, Castranova V, Ma JK. (1997) Effects of diesel exhaust particles on the release of
+interleukin-1 and tumor necrosis factor-alpha from rat alveolar macrophages. Exp Lung Res 23:269 –
+284. PMID: 9184793
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 12 / 15
+14. Steerenberg PA, Zonnenberg JA, Dormans JA, Joon PN, Wouters IM, Van Bree L, et al. (1998) Diesel
+exhaust particles induced release of interleukin 6 and 8 by (primed) human bronchial epithelial cells
+(BEAS 2B) in vitro . Exp Lung Res 24:85 –100. PMID: 9457471
+15. Takano H, Yanagisawa R, Ichinose T, Sadakane K, Yoshino S, Yoshikawa T, et al. (2002) Diesel
+exhaust particles enhance lung injury related to bacterial endotoxin through expression of proinflamma-tory cytokines, chemokines, and intercellular adhesion molecule-1. Am J Respir Crit Care Med 165:
+1329–1335. PMID: 11991888
+16. Halonen JI, Lanki T, Yli-Tuomi T, Kulmala M, Tiittanen P, Pekkanen J. (2008) Urban air pollution, and
+asthma and COPD hospital emergency room visits. Thorax 63: 635 –641. doi: 10.1136/thx.2007.
+091371 PMID: 18267984
+17. Patel H, Eo S, Kwon S (2011). Effects of diesel particulate matters on inflammatory responses in static
+and dynamic culture of human alveolar epithelial cells. Toxicol Lett 200: 124 –131. doi: 10.1016/j.toxlet.
+2010.11.007 PMID: 21094226
+18. Zhao H, Barger MW, Ma JK, Castranova V, Ma JY (2006) Cooperation of the inducible nitric oxide
+synthase and cytochrome P450 1A1 in mediating lung inflammation and mutagenicity induced by diesel
+exhaust particles. Environ Health Perspect 114: 1253 –1258. PMID: 16882535
+19. Zhao H, Ma JK, Barger MW, Mercer RR, Millecchia L (2009) Reactive oxygen species- and nitric oxide-
+mediated lung inflammation and mitochondrial dysfunction in wild-type and iNOS-deficient mice
+exposed to diesel exhaust particles. J Toxicol Environ Health A 72: 560 –570. doi: 10.1080/
+15287390802706330 PMID: 19267316
+20. Emmendoerffer A, Hecht M, Boeker T, Mueller M, Heinrich U (2000) Role of inflammation in chemical-
+induced lung cancer. Toxicol Lett 112 –113:185 –191. PMID: 10720730
+21. Schwarze PE, Totlandsdal AI, L åg M, Refsnes M, Holme JA, Øvrevik J. (2013) Inflammation-Related
+effects of diesel engine exhaust particles: studies on lung cells in vitro. Biomed Res Int 685142. doi: 10.
+1155/2013/685142 Epub 2013 Feb 14. PMID: 23509760
+22. Ji LL. Modulation of skeletal muscle antioxidant defense by exercise: role of redox signaling (2008)
+Free Radic Biol Med 44: 142 –52. doi: 10.1016/j.freeradbiomed.2007.02.031 PMID: 18191750
+23. Petersen AM, Pedersen BK (2005) The anti-inflammatory effect of exercise. J Appl Physiol 98: 1154 –
+1162. PMID: 15772055
+24. Radak Z, Chung HY, Goto S (2008) Systemic adaptation to oxidative challenge induced by regular
+exercise. Free Radic Biol Med 44: 153 –159. doi: 10.1016/j.freeradbiomed.2007.01.029 PMID:
+18191751
+25. Young DR, Reynolds K, Sidell M, Brar S, Ghai NR, Sternfeld B, et al. (2014) Effects of physical activity
+and sedentary time on the risk of heart failure. Circulation Heart Failure 7: 21 –27. doi: 10.1161/
+CIRCHEARTFAILURE.113.000529 PMID: 24449810
+26.
+Kivelä R, Silvennoinen M, Touvra AM, Lehti TM, Kainulainen H, Vihko V. (2006) Effects of experimental
+type 1 diabetes and exercise training on angiogenic gene expression and capillarization in skeletal
+muscle. FASEB J. 20: 1570 –1572. PMID: 16816123
+27. Souza LC, Filho CB, Goes AT, Fabbro DL, Gomes MG (2013) Neuroprotective Effect of Physical Exer-
+cise in a Mouse Model of Alzheimer ’s Disease Induced by b-Amyloid1 –40 Peptide. Neurotox Res 24:
+148–163. doi: 10.1007/s12640-012-9373-0 PMID: 23307759
+28. Dutra MF, Jaeger M, Ilha J, Kalil-Gaspar PI, Marcuzzo S, Achaval M (2012) Exercise improves motor
+deficits and alters striatal GFAP expression in a 6-OHDA- induced rat model of Parkinson ’s disease.
+Neurol Sci 33: 1137 –1144. doi: 10.1007/s10072-011-0925-5 PMID: 22231471
+29. Menegali BT, Nesi RT, Souza PS, Silva LA, Silveira PC, Valença SS, et al. (2009) The effects of physi-
+cal exercise on the cigarette smoke —induced pulmonary oxidative response. Pulm Pharmacol Ther
+22: 567 –573. doi: 10.1016/j.pupt.2009.08.003 PMID: 19683592
+30. Toledo AC, Magalhaes RM, Hizume DC, Vieira RP, Biselli PJ, Moriya HT, et al. (2012) Aerobic exercise
+attenuates pulmonary injury induced by exposure to cigarette smoke. Eur Respir J 39: 254 –264. doi:
+10.1183/09031936.00003411 PMID: 21700603
+31. Stang J, Braten V, Caspersen C, Thorsen E, Stensrud T. (2014). Exaled nitric oxide after high-intensity
+exercise at 2800m altitude. Clin Physiol Funct Imaging Jan 22. Epub ahead of print.
+32. Ramos DS, Olivo CR, Quirino Santos Lopes FD, Toledo AC, Martins MA, Lazo Osório RA, et al. (2010)
+Low intensity swimming training partially inhibits lipopolysaccharideinduced acute lung injury. Med Sci
+Sports Exerc 42: 113 –119. PMID: 20010123
+33. de Araújo CC, Silva JD, Samary CS, Guimar ães IH, Marques PS, Oliveira GP, et al. (2012) Regular
+and moderate exercise before experimental sepsis reduces the risk of lung and distal organ injury. J
+Appl Physiol 112: 1206 –1214. doi: 10.1152/japplphysiol.01061.2011 PMID: 22267391
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 13 / 15
+34. Pastva A, Estell K, Schoeb TR, Atkinson TP, Schwiebert LM.(2004) Aerobic exercise attenuates airway
+inflammatory responses in a mouse model of atopic asthma. J Immunol 172: 4520 –4526. PMID:
+15034069
+35. Vieira RP, Claudino RC, Duarte AC, Santos AB, Perini A, Faria Neto HC, et al. (2007) Aerobic exercise
+decreases chronic allergic lung inflammation and airway remodeling in mice. Am J Respir Crit CareMed 176: 871 –887. PMID: 17690332
+36. Vieira RP, Toledo AC, Ferreira SC, Santos AB, Medeiros MC, Hage M, et al. (2011) Airway epithelium
+mediates the anti-inflammatory effects of exercise on asthma. Respir Physiol Neurobiol 175: 383 –389.
+doi:10.1016/j.resp.2011.01.002 PMID: 21236366
+37. Luks V, Burkett A, Turner L, Pakhale S (2013) Effect of physical training on airway inflammation in ani-
+mal models of asthma: a systematic review. BMC Pulm Med 13: 24. doi: 10.1186/1471-2466-13-24
+PMID: 23617952
+38. Vieira RP, de Andrade VF, Duarte AC, Dos Santos AB, Mauad T, Martins MA, et al. (2008) Aerobic con-
+ditioning and allergic pulmonary inflammation in mice. II. Effects on lung vascular and parenchymal
+inflammation and remodeling. Am J Physiol Lung Cell Mol Physiol 295: 670 –679.
+39. Vieira RP, Toledo AC, Silva LB, Almeida FM, Damaceno-Rodrigues NR, Caldini EG, et al. (2012) Anti-
+inflammatory effects of aerobic exercise in mice exposed to air pollution. Med Sci Sports Exerc 44:
+1227–1234. PMID: 22297803
+40. Hall KE, McDonald MW, Grisé KN, Campos OA, Noble EG, Melling CW. (2013) The role of resistance
+and aerobic exercise training on insulin sensitivity measures in STZ-induced Type 1 diabetic rodents.
+Metabolism 10:1485 –1494.
+41. Balducci S, Zanuso S, Nicolucci A, De Feo P, Cavallo S, Cardelli P, et al. (2010) Italian Diabetes Exer-
+cise Study (IDES) Investigators. Effect of an intensive exercise intervention strategy on modifiable car-
+diovascular risk factors in subjects with type 2 diabetes mellitus: a randomized controlled trial: the
+Italian Diabetes and Exercise Study (IDES). Arch Intern Med 170: 1794 –1803. doi: 10.1001/
+archinternmed.2010.380 PMID: 21059972
+42. Camiletti-Moirón D, Aparicio VA, Aranda P, Radak Z (2013) Does exercise reduce brain oxidative
+stress? A systematic review. Scand J Med Sci Sports 23: 202 –212.
+43. Fisher-Wellman K, Bloomer RJ (2009) Acute exercise and oxidative stress: a 30 year history. Dyn Med
+8:1. doi: 10.1186/1476-5918-8-1 PMID: 19144121
+44. Official JotEU. Directive 2010/63/EU of the European Parliament and of the Council In. 20/10/2010
+ed.2010.
+45. Laks D, de Oliveira RC, de André PA, Macchione M, Lemos M, Faffe D, et al. (2008) Composition of
+diesel particles influences acute pulmonary toxicity: an experimental study in mice. Inhal Toxicol 20:
+1037–1042. doi: 10.1080/08958370802112922 PMID: 18686106
+46. Kuphal KE, Fibuch EE, Taylor BK (2007) Extended swimming exercise reduces inflammatory and
+peripheral neuropathic pain in rodents. J Pain 8: 989 –997. PMID: 17890162
+47. Ferreira JC, Rolim NP, Bartholomeu JB, Gobatto CA, Kokubun E, Brum PC. (2007) Maximal lactate
+steady state in running mice: effect of exercise training. Clin Exp Pharmacol Physiol 34: 760 –765.
+PMID: 17600553
+48. Ellman GL (1959) Tissue sulfhydryl groups. Arch Biochem Biophys 82: 70 –77. PMID: 13650640
+49. Akerboom TP, Sies H (1981) Assay of glutathione, glutathione disulfide, and glutathione mixed disul-
+fides in biological samples. Methods Enzymol 77: 373
+–382. PMID: 7329314
+50. Nel AE, Diaz-Sanchez D, Ng D, Hiura T, Saxon A (1998) Enhancement of allergic inflammation by the
+interaction between diesel exhaust particles and the immune system. J. Allergy Clin Immunol 102:
+539–554. PMID: 9802360
+51. Saxon A, Diaz-Sanchez D (2005) Air pollution and allergy: you are what you breathe. Nat. Immunol 6:
+223–226. PMID: 15716966
+52. Salvi S, Blomberg A, Rudell B, Kelly F, Sandstrom T, Holgate ST, et al. (1999) Acute inflammatory
+responses in the airways and peripheral blood after short-term exposure to diesel exhaust in healthy
+human volunteers. Am J Respir Crit Care Med 159: 702 –709. PMID: 10051240
+53. Silva RA, Vieira RP, Duarte AC, Lopes FD, Perini A, Mauad T, et al. (2010) Aerobic training reverses
+airway inflammation and remodelling in an asthma murine model. Eur Respir J 35: 994 –1002. doi: 10.
+1183/09031936.00049509 PMID: 19897558
+54. Reischl E, Dafre AL, Franco JL, Wilhekm Filho D (2007) Distribution, adaptation and physiological
+meaning of thiols from vertebrate hemoglobins. Comp Biochem Physiol C Toxicol Pharmacol 146: 22 –
+53. PMID: 17368111
+55. Lu SC (1999) Regulation of hepatic glutathione synthesis: current concepts and controversies. FASEB
+J 13: 1169 –1183. PMID: 10385608
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 14 / 15
+56. Rover LJ (2001) Antioxidant system involving the glutathione metabolic cycle associated to electroana-
+lytical methods in the oxidative stress evaluation. Quimica Nova 24:112 –119.
+57. Biswas SK, Rahman I (2009) Environmental toxicity, redox signaling and lung inflammation: the role of
+glutathione. Mol Aspects Med 30: 60 –76. doi: 10.1016/j.mam.2008.07.001 PMID: 18760298
+58. Kooter IM, Gerlofs-Nijland ME, Boere AJ, Leseman DL, Fokkens PH, Spronk HM, et al. (2010) Diesel
+engine exhaust initiates a sequence of pulmonary and cardiovascular effects in rats. J Toxicol 206057.
+doi:10.1155/2010/206057 PMID: 21052503
+59. Fridovich I (1998) Oxygen toxicity: a radical explanation. J Exp Biol 201: 1203 –1209. PMID: 9510531
+60. Reddy Avula CP, Fernandes G (1999) Modulation of antioxidant enzymes and lipid peroxidation in Sali-
+vary gland and other tissue in mice by moderate treadmill exercise. Aging 11: 246 –252. PMID:
+10605613
+61. Jenkins RR, Goldfarba A (1993) Introduction: oxidant stress, aging and exercise. Med Sci Sports Exerc
+25: 210 –212. PMID: 8450723
+62. Den Hartigh LJ, Lamé MW, Ham W, Kleeman MJ, Tablin F, Wilson DW. (2010) Endotoxin and polycy-
+clic aromatic hydrocarbons in ambient fine particulate matter from Fresno, California initiate human
+monocyte inflammatory responses mediated by reactive oxygen species. Toxicol In Vitro 24: 1993 –
+2002. doi: 10.1016/j.tiv.2010.08.017 PMID: 20801209
+63. Patel MM, Chillrud SN, Correa JC, Hazi Y, Feinberg M, Kc D, et al. (2010) Traffic-related particulate
+matter and acute respiratory symptoms among New York City area adolescents. Environ Health Per-
+spect 118: 1338 –1343. doi: 10.1289/ehp.0901499 PMID: 20452882
+64. Bonvallot V, Baeza-Squiban A, Baulig A, Brulant S, Boland S, Muzeau F, et al. (2001) Organic com-
+pounds from diesel exhaust particles elicit a proinflammatory response in human airway epithelial cells
+and induce cytochrome p450 1A1 expression. Am J Respir Cell Mol Biol 25: 515 –521. PMID:
+11694458
+65. Baulig A, Garlatti M, Bonvallot V, Marchand A, Barouki R, Marano F, et al. (2003) Involvement of reac-
+tive oxygen species in the metabolic pathways triggered by diesel exhaust particles in human airway
+epithelial cells. Am J Physiol Lung Cell Mol Physiol 285: 671 –679.
+66. Chaudhuri N, Paiva C, Donaldson K, Duffin R, Parker LC, Sabroe I. (2010) Diesel exhaust particles
+override natural injury limiting pathways in the lung. Am J Physiol Lung Cell Mol Physiol 299: 263 –271.
+67. Yssel H, De Waal Malefyt R, Roncarolo MG, Abrams JS, Lahesmaa R, Spits H, et al. (1992) IL-10 is
+produced by subsets of human CD4+ Tcells clones and peripheral blood T cells. J Immunol 149:
+2378–2384. PMID: 1356125
+68. Larner AC, David M, Feldman GM, Igarashi K, Hackett RH, Webb DS, et al. (1993) Tyrosine phosphory-
+lation of DNA binding proteins by multiple cytokines. Science 261: 1730 –1733. PMID: 8378773
+69. Gleeson M, Bishop NC, Stensel DJ, Lindley MR, Mastana SS, Nimmo MA. (2011) The anti-inflamma-
+tory effects of exercise: mechanisms and implications for the prevention and treatment of disease. Nat
+Rev Immunol 11: 607 –615 doi: 10.1038/nri3041 PMID: 21818123
+Effects of Swimming on Lung Injury Induced by DEP
+PLOS ONE | DOI:10.1371/journal.pone.0137273 September 2, 2015 15 / 15

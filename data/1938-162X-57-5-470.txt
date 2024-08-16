@@ -1,0 +1,507 @@
+Journal of Athletic Training 2022;57(5):470–477
+doi: 10.4085/1062-6050-0135.21
+/C211by the National Athletic Trainers’ Association, Inc
+www.natajournals.orgAthlete Monitoring
+Workload and Noncontact Musculoskeletal Injury in
+Collegiate Swimmers: A Prospective Cohort Study
+Travis R. Pollen, PhD*; David Ebaugh, PT, PhD†;
+Meghan Warren, PhD, PT, MPH‡; Clare E. Milner, PhD*;Jennifer A. Taylor, PhD, MPH, CPPS§; Sheri P. Silfies, PhD, PT jj
+*Department of Physical Therapy and Rehabilitation Sciences, College of Nursing and Health Professions and
+§Dornsife School of Public Health, Drexel University, Philadelphia, PA; †Department of Physical Therapy, University ofDelaware, Newark; ‡Department of Physical Therapy and Athletic Training, Northern Arizona University, Flagstaff;jjDepartment of Exercise Science, University of South Carolina, Columbia
+Context: Swimmers are known for experiencing high
+training loads and a high incidence of overuse injuries, but fewresearchers have investigated the relationship between the two
+at the collegiate level.
+Objective: To determine the association between workload
+and noncontact musculoskeletal injury in collegiate swimmers.
+Design: Prospective cohort study.
+Setting: College natatorium.
+Patients or Other Participants: A total of 37 National
+Collegiate Athletic Association Division III swimmers, 26
+uninjured (age ¼19 years [interquartile range ¼3 years], height
+¼175611 cm, mass ¼70.2610 kg) and 11 injured (age ¼19
+years [interquartile range ¼3 years], height ¼17369 cm, mass
+¼69.4613.5 kg) individuals.
+Main Outcome Measure(s): Logistic regression using
+generalized estimating equations was conducted to calculate
+odds ratios (ORs) with 95% CIs for injury relative to high
+workloads and high acute:chronic workload ratio (ACWRs).Injury rates for several ranges of workloads and ACWRs were
+also calculated.
+Results: A total of 11 participants (29.7%) sustained 12
+injuries, with 7 injuries occurring during the participants’ winter
+training trip. Injury was associated with high acute workloads (OR
+¼27.1; 95% CI ¼8.2, 89.8) and high ACWRs (OR ¼25.1; 95% CI
+¼7.7, 81.4) but not high chronic (OR ¼2.6; 95% CI ¼0.3, 20.0) or
+overall (OR ¼1.00; 95% CI ¼0.99, 1.01) workloads. High acute
+workloads ( .37.2 km/wk) and ACWRs ( .1.56) increased the
+injury rate from /C201% to 15% and 14%, respectively, compared
+with all lower acute workloads and ACWRs.
+Conclusions: Collegiate swimmers tolerated high work-
+loads spread out during the season. However, caution should
+be used when prescribing high acute workloads and highACWRs (eg, winter training trip) because of the increased odds
+of injury.
+Key Words: training monitoring, acute workload, chronic
+workload
+Key Points
+/C15For their student-athletes, collegiate swim coaches may prescribe high overall workloads spread out over the
+season without risking increased odds of injury.
+/C15However, coaches should be cautious in prescribing high acute workloads (ie, weekly workloads) and highacute:chronic workload ratios (ie, the ratio of the acute workload to the current month’s chronic workload).
+/C15Given the concentrated number of injuries during the winter training trip, coaches should carefully weigh theperformance beneﬁts of these trips against the increased odds of injury.
+Competitive swimmers are well known for experi-
+encing both high workloads1–3and a high incidence
+of overuse injuries.3,4These overuse injuries may
+reﬂect errors in the workload prescription (eg, sudden
+increases in training volume or intensity).5However, in
+reviews of injury risk factors in swimmers, researchers6,7
+have drawn mixed conclusions on the relationship between
+workload and injury. In a recent systematic review,6the
+investigators found moderate-quality evidence for highworkloads increasing the injury risk in adolescent swim-mers but low-quality evidence in older and younger
+swimmers. The lack of high-quality evidence for college-
+aged swimmers (age range ¼18–22 years) was unexpected,
+given that they undertake the highest workloads.
+6Only 2 ofthe 12 studies in the systematic review6were prospective.8,9
+In both prospective studies, the authors observed no
+association between workload and injury, although 1 study8
+was limited by 85% missing data. Additional prospective
+evidence is needed, especially in collegiate swimmers.
+An emerging method for assessing the relationship
+between workload and injury is the acute:chronic workload
+ratio (ACWR).10The ACWR is typically calculated as the
+workload during the most recent week (acute) divided bythe workload during the most recent 4 weeks (chronic).This metric is thought to be more relevant to injury thanacute or chronic workload alone.
+10High ACWRs have been
+associated with injury in several sports (eg, cricket, rugby,
+and Australian football).10The current evidence suggests a
+470 Volume 57 /C15Number 5 /C15May 2022
+‘‘danger zone ’’for increased injury risk when the ACWR
+exceeds 1.5 (ie, acute workload 50% higher than thechronic workload).
+10Although no researchers have mea-
+sured the ACWR in swimmers, Sein et al3did provide a
+danger zone for average weekly workload in their cross-sectional study of elite swimmers aged 13 to 25 years.Swimming .35 km/wk increased the risk of supraspinatus
+tendinopathy 4-fold compared with all lower workloads.
+3A
+metric such as this for the ACWR in swimming could helpcoaches plan training.
+11In fact, multiple authors4,6,11have
+called for an ACWR-type analysis in swimmers.
+The purpose of our prospective surveillance study was to
+determine the extent to which workload was associated
+with noncontact musculoskeletal injury in collegiateswimmers. We hypothesized that higher overall workloads(kilometers swum throughout the season) would beassociated with increased odds of noncontact musculoskel-etal injury. We also hypothesized that high ACWRs wouldbe more strongly associated with odds of noncontact
+musculoskeletal injury than would high acute or chronic
+workloads alone.
+METHODS
+Participants
+For this prospective cohort study, we recruited partici-
+pants at a preseason team meeting of 1 National CollegiateAthletic Association (NCAA) Division III swim team.Athletes were eligible for inclusion if they were at least 18years old and medically cleared to participate in sport.
+Volunteers who were non-English speakers and were
+unable to provide consent were excluded. A sample-sizecalculation for this study was based on the coach-reportedinjury incidence from the previous season (27%) and theneed for a minimum of 10 injuries for logistic regression.
+12
+This calculation suggested a minimum of 37 participantswere required. Forty-one student-athletes provided written
+informed consent to participate during their 2018–2019
+season and 37 completed the season (Table 1). This study,which the Drexel University Institutional Review Boardapproved, was part of a larger study in which intrinsic riskfactors for injury were also examined.
+Procedures
+The swim coach provided practice attendance, team
+training, and competition logs throughout the season. At thebeginning of the season and during breaks in mandatorytraining (eg, Thanksgiving break, winter break), partici-
+pants self-reported their preseason and self-directed work-
+loads, respectively, via the Research Electronic DataCapture Web application (REDCap). Participants who didnot respond to any questionnaire received 2 follow-upemail reminders. The return rates for preseason and in-season REDCap workload questionnaires were 100% and95.5%, respectively, resulting in 5 (0.6%) athlete-weeks of
+imputed data using team averages. Most training took place
+in a 25-yd (22.5-m) pool. We converted workloads in yardsto kilometers. Our preliminary work veriﬁed the coach-reported workloads, with student-athletes completing anaverage of 97% 63% (range ¼89%–103%) of the
+workloads indicated on the logs.We deﬁned injury as any noncontact musculoskeletal
+pain that resulted from team activities and prevented theswimmer from participating in a competition or at least50% of 1 practice as prescribed. This deﬁnition is similar tothat of interfering pain in a previous study
+8but has a
+concrete threshold for interference of 50%. We chose thisdeﬁnition based on evidence that high-volume swimmersh a dh i g hp a i nt h r e s h o l d s ,
+13and swimmers tended to
+continue training despite pain.2As a result, only about 3
+in 10 injuries caused time loss in swimmers.4Thus, the 50%
+threshold included pain that did not result in complete timeloss but still substantially interfered with training. Alongwith the practice attendance and training logs, the swim
+coach completed weekly injury reports. When the coach
+reported that a student-athlete had sustained an injury, thatindividual received a REDCap questionnaire in which he orshe veriﬁed the injury, selected the mechanism (contact,noncontact, or overuse), described it in detail, and indicatedthe number of days affected (see Supplemental Figure,available online at http://dx.doi.org/10.4085/1062-6050-0135.21.S1). An injury episode ended when the swimmerreturned to full sport participation. At the midpoint and endof the season, participants also described (via REDCap) anyinjuries they had not previously reported. They returned93.2% of these questionnaires. Although using electronicmedical records is the norm for NCAA injury surveillance,
+4
+the college’s athletic trainer discouraged querying theserecords because of the potential for underreporting. Forsports with predominantly overuse injury mechanisms, theuse of periodic self-report questionnaires has been encour-
+aged.
+14
+Data Analysis
+We calculated weekly workloads (Monday through
+Sunday) for each participant based on practice attendanceand team training or competition logs. We categorizedworkload in 4 ways: (1) overall workload throughout theseason, (2) acute workload, (3) chronic workload, and (4)ACWR. Overall workload was the number of kilometersTable 1. Participants’ Characteristics
+VariableStudent-Athletes
+PValueUninjured
+(n¼26)Injured
+(n¼11)
+No.
+Sex .29a
+Male 13 3Female 13 8
+Training group ..99
+a
+Sprint 14 6
+Mid-distance 5 2
+Distance 7 3
+Median (interquartile range)
+Age, y 19 (3) 19 (3) .91b
+Time swum, mo/y 10 (3) 10 (4) .93b
+Mean6SD
+Height, cm 175 611 173 69 .60c
+Body mass, kg 70.2 610.0 69.4 613.5 .85c
+Body mass index 22.8 62.2 22.9 62.8 .85c
+Swimming experience, y 10 631 2 62 .12c
+aFisher exact test.
+bMann-Whitney Utest.
+cIndependent-samples ttest.
+Journal of Athletic Training 471
+swum over the entire season.15Acute workload for each
+week was the number of kilometers swum that week.Chronic workload for each week was the average
+kilometers swum per week over that week and the
+preceding 3 weeks. The ACWR for each week was the
+quotient of the acute workload and chronic workload.
+10
+During the ﬁrst 3 weeks of the season, self-reportedpreseason workloads factored into the chronic workload
+and ACWR calculations. We calculated all workloads using
+Excel (version 16; Microsoft Corp).
+Statistical Analysis
+The Shapiro-Wilk test and visual inspection of histo-
+grams were performed to determine the normality of all
+data. We used mean 6SD to describe normally distributed
+data and median (interquartile range [IQR]) to describe
+nonnormally distributed data. We conducted independent-
+samples ttests to assess differences in descriptive data
+between injured and uninjured student-athletes except for
+age and months per year swum (Mann-Whitney Utests)
+and sex and training groups (Fisher exact test).
+For the ﬁrst hypothesis, we used logistic regression to
+assess the association between the overall workloadthroughout the season (continuous independent variable)
+and injury (binary dependent variable). For the second
+hypothesis, we pooled the data for each of the other 3
+workload categorizations (acute workload, chronic work-
+load, and ACWR) for all athlete-weeks of training. We thendichotomized each workload categorization into high or
+typical . Because the pooled workload data were not
+normally distributed, outliers (third quartile þ[1.53
+IQR]) signiﬁed high workloads and ACWRs. We denoted
+all other workloads and ACWRs as typical. We calculated 3
+logistic regression models (1 for each workload categori-
+zation) using generalized estimating equations to assess the
+association between workload (the dichotomized indepen-dent variable) and injury during each athlete-week (the
+binary dependent variable). The generalized estimating
+equations accounted for repeated measures. Logisticregression provided odds ratios (ORs) with 95% CIs.
+Finally, the injury rate for a given range of acute workloads
+and ACWRs represented the number of injuries thatoccurred within that range divided by the total number of
+athlete-weeks in that range. The alevel was set at .05. We
+completed all statistical analyses using SPSS (version 24;
+IBM Corp).
+RESULTS
+The 2018–2019 season spanned 21 or 22 weeks,
+depending on whether the swimmer qualiﬁed for the end-
+of-season championship meet. Competitions began in week
+5. Final examinations and winter break interruptedmandatory team practice from weeks 12 to 15. After
+returning from winter break in week 16, the team went on a
+trip for 10 days of high-volume training. Before mid-
+season, 4 student-athletes quit the team (reasons unknown),
+leaving 37 participants. Data from the 37 student-athleteswho completed the season yielded a total of 809 athlete-
+weeks.
+Of the 37 participants, 11 (29.7%) sustained 12 injuries.
+No differences existed in characteristics, training groups,months per year swum, or swimming experience between
+the uninjured and injured student-athletes (Table 1). Eight
+injuries were to the shoulder, 3 were to the back orsacroiliac joint, and 1 was to the knee. Participants
+described the mechanism of 11 injuries as overuse and 1
+asoverstretching . Ten injuries were incurred in the water; 2
+were incurred on dry land. Participation time altered or lost
+ranged from 1 day to 2 weeks, with a median (IQR) of 2(10) days. Nine of the 12 injuries affected participation for
+/C204 days. One injury occurred in each of weeks 1, 3, 4, 5,
+and 18. Seven injuries (6 shoulder and 1 back, all self-
+reported overuse mechanisms) occurred in week 16.
+A sample participant’s workload throughout the season is
+shown in Figure 1. Across participants, the median (IQR)
+overall workload throughout the entire season was 532 (65)km, which corresponded to a weekly workload of 24.2 (3.4)
+km. No association existed between overall workload and
+injury (OR ¼1.00; 95% CI ¼0.99, 1.01; Figure 2). The
+demarcations for high acute and chronic workloads and
+ACWR were 37.2 km/wk and 1.56, respectively. Injury wasassociated with both a high acute workload and a high
+ACWR but not a high chronic workload (Table 2, Figure 3).
+The number and percentage of high workload and high
+Figure 1. A sample participant’s acute workload and acute:chronic workload ratio (ACWR) over the season. This participant sustained a
+noncontact musculoskeletal injury during the winter training trip (week 16), which coincided with both a high acute workload and a highACWR, as indicated by the dashed gray and black lines, respectively.
+472 Volume 57 /C15Number 5 /C15May 2022
+ACWR athlete-weeks ranged from 28 (3.5%) to 49 (6.1%;
+Table 2). Of the 49 high ACWR athlete-weeks and 46 highacute workload athlete-weeks, 32 involved both a high
+ACWR and a high acute workload. Most high acute
+workload athlete-weeks (n ¼35/46; 76.1%) and high
+ACWR athlete-weeks (n ¼31/49; 63.3%) coincided with
+the winter training trip (week 16). All 7 of the injuries
+during week 16 occurred in the presence of a high acuteworkload and high ACWR. The injury rate was /C201% for
+typical acute workloads and ACWRs, 15% for high acute
+workloads, and 14% for high ACWRs (Figure 4).
+DISCUSSION
+The purpose of our study was to prospectively determine
+the association between workload and noncontact muscu-loskeletal injury in collegiate swimmers. The data did not
+support our ﬁrst hypothesis: we found no associationbetween overall workload and injury. Our second hypoth-
+esis was partially supported. We found that a high ACWRwas strongly associated with injury, whereas a high chronicworkload was not. Contrary to our hypothesis, a high acuteworkload was also associated with injury.
+Overall Workload and Injury
+The lack of association between overall workload and
+injury was consistent with that reported in a previousstudy
+16of collegiate swimmers. Most researchers who
+examined college-aged swimmers along with younger andolder swimmers also found no relationship between overallworkload and injury.
+8,9,16–20The authors of only 2
+studies3,15that included college-aged swimmers along with
+other age groups provided evidence for an associationbetween high overall workloads and injury. The contrastingﬁndings from those 2 studies could be due to differences inage ranges and injury deﬁnitions.
+6The age ranges reported
+by Sein et al3and Ristolainen et al15were 13 to 25 and 15 to
+35 years, respectively. In a recent systematic review, Feijen
+et al6suggested that adolescent swimmers may be at high
+risk of load-related injuries because they have not reachedfull musculoskeletal and psychosocial maturity. Comparedwith youth swimmers, athletes who choose to continueswimming in college may be better able to withstand therigors of high workloads (the ‘‘healthy athlete effect ’’).
+21
+Meanwhile, 1 investigation22of masters swimmers (age
+.23 years) showed that those with shoulder pain had
+higher workloads than did those without shoulder pain. Inaddition, whereas we studied interfering pain anywhere inthe body, Sein et al
+3studied shoulder pain only and
+included all severities.
+Acute Workload, Chronic Workload, and ACWR and
+Injury
+We observed that high ACWR was no more strongly
+associated with injury than was high acute workload alone.Although earlier research
+23,24supported the ACWR model
+of Gabbett,10our data did not. Injuries tended to occur as
+often during weeks with high acute workloads as duringweeks with high ACWRs. These results are consistent witha recent analysis
+25of data from 34 elite footballers in
+which the authors noted that ACWR was no more strongly
+associated with injury than was acute workload alone oreven acute workload scaled by a random chronic workload.In our study, considerable overlap ( .65%) existed between
+high ACWR weeks and high acute-workload weeks. Ourﬁndings could be attributed to the nature of this team’s
+training program, which had small week-to-week ﬂuctua-
+tions, except for the training trip in week 16. Anotherpossible explanation for the lower-than-expected associa-tion between ACWR and injury could be self-report andrecall biases. Two injuries occurred during the ﬁrst 3weeks of the season, during which time the participants’self-reported preseason workloads factored into calcula-
+tions for the ACWR. Overestimation of preseason
+workloads could have resulted in underestimation ofACWRs.
+Previous researchers
+11have expressed concerns about an
+elevated load-related injury risk during winter trainingtrips. We are the ﬁrst, to our knowledge, to corroboratethese concerns with workload surveillance. Seven of the
+Figure 2. Dot-and-box plots of overall workload (km) over the
+season for student-athletes who did or did not sustain an injury. Noassociation was observed between overall workload and injury.
+Table 2. Association Between Workload Categorizations and
+Injury
+Workload
+CategorizationDemarcation
+for High
+Workload
+or ACWRNo. of High
+Workload or ACWR
+Athlete-Weeks
+(% of Total)Odds Ratio
+(95% CI)
+Acute workload 37.2 km/wk 46 (5.7) 27.1 (8.2, 89.8)a
+ACWR 1.56 49 (6.1) 25.1 (7.7, 81.4)a
+Chronic workload 37.2 km/wk 28 (3.5) 2.6 (0.3, 20.0)
+Abbreviation: ACWR, acute:chronic workload ratio.
+aP,.05.
+Journal of Athletic Training 473
+Figure 3. Distribution of (A) acute workloads, (B) acute:chronic workload ratios (ACWR), and (C) chronic workloads for all 809 athlete-
+weeks during the season, ordered from smallest to largest. Gray vertical lines denote weeks with no injury; black vertical lines denote
+weeks in which an injury occurred. Horizontal dashed lines indicate the demarcation lines for high workloads and ACWR. Injuries
+clustered toward the high acute workloads and ACWRs but not the high chronic workloads.
+474 Volume 57 /C15Number 5 /C15May 2022
+12 injuries in this study occurred during the winter
+training trip. Swimming tradition dictates that the purpose
+of the training trip is to expose the student-athletes to high
+acute workloads.11In fact, it is common practice to plan
+the highest workloads of the season for 6 weeks before theend-of-season competition.
+26Based on supercompensation
+theory, these workloads are believed to facilitate enhanced
+performance after tapering for the end-of-season compe-
+tition.1Fittingly, 35 (94.6%) of 37 student-athletes
+encountered a high acute workload ( .37.2 km/wk) during
+the training trip, and 31 (83.8%) student-athletes encoun-
+tered a high ACWR ( .1.56). Five of the 7 injuries during
+the training trip affected /C204 training days. However, the
+potential long-term effects of these injuries cannot be
+determined from these data. Regardless, these results raiseconcerns about whether the performance beneﬁts of a
+traditional training trip outweigh the increased injury
+odds.
+Because our workload data were not normally distribut-
+ed, we demarcated high workloads and ACWR via outliers.
+Ahigh ACWR was.1.56, which aligns with the danger
+zone of /C211.5 that Gabbett
+10proposed. A high acute
+workload was.37.2 km/wk; this value is similar to that
+reported by Sein et al3(35 km/wk) for an increased risk of
+supraspinatus tendinopathy. However, their metric corre-
+sponded with the average weekly workload (akin to our
+overall workload) and not acute workload. Workloadclassiﬁcations based on SDs above the mean workload or
+ACWR have been used previously.
+23Had we used 1 SD
+above the mean, our demarcations would have been lower:
+33.4 km for high acute workloads, 30.5 km for high chronic
+workloads, and 1.39 for ACWRs. These values would havereduced the associations with injury by classifying more
+athlete-weeks as high workload or ACWR without a
+commensurate increase in injuries. Given these data, we
+recommend adopting outlier-based values for high ACWR
+and high acute workload. Future authors should validate the
+demarcations from our study among larger, diverse samples
+of swimmers. Swim teams with workloads much differentfrom those of the team in this study may require different
+values. Furthermore, we caution coaches against treating
+acute workloads .37.2 km or ACWRs .1.56 as values
+student-athletes should never exceed. Instead, coaches
+should continually monitor student-athletes’ well-beingand readiness to determine whether they are prepared for
+a certain workload.
+27Methodological Considerations and Limitations
+Our injury deﬁnition yielded injury mechanisms, time
+loss, and injured body regions consistent with epidemio-logic data.
+4,28Our methodological choice to rely on coach
+and student-athlete reports yielded 11 injured participants
+(29.7% of the sample). Although a student-athlete seeking
+medical attention did not constitute an injury in our study,we asked participants whether they had done so in ourquestionnaires. Only 4 of the 11 student-athletes reportedseeking medical attention for their injury, which supportsour methodological choice of coach- and self-report. Givenour injury deﬁnition and reporting methods, overuse wasthe predominant injury mechanism, accounting for all but 1injury. This ﬁnding is consistent with observations in aprior epidemiologic study
+4of collegiate swimmers, in
+which overuse was the most common injury mechanism. In
+addition, only 3 injuries affected participation for .4 days.
+These outcomes also correspond with epidemiologic datashowing that swimming had the lowest rate of severeinjuries (based on time loss) across NCAA sports.
+28
+Because swimmers tend to continue training in the presenceof pain, however, this low severe injury rate likelyunderrepresents their prevalence of pain.
+2,3Finally, also
+in keeping with epidemiology data, the injured bodyregions we observed (shoulder, trunk, and knee) align with
+those in a previous epidemiologic report on collegiate
+swimmers.
+4Most of the swimming literature has been
+focused on the shoulder. Because nearly two-thirds ofcollegiate swimming injuries affect body regions other thanthe shoulder,
+4we recommend future investigations of
+injuries to all body regions and not just the shoulder.
+The small number of participants and injuries in this
+study meant that the 95% CIs surrounding the ORs for bothacute workload (95% CI ¼8.2, 89.8) and ACWR (95% CI ¼
+7.7, 81.4) were wide. Based on these wide CIs, readersshould interpret the magnitude of the associations we notedwith caution. To improve precision, future studies wouldbeneﬁt from multiteam samples or data from 1 team over
+several seasons. Furthermore, in addition to swimming,
+participants engaged in strength training. However, we didnot assess the possible inﬂuence of strength training oninjury. Moreover, it was not feasible to measure thestudent-athletes’ internal workload (ie, heart rate or ratingof perceived exertion), which represents their physiologicalor psychological response to imposed external workloads
+Figure 4. Compared with lower ranges of (A) acute workloads and (B) acute:chronic workload ratios (ACWRs), injury rates during the
+season increased by an order of magnitude with acute workloads .37.2 km/wk and ACWRs .1.56 (from /C201% for all lower ranges to 15%
+and 14% for the high acute workloads and high ACWRs, respectively).
+Journal of Athletic Training 475
+(distance swum).27With that said, researchers29studying
+swimmers have shown a strong correlation between rating
+of perceived exertion and distance swum ( r¼0.71).
+Nevertheless, the relationship between injury and combinedinternal and external workload in swimmers remains
+unknown. In addition, in this study, external swimming
+workloads were coach- and self-reported. In accordancewith our preliminary work verifying coach-reported
+workloads, authors
+30found that student-athletes complied
+with coach-prescribed training volume at a high rate. A lowpercentage of missing data further strengthened ourworkload data. Thus, although our data were limited to
+coach- and self-reported external swimming workloads,
+high compliance and response rates bolstered the dataﬁdelity. Finally, our analyses did not incorporate intrinsicrisk factors for injury. Given the multifactorial nature of an
+injury, a comprehensive approach to reducing risk should
+consider both extrinsic and intrinsic factors.
+31
+CONCLUSIONS
+High acute workload and ACWR were both associated
+with injury in collegiate swimmers; high overall and
+chronic workloads were not. Therefore, collegiate coachesmay prescribe high workloads spread out over the seasonwithout increased injury odds. However, they should be
+cautious in prescribing high acute workloads and high
+ACWRs. In this sample, acute workloads .37.2 km/wk and
+ACWRs .1.56 corresponded with increases in injury rates,
+from/C201% for typical workloads and ACWRs to 15% for
+high acute workloads and 14% for high ACWRs. More than
+half of the injuries occurred during the team’s wintertraining trip. These data raise concerns about the risk of
+these high acute-workload trips, particularly when they
+occur after ﬁnal examinations and winter break, which areoften periods of reduced workloads. Moreover, one-third ofthe observed injuries occurred during the ﬁrst 5 weeks of
+the season. Considering the potential inaccuracy of the self-
+reported preseason workload in this study, swimmers maystill beneﬁt from focusing on building their chronicworkload in the preseason.
+ACKNOWLEDGMENTS
+We thank the student-athletes and coaches who made this study
+possible.
+REFERENCES
+1. Chatard J, Stewart A. Training load and performance in swimming.
+In: Seifert L, Chollet D, Mujika I, eds. World Book of Swimming:
+From Science to Performance . Nova Science Publishers, Inc;
+2011:359–374.
+2. Hibberd EE, Myers JB. Practice habits and attitudes and behaviors
+concerning shoulder pain in high school competitive club
+swimmers. Clin J Sport Med . 2013;23(6):450–455. doi:10.1097/
+JSM.0b013e31829aa8ff
+3. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite
+swimmers: primarily due to swim-volume-induced supraspinatus
+tendinopathy. Br J Sports Med . 2010;44(2):105–113. doi:10.1136/
+bjsm.2008.047282
+4. Kerr ZY, Baugh CM, Hibberd EE, Snook EM, Hayden R, Dompier
+TP. Epidemiology of National Collegiate Athletic Association
+men’s and women’s swimming and diving injuries from 2009/10 to2013/14. Br J Sports Med . 2015;49(7):465–471. doi:10.1136/bj
+sports-2014-094423
+5. Drew MK, Purdam C. Time to bin the term ‘‘overuse ’’injury: is
+‘‘training load error ’’a more accurate term? Br J Sports Med .
+2016;50(22):1423–1424. doi:10.1136/bjsports-2015-095543
+6. Feijen S, Tate A, Kuppens K, Claes A, Struyf F. Swim-training
+volume and shoulder pain across the life span of the competitiveswimmer: a systematic review. J Athl Train . 2020;55(1):32–41.
+doi:10.4085/1062-6050-439-18
+7. Bradley J, Kerr S, Bowmaker D, Gomez JF. Review of shoulder
+injuries and shoulder problems in competitive swimmers. Am J
+Sports Sci Med . 2016;4(3):57–73. doi:10.12691/AJSSM-4-3-1
+8. Walker H, Gabbe B, Wajswelner H, Blanch P, Bennell K. Shoulder
+pain in swimmers: a 12-month prospective cohort study of incidence
+and risk factors. Phys Ther Sport . 2012;13(4):243–249. doi:10.1016/
+j.ptsp.2012.01.001
+9. McLaine SJ, Bird ML, Ginn KA, Hartley T, Fell JW. Shoulder
+extension strength: a potential risk factor for shoulder pain in youngswimmers? J Sci Med Sport . 2019;22(5):516–520. doi:10.1016/j.
+jsams.2018.11.008
+10. Gabbett TJ. The training-injury prevention paradox: should athletes
+be training smarter and harder? Br J Sports Med . 2016;50(5):273–
+280. doi:10.1136/bjsports-2015-095788
+11. Tate A, Harrington S, Buness M, Murray S, Trout C, Meisel C.
+Investigation of in-water and dry-land training programs for
+competitive swimmers in the United States. J Sport Rehabil .
+2015;24(4):353–362. doi:10.1123/jsr.2014-0205
+12. Peduzzi P, Concato J, Kemper E, Holford TR, Feinstein AR. A
+simulation study of the number of events per variable in logisticregression analysis. J Clin Epidemiol . 1996;49(12):1373–1379.
+doi:10.1016/s0895-4356(96)00236-3
+13. Kuppens K, Feijen S, Roussel N, et al. Training volume is
+associated with pain sensitivity, but not with endogenous painmodulation, in competitive swimmers. Phys Ther Sport .
+2019;37:150–156. doi:10.1016/j.ptsp.2019.04.001
+14. Clarsen B, Myklebust G, Bahr R. Development and validation of a
+new method for the registration of overuse injuries in sports injuryepidemiology: the Oslo Sports Trauma Research Centre (OSTRC)Overuse Injury Questionnaire. Br J Sports Med . 2013;47(8):495–
+502. doi:10.1136/bjsports-2012-091524
+15. Ristolainen L, Kettunen JA, Waller B, Heinonen A, Kujala UM.
+Training-related risk factors in the etiology of overuse injuries inendurance sports. J Sports Med Phys Fitness . 2014;54(1):78–87.
+16. Harrington S, Meisel C, Tate A. A cross-sectional study examining
+shoulder pain and disability in Division I female swimmers. J Sport
+Rehabil . 2014;23(1):65–75. doi:10.1123/jsr.2012-0123
+17. de Almeida MO, Hespanhol LC, Lopes AD. Prevalence of
+musculoskeletal pain among swimmers in an elite nationaltournament. Int J Sports Phys Ther . 2015;10(7):1026–1034.
+18. Hidalgo-Lozano A, Calder ´on-Soto C, Domingo-Camara A, Ferna ´
+n-
+dez-De-Las-Penas C, Madeleine P, Arroyo-Morales M. Eliteswimmers with unilateral shoulder pain demonstrate altered patternof cervical muscle activation during a functional upper-limb task. J
+Orthop Sports Phys Ther . 2012;42(6):552–558. doi:10.2519/jospt.
+2012.3875
+19. Su KPE, Johnson MP, Gracely EJ, Karduna AR. Scapular rotation
+in swimmers with and without impingement syndrome: practiceeffects. Med Sci Sports Exerc . 2004;36(7):1117–1123. doi:10.1249/
+01.mss.0000131955.55786.1a
+20. Tessaro M, Granzotto G, Poser A, Plebani G, Rossi A. Shoulder pain
+in competitive teenage swimmers and its prevention: a retrospectiveepidemiological cross sectional study of prevalence. Int J Sports
+Phys Ther . 2017;12(5):798–811. doi:10.16603/ijspt2017 0798
+21. Gustafsson H, Kentt ¨a G, Hassm ´en P, Lundqvist C. Prevalence of
+burnout in compet itive adolescent athletes. Sport Psychol .
+2007;21(1):21–37. doi:10.1123/tsp.21.1.21
+476 Volume 57 /C15Number 5 /C15May 2022
+22. Tate A, Turner GN, Knab SE, Jorgensen C, Strittmatter A,
+Michener LA. Risk factors associated with shoulder pain anddisability across the lifespan of competitive swimmers. J Athl Train .
+2012;47(2):149–158. doi:10.4085/1062-6050-47.2.149
+23. Hulin BT, Gabbett TJ, Lawson DW, Caputi P, Sampson JA. The
+acute:chronic workload ratio predicts injury: high chronic workload
+may decrease injury risk in elite rugby league players. Br J Sports
+Med. 2016;50(4):231–236. doi:10.1136/bjsports-2015-094817
+24. Hulin BT, Gabbett TJ, Blanch P, Chapman P, Bailey D, Orchard
+JW. Spikes in acute workload are associated with increased injuryrisk in elite cricket fast bowlers. Br J Sports Med . 2014;48(8):708–
+712. doi:10.1136/bjsports-2013-092524
+25. Impellizzeri FM, Woodcock S, Coutts AJ, Fanchini M, McCall A,
+Vigotsky AD. What role do chronic workloads play in the acute to
+chronic workload ratio? Time to dismiss ACWR and its underlying
+theory. Sport Med . 2020;51(3):581–592. doi:10.1007/s40279-020-
+01378-6
+26. Hellard P, Avalos-Fernandes M, Lefort G, et al. Elite swimmers’
+training patterns in the 25 weeks prior to their season’s bestperformances: insights into periodization from a 20-years cohort.
+Front Physiol . 2019;10:363. doi:10.3389/fphys.2019.00363
+27. Feijen S, Tate A, Kuppens K, Barry LA, Struyf F. Monitoring the
+swimmer’s training load: a narrative review of monitoring strategies
+applied in research. Scand J Med Sci Sports . 2020;30(11):2037–
+2043. doi:10.1111/sms.13798
+28. Kay MC, Register-Mihalik JK, Gray AD, Djoko A, Dompier TP,
+Kerr ZY. The epidemiology of severe injuries sustained by National
+Collegiate Athletic Association student-athletes, 2009–2010
+through 2014–2015. J Athl Train . 2017;52(2):117–128. doi:10.
+4085/1062-6050-52.1.01
+29. de Andrade Nogueira FC, de Freitas VH, Miloski B, et al.
+Relationship between training volume and ratings of perceived
+exertion in swimmers. Percept Mot Skills . 2016;122(1):319–335.
+doi:10.1177/0031512516629272
+30. Stewart AM, Hopkins WG. Swimmers’ compliance with training
+prescription. Med Sci Sports Exerc . 1997;29(10):1389–1392. doi:10.
+1097/00005768-199710000-00018
+31. Meeuwisse WH. Assessing causation in sport injury: a multifacto-
+rial model. Clin J Sport Med . 1994;4(3):166–170.
+Address correspondence to Travis R. Pollen, PhD, Department of Physical Therapy and Rehabilitation Sciences, College of Nursing
+and Health Professions, Drexel University, 1601 Cherry Street, Philadelphia, PA 19102. Address email to travis.pollen@jefferson.edu .
+Journal of Athletic Training 477

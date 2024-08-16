@@ -6,10 +6,10 @@ from langchain_core.output_parsers import StrOutputParser
 
 from basic_chain import get_model
 from rag_chain import make_rag_chain
-from remote_loader import load_web_page
+#from remote_loader import load_web_page
 from splitter import split_documents
 from vector_store import create_vector_db
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import streamlit as st
 #from st_files_connection import FilesConnection
 

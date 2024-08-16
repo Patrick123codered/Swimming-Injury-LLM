@@ -1,0 +1,502 @@
+                     VOLUME 15 | Proc 4 | 2020  |   S1187  
+ Supplementary Issue:  Summer  Conferences of Sports Science.  Costa Blanca Sports Science Events, 25-26 September  2020. Alicante , Spain . 
+ 
+Swimming, back pain and electromyography: A 
+brief review  
+ 
+CRISTIANA D'ANNA  1    , AURORA D'ALESSANDRO, RODOLFO VASTOLA  
+Department of Human, Philosophical and Educational Sciences , University of Salerno , Italy  
+ 
+ 
+ 
+ABSTRACT  
+ 
+Background: The low back is the most common site of pain in the population, especially in the adolescent 
+population. Several scientific studies in the literature focused on swimming, its effects and the relationship 
+with injuries and deformities of the spi ne. Purpose: this brief review, in an attempt to answer this question, 
+aims to compare several studies that have focused attention on the relationship between the possible 
+appearance of postural problems and swimming activity practiced at a competitive lev el. Methods: a literature 
+search was conducted for articles published between 2000 and 2020 with the exception of two pilot studies 
+from the 1990s.The review was carried out in the following databases: Web of Science, PubMed , Scopus, 
+Science Direct and Goo gle Scholar. In addition, further studies were consulted by accessing specific journals. 
+The search terms used were: swimming, electromyography, back -pain, muscles activity, scoliosis, and crawl. 
+To select the studies, the following criteria were identifie d: use of electromyography as an investigation tool; 
+sample of competitive swimmers aged between 12 and 17 years. Results: the results were summarized in a 
+table indicating authors, year of publication, objective, sample, swimming style analysed, research 
+methodology and specific results. The analysis of the literature generally shows the existence of a relationship 
+between intensity of training and the occurrence and aggravation of dysmorphisms or paramorphisms. In 
+addition, the selected studies show the i mportance assigned to core training in the prevention of postural 
+imbalances . 
+Keywords : Swimming; Back pain; Electromyography; Posture; Adolescence . 
+ 
+1 Corresponding author. Department of Human, Philosophical and Educational Sciences, University of Salerno, Italy . 
+https://orcid.org/0000 -0003 -0216 -0318  
+E-mail:  cdanna@unisa.it  
+Abstract  submitted to : Spring  Conferences of Sports Science. Costa Blanca Sports Science Events , 19-20 June  2020. Alicante, 
+Spain . 
+ JOURNAL OF HUMAN SPORT & EXERCISE ISSN 1988 -5202  
+ © Faculty of Education. University of Alicante  
+ doi:10.14198/jhse.20 20.15.Proc 4.20 
+Cite this article as:  
+D‘Anna , C., D‘Alessandro , A., & Vastola , R. (2020). Swimming, back pain and electromyography: A brief 
+review . Journal of Human Sport and Exercise, 1 5(4proc), S 1187-S119 4. 
+doi:https://doi.org/10.14198/jhse.2020.15.Proc4.20  Proceeding  
+D‘Anna , et al.  / Swimming, back pain & electromyography: Review                                  JOURNAL OF HUMAN SPORT & EXERCISE  
+S1188  | 2020 | Proc4  | VOLUME 1 5                                                                                 © 2020  University of Alicante  
+ INTRODUCTION  
+ 
+The low back is the most common site of pain in the population, especially in the adolescent population (Haus 
+& Micheli, 2012).  
+ 
+Several scientific studies in the literature focused on swimming, its effects and the relationship with injuries 
+and deformities of the spine (Martens e t al., 2015; Folkvardsen et al., 2016; Jones, 1999). For years the 
+ability to correct the postural structure of those who practice it has been attributed to swimming, but the 
+studies of the last fifty years have progressively denied this quality, highlight ing how this statement cannot 
+be subject to generalizations, but that situations must be analysed  according to specific cases. This study 
+arises from the need to understand whether swimming, practiced at a competitive level and with a certain 
+workload, can  affect the normal development of the structures and curves of the spine.  
+ 
+Research in this area began in the early 1900s, particularly in the service sector. Subsequently, the studies 
+evolved and became more and more complex, touching on different aspects , going beyond the performance 
+area alone and starting to approach the functional, physiological and sometimes clinical area.  
+ 
+The evolution of the studies is mainly to be associated with technological evolution which in this area plays 
+a role of priority importance, as the development of increasingly sophisticated technologies has allowed 
+progressively more detailed, accurate and safe observations.  
+ 
+In relation to the specific case of EMG, it is possible to note how not only observation and detection have 
+become easier, but also how the various steps have allowed new fields of applications and greater speed, 
+precision and reliability in the acquisition of data, especially as regards swimming, which certainly requires 
+the preparation of a type  of technology that is more developed than in other environments and situations.  
+ 
+The development of these studies has often raised debates related to the positive or negative effects of 
+swimming, sometimes drawing generalizations that do not take into acc ount the necessary distinctions to be 
+placed at the basis of the observation: competition and amateurism, a factor that significantly affects the 
+moment in which we intend to address the functional and physiological aspect.  
+ 
+MATERIALS AND METHODS  
+ 
+The literature analysis was mainly done using the following databases: Google Scholar, PubMed , Web of 
+Science. In addition, further studies were consulted by accessing the following specific journals: " Journal of 
+Electromyography and Kinesiology ", "The Jou rnal of Pediatric ", "International journal of sports physiology 
+and performance ", "Journal of Sports Sciences ". 
+ 
+The literature search was done using the following keywords: swimming, EMG, Back -pain, muscles activity, 
+scoliosis, crawl.  
+ 
+Once the articles t hat corresponded to these lines were collected, a new criterion was used, so as to be able 
+to highlight and select more and more accurately the articles and searches that comply with the lines 
+described below.  
+ 
+1. Period. The articles and research carried out  in the period from the 2000s to today were selected, 
+except for two studies from the last half of the 90s. The latter have been selected because they 
+D‘Anna , et al. / Swimming, back pain & electromyography: Review                                  JOURNAL OF HUMAN SPORT & EXERCISE  
+                     VOLUME 15 | Proc 4 | 2020  |   S1189  
+ represent the pilot studies for the subsequent ones, which not only laid the foundations, but also 
+provid ed what were the first insights in this direction.  
+2. Studies with EMG. The criterion subsequently applied concerns the choice of the EMG as an 
+investigation tool. In fact, those articles were chosen that used it as the main tool, in what are its 
+different fo rms and evolutions.  
+3. Age of the sample. Once the period of interest and the specific research area have been selected, 
+another selection criterion has been added, in relation to the age of the participants in the 
+observations. Studies were therefore selecte d that had subjects between the ages of 12 and 20 as 
+participants, as they were considered the most sensitive to these changes.  
+4. Competitive athletes. A further selection criterion meant that the attention referred to studies in which 
+the participants were agonists at national and international level, therefore effectively engaged in 
+competitions on a regular basis and therefore subjected to a certain type of training. And this is 
+precisely the last criterion used, that is, research  that included athletes wh o respond to a total of 
+hours of weekly training between 18 and 24 hours were taken into consideration. Some of them even 
+with multiple training sessions per day. Finally, some of the selected articles present a control group 
+consisting of non -competitive athletes, with the aim of recording whether the results achieved for 
+individual cases were actually directly related to the competitive condition or not.  
+ 
+The analysis of the literature identified through the criteria was mainly aimed at identifying the ob jectives and 
+results of these.  
+ 
+RESULTS  
+ 
+The summary table ( Table 1) summarizes the results of the review, highlighting for each study selected in 
+the literature: the intended objectives, the sample, the swimming styles under investigation, the research 
+methodology used and the results. The analysis of the literature made it possible to relate the work of different 
+scholars, who have experimented in different countries and years, but with the same intuition and often 
+converging on the results obt ained.  
+ 
+Table 1. Summary table.  
+Author  
+and Year  Target  Participants  Swimming 
+Style  Type  
+of EMG  Results  
+Ruwe  
+(1994)  Study the activity of the 
+mainly effected muscles 
+during swimming in a 
+relation with all 
+swimming styles. The 
+analysis includes a 
+comparison between 
+swimmers with and 
+without Back -Pain.  25 swimmers 
+without Back -Pain 
+and 14 swimmers 
+with Back -Pain Breaststroke  Telemetric 
+EMG  In the swimmers 
+with Back -Pain 
+situation the 
+muscles activity is 
+irregular. These 
+situations caused an 
+opposite  
+compensation to the 
+pain.  
+Verni et al.  
+(1999)  An investigation of spine 
+pain caused by 
+swimming.  14 swimmers but 
+only 7 with spine 
+pain at the 
+beginning of the 
+study.  Crawl  EMGS  Swimming 
+contributes to 
+accentuating spinal 
+deformity conditions, 
+if they aren’t well 
+treated before 
+starting a 
+competitive activity.  
+D‘Anna , et al.  / Swimming, back pain & electromyography: Review                                  JOURNAL OF HUMAN SPORT & EXERCISE  
+S1190  | 2020 | Proc4  | VOLUME 1 5                                                                                 © 2020  University of Alicante  
+ Santana  
+(2005)  Effect of Core training in 
+the competitive and not 
+competitive swimmers 
+training program.  University of 
+Florida swimming 
+team composed 
+to 24 athletes.  All EMGS  The correct 
+stimulation of the 
+core muscles allows 
+a more precise and 
+stronger technical 
+gesture.  
+Caty  
+(2007)  Study of stabilizer 
+muscles in freestyle 
+(crawl).  7 male swimmers 
+that participate to 
+international 
+competitions in 
+100 Freestyle. 
+They are to 20 at 
+22 years old.  Crawl  EMG fine 
+wire 
+telemetric  The Core is one of 
+the main stabilizing 
+areas in Freestyle.  
+Knobloch et 
+al. (2008)  Observation based on 
+the high presence of 
+injuries and Back -Pain in 
+swimmers that are 
+subject to high intense 
+training . 341 elite 
+swimmers. They 
+are to 11 at 19 
+years old.  Crawl e 
+Butterfly  EMGS  The athletes who 
+practice swimming 
+to high levels, have 
+the most risk of 
+developing Back -
+Pain conditions 
+during the training if 
+they aren’t well 
+observed too.  
+Angela  
+(2011)  Analysis of Core training 
+in a relationship between 
+performance and Back -
+Pain in swimming.  18 athletes that 
+are observed in 
+12 weeks during 
+training.  Crawl e 
+backstroke  EMGS  If there is a good 
+level of strength 
+expressed by the 
+Core, is possible 
+prevents the risk of 
+accentuating 
+situation of spine 
+deformity and also it 
+contributes to an 
+improvement of 
+performance.  
+Wanivenhaus 
+et al. (2012)  Study on swimmers that 
+have a predisposition to 
+develop pain and spine 
+deformities.  35 members of 
+Canadian O lympic 
+team.  Crawl  EMG  Subjects that have 
+slight postural 
+imbalances at the 
+beginning of the 
+sport activity are 
+more predisposed to 
+develop pain and 
+spine deformity.  
+Lauer  
+(2013)  Application and 
+coactivation of the 
+muscles that are 
+examined during 
+Frees tyle. It is based on 
+the different phases of 
+the technical gesture.  10 athletes that 
+participate at 
+international 
+competitions in 
+200 Freestyle. 
+They are to 19 at 
+22 years old.  Crawl  EMGS on -
+line The surveys of the 
+muscles activity 
+during the technical 
+gesture in the 
+swimming, It 
+highlights how the 
+Core is also 
+stressed during the 
+process of dynamic 
+balance maintaining.  
+D‘Anna , et al. / Swimming, back pain & electromyography: Review                                  JOURNAL OF HUMAN SPORT & EXERCISE  
+                     VOLUME 15 | Proc 4 | 2020  |   S1191  
+ Zaina et al.  
+(2015)  Comparison between 
+spine deformities and 
+Back -Pain.  112 teens that 
+participate to 
+swimming 
+competitions and 
+217 students that 
+practice 
+swimming as a 
+free time activity.  
+They are 
+approximately 13 
+years old.  Crawl  EMGS  Swimming can 
+increase to arise 
+spinal deformities 
+and Back -Pain 
+conditions.  
+Martens et al.  
+(2015)  Study with EMG to 
+analyse  the most 
+stressed muscles in all 
+swimming styles.  200 Athletes that 
+are divided in four 
+groups to 50 
+swimmers.  Crawl, 
+breaststroke, 
+butterfly e 
+backstroke  EMGS  The muscles that 
+most influence the 
+Postural and 
+functional aspects 
+are the muscles 
+stressed in  freestyle 
+and butterfly style.  
+Parvis et al. 
+(2016)  A study on diseases, 
+injuries and spine 
+curvatures after 
+swimming rehabilitation. 
+The study focuses the 
+attention also on 
+frequency with which 
+these conditions may 
+arise. Moreover, 
+observed the 
+relationship between the 
+intensity of movement 
+and the situation of 
+Back -Pain during the 
+sporting season.  27 competitive 
+swimmers that 
+participate to 
+international and 
+national 
+competitions.  Crawl  EMG  The research shows 
+how intense 
+swimming training 
+and ac tivity. 
+Especially after 
+rehabilitation 
+periods, increases 
+the possibility to 
+develop an irregular 
+accentuation of 
+physiological curves.  
+ 
+DISCUSSION  
+ 
+Each article has been read and studied to understand not only what the research activity was, but above a ll 
+the methodology, dynamics and context that characterized them. The choice to include articles prior to the 
+selected period, in fact, was dictated by the desire to understand what were the bases and the starting points 
+that gave rise to such an interest in research in this area. In fact, it has been noted that the intuition of these 
+articles has not proved wrong, despite the underdeveloped technologies, but on the contrary, subsequent 
+studies have corroborated the thesis already expressed, enriching it wi th further elements, which have proved 
+necessary for the understanding of these aspects. The analysis started from what was a common belief, 
+namely that swimming activity was a complete activity, but this vision soon became more and more 
+characterized by e lements that do not completely deny this perspective but do not even confirm it completely. 
+In fact, it is not wrong to define swimming as a complete sport, but in this perspective, aspects such as the 
+natural asymmetry deriving from the spontaneous domina nce of one side of the body must be considered, 
+which generates a different tone between the two parts and consequently generates different thrusts that 
+affect not only muscle development but also on the technical gesture that in the long run can, if exces sively 
+stressed, weigh on any imbalances already present at a structural level. The analysis also highlighted the 
+need for a careful medical history for each individual athlete not only in relation to research, but to be extended 
+D‘Anna , et al.  / Swimming, back pain & electromyography: Review                                  JOURNAL OF HUMAN SPORT & EXERCISE  
+S1192  | 2020 | Proc4  | VOLUME 1 5                                                                                 © 2020  University of Alicante  
+ to the entire process foll owed by competitive athletes. Furthermore, once the common elements of the 
+various studies have been collected, which have given rise to reflections such as the one just exposed, these 
+have been compared to detect any discordant elements. Once this study a nd comparison work has been 
+done, the collected data have been included in the table that represents the brief review of this work.  The 
+first articles analysed  in this study refers to the works of Ruwe (1994) and Verni et al. (1999).  Ruwe dedicates 
+his attention to a study that focuses on an observation aimed at which muscles are mainly involved in the 
+various swimming styles, taking two groups of swimmers as a study sample. The first group consisted of 
+swimmers who did not have back -pain conditions, the second group did. It is the first study in which we can 
+observe the presence of a control group, a need also linked to the need to identify whether the back -pain 
+conditions can actually be generalized to both groups or understand how often these conditions affect the 
+activities of one group or the other. In Ruwe's case, the study was carried out mainly in relation to the back 
+style, and the measurements obtained w ith the EMG methodology showed how in the case of back -pain 
+situations (therefore in the case of the second group) the activation of the muscles is irregular and it tends 
+towards an opposite compensation to pain, this inevitably leads to an asymmetrical de velopment of 
+movement and structures, aggravating what were the starting conditions. In fact, it was one of the first articles 
+to disprove what was considered the " corrective power " of swimming.  As regards the study carried out by 
+Verni et al. (1999) an in vestigation was carried out on the pains in the spine resulting from swimming. This 
+study was carried out in collaboration with Comitato Olimpico Nazionale Italiano (CONI), and in this case, we 
+are faced with an observation with a control group. Swimmers w ith spinal deformities (scoliosis, hyper 
+kyphosis and hyperlordosis) were selected, while none of the participants found similar conditions in the 
+second group. Also, in this study, the methodology used to understand the movement of muscles in relation 
+to their action on the spine is the EMG. The study was able to affirm that swimming contributes to accentuate 
+the conditions of spinal deformity, which the first group had already from the beginning of the study, in 
+particular if these are not well treated be fore the start of the competitive activity, integrating with others types 
+of work involving postural correction.  With the analysis more and more accurate and evolved with respect to 
+the studies just illustrated, Santana (2005), carries out a research on wh at are the muscles that apparently 
+do not seem involved in swimming activity, focusing her attention on the role played by the core in the 
+technical gesture. Santana, for his study will use the EMGS which will allow him to affirm, even after careful 
+observ ation also addressed to the training programs, that the correct stimulation of the core muscles allows 
+a more precise and stronger technical gesture. This will be responsible for controlling and adjusting the 
+position, so that the athlete has less effort i n finding the correct balance and therefore being able to use more 
+energy in the stroke and kick. It is precisely in relation to the concept of stability that we find the study analysed  
+later, carried out by Caty in 2007. His study focuses on the observati on of the movement stabilizer muscles 
+regarding the crawl. The athletes who took part in the study specialize in 100M freestyle and are more 
+involved in international competitions. The observation in this case was carried out with telemetry EMG and  
+has hig hlighted once again the central role of the Core in the process of stability of the movement. This 
+concept is fundamental in particular at high levels. The study published in 2011 by Angela, which through the 
+use of the EMGS, monitors the activity of the C ore, put it in relation to cases of back -pain and observing it at 
+the same time under the aspect of high performance level. In fact, at the end of her study, Angela affirms that 
+what can be defined as a good level of strength, expressed by the Core, contri butes to the prevention of the 
+risk of accentuating situations of spinal deformity and at the same time contributes to an increase in the level 
+of performance. The main reference article for what was the literature search is the one published by Jonas 
+Martens et al. in the Journal of Electromyography and Kinesiology (2015). This article aims to collect the 
+most relevant studies within the four swimming styles of the last fifty years. The study focused on the 
+observation of the muscles most involved in the f our styles, and on those that interact directly on the 
+deformities of the spine. In the same article there is a review that collects not only all the most relevant studies 
+in this area but collects all the most cutting -edge articles for each period. The au thors, as well as thanks to 
+D‘Anna , et al. / Swimming, back pain & electromyography: Review                                  JOURNAL OF HUMAN SPORT & EXERCISE  
+                     VOLUME 15 | Proc 4 | 2020  |   S1193  
+ their own observations, but also supported by the collection and analysis of previous studies, agree that the 
+muscles that most influence the postural and functional aspect are identifiable with those stressed mostly in 
+freestyl e and in the butterfly style. Furthermore, within the research, it is highlighted how intense swimming 
+sporting activity, in particular after periods of rehabilitation, increases the risk of an irregular accentuation of 
+the physiological curves, an aspect in common with the most recent article of the review of this study (Parvis 
+et al. 2016). Based on what has been stated so far, we can therefore conclude by stating that there is indeed 
+a significant relationship between all the structures of our body, as r egards the role played by muscle chains 
+and the Core, in swimming. This performs various functions including support, protection and antagonist of 
+the spinal column; it is also responsible for the adjustment function as regards movement, it is a source of 
+stability and strength. From the analysis of the literature it also emerged that as regards the deformities of 
+the spine, the onset cannot be traced back to swimming, but the same thing cannot be said for the 
+accentuation of any pre -existing conditions. Th is is the reason why integration with real forms of corrective 
+exercise, external to swimming, is recommended. Finally, the way in which the activity is approached and 
+practiced is one of the pillars of the investigation. In fact, it emerged that swimming practiced at a competitive 
+level, given the prolonged times and the intensity of training, favours  possible injuries such as the 
+consumption of cartilage and the possibility, in the long run, of favouring  back -pain conditions.  
+ 
+CONCLUSION  
+ 
+The use of electromyography, as an investigation tool to analyse  the activation of the various muscles 
+involved in the sporting gesture of swimming, brings together all the scientific studies selected in this review, 
+that compared several studies that have  focused attention on the relationship between the possible 
+appearance of postural problems and swimming activity practiced at a competitive level in agonist 
+adolescents that are between 12 to 20 years old.  
+ 
+From this brief review emerged a series of refle ctions:  
+- The analysis of the literature generally shows the existence of a relationship between training 
+intensity and the occurrence and aggravation of dysmorphisms or paramorphisms.  
+- More studies that are selected show the importance of core training in the prevention to postural 
+imbalances. The review shows that over the years (from the 90s to today) the concept of training has 
+changed considerably about swimming programs; in fact, it emerges that the most recent workouts 
+have as a priority o bjective the development of functional structures that do not have negative 
+consequences on posture in general and on the daily life of athletes.  
+- The aspect of prevention of postural imbalances is more and more central to the design of 
+competitive level tr aining.  
+ 
+In conclusion, the analysis of the literature provides the necessary data to understand how the general 
+activation of the muscles, in particular of the core, in swimming, favours  the improvement of the performance 
+level, both by activating a preve ntive action towards the maintenance of physiological curves of the spine 
+which reducing the risk of developing any pathological situations or backpain.  
+ 
+Certainly, the present study is not without its critical points. It would be interesting to look at ot her studies that 
+use different investigation tools such as kinematic analysis with inertial sensors or video analysis. Considering 
+the evidence that emerged, it is proposed to carry out a biomechanical study of the four swimming styles in 
+elite athletes th rough an integrated approach.  
+ 
+ 
+D‘Anna , et al.  / Swimming, back pain & electromyography: Review                                  JOURNAL OF HUMAN SPORT & EXERCISE  
+S1194  | 2020 | Proc4  | VOLUME 1 5                                                                                 © 2020  University of Alicante  
+ REFERENCES  
+ 
+Angela, E., 2011. Development and evaluation of a core training programme in highly trained swimmers. 
+PhD Thesis. Teesside University.  
+Caty, V., Aujouannet, Y., Hintzy, F., Bonifazi, M., Clarys, J.P. & Rouard, A. H. 2007. Wrist stabilisation 
+and forearm muscle coactivation during freestyle swimming. In Journal Electromyogr 
+Kinesiol;17:285 -91. https://doi.org/10.1016/j.jelekin.2006.02.005  
+Folkvardsen, S.,  Magnussen, E., Karppinen, J., Auvinen, J., Larsen, R. H., Wong, C., & Bendix, T. 2016. 
+Does elite swimming accelerate lumbar intervertebral disc degeneration and increase low back pain? 
+A cross -sectional comparison. In European Spine Journal, 25(9), 2849 -2855. 
+https://doi.org/10.1007/s00586 -016-4642 -x 
+Haus, B.M. & Micheli, L.J. 2012. Back pain in the pediatric and adolescent athlete. In Clin Sports Med. 
+2012 Jul;31(3):423 -40. Epub 2012 May 3. https://doi.org/10.1016/j.csm.2012.03.011  
+Jones, J. H.  1999. Swimming overuse injuries. In Physical Medicine and Rehabilitation Clinics, 10(1), 77 -
+94. https://doi.org/10.1016/S1047 -9651(18)30217 -1 
+Knobloch, K., Yoon, U., Kraemer, R., & Vogt, P. M. 2008. 200 -400 m breaststroke event dominate among 
+knee overuse injuries in elite swimming athletes. Sportverletzung Sportschaden: Organ der 
+Gesellschaft fur Orthopadisch -Traumatologische Sportmedizin, 22(4), 213 -219. 
+https://doi.org/10.1055/s -2008 -1027987  
+Lauer, J., Figueiredo., P., Vilas -Boas, J.P., Fernandes, R.J. & Rouard, A.H. 2013. Phase -dependence of 
+elbow muscle coactivation in front crawl swimming. Journal Electromyogr Kinesiol 2013;23:820 -5. 
+https://doi.org/10.1016/j.jelekin.2013.02.004  
+Martens, J., Figueiredo, P.D. & Daly, D. 2015. Electromyography in the four competitive swimming 
+strokes: A systematic review. In Journal of Electromy ography and Kinesiology, Volume 25, Issue 2, 
+April 2015, Pages 273 -291. https://doi.org/10.1016/j.jelekin.2014.12.003  
+Parvis, V., Grassini, S., Angelini, E. & Scattareggia, P. 2016. Swimming sym metry assessment via 
+multiple inertial measurements, 2016 IEEE International Symposium on Medical Measurements and 
+Applications (MeMeA), Benevento, 1 -6. https://doi.org/10.1109/MeMeA.2016.7533765  
+Ruwe., P.A., Pink, M., Jobe, F.W., Perry, J. & Scovazzo, M.L. 1994. The normal and the painful shoulders 
+during the breaststroke: electromyographic and cinematographic analysis of twelve muscles. Am J 
+Sports Med. 1994;22(6):789 -796. https://doi.org/10.1177/036354659402200610  
+Santana, J. C. 2003. The serape effect: A kinesiological model for core training. Strength & Conditioning 
+Journal, 2003, 25.2: 73 -74. https://doi.org/10.1519/00126548 -200304000 -00013  
+Verni, E., Prosperi, L., Lucaccini, C., & Fedele, L. 1999. Lumbar pain and fin swimming. In Journal of 
+sports medicine and physical fitness, 39(1), 61.  
+Wanivenhaus F, Fox AJ, Chaudhury S , Rodeo SA. 2012. Epidemiology of injuries and prevention 
+strategies in competitive swimmers. Sports Health, 4(3):246 -251. 
+https://doi.org/10.1177/1941738112442132  
+Zaina, F., Donzelli, S., Lusini, M. , Minnella, S. & Negrini, S. 2015. Swimming and Spinal Deformities: A 
+Cross -Sectional Study. In The Journal of pediatrics, 166(1), 163 -167. 
+https://doi.org/10.1016/j.jpeds.2014.09.024  
+ 
+ 
+ 
+This work is licensed under a Attribution -NonCommercial -NoDerivatives 4.0 International  (CC BY -NC-ND 4.0).  
+

@@ -1,0 +1,1675 @@
+Univ ersity of Nor th Dakota Univ ersity of Nor th Dakota 
+UND Scholarly Commons UND Scholarly Commons 
+Theses and Disser tations Theses, Disser tations, and Senior Pr ojects 
+8-2009 
+Injuries in Competitiv e Swimming: Incidence and Risk F actors Injuries in Competitiv e Swimming: Incidence and Risk F actors 
+Kristin I. Chase 
+How does access t o this work benefit y ou? Let us know! 
+Follow this and additional works at: https:/ /commons.und.edu/theses 
+ Part of the Kinesiology Commons 
+Recommended Citation Recommended Citation 
+Chase, Kristin I., "Injuries in Competitiv e Swimming: Incidence and Risk F actors" (2009). Theses and 
+Disser tations . 687. 
+https:/ /commons.und.edu/theses/687 
+This Thesis is br ought t o you for fr ee and open access b y the Theses, Disser tations, and Senior Pr ojects at UND 
+Scholarly Commons. It has been accepted for inclusion in Theses and Disser tations b y an authoriz ed administr ator 
+of UND Scholarly Commons. F or mor e information, please contact und.commons@libr ary.und.edu . 
+INJURIES IN COMPETITIVE SWIMMING: INCIDENCE AND RISK FACTORS 
+by 
+Kristin I. Chase 
+Bachelor of Science, Minnesota State University, Mankato, 2007 
+A Thesis 
+Submitted to the Graduate Faculty 
+ofthe 
+University of North Dakota 
+in partial fulfillment of the requirements 
+for the degree of 
+Master of Science 
+Grand Forks, North Dakota 
+August 
+2009 
+This thesis, submitted by Kristin I. Chase in partial fulfillment of the requirements 
+for the Degree of Master of Science from the University of North Dakota, has been read 
+by the Faculty Advisory Committee under whom the work has been done and is hereby 
+approved. 
+This thesis meets the standards for appearance, conforms to the style and format 
+requirements of the Graduate School of the University of North Dakota, and is hereby 
+approved. 
+11 
+F 
+PERMISSION 
+Title Injuries in Competitive Swimming: Incidence and Risk Factors 
+Department Kinesiology 
+Degree Master of Science 
+In presenting this thesis in partial fulfillment of the requirements for a graduate 
+degree from the University of North Dakota, I agree that the library of this University 
+shall make it freely available for inspection. I further agree that permission for extensive 
+copying for scholarly purposes may be granted by the professor who supervised my 
+thesis work or, in his absence, by the chairperson of the department or the dean of the 
+Graduate School. It is understood that any copying or publication or other use of this 
+thesis or part thereof for financial gain shall not be allowed without my written 
+permission. It is also understood that due recognition shall be given to me and to the 
+University of North Dakota in any scholarly use which may be made of any material in 
+my thesis. 
+111 
+,.. 
+TABLE OF CONTENTS 
+LIST OF FIGURES ........................................................................... V 
+LIST OF TABLES ........................................................................... vi 
+ACKNOWLEDGMENTS .................................................................. vii 
+ABSTRACT .................................................................................. viii 
+CHAPTER 
+I. INTRODUCTION ......................................................... 1 
+II. LITERATURE RE\TIEW ................................................. 7 
+III. METHODS .................................................................. 21 
+I\T. RES UL TS... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 
+\T. DISCUSSION ............................................................... 39 
+APPENDICES ................................................................................ 51 
+Appendix A: Consent Form ........................................................ 52 
+Appendix B: HIPAA Form ......................................................... 54 
+Appendix C: Medical History Questionnaire .................................... 56 
+Appendix D: Injury Report Form ................................................. 58 
+REFERENCES ............................................................................... 59 
+IV 
+LIST OF FIGURES 
+F~re ~~ 
+1. Timeline for Prospective Study... . . . .. . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .. . . . . 22 
+V 
+LIST OF TABLES 
+Table Page 
+1. Overall Injury Rates in Competitive Swimming................................... 8 
+2. A Percent Distribution of Injuries by Anatomical Location..................... 10 
+3. Injury Rates to Specific Anatomical Locations... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 
+4. Comparison of Participants Demographic Information by Means .............. 27 
+5. History of Injury: A Percent Distribution by Anatomical Location... . . . . . . . . . . 28 
+6. History of Injury: A Percent Distribution by Injury Type ........................ 28 
+7. Exposure and Injury Rate Data ...................................................... 29 
+8. A Percent Comparison by Anatomical Location .................................. 30 
+9. A Percent Comparison by Injury Type. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31 
+10. A Percent Comparison by Injury Onset ............................................ 32 
+11. A Percent Comparison of Mechanism of Injury (MOI) .......................... 34 
+12. A Percent Comparison of Time Loss............................................... 34 
+13. Risk Factors Analysis oflnjury Rate Ratios (IRRs) per 1000 Hours .......... 37 
+14. Risk Factors Analysis of Injury Rate Ratios (IRRs) per 1000 AE's ........... 38 
+15. Overall Injury Rates in Competitive Swimming (2).......................... .. 40 
+16. A Comparison oflnjury Rates in Other Collegiate Sports ..................... 42 
+17. A Percent Distribution of Injuries by Anatomical Location (2) ............... 42 
+Vl 
+r 
+ACKNOWLEDGMENTS 
+The author would like to express sincere thanks and appreciation to a number of 
+people for their contributions to this thesis study. First and foremost, a special thanks to 
+Dr. Dennis Caine for serving has my advisor and for spending endless hours looking over 
+draft after draft. Also, thanks to my other committee members, Dr. Jim Whitehead and 
+Dr. Mark Romanick, for their input in finalizing this thesis. Special thanks to Kasey 
+Young for helping out with the little things that came up and to Dr. Brett Goodwin for 
+helping me run my risk factor analysis. 
+Lastly I would like to thank my parents, Duane and Evonne Chase, for reminding 
+me daily that sometimes you just need to jump and build your wings on the way down. 
+Without you endless support and love I am not sure where I would be today. Thank you 
+for all that you have done for me both personally and professionally. 
+Vll -
+ABSTRACT 
+Objective: To study the nature and incidence rate of injuries that affect collegiate 
+competitive swimmers and to examine the relationship between these injuries and 
+specific risk factors. 
+Background: Minimal research has been conducted on swimming-related 
+injuries, with most studies being retrospective in nature. Only one study reported a 
+calculated injury rate for athletic exposures. Past research reports that the shoulder is the 
+most commonly injured location and that overuse injuries (e.g. tendonitis) is the most 
+common injury type. 
+Methods: IRB approval obtained through the University of North Dakota. 
+Swimmers from UND swim team were asked to participate. Once consent was obtained, 
+baseline data in the form of participant information and a medical history questionnaire 
+was gathered for each participant. Afterwards, the swimmers were followed for an entire 
+season to report any injuries and their exposure to swimming (attendance records, 
+yardage, etc.). Once the season was over, descriptive and analytical data analyses were 
+completed based off information obtained from the participants. 
+Results: Of the 34 participants, 20 sustained a total of 31 injuries during the study 
+period. Based on data found injury rates were calculated has being 5.55 injuries per 1000 
+AE's and 3.04 injuries per 1000 hours training. Risk factors included in this study wer~ 
+gender, years swimming competitively, history of any injury, and history of specific 
+vm 
+injury. Risk factors that remained significant in the multivariate analysis were history of 
+any injury and history of specific injury. 
+Conclusions: Injury rates reported in this study are higher than injury rates 
+reported by pervious swim-related studies. When compared to other overhead sports, 
+swimming has a lower overall injury rate. As for distribution of injuries, the data reported 
+in this study are similar to those that were reported in other swim-related studies. 
+lX 
+CHAPTER I 
+INTRODUCTION 
+In 2008, USA Swimming reported 257,163 swimmers participating in their 
+numerous swimming clubs throughout the country (USAswimming.org). Additionally, 
+during the 2005-2006 season, the National Collegiate Athletic Association (NCAA) 
+reported 18,782 student-athletes participating in collegiate swimming (NCAA.org). 
+These participation numbers demonstrate the increased popularity of competitive 
+swimming in the United States. Many researchers believe this is due to the fact that 
+swimming gives the participants both an upper and lower body workout and also 
+improves cardiovascular fitness (Fowler & Regan, 1986). Competitive swimming is 
+different from its recreational counterpart in the sense that the swimmer is training and 
+competing in numerous events throughout the season. Competitive swimming consists of 
+four different swim strokes: butterfly, breaststroke, backstroke and free style. 
+Competitive swimming was first introduced as an Olympic sport in the summer of 
+1896 (McMaster, 1996) in which three events were held (underwater swimming, 200m 
+obstacle swimming and plunge for distance) and were designed for men only. Women 
+were not allowed to participate in the Olympic Games until 1912. Unfortunately, there 
+were no rules or regulations specifically assigned to swimming during the first Olympic 
+games. However, in 1908 a world-wide swimming association was formed to identify_ 
+universal rules and regulations associated with competitive swimming. The first 
+swimming association included representatives from eight European countries including 
+1 
+Germany, Belgium, Denmark, Finland, Great Britain, Hungary and Sweden 
+(www.olympic.org). In 1937 competitive swimming became classified as an official sport 
+of the National Collegiate Athletic Association (NCAA). Today competitive swimming is 
+one of several sports offered to student-athletes at division I, II, and III colleges and 
+universities in the United States. According to the NCAA, 509 schools sponsored 
+women's competitive swim teams and 389 schools sponsored men's competitive swim 
+teams during the 2007-2008 season, totaling 19,620 student-athletes (NCAA sports 
+sponsorship and participation rates, 2009). 
+The majority of competitive swimmers begin competing between five and six 
+years of age (Jones, 1999). Depending on the swimmers age and level of participation, 
+training and competing can run 10 to 11 months each year. Collegiate competitive 
+swimmers can train between 8,000 and 20,000 yards daily and an average of20 to 30 
+hours a week (Johnson et al., 1987). In addition to water based training, collegiate 
+competitive swimmers are also required to participate in weight training regimens 
+(Kammer et al., 1999). Typically, competitive swimmers compete in 10 minor 
+competitions and 2 major competitions throughout the year (Grote, Lincoln, & Gamble, 
+2004). Overall, the majority of competitive swimmers have a career life span between 10-
+15 years (Johnson et al., 1978). 
+Given the intensive and long-term training regimens of many competitive 
+swimmers, concern has been raised regarding the incidence and severity of injury, 
+particularly overuse injury affecting this population (Johnson et al., 1987). However, 
+there have only been a handful of studies (Kennedy & Hawkins, 1974; Kennedy et al.,-
+1978; Mutoh et al., 1988; Bak et al., 1989; Grimmer et al., 1996; McFarland & Wasik, 
+1996; and Richardson, 1999) that have investigated the epidemiology of injury in 
+2 
+competitive swimming. In addition, many of the studies that have been conducted suffer 
+from methodological short-comings which include the following: 
+• The use of retrospective data collection which depends on memory 
+recall and thus has the risk of "retrospective contamination". It has 
+been shown that retrospectively collected data tend to miss the more 
+minor injuries, thereby resulting in lower overall injury rates 
+• Data sources are variable and range from self-report forms, athletic 
+trainers and therapists, physicians, and injury registries 
+• Populations were diverse with regards to level of competition, age, 
+gender, coaching techniques, and training routines 
+• Measurement bias associated with self-reporting of injuries 
+• Participants were selected non-randomly or arose from convenience 
+samples in most studies 
+• Injury rates were reported primarily as clinical incidence (i.e., injuries 
+per 100 participants) which does not account for the exposure of 
+participants to risk factors 
+• Little information on collegiate swimmers 
+• Inconsistent injury definitions across studies 
+In summary, competitive swimming is an extremely popular sport in the United 
+States. This popularity is also evident in the numerous colleges and universities across the 
+nation that sponsor competitive swimming. On average, collegiate competitive swimmers 
+train about 10 to 11 months, swim 8,000 yards daily, and compete in 12 competitions 
+throughout the year. Against this background, there is concern about the risk and severity 
+3 
+of injuries affecting collegiate swimmers. However, there is a lack of prospective 
+epidemiological research which provides these data for competitive collegiate swimmers. 
+Statement of the Problem 
+This study will attempt to determine: (a) the nature and incidence rate of injuries 
+that affect the University of North Dakota male and female competitive swimmers during 
+the 2008-2009 season and (b) the relationship between injuries affecting collegiate 
+competitive swimmers and the following potential risk factors: (i) gender, (ii) previous 
+years of competitive swimming, and (iii) previous injuries. 
+Definitions 
+Injury 
+An injury was defined as one that ( 1) occurred as a result of participation in 
+organized swimming practice or competition, (2) resulted in restriction of the student 
+athlete's participation or performance and/or (3) required the student athlete to seek 
+medical attention by a Certified Athletic Trainer or team physician. This definition is a 
+modified version of the definition used by the NCAA injury surveillance system (Dick, 
+Agel, & Marshall, 2007). 
+Exposure 
+A) A time exposure: actual duration of training in hours 
+B) An athlete-exposure (A-E) was defined as one swimmer participating in one 
+practice or competition in which he or she was exposed to the possibility of athletic 
+lll]Ury. 
+Incidence Rate 
+A) Total number of injuries per 1000 hours exposure 
+B) Total number of injuries per 1000 athlete-exposures. 
+4 
+Time Loss 
+Time loss was defined as the exact time (in days) between the original injury and 
+the return to full practice/competition. Time loss was categorized as followed: <7 days 
+(mild), 7-21 days (moderate), >21 days (severe). 
+Limitations 
+The first limitation identified in this study would be the sample chosen to 
+participate. The sample is a convenience sample since the swimmers at the University of 
+North Dakota were available to participate, accessible to the researcher, and Division I 
+caliber athletes. This sample is not necessarily an exact representation of all competitive 
+swimmers or swimmers within the NCAA organization in terms of age, level, experience, 
+injury history, etc. However, they could be considered a representative of other Division I 
+swimmers. Another limitation of this study is the length of this study. Ideally, an 
+epidemiological study of sport injuries should be conducted over several years or seasons 
+to ensure stability of data. 
+Significance of Problem 
+To date, there are only a few of epidemiological studies that have investigated the 
+incidence rate and distribution of injuries affecting competitive, collegiate swimmers. In 
+addition, there is only one study that has analyzed risk factors associated with the overall 
+incidence of injury affecting swimmers. Unfortunately, these studies suffer from 
+methodological limitations which limit the reliability and comparability of data. The poor 
+quality of the existing research combined with the large population of swimmers exposed 
+to the risk of injury underscores the need for this study. This study will be the first study 
+that is prospectively designed to identify the extent of the injury problem and test risk 
+factors related to injury in competitive, collegiate swimmers. The results of this study 
+5 
+,., 
+will contribute to the research which describes the nature and incidence of injuries 
+affecting competitive collegiate swimmers. Additionally, this research may help to 
+identify injury risk factors which if controlled could help to reduce the risk and severity 
+of injuries affecting swimmers. 
+6 
+CHAPTER II 
+LITERATURE REVIEW 
+Competitive swimming is defined as a non-contact sport that requires participants 
+to be highly dedicated and maintain an extensive dry-land and water-based training 
+regimen. On average, collegiate competitive swimmers train and compete 10 to 11 
+months out of the year and participate in roughly 10 minor and 2 major competitions 
+(Grote, Lincoln, & Gamble, 2004). A collegiate swimmer's training schedule can consist 
+of swimming between 8,000 and 20,000 yards each day and an average of 20 to 30 hours 
+a week (Johnson et al., 1987). In addition to water based training, collegiate competitive 
+swimmers are also required to participate in weight training regimens that are designed to 
+increase muscular strength and endurance (Kammer et al., 1999). This aggressive training 
+and competition schedule wears on the body making the swimmers more susceptible to 
+overuse injuries. This review will discuss the current published research on the 
+epidemiology of competitive swimming injuries according to: who is affected by injury, 
+where injury occurs, when injury occurs, outcome of injury, risk factors, inciting events, 
+and prevention. 
+Who is Affected by Injury? 
+Table 1 summarizes the studies that reported injury rates in competitive 
+swimming. Most of these studies reported the number of injuries sustained by the 
+swimmers within the study. This allowed for the calculation of overall rates per 100 
+participants, ranging from 4.5 to 194. 7 injuries per 100 participants. Unfortunately, these 
+7 
+l 
+Table 1. Overall Injury Rates in Competitive Swimming 
+Rate 
+Rate per per 
+Study Nof Nof 100 1000 
+Authors Year Design Method Gender Level Swimmers Injuries Athletes* AE 
+Kennedy et al. 1978 R s 0 35 43 122.9 
+R Q NS 2496 261 10.5 
+Mutoh et al. 1988 R Q lOF 9M E/N 19 37 194.7 
+Bak et al. 1989 R Q NS 268 100 37.3 
+Lanese et al. 1990 p IR 21F 36M C 57 29 50.9 
+Grimmer et al. 1996 R Q 193F 159M N 352 16 4.5 
+00 McFarland & Wasik 1996 L s 68F C 68 56 82.4 1.05 
+Richardson 1999 R s A 1500 886 59.1 
+A=Age Group Swimmers Study Design: R=Retrospective P=Prospective L= Longitudinal 
+C=Collegiate Swimmers Methods: Q=Questionnaire S=Survey IR=Injury Report E=Examination 
+E=Elite Swimmers 
+M=Masters Swimmers * This number was manually calculated from the data 
+N=National Swimmers 
+O=Olympic Swimmers Athlete-Exposure (AE) = 1 athlete at 1 practice or competition 
+NS=Not Specified 
+rates are difficult to compare because they do not account for the varying exposure of 
+swimmers to the risk of injury. There were several other factors which make cross-study 
+comparisons difficult. First, the competitive level of swimmers varied among studies. 
+Second, all but two studies were retrospective studies and were therefore subject to recall 
+bias. Finally, these studies either did not define injury or the injury definition varied 
+across studies. Only one study, McFarland and Wasik (1996), reported an overall 
+exposure-based injury rate of 1.05 injuries per 1000 exposures from swimming. 
+Where Does Injury Occur? 
+Anatomical Location/Injury Type 
+A summary of the distribution of injury by anatomical location is provided in 
+table 2. This research indicates that the body part most affected by injury is the shoulder, 
+ranging from 3% to 55% of all injuries (Richardson, 1999 & McFarland & Wasik, 1996), 
+followed by the back (16% to 37%) (McFarland & Wasik, 1996 & Mutoh et al., 1988) 
+then knee (5% to 28%) (Richardson, 1999 & Kennedy et al., 1978). In addition to studies 
+identifying injuries to all anatomical locations, multiple studies have looked at specific 
+anatomical injury locations. A summary of these studies is provided in table 3 and 
+described below. An important shortcoming of most of these retrospective studies was 
+that they depended on surveys therefore rendering them subject to recall bias. 
+Shoulder Injuries 
+Injuries to the shoulder complex are the most common musculoskeletal injuries 
+that affect competitive swimmers and accounted for 3-55% of all injuries (table 2). The 
+most frequently diagnosised shoulder injury is called "swimmer' s shoulder", which is -an 
+impingement syndrome that occurs when either the supraspinatus muscle tendon, biceps 
+brachii tendon or both become compressed by the acromion of the scapula making any 
+9 
+1 
+Table 2. A Percent Distribution of Injuries by Anatomical Location 
+Study Nof Nof Head/ Arm/ Thigh/ Ankle/ 
+Authors Year Design Athletes Injuries Neck Shoulder Hand Adductor Knee Foot Back Other 
+Kennedy et al. 1978 R 35 43 37 28 19 16 
+R 2496 261 31 26.8 32.5 9.7 
+Mutoh et al. 1988 R 19 37 3 31.3 3 20 5.6 37.1 
+Grimmer et al. 1996 R 352 16 47 5.8 5.8 23.5 17.4 0.5 
+McFarland & Wasik 1996 L 68 56 7 55 4 5 11 18 
+Richardson 1999 R 1500 886 26 3 18 5 32 3 13 
+Study Design: R=Retrospective L= Longitudinal 
+>--,l 
+0 
+l 
+Table 3. Injury Rates to Specific Anatomical Locations 
+%of Rate per 
+Study Specific Nof Nof Athletes 100 
+Authors Year Design Method Location Gender Level Swimmers Injuries Injured Athletes 
+Dominguez 1978 XC/R E Shoulder 133F 130M A 263 90 34.2 
+Richardson et al. 1980 XCIR Q/E Shoulder 83F 54M N 137 58 42.3 
+McMaster & Troup 1993 R s Shoulder A/E/N 1262 10-26 
+Burchfield et al. 1994 R Q Shoulder 54F 46M NS 100 29 29 
+Stocker et al. 1995 R Q Shoulder C/M 927 445 48 
+Bak & Fauno 1997 XCIR Q/E Shoulder 22F 14M N 36 49 136.1 
+McMaster et al. 1998 R Q Shoulder 13F 27M N 40 23 57.5 
+Stulberg et al. 1980 XC E Knee 14F 9M A/E 23 18 78.3 
+Rovere & Nichols 1985 R s Knee 17F 19M AIC 36 27 75 ...-...-Vizsolyl et al. 1987 R s Knee 216F 175M A 391 209 53.5 
+Hahn & Foldspang 1998 R Q Knee C 53 33 62.3 
+Loosli & Quick 1992 R Q Thigh/ Adductor 16F 14M C 30 10 33.3 
+Grote et al. 2004 R s Thigh/ Adductor 98F 198M C/N 296 21.5-42.7 
+Soler & Calderon 2000 XC E Back N 176 18 10.2 
+A=Age Group Swimmers N=National Swimmers Study Design: R=Retrospective P=Prospective XC= Cross Sectional 
+C=Collegiate Swimmers O=Olympic Swimmers Methods: Q=Questionnaire S=Survey IR=lnjury Report E=Exam 
+E=Elite Swimmers NS=Not Specified 
+M=Masters Swimmers 
+shoulder motion extremely painful and making swimming almost impossible (Johnson et 
+al., 1987). Other shoulder injuries that can affect a swimmer include directional 
+instability, glenohumeral labral injuries, brachia! plexus injuries, acromioclavicular joint 
+pain, arthritis, and rotator cuff injuries (McMaster, 1999). 
+As shown in table 3, five studies specifically studied the frequency of shoulder 
+injuries in competitive swimming with rates ranging from 42.3 to 136.1 injuries per 100 
+athletes. In one study, the majority (75%) of swimmers reported the most painful phases 
+of the stroke were the 'pull through' and 'recovery' (Richardson et al., 1980). 
+McMaster & Troup (1993) reported that the frequency of shoulder injury was 
+related to the swimmer's competitive level. Their study of 993 competitive swimmers 
+representing three competitive levels (national aged group, senior elite development 
+group, and US national swimming team) revealed that the US National team swimmers 
+had the highest percent of shoulder injuries (26%) compared to both the national aged 
+level (10%) and the senior elite level (13%) swimmers. The US National team also had 
+the highest percentage of shoulder injury history (73 % ) among the three groups 
+(McMaster & Troup, 1993). 
+Bak and Fauno (1997) performed complete physician examinations on 36 
+swimmers with a history of shoulder injuries and found that 23 swimmers had a unilateral 
+injury and 13 had bilateral injuries. Additionally, 39 of the 49 shoulders had a positive 
+Hawkins' test, 19 had a positive Neer test, and 13 had a painful arc. Each of these 
+positive tests indicates that the swimmer has some form of impingement syndrome 
+however further dialogistic tests may need to be performed. Final clinical diagnoses for 
+12 swimmers were classified as having a primary impingement and 25 swimmers were 
+classified as having a secondary impingement. 
+McMaster et al., (1998) studied 40 swimmers from the US Swimming Senior 
+National Team. Fourteen swimmers (35%) indicated a current shoulder injury in the 
+questionnaire. Nine of those swimmers expressed pain bilaterally and five had pain 
+unilaterally (McMaster, Roberts, & Stoddard, 1998). 
+Elbow Injuries 
+It is believed that the two most common elbow injuries acquired by competitive 
+swimmers are lateral epicondylitis (inflammation of the wrist extensor muscle group that 
+attaches to the lateral epicondyle) and medial epicondylitis (inflammation of the muscles 
+attached to the medial epicondyle) (Fowler & Regan, 1986). However, this literature 
+search did not reveal any studies that looked specifically at the rate or type of elbow 
+injuries in competitive swimming. 
+Thigh (Adductor) Injuries 
+As shown in table 2, thigh and adductor muscle strains have been reported to 
+account for about 5% of all injuries sustained in competitive swimming (McFarland & 
+Wasik, 1996 & Grimmer et al., 1996). Two studies (as shown in table 3) have specially 
+reported on the frequency of thigh/adductor injuries. Loosli & Quick (1992) found that 10 
+of 30 Division I swimmers had a history of or a present thigh injury. Their questionnaire 
+indicated that the most common thigh injuries were defined as adductor magnus and/or 
+brevis strains (Loosli & Quick, 1992). Grote et al. (2004) found that of the 296 swimmers 
+who mainly participated in breaststroke (n=130), individual medley (n=80), or neither 
+(n=86), those that were classified as breaststroke swimmers had a greater adductor strain 
+prevalence (6.92%) than either of the two other groups (Grote et al., 2004). 
+Knee Injuries 
+13 
+,. 
+Knee injuries account for 5-28% of all swimming injuries (table 2). Four studies 
+have looked specifically at knee injuries (Stulberg et al., 1980, Rovere & Nichols, 1985, 
+Vizsolyl et al., 1987, & Hahn & Foldspang, 1998). One study (Fowler & Regan, 1986) 
+identified "breaststroker' s knee" as the most common reported swimming related knee 
+injury. Clinically, "breaststroker's knee" occurs when the swimmer's knee is placed in a 
+maximal valgus position causing a medial collateral ligament sprain (Fowler & Regan, 
+1986). Other injuries to the knee that were identified include patellar dislocation, general 
+joint effusion, meniscus injuries, and medial synovitis (Fowler & Regan, 1986). 
+Stulberg et al. (1980) found that of 23 breaststroke swimmers surveyed, 10 
+identified a history of knee injuries relating to swimming. Further examination found 18 
+swimmers with tenderness over the medial facet of the patella and five of them also had 
+pain over the medial collateral ligament (Stulberg et al., 1980). Vizsolyi et al. (1987) 
+found that 53% of the 391 swimmers in their study had a history of knee pain and 46% of 
+the swimmers experienced most of the pain during the first part of their kick. Rovere & 
+Nichols (1985) found that swimmers who had more frequent knee pain had a smaller 
+degree of internal rotation of the tibia and a smaller Q angle than those who had 
+occasional or no knee pain (Rovere & Nichols, 1985). 
+Ankle Injuries 
+Ankle and foot injuries account for 5.7-32.5% of all injuries sustained in 
+competitive swimming (table 2). Ankle and foot injuries in competitive swimmers are 
+believed to be caused by the repetitive kicking motions (Kennedy et al., 1978). The most 
+common injuries to the ankle and foot are inflammation of the extensor retinaculum arid 
+underlying extensor muscle tendons of the distal ankle (Kennedy et al., 1978). The 
+literature search did not reveal any studies that looked specifically at the nature and 
+incidence of ankle injuries in competitive swimming. 
+Back Injuries 
+Back injuries account for 11-37% (see table 2) of all injuries sustained as a result 
+of participating in competitive swimming. Two studies look specifically at back injuries 
+(see table 3). Back injuries range from minor to major injuries. Minor back injuries such 
+as strains and spasms may force the swimmer to adjust their practice regimen by reducing 
+their yardage and/or practicing with a completely different stroke. Major back injuries, 
+such as spondylolysis and spondylolisthesis can significantly compromise the swimmer's 
+ability to practice or compete and may also require corrective surgery (Kammer et al., 
+1999). Soler et al. (2000) found the prevalence rate of spondolysis to be 10.23% among 
+176 swimmers. This is almost twice the prevalence rate of the general population which 
+is 6.0% (Verra et al., 2009). The literature search did not reveal any studies that looked at 
+the incidence of back injuries in competitive swimming. 
+Environmental Location 
+There is a lack of research reporting on the environmental location of competitive 
+swimming injuries. Swimming injuries not only occur in the swimming pool but in dry 
+land training and other associated venues as well. Richardson (1999) found that of the 
+886 injuries reported, 42% occurred in the water, 22% occurred on the pool deck, 7% 
+occurred outside the pool, 6% in the locker room, 5% in the bleachers, and 3% off the 
+blocks. McFarland and Wasik (1996) found that of the 125 injuries sustained by 68 
+swimmers between the years of 1984 and 1991, 45% were swimming-related (both 
+practice and competition) and 44% were related to cross-training. They also found that 
+injury rates related to cross-training were very similar to injury rates obtained in 
+15 
+r 
+swimming (1.07 injuries per 1000 exposures compared to 1.05 injuries per 1000 
+exposures, respectively). 
+When Does Injury Occur? 
+Injury Onset 
+It has been reported that the majority of swimming injuries are classified as 
+overuse injuries (McMaster, 1996). However there is no research that reports on the 
+relative proportions of overuse and acute injuries. 
+Chronology 
+There is very little research that investigates the timing of swimming-related 
+injuries ( e.g. timing of practice or competition, time of season, etc). Richardson (1999) 
+found that 54% of 886 injuries occurred during competition and 32% occurred during 
+practice (Richardson, 1999). McFarland and Wasik (1996) found that the most common 
+injury occurring during cross-training were leg injuries, occurring 24% of the time. As 
+for specific injuries, most swimmers (83%) stated that the shoulder pain was more 
+bothersome during the first and middle parts of the season (Richardson et al., 1980). 
+What is the Outcome? 
+Time Loss 
+Richardson et al. (1980) found that of the 5 8 swimmers, who complained of 
+shoulder pain during the physician-based examination, 43 swimmers had to reduce their 
+daily swimming yardage and 21 were forced to stop training all together. Grote et al., 
+(2004) found that swimmers with thigh injuries missed on average 7-12 practices each 
+season depending on their stroke preference. They also found that breaststroke swimmers 
+were more likely to miss practice because of adductor pain ( 42. 7%) and missed an 
+average of 11.5 practices a season (Grote et al., 2004). 
+16 
+r 
+The South Australian Branch of Sports Medicine found that 75% of the total 
+injuries sustained by 3 52 national swimmers were classified as minor injuries that did not 
+restrict the swimmer from participating in competitions and practices, and 12.5% were 
+considered major injuries requiring the swimmer to leave the competition and not finish 
+(Grimmer et al., 1996). 
+Finally, Stocker et al. (1995) found that 47% of 532 collegiate swimmers and 
+48% of 395 master swimmers had a history of shoulder pain that lasted three or more 
+weeks and that it was severe enough to force the swimmer to change his/her swimming 
+routine or stop swimming altogether. 
+Clinical Outcome 
+Stoker et al. (1995) gave 532 collegiate swimmers and 395 master swimmers 
+questionnaires to determine prevalence of shoulder pain. The results showed that 
+collegiate swimmers (55%) were more likely to seek medical attention about their 
+shoulder pain than master swimmers (39%). The results from this study suggest that the 
+prevalence rate of shoulder pain does not change as the swimmer gets older and that 
+shoulder pain can similarly affect both groups ability to swim (Stoker et al., 1995). 
+However, this study did not account for any collegiate or master swimmers who dropped 
+out of participating because of an injury (i.e. study of survivors only). 
+The literature search did not reveal any studies that reported information on 
+catastrophic injuries, residual effects of injuries, recurrent injuries, or injuries that force 
+the competitive swimmer to drop out of participation. 
+What are the Risk Factors? 
+Intrinsic 
+17 
+To date the only intrinsic risk factor that has been examined has been gender. 
+Sallis et al. (2001) found that female swimmers were more likely to sustain an injury than 
+male swimmers (47.08% compared to 12.37%, p< 0.0001). The study also reported 
+gender differences in specific injuries related to anatomical location. Female swimmers 
+were more likely to sustain injuries to the shoulder (21.05% vs. 6.55%, p<0.01) and knee 
+(5.85% vs. 1.45%, p<0.01) compared to their male counterparts. Both factors were 
+statistically tested using Fisher's exact test in SPSS. A short-coming of this study, 
+however, was that it did not use exposure-based injury rates as a basis for testing risk 
+factors nor did it account for other risk factors that may help explain differences. Other 
+than this study, the literature search did not reveal any studies that tested the relationship 
+between intrinsic risk factors and the incidence of injuries in competitive swimming. 
+Some additional intrinsic risk factors of interest may include: injury history, a positive 
+musculoskeletal assessment, and percentage of body fat. 
+Extrinsic 
+The literature search did not reveal any studies that tested the relationship 
+between extrinsic factors and swimming injuries. Extrinsic risk factors of interest may 
+include swimming classification (high school or club swimmers), yardage, years of 
+experience in competitive swimming and coaching qualifications. Equipment that may 
+relate to increased risk of injury includes the use of hand paddles, kick boards, and 
+flippers. 
+What are the Inciting Events? 
+Since swimming is such a highly repetitive sport, it is no surprise that the majority 
+of the injuries occurring in swimming are classified as overuse injuries. The high 
+prevalence of shoulder pain is symptomatic of the excessive wear and tear that the 
+18 
+r 
+shoulder complex must endure during swimming. On average, each shoulder goes 
+through more than one million revolutions during each competitive season (Johnson, 
+2003). Elbow injuries are similar since they are also caused by repetitive motions, in 
+particular the high elbow position during the pull phase of the butterfly, breast, and free 
+style strokes. Research has demonstrated that swimmers who experience these elbow 
+injuries have been known to compensate by dropping their elbow into the water which 
+places more pressure on the shoulder, and makes the swimmer more susceptible to 
+shoulder pain and inflammation (Fowler & Regan, 1986). 
+Lower extremity injuries occur in swimmers because of the repetitive leg motions 
+generated by forceful kicks they complete in order to propel themselves forward in the 
+water (Richardson, 1987). When the kick is performed multiple times during a practice or 
+competition, an excessive valgus force begins to affect the medial collateral ligament 
+(MCL) of the knee and an inflammatory response occurs causing pain and discomfort. 
+Ankle injuries are caused by the extreme plantarflexion of the ankle during each 
+kick cycle, stretching the tendons and retinaculum beyond their normal limits (Kennedy 
+et al., 1978). 
+Future Research 
+The need for future research in the area of injuries in competitive swimming 
+arises from the gaps in the current research. These are as follows: 
+• Overall injury occurrence: (not specific anatomical locations) especially 
+research that identifies overall injury rates that relate to time exposures (# 
+of injuries per 1000 hours swimming or AEs). In addition, a more in-depth 
+look at the timing of these injuries should also be included in research on 
+overall injury rates. 
+19 
+• The lack of prospective designed studies: the majority of past research is 
+retrospective in nature and dependent on questionnaires (i.e. subject to 
+recall bias). 
+• Prevalence of pain and how it relates to injury occurrence: research in this 
+area would also help in gathering further information about injury onset as 
+it relates to swimming injuries. 
+• Injury outcomes: including time loss associated with injury, the clinical 
+outcomes of injuries (includes information of catastrophic injuries, 
+residual effects of injuries, recurrent injuries, dropping out of participation 
+due to injury), and economic cost associated with injury. 
+• Studying risk factors associated with injuries is important because if a risk 
+factor has been shown to relate to increased risk of injury steps can be 
+taken to reduce or eliminate this risk factor. Examples of possible intrinsic 
+risk factors include injury history, a positive musculoskeletal assessment, 
+gender, and percentage of body fat. Examples of extrinsic risk factors 
+include swimming classification (high school or club swimmers), yardage, 
+and years in competitive swimming. 
+20 
+CHAPTER III 
+METHOD 
+Participants 
+In this study all participants were swimmers for the University of North Dakota 
+Division I swimming team. Consent was obtained from each participant in writing, giving 
+his/her approval to participate in the study and for access to their medical files from the 
+UND Athletic Training Room. This sample is considered a sample of convenience. The 
+number of participants is based on the number of swimmers who agreed to participate 
+and maintained participation through out the entire study. 
+Study Design 
+As shown in Figure 1, the study was prospective cohort in nature. Baseline data, 
+which consists of demographic information and injury history was gathered on the 
+participants prior to the start of the competitive season. Afterward, the participants were 
+monitored forward in time for the duration of the regular swimming season ( 6 months) to 
+determine the nature and incidence of injuries. Injury was defined as one that (1) 
+occurred as a result of participation in organized swimming practice or competition, (2) 
+resulted in restriction of the student athlete's participation or performance and/or (3) 
+required the student athlete to seek medical attention by a Certified Athletic Trainer or 
+team physician. Following injury surveillance, data were analyzed to determine incidence 
+rate and distribution of injuries. Additionally, incidence rate was used as a basis for 
+analyzing risk factors. 
+21 
+Baseline 
+Injury 
+Surveillance 
+Data Analysis + -·-·-·-·~ ---~ 
+Aug Sept Oct Nov Dec Jan Feb Mar Apr Jun 
+Figure One. Timeline for Prospective Study 
+Instruments and Procedures 
+Pre-season 
+Approval to conduct this study was obtained from the University of North Dakota 
+Institutional Review Board. Each participant signed a consent form (Appendix A) that 
+outlines the requirements of the study and a Health Insurance Portability and 
+Accountability Act (HIP AA) form (Appendix B) that allowed the researcher to look into 
+participant's medical records in the UND Athletic Training Room. On September 8, 2009 
+baseline data were collected from each participant including basic demographic 
+information such as age, gender, swimming experience, competitive level, past training 
+regimen, and past injury history. For the majority of the swimmers (those that were with 
+UND during the 2007-2008 season) information pertaining to past injury history was 
+supplemented using their medical records from the UND Athletic Training Room. This 
+injury surveillance portion of the study began the first day the UND swim team started 
+regular season practice (September 9, 2008). 
+Pre-participation Examination 
+Before any swimmer was able to start practicing, he/she was required to complete 
+a pre-participation exam with the UND athletic training staff. This exam included a brief 
+medical history questionnaire, anthropometric measurements (height and weight), a brief 
+22 
+musculoskeletal assessment, and a section to be completed by the team physician. This 
+form varied slightly for returning swimmers versus new (freshman) swimmers. This 
+variation shortened the musculoskeletal assessment and physician section for the 
+returning swimmers. The information from pre-participation exams was used to assist in 
+identifying any previous injuries that affected the swimmers. 
+Medical History Questionnaire 
+Swimmers were asked to complete a medical history questionnaire (Appendix C) 
+which was dispensed to each individual swimmer during a 30-minute meeting held by the 
+researcher. This questionnaire prompted the swimmers to provide information about their 
+swimming experience and about the injuries that they incurred during the past twelve 
+months. Information provided in this questionnaire was be used in the study to help 
+determine whether previous injury was a risk factor for new injury. 
+Competitive Season 
+Injury data 
+An injury report form was designed (Appendix D) to record all injuries that the 
+swimmer identified throughout the course of the study. This form is a modification of the 
+form used by the NCAA Injury Surveillance System, and was modified to record 
+swimming-related injuries. The injury report form is intended to provide an in-depth look 
+at the injury including anatomical location, injury onset, injury mechanism, type of 
+injury, timing of injury, and time lost from injury. 
+Injury incidence information was obtained as follows: (1) each week the 
+researcher asked the Certified Athletic Trainer assigned to swimming if there were any 
+new injuries, (2) the researcher attended practice once a week to see if there were any 
+new injuries that were affecting the swimmers and to see how past injuries were 
+23 
+,.. 
+progressing, and (3) the swimming coach was contacted weekly and asked about 
+swimmers who had not been practicing or had limited practice due to an injury. If the 
+researcher was informed of any new injuries an injury report form was filled out. If the 
+swimmer was unavailable at practice the researcher emailed the swimmer immediately 
+after practice to enable completion of the injury report form. 
+Exposure data 
+In addition to collecting information about injury incidence the researcher also 
+collected data that pertained to the swimmers' exposure time. The swimmers were asked 
+to complete a weekly training log to track their attendance, time spent training, and 
+yardage. The weekly training log was distributed to the swimmers through a packet given 
+to them at the beginning of the study. However, there were several compliance issues 
+which arose throughout the study. As a result, exposure data including attendance 
+records, daily yardage, and length of practices (in hours) were obtained from the head 
+coach. 
+Data Analysis 
+The study concluded at the end of the regular competitive season. When the study 
+was finished the researcher made sure that all the injury and exposure data forms were 
+completed for each swimmer. Once all data forms were completed, data from the entire 
+study was entered into an Excel spread sheet to assist in transferring the data into a 
+statistical package. Once the data were entered, various measures of central tendency 
+were calculated and recorded into table format. In addition, both descriptive and 
+analytical analyses were performed. 
+Descriptive Data Analysis 
+24 
+r 
+A descriptive analysis of data was ran to determine the rate and nature of injuries 
+that affected the swimmers during an entire season (6 months). Two injury rates were 
+calculated: (1) by dividing the total number of injuries sustained by the total number of 
+hours trained, then multiplying this figure by 1000. This approach yielded an injury rate 
+per 1000 hours exposure, and (2) by dividing the total number of injuries sustained by the 
+total number of athletic exposures, then multiplying this figure by 1000. This approach 
+yielded an injury rate per 1000 athletic exposures. In addition information on injury 
+distribution ( e.g. location, type) was calculated in terms of numbers and relative 
+percentage of injuries. The frequencies and compute variable procedures in SPSS 16 
+(SPSS Inc: Chicago, IL) were used to determine the number, percentage, rate of injuries, 
+and 95% confidence intervals. 
+Rick Factor Analysis 
+A Poisson regression model was fitted using generalized estimating equations 
+(GEE) to estimate incidence rate ratios (IRR, 95% CI). The swimmer's individual injury 
+rates were used as outcome variables. Predictor variables included gender, previous 
+injury to same anatomical location, previous injury at other sites, and years swimming 
+competitively. Each of these predictors was entered separately in an unadjusted model to 
+estimate injury rate ratios (IRR's) for each risk factor. In addition, the risk factors were 
+also entered into an adjusted model to compare risk factors to each other. All risk factors 
+were included in the adjusted model because of the small sample size and few risk 
+factors. The Poisson regression procedures in statistical package R (R Development Core 
+Team: Auckland, New Zealand) was used to compute the IRR's in both the unadjusted 
+and adjusted analysis. 
+25 
+r 
+CHAPTER IV 
+RESULTS 
+Descriptive Results 
+Demographic Information 
+Baseline data collection began on September 8, 2008, following a preseason 
+practice. At that time forty-three swimmers were asked to participate in this study. Those 
+interested in participating were asked to complete a participant information form and 
+medical history questionnaire that asked about any swim-related injuries sustained during 
+the past 12 months. Table four summarizes the participant's demographic information. Of 
+the thirty-four swimmers who agreed to participate, 16 were male (47.1 %) and 18 female 
+(52.9%), with an overall mean age of 19.47 years (SD= 1.461 years). There were 17 
+freshman (50% of the total participants), 6 sophomores (17.6%), 6 juniors (17.6%), and 5 
+seniors (14.7%). Nine swimmers decided not to participate in this study, of which 6 were 
+female swimmers and 3 were male swimmers. In addition, five of the 9 were seniors in 
+college and four were freshman. 
+Additional demographic information obtained included the age that participants 
+started swimming competitively, how many years they had been swimming, and how 
+many competitions they had completed in during the past twelve months. As shown in 
+table 4 the mean age started swimming was slightly higher in male swimmers (M= 8.75 
+yrs) than in female swimmers (M=8.22 yrs). But the total number of years swimming was 
+slightly higher in female swimmers (M=l 1.11 yrs) than male swimmers (M= 10.88 yrs). 
+26 
+Lastly, male swimmers on average participated in more competitions during the past 12 
+months than their female counterparts (M= 12.44 competitions compared to M=l 1.28 
+competitions). 
+Table 4. Comparison of Participants Demographic Information by Means* 
+Variable 
+Number 
+Age (years) 
+Height (inches) 
+Weight (lbs) 
+Age Started 
+Years Swimming 
+# of Competitions 
+(Previous 12 months) Male 
+16 
+19.62 [18-23] 
+72.31 (2.63) 
+176.38 (16.88) 
+8.75 [3-16] 
+10.88 ( 4.29) 
+12.44 Female 
+18 
+19.33 [18-22] 
+66.39 (2.91) 
+142.67 (17.78) 
+8.22 [4-12] 
+11.11 (2.59) 
+11.28 Total 
+34 
+19 .4 7 [ 18-23] 
+69.18 (4.06) 
+158.53 (24.16) 
+8.47 [3-16] 
+11 (3.44) 
+11.82 
+*Mean values are noted with ranges in brackets and standard deviation in 
+parentheses 
+Injury History 
+In addition to the demographic information, information on medical history of 
+swim-related injuries from the past twelve months was obtained. Seventeen of the 34 
+(50%) swimmers, including 7 males and 10 females, reported a total of 23 injuries in the 
+12 months prior to completing the questionnaire. Nine injuries were sustained by male 
+swimmers and 14 injuries were sustained by female swimmers. A percent distribution of 
+anatomical location of these injuries is provided in table 5. The most common anatomical 
+locations were the shoulder, accounting for 11 (47.9%) injuries and the knee accounting 
+for 5 (21.8%). 
+A percent distribution of injuries by injury type is provided in table 6. As shown, 
+the most common type of injury sustained in the year prior to the swim season was 
+shoulder impingement, accounting for 11 (47.8%) injuries followed by patellar tendonitis 
+accounting for 5 injuries (21.8%). 
+27 
+r 
+Table 5. History of Injury 
+A Percent Distribution by Anatomical Location 
+Location Total N of Injuries % of Total Injuries 
+Neck 1 4.3 
+Shoulder 11 47.9 
+Low Back 2 8.7 
+Thigh 1 4.3 
+Knee 5 21.8 
+Ankle 2 8.7 
+Upper Leg 1 4.3 
+Total 23 100 
+Table 6. History of Injury 
+A Percent Distribution by Injury Type 
+Location N of Injuries % of injuries 
+Neck Strain 1 4.3 
+Shoulder Impingement 11 47.9 
+Low Back Strain 2 8.7 
+Femur Fracture 1 4.3 
+Patellar Tendonitis 5 21.8 
+Sprained Ankle 4.3 
+Ankle Tendonitis 1 4.3 
+Hamstring Strain 1 4.3 
+Total 23 100 
+Injury Rates 
+The prospective portion of this study began on September 9, 2008, which was the 
+first day of the regular swimming season. During the study period (9/9/09 -2/28/09), 
+exposure data were gathered from the following sources: practice attendance records, 
+training logs (yardage per practice), length of training sessions, and injury report forms 
+for injuries sustained during the study period. From these data, the researcher was abk to 
+determine number of athletic exposures (AEs) accumulated by each participant during the 
+season, an estimated number of yards that each swimmer completed during practices 
+28 
+throughout the season (based on coach records), how many injuries each participant 
+sustained, and extensive information on the nature of injuries sustained. 
+The exposure and injury data are summarized in Table 7. Examination of this 
+table reveals that there were a total of 5,585 athletic exposures accumulated by the 34 
+swimmers. Of the 5,585 athletic exposures, practice accounted for 5,206 AEs and 
+competitions accounted for 3 79 AEs. As for yardage, the participants swam a combined 
+total of 22,346,909 yards during practice throughout the season. In addition, the 
+participants accumulated an estimated 10,180 hours of practice time. 
+Table 7. Exposure and Injury Rate Data 
+Rate Rate 
+per per 
+No. of 1000 95% CI 1000 95%CI 
+Subjects n Injuries AE's AE's (low/high) Hours Hours (low/high) 
+Male 16 13 2614 4.97 2.16/8.10 4752.9 2.74 l.16/4.49 
+Female 18 18 2971 6.06 3. l 7/10.22 5427.8 3.32 1.72/5.58 
+Overall 34 31 5585 5.55 3. 73/8.18 10180.7 3.04 2.04/4.49 
+AEs = Athlete Exposures (One Athlete Swimming in One Practice or Competition) 
+As shown in Table 7, twenty of the 34 participants (58.8%) sustained a total of 31 
+injuries during the study period. Of the 31 injuries sustained 13 injuries were incurred by 
+9 male swimmers and 18 injuries were incurred by 11 female swimmers. Fourteen 
+swimmers (41.2%) did not sustain an injury during the season, 11 swimmers (32.4%) 
+sustained one injury, 8 swimmers (23.5%) sustained 2 injuries, and one swimmer (2.9%) 
+sustained four injuries. 
+Two different injury rates were calculated. The overall injury rate for athletic 
+exposures was 5.55 injuries per 1,000 athletic exposures. All injuries were sustained 
+29 
+r 
+during practice and training sessions therefore a separate injury rate for practice and 
+competition AEs was not calculated. The overall injury rate for hours practiced was 3.04 
+injuries per 1,000 hours practiced. Injury rates were higher for female swimmers, both 
+when rates were calculated with reference to AEs (6.06 vs. 4.97) and hours of practice 
+(3.32 vs. 2.74). However the differences were not significant. 
+Injury Location 
+Table 8 displays a percent comparison of injuries by anatomical location and 
+gender. The most common locations were shoulder accounting for 12 injuries (38.7%), 
+back for 5 injuries (16.1 %), and knee for 4 injuries (12.9%). The most common 
+anatomical location for both male and female swimmers was the shoulder, accounting for 
+6 injuries each. However, the second most common anatomical location for male 
+swimmers was the back (3 injuries) whereas it was the ankle for the female swimmers ( 4 
+injuries). 
+Table 8. A Percent Comparison by Anatomical Location 
+Location Overall Males Females 
+N % N % N % 
+Neck 1 3.2 0 0 1 5.6 
+Shoulder 12 38.7 6 46.2 6 33.3 
+Back 5 16.1 3 23.0 2 11.1 
+Knee 4 12.9 1 7.7 3 16.7 
+Ankle 4 12.9 0 0 4 22.2 
+Upper Leg 3 9.7 1 7.7 2 11.1 
+Groin 2 6.5 2 15.4 0 0 
+Total 31 100 13 100 18 100 
+Injury Type 
+A percent comparison of the specific type of injury sustained by the participants 
+in this study is shown in table 9. Injury type is defined as the exact injury that the 
+30 
+r 
+participant was diagnosed as having by the Certified Athletic Trainer or team physician. 
+The most common injury type was shoulder impingement which accounted for 6 injuries 
+(19.4%). Shoulder impingement/bicipital tendonitis was the second most common injury 
+type. This injury type was sustained by 5 participants and accounted for 16.1 % of the 
+total injuries. Another common injury type was ankle tendonitis. This injury type was 
+found in 4 swimmers and accounted for 12.8% of all the injuries. 
+Table 9. A Percent Comparison by Injury Type 
+Injury Ty2e Overall Males Females 
+N % N % N % 
+Tendonitis 18 58 6 46.2 12 66.6 
+Shoulder Impingement 6 19.4 4 30.8 2 11.1 
+Bicipital Tendonitis 1 3.2 7.7 0 0 
+Bicipital Tendonitis & Impingement 5 16.1 1 7.7 4 22.2 
+Patellar Tendonitis 2 6.5 0 0 2 11.1 
+Ankle Tendonitis 4 12.8 0 0 4 22.2 
+Strain 11 35.5 6 46.1 5 27.8 
+Back Strain 5 16.1 3 23.0 2 11.1 
+Neck Strain 1 3.2 0 0 1 5.6 
+Hamstring Strain 3 9.7 1 7.7 2 11.1 
+Groin Strain 2 6.5 2 15.4 0 0 
+Sprain 2 6.5 1 7.7 5.6 
+LCL Sprain 2 6.5 1 7.7 1 5.6 
+Total 31 100 13 100 18 100 
+Table 9 also shows a percent comparison of injury type by gender. The most 
+common injury type for male swimmers was shoulder impingement, which accounted 4 
+of the 13 injuries (30.8%). Back strains were the second most common injury type in 
+male swimmers, which accounted for 3 of the 13 injuries (23.1 %). As for female 
+swimmers, the most common injury types were ankle tendonitis and the combination 9f 
+shoulder impingement and bicipital tendonitis, each accounting for 4 of the 18 injuries 
+31 
+r 
+(22.2%). These were followed closely by shoulder impingement, patellar tendonitis, back 
+strain, and hamstring strain, each accounting for 2 injuries (11.1 % ). 
+Injury Onset 
+Injury onset is typically divided into two main categories: acute and overuse 
+injuries. Acute injuries are classified as those that occur suddenly without prior pain or 
+discomfort (i.e. MCL sprain) and overuse injuries are those that occur as a result of 
+repetitive motion and/or impact on the particular area and usually occur with gradual 
+increase in pain and discomfort (i.e. bicepital tendonitis). It is thought that because of 
+swimming's highly repetitive nature, more overuse injuries will be sustained than acute 
+injuries. As shown in Table 10, overuse injuries occurred more frequently, accounting for 
+18 of the 31 injuries (58.1 %). Acute injuries accounted for 13 injuries ( 41.9%). Of the 13 
+injuries sustained by male swimmers, acute onset injuries were more common, 7 injuries 
+(53.8%), compared to overuse injuries, 6 injuries (46.2%). In female swimmers overuse 
+onset, with 12 injuries (66.7%) was twice as frequent as acute onset, with 6 injuries 
+(33.3%). 
+Table 10. A Percent Comparison of Injury Onset 
+Injury Onset Overall Males Females 
+N % N % N % 
+Acute 13 41.9 7 53.8 6 33.3 
+Overuse 18 58.1 6 46.2 12 66.7 
+Total 31 100 13 100 18 100 
+Further analysis shows that all 12 shoulder injuries (66.7% of all overuse injuries) 
+were classified as overuse injuries, making it the most common anatomical location fo! 
+overuse injuries. As for acute injuries the back was the most common anatomical location 
+with 5 injuries (38.5%). In addition, the most common overuse injury was shoulder 
+32 
+r 
+impingement, 6 injuries (33.3%). Back muscle strains (5 injuries [38.5%]) were the most 
+common acute injury. 
+Injury Classification 
+Injury classification was used to differentiate if the injury was a new injury or if 
+the swimmer had previously experienced a similar injury. The three categories that were 
+used to classify an injury were: (1) new injury, (2) recurrence of injury from previous 
+swim season, and (3) recurrence of injury from the current season. For the purpose of this 
+study, recurrence of injury was defined an injury that occurs to the same body part and is 
+the same injury type as one that had previous occurred. However, in many cases a re­
+injury is more severe than the first injury. 
+The most common injury classification was new injury, accounting for 19 injuries 
+(61.3%). Of those injuries 7 were sustained by male swimmers and 12 by female 
+swimmers. The second most common injury classification was recurrence of injury from 
+previous season, accounting for 10 injuries (32.2%). Lastly two injuries (6.5%) were 
+classified as a repeat injury from the current season. 
+Mechanism of Injury 
+During the study period there were three distinctive injury mechanisms: (1) 
+repetitive motion, (2) weight lifting, and (3) dry-land training, such as running and 
+agility. However, an additional category (no specific reason) was added for those injuries 
+where the swimmer was unable to identify a specific injury mechanism. Table 11 
+displays a percent comparison of mechanism of injury. Overall, the most common 
+mechanism was repetitive motion which accounted for 19 of the 31 injuries (61.3%) -
+sustained during the season. In addition, repetitive motion was the most common 
+mechanism for both male (10 injuries) and female (9 injuries) swimmers. 
+33 
+Table 11. A Percent Comparison of Mechanism of Injury (MOI) 
+MOI Overall Males Females 
+N % N % N % 
+No Specific Reason 5 16.1 2 15.4 3 16.7 
+Repetitive Motion 19 61.3 10 76.9 9 50.0 
+Weight Lifting 3 9.7 1 7.7 2 11.1 
+Dry-land Training 4 12.9 0 0 4 22.2 
+Total 31 100 13 100 18 100 
+Time Loss 
+For this study, time loss was calculated based on the number of practices that the 
+swimmer either missed completely or did not participant in fully because of an injury. 
+The time loss was divided into three main categories: less than 7 days, 7-21 days, and 
+more than 21 days. Table 12 shows a percent comparison of time loss associated to 
+injuries. The most common time loss category was less than 7 days, which accounted for 
+18 injuries (58.1 %). Of those 18 injuries, 8 occurred to male swimmers (61.5% of all 
+male injuries) and 10 occurred to female swimmers (55.6% of all female injuries). 
+Table 12. A Percent Comparison of Time Loss 
+Time Loss Overall Males Females 
+N % N % N % 
+Less than 7 Days 18 58.1 8 61.5 10 55.6 
+7 to 21 Days 6 19.3 3 23.1 3 16.6 
+More than 21 Days 7 22.6 2 15.4 5 27.8 
+Total 31 100 13 100 18 100 
+Further analysis shows that the back and ankle, each accounting for 4 injuries 
+(22.2%) are the most common injury locations for the time category of less than 7 days. 
+These are followed by the shoulder and knee, accounting for 3 injuries each (16. 7% ). In 
+the more than 21 days time loss category, the shoulder was the most common injury 
+location accounting for 6 injuries (85.7%). 
+34 
+r 
+As for injury type, ankle tendonitis and back strain were the most common injury 
+type for the less than 7 days time loss category. As for the second category (7-21 days), 
+shoulder impingement was the most common injury type, accounting for 2 of the 6 
+injuries (33.3%). Additionally, the two most common injury types for the more than 21 
+days lost were shoulder impingement and the combination of bicepital tendonitis and 
+shoulder impingement, each accounting for 3 of the 7 injuries (42.9%). Lastly, both 
+overuse (8 injuries ( 44.4% )) and acute injuries (10 injuries (76.9% )) were more 
+frequently related to fewer than 7 days of time loss than the other two categories. 
+Risk Factor Data Analysis 
+Risk factors of interest in this study included gender, years swimming 
+competitively, a history of injury to any body part, and a history of injury to the same 
+body part that was injured in the study. These risk factors were analyzed in both an 
+unadjusted (risk factors analyzed alone) and adjusted (risk factors analyzed with others) 
+Poisson regression model that was fitted using general estimating equations to estimate 
+incidence rate ratios. Any risk factors that had a p-value of< .02 were considered 
+statistically significant. 
+Table 13 shows both the unadjusted and adjusted results of the regression and 
+identifies the injury rate ratio per 1000 hours training for each risk factor. History of any 
+injury and history to a specific body part were found to be statistically significant. Having 
+a history of any injury was associated with nearly four times increase in injury rate (IRR= 
+3.79, 95% CI= 1.59, 9.05) than not having a history of injury, before adjusting for the 
+other factors. This number decreases (IRR= 2.86, 95% CI= 1.23, 6.64) after adjustment 
+for other factors. As for swimmers with a history of injury to the same specific body part 
+the unadjusted injury rate was almost two and halftimes higher (IRR= 2.42, 95% CI= 
+35 
+r 
+1.73, 3.40) than for those that did not have a history. When this risk factor is adjusted to 
+account for the other risk factors, swimmers with a specific history of injury had more 
+than one and halftimes the risk (IRR=l.67, 95% CI= 1.21, 2.31) of injury than those that 
+did not have this history. 
+Both gender and number of years competing in swimming were found to be 
+statistically non-significant predictors of injuries. However, male swimmers were found 
+to be less likely to sustain an injury than female swimmers in both the unadjusted (IRR= 
+0.69, 95% CI= 0.34, 1.42) and adjusted (IRR= 0.78, 95% CI= 0.49, 1.23) models. 
+However, these differences were not tested statistically. 
+As for injury rate ratios per 1000 AEs, Table 14 shows both the unadjusted and 
+adjusted analysis of the risk factors. Similar to the rates per 1000 hours, history of any 
+injury significantly increased the swimmer's rate of injury more than three and a half 
+times (IRR= 3.64, 95% CI= 1.51, 8.73) in the unadjusted model and more than two and a 
+half times (IRR= 2. 74, 95% CI= 1.18, 6.3 7) after adjusting for the other risk factors. In 
+addition, history of injury to the same specific body part was found to have almost a two 
+and a halftimes increase (IRR= 2.46, 95% CI= 1.75, 3.46) in the unadjusted estimate and 
+almost a twofold increase in the adjusted model (IRR= 1.75, 95% CI= 1.25, 2.45). 
+Once again, both gender and years competing were not found to be significant 
+predictors. Like the previous model, male swimmers still had a lower injury rate than 
+female swimmers in both the unadjusted and adjusted model (IRR= 0.72, 95% CI= 0.35, 
+1.48). However, these differences were not tested statistically. 
+36 
+""1 
+Table 13. Risk Factors Analysis of Injury Rate Ratios (IRRs) per 1000 Hours 
+Unadjusted Adjusted 
+Risk Factor IRRs 95%CI P Value IRRs 95%CI P Value 
+Gender 0.3188 0.2815 
+Female Reference Reference 
+Male 0.96 0.34, 1.42 0.78 0.49, 1.23 
+Year Swimming 1.08 0.96, 1.21 0.2051 1.04 0.99, 1.09 0.1568 
+Any History of Injury 0.0028 0.0147 
+No Reference Reference 
+Yes 3.79 1.59, 9.05 2.86 1.23, 6.64 
+Specific History of Injury <0.0001 0.0020 
+No Reference Reference 
+Yes 2.42 1. 73, 3 .40 1.67 1.21,2.31 w 
+-...J 
+·1 
+Table 14. Risk Factors Analysis of Injury Rate Ratios (IRRs) per 1000 AE's 
+Unadjusted Adjusted 
+Risk Factor IRRs 95%CI P Value IRRs 95%CI P Value 
+Gender 0.3706 0.3721 
+Female Reference Reference 
+Male 0.72 0.35, 1.48 0.81 0.50, 1.29 
+Year Swimming 1.07 0.95, 1.20 0.2752 1.03 0.98, 1.08 0.2834 
+Any History of Injury 0.0039 0.0188 
+No Reference Reference 
+Yes 3.64 1.51, 8.73 2.74 1.18,6.37 
+Specific History of Injury <0.0001 0.0012 
+No Reference Reference 
+Yes 2.46 1.75, 3.46 1.75 1.25, 2.45 w 
+00 
+r 
+CHAPTER V 
+DISCUSSION 
+Descriptive Analysis 
+Injury Rate 
+Table 15 shows a comparison between this study and the previously published 
+studies about swimming-related injuries. To date, there is only one published study that 
+reported the rate of injuries per 1000 athletic exposures (AEs). McFarland & Wasik, 1996 
+computed retrospectively an injury rate of 1.05 injuries per 1000 AEs. However, in this 
+study the researcher was able to compute prospectively a much higher injury rate of 5.55 
+injuries per 1000 AEs. The high rate reported in this study may reflect the prospective 
+nature of follow up and the use of a Certified Athletic Trainer to collect data. No 
+previously published studies have reported injury rate as a function of time exposure (per 
+1000 hours). However, this study reported an injury rate of 3.04 injuries per 1000 hours. 
+As for injury rates by gender, this study found that female swimmers had higher 
+injury rates than males swimmers for both reported injury rates, AEs and hours (6.06 vs. 
+4.97 and 3.32 vs. 2.74 respectfully). However, these differences were not tested 
+statistically. Similarly, Sallis et al. (2001) reported that overall female swimmers had a 
+significantly higher injury rate per 100 athletes than male swimmers (47.08 vs. 12.37). 
+In addition to swimming related research, there have been several studies that 
+looked at the injury rate in other collegiate "overhead" sports with similar reported 
+injuries. These sports include baseball, softball, and volleyball. Table 16 shows a 
+39 
+-1 
+Table 15. Overall Injury Rates in Competitive Swimming 
+Rate Rate 
+Rate per per per 
+Study Nof Nof 100 1000 1000 
+Authors Year Design Method Gender Level Swimmers Injuries Athletes* AEs Hours 
+Kennedy et al. 1978 R s 0 35 43 122.9 
+R Q NS 2496 261 10.5 
+Mutoh et al. 1988 R Q lOF 9M E/N 19 37 194.7 
+Bak et al. 1989 R Q NS 268 100 37.3 
+Lanese et al. 1990 p IR 21F 36M C 57 29 50.9 
+Grimmer et al. 1996 R Q 193F 159M N 352 16 4.5 
+McFarland & Wasik 1996 L s 68F C 68 56 82.4 1.05 
+Richardson 1999 R s A 1500 886 59.1 
+-i::,. THIS STUDY 2009 p IR 16M 18F C 34 31 91.2 5.55 3.04 
+0 
+A=Age Group Swimmers Study Design R=Retrospective P=Prospective L= Longitudinal 
+C=Collegiate Swimmers Methods Q=Questionnaire S=Survey IR=Injury Report E=Examination 
+E=Elite Swimmers 
+M=Masters Swimmers * This number was manually calculated from the data 
+N=National Swimmers 
+O=Olympic Swimmers 
+NS=Not Specified 
+comparison of injury rates in these sports and the injury rate from this study. All three 
+similar sports reported higher injury rates than this study. Both baseball and softball had 
+the highest injury rates which may be because both baseball and softball average about 42 
+games a season where swimming only averages about 11 competitions a season. As for 
+volleyball, the injury rate was still slightly higher than that of swimming however, similar 
+injuries, such as tendonitis and back strains were observed in both volleyball and 
+swimming. Other previous research compared injury rates per 100 athletes by gender in 
+basketball, track, swimming, soccer, tennis, water polo, and cross country. They reported 
+that overall, female athletes had a higher injury rate than male athletes (52.45 vs. 47.68) 
+(Sallis et al., 2001). Basketball was found to have the highest overall injury rate per 100 
+athletes for both male (126.94) and female (112.04) athletes (Sallis et al., 2001). 
+Injury Location 
+Table 17 shows the percent comparison by anatomical location for previous 
+published studies and this study. Like similar studies (Kennedy et al., 1978, Grimmer et 
+al., 1996 & McFarland & Wasik, 1996), this study identified the shoulder as the most 
+common anatomical location for injuries. In addition, the percentage of shoulder injuries 
+sustained in this study was within the range of percentages that the other studies observed 
+(3-55% were shoulder injuries). This study found that 38.7% of all injuries sustained in 
+the swimming season were to the shoulder. This high percentage of shoulder injuries 
+would be expected because of the highly repetitive motion that the shoulder experiences 
+during a swimming season. In addition, this study found that female swimmers had a 
+higher percentage of shoulder injuries ( 46.2%) compared to male swimmers (33.3%). -
+However this difference was not tested statistically. Similar findings were reported by 
+41 
+Table 16. A Comparison of Injury Rates in Other Collegiate Sports 
+Injury Rate 
+Author Year Sport Per 1000 AE's 
+Dick et al. 2007 Baseball 7.4 
+Marshall et al. 2007 Softball 7.3 
+Agel et al. 2007 Volleyball 6.2 
+THIS STUDY 2009 Swimming 5.55 
+Table 17. A Percent Distribution of Injuries by Anatomical Location 
+Study Nof Nof Head/ Arm/ Thigh/ Ankle/ 
+Authors Year Design Athletes Injuries Neck Shoulder Hand Adductor Knee Foot Back Other 
+..j:::,. Kennedy et al. 1978 R 35 43 37 28 19 16 N 
+R 2496 261 31 26.8 32.5 9.7 
+Mutoh et al. 1988 R 19 37 3 31.3 3 20 5.6 37.1 
+Grimmer et al. 1996 R 352 16 47 5.8 5.8 23.5 17.4 0.5 
+McFarland & Wasik 1996 L 68 56 7 55 4 5 11 18 
+Richardson 1999 R 1500 886 26 3 18 5 32 3 13 
+THIS STUDY 2009 p 34 31 3.2 38.7 6.5 12.9 12.9 16.1 9.7 
+Study Design: R=Retrospective P=Prospective L= Longitudinal 
+Sallis et al. (2001) who found that female swimmers had a significantly higher shoulder 
+injury rate (per 100 athletes) than male swimmers (21.05 vs. 6.55). 
+Other studies reported the highest percentage of injuries involved the back 
+(Mutoh et al., 1988) and ankle (Richardson, 1999). Although these locations were not 
+found to have the highest percentages in this study, each anatomical location was within 
+the ranges that the previous research observed. In this study, 12.9% of all injuries 
+involved the ankle which could be due to the forceful kicking motion during swimming. 
+The percentage of back injuries sustained by the participants of this study was (16.1 %) 
+and interestingly only two of the 5 back injuries occurred during weight lifting activities. 
+Back injuries in swimming are relatively common because of the high stress placed on 
+the back during the breathing phases of specific strokes ( such as the breaststroke, 
+backstroke, and freestyle) and during flip-turns. 
+This study reports only 12.9% of the injuries sustained in the season were related 
+to the knee. This finding was unexpected because the majority of the previously 
+published studies found much higher percentage oflmee injuries (20-28% of injuries). It 
+would be expected to find higher proportion of knee injuries because of the chronic stress 
+placed on the knee during kicking, especially with breaststroke. However the majority of 
+swimmers at the collegiate level may perform preventative measures to reduce the 
+occurrence of lmee pain during the season. 
+Injury Type 
+This study showed that the most common injury type associated with swimming 
+was tendonitis. In total, eighteen of the 31 injuries were classified as tendonitis. The most 
+common form of tendonitis was shoulder impingement, which is a specific form of 
+tendonitis that affects the rotator cuff tendons within the shoulder. Previous research has 
+43 
+identified "swimmers shoulder" as a common injury affecting competitive swimmers 
+(Johnson et al., 1987). "Swimmers shoulder" is defined as an impingement syndrome that 
+affects either the supraspinatus muscle tendon, biceps brachii tendon or both (Johnson et 
+al., 1987). This particular diagnosis was not specifically used in this study; however, 
+similar injuries were identified as being problematic. These included shoulder 
+impingement, bicipital tendonitis, and the combination of shoulder impingement and 
+bicipital tendonitis. Previous research states that the higher incidence of tendonitis in the 
+shoulder complex compared to other locations demonstrates the intense stress that is 
+placed on the shoulder during swimming. (Ciullo & Stevens, 1989) 
+Another area affected by tendonitis was the ankle which accounted for 4 of the 18 
+tendonitis injuries. Past research has identified inflammation of the extensor retinaculum 
+and underlying extensor muscle tendons of the distal ankle as the most common injury 
+type related to the ankle (Kennedy et al., 1978). Similarly, another study reported that 
+tendonitis most commonly occurs to the extensor tendons because of the swimmers 
+excessive stretching of the anterior compartment of the lower leg in hopes of achieving 
+greater ankle flexibility (Johnson, Sim, & Scott, 1987) Although no specific tendon was 
+identified within this study, tendons that assist in the plantarflexon and dorsiflexion of the 
+ankle are most commonly affected by this type of injury. 
+In this study, female swimmer incurred a higher percentage oftendonitis type 
+injuries than male swimmers (66.6% vs. 46.2%). However, this apparent difference was 
+not tested statistically. Currently there is no additional swimming related research that 
+looks specifically at gender and injury type. 
+Strains, accounting for 11 of the 31 injuries, were the next most common injury 
+type in this study. Locations for these strains included the back, neck, hamstring, and 
+44 
+groin. According to previous research, back strains are common in swimming and should 
+be monitored to make sure that the swimmer doesn't have a more serious injury such as 
+spondylolysis and spondylolisthesis (Kammer et al., 1999). No swimmer in this study 
+sustained either; however, two swimmers complained regularly of intense back pain that 
+forced them to reduce their swimming and seek the advice of a team physician. In 
+addition, another study found an increase in strains of the lumbar fascia in lower back in 
+swimmers. That study identified a lack of lumbar flexibility as the main cause of this 
+increase in back strains (Richardson, 1999) 
+As for hamstring and groin strains, these can be associated with the kicking forces 
+that are produced by swimmers. Previous research reported that these strains account for 
+5% of all injuries sustained in competitive swimming (McFarland & Wasik, 1996 & 
+Grimmer et al., 1996). Another study (Grote et al., 2004) found that swimmers who 
+compete regularly in breaststroke events had a higher percentage of groin strains (42.7%) 
+than any other swimmer. This study was not able to separate the swimmers by stroke but 
+based on information from the participants those affected by groin strains did compete 
+regularly in breaststroke events. No studies were found that looked specifically at 
+hamstring stains. 
+Injury Onset 
+To date, there has been minimal research conducted on the different types of 
+injury onset and their relation to swimming injuries. Previous researchers (McMaster, 
+1999) have only speculated that the majority of swimming related injuries are overuse in 
+nature. This study was able to reinforce this by finding that the majority of the injuries 
+sustained in the season were overuse injuries. However, the percentage of overuse 
+injuries was not far above that of the percentage of acute injuries ( 5 8 .1 % of injuries were 
+45 
+overuse and 41.9% were acute). Perhaps different from other studies, the acute injuries 
+sustained in this study were not necessarily the typical traumatic acute injuries such as 
+broken bones. In this study, acute injuries included muscle strains and sprains. These 
+were classified as acute injuries because of the sudden onset of pain. However, some 
+injuries such as strains may be classified as acute because of the sudden onset of pain but 
+may actually be overuse in nature because of the slow progression of trauma to the 
+muscle from the repetitive motions in swimming. 
+Time Loss 
+Time loss associated with an injury can vary based on several different factors 
+including the severity of the injury, the athlete's compliance to treatment, the athlete's 
+perception of pain, and the overall healing process. For instance, one may think that an 
+overuse shoulder injury may require a swimmer to sit out of practice longer than a 
+sprained ankle. Previous research has reported that the majority of injuries affecting 
+swimmers were minor with very little to no time loss (Grimmer et al., 1996). This study 
+reported that 18 of the 31 injuries required less than 7 days time loss. Within this 
+category, the most common anatomical locations were the back and ankles with 4 injuries 
+each followed by shoulder and knee with 3 injuries and lastly the hamstring and groin 
+with 2 injuries each. A high number of injuries within this category may demonstrate the 
+swimmer's drive to train and compete within the sport they are so passionate about. 
+As for the more than 21 days time loss, Stocker et al. (1995), reported that 
+swimmers experiencing shoulder pain were more likely to sit out for extended periods of 
+time (3 weeks or more) than those that did not experience shoulder pain. Similarly, in this 
+study it was reported that overuse shoulder injuries were associated with the highest 
+amount of time loss. This high amount of time loss could be because of the highly 
+46 
+F 
+repetitive nature of swimming or the difficulty treating inflammation within the shoulder 
+because of its anatomical structure. An excessive amount of time loss (21 days or more) 
+is very problematic because it adversely affects the swimmers training and performance 
+in the swimming season. 
+As for gender differences based on time loss, this study reported that female 
+swimmers had a higher percentage of injuries that required more than 21 days time loss 
+than male swimmers (27.8 vs. 15.4%). However, this apparent difference was not tested 
+statistically. In addition, based on percentages of overall injuries male swimmers had a 
+higher percentage (61.5%) of injuries that required less than 7 days time loss than female 
+swimmers (55.6%). However, this apparent difference was not tested statistically. To date 
+there has been no published swimming related studies that compared gender difference 
+and time loss. 
+Other studies that looked at similar sports reported time loss as anything that 
+required more than 10 days of time loss as the most severe category. Studies reporting 
+injuries in baseball, softball, and volleyball found that lower extremity injuries were most 
+commonly associated with more than 10 days time loss (Dick et al., 2007, Marshall et al., 
+2007, & Agel et al., 2007). However, this study reported that shoulder injuries, 
+accounting for 9 injuries, were most commonly associated with 7 days of time loss or 
+more. 
+Risk Factor Analysis 
+The risk factor analysis for this study was completed using the Poisson regression 
+fitted using generalized estimating equations and showed that both a history of any injury 
+and a history of injury to a specific body part significantly predicted an increase in the 
+risk of injury per 1000 hours and per 1000 AEs. This increase is evident in the large 
+47 
+number of overuse injuries that the swimmers sustained during the study period. Perhaps 
+these were old injuries that never fully healed and/or were never fully 
+treated/rehabilitated. As for gender, although not statistically significant, this study was 
+able to report that female swimmers had a higher injury rate than male swimmers with 
+both injury rate categories. 
+To date, there has been only one study that examined risk factors associated with 
+injuries in competitive swimming. Those authors found that female swimmers were more 
+likely to sustain an injury than male swimmers (Sallis et al., 2001). However, the authors 
+only calculated injury rates per 100 athletes and did not account for any time exposure. 
+This study found similar findings in both the unadjusted and adjusted models for both 
+injury rates per 1000 hours training and per 1000 AEs. No other studies have looked at 
+risk factors associated to injuries in competitive swimming. 
+As for studies that looked at other sports, Knowles et al. (2006) reported on risk 
+factors of injuries in football, soccer, basketball, track, baseball, softball, wrestling, and 
+volleyball. Researchers reported that athletes with a previous injury had almost three 
+times the injury rate in the unadjusted model and twice the injury in the adjusted model 
+than athletes with no previous injury. As for gender, the researchers didn't look at gender 
+differences overall however, they did break down specific sports based off gender (i.e. 
+basketball, track, and soccer). For instance, baseball and softball players have similar 
+injury rates in both the unadjusted (0.95 vs. 0.96) and the adjusted models (0.26 vs. 0.28) 
+(Knowles et al., 2006). 
+Suggestions for Future Research 
+This is one of only two studies that reported the incidence rate of injuries that 
+affect intercollegiate swimmers. In addition, it is the only current study that is a 
+48 
+prospective cohort design. Therefore, future research in this area should include the 
+following: 
+• Additional prospective cohort studies that follow the swimmers forward in 
+time over longer periods of time to record injuries as they occur. 
+• Studies that look at different age groups such as high school, elite, 
+masters, Olympic, etc. 
+• Comparing injuries across different levels of competitive swimming. 
+• Studies that involve a larger number of participants such as including a 
+larger team or including more than one team or conference. 
+• Studies that look at the difference in injuries that occur during practices as 
+oppose to competitions 
+• Additional studies that analyze risk factors including body composition, 
+most common stroke used, coaching qualifications, and training devices 
+(kick boards). 
+• Randomized clinical trails that identify and evaluate specific preventative 
+measures 
+Conclusion 
+For years, injuries have been known to affect a swimmers ability to perform at the 
+top of their abilities yet surprisingly, there is still very little research that looked at these 
+injuries. This study was designed to add to current literature and some interesting data 
+relating to injuries in competitive swimming was found. For instance, this study 
+calculated an injury rate of 5.55 injuries per 1000 athletic exposures and 3.04 injuries per 
+1000 hours. This number is relatively similar to those that are seen in other studies and in 
+49 
+other sports with similar injuries. This study also identified that overuse shoulder injuries 
+were the most problematic for swimmers followed by overuse injuries to the knees and 
+ankles and acute back strains. Of the risk factors that were examined in this study, both 
+history of any injury and history of injury to the same specific body part were found to be 
+significant predictors of swimming-related injuries. This study contributed to the current 
+literature by providing prospective data collection, injury rates in hours and AEs and 
+significant risk factors. However, further research is still needed to examine swimming 
+related injuries and their risk factors more closely to hopefully reduce injury occurrence 
+to a minimum. 
+50 
+APPENDICES 
+Appendix A 
+Informed Consent 
+Title: Injuries in Competitive Swimming: Incidence and Risk Factors 
+Principal Investigator: Kristin Chase, Graduate Student, Department of Physical 
+Education, Exercise Science, & Wellness, University of North Dakota, (651) 303-0791, 
+kristin.chase@und.nodak.edu. Student's Advisor, Dr. Dennis Caine, University of North 
+Dakota, (701) 777-4041. 
+Invitation to Participate: You are invited to participate in a research study on injuries 
+affecting the University of North Dakota swimmers during the 2008-2009 season. 
+Statement of Research: A person who is to participate in the research must give his or 
+her informed consent to such participation. This consent must be based on an 
+understanding of the nature and risks of the research. This document provides 
+information that is important for this understanding. Research projects include only 
+participants who choose to take part. Please take your time in making your decision as to 
+whether you wish to participate. If you have questions at any time, please ask. 
+Purpose of Research: The purpose of this research study is to determine the nature and 
+rate of injuries that affect competitive swimmers throughout the regular season and to 
+determine the relationship between injuries and specific risk factors such as gender, 
+previous years of competitive swimming, previous injuries, and yardage. This research is 
+important because to date there has been little research that looks at the incidence of 
+injuries in competitive swimming and the risk factors that are associated with these 
+injuries. 
+Length of the Study: Your participation in the study will last one complete regular 
+season of competitive swimming. You will be contacted by the researcher once a week to 
+fill out a training log and to discuss in private any pain or injuries that you have 
+experienced during the previous week. Depending on the extent of the pain and/or 
+injuries, it may take anywhere from 10 to 30 minutes to complete. The study will end at 
+the end of the regular season of UND swimming. 
+What Will Happen During This Study: For the first part of the study you will be asked 
+to complete a medical history questionnaire that asks about injuries that you may have 
+sustained during the past 12 months as a result of participating in swimming practices or 
+competitions. This questionnaire will take between 10 to 20 minutes to complete. 
+The second part of the study will involve observing and recording any injuries that you 
+sustain during the season. You will be contacted weekly to discuss new or persistent 
+injuries that you may have experienced. You will be asked to fill out an injury report that 
+asks several questions about the details of any pain or injury that you are currently 
+experiencing (separate form for pain and injury). In addition you will also be asked to 
+complete a weekly training log that will request information about your training regimen 
+for the past week. 
+52 
+--------------------------------
+Risks of the Study: This study is intended to just observe and record any pain nor 
+injuries that occur during the season, there are no foreseenable risks to the participants. 
+Benefits of the Study? You may not benefit personally from being in this study. 
+However, we hope that, in the future, other people might benefit from this study because 
+it will give both coaches and swimmers in-depth data on the types of injuries, the nature 
+and incidence of injuries, and risk factors that may increase their risk of injury. 
+Confidentiality: All your data and information obtained through forms will remain 
+confidential. Your identity will be withheld from data files, sheets, and analyses through 
+the use of a numeric coding system. In addition, you will not be identified in any reports 
+about this study that might be published. All data will be retained for a period of 3 years 
+following completion of this study in a locked container in the PXW office. Any 
+information that is obtained in connection with this study and can be identified with you 
+will remain confidential and will be disclosed only with your written permission. 
+Voluntary Participation: Your decision whether or not to participate is completely 
+voluntary and no penalties will result from refusal to participate. Your decision whether 
+or not to participate will not affect your current or future relations with the University of 
+North Dakota. If you decide to participate, you are free to discontinue participation at any 
+time without it being held against you. To discontinue participation, tell the researcher 
+that you do not wish to continue with this project. 
+Contacts and Questions? The researcher conducting this study is Kristin Chase, a UND 
+graduate student in the physical education, exercise science, and wellness department. 
+You may ask any questions you have now. If you later have questions, concerns, or 
+complaints about the research please contact Kristin Chase at (651) 303-0791. You may 
+also contact my thesis advisor, Dr. Dennis Caine, at (701) 777-4041 
+If you have questions regarding your rights as a research participant, or if you have any 
+concerns or complaints about the research, you may contact the University of North 
+Dakota Institutional Review Board at (701) 777-4279. Please call this number if you 
+cannot reach research staff, or you wish to talk with someone else. 
+Agreement: Your signature indicates that this research study has been explained to you, 
+that your questions have been answered, and that you agree to take part in this study. You 
+will receive a copy of this form. 
+Participant's Name: ________________________ _ 
+Signature of Participant Date 
+53 
+Appendix B 
+HIPAA1 AUTHORIZATION TO USE AND DISCLOSE 
+INDIVIDUAL HEALTH INFORMATION FOR RESEARCH PURPOSES 
+1. Purpose. As a research participant, I authorize Kristin Chase to use and disclose my 
+individual health information for the purpose of conducting the research project entitled: 
+Injuries in Competitive Swimming: Incidence and Risk Factors. 
+2. Individual Health Information to be Used or Disclosed. My individual health 
+information that may be used or disclosed to conduct this research includes: medical 
+information that pertains to injuries that are either sustained as a result of participating in 
+swimming or injuries that restrict or hinder your ability to participate fully in swimming 
+practices or competitions. 
+3. Parties Who May Disclose My Individual Health Information. The researcher 
+may obtain my individual health information from medical files contained in the UND 
+Athletic Training Room or from you, the participant, themselves. 
+4. Parties Who May Receive or Use My Individual Health Information. The 
+individual health information disclosed by parties listed in item 3 and information 
+disclosed by me during the course of the research may be received and used by Kristin 
+Chase. 
+5. Right to Refuse to Sign this Authorization. I do not have to sign this Authorization. 
+If I decide not to sign the Authorization, I may not be allowed to participate in this study 
+or receive any research related treatment that is provided through the study. However, 
+my decision not to sign this authorization will not affect any other treatment, payment, or 
+enrollment in health plans or eligibility for benefits. 
+6. Right to Revoke. I can change my mind and withdraw this authorization at any time 
+by sending a written notice to Kristin Chase at kristin.chase@und.nodak.edu to inform 
+the researcher of my decision. If I withdraw this authorization, the researcher may only 
+use and disclose the protected health information already collected for this research 
+study. No further health information about me will be collected by or disclosed to the 
+researcher for this study. 
+7. Potential for Re-disclosure. My individual health information disclosed under this 
+authorization may be subject to re-disclosure outside the research study and no longer 
+protected. For example, researchers in other studies could use my individual health 
+information collected for this study without contacting me if they get approval from an 
+Institutional Review Board (IRB) and agree to keep my information confidential. 
+7 A. Also, there are other laws that may require my individual health information to be 
+disclosed for public purposes. Examples include potential disclosures if required for 
+1 HIP AA is the Health Insurance Portability and Accountability Act of 1996, a federal law related to privacy of health 
+information. 
+54 
+mandated reporting of abuse or neglect, judicial proceedings, health oversight 
+activities and public health measures. 
+This authorization does not have an expiration date. 
+I am the research participant or personal representative authorized to act on behalf of the 
+participant. 
+I have read this information, and I will receive a copy of this authorization form after it is 
+signed. 
+Signature of research participant or research participant's 
+personal representative 
+Printed name ofresearch participant or research participant's 
+personal representative Date 
+Description of personal representative's authority to act on behalf 
+of the research participant 
+55 
+Appendix C 
+Medical History Questionnaire 
+ID Number: ______ Gender: 0Male 0Female Age: ___ Year: ___ _ 
+Height (in): ---Weight (lbs): __ _ 
+1. At what age did you start swimming? __________________ _ 
+2. How long have you been swimming competitively? ____________ _ 
+3. What events do you typically compete in? ________________ _ 
+4. During the past 12 months how many competitions have you completed in? ___ _ 
+Injury Definition: an injury is musculoskeletal pain or discomfort causing a swimmer to rest from 
+training for at least one day, to modify their training, or to seek medical aid from a physician or 
+Certified Athletic Trainer. 
+If you answer "yes" to any question please explain further in the space provided after each 
+question. Please include: type of injury, location of injury, severity of injury (mild, severe, season 
+ending), length of time injury affected swimming (i.e. how long did you sit out or modify your 
+swimming), and what type of treatment you received for this injury. 
+Please answer the following question which relate to injury based on THE PAST 12 MONTHS: 
+0Yes 0No 5. Have you experienced one or more injuries during practice or competitions? 
+DY es 0No 6. Has any injury required you to modify your swimming routine? 
+0Yes 0No 7. Have you experienced any musculoskeletal pain or discomfort which 
+"bothered you", but did not cause you to miss practice or to see a physician or Certified 
+Athletic Trainer? 
+56 
+DY es 0No 8. Has any injury required you to sit out of a practice or competitions? 
+0Yes 0No 9. Has any injury been so severe that your saw a physician or athletic trainer? 
+0Yes 0No 10. Have you had any problems with pain or swelling in muscles, tendons, bones, 
+or joints? 
+If "Yes", Circle which: Head / Neck / Shoulder / Upper Arm / Elbow / 
+Forearm I Hand Chest / Upper Back / Lower Back / Hip / Thigh / Knee / 
+Calf/Shin / Ankle I Foot/Toes 
+DY es 0No 11. Have you had a shoulder injury that disabled you for a week or longer? 
+0Yes 0No 12. Does your shoulder routinely or occasionally dislocate or subluxate? 
+DY es ON o 13. Do you have recurring shoulder pain that makes swimming difficult? 
+57 
+Vl 
+00 APPENDIXD 
+Injury Report Form 
+ID Number: Gender: 0Male 0Female Age: Year: Date: ________ _ 
+Date of Injury Onset 
+I I 
+Body Area Injured (mark with X) 
+List injured body part(s) (right or left) 
+Explain exactly how the injury occurred 
+Is this injury 
+0New injury 
+0Recurrence of old injury 
+0Repeat of injury from current season Injury occurred during 
+0Preseason 
+0Regualr season 
+0Post Season 
+Injury occurred in 
+0Practice 
+Owarmup 
+0First Half 
+Osecond Half 
+0Coo1Down 
+0Competition 
+0Warm-up 
+0During race 
+Ocool-down 
+Ow eight lifting 
+Dother ------------
+Where did this injury occur? 
+0In Water 0Locker Room 
+0Deck Don Blocks 
+OBieachers 0Gym 
+Dother ------------
+Did the injury occur with a specific skill? 
+0Yes 0No 
+If 'yes' explain: __________ _ Mechanism of Injury 
+0No Specific Reason 
+0Repetitive Motion 
+Ocontact with other swimmer 
+Ocontact with walls of pool 
+Ocontact with bottom of pool 
+OOther pool related mechanism 
+Explain: ____________ _ 
+OOther training related mechanism 
+Ow eight training 
+Explain:-==-------------
+0Dry land training 
+Explain: ____________ _ 
+As a result of this injury did you immediately 
+modify your training/competition? 
+0Unable to complete competition 
+0Modified competition 
+Explain: ___________ _ 
+0Unable to complete practice 
+0Modified practice 
+0Decreased yardage 
+0Decreased time 
+0Eliminate offending stroke 
+Domitted skill 
+Explain: ___________ _ 
+How long did this injury keep the swimmer from 
+participating in practice/competition? 
+01-2 days 010 or more days 
+03-6 days 0Season ending 
+07-9 days 0Red shirt 
+REFERENCES 
+Agel, J., Palmieri-Smith, R.M., Dick, R., Wojtys, E.M., & Marshall, S.W. (2007). 
+Descriptive epidemiology of collegiate women's volleyball injuries: National 
+Collegiate Athletic Association injury surveillance system, 1988-1989 through 
+2003-2004. Journal of Athletic Training, 42(2), 295-302. 
+Bak, K., Bue, P., & Olsson, G. (1989). Injury patterns in Danish competitive swimming. 
+Ugeskrift for Iaeger 151, 2982-2984. 
+Bak, K.B. & Fauno, P. (1997). Clinical finding in competitive swimmers with shoulder 
+pain. The American Journal of Sports Medicine, 25(2), 254-260. 
+Burchfield, D., Cofield, S., & Cofield, R. (1994). Shoulder pain in competitive, age group 
+swimmers. Medicine and Sport Science, 39, 218-225. 
+Ciullo, J.V. & Stevens, G.G. (1989). The prevention and treatment of injuries to the 
+shoulder in swimming. Sports Medicine, 7, 182-204 
+Dominguez, R.H. (1978) Shoulder pain in age group swimming. In B.Erickson & B. 
+Furberg (Eds.) Swimming Medicine IV (p 105-109). University Park Press: 
+Baltimore, MD 
+Dick, R., Agel, J., & Marshall, S.W. (2007). National Collegiate Athletic Association 
+injury surveillance system commentaries: introduction and methods. Journal of 
+Athletic Training, 42(2), 173-182 
+Dick, R., Sauers, E.L., Agel, J., Keuter, G., Marshall, S.W., McCarty, K., et al. (2007). 
+Descriptive epidemiology of collegiate men's baseball injuries: National 
+Collegiate Athletic Association injury surveillance system, 1988-1989 through 
+2003-2004. Journal of Athletic Training, 42(2), 183-193 
+Fowler, P.J. & Regan, W.D. (1986). Swimming injuries of the knee, foot, and ankle, 
+elbow, and back. Clinics in Sports Medicine, 5(1), 139-148 
+Grimmer, K., Holland, L., Williams, J., & Paterson, R. (1996). Injury surveillance of 
+South Australian sporting participants. Sports Medicine Australia-South 
+Australian Branch. Retrieved March, 2007, from http://www.smasa.asn.au/ 
+resources/ downloads/injury_ surveillance2. pdf 
+59 
+Grote, K, Lincoln, T.L., & Gamble, J.G. (2004). Hip adductor injury in competitive 
+swimming. The American Journal of Sports Medicine, 32(1), 104-108 
+Hahn, T. & Foldspang, A. (1998). Prevalent knee pain and sport. Scandinavian Journal 
+of Social Medicine, 26, 44-52 
+Johnson, J.E., Sim, F.H., & Scott, S.G. (1987). Musculoskeletal injuries in competitive 
+swimmers. Mayo Clinic Proceedings, 62, 289-304 
+Johnson, J.N. (2003). Competitive swimming illness and injury: common conditions 
+limiting participation. Current Sports Medicine Reports, 2, 267-271 
+Jones, J.H. (1999). Swimming overuse injuries. Physical Medicine and Rehabilitation 
+Clinics of North America, 1 O(l ), 77-94 
+Kammer, C.S., Young C.C., & Niedfeldt, M.W. (1999). Swimming injuries and illnesses. 
+The Physician and Sports Medicine, 27(4), 51-60 
+Kennedy, J.C., Hawkins, R., & Kissoff, W.B. (1978). Orthopaedic manifestations of 
+swimming. The American Journal of Sports Medicine, 6(6), 309-322 
+Knowles, S.B., Marshall, S.W., Bowling, J.M., Loomis, D., Millikan, R., Yang, J., et al. 
+(2006). A prospective study of injury incidence among North Carolina high 
+school athletes. American Journal of Epidemiology, 164(12), 1209-1221. 
+Lanese, R.R., Strauss, R.H., Leizman, D.J., & Rotondi, M. (1990). Injury and disability in 
+matched men's and women's intercollegiate sports. American Journal of Public 
+Health 80 (12), 1459-1462. 
+Loosli, A.R. & Quick J. (1992). Thigh strains in competitive swimming. Journal of 
+Sports Rehabilitation, 1, 49-55 
+Marshall, S.W., Hamstra-Wright, K.L., Dick, R., Grove, K.A., & Agel, J. (2007). 
+Descriptive epidemiology of collegiate women's softball injuries: National 
+Collegiate Athletic Association injury surveillance system, 1988-1989 through 
+2003-2004. Journal of Athletic Training, 42(2), 286-294 
+McFarland, E.G. & Wasik, M. (1996). Injuries in female collegiate swimmers due to 
+swimming and cross training. Clinical Journal of Sports Medicine, 6, 178-182 
+McMaster, W.C. & Troup, J. (1993). A survey of interfering shoulder pain in United 
+States competitive swimmers. The American Journal of Sports Medicine, 21 ( 1 ), 
+67-70 
+McMaster, W.C. (1996). Swimming injuries: An overview. Sports Medicine, 22 (5), 332-
+336 
+60 
+McMaster, W.C., Roberts, A., & Stoddard T. (1998). A correlation between shoulder 
+laxity and interfering pain in competitive swimming. The American Journal of 
+Sports Medicine, 26(1 ), 83-86. 
+McMaster, W.C. (1999). Shoulder injuries in competitive swimmers. Clinics in Sports 
+Medicine, 18(2), 349-359 
+Mutoh, Y. (1978). Low back pain in butterfliers. In B.Erickson & B. Furberg (Eds.) 
+Swimming Medicine IV(p 115-123). University Park Press: Baltimore, MD 
+Mutoh, Y., Takamoto, M., & Miyashita, M. (1988). Chronic injuries of elite competitive 
+swimmers, divers, waterpolo players, and synchronized swimmers. In B. 
+Ungerechts, K.Wilke, & K. Reischle (Eds.), Swimming Science V (p. 333-337). 
+Human Kinetics: Champaign IL. 
+NCAA sports sponsorship and participation rates. (2009). National Collegiate Athletic 
+Association. Retrieved June 29, 2009, from http://www.ncaapublications.com/ 
+Uploads/PDF/ParticipationRates2009c2f40573-60aa-4a08-874d-laff4192c5e4 
+.pdf 
+O'Donnell, C.J., Bowen, J., & Fossati, J. (2005). Identifying and managing shoulder pain 
+in competitive swimmers. The Physician and Sports Medicine, 33(9), 27-35 
+Richardson, A.B. (1987). Orthopedic aspects of competitive swimming. Clinics in Sports 
+Medicine, 6(3), 639-645 
+Richardson, A.B., Jobe, F.W., & Collins, H.R. (1980). The shoulder in competitive 
+swimming. The American Journal of Sports Medicine, 8(3), 159-163 
+Richardson, A.B. (1999). Injuries in competitive swimming. Clinics in Sports Medicine, 
+18(2), 287-291 
+Rovere, G.D. & Nichols, A.W. (1985). Frequency, associated factors, and treatment of 
+breaststroker' s knee in competitive swimmers. The American Journal of Sports 
+Medicine, 13(2), 99-104 
+Sallis, R.E., Jones, K., Sunshine, S., Smith, G., & Simon, L. (2001). Comparing sports 
+injuries in men and women. International Journal of Sports Medicine, 22, 420-
+423 
+Soler, T. & Calderon, C. (2000). The prevalence of spondylolysis in the Spanish elite 
+athlete. The American Journal of Sports Medicine, 28(1), 57-62 
+Stocker, D., Pink, M., & Jobe, F.W. (1995). Comparison of shoulder injury in collegiate 
+and master level swimmers. Clinical Journal of Sports Medicine, 5, 4-8 
+61 
+Stulberg, S.D., Shulman, K., Stuart, S., & Culp P. (1980). Breaststroker's knee: 
+pathology, etiology, and treatment. The American Journal of Sports Medicine, 
+8(3), 164-170 
+USA Swimming National Membership Trends for 2000-2008. USA Swimming Inc. 
+Retrieved June 29, 2009, from http://www.usaswimming.org/USASWeb/ 
+Rainbow/Documents/56578d98-8f01-44f6-ab2d-ba0145c22766/2000-
+2008%20Membership%20Trends.pdf 
+Verra, W.C., Pruijs, H.J., Beek, E.J., & Castelein, R.M. (2009). Prevalence of vertebral 
+pars defects (spondylolysis) in a population with osteogenesis imperfecta. Spine, 
+34(13), 1399-1401. 
+Vizsolyi, P., Taunton, J., Robertson, G., Filsinger, L., Shannon, H.S., et al. (1987). 
+Breaststroker's knee: an analysis of epidemiological and biomechanical factors. 
+The American Journal of Sports Medicine, 15(1), 63-71 
+Weldon, E.J. & Richardson, A.B. (2001). Upper extremity overuse injuries in swimming. 
+Clinics in Sports Medicine, 20(3), 423-438 
+62 

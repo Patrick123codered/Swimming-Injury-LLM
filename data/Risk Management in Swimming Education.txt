@@ -1,0 +1,268 @@
+International Journal of Aquatic Resear ch and E ducation International Journal of Aquatic Resear ch and E ducation 
+Volume 8 Number 2 Article 5 
+5-1-2014 
+Risk Management in Swimming E ducation Risk Management in Swimming E ducation 
+Wojciech Wiesner 
+Univ ersity School of Physical E dycation, , wojciech.wiesner@awf.wr oc.pl 
+Marek Rejman 
+Univ ersity School of Physical E dycation 
+Follow this and additional works at: https:/ /scholar works.bgsu.edu/ijar e 
+How does access t o this work benefit y ou? Let us know! How does access t o this work benefit y ou? Let us know! 
+Recommended Citation Recommended Citation 
+Wiesner , Wojciech and Rejman, Mar ek (2014) "Risk Management in Swimming E ducation, " International 
+Journal of Aquatic Resear ch and E ducation : Vol. 8: No. 2, Ar ticle 5. 
+DOI: https:/ /doi.or g/10.25035/ijar e.08.02.05 
+Available at: https:/ /scholar works.bgsu.edu/ijar e/vol8/iss2/5 
+This E ducation Ar ticle is br ought t o you for fr ee and open access b y the Journals at ScholarW orks@BGSU. It has 
+been accepted for inclusion in International Journal of Aquatic Resear ch and E ducation b y an authoriz ed edit or of 
+ScholarW orks@BGSU. 
+157International Journal of Aquatic Research and Education, 2014, 8, 157-167 
+ © 2014 Human Kinetics, Inc.http://dx.doi.org/10.1123/ijare.2011-0030
+Wojciech Wiesner and Marek Rejman are with the University School of Physical Education in Wroclaw, 
+Poland. Address author correspondence to Marek Rejman at marek.rejman@awf.wroc.pl.Risk Management in Swimming Education
+Wojciech Wiesner and Marek Rejman 
+University School of Physical Education
+Water-based recreation (e.g., swimming, rowing, diving, sailing, or the various 
+types of surfing) is perceived as a universal and joyful form of physical activity. But, is it safe as well? The foundation of this study lies in the pedagogical belief that people can undergo an educational change to shape their behavior and modify their attitudes. It was aimed to demonstrate the process of education in safety, as being consistently logical actions and decisions to minimize the effects of risk. These educational activities are referred to as risk management. Education in water safety should be initiated to identify and raise awareness of the hazards present in this environment. Further account should be taken as to the risks associated with specific actions in the water, and how to conduct oneself in the event of an emergency. The following strategies are of possible use: risk avoidance, coping with risk, risk transfer, risk compensation, and planning.
+Water-based leisure activities are very popular. Long and short holidays by the 
+water are chosen by almost 60% of Poles according to a survey (http://www.intur.
+com.pl). On a hot summer day, there is no better place to spend time than by the water. Recreational swimming in open water during the summer season provides a much greater variety of aquatic experiences compared with those presented by indoor swimming pools throughout the year. Water encourages recreational swim-ming, diving, sailing, surfing, rowing, and other activities. Natural water environ-ments are rich in physical and biological stimuli for swimmers which can improve their adaptive skills, endurance fitness levels, and even protection against disease. Some even suggest that regular swimming may be a cure-all of sorts for many different ailments. But, most importantly, it can prevent several health problems such as coronary heart disease and obesity from arising in the first place (Wiesner, 1999, 2003; Czabański, Fiłon, and Zatoń, 2003).
+We may assume that many people perceive water as an environment in which 
+they can engage in pleasant physical activity, but is it safe? Statistics show that different types of water activities entail real risks. The chances of incurring conse-quence such as injury and death from risky activity in water are readily observable from data collected by the press office of the Polish National Police Headquarters as well as from the V olunteer Water Rescue Service (The official Polish Lifesav-ing Association; http://statystyka.policja.pl/st/wybrane-statystyki/utoniecia; http://
+www.wopr.pl/index.php?option=com_content&view=article&id=91&Itemid=142). Educational
+1Wiesner and Rejman: Risk Management in Swimming Education
+Published by ScholarWorks@BGSU, 2014
+158  Wiesner and Rejman 
+These data have prompted educators to introduce a new subject, safety education, 
+into Poland’s secondary school curriculum (http://www.men.gov.pl/).
+Safety is one of the basic human needs as it gives us a greater feeling of 
+confidence (Korzeniowski, 2006; Szymań ski, 2008). It is perceived as a state 
+characterized by a low perception of losing something particularly precious such as life, health, job, respect, feelings, material, and nonmaterial goods. Safety is the opposite of danger. Comprehensive swimming education requires safety priorities to be followed. This can be done in the form of specifically targeted methodological activities, which can be described as water safety education (Wiesner, 2008). This type of education aims to teach young people how to manage their own safety. Pedagogical optimism allows us to believe that we are able to change people edu-cationally, by shaping their behavior and modifying their attitudes, with regard to safe water-based activities.
+When in water, people need to be aware of the dangers they may have to 
+face. We could say that in such situations the range of risk taken is between high and low. The aim of this paper is to present water safety education as a process of teaching people how to manage risk and consequently, their own safety. Both methodological steps related to educational activities and their methodological justification are presented. The effectiveness of the proposed education depends on the cognitive activity of all persons involved in the educational process—the educator (i.e., the person directly responsible for the education, such as a parent, teacher, instructor, lifeguard, etc.), the methodologist responsible for educating professional staff, and the pupils. Risk management reduces the impact of negative events which may accompany our actions. It may even limit the occurrence of such events. The effectiveness of risk management has been repeatedly demonstrated in critical situations in economics, computer science, communications, and corporate or financial management. Risk management procedures are the foundation of rescue service action during catastrophes or natural disasters. This type of management has proven effective in most business organizations, with formalized procedures of risk assessment being applied in such areas as insurance, credit risk evaluation, and investment assessment (Kaczmarek, 2008; Goszczyńska,1997). Therefore, we can hypothetically assume that mastering the skill of risk management will also allow us to predict water-based threats, and control their negative consequences.
+Risk Identification
+What is risk? For the purposes of this paper, risk is understood to be the probability of an event that can result in loss. Thus, risk measures the scale of the event and the ensuing loss which can be presented as a function of probability and consequence. Risk can be mathematically expressed as a product of the probability of loss and consequences related to such losses (Figure 1).
+Figure 1 — The scale of risk carried by a given activity.
+2International Journal of Aquatic Research and Education, Vol. 8, No. 2 [2014], Art. 5
+https://scholarworks.bgsu.edu/ijare/vol8/iss2/5
+DOI: https://doi.org/10.25035/ijare.08.02.05
+Risk Management in Swimming Education   159
+The result of the above equation is usually more than zero because actions 
+lead to consequences; there are no consequences of zero value. Therefore, we may 
+assume that our actions are always accompanied by a certain level of risk. Risk management involves the following:
+• Risk identification
+• Risk analysis• Risk management strategic planning• Risk monitoring
+The aim of risk management at the first stage of water safety education is to 
+identify risk. This identification is understood as the recognition of a threat, with 
+its elements and sources, threat description and classification. The results of this stage are a list of identified risks. What do we risk? The threats and associated risks can be external or internal. We do not have a direct influence on the sources of external threats (Table 1).
+Table 1
+ Ex
+amples of External Threats Related to Water-Based 
+Activities
+Category Examples of External Threats
+Other people’s actions Instructor error
+Caretaker error
+Lifeguard errorToo many bathersVariety of leisure activitiesOther people’s actions (drowning, collisions, hooliganism)
+Dangerous water 
+bodiesLand and bottom features
+Water depthWater dynamicsWater floraBoggy areasDangerous fauna
+Weather conditions Low temperature of water or air
+Heat and humidityChanges in weatherStormsStrong winds
+Equipment and 
+facilitiesSwimming / diving equipment failures
+Watercraft failuresTechnical defects of rescue equipmentTechnical condition of water facilities
+3Wiesner and Rejman: Risk Management in Swimming Education
+Published by ScholarWorks@BGSU, 2014
+160  Wiesner and Rejman 
+Table 2  Ex amples of Internal Threats Related to Water-Based 
+Activities
+Category Examples of Internal Threats
+Health Bad physical or mental state
+InjuriesMedical advisory against swimmingLow fitness level
+Swimming skills Low level of swimming skillLow fitness levelLack of experience in swimmingIgnorance of swimming safety rules
+Errors during water-based 
+activitiesNonobservance of safety rules
+Errors in equipment use (diving, sailing, jet skiing)
+Self-assessment and  
+self-controlLack of self-assessment skills
+Mindlessness and thoughtlessnessBravado
+Lifesaving skills Lack of self-rescue skillsLack of lifesaving skills
+In contrast, a person in water can influence internal threats, as their source 
+often lies within oneself (e.g., one’s knowledge, skills, or personality traits). The 
+author believes that many people do not take advantage of these risk management opportunities because they cannot overcome their weaknesses, exercise objective self-control, or assess internal threats. As a result, internal threat identification is imprecise and risk is high. Safety education aims to teach people how to under -
+stand their own organism and how to control anxiety and panic. This knowledge and the critical assessment of one’s skills make it possible to plan safe activities in the water (Table 2).
+The initial periods of each successive stage of swimming education consti-
+tute ideal moments to teach risk identification. This should be accompanied by a motivational process. It is important that the learner be active in acquiring detailed knowledge of risk assessment (Czabański, 2000; Grabowski,1997) Risk manage-ment requires an independent and voluntary decision to start a physical activity in the water, as well as conscious acceptance of the risk involved.
+Risk Analysis
+Having mastered the skill of risk identification, learners can then be educated as to the degree of risk related to a given activity in the water. The next stage of risk management involves estimating the probability of risk and the extent of adverse consequences that may follow. At this point, several questions need to be addressed:
+4International Journal of Aquatic Research and Education, Vol. 8, No. 2 [2014], Art. 5
+https://scholarworks.bgsu.edu/ijare/vol8/iss2/5
+DOI: https://doi.org/10.25035/ijare.08.02.05
+Risk Management in Swimming Education   161
+What can go wrong when performing a specific action in water?
+A separate analysis should be performed for each activity in the water. For 
+example, while jumping or diving into the water, head or spinal injuries may occur due to impact against the bottom, objects lying on the bottom, or at the water’s surface.
+What is the probability that a predicted risk may occur?It is estimated that spine and spinal cord injuries amount to about 30 individual 
+cases per a population of 1 million per year, half of which fall into the tragic category of consequences to the cervical spine 
+What are the negative effects and consequences of this threat?The result of this injury could be damage to the spinal cord and, consequently, 
+quadriplegia-tetraplegia (60%), and even the death of the swimmer.
+Can we avoid the event or at least minimize its effects?Educational activity should be aimed in two directions. First, a warning 
+should be transmitted about this type of risk, including the indication of the circumstances of such tragedies (jumping or diving into to an unknown body of water, into shallow water, excessive heights, etc.). Second, safe entry into the water should be learned.
+What is the cost of reducing a given risk?Estimating the cost of risk reduction leads to comparative expenditure, even 
+for swimming lessons; the costs can be balanced against losses from disabil-ity, lost health, and treatment. In a similar manner, we can analyze risk when choosing other forms of water activity (e.g., snorkeling, canoeing, sailing, the use of water park attractions, etc.). This is illustrated in Table 3.
+Risk analysis can be carried out by quantitative and/or qualitative methods. 
+Quantitative methods are based on mathematical calculations of the risk’s impact on 
+safety and the probability of risk occurrence. These methods use primarily statisti-cal data. Qualitative methods, on the other hand, are more subjective since they are based on human judgment rather than numbers. They use categorical descriptive measures, which can have their numerical equivalents (e.g., 1 = low risk, 2 = medium risk). It seems, however, that qualitative methods are more useful in swimming education because they do not require complex mathematical calculations (Table 4).
+Table 3  Simplified Matrix of Risks Estimated by Means  
+of Descriptive Methods
+Consequence Severity Event 
+Probability Minor 1 Moderate 2 High 3
+High 3 3 6 9
+Moderate 2 2 4 6
+Low 1 1 2 3
+Note. Level 1–2 risk is accepted (ignored); level 3–4 risk is accepted (but monitored); level 6–9 risk 
+can be accepted only on an exceptional basis, provided there is a contingency plan included. (Adapted from www.rudnicki.com.pl.)
+5Wiesner and Rejman: Risk Management in Swimming Education
+Published by ScholarWorks@BGSU, 2014
+162
+Table 4  Anal ysis of Risks Related to Water-Based Activities, Including Most Frequent Negative Events
+Negative event Source Effect Action Severity of Risk
+Drowning Lack of swimming skills Drowning (fatal), 
+drowning (nonfatal)Self-rescue, assistance 
+from others, resuscitationLow risk but tragic consequences (about 500 incidents a year)
+Decrease in body temperatureSwimming in cold water for a long timeHypothermia (death) Stop swimming 
+immediatelyRisk in direct proportion to the time spent in water and in inverse proportion to the temperature
+Cold shock Sudden immersion  in cold waterCardiac arrest (death) Resuscitation Increased risk on hot days
+Painful cramp Muscle fatigue Pain, restricted mobility, possible drowning  (death as a result)Self-rescue, assistance from others, resuscitationHigh probability, moderately dangerous consequences
+Orthopedic injuries Jumping into water Spinal cord or brain 
+damage, fractures  (paresis, death)Assistance from others High risk—about 600 
+incidents a year
+Aspiration of water Water in upper  
+respiratory tractChoking, cough, even respiratory arrest  (death as a result)Self-rescue, assistance from othersMedium risk
+Exhaustion Excessive effort Fatigue and weakness, possible drowning  (death as a result)Stop swimming,  self-rescue, assistance from othersMedium risk
+6International Journal of Aquatic Research and Education, Vol. 8, No. 2 [2014], Art. 5
+https://scholarworks.bgsu.edu/ijare/vol8/iss2/5
+DOI: https://doi.org/10.25035/ijare.08.02.05
+Risk Management in Swimming Education   163
+Only through risk management does water safety education open up opportuni -
+ties for new methodological procedures. A typical process of risk analysis based on 
+the diagram presented above, involves risk identification and assessment, as well as the formulation of an action plan that reflects the accepted risk. Depending on the features of a given body of water, and the individual qualities of a given person, each action taken in the water environment will vary in terms of the estimated risk. Thus, the guidelines concerning risk management strategies will vary as well. The following table presents the course of such a procedure (Table 4).
+Risk Management Strategy Planning
+To what extent can risk be managed? The goal of planning safe water activities is to develop various effective ways of reducing risk. The result should be the development of a risk response plan. During the planning stage, we identify the factors which can indicate possible risk, the manner in which we are to respond to these factors, our actions, their cost, and predicted effect. We can use the following strategies (Goszczyńska,1997; Rajzer, 2001; Kaczmarek, 2008).
+Risk Avoidance
+From the perspective of the protector, hedging is the surest strategy against risk. It stems from a sense of responsibility for the other person. They behave as carefully as parents with their own children, as wise swimming teachers, and as responsible lifeguards. Avoidance strategy is effective in high-risk situations such as jumping into unknown waters, swimming near hydraulic structures, or swimming in areas of high risk (e.g., with hydrotechnical structures, waves, vortices, underwater rocks, or dangerous plants and animals). As a general safety educational principle, risk avoidance is one universally effective strategy. Applying risk avoidance requires a high degree of social discipline because, in practice, the alternative usually comes down to closing bathing sites temporarily or permanently. 
+The aim of education should not be excessive restriction on the freedom of the 
+individual. The unreasonable application of prohibition is not conducive to human development, even in safety education, because refraining from bathing or swim-ming means giving up the benefits of practical activity in the aquatic environment, and the achievement of planned values. The process of education is geared toward values, especially those concerning the freedom of individuals to make choices and bear responsibility for their actions. Safety education, in respect to the above, includes an education of values (an axiological education)–i.e., a legal education which expresses an understanding of and respect for legal norms.
+Risk Retention
+Risk retention as a strategy is the opposite of risk avoidance. The idea is to acknowl-edge and accept the risk with all its consequences. The plan here needs to include the costs of an activity that will have to be covered. This approach is close to the liberal one, which stipulates both free choice and responsibility for one’s actions. Taking action and accepting risk make sense only in low-risk situations. In this strategy, the educational goal is to prepare the learner to conduct self-identification and self-assessment of risks and to learn how to manage them (e.g., those listed in the following text).
+7Wiesner and Rejman: Risk Management in Swimming Education
+Published by ScholarWorks@BGSU, 2014
+164  Wiesner and Rejman 
+Risk Transfer
+This is a strategy of risk dispersal and transfer to third parties. In the context of 
+the water security issues previously discussed, this strategy can be identified with such hedging activities as the securing of bathing sites by guardians and lifeguards. Swimming at too great a distance from the shore is only to be done in the company of experienced swimmers or a following boat. One should not swim alone. The risk of one’s activities also can be transferred by informing those on shore of plans to swim. The transfer of risk to an experienced and competent person causes the threat level to be reduced. 
+Transfer of risk to an insurer is similar in this sense. When we sign a personal 
+accident or third party liability insurance agreement, some consequences of the risk involved will be mitigated, at least financially. This refers to extreme types of swimming, diving, sailing, cruising, and so forth. It is worth mentioning that insurers also conduct risk assessment to determine insurance rates.
+Risk Compensation
+This is a balancing of shortcomings, especially in terms of efficiency, through the use of popular, nonprofessional rescue equipment as well as security and emergency measures. When teaching young children to swim, inflatable sleeves are used, which allow the head and shoulder line to be kept above the water. Similarly, many expe-rienced swimmers can become safer by towing a life-belt or a rescue buoy behind themselves. This strategy is in many cases a legal requirement. For example, ves-sels equipped with emergency equipment (life buoys, life jackets, buoyancy aids, rescue rope, and the like), security at marinas and waterside facilities, as well as lifeguard equipment at a swimming pool, ensure safety at aquatic environments.
+Contingency Plans
+These strategies are to be followed in high-risk situations and are called contin-gency plans. In the context of water safety education, these include learning various self-rescue activities, adequate to a given threat (Wiesner, 2005, 2008). Self-rescue means the ability to overcome external and internal threats, which may face even the seasoned swimmer. This is essentially helping oneself. The basis for self-rescue is that the individual remains calm, has self-control, and embraces self-evaluation of the reaction of one’s own body. In the case of internal threats, we face the need to overcome the weaknesses of the body. Typically, these include the following:
+• Fear of water (dipping the head, lying on the water, jumping into water)
+• Stress that can occur in difficult situations while swimming (diving). Inciden-
+tally, it is swimming which is an antidote to many stressful situations.
+• Hysteria and panic attacks during a sudden hazard in the aquatic environment 
+(e.g., high waves while sailing, underwater vegetation coming in contact with 
+the body of a swimmer)
+8International Journal of Aquatic Research and Education, Vol. 8, No. 2 [2014], Art. 5
+https://scholarworks.bgsu.edu/ijare/vol8/iss2/5
+DOI: https://doi.org/10.25035/ijare.08.02.05
+Risk Management in Swimming Education   165
+• Painful muscle cramps
+• Fatigue during lengthy swimming efforts• Increase in loss of body temperature (hypothermia)
+In the case of external threats that can surprise the swimmer, this includes:
+• Changes in water dynamics (strong currents, rising waves, whirlpools, under -
+tows)
+• Sudden worsening of atmospheric conditions (storms, fog)• Collisions with motorized equipment• Emergency onboard a vessel• A sinking boat or vessel
+Risk Monitoring
+The last stage of the educational process analyzed here starts when an action 
+consistent with the adopted plan has been taken, and the associated risk has been accepted. The aim of this stage is to implement a risk management plan. To imple-ment a selected action strategy, the individual needs to monitor whether the risk has transformed itself into a real threat, whether the level of risk has changed, and particularly whether the risk is increasing (e.g., worsening weather and water conditions, increased fatigue, cramps, or hypothermia). With time, we may need to change the classification of risk level (Table 5). Therefore, risk monitoring requires constant control and verification. Another aim of risk monitoring is to gather information which could be used in future activities. This stage results in bringing the risk under control, modifying the list of risks, and developing a new risk response plan.
+Table 5
+ P
+ossible Actions Against Risks Associated With Activities in Water
+Possible Risk Strategies Risk Level Action Against Risk
+Risk retention Very high Risk acceptance
+Risk self-insurance HighContingency plan formulation— 
+self-rescue and lifesaving skills
+Risk diversification Medium Different ways of spreading risk
+Risk compensation Medium Use of safety and rescue measures
+Risk transfer LowTo a partner, caretaker, lifeguard,  or insurer
+Risk avoidance No risk No action
+Based on Kaczmarek, 2008.
+9Wiesner and Rejman: Risk Management in Swimming Education
+Published by ScholarWorks@BGSU, 2014
+166  Wiesner and Rejman 
+Conclusions
+Swimming and water sports will always be accompanied by certain risks, because 
+it is impossible to eliminate all threats to human life and health. The author believes that teaching risk management skills may constitute a very effective, as well as pedagogically attractive, educational process, starting with teaching young people how to identify risks and assess their consequences. But, risk is not a pejorative term. When we take action, we need to accept the existing risk, but it does not mean that we will automatically incur specific losses. With the use of risk management strate-gies presented in this paper (e.g., transfer, compensation, and contingency plans), we can minimize threats without giving up our goals. Thorough risk management safety education is able to develop technical skills and a responsible approach to the risk taken.
+Educational Conclusions
+Water safety education may prove more effective if learners are involved in the process of risk management. This involvement should pertain to all levels, includ-ing risk identification, risk analysis, strategic risk management planning, and risk monitoring.
+ 1
+.  Apart from specific technical skills, risk management education should include
+ 
+the teaching of decision making and responsibility for one’s own actions.
+ 2
+.  W
+ater safety education is supported by legal, rescue, and axiological education/
+value-based education. This education should be understood not only as a process of acquiring knowledge and skills, but, first of all, as a process of developing attitudes of respect for the highest values.
+Methodological Conclusions
+ 1 .  The topic of this paper comprises people acting in a water environment, as well 
+as the caretakers and methodologists responsible for educating professional staff. All three groups are responsible for safety within the scope of their respective competencies.
+ 2
+.  Risk management strate
+gies are an important subject for water safety education 
+research.
+ 3.  The research methods used in solving problems within safety education, as discussed 
+herein, are typical of existing theories within physical education, 
+pedagogy, economic science, and praxeology.
+Acknowledgment
+The words of thanks for Robert K. Stallman for inspiration, motivation, and technical help 
+during preparation of this paper for publishing.
+10International Journal of Aquatic Research and Education, Vol. 8, No. 2 [2014], Art. 5
+https://scholarworks.bgsu.edu/ijare/vol8/iss2/5
+DOI: https://doi.org/10.25035/ijare.08.02.05
+Risk Management in Swimming Education   167
+References
+Czabański, B. (2000). Kształcenie psychomotoryczne (Psychomotor education). Wrocław: 
+Wydawnictwo AWF. [In Polish].
+Czabański, B., Fiłon, M., & Zatoń, K. (2003). Elementy teorii pływania (Elements of swim-
+ming theory). Wrocław: Wydawnictwo AWF. [In Polish].
+Grabowski, H. (1997). Teoria fizycznej edukacji (Theory of physical education). Warszawa: 
+Wydawnictwa Szkolne i Pedagogiczne. [In Polish].
+Goszczyńska, M. (1997). Człowiek wobec zagroz·eń. Uwarunkowania oceny i akceptacji 
+ryzyka (Human beings in the face of threats. Risk assessment and acceptance deter -
+minants) [In Polish]. Warszawa: Z·ak.
+Kaczmarek, T.T. (2008). Ryzyko i zarzą dzanie ryzykiem (Risk and risk management). 
+Warszawa: Difin. [In Polish].
+Korzeniowski, L. (2006). Uwagi o niektórych programach edukacji dla bezpieczeństwa 
+(Remarks on several safety education programmes). In S. Mazur (Ed.) Edukacja dla 
+bezpieczeństwa (119-128) (Education for safety) [In Polish]. Katowice: Wydawnictwo AWF.
+Rajzer, M. (2001). Strategie dywersyfikacji przedsiębiorstw (Strategies of company diversi-
+fication). Warszawa: Polskie Wydawnictwo Ekonomiczne. [In Polish].
+Szymański, K. (2008). Bezpieczna Turystyka i Rekreacja (Safe tourism and recreation). 
+Poznań: Wydawnictwo AWF. [In Polish].
+Wiesner, W. (1999). Nauczanie-uczenie się pływania (Teaching-learning to swim). Wrocław: 
+Wydawnictwo AWF. [In Polish].
+Wiesner, W. (2003). Nauczanie elementów ratownictwa wodnego jako proces kształtowania 
+osobowości dziecka uczącego się pływać. (Teaching elements of water rescue as a pro-cess shaping the personality of a child learning to swim). Human Movement, 2(8), 81–85.
+Wiesner, W. (2005). Pływanie na wodach otwartych (Open water swimming) In R. Błacha 
+& W. Bigiel (Eds.0), Kultura fizyczna w środowisku przyrodniczym w okresie letnim (83-102) (Physical education in natural environment in the summertime) [In Polish]. Wrocław: Wydawnictwo AWF.
+Wiesner, W. (2008). Swimming education – the area of interest and methodical basis. 
+In K. Zatoń & M. Jaszczak (Eds.), Science in swimming II (pp. 41–48). Wrocław: Wydawnictwo AWF.
+Internet Sources (In Polish)
+http://www.intur.com.pl. Domestic travel in 2007, Institute of Tourism 2008http://statystyka.policja.pl/st/wybrane-statystyki/utoniecia. Drowning statistics, 2009http://www.wopr.pl/index.php?option=com_content&view=article&id=91&Itemid=142. 
+Drowning statistics, 2010
+http://www.men.gov.pl/. Core curriculum. Education for safety (Annex no. 4, Ordinance of 
+the Minister of National Education of 23 December 2008)
+www.rudnicki.com.pl. Rudnicki P., Risk management.
+11Wiesner and Rejman: Risk Management in Swimming Education
+Published by ScholarWorks@BGSU, 2014

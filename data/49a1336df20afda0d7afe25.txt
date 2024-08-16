@@ -1,0 +1,785 @@
+   Introduction
+  When clinicians think “overhead athlete,” swimming is one 
+of the sports that come to mind. Some of the other sports include throwing and pitching, volleyball, and tennis. In the past, the mechanics of the “overhead athlete” were some-times viewed collectively. Most of the “overhead” sports are mechanically at risk during humeral abduction and eleva-tion with external rotation. That is not the case with the swimmer. It is now clear that the requirements of each sport are distinct, and the precise requirements are able to be deﬁ ned. Thus, this chapter provides an opportunity to 
+describe the speciﬁ  c biomechanics of swimming as they 
+relate to the clinician.
+  One unique aspect of swimming mechanics is that the 
+power comes from the muscles of the shoulder girdle. In most sports, there is a ground reaction force and power is transmitted from the legs through the trunk and scapula and out the arms. In swimming, however, the body is being pulled over the arms. Thus the arms are the propulsive mechanism, and the shoulders are quite vulnerable, espe-cially if the scapula cannot act as a stable base for the gleno-humeral control muscles. Therefore, one of the primary foci of this chapter is the shoulder.
+  Because the shoulder is the focus, the most visually 
+apparent pathomechanical clue to impending injury is that of axial rotation and humerus position. The visually appar-ent pathomechanics are discussed, as are the pathomechan-ics that are harder to see. These pathomechanics are related to their effect on shoulder injury. In addition, shoulder muscle ﬁ  ring patterns in the normal and the painful 
+shoulder are discussed.
+  The emphasis of this chapter is identifying injury early 
+and taking steps to minimize anatomic damage. To identify the subtle signs of impending injury, a bridge between the coach and on-deck personnel and the medical team must be built. Hence, this chapter presents such a framework and offers the clinician a problem-solving approach to minimize anatomic damage in the swimmer’s shoulder.
+    Swimmer Characteristics
+  Unfortunately, approximately half of competitive swimmers 
+develop shoulder pain severe enough to cause them to alter their training schedule at some point during their swim-ming career. 
+ 1   In a survey of 532 collegiate swimmers and 
+395 master swimmers, not only did approximately half the swimmers have a history of 3 or more weeks of shoulder pain that forced them to alter their training, but more than half of the injured swimmers also had a recurrence. These data point to the need for long-term intervention in the competitive swimmer.
+  In a separate unpublished survey of 233 competitive 
+swimmers on 17 collegiate teams, the location of pain was queried, as were the positions during the stroke of the most intense pain. 
+ 2   The anterior-superior region of the shoulder 
+was identiﬁ  ed in 44% of the swimmers as the area of pain. 
+Diffuse pain was identiﬁ  ed in 26% of the swimmers, with 
+lesser frequencies reported for the anterior-inferior region of the shoulder (14% of the swimmers), posterior-superior region (10% of the swimmers), and posterior-inferior region (4% of the swimmers). It is likely that swimmers who identi-ﬁ ed diffuse pain had not acknowledged the pain when it was 
+more localized, and the inciting symptoms were masked by inﬂ ammation or more severe damage.  APPLIED  BIOMECHANICS  OF SWIMMING
+    Marilyn M.   Pink,     George T.   Edelman,     Russell   Mark, and     Scott A.   Rodeo  
+     CHAPTER 14
+ This chapter includes content from previous contributions by Marilyn M. 
+Pink, PhD, PT, and Frank W. Jobe, MD, as it appeared in the predecessor of this book, Zachazewski JE, Magee DJ, Quillen WS, editor:  Athletic 
+Injuries and Rehabilitation,  Philadelphia, 1996, WB Saunders.
+331SECTION II APPLIED BIOMECHANICS OF SELECTED SPORT ACTIVITIES
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   331 ch14-331-349-9781416022640.indd   331 8/5/10   4:15:50 PM 8/5/10   4:15:50 PM
+332 SECTION II  Applied Biomechanics of Selected Sport Activities
+  During the freestyle stroke, 70% of the “most pain” 
+occurred during the ﬁ  rst half of pull-through.  2   Another 
+vulnerable point of the stroke appeared during the ﬁ  rst half 
+of recovery (18% of the symptoms were elicited during this phase) ( Figure 14-1   ). During the ﬁ  rst half of the pull-
+through, the arm is unilaterally pulling the body over the arm as the arm generates the propulsive force. The humerus has a common tendency to be hyperextended relative to the trunk rotation toward the submerged side ( Figure 14-2 ,    A ). 
+In this position, the humeral head is pushing anteriorly. Any anterior impingement, labral damage, or inﬂ  ammation 
+would be aggravated in this position.
+  Toward midrecovery, the humerus is swinging the fore-
+arm forward. When the elbow is too high and close to the body, the humerus is in hyperextension, which is most likely causing the pain. It has been suggested that the humerus is moving into maximal external rotation, and this has been equated to the late cocking phase of the baseball pitch. Although it is true that at this point the humerus is as far into external rotation as it goes during the freestyle stroke, it is nowhere near the degree of maximal external rotation required during the baseball pitch. During the midrecovery phase of the freestyle stroke, the humerus is closer to neu-tral rotation than it is to “maximal” external rotation. This singular fact underscores the issue that the mechanics of injury in the swimmer are unique for that sport; indeed, they are unique for each stroke within swimming. A group-ing of all overhead athletes does injustice to the understand-ing of speciﬁ  c injury mechanics.
+  Based on the knowledge of where the shoulder hurt 
+during swimming and which phase of the stroke provoked the injury, an anatomical study was designed to determine the proximity of soft tissues with skeletal tissue. Nine cadaver shoulders were placed in the positions during the ﬁ  rst half of 
+pull-through, and cross-sections were taken. Five of the specimens exhibited bursal and intraarticular contact with the rotator cuff. This is now called a  double squeeze  (of the 
+rotator cuff). Three of these specimens also revealed the biceps tendon in contact with the coracoacromial arch. Two other specimens demonstrated intra-articular contact only, and two demonstrated bursal contact only. 
+ 2   Two of the 
+specimens with intra-articular cuff contact demonstrated greater tuberosity contact with the acromion. The site of intra-articular contact was the most common in the anterior-superior labrum (ﬁ  ve specimens). Cadaver speci-
+mens greatly simplify the issue of shoulder problems in swimmers because they cannot account for the inﬂ  ammation 
+that would accompany the microtrauma of injury. The inﬂ ammation could cause more, or different, areas of con-
+tact. The cadavers cannot account for any pathological insta-bility or muscular fatigue or substitution mechanics that may occur. Although simpliﬁ  ed, this cadaver model allows a clini-
+cian to understand the multiplicity of anatomical contact areas (bursal and intra-articular areas) during the most painful phase of the freestyle stroke.
+    The Strokes
+  The shoulder is the primary area of interest to clinicians 
+working with swimmers because of its vulnerability to injury. The visually apparent mechanics related to potential shoulder injury in the freestyle, backstroke, and butterﬂ  y 
+strokes is that of humeral position relative to the axis of the body. Figures 14-2, these three strokes and demonstrates the problem of humeral hyperextension relative to body axis. For the purposes of this chapter,  humeral hyperexten-
+sion  is deﬁ  ned as a combination of humeral abduction and 
+extension (i.e., the humerus is behind the long-axis of the body while the arm is abducted). This position places stress on the anterior joint structures. Too much or too little body rotation changes the position of the humerus relative to the body axis, and thus is related to humeral hyperextension. Whether these faulty mechanics cause the pathological muscle ﬁ  ring patterns or whether weak or fatigued muscles 
+cause these faulty mechanics is a bit like the issue of the chicken and the egg. The changes in muscle ﬁ  ring patterns 
+are not as visually apparent as is the body rotation; however, knowledge of the faulty muscle ﬁ  ring patterns deﬁ  nes the 
+underlying issues and allows the clinician to effectively and efﬁ ciently diagnose and treat the problem.
+Hand entry Forward reach Pull-through Middle pull-through Hand exit Middle recovery70% 18%
+ Figure 14-1     
+Painful phases of the freestyle stroke. Seventy percent of painful symptoms are identiﬁ  ed during the ﬁ  rst 
+half of pull-through. Eighteen percent of symptoms are identiﬁ  ed during the ﬁ  rst half of recovery.     (From 
+ Pink MM , Tibone JE: The painful shoulder in the swimming athlete,  Orthop Clin North Am  31[2]:248, 
+2000.)
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   332 ch14-331-349-9781416022640.indd   332 8/5/10   4:15:50 PM 8/5/10   4:15:50 PM
+ Applied Biomechanics of Swimming  CHAPTER 14 333
+ Figure 14-2     
+Humeral hyperextension.  A,  During the freestyle stroke. Hand exit  (left)  and hand entry  (right).   
+B,  During the butterﬂ  y stroke. C, During the backstroke.figure 2
+Afigure 1
+figure 1
+Bfigure 2
+figure 3
+figure 4
+figure 1
+figure 2
+C
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   333 ch14-331-349-9781416022640.indd   333 8/5/10   4:15:51 PM 8/5/10   4:15:51 PM
+334 SECTION II  Applied Biomechanics of Selected Sport Activities
+  The following is intended to be a synopsis of the 
+key factors in each of the four competitive strokes. There are multiple excellent books and articles on swimming mechanics for those with an interest in more detail. Some of the articles are referenced herein. Two books on basic swim mechanics are those by Ernest Maglischo 
+ 3   and 
+Cecil M. Colwin.  4  
+   Freestyle Stroke
+   Mechanics
+  The basic arm mechanics—with the arm position marking 
+different phases of the freestyle stroke—are as follows ( Figure 14-3   ):
+    1.   The arm enters the water and extends forward in 
+front of the shoulder. The underwater pull-through starts with the  early pull-through  phase, which is 
+marked by the initiation of the backward arm move-ment. The palm and forearm should face the back-ward direction with the ﬁ  ngertips pointing down for 
+ as long as possible. 
+     2.   The point at which the humerus is perpendicular to 
+the body is called the  mid pull-through. 
+     3.   Subsequent to mid pull-through is the  late pull-
+through.  The hand continues back and passes next 
+to the hip until it exits the water, leading with the elbow.
+     4.   After the arm exits the water, the  recovery phase  
+begins, when the arm is swung above the water to bring the arm into position to pull once again.
+     The arm motion is accompanied by axial rotation of 
+the body. Many swimmers are taught to rotate, yet some degree of rotation will naturally occur toward the side of arm entry. As the arm is entering and the elbow is extend-ing, the shoulder and side of the body rotate below the surface of the water. During the recovery, that same shoulder and side of the body begin to counter-rotate above the surface of the water (while the opposite shoul-der is rotated down).  As previously mentioned, it has been noted that shoul-
+der pain occurs most frequently in two phases of the stroke: (1) the early pull-through to mid pull-through and (2) hand exit to mid-recovery. 
+ 2   There is potential in 
+both of these phases for humeral hyperextension that could likely cause pain (see  Figure 14-2 ,  A ). When adjust-
+ing to mitigate the pain, the swimmer will most likely seek a path of least resistance and decrease efﬁ  ciency of the arm 
+stroke while shortening the pull-through phase. One of the easiest ways to see this is during an increase in stroke count.
+  Swimmers with painful shoulders may begin to use a 
+wider hand-entry and a wider pull-through to diminish the pinching of an inﬂ  amed supraspinatus. A wide hand-entry 
+and wide pull-through, combined with the body rotation, can increase the likelihood of humeral hyperextension.
+  It is important to take notice of the shoulder complex 
+in relation to trunk rotation when a swimmer takes a breath. Observations of elite swimmers from an underwa-ter front view shows a maximum trunk rotation of approximately 30° to 40° down from the surface of the water on each side. The purpose of the rotation should be to aid in the forward progression, not to rotate the body onto its side. It is common for a swimmer to rotate exces-sively during a breathing cycle, sometimes rotating as much as 90°. In other words, if a swimmer breathes to the right side, there will be a tendency to rotate onto the left side too much. A situation of over-rotating like this is a no-win situation. If the swimmer maintains the optimal pull-through mechanics, the excessive trunk rotation may lead to humeral hyperextension. If the swimmer avoids the humeral hyperextension by keeping the arm in front of the body, it is a major mechanical ﬂ  aw that will not 
+maximize propulsion.
+  Another way that the injured swimmer may reduce 
+humeral hyperextension is to adjust the timing of the arm strokes to a “catch-up” timing as opposed to being sym-metrically opposite each other. “Catch-up” timing is when the arm phases overlap slightly, so that the recovery arm is on the late recovery while the underwater arm is still in the early pull-through. This reduces body rotation during the early to mid pull-through, thus decreasing the chances for humeral hyperextension.
+  During the hand exit to mid-recovery, humeral hyperex-
+tension can be reduced by swinging the arm wider and decreasing elbow ﬂ  exion. The elbow does not have to be 
+very high or close to the body (i.e., the emphasis should not be on a high elbow recovery). The recovery should be relaxed and controlled, and it is acceptable to swing the hand around to the side.
+  The recovery phase should be led by the elbow. Some 
+swimmers try to lead with the hand. They overemphasize the ﬁ nish motion of the pull-through and actively ﬂ  ick the 
+wrist out of the water upon exit. When they ﬂ  ick the wrist, 
+they are also typically increasing the humeral hyperextension, 
+ Figure 14-3     
+Phases of the swimming stroke.     (From  Pink M , Perry J, Browne A, et 
+al: The normal shoulder during freestyle swimming,  Am J Sports Med  
+19:569–576, 1991.)
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   334 ch14-331-349-9781416022640.indd   334 8/5/10   4:15:51 PM 8/5/10   4:15:51 PM
+which increases the vulnerability of the shoulder. Also, it 
+typically changes the initiation of recovery by increasing humeral internal rotation.
+    Muscle Activity
+  Clinically, the key to potential pathological conditions in the 
+shoulder during the freestyle stroke may be related to the serratus anterior. In swimmers with normal shoulders, the serratus anterior continually ﬁ  res above 20% of its maxi-
+mum. 
+ 5   This muscle appears to be stabilizing the scapula in a 
+protracted position as the arm pulls the body over itself. When a muscle continually ﬁ  res above 20%, it is susceptible 
+to fatigue. 
+ 6   With the distances required during swim training, 
+the serratus anterior is certainly vulnerable to fatigue. Indeed, in swimmers with painful shoulders, the serratus anterior demonstrates signiﬁ  cantly less muscle action during a large 
+portion of pull-through ( Figure 14-4 ,    A ). Although the 
+serratus anterior diminishes its action during pull-through, the rhomboids increase their activity ( Figure 14-4 ,  B ). It may 
+be that, in an attempt to stabilize the scapula during the ab-sence of the serratus anterior, the primary muscles available are the rhomboids. Yet the action of the rhomboids (retrac-tion and downward rotation of the scapula) is the exact opposite of the serratus anterior (protraction and upward rotation). This may well be positioning the acromion to im-pinge on the rotator cuff.
+  Another muscle to consider when studying muscle activ-
+ity during the freestyle stroke is the subscapularis. In swim-mers with normal shoulders, this muscle also continually ﬁ res above 20% of its maximum. 
+ 5   And, in swimmers with 
+painful shoulders, there is signiﬁ  cantly less activity during 
+pull-through ( Figure 14-4 ,  C ).  7  
+  Of interest, the primary “power” muscles of the shoul-
+der during swimming (the latissimus dorsi and the pecto-ralis major) demonstrate no signiﬁ  cant differences when 
+comparing normal versus painful shoulders. So it appears that these muscles may not be integral in the prevention of injury ( Figures 14-4 ,  D  and  14-4 ,  E ). 
+ 7   Also of note, 
+neither the supraspinatus, teres minor, nor posterior deltoid exhibit any signiﬁ  cant differences in muscle activ-
+ity between painful and nonpainful or normal shoulders ( Figures 14-4 ,  F–H ). 
+ 7  
+  As a clinician, one application of this research information 
+is to ensure there is both a strengthening and endurance component for the serratus anterior and the subscapularis in a swimmer’s conditioning program. Another application is to watch for the initial signs of fatigue in these muscles, as that may be the start of a chain of injury.
+     Butterﬂ  y
+   Mechanics
+  The butterﬂ  y stroke is a bilateral activity, as opposed to a 
+reciprocal, unilateral pattern in the freestyle and backstroke. The pull pattern and body motion are also different, with the butterﬂ  y stroke typically consisting more of an  
+S -shaped 
+pulling pattern ( Figure 14-5   ) and the upper body pivoting 
+up and down about the hips, instead of rotating about the central axis as in freestyle and backstroke.
+  The hands enter the water with the arms extended for-
+ward and in front of the shoulder. The upper body presses down at the same time the arms enter the water to generate a more dynamic motion on entry and support the swim-mer’s forward motion. The hands and arms should remain extended forward during the upper body press, as opposed to aiming downward. This being the case, the magnitude of the upper body press has a great inﬂ  uence on the subse-
+quent motion of the early pull-through and on susceptibil-ity to shoulder pain. Swimmers who press the chest down such that the hands and arms are above the torso are gener-ally in a more risky shoulder position in the early pull-through because this leads to the humeral hyperextension (the humerus is behind the axis of the body). The pulling pattern for a swimmer with a deep upper body press tends to go wide and well outside the shoulder on the early pull-through. If a swimmer is experiencing shoulder pain in the early pull-through, a possible corrective measure for the mechanics is a change in the depth of the upper body press and focusing on keeping the arms in line or in front of the body.
+  During late pull-through and the beginning of the 
+recovery phase, there is also a chance for the shoulder to be at risk. At the beginning of the late pull-through, the arms are bent and the hands are underneath the hips. The arms then extend, with the hands sweeping outward and the arms lifting upward to exit the water and transition into the recovery phase. There is potential for the humerus to be internally rotated during the arm exit and early recovery phase. A swimmer should not overemphasize the end of late pull-through and lift the hands out of the water too high; instead, he or she should keep his or her hands as close to the surface of the water as possible in the early recovery phase.
+  With the undulating body motion in the butterﬂ  y, the 
+swimmer takes a breath by lifting the upper body upward throughout the underwater pull-through. The swimmer should use the forces generated by the pull-through to lift the upper body just enough for the shoulders and head to clear the surface, but it is common for swimmers to force-fully arch the back and throw the head upward to do this. This action, followed by lunging forward on arm entry, can stress the spine and lower back.
+    Muscle Activity
+  As with the freestyle stroke, the pattern of disruptive 
+muscle ﬁ  ring patterns during the butterﬂ  y are primarily 
+seen in the muscles attaching to the scapula. The two muscles with clinically relevant muscle ﬁ  ring changes in the 
+painful shoulder during the butterﬂ  y are the serratus anterior 
+and the teres minor. 
+ 8   In swimmers with painful shoulders,  Applied Biomechanics of Swimming  CHAPTER 14 335
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   335 ch14-331-349-9781416022640.indd   335 8/5/10   4:15:51 PM 8/5/10   4:15:51 PM
+336 SECTION II  Applied Biomechanics of Selected Sport Activities
+100
+80604020
+0NORMAL AND PAINFUL - SUBSCAPULARIS
+NORMAL
+PAINFUL
+EARL Y
+CLATE
+PULL-THROUGHLATE EARL Y
+RECOVERYAVE MUSCLE ACTIVITY
+PHASE100
+80604020
+0NORMAL AND PAINFUL - PECTORALIS MAJOR
+NORMAL
+PAINFUL
+EARL Y LATE
+PULL-THROUGHLATE EARL Y
+RECOVERYAVE MUSCLE ACTIVITY
+PHASE D
+100
+80604020
+0NORMAL AND PAINFUL - LATISSIMUS DORSI
+NORMAL
+PAINFUL
+EARL Y LATE
+PULL-THROUGHLATE EARL Y
+RECOVERYAVE MUSCLE ACTIVITY
+PHASE E
+NORMAL AND PAINFUL - TERES MINOR
+100
+80604020
+0NORMAL
+PAINFUL
+EARL Y LATE
+PULL-THROUGHLATE EARL Y
+RECOVERYAVE MUSCLE ACTIVITY
+PHASE GNORMAL AND PAINFUL - POSTERIOR DELTOID
+100
+80604020
+0NORMAL
+PAINFUL
+EARL Y LATE
+PULL-THROUGHLATE EARL Y
+RECOVERYAVE MUSCLE ACTIVITY
+PHASE HNORMAL AND PAINFUL - SUPRASPINATUS
+100
+80604020
+0NORMAL
+PAINFUL
+EARL Y LATE
+PULL-THROUGHLATE EARL Y
+RECOVERYAVE MUSCLE ACTIVITY
+PHASE F100
+80604020
+0NORMAL AND PAINFUL - SERRATUS ANTERIOR
+NORMAL
+PAINFUL
+EARL Y
+ALATE
+PULL-THROUGHLATE EARL Y
+RECOVERYAVE MUSCLE ACTIVITY
+PHASE B100
+80604020
+0NORMAL AND PAINFUL - RHOMBOIDS
+NORMAL
+PAINFUL
+EARL Y LATE
+PULL-THROUGHLATE EARL Y
+RECOVERYAVE MUSCLE ACTIVITY
+PHASE
+ Figure 14-4     
+Normal and painful shoulders muscle ﬁ  ring during the freestyle.  A,  Serratus anterior.  B,  Rhomboids. 
+ C,  Subscapularis.  D,  Pectoralis major.  E,  Latissimus dorsi.  F,  Supraspinatus.  G,  Teres minor.  H,  Posterior 
+deltoid.     (From  Scovazzo ML , Browne A, Pink M, et al: The painful shoulder during freestyle swimming: 
+An electromyographic cinematographic analysis of twelve muscles,  Am J Sports Med  19[6]:579-581, 1991.)
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   336 ch14-331-349-9781416022640.indd   336 8/5/10   4:15:52 PM 8/5/10   4:15:52 PM
+ Applied Biomechanics of Swimming  CHAPTER 14 337
+ Figure 14-5     
+ S -shaped pull of the freestyle swimming stroke.      (From  Pink M , Perry 
+J, Browne A, et al: The normal shoulder during freestyle swimming,  Am J Sports Med   19:569–576, 1991.)
+the hand entry is wider than that of the swimmers with 
+normal shoulders. This is also one of the two common points at which swimmers experience shoulder pain during the butterﬂ  y stroke. 
+ 2   With the wider hand entry, the 
+scapula does not need as much upward rotation or protrac-tion, as evidenced by the decreased activity in the serratus anterior. The teres minor also reveals signiﬁ  cantly less 
+action, most likely caused by the altered scapular and hu-meral position.
+  During the powerful pulling in the butterﬂ  y stroke, the 
+swimmers with painful shoulders continue to demonstrate less action in the serratus anterior. This muscle is not ﬁ  ring 
+enough to stabilize the scapula or to assist with the pulling of the body over the arm. The decreased ﬁ  ring may be 
+attributable to fatigue. In the normal shoulders, the serratus anterior constantly ﬁ  res above 20% (which, as previously 
+discussed, leaves it susceptible to fatigue). In the painful population, the serratus anterior may have become fatigued, hence the markedly depressed muscle activity and the resul-tant unstable scapula.
+  With an unstable or “ﬂ  oating” scapula, the teres minor 
+is unable to control the humeral rotation caused by the powerful pectoralis major. Therefore, these two muscles (the serratus anterior and the teres minor), which are attached to the scapula, lack the synergistic interplay to assist with propulsion and balance the rotatory humeral motion ( Figure 14-6   ).
+  At the end of the recovery phase, the teres minor also 
+exhibits decreased muscle activity in the swimmer with a painful shoulder. This is most likely because the muscle is preparing for the wider hand entry, and thus does not require as much action.
+  The butterﬂ  y is not a stroke in which the swimmer puts 
+in the same yardage as the freestyle stroke without a rest period between sets. Therefore, the concern is not as great for fatigue in the butterﬂ  y as it is for the freestyle. Yet the 
+fact that the swimmers who perform the butterﬂ  y actually 
+train largely with the freestyle stroke cannot be overlooked and fatigue must be considered.
+     Backstroke
+   Mechanics
+  The backstroke is similar to the freestyle stroke in that the 
+arms stroke reciprocally and are supported by a trunk rota-tion and a leg kick. Obviously, the major difference between the backstroke and the freestyle is that the backstroke is performed supine. In the backstroke, the shoulder is vulner-able to injury similarly to the freestyle, and the relationship between the arm and the body orientation is important to note.
+  The phases are the same for the two strokes. The begin-
+ning of the pull-through is marked by the hand entry of the 
+ Figure 14-6     
+With a ﬂ  oating scapula during the butterﬂ  y stroke there is no stable base and the teres minor and serratus 
+anterior cannot function adequately.
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   337 ch14-331-349-9781416022640.indd   337 8/5/10   4:15:52 PM 8/5/10   4:15:52 PM
+338 SECTION II  Applied Biomechanics of Selected Sport Activities
+swimmer with the arm extended above the head. The arm 
+becomes submerged and the hand and arm press toward the feet. The mid pull-through phase begins when the humerus is perpendicular to the body. The arm continues to move toward the feet, and at the end of the late pull-through, the elbow straightens out with a slight downward press before lifting out of the water to start the recovery phase. The elbow is fully extended throughout the recovery phase and travels straight over the top of the water and overhead to the point of hand entry.
+  The timing of the body rotation as it relates to the arm 
+entry and early pull-through is important. To maximize performance and minimize shoulder vulnerability, the body should be rotating in synchrony with the arm. In other words, if the humerus is oriented 30° below the surface, the torso should be rotated a similar amount below the surface at that time. However, oftentimes this is not the case, because it is typical for the timing of the body rotation to lag behind the arm mechanics. Common symptoms of a late body rotation are a hand entry that crosses inside the shoul-der width and a hand entry with the back of the hand. In this situation, in which the arm stroke leads the body rotation, the humerus is hyperextended. For the body rota-tion and arm motion to be in sync, it is important that the body rotation is initiated at the mid-recovery phase so that at hand entry, the shoulders are horizontal in the water. The body rotation continues as the arm is submerged and the early pull-through is started. The swimmer should rely on the leg kick and the late pull-through to properly execute the body rotation.
+  Variations across swimmers in the mechanics of the early 
+pull-through phase can also affect the degree of shoulder vulnerability. After the hand enters the water, the early pull-through can vary in depth, palm orientation, and direction of the initial motions. Although observations of today’s elite backstrokers show that their palms rotate toward the feet very shortly after hand entry and their arms stay to the side of the body, many swimmers have been taught to press downward immediately after entry to have a deep pull. A deep, early pull-through can lead to a humeral hyperex-tension because the body is not rotated enough—or soon enough. If a swimmer is experiencing shoulder pain in the early pull-through phase of backstroke and the swimmer is observed to have a straight arm and deep initial pull, then some stress on the shoulder may be relieved with a suggestion to keep the pull more shallow and the arm closer to the body.
+  At the end of the late pull-through, when the hand exits 
+the water, it is important that the hand exit the water with the thumb ﬁ  rst. Lifting the arm out with the pinky ﬁ  rst will 
+result in excessive humeral internal rotation. This will increase the pinching of the supraspinatus on the undersur-face of the acromion. The hand then rotates during mid-recovery so that the hand can enter the water with the pinky ﬁ  rst and the palm rotated out.    Muscle Activity
+  The muscle action during the backstroke, by mere virtue of 
+the swimmer being on his or her back, is widely different from that of the other strokes. The muscles most active dur-ing the powerful pull-through are the teres minor and the subscapularis 
+ 9  ; and obviously, these two muscles were not 
+designed for power. Even during the peak moments of pull-ing, the latissimus dorsi reveals 30% less action than does the teres minor and the subscapularis in swimmers with normal shoulders. So, not only is the backstroke swimmer at risk because of the aforementioned humeral hyperexten-sion and levering of the humeral head anteriorly, but these athletes require the small rotator cuff muscles to perform as power muscles.
+  In addition, during pull-through, the teres minor and 
+subscapularis are constantly active at approximately 30% maximum voluntary contraction. Thus it appears that these two rotator cuff muscles are functioning as power drivers as well as endurance muscles.
+  At the same time as the depressed activity in the teres 
+minor in the backstrokers with painful shoulders, the rhom-boids also exhibit less action. 
+ 10   Apparently, the scapula is not 
+retracted properly in early recovery and hence there may be less clearance for the humeral head under the acromion.
+  A third rotator cuff muscle, the supraspinatus, demon-
+strates suppressed activity toward mid pull-through in the swimmers with painful shoulders. 
+ 10   Given the decreased 
+action in three of the four rotator cuff muscles, one can reasonably conclude that there could be difﬁ  culty in 
+depressing the humeral head for adequate clearance of the acromion during pull-through.
+     Breaststroke
+   Mechanics
+  The breaststroke is the oldest of all competitive swim 
+strokes, and it is unique in that the arms do not exit the water. In this stroke, the legs are more of the propeller or power drivers than are the arms. It appears that the least number of complaints of shoulder pain appear to occur with the breaststroke. And, the issue of body rotation along with humeral hyperextension is minimal. This stroke uses a bilat-eral arm motion in which the arms reach forward and then sweep outward (the beginning of the pull-through), while the elbows begin to ﬂ  ex. When the hands are in line with 
+the mid-chest, the hands move inward in a circular pattern until they meet in front of the chest and are thrust forward (recovery) once again. Because the arms remain in front of the body at all times, the shoulders are not at high risk in the breaststroke.
+  Just like the butterﬂ  y, the body motion in the breast-
+stroke is centered around the hips. The swimmer breathes by lifting the head up as well, but because the breaststroke arm motion leads to a much more natural lifting of the 
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   338 ch14-331-349-9781416022640.indd   338 8/5/10   4:15:53 PM 8/5/10   4:15:53 PM
+ Applied Biomechanics of Swimming  CHAPTER 14 339
+upper body, the spine and lower back are not as susceptible 
+to pain as in the butterﬂ  y stroke.
+  The kicking motion most frequently used in competition 
+is the whip kick, a symmetric, bilateral action ( Figure 14-7   ).
+  The kick motion starts with the legs fully extended 
+horizontally. The knees bend and move forward as the heels are brought as close to the buttocks as possible. When the heels reach their highest point, the feet rotate outward so that the toes point to the side, and will also move wide of the knees. The knees and feet push back-ward and inward from that position until reaching full extension with the legs together again. Forward propul-sion is generated primarily by the force of the inside of the feet and lower leg pushing directly against the water. The feet and knee orientation during the propulsive portion of 
+the kick can create issues with the knee, and the forceful inward motion can lead to a pulled groin muscle. A swim-mer can reduce the risk of injury in these cases with proper warm-up and conditioning.
+    Muscle Activity
+  During pull-through, breaststroke swimmers with painful 
+shoulders demonstrate an increase in activity in the sub-scapularis and the latissimus dorsi. 
+ 11   The increased sub-
+scapularis activity, along with a decrease in the action of the teres minor, leads to a relative increase in internal rotation. The increased internal rotation places the arm in a position that is vulnerable to impingement. The increase in latissi-mus dorsi action may assist with humeral head depression to relieve the impingement.
+      Subtle Signs of Injury
+   Pain versus Soreness
+  Soreness versus pain: One is expected in the competitive 
+athlete and the other is a signal of potential anatomical damage. Thus, it is appropriate to spend a moment dis-cussing the difference between “pain” and “soreness.” The perception of pain may be inﬂ  uenced by the society in 
+which the person lives. Some cultures are more reticent to admit to pain than others. For example, baseball players in Japan in the late 1800s were not allowed to admit to pain, but rather would say “Kayui” or “it itches.” Groups of athletes can be their own societies. In our training rooms today, we might see the opposite of the Japanese ball play-ers from the 1800s: Upon inquiry and examination, we may ﬁ  nd that a good portion of the pain that was initially 
+reported by athletes in the training room may end up be-ing soreness. When societies shift their perception of pain, the relative nature of the pain scale interpretation must shift also. Therefore, it is worth asking an athlete if the feeling is really one of pain or one of soreness. Soreness can be expected. It is natural for intense workouts to cause soreness.
+  The feeling of “soreness” is loosely herein deﬁ  ned as a 
+generalized feeling in the muscles, whereas the feeling of “pain” is loosely deﬁ  ned as a deeper, and sometimes sharper, 
+more localized feeling. True pain infers the potential for anatomical damage. This damage means it is probably time to see a physician—and perhaps time to cease training until the issue is resolved. The words to communicate pain versus soreness may offer a challenge. Yet every athlete knows what true pain is.
+  Pain scales are common in medicine. When a nonathlete 
+patient is recovering from surgery, he or she may be encour-aged to take his or her pain medications when the pain hits a “3” or “4.” The relative shift in the pain scale is very dif-ferent for competitive athletes. Coaches and strength and conditioning professionals want to break the athletes down 
+A
+B
+ Figure 14-7    
+Whip kick.  A,  Propulsion generated during the inward portion of the 
+insweep of the breaststroke kick.  B,  Propulsion is produced during the 
+downward portion of the insweep of the breaststroke kick. The illustra-tion shows how water can be displaced backward by the combination of direction and angle of attack during the ﬁ  rst downward portion. 
+  
+  (From Costill DL, Maglischo EW, Richardson AB, International 
+Olympic Committee:  Swimming,  An IOC Medical Commission 
+Publication, pp 102-103, Oxford, 1992, Wiley-Blackwell.)
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   339 ch14-331-349-9781416022640.indd   339 8/5/10   4:15:53 PM 8/5/10   4:15:53 PM
+340 SECTION II  Applied Biomechanics of Selected Sport Activities
+with high-level training to ultimately make them stronger. 
+In the case of the swimmer, this is usually mid-season.
+  Pain exists on a continuum—and yet with our interpreta-
+tion and discussion of pain, we are trying to ﬁ  t it into 
+categories. Although the categorization of pain is easiest for discussion purposes, it is not entirely accurate. So, when combining the categorical discussion along with societal inﬂ uence, interpretation of a pain scale can be difﬁ  cult in 
+this population. The true accuracy comes from an integra-tion of the pain scale with observations of the athlete, the on-deck personnel, and the medical professionals.
+   Athlete’s Pain Scale
+  An athlete’s pain scale is suggested in  Figure 14-8   . This scale 
+is currently under investigative study, and hence the reliabil-ity and validity are unknown. The authors choose to present it, however, to make the point of differentiating pain from soreness, as well as the point that an athlete’s perception of pain may well require a different interpretation from that of a nonathlete.
+  The standard 10-cm horizontal line is used for this pain 
+scale, which has a mark at every centimeter, with the 0 and the 10 numerically identiﬁ  ed (see  Figure 14-8 ). The differ-
+ent zones of white to red are used for the purpose of com-municating with the health care professional. The color codes are not necessarily presented to the athlete.
+   White Zone (0-3).   Symptoms in the white zone indi-
+cate fatigue and soreness from training rather than true pain. This zone is a normal part of the intensity of training in a competitive athlete. The athlete can continue to train and continue with his or her exercise conditioning program when pain is reported in this zone. As the athlete increases the intensity of pain on the scale, the athlete may progress 
+to “shampoo arm syndrome” (i.e., it is hard for the athlete to lift his or her arm to shampoo his or her hair in the shower after workout) and faulty mechanics by the end of the workout. As the athlete reaches a level 3 pain, ice is recommended, and the athlete needs to make certain he or she is performing his or her conditioning program appro-priately. At this point, mechanics are normal at the begin-ning of the workout, and may have adapted by the end of the workout because of fatigue. Within this zone, the athlete is still able to complete a full workout but may need to minimize certain strokes to avoid pain. Pain may last 2 to 4 hours after practice, but is resolved upon waking the next day.
+    Yellow Zone (4-5).   The yellow zone is the “heads-up” 
+zone, signaling caution, yet basically managed by the ath-lete and the coach. Almost all competitive athletes reach this zone at some point in the season. The coach is trying to break down the athlete so that he or she can then pro-gress to the next level of performance. If the athlete’s pain increases throughout this zone, his or her mechanics may become faulty, stroke disciplines modiﬁ  ed, and workout 
+distances decreased. Minor performance inconsistencies develop early in this zone, yet the athlete can still com-pete well enough to win. As this zone progresses, the performance diminishes. Pain may be experienced with forceful arm movements during swimming. Pain may last 4 to 8 hours following a workout, and could be experi-enced on waking the next day. Management strategies for this zone include a longer-than-normal warmup with slow swimming. It is recommended that sprint sets and hand paddles be eliminated from practice. Fins can be used during 
+White Zone (0-3): Normal level
+- continue to train- fatigue and soreness during and post-workout- handle with coach and athlete
+Yellow Zone (4-5): “Heads-up” level
+- continue to train- review conditioning program- handle primarily with coach and athlete
+Orange Zone (6-8): Rehabilitation
+- consider removing from training
+Red Zone (9-10): Remove from training
+- refer to physician- anatomical damageWhite Zone
+01 0Y ellow Zone Orange Zone Red Zone
+ Figure 14-8    
+Athlete’s pain scale.
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   340 ch14-331-349-9781416022640.indd   340 8/5/10   4:15:54 PM 8/5/10   4:15:54 PM
+ Applied Biomechanics of Swimming  CHAPTER 14 341
+practice to unweigh the shoulders. To maintain a feel of 
+the water, the athlete can kick in a side-lying or vertical position, but with the involved arm down by the side. The conditioning program should be reviewed with the athlete before and after a workout with a level 4 pain. Once again, adaptations in the program performed after the workouts are probably secondary to fatigue (and simple planar motions may exhibit scapular asymmetry), whereas substitution patterns in the program before a workout need attention. The true pain is probably local-ized (the soreness and fatigue are generalized). Ice is recommended after practice and before bedtime. If the athlete cannot return to pain-free swimming within 7 to 10 days of modifying the stroke, workout, and condition-ing program, referral to sports medicine staff may be appropriate.
+    Orange Zone (6-8).   The orange zone is the rehabili-
+tation zone. Once the pain duration consistently spills into the next day (level 6), the swimmer should be referred to sports medicine staff. This could be the start of potential anatomical damage. The power portion of the upper-extremity conditioning program should be consid-ered and probably discontinued by the time the swimmer’s pain is in this zone. Early in this zone (level 6), the coach may want to consider a 3-day rest from workouts. If the swimmer does not improve with a 3-day rest, then a referral to a physician is appropriate.
+    Red Zone (9-10).   This zone represents anatomical 
+damage. The athlete is unable to perform at a competitive level, must stop swimming altogether for an undetermined period, and needs to be under the care of a physician, physical therapist, or athletic trainer.
+      Mechanical Changes
+  Mechanical changes in the body go hand-in-hand with 
+fatigue, soreness, and pain. Swimmers will modify their stroke because of these factors before they decrease work-outs. The mechanical changes caused by fatigue are identi-ﬁ ed prior to the pain modiﬁ  cations. These alterations obvi-
+ously show up toward the end of the workout as fatigue increases. When the fatigue-induced mechanical changes show up early in the workout, then the swimmer may need a recovery workout or a day of rest. The butterﬂ  y is likely 
+the ﬁ  rst stroke to demonstrate mechanical changes, 
+followed by the freestyle and the backstroke. The breast-stroke is likely the most mechanically enduring stroke related to fatigue, soreness, and pain.
+  Mechanical ﬂ  aws and adaptations are easiest to see from 
+the underwater vantage point. Ideally, all pools would have underwater windows, both laterally and under the pool. A more practical solution is the use of underwater video, which has become an affordable and valuable analysis tool. The most subtle changes in mechanics will be very difﬁ  cult 
+for a relatively naïve eye to catch, and the use of digital video analysis software can aid a coach and clinician to 
+diagnose mechanics.
+  Because the medical personnel are not typically on-deck 
+with the swimmers and coaches, it behooves sports clinicians to be a bridge between the clinics and the deck. Thus, it is important that sports clinicians converse with the coaches and on-deck personnel about the subtle mechanical changes that may lead to anatomical damage.
+  Because the freestyle is the most used stroke, the me-
+chanical changes caused by fatigue, soreness, and pain are noted herein for that stroke.  Table 14-1 
+   presents some of 
+the more common potential mechanical changes in the freestyle stroke.
+     Clinical Implications
+  Repetitive overuse appears to be a major contributor to 
+shoulder pain in swimmers. In addition to the aforemen-tioned mechanics, which can lend to impingement, other contributing factors for swimmer’s shoulder include (1) overuse and subsequent fatigue of the muscles around the shoulder, scapula, and upper back; and (2) glenohu-meral laxity. These factors are all related, because impinge-ment may be caused by altered glenohumeral kinematics resulting from muscle fatigue or glenohumeral laxity. Other associated ﬁ  ndings include muscle imbalances and 
+inﬂ exibility, such as tightness of the pectoral muscles, 
+and sometimes inﬂ  exibility of the posterior capsule and 
+posterior rotator cuff.
+   Muscle Fatigue and Dysfunction
+  Because the shoulder is an inherently unstable joint, muscle 
+forces are critical for maintaining stability, proper motion, and painless function. As previously discussed, performance of the swimming stroke requires a highly coordinated pattern of muscles ﬁ  ring at precisely the right time to pro-
+vide the most efﬁ  cient and powerful stroke. If one muscle 
+fatigues, it is as if one cog in a machine is malfunctioning. When that one muscle fatigues, it affects the function of other muscles in the kinetic chain.
+  Muscle dysfunction increases impingement by loss of the 
+humeral head depressor function of the rotator cuff and loss of upward rotation and elevation of the scapula. Loss of the stabilizing effect of muscles may be especially problematic in swimmers with associated shoulder laxity (discussed in the following section). Fatigue of the abdominal and pelvic muscles may also contribute by affecting scapular kinemat-ics and body position in the water.
+    Laxity
+  Many competitive swimmers have an element of shoulder 
+laxity.  12   ,   13   A certain degree of laxity may be advantageous by 
+allowing a swimmer to achieve both a body position that 
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   341 ch14-331-349-9781416022640.indd   341 8/5/10   4:15:54 PM 8/5/10   4:15:54 PM
+342 SECTION II  Applied Biomechanics of Selected Sport Activities
+reduces drag and a longer sweep during the pull-through 
+phase. It is well-established that there is a narrow distinc-tion between physiological laxity (normal) and pathological instability (abnormal). Normal laxity may increase over time because of repetitive overuse and eventually become a pathological condition. Shoulder stability is controlled by static (i.e., glenohumeral ligaments and capsule) and dynamic (rotator cuff muscles) factors. Loss of the static component (i.e., glenohumeral capsular laxity) requires a greater contribution from the rotator cuff, which can result in muscle overload and eventual muscle fatigue, as described previously. The challenge for the clinician is to distinguish between normal laxity and abnormal instability.
+  Previous studies have documented the presence of 
+increased joint laxity and glenohumeral instability in swim-mers. Bak and Faunø reported that 37 out of 49 competi-tive swimmers had increased humeral head translation with associated apprehension. 
+ 14   Furthermore, McMaster and 
+colleagues found a signiﬁ  cant correlation between shoulder 
+laxity and shoulder pain in a group of 40 elite-level swimmers. 
+ 15   The presence of underlying generalized joint 
+hypermobility was reported by Zemek and Magee.  13   These 
+authors reported both increased glenohumeral laxity and increased generalized joint hypermobility in elite swimmers. These studies suggest that a combination of acquired and inherent factors contribute to shoulder laxity in swimmers.
+  The most common pattern of instability is anteroinferior, 
+but there is often a component of multidirectional instabil-ity. Subluxation can occur during the backstroke as the hand enters the water with the swimmer on his or her back with the arm in full ﬂ  exion and external rotation. Posterior instability symptoms, although less common, may be 
+exacerbated because of the position of the arm in ﬂ  exion, 
+adduction, and internal rotation.
+    Impingement
+  Swimmers usually have a nonoutlet type of impingement, in 
+which altered kinematics rather than subacromial pathological changes (i.e., acromial osteophyte or coracoacromial ligament abnormalities) results in abnormal contact. Such impinge-ment may be subacromial (the bursal surface of the rotator cuff against the anteroinferior acromion) or intra-articular (the articular surface of the rotator cuff or biceps tendon impinges on the anterosuperior glenoid and labrum). The position of the shoulder during the recovery phase of the stroke (forward ﬂ  exion and internal rotation) is a classic 
+position for subacromial impingement. At the end of the pull-through phase of the stroke, the arm goes into hyperexten-sion, which pushes the humeral head anteriorly, which also exacerbates impingement. Use of a video analysis system to document impingement during the freestyle stroke found that impingement occurred when the hand entered the water and in the middle of the recovery phase. 
+ 16   The mean duration of 
+impingement was nearly 25% of the total stroke time. This study demonstrated that impingement was most likely in swimmers who have excessive internal rotation during the pulling phase, delayed initiation of external rotation of the arm during the recovery phase, and decreased upward scapu-lar rotation. 
+ 17   Hydrodynamic forces exerted by the water may 
+also exacerbate impingement. At the point at which the hand enters the water, the hydrodynamic force exerted on the hand  Table 14-1
+   Common Freestyle Mechanical Changes Caused by Fatigue, Soreness, and Pain
+  Mechanical Change    Effect on Stroke  
+ Wider hand entry and lateral underwater hand 
+motion  Hand starts wide and “slides” under the belly
+  Less force on the shoulder
+  Flatter hand entry
+  Avoids Neer and Hawkins impingement positions 
+ Shorten underwater reach after hand entry  Hand does not extend as far forward under water after hand entry 
+  Avoids positions that mimic Neer and Hawkins impingement positions 
+ Leading with elbow rather than hand during 
+catch and early pull-through  Attempts to decrease amount of force on hand and forearm 
+ Early hand exit  Minimizes humeral internal rotation 
+  Looks similar to hand exit with butterﬂ  y stroke 
+ Decreased trunk rotation  Related to shorter underwater reach and early hand exit 
+  Attempts maintain stroke rate 
+ Premature rotation and lifting of head prior to 
+breathing  Attempts to get arm out of water earlier and with less force in ﬁ  nal 
+position of stroke 
+ “Dropped” elbow on recovery  Decreased elbow ﬂ  exion and height 
+  More lateral swing
+  Attempts to avoid painful internal rotation of humerus 
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   342 ch14-331-349-9781416022640.indd   342 8/5/10   4:15:55 PM 8/5/10   4:15:55 PM
+ Applied Biomechanics of Swimming  CHAPTER 14 343
+generates a large moment about the shoulder joint caused by 
+the long moment arm in this position. This moment will forc-ibly elevate the arm, possibly increasing impingement. 
+ 16  
+  Alternatively, intra-articular impingement may occur 
+during the swimming stroke as the articular surface of the rotator cuff can impinge against the anterosuperior labrum adjacent to the biceps attachment as the arm is placed into forward ﬂ  exion and internal rotation. Such a mechanism 
+could account for the frequent localization of pain around the biceps tendon in swimmers. The position of forward elevation, adduction, and internal rotation may also result in impingement of the coracoid process on the lesser tuber-osity and subscapularis tendon.
+  Muscle fatigue caused by overuse may also contribute to 
+impingement. The normal rotator cuff functions to stabilize the glenohumeral joint and acts as a humeral head depres-sor, preventing subacromial impingement. It is known that loss of the humeral head depressor function of the rotator cuff results in superior migration of the humeral head and increases the risk of impingement. 
+ 18  
+     Conditioning, Prevention, 
+and Rehabilitation
+   Stretching
+  Given the discussion on laxity as well as underwater videog-
+raphy indicating that no extraordinary shoulder joint motion is necessary for a fast, efﬁ  cient stroke, there is little       Suggested Flexibility Screen for Swimmers
+           Tight streamline position (see  Figure 14-10 )
+       90/90 position (see  Figure 14-10 )       45° position (see  Figure 14-10 )reason to consider an excessive stretching program for 
+swimmers. As a matter of fact, the stretching performed by many swimmers may actually be harmful to the capsuloliga-mentous structures. Thus, it is probably more important for swimmers to stop traditional stretching practices than it is to begin proper stretching based on individual physiology. The four stretches demonstrated in  Figure 14-9    should no 
+longer be considered in a dry-land program for swimmers.
+  Stretching is athlete-speciﬁ  c. A simple shoulder screen 
+( Figure 14-10 
+  ) for coaches and on-deck personnel has been 
+developed to review the ﬂ  exibility of all members of the 
+team effectively and efﬁ  ciently. There are three positions for 
+each athlete to review:
+ Figure 14-9    
+Stretches that swimmers should NOT do.            1.    Tight Streamline Position— 1 ⁄ 2  Sit Against the 
+Wall.  This position is a sport-speciﬁ  c, functional posi-
+tion that assesses mobility in the scapulothoracic and glenohumeral joints as well as the length of the latis-simus dorsi. The swimmer should be able to complete this desired motion without difﬁ  culty with the lumbar 
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   343 ch14-331-349-9781416022640.indd   343 8/5/10   4:15:55 PM 8/5/10   4:15:55 PM
+344 SECTION II  Applied Biomechanics of Selected Sport Activities
+ Figure 14-10    
+Shoulder range of motion screen for swimmers.
+Tight Streamline –1/2 Sit Against Wall:  Assume the following tight 
+streamline position.(In order to ‘pass’ this position, all of the 5 questions in this section must be answered with a ‘Y es’.)
+90/90 Position:  Lie supine with knees bent and feet on surface. Assume
+90° of shoulder abduction in the coronal plane and 90° of glenohumeralexternal rotation.(In order to ‘pass’ this position, all 4 of the questions in this section mustbe answered with a ‘Y es’.)
+45 Position:  In standing with the humerus in full adduction (arm by your 
+side), bend your elbows to 90° and externally rotate to 45° or beyond.(In order to ‘pass’ this position, both of the questions in this section mustbe answered with a ‘Y es’.)
+Do the shoulders rotate to 45° or beyond? YES NO
+Do the elbows maintain contact with the trunk? YES NO
+If a swimmer is able to achieve at least two of the positions above, then he/she is well served with the stretching program her ein. If 
+the swimmer fails in 2 or all of the positions, then a customized stretching routine from a health care professional is recomme nded.Are the elbows in full extension? YES NO
+Are the arms by the ears? YES NOAre the hands clasped? YES NOAre the hands in contact with the wall? YES NOIs the low back in contact with the wall? YES NO
+Are the shoulders flat on the floor? YES NO
+Do the forearms and elbows rest comfortably on the floor? YES NOWhen the swimmer is asked to press his/her wrists into the surface, are the wrists flat on the surface? YES NO
+Is the back flat the surface? YES NO 
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   344 ch14-331-349-9781416022640.indd   344 8/5/10   4:15:56 PM 8/5/10   4:15:56 PM
+ Applied Biomechanics of Swimming  CHAPTER 14 345
+spine ﬂ  at against the wall, full elbow extension, and 
+clasped hands against the wall.
+     2.    90/90 Position.  This position is completed in 
+supine position. It assesses mobility of the inferior and anterior glenohumeral joint capsule as well as the blended anterior band of the inferior glenohumeral and the middle glenohumeral ligaments. 
+ 19   Shorten-
+ing of the pectoralis group is also identiﬁ  ed with this 
+position. The swimmer should be able to rest his or her forearm, wrist, and elbow comfortably on the ﬂ oor in this position while maintaining 90° of elbow 
+ﬂ exion and 90° of glenohumeral abduction. The pos-
+terior shoulder joint muscles should be in contact with the ﬂ  oor or table.
+     3.    45 °  Position.  This position speciﬁ  cally assesses the 
+length of the subscapularis. A competitive swimmer needs to be able to achieve this position with 45° of external rotation while keeping the humerus in an adducted position.
+   
+  If the swimmer is able to achieve at least two of these 
+positions, then the athlete is well served with the stretching program described in  Figure 14-11   . If the swimmer is 
+unable to achieve two or more of the positions in the shoulder screen, then consultation with a sports medicine professional is encouraged to help identify the origin of the restriction and develop a customized stretching program for that individual.
+  Based on the physical demands of swimming, under-
+standing the biomechanics of the stroke and respecting the capsuloligamentous structures, the focus of the rec-ommended stretches is to target the at-risk connective tissue while avoiding insult to the static stabilizers. Obser-vationally, it appears that only three muscle groups of the glenohumeral joint may be at risk of shortening in the swimmer. Those three groups are the (1) pectoralis mus-cles, (2) latissimus dorsi, and (3) subscapularis. If these muscles have been tight for a prolonged period, there is also a risk of tightness in the capsuloligamentous complex.
+  However, swimmers tend to have more tightness in the 
+low back than in the shoulder. Although the back is not necessarily at risk during the swim stroke, the “common” posture of the swimmer with forward shoulders, lordotic back, and genu recurvatum indicates that the soft tissue structures in the lumbar spine may shorten. In the long run, this is known to be a potential cause of back problems.
+  Although there is little, if any, research literature 
+on the musculoskeletal requirements and common limita-tions of the lower extremity, a swimmer ideally has good range of motion (ROM) at the hip and at the ankle. If there are tight hip ﬂ  exors, they could contribute to 
+a low back problem. And if there is a limitation in ankle plantar ﬂ  exion ROM, kicking efﬁ  ciency could be 
+decreased.  Based on these observations and if the swimmer “passes” 
+the shoulder screen in  Figure 14-10 , an appropriate 
+dry-land stretching routine can be found in  Figure 14-11 .
+  It is recommended that swimmers stretch at a time 
+unrelated to working out or racing (at least several hours prior to getting in the water). Pre-exercise stretching has been found to compromise muscle performance for up to 1 hour. 
+ 20-25   Postexercise stretching is not encouraged. 
+Stretching fatigued muscles tends to facilitate muscle spindle and inhibit Golgi tendon organ ﬁ  ring. 
+ 26   ,   27   General 
+guidelines for stretching include completing a speciﬁ  c 
+static stretch that targets muscle tissue one to three times for 15 to 30 seconds each, approximately 5 days a week is appropriate. 
+ 28-31   Instead of pre-exercise stretching, a 
+longer warmup in the water with increasing intensity is recommended.
+    Conditioning the Uninjured Swimmer
+  Given the muscle functions described previously, the fol-
+lowing is an offered infrastructure intended to assist the health care professional in designing a conditioning pro-gram for the uninjured swimmer that is speciﬁ  c not only to 
+swimming, but also speciﬁ  c for the individual’s competitive 
+strokes. Numerous studies identify optimal exercises for the different muscles. 
+ 32-41   The suggested optimal exercises are 
+simply that: a suggestion for a starting point in considering the conditioning program.
+  A program for competitive butterﬂ  y, backstroke, and 
+breaststroke swimming will, most likely, include the exercises for the freestyle stroke because most swimmers (regardless of competitive strokes) put in large distances with the freestyle. Coaches are encouraged to implement the strength and endurance program after practice or several hours before practice ( Table 14-2 
+  ). Exercising the muscles of the shoulder 
+complex directly before practice may lead to fatigue and subsequent faulty stroke mechanics. 
+ 7  
+    Rehabilitation
+  Given the currently known speciﬁ  city of muscle require-
+ments in the competitive swimmer, the work of the reha-bilitation professional can be much more focused than ever before. The intent of these few paragraphs is to give the professional the scaffolding on which to build the nonsurgi-cal rehabilitation program.
+  A swimmer’s inﬂ  amed shoulder is treated the same as the 
+inﬂ amed shoulder of any individual. Rest from offending 
+activities, ice, and anti-inﬂ  ammatory medication may be 
+necessary as well as potential application of modalities such as iontophoresis, ultrasound, or high-voltage galvanic stim-ulation. Once the inﬂ  ammatory process is halted, gentle 
+stretches such as those described in the conditioning pro-gram are suggested. Consideration needs to be given to safe arcs of motion for the stretches. Identiﬁ  cation of the weak 
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   345 ch14-331-349-9781416022640.indd   345 8/5/10   4:15:56 PM 8/5/10   4:15:56 PM
+346 SECTION II  Applied Biomechanics of Selected Sport Activities
+muscles begins at this stage. As reinforcement to the afore-
+mentioned material, each swimming stroke carries different muscle injury risk requiring varying levels of strength and endurance.
+  Once the weak components for the glenohumeral 
+muscles are identiﬁ  ed, the speciﬁ  c exercise program can be 
+developed. The optimal exercise program takes into consid-eration not only those exercises that optimally recruit the 
+speciﬁ  c muscles within a safe and efﬁ  cient range, but they 
+also use the most effective type of contraction (i.e., isomet-ric or concentric). For example, if the rhomboids were muscles needing strengthening, the optimal exercise is an isometric contraction while the muscles are in the maxi-mally shortened state. Although it is beyond the scope of 
+ Figure 14-11    
+Dry-land stretching recommendations for swimmers.
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   346 ch14-331-349-9781416022640.indd   346 8/5/10   4:15:57 PM 8/5/10   4:15:57 PM
+ Applied Biomechanics of Swimming  CHAPTER 14 347
+this chapter to discuss the speciﬁ  c muscle physiology for 
+each muscle, health care practitioners have such informa-tion available to them.
+  Any individual with shoulder problems beneﬁ  ts from 
+cardiovascular and muscle endurance rehabilitation. Walk-ing, rowing, stationary bicycling, and use of the elliptical are all ways to maintain aerobic conditioning. Muscle endurance training is another integral part of the reha-bilitation program for swimmers. Endurance training can be addressed with low-resistance and high-repetition ac-tivities.
+  Plyometric training has also been found to improve 
+endurance. Swanik and colleagues 
+ 42   studied the effect of 
+plyometric training on shoulder proprioception, kinesthe-sia, and selected muscle performance in a group of Division I female swimmers. After a 6-week period of a plyometric training program that focused on the internal rotators of the shoulder complex, both proprioception and kinesthesia signiﬁ  cantly improved. The Swanik study conﬁ  rmed that 
+plyometric exercises for the competitive swimmer helps to promote endurance, glenohumeral joint stability, and neuromuscular efﬁ  ciency.
+   Return to Swimming Program
+  Maintaining a feel for the water is critical during the reha-
+bilitation process and, as a result, coordinating a timely return to the pool is essential. There are speciﬁ  c benchmarks 
+in the swimmer’s return to a pool program ( Table 14-3   )  Table 14-2
+   Muscles at Risk During the Swim Stroke and Suggested Exercises
+  Stroke    Muscles at Risk    Strength or Endurance    Suggested Optimal Exercises  
+ Freestyle  Serratus anterior  Strength  Push-up plus 
+  Military press 
+ Endurance  Scaption moving from medial rotation n lateral rotation with 
+low load—use time as a measure rather than repetitions 
+  Upper-body exercises, boxing, or fencing maneuver 
+ Subscapularis  Strength and endurance  Medial rotation—low load, high number of reps 
+ Butterﬂ  y  Serratus anterior   Strength and endurance  Suggestions as with freestyle 
+ Teres minor  Strength and endurance  Lateral rotation with humeral elevation—low loads—fairly quick 
+motions—high number of repetitions 
+  Lateral rotation with humerus /H3336030° off the trunk—can be higher 
+load and slower than lateral rotation with humeral elevation 
+ Backstroke  Teres minor  Strength and endurance  Suggestions as with butterﬂ  y 
+ Subscapularis  Strength and endurance  Suggestions as with freestyle 
+ Rhomboids  Strength  Retraction with an isometric hold 
+ Supraspinatus  Strength  Flexion—challenging load to complete 15 repetitions 
+ Breaststroke  Supraspinatus  Strength  Suggestions as with backstroke 
+ Upper trapezius  Strength  Shoulder shrugs 
+ Table 14-3
+   Return to Swimming Benchmarks
+  Criteria to Allow Swimming    Swimming Activity Allowed  
+  Benchmark 1  
+  Reach above shoulder height pain free
+  Pain-free resisted movements 0° to 90°  
+  Swim 1000-2000 yards slowly and comfortably while 
+avoiding antagonizing swim strokes and sprint sets 
+  Benchmark 2 
+  Pain free with resisted shoulder motions
+  Pain free with most activities of daily living
+  Pain free with swimming 2000 yards  
+  Add 500 yards every three workouts 
+  Avoid double workouts at this time 
+  Benchmark 3  
+  Pain free swimming 4000 to 5000 yards  
+  Short sprint sets 
+  Incorporate all swim strokes 
+ 
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   347 ch14-331-349-9781416022640.indd   347 8/5/10   4:15:57 PM 8/5/10   4:15:57 PM
+348 SECTION II  Applied Biomechanics of Selected Sport Activities
+based on their progress. Adherence to a slow, progressive 
+program ensures a healthy return to the sport they love.
+      Conclusion
+  The mechanics of swimming are different from that of the 
+“overhead” athlete. Indeed each of the four swim strokes need to be considered independently. With the high rate of injury and reinjury, it is important for clinicians to un-derstand the mechanics and the cause of injury and rein-jury for each stroke. Such an understanding will not only allow the clinician and on-deck personnel to catch the subtle signs of injury, but it will also minimize the risk of potential injury and maximize the rehabilitative out-comes.
+   
+ References
+     1.    Stocker D, Pink MM, Jobe FW :  Comparison of shoulder injury in 
+collegiate and masters level swimmers ,  Clin J Sports Med   5 : 4 – 8 , 
+ 1995 .
+     2.    Pink MM, Tibone JE :  The painful shoulder in the swimming athlete , 
+ Orthop Clin North Am   31 ( 2 ): 247 – 261 ,  2000 .
+     3.    Maglischo EW : Swimming fastest ,  Champaign, IL ,  2003 ,  Human 
+Kinetics .
+     4.    Colwin CM : Breakthrough swimming: stroke mechanics, training 
+methods, racing techniques ,  Champaign, IL ,  2002 ,  Human 
+Kinetics .
+     5.    Pink M, Perry J, Browne A ,  et al :  The normal shoulder during 
+freestyle swimming ,  Am J Sports Med   19 : 569 – 576 ,  1991 .
+     6.    Monad H :  Contractility of muscle during prolonged static and 
+static dynamic activity ,  Ergonomics   28 : 81 ,  1985 .
+     7.    Scovazzo ML, Browne A, Pink M ,  et al :  The painful shoulder 
+during freestyle swimming: an electromyographic and cinemato-graphic analysis of twelve muscles ,  Am J Sports Med   19 : 
+577 – 582 ,  1991 .
+     8.    Pink M, Jobe, FW, Perry J ,  et al :  The painful shoulder during the 
+butterﬂ  y stroke: an electromyographic and cinematographic analysis 
+of twelve muscles ,  Clin Orthop Relat Res   288 : 60 – 72 ,  1993 .
+     9.    Pink M, Jobe FW, Perry J ,  et al :  The normal shoulder during the 
+backstroke: an EMG and cinematographic analysis of twelve muscles , 
+ Clin J Sports Med   2 : 6 – 12 ,  1992 .
+     10.    Perry J, Pink M, Jobe FW ,  et al :  The painful shoulder during the 
+backstroke: an EMG and cinematographic analysis of twelve muscles ,  Clin J Sports Med   2 : 13 – 20 ,  1992 .
+     11.    Ruwe PA, Pink M, Jobe FW ,  et al :  The normal and painful shoulder 
+during the breaststroke: an EMG and cinematographic analysis of twelve muscles ,  Am J Sports Med   6 : 709 – 796 ,  1993 .
+     12.    Rupp S, Berninger K, Hopf T :  Shoulder problems in high level 
+swimmers—impingement, anterior instability, muscular imbalance?  
+ Int J Sports Med   16 ( 8 ): 557 – 562 ,  1995 .
+     13.    Zemek MJ, Magee DJ :  Comparison of glenohumeral joint laxity 
+in elite and recreational swimmers ,  Clin J Sport Med   6 ( 1 ): 40 – 47 , 
+ 1996 .
+     14.    Bak K, Faunø P :  Clinical ﬁ  ndings in competitive swimmers with 
+shoulder pain ,  Am J Sports Med   25 ( 2 ): 254 – 260 ,  1997 .
+     15.    McMaster WC, Roberts A, Stoddard T :  A correlation between 
+shoulder laxity and interfering pain in competitive swimmers ,  Am 
+J Sports Med   26 ( 1 ): 83 – 86 ,  1998 .
+     16.    Yanai T, Hay JG, Miller GF :  Shoulder impingement in front-crawl 
+swimming: I.  A method to identify impingement,  Med Sci Sports 
+Exerc   32 ( 1 ): 21 – 29 ,  2000 .     17.    Yanai T, Hay JG :  Shoulder impingement in front-crawl swimming: 
+II.  Analysis of stroking technique,  Med Sci Sports Exerc   32 ( 1 ): 
+30 – 40 ,  2000 .
+     18.    Paletta GA Jr., Warner JJ, Warren RF ,  et al :  Shoulder kinematics 
+with two-plane x-ray evaluation in patients with anterior instability or rotator cuff tearing ,  J Shoulder Elbow Surg   6 ( 6 ): 516 – 527 , 
+ 1997 .
+     19.    Turkel SJ, Panio MW, Marshall JL, Girgis FG :  Stabilizing mecha-
+nisms preventing anterior dislocation of the glenohumeral joint ,  
+J Bone Joint Surg   63 : 1208–1217,  1981 .
+     20.    Knudson DV, Magnusson P, McHugh M :  Current issues 
+in ﬂ exibility ﬁ  tness ,  Pres Council Phys Fitness Sports   3 : 1 – 6 , 
+ 2000 .
+     21.    Kokkonen JA, Nelson AG, Cornwell A :  Acute muscle stretching 
+inhibits maximal strength performance ,  Res Q Exerc Sport   69 : 
+411 – 415 ,  1998 .
+     22.    Fowles JR, Sale DG, MacDougall JD :  Reduced strength after 
+passive stretch of the human plantar ﬂ  exors ,  J Appl Physiol  
+ 89 : 1179 – 
+1188 ,  2000 .
+     23.    Cornwell AG, Nelson A, Heise G, Sidaway B :  Acute effects of 
+passive muscle stretching on vertical jump performance ,  J Hum 
+Mov Stud   40 : 307 – 324 ,  2001 .
+     24.    Knudson D, Bennett K, Corn R ,  et al :  Acute effects of stretching 
+are not evident in the kinematics of the vertical jump ,  J Strength 
+Cond Res   15 ( 1 ): 98 – 101 ,  2001 .
+     25.    Cramer JT, Housh TJ, Johnson GO ,  et al :  Acute effects of static 
+stretching on peak torque in women ,  J Strength Cond Res  
+ 18 ( 2 ): 236 – 241 ,  2004 .
+     26.    Nelson HL, Hutton RS :  Dynamic and static stretch responses in 
+muscle spindle receptors in fatigued muscle ,  Med Sci Sports Exerc  
+ 17 : 445 – 450 ,  1985 .
+     27.    Hutton RS, Nelson DL :  Stretch sensitivity of Golgi tendon organ 
+in fatigued gastrocsoleus muscle ,  Med Sci Sports Exerc   18 : 69 – 74 , 
+ 1986 .
+     28.    Decoster LC, Scanlon RL, Horn KD, Cleland J :  Standing and 
+supine hamstring stretching are equally effective ,  J Athl Train  
+ 39 ( 4 ): 330 – 334 ,  2004 .
+     29.    Bandy WD, Irion JM, Briggler M :  The effect of time and 
+frequency of static stretching on ﬂ  exibility of the hamstring 
+muscles ,  Phys Ther   77 : 1090 – 1096 ,  1997 .
+     30.    Bandy WD, Irion JM :  The effect of time on static stretch on the 
+ﬂ exibility of the hamstring muscles ,  Phys Ther   74 : 845 – 852 , 
+ 1994 .
+     31.    Bandy WD, Irion JM, Briggler M :  The effect of static stretch 
+and dynamic range of motion training on the ﬂ  exibility of the 
+ham string muscles ,  J Orthop Sports Phys Ther   27 : 295 – 300 , 
+ 1998 .
+     32.    Blackburn TA, McLeod WD, White B, Wofford L :  EMG analysis 
+of posterior rotator cuff exercises ,  J Athl Train   25 : 40 – 45 , 
+ 1990 .
+     33.    Moseley JB, Jobe FW, Pink M ,  et al :  EMG analysis of the scapular 
+muscles during a shoulder rehabilitation program ,  Am J Sports 
+Med   20 ( 2 ): 128 – 134 ,  1992 .
+     34.    Wilk KE, Arrigo C :  Current concepts in the rehabilitation of the 
+athletic shoulder ,  J Orthop Sports Phys Ther   18 : 365 – 378 ,  1993 .
+     35.    Lear LJ, Gross MT :  An electromyographical analysis of the scapular 
+stabilizing synergists during a push-up progression ,  J Orthop Sports 
+Phys Ther   28 ( 3 ): 146 – 157 ,  1998 .
+     36.    Kibler WB :  Shoulder rehabilitation: principles and practice ,  Med 
+Sci Sports Exerc   30 : 540 – 550 ,  1998 .
+     37.    Decker MJ, Hintermeister RA, Faber KJ, Hawkins RJ :. Serratus 
+anterior muscle activity during selected rehabilitation exercises,  Am J Sports Med   27 ( 6 ): 784 – 791 ,  1999 .
+     38.    Blackburn TA, Guido TA :  Rehabilitation after ligamentous and 
+labral surgery of the shoulder: guiding concepts ,  J Athl Train  
+ 35 
+( 3 ): 373 – 381 ,  2000 .
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   348 ch14-331-349-9781416022640.indd   348 8/5/10   4:15:58 PM 8/5/10   4:15:58 PM
+ Applied Biomechanics of Swimming  CHAPTER 14 349
+     39.    Voight ML, Thomson BC :  The role of the scapula in the reha-
+bilitation of shoulder injuries ,  J Athl Train   35 ( 3 ): 364 – 372 , 
+ 2000 .
+     40.    Ekstrom R, Donatelli R, Soderberg G :  Surface electromyo-
+graphic analysis of exercises for the trapezius and serratus anterior muscles ,  J Orthop Sports Phys Ther   33 : 247 – 258 , 
+ 2003 .     41.    Reinold M, Wilk KE, Fleisig GS ,  et al :  Electromyographic analysis of the 
+rotator cuff and deltoid musculature during common shoulder external rotation exercises ,  J Orthop Sports Phys Ther   34 : 385 – 394 ,  2004 .
+     42.    Swanik KA, Lephart SM, Swanik CB ,  et al :  The effects of shoulder 
+plyometric training on proprioception and selected muscle perfor-mance characteristics ,  J Shoulder Elbow Surg   11 ( 6 ): 579 – 586 , 
+ 2002 .
+   
+Magee    978-1-4160-2264-0/00023
+ch14-331-349-9781416022640.indd   349 ch14-331-349-9781416022640.indd   349 8/5/10   4:15:58 PM 8/5/10   4:15:58 PM

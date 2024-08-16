@@ -1,0 +1,516 @@
+Singapore Med J 2018; 59(1): 44-49  
+https://doi.org/10.11622/smedj.2017021Original Article
+441Department of Emergency Medicine, Singapore General Hospital, 2Medical Department, HQ Singapore Civil Defence Force, Singapore
+Correspondence:  Dr Chan Shi-En Joanna, Senior Resident, Department of Emergency Medicine, Singapore General Hospital, Outram Road, Singapore 169608.  
+joanna.chan@mohh.com.sgINTRODUCTION
+There were an average of 73 cases per year of death by drowning 
+in Singapore between 1965 and 2005.(1) Drowning rates ranged 
+from 0.88 to 1.72 per 100,000 from 1992 to 2001,(2) and 
+decreased to 0.39 and 0.18 per 100,000 in 2012 and 2013, 
+respectively.(3) This is comparable to the drowning rates in 
+other high-income countries such as Australia, Sweden and the 
+United Kingdom.(4) Nevertheless, drowning prevention continues 
+to be a relevant concern, as a large number of people, mostly 
+children, go swimming in Singapore’s equatorial climate. Based 
+on reports by the Singapore Life Saving Society (SLSS), 117 cases 
+of death by drowning were heard in the Coroner’s Court during the 
+period 2012–2014.(5) Of these, 19 took place in swimming pools. 
+(Note: the annual reports of the SLSS are not primary sources of 
+data. Data derived from the Coroner’s Court is based on cases 
+where drowning was mentioned or suspected for the coroner’s 
+inquiries with pending verdicts and pronounced verdicts, and 
+do not tally exactly with figures from the Registry of Births and 
+Deaths, which exclude instances of assault, self-harm and death 
+from other causes in cases classified as accidental drowning.)
+In 2014, there was an attendance of 6,870,183 at swimming 
+pools operated by the Singapore Sports Council (SSC).(6) 
+Swimming was the second most popular sport in the 2011 
+National Sports Participation Survey and the top sport that children aged ≤ 12 years engaged in outside of school.(7) The 
+need to review drowning safety in swimming pools is especially 
+pertinent given the increase in the number of swimming pools in 
+the country. The National Environment Agency reported that there 
+were 1,889 swimming pool licences in force in 2012, an increase 
+from 1,772 in 2011.(8) This figure applies to pools operated by the 
+SSC, school campuses, hotels and condominiums, but does not 
+include landed home pools, which do not require a licence.(9) 
+The number of such pools in Singapore is unknown but likely 
+to be on the rise.
+The aim of the present study was to conduct a descriptive 
+analysis of the national ambulance case records, so as to make 
+practical safety recommendations to reduce the danger of 
+drowning incidents in swimming pools. We postulated that a 
+higher rate of bystander cardiopulmonary resuscitation (CPR) 
+might occur in the presence of a lifeguard. A literature review 
+showed that no similar study has previously been published in 
+Singapore.
+METHODS
+A categorical and free text search was performed of a national 
+electronic database of descriptive summaries by first-responder 
+paramedics of all 995 calls made to the Singapore Civil Defence 
+Force (SCDF) between 1 January 2012 and 31 December 2014. Drowning in swimming pools: clinical features 
+and safety recommendations based on a study of 
+descriptive records by emergency medical services 
+attending to 995 calls
+Joanna Shi-En Chan1, MBBS, MCEM,  Marie Xin Ru Ng2, BSc, MPH,  Yih Yng Ng2, MBBS, MPH
+INTRODUCTION This study was a descriptive analysis of national ambulance case records and aimed to make practical 
+safety recommendations in order to reduce the incidence of drowning in swimming pools.
+METHODS A search was performed of a national database of descriptive summaries by first-responder paramedics of 
+all 995 calls made to the Singapore Civil Defence Force between 1 January 2012 and 31 December 2014. We included 
+all cases of submersion in both public and private pools for which emergency medical services were activated.
+RESULTS The highest proportion of drowning cases occurred in the age group of 0–9 years. Males accounted for 57.0% 
+(61/107) of cases. Bystander cardiopulmonary resuscitation (CPR) was performed in 91.3% (21/23) and 68.6% (48/70) 
+of cases of cardiac/respiratory arrest from drowning in public and private pools, respectively; the rate of bystander CPR 
+was higher when a lifeguard was present (88.5%, 23/26 vs. 68.7%, 46/67). The majority (72.0%, 77/107) of drowning 
+incidents occurred in private pools, most of which had no lifeguards present.
+CONCLUSION To our knowledge, this study was the first in Singapore to examine data from emergency medical services. 
+Since the majority of incidents occurred in private pools without lifeguards, it is recommended that a lifeguard be present 
+at every pool. For pools that are too small to justify mandatory lifeguard presence, safety measures, such as guidelines for 
+pool design and pool fencing with latched gates, may be considered. As strict enforcement may not be possible, public 
+education and parental vigilance remain vital.
+Keywords: accident prevention, drowning, prehospital emergency care, public health, swimming pools
+Original Article45The purpose was to identify all likely cases of drowning in both 
+public and private pools for which emergency medical services 
+were activated. These summaries had originally been written 
+freehand on paper by paramedics who had conveyed patients to 
+hospital or pronounced them dead at the scene. The summaries 
+were then transcribed by the paramedics and archived in an 
+electronic database. Institutional review board approval and 
+waiver of consent were obtained for this study.
+We included all cases of submersion in swimming pools 
+for which the SCDF was called during the study period. We 
+understood drowning as referring to all cases of submersion 
+injury regardless of whether death occurred, in accordance 
+with the uniform reporting guidelines proposed by Idris et al.(10) 
+Cases in which the patient lost consciousness in the water due 
+to another cause but was at risk of submersion injury were also 
+included. For the purpose of this study, swimming pools run 
+by the SSC and those located in public educational institutions 
+were referred to as ‘public pools’, and swimming pools in private 
+housing (condominiums and landed homes) and hotel or leisure 
+facilities were referred to as ‘private pools’. We excluded all cases 
+of submersion injury that did not take place at a swimming pool. 
+After a free text review, we further excluded cases that involved 
+illness without submersion (e.g. partial seizure while standing in 
+water), or cases in which the victim was pronounced dead at the 
+scene after a presumably long period of submersion and it was 
+unclear if the death was a result of submersion or due to foul play.
+Data gathered for each incident included information on 
+age, gender, lifeguard presence, performance of bystander CPR, 
+use of an automated external defibrillator (AED) and clinical 
+features. A lifeguard was taken to be present if the paramedic’s 
+summary explicitly stated the presence of a lifeguard or swimming 
+instructor. The mention of ‘staff’ or ‘security personnel’ performing 
+CPR was not regarded as lifeguard presence.
+The victims were identified as having a cardiac arrest if they 
+were described as pulseless. If they were described as apnoeic 
+or unconscious after submersion, with or without documented 
+cyanosis, they were deemed to have suffered a respiratory arrest. 
+Additional features of the case (such as whether the submersion 
+was witnessed) were noted if they had been documented by 
+paramedics.
+RESULTS
+A total of 107 drowning cases were identified in our search, 
+with 77 (72.0%) occurring in private pools ( Fig. 1). Drowning 
+most frequently occurred in the age group of 0–9 years (42.1%, 
+45/107). A further 26.2% (28/107) of drowning cases involved 
+adults aged ≥ 40 years ( Table  I). Seven cases involved children 
+aged 2–6 years who were not swimming but slipped or were 
+pushed into the pool. Of the seven cases, six occurred in private 
+pools. In one case, a toddler had wandered off from a poolside 
+family function and fallen into the pool. Another case involved 
+an infant left unattended for 30 seconds in a home baby pool.
+The clinical features of the cases are described in Table  II. 
+There were 24 (22.4%) cases of cardiac arrest without return of 
+spontaneous circulation (ROSC). In two of these cases, it was unclear whether there was a preceding medical event: one adult 
+felt giddy and collapsed in the baby pool prior to submersion, 
+while another, with bruises on the forehead, was pulled out after 
+the unwitnessed event. Three victims lost consciousness due to 
+reasons other than drowning: seizure in two adults aged 28 years 
+and 38 years, and trauma in a ten-year-old child who jumped from 
+height into the pool. Other clinical features were documented 
+by the paramedics for 80 of the 107 cases, of which 50 (62.5%) 
+were reported to be unwitnessed at the moment of drowning and 
+the victims were found unresponsive. In ten cases, the period in 
+which the victim was unsupervised was documented as ranging 
+from less than 30 seconds to 45 minutes.
+The presence of a lifeguard was documented in 33 out of 
+107 cases (30.8%; Fig. 2). Among these drowning incidents with 
+lifeguard presence, the majority (78.8%, 26/33) took place in 
+public pools. Lifeguard involvement in rescue or resuscitation 
+was noted in 26 (86.7%) of the 30 cases of drowning in public 
+pools, whereas lifeguard presence was not documented in 
+90.9% (70/77) cases of drowning in private pools. In public and 
+private pools, respectively, there were 23 cases and 70 cases of 
+cardiac or respiratory arrest from drowning. Bystander CPR was Table I. Age and gender of persons who drowned (n = 107).
+Age (yr) No. (%)
+Male Female Total
+0–9 26 (24.3) 19 (17.8) 45 (42.1)
+10–19 10 (9.3) 8 (7.5) 18 (16.8)
+20–29 4 (3.7) 5 (4.7) 9 (8.4)
+30–39 6 (5.6) 1 (0.9) 7 (6.5)
+40–49 3 (2.8) 7 (6.5) 10 (9.3)
+50–59 4 (3.7) 2 (1.9) 6 (5.6)
+60–69 3 (2.8) 2 (1.9) 5 (4.7)
+≥ 70 5 (4.7) 2 (1.9) 7 (6.5)
+Total 61 (57.0) 46 (43.0) 107 (100.0)
+Table II. Clinical features of cases as described by paramedics in 
+free text notes.
+Clinical feature No. (%)
+Regained 
+consciousness 
+at sceneDid not regain 
+consciousness 
+at sceneTotal
+Cardiac arrest 
+without ROSC– 24 (22.4) 24 (22.4)
+Cardiac arrest 
+with ROSC6 (5.6) 3 (2.8) 9 (8.4)
+Respiratory  
+arrest*52 (48.6) 8 (7.5) 60 (56.1)
+No loss of 
+consciousness11 (10.3) – 11 (10.3)
+Loss of 
+consciousness due 
+to other reasons1 (0.9) 2 (1.9) 3 (2.8)
+Total 70 (65.4) 37 (34.6) 107 (100.0)
+*Respiratory arrest was defined as documentation of no breathing or loss of 
+consciousness after submersion in the presence of a pulse. ROSC: return of 
+spontaneous circulation
+Original Article46performed in 91.3% (n = 21) of the cases in public pools and in 
+68.6% (n = 48) of the cases in private pools. In cases of cardiac 
+or respiratory arrest from drowning, the overall rate of bystander 
+CPR was 74.2% (69/93), and the rate of bystander CPR was 
+88.5% (23/26) in the presence of a lifeguard and 68.7% (46/67) 
+in the absence of a lifeguard. In four cases, the patients regained 
+consciousness with rescue breaths alone.
+In cases where lifeguard presence was not documented, the 
+patients were less likely to receive CPR ( Fig. 3). No bystander CPR 
+occurred in four cases of cardiac arrest without prehospital ROSC 
+(Fig. 4). In two of these cases, the patients were pronounced dead 
+at the scene. It was mentioned in seven cases that an AED was 
+applied prior to the arrival of the ambulance. In six out of these 
+seven cases, AED use was initiated by a lifeguard at a public pool. 
+In the one remaining case, the AED was operated by a doctor at 
+a private hotel pool. In four out of seven cases, the rhythm was 
+shockable and one or more shocks were delivered prior to the 
+arrival of an ambulance; one such patient experienced prehospital 
+ROSC. In two cases where an AED was not used, shocks were 
+delivered by paramedics after the arrival of the ambulance, but 
+this did not result in prehospital ROSC.
+In five cases, the drowning victims were reported to be non-
+swimmers, and in another, the victim was a former competitive 
+swimmer. In two adult cases, alcohol use by the victims prior to 
+drowning was documented by paramedics.DISCUSSION
+This is the first local study to examine data from emergency 
+medical services. There were 19 swimming pool deaths by 
+drowning heard in the Coroner’s Court during our study 
+period – four in public pools and 15 in private pools,(5) although 
+the SCDF was activated for 107 swimming pool drowning 
+incidents during this period.
+The present study confirmed our hypothesis that the rate 
+of bystander CPR is higher in the presence of a lifeguard. It 
+is worrisome that the majority (77 of 107 cases) of drowning 
+incidents attended to by the SCDF occurred in private pools, most 
+of which do not have lifeguards. A lifeguard was documented to 
+be present in only 9.1% of drowning cases in private pools, as 
+compared to 86.7% of cases in public pools. We postulate that 
+lifeguard presence may improve response time to a drowning 
+incident, shorten the time taken to initiate CPR and provide good 
+quality CPR by trained personnel. In a paediatric study, Kyriacou 
+et al reported that children who experienced drowning with a 
+good outcome were 4.75 times (adjusted odds ratio) more likely to 
+have experienced immediate resuscitation than children with poor 
+outcomes (95% confidence interval 3.44–6.06; p = 0.0001).(11) 
+Conversely, when CPR is delayed, of inferior quality or not 
+initiated, there is a danger of poor clinical outcomes. In the 
+present study, bystander CPR for cardiac or respiratory arrest 
+from drowning was performed in a higher percentage of cases 1061430 28
+212877
+38
+2742107
+020406080100120
+2012 2013 2014 TotalPublic pool Private pool TotalNo.
+Fig. 1 Graph  shows the incidence of drowning in pools between 2012 
+and 2014.26
+7470
+01020304050607080
+Public pool Private poolLifeguard present
+No lifeguard mentionedNo.
+Fig. 2 Graph  shows the recorded instances of lifeguard presence in 
+drowning incidents occurring in public and private pools.
+234871
+32124
+7512
+01020304050607080
+Lifeguard present No lifeguard
+mentionedTotalBystander CPRNo.No bystander CPR NA (patient conscious )
+Fig. 3 Graph  shows the prevalence of bystander cardiopulmonary 
+resuscitation (CPR) in drowning cases with and without the presence of 
+lifeguards. NA: not applicable6 6 14 
+3 
+0 0 4 
+0 0246810121416
+Cardiac arrest
+without ROSCCardiac arrest
+with ROSCCardiac arrest
+without ROSCCardiac arres t
+with ROSCBystander CPR No bystander CP R
+Public pool Private pool No.
+Fig. 4  Graph shows cardiac arrest prehospital outcomes and prevalence 
+of bystander cardiopulmonary resuscitation (CPR). ROSC: return of 
+spontaneous circulation
+Original Article47in public pools compared to private pools, which may be due to 
+greater lifeguard presence in the former.
+Interestingly, we found that even when no lifeguard was 
+present, the incidence of bystander CPR in our study was more 
+than three times higher than that of general bystander CPR 
+previously reported in Singapore (15%–23%).(12) We hypothesise 
+that the reasons for this, while unclear, include the influence 
+of media (e.g. television) on public perception of what to do in 
+a drowning case and the high number of paediatric cases, in 
+which distaste on the part of the public to perform mouth-to-
+mouth resuscitation on a stranger may present less of a barrier. 
+Nevertheless, patients with respiratory arrest were more likely to 
+be conscious at the scene. We postulate that many of them who 
+did not receive bystander CPR may have regained consciousness 
+before CPR could be initiated.
+Drowning incidents in private pools have recently come 
+under the spotlight due to an apparent increase in childhood 
+drowning incidents. Recent data from a study done at KK 
+Women’s and Children’s Hospital, Singapore, showed that 69 
+out of 104 drowning incidents involving children between 2011 
+and 2015 took place in private pools. Of these, ten children died 
+and two suffered irreversible brain injury. The hospital saw an 
+average of 20 cases of drowning per year during the five-year 
+period – an increase from a rate of 1–14 cases annually from 
+2005 to 2010.(13)
+Previous local studies have highlighted that private pools are 
+likely to lack lifeguard supervision, despite lifeguard supervision 
+having been associated with a reduction in drowning incidents.(2) 
+In an emergency department case series, 11 out of 17 drowning 
+incidents occurred in swimming pools, and CPR was delayed 
+or absent for two patients who drowned in private pools, one 
+of whom suffered hypoxic brain injury.(14) Also, according to the 
+Childhood Injury Surveillance Project, 11 out of 20 swimming 
+pool drowning incidents in children occurred in private pools 
+during the period of 2002–2004.(15) In a separate local review of 
+injuries in children attending the emergency department, most 
+of the swimming pool near-drowning cases and one of the two 
+drowning deaths involved private pools.(16)
+In the present study, the age group of 0–9 years accounted 
+for the highest proportion of drowning cases, which underscores 
+the need for close parental supervision of children in this age 
+group. About 20% of incidents in our study involved children 
+under five years of age. Drowning fatalities in this age group are 
+the highest worldwide and most often associated with swimming 
+pools,(4) although these children are also at risk from drowning 
+at home.(4,13-16) 26.2% of the cases in the present study involved 
+victims aged 40 years and above, for whom comorbidities or 
+unexpected medical events may have precipitated drowning 
+and become a consideration in management. In two cases, the 
+drowning was precipitated by seizures. In several adult cardiac 
+arrest cases, it was unclear if there was a preceding medical 
+event causing collapse while the patients were swimming. This 
+is a useful reminder for first responders and clinicians involved 
+in the care of drowning cases to look for precipitating medical 
+events in all drowning cases.Drowning prevention strategies worldwide can be classified 
+into four broad categories: environmental modification; 
+education and skills; legislation and standards; and immediate 
+resuscitation.(2,4,15,17-19) The World Health Organization and the 
+American Academy of Pediatrics place the greatest emphasis 
+on pool fencing, ‘touch’ supervision by a parent within arm’s 
+length for infants and toddlers, and the availability of CPR-
+trained personnel at the scene, in view of the short window of 
+opportunity for rescue intervention.(4,20) While there have been 
+no formal studies evaluating the effectiveness of lifeguards in 
+the prevention of drowning, before-and-after data on rescue and 
+resuscitation in the United States (US) suggested that supervision 
+by lifeguards saves lives and lowers drowning rates.(21) Besides 
+rescue, lifeguards also play a role in surveillance and prevention, 
+and a lifeguard trained in CPR can aid in immediate resuscitation 
+measures at the scene.
+In our local setting, the National Water Safety Council has 
+previously urged lifeguard attendance at private pools.(22,23) While 
+there should ideally be a lifeguard in attendance at every pool, it 
+may not be practical or cost-effective to provide a lifeguard in the 
+setting of a pool in a landed home or a small shared facility with 
+a low volume of swimmers. A logical first step may be to formally 
+define the characteristics of a pool that requires a lifeguard, 
+decide what constitutes proper lifeguard training and mandate 
+lifeguard presence at such pools. In addition, in premises that 
+lack lifeguards, a practical step would be to train security officers 
+on the use of CPR and AED so that there are trained personnel 
+to render immediate resuscitative assistance at the scene should 
+a drowning incident occur.
+It is currently not required by the law for operators of 
+swimming pools to enforce lifeguard presence. However, in the 
+case of BNM v. National University of Singapore  [2014] SGHC 
+5, the Singapore High Court decided that owners or operators of 
+at least standard Olympic-sized pools may owe a duty to users 
+of the pool to provide properly trained lifeguards.(24) Likewise, 
+there is currently no legislation to enforce safety standards in pool 
+design. The Singapore Standard (SS) 556: 2010 Code of Practice 
+for the maintenance and design of aquatic facilities was launched 
+in 2010 with the aim of minimising swimming injury and 
+preventable drowning incidents.(25) However, compliance with the 
+SS 556 is not mandatory but dependent on the conscientiousness 
+of industry players.
+Other safety measures could be considered in pools that are 
+too infrequently used to justify mandatory lifeguard presence. 
+Medical professionals and building managers in Singapore have 
+issued calls for legislation of pool design and pool fencing.(13-15) 
+While rigorous studies with high-level evidence are lacking,(26) 
+there is empiric evidence from the US, Australia and New 
+Zealand of the protective effect of pool fencing against childhood 
+drowning, particularly in the age group of 0–4 years.(27-33) 
+Legislation for pool fencing has also been shown to decrease 
+drowning deaths,(34-36) although not to the extent that might 
+be anticipated, likely due to inadequate enforcement.(37-39) As 
+landed home pools become more prevalent here, pool fencing 
+to prevent unattended children from wandering into a home pool 
+Original Article48may become an increasingly relevant topic for discussion in the 
+local context.(15,20) As home pools are currently not subject to any 
+safety standards or auditing process, a standard advice package 
+highlighting drowning prevention measures could be provided 
+to owners of home pools upon their creation, and these owners 
+should be encouraged to learn CPR. Likewise, public education 
+packages can also be given to buyers of infla table  pools and 
+pool equipment.
+The present study was not without limitations. Firstly, it was 
+a simple retrospective database search. The cases in our review 
+were found if they contained the relevant keywords or if data in 
+the available categories (e.g. location) suggested a swimming pool 
+drowning incident. Thus, we might have missed cases that could 
+not be found based on free-text searches or categorical searches. 
+As such, the incidence of drowning cases reported in this review 
+may be an underestimation of the true number. Cases for which 
+SCDF ambulances were not called were not represented in this 
+review and we did not follow up on hospital outcomes. Lastly, 
+there is no national standard for data collection to examine the 
+causes of drowning, and the retrospective data record analysis has 
+limitations in elucidating the causal factors that lead to drowning. 
+Such requirements can be considered for future trauma database 
+collection and data analysis to enable more systematic research 
+on the causes of drowning.
+In conclusion, public education remains vital in reducing 
+drowning in swimming pools. Regardless of age or experience, 
+even trained swimmers should be discouraged from swimming 
+alone. Adults should refrain from going near any body of water 
+if intoxicated or feeling unwell. Infants and young children who 
+are not water-safe should be under continuous adult supervision 
+when they are around swimming pools.(3,4,15,16) Parental vigilance 
+applies equally to children attending a poolside function and 
+those with the intention to swim.
+ACKNOWLEDGEMENT
+We thank Mr Richard Tan Ming Kirk, President of the Singapore 
+Life Saving Society, for providing the data on drowning cases 
+from the Coroner’s Court.
+REFERENCES
+1. Ministry of Social and Family Development, Republic of Singapore. Water Safety 
+Task Force Final Report (2007). Available at: http://app.msf.gov.sg/portals/0/
+files/watersafetytaskforcefinalreport.pdf. Accessed March 15, 2016.
+2. Tan RM. The epidemiology and prevention of drowning in Singapore. Singapore 
+Med J 2004; 45:324-9.
+3. Registry of Births and Deaths, Immigration and Checkpoints Authority, 
+Singapore. Report on Registration of Births and Deaths 2013. Available at: https://
+www.ica.gov.sg/data/resources/docs/Media%20Releases/SDB/Annual%20
+RBD%20Report_2013.pdf. Accessed March 15, 2016.
+4. Peden M, Oyegbite K, Ozanne-Smith J, et al. World Report on Child Injury 
+Prevention. In: WHO Guidelines Approved by the Guidelines Review 
+Committee. Geneva: World Health Organization, 2008.
+5. Singapore Life Saving Society. Annual reports (2012-2014).
+6. Department of Statistics, Ministry of Trade and Industry, Republic of Singapore. 
+Yearbook of Statistics Singapore, 2015. Available at: http://www.singstat.gov.
+sg/docs/default-source/default-document-library/publications/publications_and_
+papers/reference/yearbook_2015/yos2015.pdf. Accessed March 15, 2016.
+7. Singapore Sports Council. National sports participation survey 2011 final report. 
+Available at: https://www.sportsingapore.gov.sg/about-us/~/media/corporate/
+files/about/publications/national%20sports%20participation%20survey%20
+2011.pdf. Accessed March 15, 2016.8. Tai J. Singapore Sports Council issues call for lifeguards as number of pools 
+surges. The Straits Times 2013 Apr 21.
+9. National Environment Agency, Singapore. Swimming pool licence. Available 
+at: http://www.nea.gov.sg/services-forms/licences-permits-building-plan-
+clearances/others/swimming-pool-licence. Accessed March 15, 2016,
+10. Idris AH, Berg RA, Bierens J, et al; American Heart Association; Maatschappij 
+tot Redding van Drenkelingen; European Resuscitation Council; US Centers 
+for Disease Control and Prevention; University of Florida; University of North 
+Carolina; Australia and New Zealand Resuscitation Council; InterAmerican 
+Heart Foundation; Heart and Stroke Foundation of Canada; Resuscitation 
+Council of Southern Africa. Recommended guideline for uniform reporting of 
+data from drowning: the “Utstein style”. Resuscitation 2003; 59:45-57.
+11. Kyriacou DN, Arcinue EL, Peek C, Kraus JF. Effect of immediate resuscitation 
+on children with submersion injury. Pediatrics 1994; 94(2 Pt 1):137-42.
+12. Leong BS. Bystander CPR and survival. Singapore Med J 2011; 52:573-5.
+13. Lai L. Half of drownings involving kids happened in condo pools. The Straits 
+Times 2016 Mar 11.
+14. Goh SH, Low BY. Drowning and near-drowning--some lessons learnt . Ann Acad 
+Med Singapore 1999; 28:183-8.
+15. Tyebally A, Ang SY. Kids can’t float: epidemiology of paediatric drowning and 
+near-drowning in Singapore. Singapore Med J 2010; 51:429-33.
+16. Ong ME, Ooi SB, Manning PG. A review of 2,517 childhood injuries seen in a 
+Singapore emergency department in 1999--mechanisms and injury prevention 
+suggestions. Singapore Med J 2003; 44:12-9.
+17. Mott TF, Latimer KM. Prevention and treatment of drowning. Am Fam Physician 
+2016; 93:576-82.
+18. Bernard SJ, Paulozzi LJ, Wallace DL; Centers for Disease Control and Prevention 
+(CDC). Fatal injuries among children by race and ethnicity--United States, 
+1999-2002. MMWR Surveill Summ 2007; 56:1-16.
+19. Orlowski JP, Szpilman D. Drowning. Rescue, resuscitation, and reanimation. 
+Pediatr Clin North Am 2001; 48:627-46.
+20. American Academy of Pediatrics Committee on Injury, Violence, and Poison 
+Prevention. Prevention of drowning. Pediatrics 2010; 126:178-85.
+21. Branche CM, Stewart S, eds. Lifeguard Effectiveness: A Report of the Working 
+Group. Atlanta: Centers for Disease Control and Prevention, National Center 
+for Injury Prevention and Control; 2001.
+22. Ministry of Community Development, Youth and Sports, Republic of 
+Singapore. A National Council To Promote Water Safety. Media Release Apr 
+19, 2007. Available at: http://app.msf.gov.sg/Portals/0/Summary/pressroom/
+WaterSafetyPressRelease.pdf. Accessed March 15, 2016.
+23. National Water Safety Council (2007). National Water Safety Council Urges 
+Employment of Lifeguards and Community Vigilance at All Private Swimming 
+Pools [Media Release].
+24. Toh KS, Tan C. Case update: swimming pools owners or operators may owe duty 
+to provide properly trained lifeguards. In: Lee & Lee [online]. Available at: http://
+www.leenlee.com.sg/wp-content/uploads/2014/11/Case_Update_-_Swimming_
+Pools_Owners_or_Operators_May_Owe_Duty_to_Provide_Properly_Trained_
+Lifeguards-1.pdf. Accessed March 15, 2016.
+25. National Water Safety Council (27 May 2010). Launch of Singapore Standard 
+(SS) 556: 2010 code of practice for the maintenance and design of aquatic 
+facilities. [Media Release] Code of practice available at: http://www.
+singaporestandardseshop.sg. Accessed Mar 15, 2016.
+26. Wallis BA, Watt K, Franklin RC, et al. Interventions associated with drowning 
+prevention in children and adolescents: systematic literature review. Inj Prev 
+2015; 21:195-204.
+27. Morgenstern H, Bingham T, Reza A. Effects of pool-fencing ordinances and 
+other factors on childhood drowning in Los Angeles County, 1990-1995. Am 
+J Public Health 2000; 90:595-601.
+28. Pearn J, Nixon J. Prevention of childhood drowning accidents. Med J Aust 1977; 
+1:616-8.
+29. Fergusson DM, Horwood LJ. Risks of drowning in fenced and unfenced domestic 
+swimming pools. N Z Med J 1984; 97:777-9.
+30. Pitt WR, Balanda KP. Childhood drowning and near-drowning in Brisbane: the 
+contribution of domestic pools. Med J Aust 1991; 154:661-5.
+31. Centers for Disease Control and Prevention (CDC). Child drownings and near 
+drownings associated with swimming pools--Maricopa County, Arizona, 1988 
+and 1989. MMWR Morb Mortal Wkly Rep 1990; 39:441-2.
+32. Rimsza ME, Schackner RA, Bowen KA, Marshall W. Can child deaths be 
+prevented? The Arizona Child Fatality Review Program experience. Pediatrics 
+2002; 110(1 Pt 1):e11.
+33. Thompson DC, Rivara FP. Pool fencing for preventing drowning in children. 
+Cochrane Database Syst Rev 2000; (2):CD001047.
+34. Pearn JH, Wong RY, Brown J 3rd, et al. Drowning and near-drowning involving 
+children: a five-year total population study from the city and county of Honolulu. 
+Am J Public Health 1979; 69:450-4.
+35. Milliner N, Pearn J, Guard R. Will fenced pools save lives? A 10-year study from 
+Mulgrave Shire, Queensland. Med J Aust 1980; 2:510-1.
+36. Quan L, Gore EJ, Wentz K, Allen J, Novack AH. Ten-year study of pediatric 
+drownings and near-drownings in King County, Washington: lessons in injury 
+Original Article49prevention. Pediatrics 1989; 83:1035-40.
+37. Logan P, Branche CM, Sacks JJ, Ryan G, Peddicord J. Childhood drownings and 
+fencing of outdoor pools in the United States, 1994. Pediatrics 1998; 101:E3.
+38. Morrison L, Chalmers DJ, Langley JD, Alsop JC, McBean C. Achieving 
+compliance with pool fencing legislation in New Zealand: a survey of regulatory authorities. Inj Prev 1999; 5:114-8.
+39. van Weerdenburg K, Mitchell R, Wallner F. Backyard swimming pool safety 
+inspections: a comparison of management approaches and compliance 
+levels in three local government areas in NSW. Health Promot J Austr 2006; 
+17:37-42.

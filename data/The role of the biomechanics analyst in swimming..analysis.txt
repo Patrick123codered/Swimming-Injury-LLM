@@ -1,0 +1,838 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rspb20
+Sports Biomechanics
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rspb20
+The role of the biomechanics analyst in swimming
+training and competition analysis
+Tiago M. Barbosa, Augusto Carvalho Barbosa, David Simba ña Escobar, Gary
+John Mullen, Jodi M. Cossor, Ryan Hodierne, Ra úl Arellano & Bruce R. Mason
+To cite this article:  Tiago M. Barbosa, Augusto Carvalho Barbosa, David Simba ña Escobar, Gary
+John Mullen, Jodi M. Cossor, Ryan Hodierne, Ra úl Arellano & Bruce R. Mason (2021): The role
+of the biomechanics analyst in swimming training and competition analysis, Sports Biomechanics,
+DOI: 10.1080/14763141.2021.1960417
+To link to this article:  https://doi.org/10.1080/14763141.2021.1960417
+Published online: 17 Aug 2021.
+Submit your article to this journal 
+Article views: 68
+View related articles 
+View Crossmark data
+
+REVIEW
+The role of the biomechanics analyst in swimming training 
+and competition analysis
+Tiago M. Barbosa
+a,b,c*, Augusto Carvalho Barbosa
+d,e,f*, 
+David Simbaña Escobar
+ *, Gary John Mulleng*, Jodi M. Cossorh*, Ryan Hodiernei*, 
+Raúl Arellano
+j* and Bruce R. Masonk*
+aDepartment of Sport Sciences, Instituto Politécnico De Bragança, Bragança, Portugal; bResearch Centre in 
+Sports, Health and Human Development, Vila Real, Portugal; cPortuguese Swimming Federation, Cruz 
+Quebrada, Portugal; dSport Sciences Department, Meazure Sport Sciences, São Paulo, Brazil; eBrazilian 
+Paralympic Committee, São Paulo, Brazil; fDepartment of Sports Sciences, School of Physical Education, 
+Physiotherapy and Occupational Therapy, Federal University of Minas Gerais, Belo Horizonte, Brazil; gCOR, 
+Santa Clara, CA, USA; hHigh Performance Sport New Zealand, Auckland, New Zealand; iNew South Wales 
+Institute of Sport, Sydney, NSW, Australia; jAquatics Lab, Physical Education and Sports Department, Faculty 
+of Sport Sciences, University of Granada, Granada, Spain; kAquatic Testing, Training and Research Unit, 
+Australian Institute of Sport, Bruce, ACT, Australia
+ABSTRACT
+Swimming analysts aid coaches and athletes in the decision-making 
+by providing evidence-based recommendations. The aim of this 
+narrative review was to report the best practices of swimming 
+analysts that have been supporting high-performance athletes. It 
+also aims to share how swimming analysts can translate applied 
+research into practice. The role of the swimming analyst, as part of 
+a holistic team supporting high-performance athletes, has been 
+expanding and is needed to be distinguished from the job scope 
+of a swimming researcher. As testing can be time-consuming, 
+analysts must decide what to test and when to conduct the evalua -
+tion sessions. Swimming analysts engage in the modelling and 
+forecast of the performance, that in short- and mid-term can help 
+set races target-times, and in the long-term provide insights on 
+talent and career development. Races can be analysed by manual, 
+semi-automatic or fully automatic video analysis with single or 
+multi-cameras set-ups. The qualitative and quantitative analyses 
+of the swim strokes, start, turns, and finish are also part of the 
+analyst job scope and associated with race performance goals. 
+Land-based training is another task that can be assigned to analysts 
+and aims to enhance the performance, prevent musculoskeletal 
+injuries and monitor its risk factors.ARTICLE HISTORY 
+Received 2 January 2021  
+Accepted 20 July 2021 
+KEYWORDS 
+Performance; analysis; 
+testing; support staff; 
+biomechanist
+Introduction
+Swimming research has increased since the inception of the series ‘International 
+Symposium in Biomechanics and Medicine in Swimming’ in the 1970s. Ever since, 
+studies about swimming typically comprise physiology and biomechanics analyses 
+CONTACT Tiago M. Barbosa 
+ barbosa@ipb.pt
+*These authors contributed equally to this workSPORTS BIOMECHANICS                                  
+https://doi.org/10.1080/14763141.2021.1960417
+© 2021 Informa UK Limited, trading as Taylor & Francis Group
+(Pelayo & Alberty, 2011 ; Ungerechts & Keskinen, 2018 ). Research helped to improve 
+technology and better understand the principles that underpin human swimming per-
+formance, and can be classified as basic (fundamental) or field-oriented (applied). In 
+sport sciences, basic research is usually published and has specific academic purposes, 
+whereas field research aims to produce an outcome that can be applied to enhance 
+performance or reduce the incidence of injury and eventually may result in 
+a publication (Bishop et al., 2006 ). Field research is based on performance analysis, 
+which can be defined as the provision of objective feedback to athletes and coaches 
+through the use of different technologies and statistical analyses. Basic researchers aim to 
+share ground-breaking publications, based mostly on their own research questions; 
+conversely, field researchers in sport sciences aim to answer questions addressed by 
+coaches, athletes and support staff (Buchheit, 2016 ). In tandem, the end-goal of research 
+tailored towards the practitioner needs does not aim at being just disseminated in the 
+form of a research paper (Buchheit, 2017a ). Instead, it aims to give a step further, being 
+the findings explored and providing guidance to key actors in the sports ecosystem 
+(coaches, athletes and support staff).
+Regardless of being basic or field-oriented, swimming research is strongly perfor -
+mance-oriented. Performance analysis can be used to: (1) improve performance; (2) 
+monitor progress over time; (3) track changes in performance-related variables; and (4) 
+identify strengths and weaknesses of the athlete and other competitors. Force platform, 
+tethered swimming, speedometer, video-based analysis and inertial sensors are the most 
+common technologies used for performance and biomechanics assessments in competi -
+tive swimming. These technologies should be combined with other domains such as 
+physiology, psychology, nutrition or strength and conditioning to backup the decision- 
+making (Mooney et al., 2016 ). Notwithstanding, swimming is a sport where the inter -
+disciplinary and multidisciplinary approaches are standard frameworks and that the 
+ultimate vision is to move on and become transdisciplinary.
+Analysts are expected to collect, analyse and interpret data, and also have good 
+communication and visualisation skills to aid coaches and athletes’ decision-making 
+(Buchheit, 2017b ). Coaches frequently conduct qualitative analysis themselves by eye-
+balling (based on educated guess) and video-based analyses (Wilson, 2008 ). Analysts 
+should be open to this practical knowledge based on the coaches´ background and past 
+experience. As such, a good balance between qualitative and quantitative analyses is 
+advisable.
+A source of concern and one of the main challenges for analysts is the translation of 
+some research into practice. Multiple research is conducted in laboratory settings with 
+costly and time-consuming set-ups, which are hard to replicate in day-to-day testing by 
+analysts. Also, research projects that recruited low-calibre swimmers may fail to have 
+external and ecological validity if applied to high-performance counterparts. Therefore, 
+academic researchers are encouraged to present a detailed description of the competi -
+tive level within their articles (e.g., percentage of World Record, FINA points, race time 
+plus SD, minimum and maximum values) and interpret the results and potential 
+applications accordingly. Swimming researchers can design highly controlled testing 
+procedures, whereas analysts quite often must compromise the control of confounding 
+factors, feasibility, minimum disruption of the training schedule and delivering recom -
+mendations in a timely manner.2
+ T. M. BARBOSA ET AL.
+Even though some overlap, the tasks carried out by swimming researchers and 
+swimming analysts are different (Table 1). Time is needed for the development of 
+research tools, validating new technologies, or new training methods. Conversely, ana-
+lysts need to work faster to aid decision-making (Coutts, 2016 ), have a holistic view of 
+performance determinants (Groom & Cushion, 2004 ; Williams & Kendall, 2007 ) and 
+advise where athletes can improve. The main goal of a swimming researcher is to gather 
+evidence-based knowledge, whereas an analyst is to deliver evidence-based recommen -
+dations to swimmers. Swimming researchers design case–control studies, cross-over 
+studies or randomised control trials to address a research question. Conversely, swim -
+ming analysts are more focused on case studies, addressing the swimmers concerns. 
+Researchers deliver the findings of their studies to peers and analysts by publishing 
+research papers, dissertations and thesis, or presentations at scientific meetings. On the 
+other hand, analysts aim to provide recommendations to aid the decision-making of 
+swimmers and coaches by delivering reports, infographics, video clips or hands-on 
+lectures to peers, coaches, support staff and swimmers. The specific tasks of 
+a swimming analyst are set in collaboration with coaches and remaining team staff. 
+The job scope includes: (1) to be updated on scientific literature and translate it into short 
+reports for coaches peruse; (2) to determine the different areas of evaluation (e.g., analysis Table 1. Comparison of the tasks carried out between swimming researchers and swimming analysts.
+Swimming researchers Swimming analysts
+Goals
+Main goal Gather evidence-based 
+knowledgeDeliver evidence-based recommendations
+Secondary goal Deliver evidence-based 
+recommendationsGather evidence-based knowledge
+Testing procedures
+Design Case-control studies 
+Cross-over studies 
+Randomised control trialsCase studies
+Participants Voluntary response sample Convenience sample
+Data collection and 
+handlingSlow 
+Highly controlled conditionsQuick 
+May compromise control and feasibility, but not validity 
+and reliability.
+Data analysis Null hypothesis testing 
+Uncertainty by confidence 
+intervals 
+Standardised effect sizesUncertainty by confidence intervals 
+Standardised effect sizes 
+Worthwhile changes
+Reporting
+Purpose Share findings with the 
+communityProvide recommendations to aid decision-making
+Audience (primary) Researchers/academics 
+AnalystsAnalysts 
+Coaches, support staff, and Athletes
+Product (main 
+deliverables)Research papers 
+Dissertations and thesis 
+Oral presentations 
+PostersReports 
+Infographics 
+Video clips 
+Hands-on lectures
+Presentation/ 
+LanguageFactual 
+Informative 
+Technical terms and jargons 
+FormalObjective 
+Concise 
+Plain 
+UncomplicatedSPORTS BIOMECHANICS
+ 3
+of starts, turns and swim stroke by different techniques, race analysis, dryland measure -
+ment of muscular strength and power); (3) to design, plan and implement testing 
+sessions; (4) to communicate with coaches and swimmers; (5) to handle data, results 
+and deliver reports; (6) to collaborate with research teams. Therefore, the job scope of 
+a swim analyst requires multiple skills, bridging research and practice.
+From what was above mentioned, one can argue that the job scope, practices, tasks 
+and deliverables of swimming analysts are different from swimming researchers. 
+However, we failed to find in the literature any sharing of standard procedures and 
+daily practices carried out by swimming analysts. Swimming analysts engage in the 
+modelling and forecast of the performance, analysts must decide what to test and when 
+to conduct the evaluation sessions. They also conduct race analysis, qualitative and 
+quantitative analyses of the swim strokes, start, turns, and finish. Land-based training 
+is another task that can be assigned to analysts. The aim of this narrative review was to 
+report the best practices of swimming analysts that have been supporting high- 
+performance athletes. It also aims to share how swimming analysts can translate applied 
+research into practice.
+Modelling and forecast of performance
+One important role of an analyst is to run retrospective and prospective studies on 
+a swimmer´s race performance. The tracking, follow-up and forecast of the race time can 
+be carried out based on univariate or multivariate analyses. Univariate analysis consists of 
+the study of performance time-series. It aims to describe or forecast how performance 
+changes over time without considering the influence of determinant factors. For instance, 
+it is possible to assess the stability of the performance from childhood to adulthood 
+(Costa et al., 2011 ), in an Olympic cycle (Costa et al., 2010 ) or a competitive season 
+(Costa et al., 2012 ). Long-term analysis can provide insightful benchmarks for talent 
+development (Allen et al., 2014 ). Whereas, mid- and short-term analyses can aid swim -
+mers to set target-times at major international competitions (Allen et al., 2015 ). It was 
+possible to create a tool to easily evaluate the progress of any swimmer between the ages 
+of 12 and 30 years by plotting the age-related performance progression towards the 2012 
+Olympic gold medal winning time, as showcased with Katie Ledeck and Ryan Lochte 
+(Allen et al., 2014 ). Another example is the forecast if Adam Peaty would be able to swim 
+the 100 m Breaststroke under 57 s (Barbosa & Hodierne, 2018 ), which happened one year 
+later, in 2019 (forecast in 2018: 56.83 s, World Record in 2019: 56.88 s)
+Conversely, multifactorial analysis aims to describe, explain, and forecast the perfor -
+mance based on the changes of determining factors. These are models where the 
+performance is set as the dependent variable and key-factors that can determine it as 
+independent variables. An analyst must take note of the dependent variable (e.g., race 
+time, time trial, swim velocity) and collect data on the determinant factors (independent 
+variables) by experimental testing or analytical models within days from the competitive 
+event. Biomechanics, energetics, and motor control seem to be the main performance 
+determinants in competitive swimming (Barbosa et al., 2010 ). Thus, split times, duration 
+of each race phase, stroke kinematics, limb and body kinematics, drag force, thrust are 
+some of the independent variables that can be input in the model. For example, multilevel 
+modelling can be run to determine the speed achieved during each arm-pull (dependent 4
+ T. M. BARBOSA ET AL.
+variable) having as independent variables the arm length, forearm length, hand surface 
+area, handgrip strength, peak swim speed, speed fluctuation, underwater stroke time, 
+mean thrust of the arm-pull, peak thrust and thrust fluctuation (Morais et al., 2020a ).
+Multivariate models enable the analyst to understand (Morais et al., 2014 , 2017 ; Silva 
+et al., 2007 ): (1) what are the main independent variables affecting the swimmer´s 
+performance; (2) how dependent and independent variables change over time; (3) what 
+is the partial contribution of each independent variable and how these change over time; 
+(4) how much each independent variable explains the performance at a given point in 
+time. These analyses are mostly underpinned by complex and dynamical systems, mak -
+ing use of data science, large data sets and analytics. An example is the modelling and 
+prediction of an elite female swimmer in the final of the 200 m backstroke at the 2000 
+Olympic Games by neural network (Edelmann-Nusser et al., 2002 ). The prediction error 
+was 0.05 s in a final race time of 2:12.64, having as input 19 races and training data in the 
+4 weeks prior to each race.
+The computation of standardised effect sizes is a practical tool on day-to-day 
+tasks of an analyst, provided it is possible to collect more than two measures or 
+population variability is known. Thus, an analyst can run several trials, or com -
+pute the variability of a cohort of swimmers of similar profile or performance 
+level. Standardised effect sizes yield the magnitude and direction of difference 
+between two testing moments. In elite sports, effect sizes greater than 0.2 are 
+deemed as meaningful (Buchheit, 2016 ). Alternatively, standardised effect sizes can 
+also be converted into percentile gains (Barbosa et al., 2020a ). Everything else 
+being equal, the percentile gain can provide insight on how much a swimmer will 
+improve if benchmarked against a hypothetical group of 100 peers.
+One of the challenges is determining the significance of any differences observed and 
+sharing this significance to coaches and swimmers. Same challenge has been reported in 
+clinical settings and in this field it was put forward the concept of ‘minimum clinically 
+important difference’, which aims at identify the clinically important and meaningful 
+effects of treatments in patients (Jaeschke et al., 1989 ). Likewise, some analysts believe it 
+can also be insightful to learn the smallest important effect, or smallest worthwhile 
+change of their athletes (Hopkins et al., 2009 ). For instance, to stay in contention for 
+a medal, an Olympic swimmer should improve performance by 1% within a competition 
+and by 1% within the year leading up to the Olympics but an extra 0.4% improvement 
+will substantially increase the chances of a medal (Pyne et al., 2004 ).
+In summary, analysts have at their disposal several tools to model and forecast 
+performance. In the short- and mid-term, it can help set target-times at major competi -
+tions. In the long-term, it provides insights on talent and career development.
+Training and testing
+Biomechanical testing can provide valid and reliable assessments in both dry-land and in- 
+water environments and assist in understanding the relationship between training load and 
+the induced adaptations. A primary task of an analyst is to decide which variables should 
+be measured. Changes in swimming speed mainly relate to the forces acting on the 
+swimmer in the direction of motion, which are propulsion and drag (Toussaint & 
+Truijens, 2005 ). Propulsion depends on dry-land strength and power abilities and SPORTS BIOMECHANICS
+ 5
+technique, i.e., mechanical power and Froude efficiency (Toussaint, 1990 ; Toussaint & 
+Truijens, 2005 ); whereas, drag relates to body size and dimensions (Kjendlie & Stallman, 
+2011 ) and technique (drag coefficient, Havriluk, 2006 ). As shown in Figure 1, other 
+variables can be related to propulsion and drag and, therefore, are also worth monitoring 
+in any swimming programme. Although many, some of them are of common interest for 
+other staff members and can be obtained in cooperation. For instance, mechanical power 
+can also be relevant for the strength and conditioning coach and physiotherapist practices. 
+Besides, as the testing can be time-consuming and demanding, analysts should combine 
+practical and affordable measurements with technological ones to cover a wider range of 
+variables and, in a viable manner, get a better view of the swimmer’s actual status. For 
+instance, Barbosa et al. (2019 ) combined simple (anthropometry and maximal strength) 
+and more complex measurements (tethered force, speedometer and video analysis) to 
+provide insights on how an Olympic sprinter improved the 50 m freestyle performance. In 
+this sense, short duration and in-water protocols may be preferred as they are specific, 
+time-saving, have a low injury risk and hardly produce residual fatigue and delayed onset 
+muscle soreness. Hence, they can be used during taper and even one day before the 
+competition, as performed by Barbosa et al. (2021 ) with speedometer plus video analysis.
+The timing of the evaluation session is the next major decision to be made by the 
+analyst. Interpreting the relationship between training load and the induced adaptations 
+requires synchronising the testing schedule with coaches’ planning so that ideally swim -
+mers are evaluated at the beginning and end of every intensification and taper periods 
+(Hellard et al., 2013 ). The frequency of distinct tests may differ and should be adjusted 
+according to the response time of each variable (Figure 2). For instance, technique 
+(measured by the drag coefficient) can be highly responsive in the short-term (e.g., one 
+week, Havriluk, 2006 ). Conversely, strength and power abilities may require 6–12 weeks 
+to elicit positive results (Aspenes & Karlsen, 2012 ).
+Figure 1. A model for understanding the relevant variables that affect speed and forces in swimming.6
+ T. M. BARBOSA ET AL.
+Although not directly related to biomechanics, the quantification of internal and 
+external training loads within intensification and taper periods is critical for under -
+standing training effects (Barbosa et al., 2019 ; Hellard et al., 2019 , 2017 ; Impellizzeri 
+et al., 2019 ). For instance, the volume prescribed in different training intensities is a well- 
+known method for quantifying external load (Barbosa et al., 2019 ; Hellard et al., 2017 ), 
+whereas the internal load can be assessed by the session RPE method (Foster et al., 2001 ; 
+Wallace et al. 2009 ; Barbosa et al., 2020c ). These parameters should be of interest to the 
+analyst as they can considerably affect drag and propulsion-related variables. When 
+systematically repeated, the analysis of load–response relationship can reveal training 
+trends, provide recommendations within and between cycles, improve performance 
+forecast, and assess the actual athlete’s status for competition (Smith et al., 2002 ).
+Race analysis
+Swimming race analysis is a tool to evaluate competitive performance of a swimmer and 
+provide information for specific race pace training. Data collection has evolved over the 
+past decades from manual (Pai et al., 1984 ) to fully automated real-time image recognition 
+technologies (Arellano et al., 2018 ; Balius et al., 2008 ). Until these days, race analysis 
+encompasses exclusively the description of the swimmer´s kinematics. Research has been 
+conducted lately to make available simple and yet valid models to estimate swim kinetics 
+(drag, power, propulsion) in competition settings, similar to the models used in other 
+sports (Barbosa et al., 2015 ).
+Figure 2. Overview of the swimming analyst´s job scope and main tasks.SPORTS BIOMECHANICS
+ 7
+A swimming race can be broken into the start, swim stroke (also called clean swimming), 
+turn and finish phases (Figure 2). In each phase, the analyst can consider several sub-phases 
+(Mason & Cossor, 2000 ). For instance, the start analysis can include the block time, flight 
+time, underwater time and distance (Garcia-Hermoso et al., 2013 ; McGibbon et al., 2018 ; 
+Saavedra et al., 2012 ). The swim stroke is broken into different sections in each lap (e.g., 
+15 m, 25 m, 35 m, 45 m and 50 m marks in a long course pool). Stroke frequency, count, 
+length and index are measured in each of these sections (Morais, Marinho, Arellano, & 
+Barbosa, 2019 ). The analyst calculates the average values over each stretch of the race, or 
+alternatively cycle-by-cycle variations, notably in sprint events (Simbaña-Escobar et al., 
+2018 ). It can help to adjust race strategy from heats to semi-final and final, and provide 
+guidance for training within and between macrocycles. A detailed race analysis is conducted 
+in short- and middle-distances (50 m to 400 m); whereas, a less detailed analysis is carried 
+out in long-distance events (800 and 1500 m) (Morais et al., 2020b ).
+Currently race analysis is conducted mostly by video-analysis using digital video 
+cameras (Morais et al., 2019 ). The simpler set-up comprises one single panning camera 
+that tracks the swimmers over the race. Alternatively, a set of fixed cameras at different 
+distances can also be set-up. The cameras are connected to a video selector and the film is 
+saved to a digital storage system. The pool sections are calibrated using external refer -
+ences or the lane rope marks (Morais et al., 2019 ). Dedicated softwares can be selected to 
+analyse the change in swimmer’s position and time over the race. The analysis can be 
+manual, semi-automatic or fully automatic. In manual analysis, the analyst must track the 
+swimmer frame-by-frame and record the position and/or time-stamp over different 
+events of the race. In semi-automatic analysis, the software can shift from one event to 
+another, with no need for the analyst to move the video clip frame-by-frame. Therefore, 
+the semi-automatic analysis is quicker than the manual alternative. More recently, fully 
+automated analysis has been implemented, and without human intervention the process 
+can be ten times faster than the manual procedure (Arellano et al., 2018 ). It allows 
+splitting the race into smaller sections (e.g., every 5 m) and provides even more details on 
+the race performance.
+Upon collection, raw data (position and time-stamps) are processed and saved to 
+databases. Reports are shared with coaches and athletes in the form of spreadsheets that 
+include graphs and numerical data. The same data can be displayed differently among 
+analysts, according to individual and institutional report layout preferences. The reports 
+may present within- and between-subject comparisons and/or comparisons against 
+modelled performances or forecasts.
+Swim stroke
+It has been proposed in the swimming literature that swimmers should be deemed as 
+non-linear, complex and dynamic systems (T. M. Barbosa et al., 2016 ) and indicated that 
+there may exist different ways to reach the same goal. This suggests that stroke technique 
+and its relationship to performance is individual to each athlete, as there exists many 
+varying and successful stroke models in elite performance we seek to understand. The use 
+of different tools and devices improve our understanding of swim technique and its 
+contribution to performance. Using cameras from different angles through specific soft-
+ware provides the necessary visual feedback within a kinaesthetic sport/environment, 8
+ T. M. BARBOSA ET AL.
+drawing the connection between ‘feel’ (Dekerle, 2020 ) and visual (i.e., qualitative) feed-
+back to accelerate the learning process and enhance the effectiveness of the technical 
+intervention.
+Evaluating body shape and its impact on passive (i.e., gliding in the streamline 
+positions) and active (i.e., propelling the body by limbs´ actions) drag measures can 
+provide an initial understanding of the athlete’s swimming form and streamline ability 
+(Naemi et al., 2010 ). Papic et al. (2020a ) argued that digitising body landmarks manually 
+from video clips seems outdated. Another alternative is the use of mechanical speed -
+ometers (Vilas-Boas et al., 2010 ). With use of a more recent alternative of 2D body 
+landmark digitisation by neural networks, one can determine an athlete’s glide factor, 
+relating to the athletes’ in-water body form and also provides an objective means to race 
+suit selection. This method has been calculated to digitise body landmarks up to 233 
+times faster than manual operators and relative errors are within the bounds of manual 
+digitisation (Papic et al., 2021 ). Such method can be widely available in the near future to 
+swim analysts because it significantly decreases the amount of time spent on set-up, data 
+collection and data handling. Set-up is quite straightforward as all it is required is an 
+underwater camera to capture the underwater glide and a calibration frame. A dedicated 
+software is used for neural network training of the anatomical landmarks to be tracked. 
+Then, neural network training outputs are transferred to a local laptop to digitise the 
+body landmarks of all tested swimmers. As far as the end-user is concerned, the main 
+difference in comparison to conventional manual tracking is the need to train the neural 
+network beforehand.
+Regarding athlete free swim ability, Ganzevles et al. (2019 ) demonstrated the useful -
+ness of a tri-axial accelerometer for quantifying jerk cost and swimmer smoothness 
+where findings offer insight into refined flow and coordination patterns of elite swim -
+mers. Intra-stroke velocity and intra-cyclic stroke variations measured with inertial 
+measurement units provide promising possibilities into body segment coordination 
+and sequence timing (Worsey et al., 2018 ).
+Stroke cycle propulsion can be derived from experimental data or analytical proce -
+dures, both having advantages and disadvantages. Current experimental methods to 
+assess propulsion are obtrusive and more practical to measure using hand paddles 
+(Tsunokawa et al., 2019 ). Instrumenting a swimmer may constrain the technique because 
+it can affect the range of motion, hydrodynamic drag and propelling efficiency, among 
+other swimming determinants. Thus, an alternative is relying on indirect extrapolation 
+measures that infer power output (Barbosa et al., 2015 ). To date there is no approach that 
+clearly outweighs the other. Swim analysts should consider both and select the most 
+feasible procedure based on testing goals and settings. For instance, analytical procedures 
+can yield insights at competing settings because it is not possible to instrument the 
+swimmer. Conversely, experimental evaluation is an interesting method in dedicated 
+testing sessions or during regular training sessions.
+One of the biggest challenges for swimmers is how to enhance the stroke technique. 
+Most of the times they rely on watching it (e.g., from video clips) or feeling it 
+(kinaesthetic awareness). From an unconventional approach, Hermann et al. (2020 ) 
+poses an insightful means of understanding the swimmer’s interaction with water 
+through the sonification of pressure changes during free swimming. This ability to 
+combine multiple data channels into a single sound stream provides an alternative SPORTS BIOMECHANICS
+ 9
+method for swimmers to listen to their stroke (i.e., bio-feedback) as opposed to 
+mainstream means of visual and kinaesthetic feed-back .
+Testing and analysing free swim technique should be associated with race perfor -
+mance goals. The protocol design should align with race requirements, rather than 
+capturing measures from detached efforts in isolation. We need to adapt testing to refine 
+foundational and fundamental motor skill requirements for swimming by measuring and 
+understanding already known factors correlated to swim performance. Through gen-
+erative conversations with coaches, analysts need to align testing protocols to athlete 
+priorities to be better positioned to facilitate the path to performance enhancement.
+Starts, turns & finish
+The final piece of the puzzle for biomechanists working with swimmers is the skill 
+components of starts, turns, and finishes. Evaluation of the importance of the starts and 
+turns has been measured during international swimming competitions (Cossor & Mason, 
+2001 ; Mason & Cossor, 2000 ; Morais et al., 2019 ; Veiga & Roig, 2017 ). Distances vary 
+slightly between researchers but tend to be from the gun signal to the 15 m for a start, 5– 
+7.5 m into the wall and then 7.5–15 m out from the wall in a turn, and 5 m for the finish. 
+Success in these skills comes from maximising the power produced when leaving the block/ 
+wall and maintaining the velocity through drag reduction and optimal underwater undu -
+latory technique (Arellano et al., 2002 ).
+The aquatic environment limits equipment available for kinetic analysis within the 
+sport of swimming. However, over the last 20 years kinetic analysis has become more 
+feasible, particularly for starts and turns (Figure 2). Technology used by analysts to 
+determine kinematic and kinetic measures of the starts and turns include instrumented 
+starting blocks and turning platforms, as well as inertial sensors (Mooney et al., 2015 ; 
+Slawson et al., 2010 ). With the cost of these systems beyond the reach of many swimming 
+programmes, researchers have developed a reliable system that is cost effective (De Jesus 
+et al., 2020 ). Links have been made between forces produced in starts and turns with 
+simple land measures and techniques as an alternative, and affordable option, to pool 
+testing (Cuenca-Fernández et al., 2018 ; Keiner et al., 2019 ). Regardless of the technology 
+it is important to break the skill into different phases to determine the strengths and 
+weaknesses for the individual.
+Whilst researchers and biomechanists can determine the cause of the technical 
+limitations to the skill phases within swimming, if they are unable to change the current 
+behaviour of the swimmer then the skill will remain a problem. Krause (2017 ) recom -
+mended the use of augmented feedback to improve skill performance using both video 
+and time information. This is in contrast to skill acquisition researchers who recommend 
+a constraints led approach to adapt performances (Otte et al., 2020 ). Coaches and 
+biomechanists understand the importance of ‘feel’ within swimming which is why 
+there is a need to enable swimmers to develop a kinaesthetic awareness that allows 
+them to adapt when external feedback is provided (Dekerle, 2020 ). The timing, type, 
+and quality of feedback will vary depending on the phase of skill adaptation that the 
+swimmer is in. Intrinsic mechanisms should enable the athlete to learn behaviours that 
+result in permanent skill improvements.10
+ T. M. BARBOSA ET AL.
+The ability to provide feedback in a timely manner assists practitioners working within 
+the daily training environment. Qualitative feedback tends to be used more frequently 
+than quantitative feedback but the frequency of the interaction with the coach–athlete 
+partnership can have an impact on the start and turn skill enhancement from one major 
+competition to the next.
+Land-based training
+Numerous studies have shown positive correlations between swimming speed and dry-
+land strength and power abilities (Beretić et al., 2013 ; Dopsaj et al., 1999 ; Garrido et al., 
+2012 ; Gola et al., 2014 ; Weston et al., 2015 ). Assessing variables which the literature 
+supports, presenting these to the coaching staff, tracking them over time, and making 
+training recommendations is the main role of an analyst.
+The start is the aspect of swimming most correlated with strength training. Research 
+suggested the time taken to reach predetermined set distances of 5, 10 and 15 m, was 
+more highly related to vertical squat jump and countermovement jump than muscle 
+strength and other parameters (Mason & Cossor, 2000 ).
+The correlations of dry-land strength and in-water performance seems to vary with 
+swimming distance (Gola et al., 2014 ). The relative importance of strength increases as 
+the distance decreases. Several dryland strength interventions reported positive effects on 
+sprint swimming performance (Aspenes & Karlsen, 2012 ; Girold et al., 2007 ; Weston 
+et al., 2015 ). However, the wide variety of the protocols and the diversity of results make 
+it necessary to examine the existing evidence to reach a consensus of the most effective 
+dryland strength practices. Moreover, few studies have assessed non-front crawl strokes 
+and endurance events. Most studies utilise traditional strength and conditioning exer-
+cises, bench press, back squat, and deadlift. Other studies have used elbow flexion and 
+extension as their corollary with swimming performance (Gola et al., 2014 ). However, 
+there is not a standard parameter or test for analysing overall strength enhancements.
+Land-based analysis also aims to prevent musculoskeletal injuries and monitor its risk 
+factors (Figure 2). Swimmers frequently develop shoulder pain. The shoulder is the most 
+frequently injured joint in swimming (McMaster & Troup, 1993 ). The prevalence of shoulder 
+pain varies from 3% to 91% (Tessaro et al., 2017 ). Biomechanics, training volume, and 
+repetitive sport stresses are the biggest contributors to shoulder injury (Grote et al., 2004 ; 
+Johnson, 2003 ; Keskinen et al., 1980 ; McFarland & Wasik, 1996 ; Rovere & Nichols, 1985 ; 
+Stocker et al., 1995 ; Vizsolyi et al., 1987 ). Risk factors that were only investigated by a single 
+study assigned a low level of certainty as there is insufficient evidence to make a conclusion 
+and requires future investigation to aid an evidence-based practice by analysts. These risk 
+factors include the triceps length (Tate et al., 2012 ), latissimus length (Tate et al., 2012 ) and 
+internal/external rotation endurance (Beach et al., 1992 ). The trunk and knee are also 
+common sites for injuries in swimmers (Kerr et al., 2015 ). Notwithstanding, measurable 
+risk factors have not been specifically assessed in swimmers.
+In summary, more research is needed to quantify variables which correlate swimming 
+performance with strength and conditioning and those which may predict injuries in 
+swimmers. Until this occurs, strength and conditioning and injury prevention programmes 
+must be individualised. Stroke specialities, training history, injury history, flexibility, body 
+composition, and swimming biomechanical flaws are factors to consider when developing an SPORTS BIOMECHANICS
+ 11
+individualised strength and conditioning and injury prevention programme. The level of 
+education of coaches, communication, procedures for field effectiveness have also been put 
+forward as some of the hypothetical key-factors (Cossor et al., 2014 ; Hellard, 2014 ).
+Conclusions
+Swim analysts provide insightful information to athletes and coaches that aids their 
+decision-making (Figure 2). Swim analysts can forecast performances and target-times in 
+different time frames. They should also do on regular basis race analysis at official 
+competitions and run testing sessions on underlying performance determinants of the 
+swim stroke, start, turns and finish. Besides in-water testing, on-land assessment of 
+strength and conditioning and injury prevention are part of the job scope.
+These days, one large portion of the time is spent setting-up tests, collecting and 
+handling data. Machine learning, big data, automatic evaluation tools and systems enable 
+streaming information to athletes on the go. As this technology becomes readily available 
+to most analysts, the job scope will shift more towards the analysis and interpretation of 
+the data, being more engaged in the recommendation exercise to athletes and coaches.
+Increasingly, the analyst is seen as part of the swim team, supporting athletes, and 
+delivering quality recommendations to help coaches in the decision-making. Coaches, 
+analysts and researchers must continue to strive to work in synergy supporting athletes to 
+excel, serving the analyst the role of hinge between the former and the latter. Ultimately, 
+the analyst should be able to address the challenges shared by the swimmer, providing 
+insightful solutions that are evidence-based on cutting-edge research.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+This project was funded by the FCT - Portuguese Foundation for Science and Technology (UIDB/ 
+DTP/04045/2020).
+ORCID
+Tiago M. Barbosa 
+ http://orcid.org/0000-0001-7071-2116
+Augusto Carvalho Barbosa 
+ http://orcid.org/0000-0003-3406-8524
+David Simbaña Escobar 
+ http://orcid.org/0000-0001-6514-760X
+Raúl Arellano 
+ http://orcid.org/0000-0002-6773-2359
+References
+Allen, S. V., Vandenbogaerde, T. J., & Hopkins, W. G. (2014 ). Career performance trajectories of 
+Olympic swimmers: Benchmarks for talent development. European Journal of Sport Science , 14 
+(7), 643–651. https://doi.org/10.1080/17461391.2014.893020 12
+ T. M. BARBOSA ET AL.
+Allen, S. V., Vandenbogaerde, T. J., Pyne, D. B., & Hopkins, W. G. (2015 ). Predicting a nation’s 
+Olympic-qualifying swimmers. International Journal of Sports Physiology and Performance , 10 
+(4), 431–435. https://doi.org/10.1123/ijspp.2014-0314 
+Arellano, R., Pardillo, S., & Gavilan, A. (2002 , July). Underwater undulatory swimming: Kinematic 
+characteristics, vortex generation and application during the start, turn and swimming strokes. 
+In Proceedings of the XXth international symposium on biomechanics in sports (pp. 29–41). 
+Universidad de Extremadura, Caceras.
+Arellano, R., Ruiz-Teba, A., Morales, E., Gay, A., & Cuenca-Fernandez, F. (2018 ). Short course 
+50m female freestyle performance comparison between national and regional swimmers. XIIIth 
+International Symposium on Biomechanics And Medicine In Swimming Proceedings . (pp. 
+248–355). Tsukuba: Japanese Society of Sciences in Swimming and Water Exercise.
+Aspenes, S. T., & Karlsen, T. (2012 ). Exercise-training intervention studies in competitive 
+swimming. Sports Medicine , 42(6), 527–543. https://doi.org/10.2165/11630760-000000000- 
+00000 
+Balius, X., Ferrer, V., Roig, A., Arellano, R., De la Fuente, B., Morales, E., & .Sanchez, J. A. (2008 ). 
+A semi-automatic competition analysis tool for swimming. Impact of Technology on Sports , II, 
+583–586.
+Barbosa, A. C., Barroso, R., Olstad, B. H., & Andrade, A.G . (2021 ). Long-term changes in the 
+speed curve of a world-class butterfly swimmer. Journal of Sports Medicine and Physical Fitness, 
+61(1), 152–158. https://doi.org/10.23736/s0022-4707.20.11557-3 
+Barbosa, A. C., Ferreira, T. H., Leis, L. V., Gourgoulis, V., & Barroso, R. (2020a ). Does a 4-week 
+training period with hand paddles affect front-crawl swimming performance? Journal of Sports 
+Sciences , 38(5), 511–517. https://doi.org/10.1080/02640414.2019.1710382 
+Barbosa, A. C., Valadão, P. F., Wilke, C. F., De Martins, F. S., Silva, D. C. P., Volkers, S. A., 
+Lima, C. O. V., Ribeiro, J. R. C., Bittencourt, N. F., & Barroso, R. (2019 ). The road to 21 seconds: 
+A case report of a 2016 Olympic swimming sprinter. International Journal of Sports Science & 
+Coaching , 14(3), 393–405. https://doi.org/10.1177/1747954119828885 
+Barbosa, T. M., Bragada, J. A., Reis, V. M., Marinho, D. A., Carvalho, C., & Silva, A. J. (2010 ). 
+Energetics and biomechanics as determining factors of swimming performance: Updating the 
+state of the art. Journal of Science and Medicine in Sport , 13(2), 262–269. https://doi.org/10. 
+1016/j.jsams.2009.01.003 
+Barbosa, T. M., Goh, W. X., Morais, J. E., Costa, M. J., & Pendergast, D. (2016 ). Comparison of 
+classical kinematics, entropy, and fractal properties as measures of complexity of the motor 
+system in swimming. Frontiers in Psychology , 7, 1566. https://doi.org/10.3389/fpsyg.2016.01566 
+Barbosa, T. M., & Hodierne, H. (2018 ). Analysis if Adam Peaty will break 57 seconds in the 100 
+Breaststroke . Swimming Science. Retrieved April 30, 2018, from https://www.swimmingscience. 
+net/analysis-if-adam-peaty-will-break-57-seconds-in-the-100-breaststroke/ 
+Barbosa, T. M., Morais, J. E., Marques, M. C., Costa, M. J., & Marinho, D. A. (2015 ). The power 
+output and sprinting performance of young swimmers. The Journal of Strength & Conditioning 
+Research , 29(2), 440–450. https://doi.org/10.1519/JSC.0000000000000626 
+Barbosa, T. M., Yam, J. W., Lum, D., Balasekaran, G., & Marinho, D. A. (2020c ). Arm-pull thrust 
+in human swimming and the effect of post-activation potentiation. Scientific Reports , 10(1), 
+8464. https://doi.org/10.1038/s41598-020-65494-z 
+Beach, M. L., Whitney, S. L., & Dickoff-Hoffman, S. A. (1992 ). Relationship of shoulder flexibility, 
+strength, and endurance to shoulder pain in competitive swimmers. Journal of Orthopaedic & 
+Sports Physical Therapy , 16(6), 262–268. https://doi.org/10.2519/jospt.1992.16.6.262 
+Beretić, I., Đurović, M., Okičić, T., & Dopsaj, M. (2013 ). Relations between lower body isometric 
+muscle force characteristics and start performance in elite male sprint swimmers. Journal of 
+Sports Science & Medicine , 12(4), 639.
+Bishop, D., Burnett, A., Farrow, D., Gabbett, T., & Newton, R. (2006 ). Sports-science roundtable: 
+Does sports-science research influence practice? International Journal of Sports Physiology and 
+Performance , 1(2), 161–168. https://doi.org/10.1123/ijspp.1.2.161 
+Buchheit, M. (2016 ). Chasing the 0.2. International Journal of Sports Physiology and Performance , 
+11(4), 417–418. https://doi.org/10.1123/ijspp.2016-0220 SPORTS BIOMECHANICS
+ 13
+Buchheit, M. (2017a ). Houston, we still have a problem. International Journal of Sports Physiology 
+and Performance , 12(4), 1111–1114. https://doi.org/10.1123/ijspp.2017-0422 
+Buchheit, M. (2017b ). Want to see my report, coach. In Aspetar (Ed.), Aspetar Sport Medicine (pp. 
+36–43).
+Cossor, J., & Mason, B. (2001 ). Swim start performances at the Sydney 2000 Olympic Games. In: 
+J. R. Blackwell & R. H. Sanders (eds). 19th International Symposium on Biomechanics in Sports . 
+(pp. 70–74). San Francisco: University of San Francisco.
+Cossor, J., Slawon, S., Conway, P., & West, A. (2014 ). The effect of feet placement during the wall 
+contact phase on freestyle turns. In: B. Mason (ed.). XIIth International Symposium on Biomechanics 
+and Medicine in Swimming Proceedings (pp. 107–111). Canberra: Australian Institute of Sport.
+Costa, M. J., Bragada, J. A., Mejias, J. E., Louro, H., Marinho, D. A., Silva, A. J., & Barbosa, T. M. 
+(2012 ). Tracking the performance, energetics and biomechanics of international versus national 
+level swimmers during a competitive season. European Journal of Applied Physiology , 112(3), 
+811–820. https://doi.org/10.1007/s00421-011-2037-6 
+Costa, M. J., Marinho, D. A., Bragada, J. A., Silva, A. J., & Barbosa, T. M. (2011 ). Stability of elite 
+freestyle performance from childhood to adulthood. Journal of Sports Sciences , 29(11), 
+1183–1189. https://doi.org/10.1080/02640414.2011.587196 
+Costa, M. J., Marinho, D. A., Reis, V. M., Silva, A. J., Marques, M. C., Bragada, J. A., & Barbosa, T. M. 
+(2010 ). Tracking the performance of world-ranked swimmers. Journal of Sports Science & 
+Medicine , 9(3), 411.
+Coutts, A. J. (2016 ). Working fast and working slow: The benefits of embedding research in 
+high-performance sport. International Journal of Sports Physiology and Performance , 11(1), 1–2. 
+https://doi.org/10.1123/IJSPP.2015-0781 
+Cuenca-Fernández, F., Ruiz-Teba, A., López-Contreras, G., & Arellano, R. (2018 ). Effects of 2 types of 
+activation protocols based on postactivation potentiation on 50-m freestyle performance. Journal of 
+Strength and Conditioning Research , 34(11), 3284–3292. https://doi.org/10.1519/JSC. 
+0000000000002698 
+de Jesus, K., Mourão, L., Roesler, H., Viriato, N., De Jesus, K., de, Vaz, M., Fernandes, R., & Vilas- 
+Boas, J. P. (2020 ). 3D device for forces in swimming starts and turns. Applied Sciences , 9(17), 
+1–19. https://doi.org/10.3390/app9173559 
+Dekerle, J. (Ed.). (2020 ). High Performance Youth Swimming . Routledge.
+Dopsaj, M., Milosevic, M., Matkovic, I., Arlov, D., & Blagojevic, M. (1999 ). The relation between 
+sprint ability in freestyle swimming and force characteristics of different muscle groups. In 
+K. Keskinen, P. Komi, & P. Hollander (Eds.), Biomechanics and Medicine in Swimming VIII (pp. 
+203–208). Gummerus Printing.
+Edelmann-Nusser, J., Hohmann, A., & Henneberg, B. (2002 ). Modeling and prediction of compe -
+titive performance in swimming upon neural networks. European Journal of Sport Science , 2(2), 
+1–10. https://doi.org/10.1080/17461390200072201 
+Foster, C., Florhaug, J. A., Franklin, J., Gottschall, L., Hrovatin, L. A., Parker, S., & Dodge, C. 
+(2001 ). A new approach to monitoring exercise training. The Journal of Strength & Conditioning 
+Research , 15(1), 109–115.
+Ganzevles, S. P., Beek, P. J., Daanen, H. A., Coolen, B. M., & Truijens, M. J. (2019 ). Differences in 
+swimming smoothness between elite and non-elite swimmers. Sports Biomechanics , 1–14. 
+online first. https://doi.org/10.1080/14763141.2019.1650102 
+Garcia-Hermoso, A., Escalante, Y., Arellano, R., Navarro, F., Dominguez, A. M., & Saavedra, J. M. 
+(2013 ). Relationship between final performance and block times with the traditional and the 
+new starting platforms with a back plate in international swimming championship 50-M and 
+100-M freestyle events. Journal of Sports Science & Medicine , 12(4), 698–706.
+Garrido, N. D., Silva, A. J., Fernandes, R. J., Barbosa, T. M., Costa, A. M., Marinho, D., & 
+Marques, M. C. (2012 ). High level swimming performance and its relation to non-specific 
+parameters: A cross-sectional study on maximum handgrip isometric strength. Perceptual and 
+Motor Skills , 114(3), 936–948. https://doi.org/10.2466/05.10.25.PMS.114.3.936-948 14
+ T. M. BARBOSA ET AL.
+Girold, S., Maurin, D., Dugue, B., Chatard, J. C., & Millet, G. (2007 ). Effects of dry-land vs. 
+resisted-and assisted-sprint exercises on swimming sprint performances. The Journal of Strength 
+& Conditioning Research , 21(2), 599–605. https://doi.org/10.1519/R-19695.1 
+Gola, R., Urbanik, C., Iwańska, D., & Madej, A. (2014 ). Relationship between muscle strength and 
+front crawl swimming velocity. Human Movement , 15(2), 110–115. https://doi.org/10.2478/ 
+humo-2014-0011 
+Groom, R., & Cushion, C. (2004 ). Coaches perceptions of the use of video analysis. Insigth , 7, 56–58.
+Grote, K., Lincoln, T. L., & Gamble, J. G. (2004 ). Hip adductor injury in competitive swimmers. The 
+American Journal of Sports Medicine , 32(1), 104–108. https://doi.org/10.1177/0363546503258905 
+Havriluk, R. (2006 ). Magnitude of the effect of an instructional intervention on swimming 
+technique and performance. Portuguese Journal of Sport Sciences , 6(Suppl. 2). In J. P. Vilas- 
+Boas, F. Alves, & A. Marques (Eds.), Biomechanics and Medicine in Swimming X (pp. 218–220).
+Hellard, P. (2014 ). The development of a research department in the French Swimming 
+Federation: A paradigm evolution. In: B. Mason (ed.). XIIth International Symposium on 
+Biomechanics and Medicine in Swimming Proceedings (pp. 41–48). Canberra: Australian 
+Institute of Sport.
+Hellard, P., Avalos, M., Hausswirth, C., Pyne, D., Toussaint, J. F., & Mujika, I. (2013 ). Identifying 
+optimal overload and taper in elite swimmers over time. Journal of Sports Science & Medicine , 12 
+(4), 668.
+Hellard, P., Avalos-Fernandes, M., Lefort, G., Pla, R., Mujika, I., Toussaint, J. F., & Pyne, D. B. 
+(2019 ). Elite swimmers’ training patterns in the 25 weeks prior to their season’s best perfor -
+mances: Insights into periodization from a 20-years cohort. Frontiers in Physiology , 10, 363. 
+https://doi.org/10.3389/fphys.2019.00363 
+Hellard, P., Scordia, C., Avalos, M., Mujika, I., & Pyne, D. B. (2017 ). Modelling of optimal training load 
+patterns during the 11 weeks preceding major competition in elite swimmers. Applied Physiology, 
+Nutrition, and Metabolism , 42(10), 1106–1117. https://doi.org/10.1139/apnm-2017-0180 
+Hermann, T., Ungerechts, B., Toussaint, H., & Grote, M. (2020 ). Sonification of pressure changes 
+in swimming for analysis and optimization. Proceedings of the 18th International Conference on 
+Auditory Display (pp. 60–67). Atlanta, GA: Georgia Institute of Technology.
+Hopkins, W., Marshall, S., Batterham, A., & Hanin, J. (2009 ). Progressive statistics for studies in 
+sports medicine and exercise science. Medicine Science in Sports Exercise , 41(1), 3–12. https:// 
+doi.org/10.1249/MSS.0b013e31818cb278 
+Impellizzeri, F. M., Marcora, S. M., & Coutts, A. J. (2019 ). Internal and external training load: 15 
+years on. International Journal of Sports Physiology and Performance , 14(2), 270–273. https:// 
+doi.org/10.1123/ijspp.2018-0935 
+Jaeschke, R., Singer, J., & Guyatt, G. H. (1989 ). Measurement of health status: Ascertaining the 
+minimal clinically important difference. Controlled Clinical Trials , 10(4), 407–415. https://doi. 
+org/10.1016/0197-2456(89)90005-6 
+Johnson, J. N. (2003 ). Competitive swimming illness and injury: Common conditions limiting 
+participation. Current Sports Medicine Reports , 2(5), 267–271. https://doi.org/10.1249/ 
+00149619-200310000-00007 
+Keiner, M., Wirth, K., Fuhrmann, S., Kunz, M., Hartmann, H., & Haff, G. G. (2019 ). The influence 
+of upper- and lower-body maximum strength on swim block start, turn, and overall swim 
+performance in sprint swimming. Journal of Strength and Conditioning Research , Publish Ahead 
+of Print . https://doi.org/10.1519/JSC.0000000000003229 
+Kerr, Z. Y., Baugh, C. M., Hibberd, E. E., Snook, E. M., Hayden, R., & Dompier, T. P. (2015 ). 
+Epidemiology of National Collegiate Athletic Association men’s and women’s swimming and 
+diving injuries from 2009/2010 to 2013/2014. British Journal of Sports Medicine , 49(7), 465–471. 
+https://doi.org/10.1136/bjsports-2014-094423 
+Keskinen, K., Eriksson, E., & Komi, P. (1980 ). Breaststroke swimmer’s knee: A biomechanical and 
+arthroscopic study. The American Journal of Sports Medicine , 8(4), 228–231. https://doi.org/10. 
+1177/036354658000800402 
+Kjendlie, P. L., & Stallman, R. (2011 ). Morphology and swimming performance. In World book of 
+swimming. From science to performance , (pp. 203–222). Nova Science Publisher.SPORTS BIOMECHANICS
+ 15
+Krause, D. (2017 ). Effects of additional knowledge of results on modifying highly practiced acyclic 
+swimming techniques with knowledge of performance. International Journal of Sports Science & 
+Coaching , 12(6), 737–746. https://doi.org/10.1177/1747954117738894 
+Mason, B., & Cossor, J. (2000 ). What can we learn from competition analysis at the 1999 Pan 
+Pacific Swimming Championships? In: Y. Hong, D. P. Johns, & R. Sanders (eds). 18th 
+International Symposium on Biomechanics in Sports . Hong Kong: Chinese University of 
+Hong Kong.
+McFarland, E. G., & Wasik, M. (1996 ). Injuries in female collegiate swimmers due to swimming 
+and cross training. Clinical Journal of Sport Medicine , 6(3), 178–182. https://doi.org/10.1097/ 
+00042752-199607000-00007 
+McGibbon, K. E., Pyne, D. B., Shephard, M. E., & Thompson, K. G. (2018 ). Pacing in Swimming: 
+A Systematic Review. Sports Medicine , 48(7), 1621–1633. https://doi.org/10.1007/s40279-018- 
+0901-9 
+McMaster, W. C., & Troup, J. (1993 ). A survey of interfering shoulder pain in United States 
+competitive swimmers. The American Journal of Sports Medicine , 21(1), 67–70. https://doi.org/ 
+10.1177/036354659302100112 
+Mooney, R., Corley, G., Godfrey, A., Osborough, C., Newell, J., Quinlan, L. R., & ÓLaighin, G. 
+(2016 ). Analysis of swimming performance: Perceptions and practices of US-based swimming 
+coaches. Journal of Sports Sciences , 34(11), 997–1005. https://doi.org/10.1080/02640414.2015. 
+1085074 
+Mooney, R., Corley, G., Godfrey, A., Quinlan, L. R., & Ólaighin, G. (2015 ). Inertial sensor 
+technology for elite swimming performance analysis: A systematic review. Sensors (Basel, 
+Switzerland) , 16(18), 18. https://doi.org/10.3390/s16010018 
+Morais, J. E., Barbosa, T. M., Forte, P., Bragada, J. A., Castro, F. A. D., & Marinho, D. A. (2020a ). 
+Stability analysis and prediction of pacing in elite 1500 m freestyle male swimmers. Sports 
+Biomechanics , 1–18. https://doi.org/10.1080/14763141.2020.1810749 
+Morais, J. E., Forte, P., Nevill, A. M., Barbosa, T. M., & Marinho, D. A. (2020b ). Upper-limb 
+kinematics and kinetics imbalances in the determinants of front-crawl swimming at maximal 
+speed in young international level swimmers. Scientific Reports , 10(1), 11683. https://doi.org/10. 
+1038/s41598-020-68581-3 
+Morais, J. E., Marinho, D. A., Arellano, R., & Barbosa, T. M. (2019 ). Start and turn performances of 
+elite sprinters at the 2016 European Championships in swimming. Sports Biomechanics , 18(1), 
+100–114. https://doi.org/10.1080/14763141.2018.1435713 
+Morais, J. E., Marques, M. C., Marinho, D. A., Silva, A. J., & Barbosa, T. M. (2014 ). Longitudinal 
+modeling in sports: Young swimmers’ performance and biomechanics profile. Human 
+Movement Science , 37, 111–122. https://doi.org/10.1016/j.humov.2014.07.005 
+Morais, J. E., Silva, A. J., Marinho, D. A., Lopes, V. P., & Barbosa, T. M. (2017 ). Determinant 
+factors of long-term performance development in young swimmers. International Journal of 
+Sports Physiology and Performance , 12(2), 198–205. https://doi.org/10.1123/ijspp.2015-0420 
+Naemi, R., Easson, W. J., & Sanders, R. H. (2010 ). Hydrodynamic glide efficiency in swimming. 
+Journal of Science and Medicine in Sport , 13(4), 444–451. https://doi.org/10.1016/j.jsams.2009. 
+04.009 
+Otte, F. W., Davids, K., Millar, S.-K., & Klatt, S. (2020 ). When and how to provide feedback and 
+instructions to athletes? How sport psychology and pedagogy insights can improve coaching 
+interventions to enhance self-regulation in training. Frontiers in Psychology , 11, 1444. https:// 
+doi.org/10.3389/fpsyg.2020.01444 
+Pai, Y. C., Hay, J. G., & Wilson, B. D. (1984 ). Stroking techniques of elite swimmers. Journal of 
+Sports Sciences , 2(3), 225–239. https://doi.org/10.1080/02640418408729719 
+Papic, C., McCabe, C., Gonjo, T., & Sanders, R. (2020a ). Effect of torso morphology on maximum 
+hydrodynamic resistance in front crawl swimming. Sports Biomechanics , 1–15. https://doi.org/ 
+10.1080/14763141.2020.1773915 
+Papic, C., Sanders, R. H., Naemi, R., Elipot, M., & Andersen, J. (2021 ). Improving data acquisition 
+speed and accuracy in sport using neural networks. Journal of Sports Sciences , 39(5), 513–522. 
+https://doi.org/10.1080/02640414.2020.1832735 16
+ T. M. BARBOSA ET AL.
+Pelayo, P., & Alberty, M. (2011 ). The history of swimming research. In L. Seifert, D. Chollet, & 
+I. Mujika (Eds.), World book of swimming: From science to performance (pp. xix–xxvi). Nova Science.
+Pyne, D. B., Trewin, C. B., & Hopkins, W. G. (2004 ). Progression and variability of competitive 
+performance of Olympic swimmers. Journal of Sports Sciences , 22(7), 613–620. https://doi.org/ 
+10.1080/02640410310001655822 
+Rovere, G. D., & Nichols, A. W. (1985 ). Frequency, associated factors, and treatment of breast -
+stroker’s knee in competitive swimmers. The American Journal of Sports Medicine , 13(2), 
+99–104. https://doi.org/10.1177/036354658501300204 
+Saavedra, J. M., Escalante, Y., Garcia-Hermoso, A., Arellano, R., & Navarro, F. (2012 ). A 12-Year 
+Analysis of Pacing Strategies in 200-and 400-M Individual Medley in International Swimming 
+Competitions. Journal of Strength and Conditioning Research , 26(12), 3289–3296. https://doi. 
+org/10.1519/JSC.0b013e318248aed5 
+Silva, A. J., Costa, A. M., Oliveira, P. M., Reis, V. M., Saavedra, J., Perl, J., & Marinho, D. A. (2007 ). 
+The use of neural network technology to model swimming performance. Journal of Sports 
+Science & Medicine , 6(1), 117.
+Simbaña-Escobar, D., Hellard, P., & Seifert, L. (2018 ). Modelling stroking parameters in competitive 
+sprint swimming: Understanding inter-and intra-lap variability to assess pacing management. 
+Human Movement Science , 61, 219–230. https://doi.org/10.1016/j.humov.2018.08.002 
+Slawson, S. E., Conway, P. P., Justham, L. M., & West, A. A. (2010 ). The development of an 
+inexpensive passive marker system for the analysis of starts and turns in swimming. Procedia 
+Engineering , 2(2), 2727–2733. https://doi.org/10.1016/j.proeng.2010.04.058 
+Smith, D. J., Norris, S. R., & Hogg, J. M. (2002 ). Performance evaluation of swimmers - scientific 
+tool. Sports Medicine , 32(9), 539–554. https://doi.org/10.2165/00007256-200232090-00001 
+Stocker, D., Pink, M., & Jobe, F. W. (1995 ). Comparison of shoulder injury in collegiate-and 
+master’s-level swimmers. Clinical Journal of Sport Medicine , 5(1), 4–8. https://doi.org/10.1097/ 
+00042752-199501000-00002 
+Tate, A., Turner, G. N., Knab, S. E., Jorgensen, C., Strittmatter, A., & Michener, L. A. (2012 ). Risk 
+factors associated with shoulder pain and disability across the lifespan of competitive swimmers. 
+Journal of Athletic Training , 47(2), 149–158. https://doi.org/10.4085/1062-6050-47.2.149 
+Tessaro, M., Granzotto, G., Poser, A., Plebani, G., & Rossi, A. (2017 ). Shoulder pain in competitive 
+teenage swimmers and it’s prevention: A retrospective epidemiological cross sectional study of 
+prevalence. International Journal of Sports Physical Therapy , 12(5), 798–811. https://doi.org/10. 
+26603/ijspt20170798 
+Toussaint, H., & Truijens, M. (2005 ). Biomechanical aspects of peak performance in human 
+swimming. Animal Biology , 55(1), 17–40. https://doi.org/10.1163/1570756053276907 
+Toussaint, H. M. (1990 ). Differences in propelling efficiency between competitive and triathlon 
+swimmers. Medicine and Science in Sports and Exercise , 22(3), 409–415. https://doi.org/10.1249/ 
+00005768-199006000-00020 
+Tsunokawa, T., Mankyu, H., Takagi, H., & Ogita, F. (2019 ). The effect of using paddles on hand 
+propulsive forces and Froude efficiency in arm-stroke-only front-crawl swimming at various 
+velocities. Human Movement Science , 64, 378–388. https://doi.org/10.1016/j.humov.2019.03. 
+007 
+Ungerechts, B. E., & Keskinen, K. (2018 ). The significance of International Symposia on 
+Biomechanics and Medicine in Swimming – A Multidisciplinary approach. In: H. Takagy, 
+Y. Oghji, Y. Sengoky, & T. Gonjo (eds.). Xiiith International Symposium on Biomechanics and 
+Medicine In Swimming Proceedings (pp. 17–25). Tsukuba: Japanese Society of Sciences in 
+Swimming and Water Exercise.
+Veiga, S., & Roig, A. (2017 ). Effect of the starting and turning performances on the subsequent 
+swimming parameters of elite swimmers. Sports Biomechanics , 16(1), 34–44. https://doi.org/10. 
+1080/14763141.2016.1179782 
+Vilas-Boas, J. P., Costa, L., Fernandes, R. J., Ribeiro, J., Figueiredo, P., Marinho, D., & Machado, L. 
+(2010 ). Determination of the drag coefficient during the first and second gliding positions of the 
+breaststroke underwater stroke. Journal of Applied Biomechanics , 26(3), 324–331. https://doi. 
+org/10.1123/jab.26.3.324 SPORTS BIOMECHANICS
+ 17
+Vizsolyi, P., Taunton, J., Robertson, G., Filsinger, L., Shannon, H. S., Whittingham, D., & 
+Gleave, M. (1987 ). Breaststroker’s knee: An analysis of epidemiological and biomechanical 
+factors. The American Journal of Sports Medicine , 15(1), 63–71. https://doi.org/10.1177/ 
+036354658701500109 
+Wallace, L. K., Slattery, K. M., & Coutts, A. J. (2009 ). The ecological validity and application of the 
+session-RPE method for quantifying training loads in swimming. The Journal of Strength & 
+Conditioning Research , 23(1), 33–8. https://doi.org/10.1519/JSC.0b013e3181874512 
+Weston, M., Hibbs, A. E., Thompson, K. G., & Spears, I. R. (2015 ). Isolated core training improves 
+sprint performance in national-level junior swimmers. International Journal of Sports 
+Physiology and Performance , 10(2), 204–210. https://doi.org/10.1123/ijspp.2013-0488 
+Williams, S. J., & Kendall, L. (2007 ). Perceptions of elite coaches and sports scientists of the 
+research needs for elite coaching practice. Journal of Sports Sciences , 25(14), 1577–1586. https:// 
+doi.org/10.1080/02640410701245550 
+Wilson, B. D. (2008 ). Development in video technology for coaching. Sports Technology , 1(1), 
+34–40. https://doi.org/10.1080/19346182.2008.9648449 
+Worsey, M. T., Pahl, R., Thiel, D. V., & Milburn, P. D. (2018 ). A comparison of computational 
+methods to determine intrastroke velocity in swimming using IMUs. IEEE Sensors Letters , 2(1), 
+1–4. https://doi.org/10.1109/LSENS.2018.280489318
+ T. M. BARBOSA ET AL.

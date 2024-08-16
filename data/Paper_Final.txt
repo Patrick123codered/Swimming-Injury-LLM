@@ -1,0 +1,491 @@
+This article was downloaded by: [b-on: Biblioteca do conhecimento online UEvora]On: 28 April 2014, At: 02:33Publisher: Taylor & FrancisInforma Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House,37-41 Mortimer Street, London W1T 3JH, UK
+European Journal of Sport SciencePublication details, including instructions for authors and subscription information:http://www.tandfonline.com/loi/tejs20Does a water-training macrocycle really createimbalances in swimmers' shoulder rotator muscles?Nuno Batalhaa, José Marmeleiraa, Nuno Garridob & António J. Silvaba Research Centre of Sports, Health and Human Development, Department of Sport andHealth, University of Évora, Évora, Portugalb Research Centre of Sports, Health and Human Development, University of Trás-os-Montesand Alto Douro, Vila Real, PortugalPublished online: 23 Apr 2014.To cite this article: Nuno Batalha, José Marmeleira, Nuno Garrido & António J. Silva (2014): Does a water-trainingmacrocycle really create imbalances in swimmers' shoulder rotator muscles?, European Journal of Sport Science, DOI:10.1080/17461391.2014.908957To link to this article:  http://dx.doi.org/10.1080/17461391.2014.908957PLEASE SCROLL DOWN FOR ARTICLETaylor & Francis makes every effort to ensure the accuracy of all the information (the “Content”) containedin the publications on our platform. However, Taylor & Francis, our agents, and our licensors make norepresentations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of theContent. Any opinions and views expressed in this publication are the opinions and views of the authors, andare not the views of or endorsed by Taylor & Francis. The accuracy of the Content should not be relied upon andshould be independently verified with primary sources of information. Taylor and Francis shall not be liable forany losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoeveror howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use ofthe Content.This article may be used for research, teaching, and private study purposes. Any substantial or systematicreproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in anyform to anyone is expressly forbidden. Terms & Conditions of access and use can be found at http://www.tandfonline.com/page/terms-and-conditions
+ORIGINAL ARTICLE
+Does a water-training macrocycle really create imbalances in
+swimmers ’shoulder rotator muscles?
+NUNO BATALHA1, JOSÉ MARMELEIRA1, NUNO GARRIDO2, & ANTÓNIO J. SILVA2
+1Research Centre of Sports, Health and Human Development, Department of Sport and Health, University of Évora, Évora,
+Portugal,2Research Centre of Sports, Health and Human Development, University of Trás-os-Montes and Alto Douro, Vila
+Real, Portugal
+Abstract
+The continuous execution of swimming techniques may cause muscle imbalances in shoulder rotators leading to injury.
+However, there is a lack of published research studies on this topic. The aim of this study was to analyze the influence of a
+competitive swim period on the shoulder rotator –cuff balance in young swimmers. A randomized controlled pretest –posttest
+design was used, with two measurements performed during the first macrocycle of the swimming season (baseline and
+16 weeks). Twenty-seven young male swimmers (experimental group) and 22 male students who were not involved in swim
+training (control group) with the same characteristics were evaluated. Peak torque of shoulder internal and external rotators
+was assessed. Concentric action at 1.04 rad s−1(3 repetitions) and 3.14 rad s−1(20 repetitions) was measured using an
+isokinetic dynamometer (Biodex System 3). External/internal rotators strength ratios were also obtained. For both
+protocols, there were significant training effects on internal rotator strength and external/internal rotator ratios ( p≤.05).
+This trend was the same for both shoulders. Within-group analysis showed significant changes from baseline to 16 weeks for
+internal rotators strength and unilateral ratios of the experimental group. Swimmers ’internal rotator strength levels
+increased significantly. In contrast, a significant decrease of the unilateral ratios was observed. Findings suggest that a
+competitive swim macrocycle leads to an increase in muscular imbalances in the shoulder rotators of young competitive
+swimmers. Swimming coaches should consider implementing a compensatory strength-training program.
+Keywords: Swimming, isokinetic strength, muscle balance, shoulder rotators
+Introduction
+Competitive swimming is considered an endurance
+sport, characterized by cyclical, alternating or simul-
+taneous movements, in which the shoulder complex
+plays an important role (Kluemper & Hazelrigg,
+2006 ). Competitive swimmers commonly acquire
+chronic upper extremity overuse pathologies (Ramsi,
+Swanik, Swanik, Straub, & Maltacola, 2004 ). Most
+of these injures have been related to the integrity of
+shoulder rotator musculature, which plays a critical
+role in providing stability and mobility to the shoul-
+der joint (Wilk & Arrigo, 1993 ). For this reason, it
+is important to characterize rotator –cuff muscle
+strength and balance in overhead athletes, in order
+to recognize which are at risk in terms of developing
+shoulder pain and overuse injuries.
+With the objective of characterizing the propor-
+tional relationship between muscle groups, and inthe specific case of the shoulder joint, the unilateral
+external rotation/internal rotation ratio (ER/IR ratio)
+is commonly used (Ellenbecker & Roetert, 2003 ).
+There is still some controversy regarding the appro-
+priate strength ratios for competitive overhead ath-
+letes. However, a few studies have pointed to the
+normative values of unilateral strength ratios in
+overhead activities as being between 66% and 75%
+(Cingel, Kleinrensinkb, Mulderc, Bied, & Kuiperse,
+2007 ; Ellenbecker & Davies, 2000 ; Ellenbecker &
+Roetert, 2003 ). Other cross-sectional studies asses-
+sing swimmers have produced contradictory data
+regarding the characterization of shoulder rotator
+muscle balance. Some studies have found reduced
+shoulder rotator ratios, which are muscle imbal-
+ances, ranging from 39.12 ± 7.82% in the dominant
+shoulder to 38.04 ± 8.04% in the non-dominant
+shoulder (Gozlan et al., 2006 ) and from 53.26 ±
+8.42% in the dominant shoulder to 65.90 ± 9.33%
+Correspondence: Nuno M. Batalha, Department of Sport and Health, University of Évora, R. Reguengos de Monsaraz, No. 14, 7000-727
+Évora, Portugal. E-mail: nmpba@uevora.ptEuropean Journal of Sport Science, 2014
+http://dx.doi.org/10.1080/17461391.2014.908957
+© 2014 European College of Sport ScienceDownloaded by [b-on: Biblioteca do conhecimento online UEvora] at 02:33 28 April 2014 
+in the non-dominant shoulder (Olivier, Quintin, &
+Rogez, 2008 ). Other studies report higher ratios
+(70 ± 9% to 71 ± 10% in the dominant and non-
+dominant shoulders, respectively; Beach, Whitney, &
+Dickoff-Hoffman, 1992 ).
+The successful prevention of shoulder injuries in
+swimmers can be achieved by establishing proper
+muscular balance (Johnson, Gauvin, & Fredericson,
+2003 ). In fact, there seems to be a correlation
+between shoulder rotators imbalance and injuries.
+Warner, Micheli, Arslanian, Kennedy, and Kennedy
+(1990 ), after comparing the strength tests of normal
+shoulders with those with impingement and those
+with instability, suggested a relative weakness in the
+external rotator of the impingement group.
+The implication of the external rotator weakness for
+the development of shoulder pain in swimmers was
+also highlighted by Beach et al. ( 1992 ). In another
+longitudinal study, the authors have associated low
+baseline unilateral ratios in baseball pitchers (evalua-
+tions in pre-season) with future injuries in the
+shoulder joint (Byram et al., 2010 ).
+There are some evidences to suggest that the
+performance of swimming techniques may cause
+muscle imbalances in the shoulder rotators (Yanai
+& Hay, 2000 ). Based on biomechanical evaluations,
+some studies have found that the internal rotator
+muscles are stronger in swimmers because of the
+repetitive concentric contractions required during
+swim strokes (Johnson et al., 2003 ; Swanik, Swanik,
+Lephart, & Huxel, 2002 ; Yanai & Hay, 2000 ).
+However, there is a gap in the literature on this
+subject. To the best of our knowledge, only one
+longitudinal study has sought to confirm this. Ramsi
+et al. ( 2004 ), found significant differences in unilat-
+eral ratios after 12 weeks of aquatic training, partially
+confirming the assumption that an exclusive water-
+training period disproportionately increases internal
+rotator strength in comparison with their antago-
+nists. Thus, there is evidence to support the import-
+ance of evaluating changes in shoulder rotators
+strength over the course of a swim period.
+Therefore, we propose the hypothesis that the
+realization of an exclusive aquatic training period
+influences the shoulder rotator strength and balance.
+The aim of this study is therefore to analyze the
+influence of a swim training period (first macrocycle
+of the swimming season) on shoulder rotator –cuff
+balance in young competitive swimmers.
+Methods
+Subjects
+Two groups were selected: (1) an experimental
+group comprising 27 male Portuguese national-level
+swimmers (age: 14.48 ± 0.50 years, height: 168.85 ±7.91 cm, weight: 60.57 ± 5.29 kg, training per week:
+6.75 ± 0.86 sessions, training time per day: 126 ±
+26.39 minutes) and (2) a control group comprising
+22 male students not engaged in swimming (age:
+14.64 ± 0.49 years, height: 168.52 ± 5.35 cm,
+weight: 61.13 ± 10.23 kg).
+For swimmers in the experimental group the
+following inclusion criteria were used: (1) no clinical
+history of upper limb disorders; (2) be aged between
+14 and 15 years; (3) minimum of 8 hours ’training
+per week; and (4) compete at the national level. The
+following inclusion criteria were applied to control
+group: (1) be aged between 14 and 15 years; (2) not
+having participated in organized sports during the
+last year; and (3) no clinical history of shoulder
+disorders. The main goals of the study were
+explained to all the participants and their legal
+guardians, who signed a consent form. All proce-
+dures were approved by the ethics committee of the
+seeding institution (proceeding 09002/2008) and
+were in accordance with the Helsinki declaration
+of 1975.
+Procedures
+A repeated-measures design was implemented with
+two measurements being performed during the
+swimming season, pre-season (0-week) and at the
+end of the first macrocycle (16-week). Internal and
+external rotator –cuff isokinetic strength data were
+collected during concentric actions performed using
+an isokinetic dynamometer (Biodex System 3,
+Biodex Corp., Shirley, NY, USA). Standardized
+protocols were followed. The arms were placed at
+90° of abduction and 90° of elbow flexion in the
+scapular plane, as proposed elsewhere (Julienne,
+Gauthier, Moussay, & Davenne, 2007 ; Tyler,
+Nahow, Nicholas, & McHugh, 2005 ). Subjects
+were strapped to the seat of the dynamometer so
+that the shoulder axis coincided with the axis of the
+dynamometer. At the start of each test, subjects were
+asked to relax their shoulder so that passive determi-
+nations of the effects of gravity on the limb could be
+determined.
+Each subject reported to our laboratory 1 week
+prior to pre-season testing for familiarization with
+equipment and procedures. One week following
+familiarization, after a 15-minute warm-up (articular
+mobilization and stretching), peak torque was
+recorded during 3 repetitions at 1.04 rad s−1and
+20 repetitions at 3.14 rad s−1. A 1.04 rad s−1speed
+was first performed for each extremity, followed by
+3.14 rad s−1speed. Two practice repetitions were
+performed for each speed.
+Standardized verbal instructions and encourage-
+ment were given to all participants in both tests and a
+2-minute resting period was allowed between each2 N. Batalha et al.Downloaded by [b-on: Biblioteca do conhecimento online UEvora] at 02:33 28 April 2014 
+speed test. Testing started with the arm in full IR
+and was performed with a range of motion of 0 –90°
+(in accordance with the manufacturer ’s recommen-
+dations for ensuring that identical ranges of motion
+were tested bilaterally and during follow-up testing).
+All post-testing procedures were exactly the same.
+To analyze the strength balance of shoulder rota-
+tors, unilateral ratios were calculated using equation 1
+(Cingel et al., 2007 ):
+ðExternal rotation peak torque/rotation peak torque Þ/C2100
+ð1Þ
+To verify whether there would be different matura-
+tional states for both groups, the percentage of
+predicted mature height, based on the Khamis and
+Roche ’s(1994 ) method, was measured. This indic-
+ator is given as the percentage of predicted mature
+height already achieved at the time of evaluation and
+was assessed during both evaluation periods.
+Statistical analysis
+The Kolmogorov –Smirnov normality test, applying
+Lilliefors correction was initially used to assess data
+normality. Differences in baseline characteristics
+between groups were compared with an independent
+sample t-test. The training effects within and
+between groups were evaluated using analyses of
+variance for repeated measures, adjusted to the
+baseline and maturation values used as covariates
+(analysis of covariance), with Bonferroni post hoc
+tests. Effect sizes are reported as partial eta squared
+(ηp2), with cut-off values of 0.01, 0.06 and 0.14 forsmall, medium and large effects, respectively
+(Cohen, 1988 ).
+In addition to p-values, we have provided a
+detailed statistics, including the mean and 95%
+confidence interval, in order to best depict the
+change within each group between evaluation peri-
+ods. Changes in values between moments are
+defined as the increase or decrease in values since
+evaluation periods. The training effect indicates the
+differences between changes in the groups [treat-
+ment effect = ( ∆Experimental −∆Control)]. All
+analyses were performed using SPSS (version 15.0;
+SPSS Inc., Chicago, IL), and the significance level
+was set at p≤.05 for all tests.
+Results
+The overall characteristics of the two groups were
+similar in terms of age and maturational status.
+Within-group analysis for both protocols showed
+significant changes only in the internal rotators and
+unilateral ratios ( Tables I andII). The exception to
+this was in the non-dominant shoulder at 3.14 rad s−1,
+in which the external rotators also presented signi-
+ficant changes from baseline ( Table II ).
+Significant training effects on the internal rotator
+strength and unilateral ratios were found for both
+shoulders and all procedures. Large effect sizes were
+found, as well, in the referred variables for all
+evaluation periods ( ηp2> 0.14).
+Discussion
+In accordance with our findings, a water-training
+macrocycle creates imbalances in swimmers ’shoulder
+Table I. Comparative water-training effects on the peak torques (Nm) of IR and ER and ER/IR ratios (%) of both shoulders at 1.04 rad s−1
+Dominant shoulder −1.04 rad s−1Non-dominant shoulder −1.04 rad s−1
+Experimental Control Experimental Control
+Baseline
+Mean ± SD ER 25.61 ± 4.79 23.20 ± 4.47 24.29 ± 4.72 22.72 ± 4.32
+IR 32.50 ± 8.30 24.59 ± 4.75 33.08 ± 10.28 22.73 ± 4.76
+Ratio 78.81 ± 15.05 94.35 ± 16.61 73.43 ± 18.63 99.95 ± 14.55
+Change to 16 weeks
+Mean (95% CI) ER 1.75 ( −2.65 to 3.46) 0.52 ( −1.89 to 2.01) 1.01 ( −0.39 to 2.48) −0.09 ( −2.24 to 1.65)
+IR 6.47 (2.89 to 9.54) * 0.38 ( −1.26 to 3.51) 5.23 (1.09 to 9.01) * 0.28 ( −2.26 to 2.89)
+Ratio −8.59 ( −14.64 to 0.25) * 0.65 ( −5.20 to 7.21) −7.37 ( −14.21 to 0.26) * −1.64 ( −12.02 to 8.24)
+p ES p ES
+Training effects
+Mean (95% CI) ER 1.23 ( −1.60 to 4.06) .371 .016 1.11 ( −1.52 to 3.74) .401 .015
+IR 6.09 (2.73 to 9.44) .001 .437 4.95 (1.20 to 8.70) .011 .443
+Ratio −9.24 ( −19.43 to 0.21) .005 .386 −5.74 ( −12.43 to 2.87) .039 .391
+*Significant within-group differences. CI, confidence interval; ES, effect size; ER, external rotation; IR, internal rotation. The p-values are
+for differences between groups.Shoulder rotator balance in young swimmers 3Downloaded by [b-on: Biblioteca do conhecimento online UEvora] at 02:33 28 April 2014 
+rotator muscles. This confirms the initial theory that,
+during an exclusive water-training period, the internal
+rotators of competitive swimmers become proportion-
+ally stronger when compared with their antagonists,
+increasing muscle imbalance and the risk of an injury
+process.
+It should be noted that our results corroborate
+previous findings (Batalha et al., 2012 ; Dark, Ginn,
+& Halaki, 2007 ). The capacity of internal rotators to
+produce force is invariably greater than that of their
+antagonists. Overall, these results are no surprise, if
+one considers that the muscular groups which
+produce the IR of the glenohumeral joint are not
+only greater in number but also are anatomically
+larger and naturally stronger (Dark et al., 2007 ).
+Regarding changes in strength values throughout
+the macrocycle, in the experimental group we
+observed an increase in peak torques of both muscle
+groups. Similar results were reported by Ramsi et al.
+(2004 ), for three different periods during the season.
+However, in our study, the same trend was not
+found in the control group.
+Despite the fact that the experimental group
+showed a progressive increase in strength for both
+muscular groups throughout the macrocycle, within-
+group analysis only showed significant changes in
+internal rotators and unilateral ratios. The only
+exception was in the non-dominant shoulder (at
+3.14 rad s−1), in which external rotators presented
+significant changes from baseline. These results
+confirm the idea that aquatic training increases the
+internal rotator strength in a disproportionate way in
+comparison with their antagonists (Kluemper &
+Hazelrigg, 2006 ; Ramsi et al., 2004 ). In previous
+studies, two main explanations are provided for this.On the one hand, some studies provide support for
+these results on a biomechanical basis, indicating
+that internal rotators are more intensely stimulated
+due to the repeated concentric contractions to which
+they are subjected during swim strokes (Johnson
+et al., 2003 ;O’Donnell, Bowen, & Fossati, 2005 ;
+Yanai & Hay, 2000 ). On the other hand, O ’Donnell
+et al. ( 2005 ) claim that swimming techniques pro-
+mote muscle imbalances which place the glenohum-
+eral capsular ligament complex under stress,
+contributing to instability of the shoulder joint, with
+consequences on the ability to produce force.
+For an injury prevention analysis, it should be
+remembered that a lack of additional ER strength
+increases during the season could predispose the
+shoulder to chronic overuse pathologies often asso-
+ciated with swimming. The differences in strength
+improvements for external rotators are linked to the
+role of this musculature during the swim stroke,
+which is not for propulsion but for glenohumeral
+control (McMaster, Roberts, & Stoddard, 1998 ).
+Regarding shoulder rotator balance, our findings
+showed a significant decrease in the experimental
+group for both protocols and shoulders, in unilateral
+ratios from baseline to 16 weeks, whereas, the
+control group had no differences in unilateral ratios
+between moments. There are some controversies
+among researchers as to whether absolute strength or
+strength ratios should be used to quantify optimal
+levels of dynamic shoulder stability (Leroux et al.,
+1994 ). However, there is a degree of consensus
+regarding unilateral ratios as one of the most
+important variables to be characterized when seeking
+to diagnose the muscular balance/imbalance of a
+given joint (Ellenbecker & Roetert, 2003 ) and as aTable II. Comparative water-training effects on the peak torques (Nm) of IR and ER and ER/IR ratios (%) of both shoulders at 3.14 rad s−1
+Dominant shoulder −3.14 rad s−1Non-dominant shoulder −3.14 rad s−1
+Experimental Control Experimental Control
+Baseline
+Mean ± SD ER 22.57 ± 4.12 21.84 ± 4.48 21.60 ± 3.79 20.07 ± 3.35
+IR 29.92 ± 8.48 22.30 ± 4.73 29.73 ± 8.02 21.51 ± 5.15
+Ratio 75.43 ± 14.13 97.94 ± 20.96 73.65 ± 13.59 93.31 ± 20.35
+Change to 16 weeks
+Mean(95% CI) ER 2.08 (0.46 to 4.35) −0.25 ( −1.93 to 2.87) 2.30 (1.09 to 4.22) * 0.52 ( −1.91 to 1.98)
+IR 5.75 (3.23 to 7.79) * −0.26 ( −3.23 to 2.01) 4.00 (2.01 to 6.98) * −0.37 ( −2.47 to 1.61)
+Ratio −6.34 ( −9.28 to −0.56) * 0.01 ( −9.02 to 8.59) −4.54 ( −9.62 to 0.10) * 0.61 ( −8.22 to 10.52)
+p ES p ES
+Training effects
+Mean (95% CI) ER 2.33 ( −0.33 to 4.99) .084 .062 1.78 ( −059 to 4.11) .129 .048
+IR 6.01 (1.96 to 10.06) .004 .476 4.37 (1.74 to 6.99) .013 .340
+Ratio −6.35 ( −15.34 to 4.65) .025 .360 −5.15 ( −13.94 to 5.13) .018 .236
+*Significant within-group differences. CI, confidence interval; ES, effect size; ER, external rotation; IR, internal rotation. The p-values are
+for differences between groups.4 N. Batalha et al.Downloaded by [b-on: Biblioteca do conhecimento online UEvora] at 02:33 28 April 2014 
+key to understanding injuries and rehabilitation in
+competitive swimmers ’shoulders (Blanch, 2004 ).
+The present study clearly demonstrates that swim-
+mers’shoulder rotator imbalances significantly
+increase over an exclusive water-training period.
+The experimental group data are consistent with
+previous data obtained by Ramsi et al. ( 2004 ) who
+also found significant differences in the unilateral
+ratios from baseline to 12 weeks. Additionally, the
+effect size analysis for both shoulders revealed mod-
+erate to large effects for changes in the unilateral
+ratios between moments. However, considering
+normative shoulder rotator ratio values (Ellenbecker
+& Davies, 2000 ; Ellenbecker & Roetert, 2003 ),
+despite the decline seen in swimmers, ER/IR ratios
+did not register values below 66% at any point,
+which according to Leroux et al. ( 1994 ) are not
+associated with severe imbalances. Notwithstanding
+this fact, it should be remembered that lower
+shoulder rotator unilateral ratios seem to be related
+to future injuries in the shoulder joint (Beach et al.,
+1992 ; Byram et al., 2010 ).
+As a consequence of the different proportionality
+of strength gains observed between external and
+internal rotators, the analysis of unilateral ratios
+showed differences between groups in terms of
+training effects in both shoulders and for all proto-
+cols, revealing moderate to large effect sizes. Our
+findings are in keeping with those of Olivier et al.
+(2008 ), who stated that swimmer shoulder unilateral
+ratios are significantly lower than those of non-
+swimmers.
+We acknowledge certain limitations to our study.
+Isokinetic testing was performed with subjects in a
+non-swimming-specific position. A prone testing
+position may be more suitable for swimmers; how-
+ever, this option was not available with our assess-
+ment tool. Another limitation is related to the
+characteristics of subjects belonging to the experi-
+mental group. Due to their similarity in age and
+competitive level, care should be taken in applying
+these findings to groups of swimmers with other
+characteristics.
+Conclusions
+A water-training macrocycle promotes imbalances in
+swimmers ’shoulder rotator muscles. This is a
+consequence of the fact that internal rotators shoul-
+der muscles become proportionally stronger as
+compared with their antagonist group, increasing
+the agonist –antagonist muscle imbalance. Since the
+decrease in shoulder rotator unilateral ratios seems
+to be related to future chronic upper extremity
+overuse injury, we recommend that coaches use
+land-based preventive strength-training protocols
+with competitive swimmers, focusing specifically onexternal rotator muscles and stabilizers of the shoul-
+der joint.
+References
+Batalha, N., Raimundo, A., Carus, P., Fernandes, O., Marinho, D.,
+&S i l v a ,A .( 2 0 1 2 ) .S h o u l d e rr o t a t o ri s o k i n e t i cs t r e n g t hp r o f i l ei n
+young swimmers. Brazilian Journal of Kinanthropometry and
+Human Performance ,14,5 4 5 –553.
+Beach, M. L., Whitney, S. L., & Dickoff-Hoffman, S. (1992).
+Relationship of shoulder flexibility, strength, and endurance to
+shoulder pain in competitive swimmers. Journal of Orthopaedic
+& Sports Physical Therapy ,16, 262 –268. doi: 10.2519/jospt.
+1992.16.6.262
+Blanch, P. (2004). Conservative management of shoulder pain in
+swimming. Physical Therapy in Sport ,5(3), 109 –124. doi: 10.
+1016/j.ptsp.2004.05.002
+Byram, I. R., Bushnell, B. D., Dugger, K., Charron, K., Harrell,
+F. E., Jr., & Noonan, T. J. (2010) .P r e s e a s o ns h o u l d e rs t r e n g t h
+measurements in professional baseball pitchers: Identifying players
+at risk for injury. American Journal of Sports Medicine ,38,
+1375–1382. doi: 10.1177/0363546509360404
+Cingel, R., Kleinrensinkb, G., Mulderc, P., Bied, R., & Kuiperse,
+H. (2007). Isokinetic strength values, conventional ratio and
+dynamic control ratio of shoulder rotator muscles in elite
+badminton players. Isokinetics and Exercise Science ,15, 287 –293.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences
+(2nd ed.). Hillsdale, NJ: Lawrence Erlbaum.
+Dark, A., Ginn, K. A., & Halaki, M. (2007). Shoulder muscle
+recruitment patterns during commonly used rotator cuff
+exercises: An electromyographic study. Physical Therapy ,87,
+1039 –1046. doi: 10.2522/ptj.20060068
+Ellenbecker, T. S., & Davies, G. J. (2000). The application of
+isokinetics in testing and rehabilitation of the shoulder com-
+plex. Journal of Athletic Training ,35, 338 –350.
+Ellenbecker, T. S., & Roetert, E. P. (2003). Age specific isokinetic
+glenohumeral internal and external rotation strength in elite
+junior tennis players. Journal of Science and Medicine in Sport ,
+6(1), 63 –70. doi: 10.1016/S1440-2440(03)80009-9
+Gozlan, G., Bensoussan, L., Coudreuse, J.-M., Fondarai, J.,
+Gremeaux, V., Viton, J.-M., & Delarque, A. (2006). Isokinetic
+dynamometer measurement of shoulder rotational strength in
+healthy elite athletes (swimming, volley-ball, tennis): Compar-
+ison between dominant and nondominant shoulder. Annales de
+Réadaptation et de Médecine Physique ,49(1), 8 –15. doi: 10.1016/
+j.annrmp.2005.07.001
+Johnson, J. N., Gauvin, J., & Fredericson, M. (2003). Swimming
+biomechanics and injury prevention. The Physician and Sports
+Medicine ,31(1), 41 –48.
+Julienne, R., Gauthier, A., Moussay, S., & Davenne, D. (2007).
+Isokinetic and electromyographic study of internal and external
+rotator muscles of tennis player. Isokinetics & Exercise Science ,
+15, 173 –183.
+Khamis, H. J., & Roche, A. F. (1994). Predicting adult stature
+without using skeletal age: The Khamis-Roche method. Pedia-
+trics,94, 504 –507.
+Kluemper, M., & Hazelrigg, H. (2006). Effect of stretching and
+strengthening shoulder muscles on forward shoulder posture in
+competitive swimmers. Journal of Sport Rehabilitation ,15(1),
+58–70.
+Leroux, J. L., Codine, P., Thomas, E., Pocholle, M., Mailhe, D.,
+& Blotman, F. (1994). Isokinetic evaluation of rotational
+strength in normal shoulders and shoulders with impingement
+syndrome. Clinical Orthopaedics and Related Research ,304,
+108–115.
+McMaster, W. C., Roberts, A., & Stoddard, T. (1998).
+A correlation between shoulder laxity and interfering pain inShoulder rotator balance in young swimmers 5Downloaded by [b-on: Biblioteca do conhecimento online UEvora] at 02:33 28 April 2014 
+competitive swimmers. American Journal of Sports Medicine ,
+26(1), 83 –86.
+O’Donnell, C. J., Bowen, J., & Fossati, J. (2005). Identifying and
+managing shoulder pain in competitive swimmers. How to
+minimize training flaws and other risks. The Physician and Sports
+Medicine ,33(9), 27 –35.
+Olivier, N., Quintin, G., & Rogez, J. (2008). Le complexe
+articulaire de l ’é paule du nageur de haut niveau [The high
+level swimmer articular shoulder complex]. Annales de réad-
+aptation et de médecine physique ,51, 342 –347. doi: 10.1016/j.
+annrmp.2008.04.005
+Ramsi, M., Swanik, K. A., Swanik, C., Straub, S., & Maltacola, C.
+(2004). Shoulder-rotator strength of high school swimmers over
+the course of a competitive season. Journal of Sport Rehabilitation,
+13(1), 9 –18.
+Swanik, K. A., Swanik, C. B., Lephart, S. M., & Huxel, K.
+(2002). The effect of functional training on the incidence of
+shoulder pain and strength in intercollegiate swimmers. Journal
+of Sport Rehabilitation ,2(11), 140 –154.Tyler, T. F., Nahow, R. C., Nicholas, S. J., & McHugh, M. P.
+(2005). Quantifying shoulder rotation weakness in patients with
+shoulder impingement. Journal of Shoulder and Elbow Surgery ,
+14, 570 –574. doi: 10.1016/j.jse.2005.03.003
+Warner, J. J., Micheli, L. J., Arslanian, L. E., Kennedy, J., &
+Kennedy, R. (1990). Patterns of flexibility, laxity, and strength
+in normal shoulders and shoulders with instability and impin-
+gement. American Journal of Sports Medicine ,18, 366 –375.
+doi:10.1177/036354659001800406
+Wilk, K. E., & Arrigo, C. (1993). Current concepts in the
+rehabilitation of the athletic shoulder. Journal of Orthopaedic &
+Sports Physical Therapy ,18,3 6 5 –378. doi: 10.2519/jospt.1993.18.
+1.365
+Yanai, T., & Hay, J. G. (2000). Shoulder impingement in front-
+crawl swimming: II. Analysis of stroking technique. Medicine
+and Science in Sports and Exercise ,32(1), 30 –40. doi: 10.1097/
+00005768-200001000-000066 N. Batalha et al.Downloaded by [b-on: Biblioteca do conhecimento online UEvora] at 02:33 28 April 2014 

@@ -1,0 +1,1750 @@
+Soothing suffering swimmers: a systematic
+review of the epidemiology, diagnosis,
+treatment and rehabilitationof musculoskeletal injuries
+in competitive swimmers
+Trevor Gaunt andNicola Maffulli*
+Centre for Sports and Exercise Medicine, Mile End Hospital, Queen Mary University of London,
+Barts and The London School of Medicine and Dentistry, 275 Bancroft Road, London E1 4DG, UK
+Background : This review details the examination, diagnosis, treatment and
+management of injuries encountered by competitive swimmers. Primarily, theseinvolve the shoulder, however, the spine, knee and hip can be involved. Using
+the Coleman methodology score, we show that the methods used in obtaining
+and reporting clinical ﬁndings and intervention results could be improved.Where possible, we suggest improvements.
+Sources of data : A literature review was conducted in English, Italian, French
+and German using PubMed, Google Scholar and Ovid search engines with strictinclusion/exclusion criteria.
+Areas of agreement : Poor technique, and high training intensity and distance
+are the most common cause of missed swim practice and competition throughinjury.
+Areas of controversy : Few articles agree on a single method of each of clinical
+examination, diagnosis, treatment and rehabilitation.
+Growing points : Articles are consistently retrospective with few investigating
+spine, hip and knee injuries.
+Areas timely for developing research : Clinical ﬁndings and rehabilitation
+methods should be reported using a more structured method possibly based onthe Coleman methodological scoring system.
+Keywords: swimming /injury /pain /lumbar spine /shoulder /hip/knee
+Accepted: July 2, 2011
+British Medical Bulletin 2012; 103: 45–88
+DOI:10.1093/bmb/ldr039&The Author 2011. Published by Oxford University Press. All rights reserved.
+For permissions, please e-mail: journals.permissions@oup.com*Correspondence address.
+Centre for Sports and
+Exercise Medicine, Mile
+End Hospital, Queen
+Mary University of
+London, Barts and The
+London School of
+Medicine and Dentistry,
+275 Bancroft Road,
+London E1 4DG, UK.
+E-mail: n.maffulli@qmul.
+ac.ukPublished Online September 4, 2011Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Introduction
+Swimming is a popular sport among all generations. Participants range
+from those who swim only occasionally for recreational purposes to
+those who swim regularly for fitness and to those who compete at
+national and international levels. The buoyant effect of water lendsitself to a reduced risk of injury among those who partake at a rec-reational level.
+1However, numerous articles describe injuries among
+competitive and elite swimmers.
+Swimming injuries primarily arise from repetitive strain and micro-
+trauma. This is not surprising when one considers the exposure of
+high-level swimmers to the repetitive motions that make up the four
+competitive swimming strokes. Activity exposure in terms of distancecovered may range from 9 km/week at club level to 110 km/week at
+international level for much of the swimming season.
+2Therefore, the
+amount of overhead activity these athletes partake in is vast.
+Diagnosis of swimming injuries is mostly clinical, but other methods
+such as imaging, and in some cases, invasive procedures have been used;
+however, there is no common method by which examination and diag-nosis of injured swimmers is made. The most common site of injury isthe shoulder. Hence, the majority of scientific literature describing inju-
+ries in swimmers concentrates on ‘swimmer’s shoulder’; and the many
+structural pathologies associated with it, supraspinatus tendinopathybeing the most common.
+2–6Other sites of injury include the hip adduc-
+tors, medial collateral ligaments of the knee and lumbar disc of the
+spine with degenerative disease.7–14The literature describing these
+other injuries is sparse. Across the literature, there is no agreed method
+of rehabilitating injured swimmers, although resting and a reduced
+work load is commonly used in different fashions.
+There has been no previous attempt to produce a systematic review of
+the literature regarding the epidemiology, diagnosis, treatment and reha-
+bilitation of injuries related to competitive-level swimmers. This papertherefore reviews methods by which swimmers are examined and diag-nosed, and whether these are methodologically sound. It also illustrates
+different methods for treatment and rehabilitation of common swim-
+ming injuries, and, where possible, suggests ways to improve these.
+Methods
+Literature search
+We performed a literature search using the keywords ‘swimmer’,
+‘swimmers’ and ‘swimming’ in addition to ‘pain’ and in combinationT. Gaunt and N. Maffulli
+46 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+with either ‘shoulder’, ‘back’, ‘lumbar’, ‘knee’ or ‘hip’. No limit for the
+age of publication was set. The search was performed in the search
+engines PubMed (http://www.ncbi.nlm.nih.gov/sites/entrez); GoogleScholar (http://scholar.google.com); and Ovid (http://www.ovid.com).
+This search returned 47 articles regarding the shoulder, 9 on the spine,
+8 for the knee and 2 for the hip. The websites were last accessed inDecember 2010.
+Fig. 1 Number of articles included and excluded at each stage of selection from the
+literature search.Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 47Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Table 1 Coleman15scoring.
+Section Number or factor Score
+Part A: only one score to be given for each of the seven sections
+1. Study size—number of subjects ( n) (if
+multiple follow-up, multiply nby number of
+times followed up).60 10
+41–60 7
+20–40 4
+,20, not stated 0
+2. Mean follow-up (months) .24 5
+12–24 2
+,12, unstated, unclear 0
+3. No. of different surgical procedures included
+in each reported outcome. More than one
+surgical technique may be assessed by
+separate outcomes should be reportedOne surgical procedure 10
+More than one, 90% undergoing one
+procedure7
+Not stated, unclear or ,90% undergoing
+one procedure0
+4. Type of study Randomized controlled trial 15
+Prospective cohort study 10
+Retrospective cohort study 0
+5. Diagnostic uncertainty (use of appropriate
+US, MRI or perioperative histopathology
+to conﬁrm diagnosisIn all 5
+In.80% 3
+In,80% 0
+6. Description of surgical procedure given Adequate (technique and necessary details
+described)5
+Fair (technique only without elaboration) 3
+Inadequate, not stated, unclear 0
+7. Description of postoperative rehabilitation Well described with .80% patient
+compliance10
+Well described with 60–80% patient
+compliance5
+Protocol not reported or ,60–80% patient
+compliance0
+Part B: scores may be given for each option of each of the three sections if applicable
+1. Outcome criteria (if outcome criteria are
+vague and does not specify subjects’ sportingcapability score is automatically 0 for this
+sectionOutcome measures clearly deﬁned 2
+Timing of outcome assessment clearly stated(e.g. at best outcome after surgery or at
+follow-up)2
+Use of outcome criteria that has reported
+good reliability3
+Use of outcome with good sensitivity 3
+2. Procedure for assessing outcomes Subjects recruited (not taken from surgeons
+ﬁles)5
+Investigator independent of surgeon 4
+Written assessment 3
+Completion of assessment by subjectsthemselves with minimal investigator
+assistance3
+3. Description of the subject selection process Selection criteria reported and unbiased 5
+Recruitment rate .80 or,80% 5
+Eligible subjects not included in the studysatisfactorily accounted for or 100%
+recruitment5T. Gaunt and N. Maffulli
+48 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Inclusion and exclusion criteria
+Each abstract from an article published in a peer-reviewed journal was
+considered. Given the language skills of the research team, articles in
+English, French, Spanish, Portuguese and Italian were considered. If the
+abstract was unavailable, the article was excluded. Single-case studies,review articles and letters were excluded, and all prospective and retro-
+spective cohort studies were included. The full text was accessed for
+these articles and, where the full text was not available electronically,the author was contacted and the article requested. Those articles that
+were unattainable after requesting them from the authors were
+excluded (Fig. 1). All the articles thus selected were then studied to
+assess similarities in injury incidence, clinical findings, imaging, riskfactors and rehabilitation methods and outcomes.
+Quality assessment and statistical analysis
+The Coleman methodology score criteria15were used to assess the
+methods of each article. A maximum score of 100 across 10 criteriawould show that the study design was free from the influence of
+chance, confounding factors and biases. A score lower than 50 showed
+poor quality, a score between 50 and 69 moderate quality, a scorebetween 70 and 84 good quality and a score above 85 excellent quality
+(Table 1). All articles were assessed by the main author twice. The
+mean CMS and standard deviation were calculated for each CMS ofthe shoulder, spine, hip and knee.
+Results
+Studies
+Thirteen articles on the shoulder were included. Of these, four were
+prospective and nine retrospective studies. Three articles regarding the
+spine were included, one being prospective and two being retrospective.All three of the articles included for the knee were retrospective studies.
+Finally, one retrospective study was included for the hip. All articles
+were published in the time frame between 1985 and 2010.
+Quality assessment
+The Coleman methodology score allows quality assessment of methods
+and reported outcomes based on a validated set of criteria.15TheseSoothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 49Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Table 2 Coleman15score: shoulder.
+Section Bak and
+Faunø4Seinet al.
+2Borsa
+et al.22Jansson
+et al.21Fredericson
+et al.5Rupp
+et al.3
+Part A: only one score to be given for each of the seven sections
+1. Study size (followed up) 4 10 7 10 0 0
+2. Mean follow-up
+(months)0 000 5 0
+3. No. of different surgical
+procedures included in
+each reported outcome10 10 10 10 10 10
+4. Type of study 0 0 0 0 0 0
+5. Diagnostic uncertainty 0 5 10 0 10 06. Description of surgical
+procedure given5 555 5 5
+7. Description of
+postoperativerehabilitation5 000 0 0
+Part B: scores may be given for each option of each of the three sections if applicable
+1. Outcome criteria 2 2 2 2 2 2
+2 002 2 03 303 0 3
+3 303 3 3
+2. Procedure for assessing
+outcomes5 555 5 5
+0 040 4 00 300 0 3
+0 300 0 3
+3. Description of the
+subject selection process5 555 5 5
+5 055 0 05 550 0 0
+Overall 60 59 58 50 47 41
+Section Beach
+et al.
+24Ruwe
+et al.31Pink
+et al.32Burshøj
+et al.33McMaster
+et al.26Scovazzo
+et al.30
+Part A: only one score to be given for each of the seven sections
+1. Study size (followed up) 4 4 0 0 0 0
+2. Mean follow-up
+(months)0 005 0 0
+3. No. of different surgical
+procedures included in
+each reported outcome10 10 10 10 10 10
+4. Type of study 0 0 0 0 0 0
+5. Diagnostic uncertainty 0 0 5 0 0 06. Description of surgical
+procedure given5 530 5 5
+7. Description of
+postoperativerehabilitation0 000 0 0
+Part B: scores may be given for each option of each of the three sections if applicable
+1. Outcome criteria 2 2 2 2 2 2
+0 022 0 03 000 0 0
+3 000 0 0
+2. Procedure for assessing
+outcomes5 550 5 5
+0 000 0 03 333 3 3
+3 330 3 3
+3. Description of the
+subject selection process5 555 5 5
+0 005 0 00 505 0 5
+Overall 43 42 38 37 33 32T. Gaunt and N. Maffulli
+50 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+criteria were originally used in reporting patellar tendon16and Achilles
+tendon surgical methods and outcomes and has been shown to have a
+reproducibility of 99%.17This method of assessment has been used by
+several authors in recent systematic reviews.18–20No systematic review
+has been previously carried out on swimming injuries. In comparison
+with narrative reviews of clinical assessment, risk factors and suggestedmethods of rehabilitation of swimming injuries, this systematic review
+appraises methodology and reported outcomes with respect to clinical
+assessment, risk factors and rehabilitation.
+Shoulder
+Table 2shows that 42,4,21,22of the 12 studies analysed were considered
+of moderate quality and all others were considered poor quality(mean CMS 45) with inconsistent methodology and outcomes (CMS:
+SD¼9.89, range ¼32–60).
+Spine
+Table 3shows that two7,8of the three studies analysed were of good
+quality (mean CMS 57.33), with inconsistent methodology and out-
+comes (CMS: SD ¼13.28, range ¼42–65).
+Knee
+Table 4shows that both studies10,12on knee problems were of poor
+quality (mean CMS: 43) and with inconsistent methodology and out-comes (CMS: SD ¼4.24, range ¼40–46).
+Hip
+Table 5shows that the single study13on hip injuries was of moderate
+quality (mean CMS: 57).
+Demographics
+Shoulder
+Table 6shows a review of the population demographics of patients
+from whom data were collected, injury rate and the methods used to
+collect data.
+Spine
+Table 7details the demographics of patients with back pain.
+Knee
+Table 8shows the demographics of patients with pain.Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 51Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Table 4 Coleman15score: knee.
+Section Rovere and
+Nichols10Vizsolyiet al.
+12
+Part A: only one score to be given for each of the seven sections
+1. Study size (followed up) 0 0
+2. Mean follow-up (months) 0 0
+3. No. of different surgical procedures included in each reported
+outcome10 10
+4. Type of study 0 0
+5. Diagnostic uncertainty 0 0
+6. Description of surgical procedure given 5 5
+7. Description of postoperative rehabilitation 5 0
+Part B: scores may be given for each option of each of the three sections if applicable
+1. Outcome criteria 2 2
+20
+00
+00
+2. Procedure for assessing outcomes 5 5
+00
+33
+33
+3. Description of the subject selection process 5 5
+05
+05
+Overall 46 40Table 3 Coleman15score: spine.
+Section Hangai et al.7Kaneoka et al.8Goldstein et al.9
+Part A: only one score to be given for each of the seven sections
+1. Study size (followed up) 7 7 0
+2. Mean follow-up (months) 0 0 0
+3. No. of different surgical procedures included
+in each reported outcome10 10 10
+4. Type of study 0 0 0
+5. Diagnostic uncertainty 5 5 5
+6. Description of surgical procedure given 5 5 5
+7. Description of postoperative rehabilitation 0 0 0
+Part B: scores may be given for each option of each of the three sections if applicable
+1. Outcome criteria 2 2 2
+00 0
+33 0
+33 0
+2. Procedure for assessing outcomes 5 5 5
+44 0
+03 0
+03 0
+3. Description of the subject selection process 5 5 5
+55 5
+55 5
+Overall 65 65 42T. Gaunt and N. Maffulli
+52 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Hip
+Table 9shows the demographics of patients with hip pain.
+Clinical assessment and questionnaire/survey
+Shoulder
+Three articles reported clinical findings.2,4,13Each article examined a
+range of different tissues within the shoulder using different techniques
+(Table 10). Table 11shows a comparison of the tissue structures exam-
+ined across the three articles. The only test that was used in all articleswhen examining the shoulder was the apprehension sign for anterior
+joint instability. The infraspinatus and teres minor were examined in
+two studies,
+2,4as was subacromial impingement.3,4Lesions of the
+acromio-clavicular joint, superior labral anterior to posterior (SLAP)lesions and lesions of the long head of the biceps tendon were exam-
+ined in one study only,
+2as was rotator cuff stability.4Supraspinatus
+and subscapularis were not the focus of any of the studies identified.The only test that is common across the three papers reporting clinical
+features in the shoulder is the apprehension sign.
+2,4,13Therefore,
+although the shoulder is examined thoroughly, making an exact com-parison between the examinations of swimmers’ shoulders in their
+subject populations is not as simple as it might seem. It might thereforeTable 5 Coleman15score: hip.
+Section Grote et al.13
+Part A: only one score to be given for each of the seven sections
+1. Study size (followed up) 10
+2. Mean follow-up (months) 0
+3. No. of different surgical procedures included in each reported outcome 10
+4. Type of study 0
+5. Diagnostic uncertainty6. Description of surgical procedure given 5
+7. Description of postoperative rehabilitation 0
+Part B: scores may be given for each option of each of the three sections if applicable
+1. Outcome criteria 2
+0
+0
+0
+2. Procedure for assessing outcomes 5
+4
+3
+3
+3. Description of the subject selection process 5
+55
+Overall 57Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 53Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Table 6 Shoulder subject demographics.
+Study Design
+(P/R)Number ( n) Rate of injury Subjects Age (years) Data
+collectionTime
+frameActivity
+exposure
+Sein et al.2R 80 elite swimmers Unilateral shoulder pain ¼43 (54%)
+Bilateral shoulder pain ¼30 (37%)
+Pain during activity ¼64 (80%)International-,
+national-, state- and
+club-level swimmers15.9+2.7 Q/CA/MRI – 40 km/week
+(range
+9–110 km/
+week)16 h/week
+Rupp et al.
+3R 22 subject History of pain ¼14 (64%) Elite competitive
+swimmers17.7 Q and CA – 5500 m/day
+Interfering pain resulting in cessation of
+training ¼5 (23%)17.7
+Pain at isokinetic testing ¼8 (36%)
+Impingement sign ¼11 (50%)
+Apprehension sign ¼11 (50%)
+Scapular winging ¼5 (23%)
+Shoulder protrusion ¼12 (55%)
+22 control * Volunteers
+Bak andFaunø
+4P 36 Unilateral shoulder pain ¼23 (64%) Danish swimming team 17 CA 1 year 1581 km/year
+(33.1 km/
+week)Bilateral shoulder pain ¼13 (36%)
+Fredericson
+et al.5P 6 swimmers with no
+history of pain or injury
+and normal clinicalexamination†Female varsity
+collegiate swimmers19.6 Mean MRI – 30 h/week
+Jansson
+et al.21R 120 swimmers
+1277 control‡High-schoolcompetitive swimmers10.4 and
+13.3 (M)CA 1 year 3 training
+practices/
+week 10.4 and
+13.8 (F)
+Borsa et al.
+22P 42 swimmers Unilateral or bilateral pain ¼27 (64%) (of
+these rotator cuff tendonitis ¼17 (63%)National Collegiate
+Athletic Association
+Division 1 swimmers19.7 (F) Int – 62 000 yds/
+week
+44 age matched controls Biceps tendonitis ¼5 (18.5%) 19.4 (M)
+Non-speciﬁc ¼3 (11%)
+Thoracic outlet syndrome ¼1 (3%)
+Labral tear ¼1 (3%)
+Beach et al.24R 32 Shoulder pain ¼22 (69%) Collegiate and club
+swimmers19 Q and CA – 42 000 yds/
+week Currently affecting swimming ability ¼10
+(31%)
+Torres andGomes
+25R 20 swimmers All asymptomatic at time of examination Local swimming school,
+Brazil38.9+7.5 CA 1 year 2–4
+practices/
+week21 tennis players
+13 controlT. Gaunt and N. Maffulli
+54 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+McMaster
+et al.26P 40 Signiﬁcant interfering shoulder pain ¼14
+(35%)US senior national
+qualiﬁers/Olympians17.5+2.4 CA – –
+Scovazzo
+et al.30R 14 painful§Masters and collegiate
+level31 CA – 2500–4000
+yds/day, 3–5/
+week
+Ruwe et al.31R 25 normal§Masters and collegiate
+level39 CA – 2500–
+4000 m/day,
+3–5/week
+14 painful 31 2300–
+3700 m/day,3–5/week
+Pink et al.
+32R 14 painful§Masters and collegiate
+level31 CA – 2500–4000
+yds/day, 3–5/
+week
+Burshøjet al.
+33R 16 swimmers Labral pathology ¼11 (61%) (of these: 16 national level 18 CA 8 years –
+Post. Sup. impingement ¼5 (46%) 1 masters
+Subacromial impingement ¼2 (18%) 1 waterpolo player
+Labral tear ¼6 (37.5%)
+Subacromial impingement ¼5 (28%) (of
+these isolated long head of biceps tendon
+inﬂammation ¼2 (40%), diffuse
+synovitis ¼1 (20%)
+R, retrospective study; P , prospective study; Q, questionnaire/survey; CA, clinical assessment; Int, interview.
+*Values not given for controls/controls were not clinically evaluated.
+†No history of pain or injury and no positive ﬁndings on clinical examination. Changes associated with injury found. See Table 19regarding ﬁndings from Fredericson et al.5
+‡No shoulder pain reported. Study compared joint laxity between swimmers and controls.
+§See Table 23regarding cinematographic analysis for comparison between overactive and underactive muscles used during the pull-through and recovery phases in painful
+and non-painful shoulders.Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 55Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Table 7 Spine subject demographics.
+Study Design
+(P/R)No Rate of injury Subjects Age
+(years)Data
+collectionTime
+frameActivity
+exposure
+Hangai et al.7R 47 swimmers Disc degeneration
+swimmersWell-trained university athletes 19.5 +1.2 CI/Q/MRI – 13.1 +3.0 years
+L1/2¼3 (6.4%)
+L2/3¼2 (4.3%)
+L3/4¼5 (10.6%)
+L4/5¼12 (25.5%)
+L5/S1¼14 (29.8%)
+DDPs¼27 (57.5%)
+71 non-athletes Disc degeneration
+non-athletesNon-athlete university students 19.5 +1.3 –
+L1/2¼5 (7.1%)
+L2/3¼0 (0%)
+L3/4¼1 (1.4%)
+L4/5¼9 (12.7%)
+L5/S1¼14 (19.7%)
+DDPs¼22 (31.4%)
+Kaneoka et al.8R 56 high load
+swimmersDisc degeneration
+high-load swimmersElite-level swimmers (high-load
+group19.6 Q/MRI – 49 047 min/week
+L1/2¼9 (16%)
+L2/3¼6 (11%)
+L3/4¼5 (9%)
+L4/5¼15 (27%)
+L5/S1¼24 (43%)
+38 low-load
+swimmersDisc degeneration low-load
+swimmersUniversity recreational-level
+swimmers (low-load group)21.1 8440 min/week
+L1/2¼1 (3%)
+L2/3¼2 (5%)
+L3/4¼0 (0%)
+L4/5¼5 (13%)
+L5/S1¼8 (21%)
+Goldstein et al.9P 8 training ,15 h/
+weekAbnormal disc ¼1 (12.5%) AA or AAA level 14.6 MRI – 11.3 h/week
+Spondylolysis ¼0 (0%) 18.6 16.4 h/week
+11 training.15 h/weekAbnormal disc ¼2 (18%) National level
+Spondylolysis ¼0 (0%)
+DDPs, disc degeneration at more than one level.T. Gaunt and N. Maffulli
+56 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Table 8 Demographics of swimmers with knee pain.
+Study Design
+(P/R)No Rate of injury Subjects Age Data
+collectionTime
+frameActivity exposure
+Rovere and
+Nichols10R 36 History of knee pain ¼31
+(86%)Competitive
+swimmers– Q/CA Two
+weeks52 600 +18 700 years/week
+(total)
+Knee pain once/
+week¼17 (47.2%)16 900 +18 600 years/week
+(breast-stroke)
+Knoblochet al.
+11R 141 male Knee pain ¼147 (49.9%) Elite subjects 19 +10 Q/CA – 108 +33 min/day
+155 female 18.3 +9.6 103 +37 min/day
+Vizsolyi et al.12R 77 breaststrokers Knee pain ¼56 (73%) Competitive
+swimmers14.2 Q/CA – 16 h/week
+314
+non-breaststrokersKnee pain ¼153 (48%) 12.9Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 57Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+be appropriate to report the findings of clinical examinations according
+to suspected lesions within the shoulder. Table 11shows how this
+might make comparison of clinical findings simpler.
+Spine
+One study undertook a clinical examination of the subjects7including
+palpation of the lower back, neurological examination of lower extre-
+mities, and lumbar spine flexibility testing in 47 swimmers and 71 non-athletic controls. The methods of the examination were not included.
+Two studies
+7,8asked subjects to complete a questionnaire regarding
+back pain. In one study,7each subject was asked whether they had
+experienced lower back pain and whether this was very mild, mild,
+moderate or severe. They were also asked whether pain radiated to theTable 9 Hip adductor pain in swimmers in Grote et al.13(absolute ﬁgures and percentages
+are given).
+Modality Breastrokers
+(n¼130)IM swimmers
+(n¼80)Non-breaststrokers, non-IM
+swimmers ( n¼86)
+Current hip adductor pain 5 (6.92) 0 0
+Unable to kick breastroke
+in past year33 (42.7) 27 (21.5) 7 (5.8)
+Number of practices missed
+due to adductor injury11.5 12.4 6.9
+NB: There is no injury rate column as this being the only study regarding hip injury.
+Table 10 Comparison of tests used to examine speciﬁc tissues in the shoulder (absolute
+ﬁgures and percentages are given).
+Study Structure(s) examined Test Number of
+shoulders testedNumber of
+positive ﬁndings
+Sein et al.2Anterior joint stability Apprehension 80 23 (29)
+Infraspinatus and teres
+minor/posterior cuffDrop sign 0 (0)
+SLAP lesion O’Briens 16 (20)
+AC joint Paxino’s 23 (29)
+AC joint Scarf/cross arm 13 (16)Biceps Speeds 10 (13)
+Rupp
+et al.
+3Subacromial impingement Hawkin’s 22 11 (50)
+Subacromial impingement Neer’s 0 (0)
+Inferior cuff instability Sulcus sign 1 (5)
+Anterior joint stability Apprehension 11 (50)
+Bak and
+Faunø4Infraspinatus Painful arc 49 49 (100)Subacromial impingement Hawkin’s 13 (27)
+Subacromial impingement Neer’s 19 (39)
+Joint capsule laxity Anterior
+drawer19 (39)
+Inferior cuff stability Sulcus sign 16 (33)
+Anterior joint stability Apprehension 21 (43)T. Gaunt and N. Maffulli
+58 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+leg at the time of worst ever lower back pain, and, finally, whether
+they had experienced any lower back pain in the last 4 weeks, and
+again whether it radiated to their legs. The second study8compared
+lower back pain in 56 elite swimmers and 38 recreational level swim-mers. Each subject filled out a questionnaire asking whether they had
+experienced low back pain, whether the back pain was ‘severe’, and
+whether it interfered with their daily lives. Although both studiescrudely surveyed the severity of back pain, only one inquired aboutneurological signs.
+8
+Hangai et al.7showed that at logistic regression a greater proportion
+of swimmers experienced lower back pain than non-athletes. Kaneokaet al.
+8showed that of 56 swimmers, 43 had experienced back pain of
+whom 29 reported it as severe; 33 of 38 recreational swimmers
+reported that they had experienced back pain and 14 rated it as severe.
+Hip
+The one article13regarding hip pain in swimmers did not report any
+clinical findings. Swimmers answered a questionnaire regarding how
+many episodes of hip adductor pain or subjective weakness they hadexperienced in the past swimming season, how long each period lasted
+for and at what period during the season the injury occurred.
+Tables 12and 13show the findings. Thirty-three of the breaststroke
+swimmers participating in the survey were unable to partake in swim-
+ming practice at least once during the season due to hip adductor
+injury.
+Knee
+Two studies examined their subjects.10,12Rovere and Nichols10exam-
+ined 36 swimmers for knee pain in the areas shown in Table 14.Table 11 Comparison of tests used to examine speciﬁc tissues in the shoulder.
+Structure(s) examined Sein et al.2Rupp et al.3Bak and Faunø4
+Subacromial impingement – Y Y
+Acromioclavicular joint Y – –
+Rotator cuff: supraspinatus/anterior superior cuff – – –
+Rotator cuff: infraspinatus and teresminor/posterior cuff Y – Y
+Rotator cuff: supraspinatus/anterior inferior cuff – – –
+Rotator cuff: subscapularis/anterior inferior cuff – – –Inferior cuff stability – Y –
+Anterior joint stability Y Y Y
+SLAP Y – –Biceps Y – –
+Sein et al.
+2report internal and external impingement sign, but with no explanation about how it was
+tested.Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 59Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Vizsolyi et al .12examined 16 swimmers for knee pain in the areas
+shown in Table 15. Both studies examined similar, but not exactly the
+same, structures. In addition, only Rovere and Nichols10noted whether
+the pain in the knee was bilateral or unilateral, and at the dominant or
+non-dominant side (Table 16). Vizsolyi et al.12surveyed 209 swimmers
+regarding the site of their pain (Table 17). Rovere and Nichols10
+showed that swimmers who experienced knee pain frequently were
+older, had swum competitively for longer, swam more breaststroke per
+week and stretched more than those experiencing pain occasionallyand never/rarely (Tables 14and 15). However, these swimmers had
+trained less frequently during the season than those with less knee
+pain. Swimmers with knee pain also had a less breaststroke-specificwarm-up, emphasizing the importance of a good warm-up in prep-aration for each stroke. Also, swimmers who had progressed to a
+higher level suffered less knee pain, possibly explained by the fact that
+a lack of pain allows a more intense training programme, or that differ-ent techniques between high and lower level swimmers allow a faster,
+more efficient stroke that does not predispose to developing knee pain
+on breaststroke kick. Vizsolyi et al .
+12examined 209 swimmers and
+Table 12 Comparison of breaststroke, individual medley and non-breaststroke swimmers
+demographics in Grote et al.13(absolute ﬁgures and percentages are given).
+Breaststroke
+swimmersIndividual medley
+swimmersNon-breaststroke, non-individual
+medley swimmers
+n 130 80 86
+Mean 85 (65.4) 47 (58.8) 662 (76.7)
+Age (mean +SD) 19.0 +2.0 19.2 +2.4 19.8 +2.0
+Years competitive
+swimming +SD10.5+3.5 11.6 +2.9 11.0 +3.5
+Years competing in
+breaststroke +SD8.3+3.8 0 0
+Meters/week breaststroke
+swim+SD9017+7162 5853 +1961 436 +694
+Meters/week breaststroke
+kick+SD4072+7108 2539 +1948 165 +391
+Table 13 Hip adductor pain in swimmers in Grote et al.13(absolute ﬁgures and
+percentages are given).
+Modality Breastrokers IM
+swimmersNon-breaststrokers,
+non-IM swimmers
+Current hip adductor pain 5 (6.92) 0 0
+Unable to kick breastroke in pastyear33 (42.7) 27 (21.5) 7 (5.8)
+Number of practices missed
+due to adductor injury11.5 12.4 6.9T. Gaunt and N. Maffulli
+60 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+recorded the location of pain. Patellar involvement was mainly at the
+inferomedial border, and was reported as the most tender area in these
+subjects. Of the athletes with medial collateral ligament injuries, onlythree who had unilateral pain had isolated medial collateral ligament
+abnormalities. Lateral collateral ligament pain in isolation was rare,
+but, when present, was always associated with medial collateral liga-ment or patellar abnormalities (Tables 15and17).
+Tables 14–17provide information regarding pain location, in which
+subjects, and whether it was unilateral or bilateral. However, the
+various studies do not provide the same data summary, comparisonsare hard to make and hence conclusions difficult to draw. Vizsolyi
+et al.
+12agree with Rovere and Nichols10in that the most common site
+for knee pain is in the medial aspect of the dominant knee, mostspecifically the medial collateral ligament of the right leg.Table 14 Details of location of knee pain in Rovere and Nichols10(absolute ﬁgures and
+percentages are given).
+Pain location Males Females Total
+Medial 12 (75) 11 (73) 23 (74)
+Generalized 4 (33) 5 (45) 9 (39)
+Medial patella and tendon 4 (33) 4 (36) 8 (35)
+Medial collateral ligament 4 (33) 2 (18) 6 (26)
+Lateral 2 (12) 2 (13) 4 (13)Patellar tendon 0 (0) 3 (20) 3 (10)
+Posterior patella 0 (0) 2 (13) 2 (6)
+Generalized 2 (12) 0 (0) 2 (6)
+Table 15 Details of location of knee pain in Vizsolyi et al.:12injury location ( n¼15).
+Site Bilateral Unilateral Total
+Medial collateral ligament 6 3 9
+Lateral collateral ligament 2 3 5
+Patella inferomedial border 4 3 7Diffuse peri-patellar 6 1 7
+Diffuse peri-patellar +positive patellar compression test 10 4 14
+Table 16 Rovere and Nichols10bilateral vs. unilateral symptoms and dominant vs.
+non-dominant (absolute ﬁgures and percentages are given).
+Male Female Total
+Bilateral 9 (56) 11 (73) 23 (74)
+Unilateral 7 (44) 9 (60) 16 (52)Total 16 (100) 15 (100) 31 (100)
+Dominant 4 (57) 6 (67) 10 (62)
+Non-dominant 3 (43) 3 (33) 6 (38)
+Total 7 (100) 9 (100) 16 (100)Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 61Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Imaging
+Shoulder
+Two studies reported magnetic resonance imaging (MRI) changes
+within the rotator cuff and surrounding tissues.2,5Seinet al.2reported
+changes in a more detailed structure-specific manner (Table 18) after
+imaging 52 swimmers. Fredericson et al.5recruited six female swim-
+mers with no history of or current shoulder pain. Each swimmer wasexamined by a physician and found to be asymptomatic. A fat-
+suppressed T2 MRI of the right shoulder for five swimmers and of the
+left shoulder for one swimmer was then performed. The authors thengraded the findings of five structures, namely rotator cuff, labrum,
+bone, ligament and tendon/muscle. There were four grades of structural
+change: 0 ¼normal, 1 ¼mild, 2 ¼moderate and 3 ¼severe. Each
+shoulder was investigated for minimum thickness of the supraspinatustendon, acromion shape, tendinopathy, tears and arthritis of the
+acromio-clavicular joint. Supraspinatus tendinopathy was graded by
+Sein et al .
+2using a four-point scale similar to that of Fredericson.5
+Grade 0 was awarded for complete homogeneity and was classified as
+normal. Grade 1 (mild tendinopathy) was awarded if there was a mild
+focal increase in tendon signal intensity that was not equal to fluid.Grade 2 (moderate tendinopathy) was awarded if there was a moderate
+focal increase in tendon signal intensity not equal to fluid, and Grade 4
+(severe tendinopathy) was awarded if there was a marked generalizedincrease in tendon signal. All images were reviewed by a single well-
+trained observer. Table 19shows the MRI findings.
+5None of the
+swimmers had either normal tendon or severe degenerative changes.All images were reviewed by a musculoskeletal radiologist. Sein et al.
+2
+reported changes specific to tissues within the shoulder in 52 swim-
+mers, and the results obtained using fat-suppressed T2 MRI are given
+in Table 18. Both studies report MRI changes within the rotator cuff
+and surrounding tissues. However, Sein et al .2report changes in a
+more detailed structure-specific manner.Table 17 Vizsolyi et al.:12location of knee pain (absolute ﬁgures and percentages are
+given).
+Pain location Right knee Left knee
+Medial collateral ligament 113 (54) 94 (45)
+Lateral collateral ligament 30 (14) 24 (12)
+Patella
+Medial border 79 (38) 65 (31)
+Lateral border 18 (9) 14 (7)Superior pole 22 (11) 16 (8)
+Inferior pole 56 (27) 44 (21)
+Peri-patellar (all sites) 28 (13) 22 (11)T. Gaunt and N. Maffulli
+62 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Spine
+Three studies used MRI to assess lumbar disc degeneration in swim-
+mers with back pain.7–9Table 20shows the Pfirrmann23classification
+used by two studies to assess degeneration.7,8Another study9per-
+formed MRI on the lumbar spine of 8 elite-level and 11 national-levelswimmers. None had back pain at the time of the study. A positive
+MRI change was defined as degenerative or other disc changes and
+spondylolisthesis or spondylolysis. It is difficult to compare degener-ation across all three articles without using the same classification.
+Hangai et al.
+7classified subjects as having lumbar disc degeneration if
+their scan showed Pfirrmann23Grade III or greater changes or if disc
+degeneration was found at more than one level. Table 21shows the
+number of swimmers and controls who had disc degeneration findings
+on MRI. Kaneoka et al.8showed that a greater number of elite swim-
+mers had disc degeneration than recreational swimmers ( P¼,0.05).7Table 18 Sein2MRI changes ( n¼52).
+Structure Number of positive ﬁndings Notes
+Supraspinatus tendinopathy 36 Grade 1 ¼27/36
+Grade 2 ¼8/36
+Grade 3 ¼1/36
+Supraspinatus tendon
+thickness14 Range 6–10 mm
+Median 8 mm
+Supraspinatus tendon tears 3 2 had delaminated intrasubstance
+tears
+1 had partial 3-mm articular side
+tear
+Subscapularis tendinopathy 2
+Infraspinatus thickening 1
+Biceps tendon Normal 46 swimmers
+Unstable in 3 swimmers
+Biceps sheath effusion 3swimmers
+Labral tears 10 8 SLAP tears
+1 SLAP lesion and Bankhart lesion
+1 Bankhart lesion
+Labrum changes 13 5 mucoid changes
+2 paralabral cysts
+5 sublabrum-foramens
+1 Buford complex
+Acromion shape Type 1 ¼20/52
+Type 2 ¼29/52
+Type 3 ¼3/52
+Subacromial bursa thickening 33
+Subscapularis bursa thickening 3Sub acromial and subdeltoid
+ﬂuid21
+ACJ arthritis 7
+Acromion ossiﬁcation centre Fused ¼35
+Unfused ¼17/52Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 63Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+On the other hand, Kaneoka et al.8found that subjects also showed
+greater evidence of disc degeneration, but this difference was not sig-
+nificant. Both studies show that, in those with disc degeneration, theL5/S1 disc is most commonly affected. Also, males suffered more discdegeneration than females, and disc degeneration was found more in
+those reporting both low back pain.
+8However, these differences were
+not great enough to reach significance.Table 20 Pﬁrrmann23classiﬁcation of spinal disc degeneration.
+Grade Structure Distinction if NP
+and AFSignal intensity Height of
+intervertebral disc
+I Homogeneous, bright white Clear Hyperintense,
+isointense to CSFNormal
+II Inhomogeneous with or
+without horizontal bandsClear Hyperintense,
+isointense to CSFNormal
+III Inhomogeneous, gray Unclear Intermediate Normal to slightly
+increased
+IV Inhomogeneous, gray to
+black, decreasedUnclear Intermediate to
+hypotenseNormal to
+moderately increased
+NP , nucleus pulposus, AF , annulus ﬁbrosus.Table 19 Fredericson5MRI changes grading ( n¼6).
+Structure Normal Mild Moderate Severe
+Rotator cuff – 3 3 –
+Labrum – 1 5 –
+Bone – 5 1 –
+Ligament – 2 4 –
+Tendon/muscle – 3 3 –
+Table 21 The studies by Kaneoka et al.7and Hangai et al.8(absolute ﬁgures and
+percentages are given).
+Study Number of subjects Spinal level Subjects with DD Control with DD
+Hangai et al.747 subjects L1/2 3 (6.4) 3 (7.1)
+71 controls L2/3 2 (4.3) 0 (0)
+L3/4 5 (10.6) 1 (1.4)
+L4/5 12 (25.5) 6 (12.7)
+L5/S1 14 (29.8) 9 (19.7)
+DDPs 27 (57.5) 15 (31.4)
+Kaneoka et al.856 subjects L1/2 9 (16) 1 (3)
+38 controls L2/3 6 (11) 2 (5)
+L3/4 5 (9) 0 (0)
+L4/5 15 (27) 5 (13)
+L5/S1 24 (43) 8 (21)T. Gaunt and N. Maffulli
+64 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Goldstein et al.9found in eight AA/AAA elite-level swimmers only
+one abnormal disc and no cases of spondylolysis. Of the 11 national
+standard swimmers, 2 cases of abnormal disc were found and again nocases of spondylolysis. Goldstein et al.
+9also studied the same changes
+in gymnasts, finding that spondylolysis and disc abnormalities were
+more frequent. However, no significant comparison could be made, asswimmers trained less than gymnasts and did not reach the threshold
+to allow for comparison. One of the swimmers had spine abnormal-
+ities. No indication of whether these subjects suffered from back painis given.
+Hip
+No imaging was performed on subjects with hip pain.
+Knee
+No imaging was performed on subjects with knee pain.
+Risk factors
+Joint laxity
+Shoulder
+Seven studies2,3,21,22,24,25,26compared joint laxity in swimmers
+(Table 22). Two studies2,26did not compare joint laxity between swim-
+mers and any control group. One study24compared joint laxity
+between Division 1 national swimmers and club swimmers as controls.All other studies
+3,21,22,24,25compared joint laxity between swimmers
+and non-swimming controls. Only five studies2,3,22,24,26reported
+whether either subjects or controls experienced shoulder pain. Bothswimmers and controls in all other studies had no shoulder pain. The
+method of examination was purely clinical in two studies.
+22,26Drawer
+test and sulcus sign were used in one study,26and simply the obser-
+vation whether the shoulder was stable anteriorly or posteriorly in the
+other.22Both clinical and instrumental analysis occurred in one
+study.21Clinically, the sulcus sign and drawer test were used as
+described above, in addition to the Beighton hypermobility criteria(Table 23). Instrumentally, the Myrin OB Goniometer was used. Purely
+instrumental analysis occurred in four studies, with one study
+3using
+the Kin-Com H-2 isokinetic dynamometer, two studies using theUniversal goniometer
+24,25and one study using an instrumented lax-
+ometer.2Shoulder laxity has been postulated as a risk factor for the
+development of shoulder pain in swimmers. McMaster et al .26
+measured shoulder laxity in 40 US national standard swimmers with
+shoulder pain. The sulcus sign (inferior displacement of the humeralSoothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 65Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Table 22 Comparison of laxity assessment and relation to shoulder pain (*signiﬁcance regarded as at least P,0.05).
+Study No Subjects Displacement/ﬂexibility Method of
+assessmentGreater laxity Pain reported Site Pain assoc with laxity*
+Sein et al.280 Swimmers Inferior translation Instrumented
+laxometer– Yes Impingement Yes (signiﬁcant)
+Extreme pain* Yes (signiﬁcant)
+Pain during
+activityTrend—none signiﬁcant
+Supraspinatus
+tendinopathyNo signiﬁcant
+Rupp et al.322 Competitive
+swimmersExternal rotation
+(adducted)Kin-com H-2
+isokinetic
+dynamometerSwimmers Some subjects
+on examinationShoulder No signiﬁcant difference
+between swimmers with
+and those withoutpositive ﬁndings22 Controls External rotation
+(908abducted)Swimmers
+Internal rotation
+(adducted)Swimmers
+Internal rotation
+(908abducted)Swimmers
+Jansson
+et al.
+21120 Swimmers (M) General joint lax Beighton criteria Male swimmers aged
+9 and 12No – NA
+1277 Ant glenohumeral Drawer test
+Inf glenohumeral Sulcus signRange of rotation Myrin OB
+Goniometer
+Controls (M) General joint lax Beighton criteria –
+Ant glenohumeral Drawer test
+Inf glenohumeral Sulcus signRange of rotation Myrin OB
+Goniometer
+Swimmers (F) General joint lax Beighton criteria Female swimmers
+aged 9 Ant glenohumeral Drawer test
+Inf glenohumeral Sulcus signRange of rotation Myrin OB
+Goniometer
+Controls (F) General joint lax Beighton criteria Female controls aged
+12 Ant glenohumeral Drawer test
+Inf glenohumeral Sulcus signRange of rotation Myrin OB
+GoniometerT. Gaunt and N. Maffulli
+66 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Borsa
+et al.2242 National
+collegiate
+Division 1Anterior Telos framework No signiﬁcant
+difference between
+subjects and
+controls.Yes Shoulder No signiﬁcant difference
+44 Controls Posterior No signiﬁcant
+difference between
+subjects with pain
+and without
+Beachet al.
+2428 Division 1
+collegiate
+swimmersFlexion Universal
+goniometerNo signiﬁcant
+difference69% of subjects
+experienced
+painShoulder No signiﬁcant difference
+Extension
+Horizontal-abduction
+4 Club swimmers Horizontal-adduction
+External rotation
+Internal rotationAbduction
+Torres and
+Gomes
+2520 Swimmers Internal rotation Universal
+goniometerSwimmers No – NA
+External rotation
+13 Controls Range of motion Swimmers
+GIRD†
+ERG‡
+McMaster
+et al.2640 Swimmers
+suffering pain/no painInferior displacement Sulcus sign Swimmers with pain Yes Shoulder Yes (signiﬁcant)
+Anterior displacement Drawer test Swimmers with pain
+*24/80 swimmers experiencing extreme shoulder pain monthly, 9/80 swimmers experiencing extreme shoulder pain weekly.
+†GIRD, glenohumeral internal rotation gain, difference between dominant and non-dominant arm internal rotation.
+‡ERG, external rotation gain, difference between dominant and non-dominant arm external rotation.Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 67Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+head) was measured in centimetres and manual provocation test results
+for anterior displacement were given a score depending on the relative
+displacement of the humeral head from the glenoid. No displacementwas given a score of 1, humeral head shift a score of 2, joint edge
+perch a score of 4 and frank dislocation a score of 8. If an apprehen-
+sion sign was detected, four points were added to the subjects’ score.Athletes with shoulder pain at the time of examination scored a higher
+examination score than those with no pain at the time, thus suggesting
+that swimmers had a greater degree of joint laxity [confidence interval(CI)¼95%].
+Jansson et al .
+21measured joint laxity in children of two age
+groups against age- and gender-matched controls (Table 6). General
+joint laxity was measured according to the score used by Beightonet al .
+27(Table 23). Typically, young adults range between 4 and 6
+out of 9, with a score of 6 or greater indicating hypermobility. In
+both age groups, male swimmers demonstrated a greater degree ofgeneral joint laxity than their reference groups. Female swimmers
+demonstrated a lower degree of general joint laxity compared with
+their controls at the age of 9 years, and no significant difference atthe age of 12. Anterior glenohumeral laxity was measured using the
+anterior drawer test. The findings were subjectively awarded a
+Grade 1 if there was normal translation, Grade 2 if excessive trans-lation within the glenoid was evident, Grade 3 if the humeral head
+translated over the glenoid rim and Grade 4 if there was frank dislo-
+cation over the glenoid rim. McMaster et al .
+26and Jansson et al .21
+have used a very similar grading of anterior glenohumeral laxity.
+Inferior glenohumeral laxity was subjectively graded in a similar
+fashion to that of McMaster et al.26The arm was pulled inferiorly,
+and the distance between the acromion and humeral head measured.Grade 1 was awarded if the distance was ,1 cm, Grade 2 if 1–
+2c m a n d G r a d e 3 i f .2c m .
+28,29No significant differences were
+found between swimmers and control subjects concerning anterioror inferior laxity. The range of rotation was recorded using a Myrin
+OB Goniometer. This device measured internal and external rotation
+with the patient supine, elbow flexion to 90 8and shoulder abduc-
+tion to 90 8. Internal and external rotation were then measured until
+movement of the trunk was observed. Internal rotation was signifi-
+cantly less in both male and female swimmers aged 9 and 12 years
+when compared with controls. No significant difference in externalrotation was found between swimmers and controls. However, a sig-
+nificantly smaller difference was found in the total range of move-
+ment for swimmers aged both 9 and 12 years compared with theirreference population. These findings are not useful to define
+whether laxity is associated with shoulder pain, as there were noT. Gaunt and N. Maffulli
+68 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+inclusion or exclusion criteria governing participation with respect
+to shoulder injury or pain. However, they can be used to showrelationships between swimming and the degree of laxity in swim-
+mers and controls, and contribute towards a conclusion in conjunc-
+tion with other studies detailing the relationship between pain andlaxity (Table 22).
+Borsa et al .
+22studied 42 national collegiate athletic association
+Division 1 swimmers (asymptomatic at the time of testing) and 44age-matched controls using a sonographic method. Of the 27 (64%)
+swimmers reported a history of unilateral or bilateral shoulder
+pain. Seveenteen of these subjects reported pain from rotator cufftendinopathy, 5 from biceps tendinopathy, 3 from non-specificsources, 1 from thoracic outlet syndrome and 1 from a labral tear.
+Subjects were placed sitting in the upright position within a ‘Telos’
+framework, allowing shoulders to be positioned and stabilized at908of abduction and 60 8of external rotation. A stress device was
+used to apply a force of 15 dN to the proximal humerus in an
+anterior and posterior direction. An ultrasound scanner was thenused to measure the excursion distance of the humeral head from
+identified bony landmarks of the scapula. Images were taken at both
+the baseline and at the force level of 15 dN. Displacement wasrecorded as the difference in distance between the baseline and forceTable 23 Beighton27hypermobility grading.
+Joint Maneuver Points
+Left little ﬁnger metacarpal-phalangeal joint Passive dorsiﬂexion .908 1
+Passive dorsiﬂexion ,908 0
+Right little ﬁnger metacarpal-phalangeal joint Passive dorsiﬂexion .908 1
+Passive dorsiﬂexion ,908 0
+Left thumb carpo-metacarpal joint Passive dorsiﬂexion to the ﬂexor aspect
+of the forearm1
+No passive dorsiﬂexion to the ﬂexor aspect
+of the forearm0
+Right thumb carpo-metacarpal joint Passive dorsiﬂexion to the ﬂexor aspect
+of the forearm1
+No passive dorsiﬂexion to the ﬂexor aspect
+of the forearm0
+Left elbow Hyperextension .108 1
+Extension ,108 0
+Right elbow Hyperextension .108 1
+Extension ,108 0
+Left knee Hyperextension .108 1
+Extension ,108 0
+Right knee Hyperextension .108 1
+Extension ,108 0
+Full trunk ﬂexion Palms can be placed on ﬂoor 1
+Knees extended Palms not placed on ﬂoor 0Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 69Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+levels of 15 dN. Statistical analysis showed no significant difference
+in glenohumeral displacement between swimmers and controls.
+Neither was there a significant difference for swimmers with ahistory of shoulder pain when compared with swimmers with no
+history of shoulder pain. There was no difference in shoulder laxity
+between swimmers and non-swimmers.
+Spine
+Subjects with back pain were not examined for joint laxity.
+Hip
+Subjects with hip pain were not examined for joint laxity.
+Knee
+Subjects with knee pain were not examined for joint laxity.
+Cinematographic analysis
+Shoulder
+Three studies performed electromyogenic cinematographic analysis
+of 12 muscles used in front crawl,30breaststroke31and butterfly.31
+The difference in activity of each of these muscles during the pull-
+through and recovery phases of each stroke was noted as being
+either more or less than during the same phases of the stroke in
+swimmers with no shoulder pain. Scovazzo et al .30noted that
+muscle recruitment and use were different between swimmers withpain in the shoulder and those without (Table 24). At the very
+beginning of the front-crawl stroke (the ‘catch’), swimmers with
+shoulder pain showed less activity in the rhomboids, upper trapeziusand anterior and middle deltoids than those without shoulder pain.
+There was also less activity in the serratus anterior, but more
+activity in rhomboids in swimmers with pain during the active pullphase of the stroke. On hand exit and the beginning of the recovery
+phase, anterior and middle deltoids were less active in swimmers
+with pain, whereas the infraspinatus was more active in those withpain. Finally, during the mid-recovery phase, the subscapularis wasless active among those experiencing pain. No difference in the
+firing pattern or the amplitude of posterior deltoid, supraspinatus,
+teres minor, pectoralis major or latissimus dorsi was found betweenswimmers with shoulder pain and those with normal shoulders.
+Subscapularis muscle activity and teres minor activity decreased
+during the pull-through phase of the breaststroke
+31(Table 24). The
+middle deltoid, upper trapezius and supraspinatus muscle activity
+was significantly decreased during the recovery phase in swimmersT. Gaunt and N. Maffulli
+70 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+with painful shoulders. The posterior deltoid was more active during
+the pull-through phase in swimmers with painful shoulders.32The
+infraspinatus, subscapularis, supraspinatus, teres minor, rhomboids,upper trapezius and serratus anterior were all less active during thepull-through phase of the butterfly stroke
+32(Table 24).Table 24 Cinematographic analysis of strokes in painful shoulder.
+Study No Stroke Muscle Pull-through activity
+in painful shoulderRecovery activity in
+painful shoulder
+Early Mid Late Early Mid Late
+Scovazzo et al.3014 Front crawl Anterior deltoid Less – Less Less – –
+Middle deltoid Less – Less – – –
+Posterior deltoid ––––– –
+Infraspinatus – More More More – –Subscapularis –––– Less –
+Supraspinatus ––––– –
+T e r e s m i n o r ––––– –Rhomboids Less More – – – –
+Upper trapezius Less –––– –
+Serratus anterior More More – – – –
+Pectoralis major ––––– –
+Latissimus dorsi ––––– –
+Pink et al.
+3214 Butterﬂy Anterior deltoid ––––– –
+Middle deltoid ––––– –
+Posterior deltoid More Less – – – –
+Infraspinatus – More More More – –
+Subscapularis – More – – – –Supraspinatus Less Less – – – Less
+Teres minor Less Less Less – – Less
+Rhomboids ––––– –
+Upper trapezius More –––– –
+Serratus anterior – More More – – –Pectoralis major ––––– –
+Latissimus dorsi ––––– –
+Pull-through activity
+in painful shoulderRecovery activity in
+painful shoulder
+Ruwe et al.
+3114 Breaststroke Anterior deltoid – –
+Middle deltoid Less –
+Posterior deltoid – –Infraspinatus – –
+Subscapularis More –
+Supraspinatus – Less
+Teres minor – Less
+Rhomboids – –Upper trapezius More Less
+Serratus anterior Less –
+Pectoralis major – –Latissimus dorsi – MoreSoothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 71Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Spine
+No cinematographic analysis was performed on swimmers with back
+pain.
+Hip
+No cinematographic analysis was performed on swimmers with backpain.
+Knee
+One study12performed cinematographic analysis on 21 swimmers com-
+paring the adduction angles at kick initiation between swimmers with
+medial knee pain and those without pain. Vizsolyi et al.12found signifi-
+cant associations between the angle of hip abduction at kick initiation,adduction angle (angle of hip abduction after complete extension and
+before initiation of hip adduction) and adduction velocities.
+Rehabilitation
+Shoulder
+Brushøj et al.33compiled a retrospective analysis of 18 swimmers who had
+undergone arthroscopic surgery between 1999 and 2000. The most
+common finding was labral pathology, shown in 11 subjects (69%) atarthroscopy. Of these subjects, five showed posterior superior impinge-
+ment, two in combination with subacromial impingement. Six of the 11
+subjects showing labral pathology showed labral tears, two of these hadSLAP lesions and one a Bankart lesion. The second most common pathol-ogy was subacromial impingement, found in five swimmers, two of whom
+had posterior superior impingement as well. Two swimmers had isolated
+long head biceps tendon tendinopathy and one swimmer had diffuse syno-vitis. One swimmer showed no pathological findings. The most common
+procedure carried out was debrideme nt, received by 11 swimmers. Partial
+release of the coraco-acromial ligam ent was carried out in four swimmers
+and bursectomy in four swimmers. With respect to return to sport, nine
+swimmers returned to their pre-injury level, seven returned to sport with
+no pain and two returned with some shoulder pain.
+Spine
+No articles studied the effects rehabilitation methods regarding injuries
+to the spine.
+Hip
+No articles studied the effects rehabilitation methods regarding injuriesto the hip.T. Gaunt and N. Maffulli
+72 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Knee
+No articles studied the effects rehabilitation methods regarding injuries
+to the knee.
+Discussion
+Quality assessment
+Shoulder
+Study populations were generally small, with only two studies2,21
+scoring maximum points. All studies were retrospective cohort studies.
+All studies scored maximum points for the number of proceduresincluded in each reported outcome. Methods of assessment were
+reported well, but the reporting of outcome criteria was performed
+badly (Table 25).
+Spine
+All studies were retrospective cohort studies. No study scored
+maximum points for the size of population. However, all studies usedmethods reporting good sensitivity and well-defined outcome criteria.
+Outcomes were also reported well (Table 26).
+Hip
+This single retrospective cohort study reported well on outcome assess-
+ment and recruitment of subjects.
+Knee
+Both studies were retrospective cohort studies with small populationsizes. Methods were reported badly, as were outcomes (Table 27).
+Table 25 Coleman15scoring summary: shoulder.
+Section Mean SD Range Median
+Part A: only one score to be given for each of the seven sections
+1. Study size (followed up) 3.25 3.93 0–10 2
+2. Mean follow-up (months) 0.83 1.95 0–5 0
+3. No. of different surgical procedures included in each reported
+outcome10.0 0.0 – 10
+4. Type of study 0.00 0.00 – 0
+5. Diagnostic uncertainty 2.50 3.99 0–10 0
+6. Description of surgical procedure given 4.41 1.51 0–5 5
+7. Description of postoperative rehabilitation 0.41 0.00 0–5 0
+Part B: scores may be given for each option of each of the three sections if applicable
+1. Outcome criteria 5.58 3.23 0–2 5.5
+2. Procedure for assessing outcomes 9.00 2.95 13–11 11
+3. Description of the subject selection process 9.17 4.17 5–15 10
+Overall 45.00 9.89 32–60 42Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 73Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Clinical findings
+Shoulder
+There is no straightforward way of interpreting whether findings from
+the subjects examined are common across these three studies, as the
+anterior joint capsule was the only structure examined in all threearticles. Bak and Faunø
+4describe their study population as simply
+having shoulder pain, whereas others describe clinical findings.
+Shoulder pain is a broad term, and the phrase ‘shoulder pain’ or‘shoulder injury’ was encountered frequently during the review of the
+literature, making it difficult to collate information to produce a homo-
+geneous picture. While assessment of shoulder pain and shoulderinjury cannot be constrained within too rigid, a framework based on
+Table 26 Coleman15scoring summary: spine.
+Section Mean SD Range Median
+Part A: only one score to be given for each of the seven sections
+1. Study size (followed up) 4.66 4.04 0–7 7
+2. Mean follow-up (months) 0.00 0.00 – 0
+3. No. of different surgical procedures included in each reported
+outcome10.0 0.00 – 10
+4. Type of study 0.00 0.00 –
+5. Diagnostic uncertainty 5.00 0.00 – 5
+6. Description of surgical procedure given 5.00 0.00 – 5
+7. Description of postoperative rehabilitation 0.00 0.00 0
+Part B: scores may be given for each option of each of the three sections if applicable
+1. Outcome criteria 16.67 3.46 2–8 8
+2. Procedure for assessing outcomes 9.67 5.03 5–15 9
+3. Description of the subject selection process 15.0 0.00 – 5
+Overall 57.33 13.28 42–65 65
+Table 27 Coleman15score summary: knee.
+Section Mean SD Range Median
+Part A: only one score to be given for each of the seven sections
+1. Study size (followed up) 0 0 – 0
+2. Mean follow-up (months) 0 0 – 0
+3. No. of different surgical procedures included in each reported
+outcome10 0 – 10
+4. Type of study 0 0 0
+5. Diagnostic uncertainty 0 0 – 0
+6. Description of surgical procedure given 5 0 – 5
+7. Description of postoperative rehabilitation 2.5 3.53 0–5 2.5
+Part B: scores may be given for each option of each of the three sections if applicable
+1. Outcome criteria 3 0.71 3
+2. Procedure for assessing outcomes 11 0 – 11
+3. Description of the subject selection process 10 7.07 – 10
+Overall 43 4.24 40–46 43T. Gaunt and N. Maffulli
+74 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+individual subject reports, every attempt should be made to report find-
+ings in a more uniform way.
+Spine
+The method of assessment of lower back pain used by both Hangai
+et al.7and Kaneoka et al.8is subjective, and may not be a reliable tool
+when comparing individuals. A more sensitive tool for measuring back
+pain such as the Oswestry34disability index should be used in the
+future.
+Hip
+Grote et al .13postulate that hip adductor injury is correlated with
+increased breaststroke distance covered in training. There are no other
+studies to which this can be compared.
+Knee
+Although there are similarities in reports from both studies, exact com-
+parison cannot be drawn. A more structured framework that allowsdescription of knee pain may be helpful. This may be achieved in terms
+of whether the pain is unilateral or bilateral; if unilateral, whether the
+pain is felt in the left or right leg, the site and structure affected (i.e.medial collateral ligament), and whether the subject is left- or right-
+side dominant. This can easily be adapted to compare males and for
+gender-specific epidemiological studies and is outlined in Table 28.
+Subjects with knee pain had significantly reduced internal rotation of
+the hip. This motion is essential in the biomechanics of breaststroke
+swimming, and poor hip flexibility could predispose to poor kick tech-nique, and hence increased stress placed on the medial aspect of the
+knee during the thrust phase of the breaststroke kick. By correcting
+internal rotation and flexibility in these swimmers, knee pain may beavoided.
+14
+Imaging
+Shoulder
+A more uniform method for reporting MRI findings might allow com-
+parison between subjects from different populations making it simpler
+to draw conclusions. Sein et al.2use a more structured method, which
+should be employed in future work.
+Spine
+The Pfirrmann23method of assessing disc degeneration provides a
+good tool for assessing lumbar spine changes, and, when analysed inSoothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 75Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+the context of subjects with changes reporting back pain, it becomes a
+powerful method to show causes of back pain in swimmers.
+Risk factors
+Joint laxity
+Shoulder
+Table 22shows possible relationships between shoulder laxity, com-
+petitive swimming and shoulder pain, and includes details from other
+studies regarding shoulder laxity. Accurate, objective, non-invasive and
+reproducible measurements of shoulder laxity are difficult to make inthe clinical setting.
+35As Table 22shows, there are many different
+methods of measuring joint laxity, each study using a different method.
+Two studies found greater shoulder laxity in swimmers than in con-
+trols. Jansson et al.21reported significantly greater shoulder laxity in
+male swimmers aged 9 and 12, and female swimmers aged 9 when
+compared with controls. Female swimmers aged 12 had less shoulderlaxity than controls. Correlation with shoulder pain was not includedas part of this study. Rupp et al.
+3found that swimmers had a greater
+degree of laxity than their controls. However, they found that,
+although shoulder pain was reported among subjects, there was no sig-nificant association with shoulder laxity. McMaster et al.
+26reported
+that swimmers with pain had a greater degree of laxity than swimmers
+without pain. However, no comparison against a control group wasmade. Both Borsa et al .
+22and Beach et al .24found no significant
+association between shoulder pain and laxity.Table 28 Suggested method of assessing knee pain in swimmers.
+Male Female
+Site of knee pain Unilateral Bilateral Unilateral Bilateral
+Dominant Non-dominant Dominant Non-dominant
+Lateral collateral
+ligament
+Medical collateral
+ligament
+Anterior crutiateligament
+Posterior crutiate
+ligament
+Lateral meniscus
+Medial meniscusQuadriceps tendon
+Patellar tendon
+Tibial tuberosityT. Gaunt and N. Maffulli
+76 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Only McMaster et al .26and Sein2found significant correlations
+between joint laxity and shoulder pain. However, subjects in the
+study by McMaster et al . reported pain as ‘shoulder pain’ whereas
+Sein2reported not only the presence of pain but its location, and
+whether ‘extreme pain’ was experienced in subjects with proven
+supraspinatus tendinopathy. At what point this extreme pain wasexperienced, however, was unclear. There was also no comparison
+against controls.
+To draw more useful conclusions regarding associations between
+competitive swimming, shoulder laxity and shoulder pain, an attempt
+at a more standardized reporting method should be made such as that
+used by Jansson et al .
+21This should detail examination findings, a
+standard tool for assessment of displacement and flexibility (one of thedevices mentioned in Table 22under method of assessment), and
+whether pain was significantly associated with any difference in laxity
+in the shoulders of swimmers when compared with age- and sex-matched controls.
+Cinematographic analysis
+Shoulder
+Over- or under-activity in each muscle mentioned may lead to a
+misaligned stroke, and consequently act as a risk factor for develop-
+ing pain. For example, decreased supraspinatus activity disables the
+force produced by the supraspinatus and the deltoid in elevation ofthe humerus during the mid-late recovery in breaststroke, encoura-ging impingement.
+31Swimmers with painful shoulders during front
+crawl showed a pattern of hand entry that differed from that of
+their peers without pain, as the humerus entered the water at alower level with respect to their hand, i.e. ‘dropping their elbow’.
+Swimmers who kept a high elbow during hand entry experienced
+less pain. This was consistent with the finding that the anterior andmiddle deltoid of those with a painful shoulder was less active
+during this phase of the stroke.
+30
+Therefore, with knowledge of the individual muscle function, tech-
+nique coaching can be used to prevent injury from a technically poorstroke, and rehabilitation can be targeted towards strengthening indi-
+vidual muscles or redressing the balance of muscles used during the
+pull-through and recovery phases of the stroke.
+30–32Swimming is evol-
+ving, and stroke techniques constantly changing. This may only occur
+first among the elite, and further work may be warranted to prevent
+injury in those entering more high-level competition, and henceembarking on more intensive and stroke-specific training programmes
+at a young age.Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 77Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Knee
+Extremes of hip abduction were associated with knee injury,12and can
+contribute therefore towards a swimmer’s knee pain.
+Rehabilitation
+Shoulder
+Table 29shows methods of shoulder rehabilitation. Brushøj et al .33
+make two conclusions. Firstly, arthroscopy in swimmers who have
+been resistant to rehabilitation for shoulder pain showed mainly labral
+pathology and subacromial impingement. Secondly, the return rate to alevel that matched that of their pre-injury state after debridement andbursectomy was 56%. Therefore, procedures aiming to stabilize labral
+pathology in swimmers with treatment-resistant shoulder pain are of
+benefit only to some of those wishing to return to their pre-injurysporting level.
+Allegrucci et al.
+36described four phases of rehabilitation in swim-
+mers with secondary shoulder impingement. Phase I aims to establish afirm scapular base from which to strengthen the rotator cuff in a
+neutral position. Phase II uses strengthening exercises in the 0–90 8
+range, before moving to overhead exercises in Phase III, where func-tional training is introduced. Phase IV sees the swimmers return to a
+full training programme, aiming to reach their pre-injury ability. They
+also recommend that any strengthening programme should mirror theextreme repetition and muscular endurance required in swimming.There is much literature describing the distance that swimmers cover in
+a training year (Table 6). As a direct result, swimmers perform an
+incredible number of overhead arm rotations per year. Hence, it is notunreasonable
+36to think that a traditional programme of, for example,
+three sets of 10 repetitions of each exercise is inadequate. They there-
+fore recommend that light weights and many repetitions be used inplace of this. This will allow non-prime movers, i.e. the rotator cuff, to
+be better targeted, and therefore rehabilitated. However, sprinters and
+long-distance swimmers require different rehabilitation programmes.Sprinters should perform a smaller number of repetitions with agreater weight to build and maintain explosive power. Long-distance
+swimmers conversely should perform a greater number of repetitions.
+36
+Swimmers with painful shoulders have reduced proprioception (kinaes-
+thetic) deficits with respect to their humeral and scapular position.37,38
+Plyometric training has been proposed to improve this (Table 29).
+Training modification and return to sport are also addressed, andswimmers’ yardage should be decreased during the season, by up to
+50% during mid-season training. Other modifications include warmingT. Gaunt and N. Maffulli
+78 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Table 29 Rehabilitation of shoulder injuries.
+Study Modality Structure/function Shoulder position/exercise
+Allegruci
+et al.36Range of motion Posterior capsule/cuff tightness
+limiting horizontal adductionStabilize scapula on thorax, 90 8shoulder ﬂexion, arm adducted across chest
+Posterior capsule tightness Subject supine, 90 8shoulder ﬂexion, elbow ﬂexed, pressure applied anterior–posterior
+direction
+Strength and endurance
+trainingExternal rotation stretches Shoulder abducted 90 8/1358/full abduction, light dumbbell used
+Internal rotation stretches Shoulder abducted 90 8/1358/full abduction, light dumbbell used
+Supraspinatus isolation Shoulder abduction in the plane of the scapula
+Subscapularis Shoulder ﬂexion, scaption with internal or external rotation and abductionTeres minor Prone horizontal abduction and external rotation 90 8, 1208, 1608. Prone horizontal
+adduction with internal rotation 160 8
+Infraspinatus Prone horizontal abduction and external rotation 90 8, 1208, 1608. Prone horizontal
+adduction with internal rotation 160 8
+Serratus anterior Push up with extra push to scapular protractionMiddle and lower trapezius Horizontal abduction with external rotation. Modiﬁed scapular role: pull-down
+machine with movement in 45 8anterior to the frontal plane
+Proprioception and
+functional trainingConscious proprioception of
+humeral and scapular positionConcentration on position of humerus and scapular during strengthening exercises
+and pool drills
+Myotactic stretch reﬂex Upper extremity plyometric exercises—chest, over head and side passing with
+increasing sized medicine balls, and increasing repetitions and speed
+Resistance to swimming stroke Swim bench—however caution against using too early in development as may
+accentuate problems
+ContinuedSoothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 79Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Table 29 Continued
+Study Modality Structure/function Shoulder position/exercise
+Kenal and
+Knapp41Rotator cuff strengthening Rotator cuff Standing/sitting pulley
+Tubing external rotation
+Side-lying external rotation with a hand weight
+Prone horizontal abduction with external rotation
+Empty can exerciseMedicine ball exercises
+Ball bouncing against wall
+Rotator cuff in multiple planes Reciprocal pulleys
+Alphabet drawing supine with hand-held weight
+External rotators especially
+supraspinatusMilitary press (lifting weight over head from shoulder level)
+Pain relief Tape applied to scapula Decrease pain during humeral elevation by assisting normal scapula protraction during
+strengthening exercises
+Mid-scapula muscle
+shorteningRhomboids and middle trapezius Isotonic external rotation and scapular retraction using elastic tubing
+Isometric external rotation and isotonic scapula retraction using elastic tubing
+Joint capsule stretching Posterior capsule stretch Anchor scapula using belt around the chest and over the scapula. Stretch by horizontal
+shoulder adduction.
+Anterior capsule stretch Corner stretch—90 8elbow ﬂexion, 90 8shoulder abduction leaning into a corner,
+stretches anterior muscles and opens subacromial space
+Trapezius strengthening Lower trapezius Scapula depression against resistance using pulleys or tubing
+Massage Biceps tendonitis Transverse friction massage following analgesia for 5–6 minT. Gaunt and N. Maffulli
+80 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+Bak42Causal treatment Stroke analysis and correction Limit extreme abduction and internal rotation—prevents supraspinatus
+impingement—by making earlier arm recovery, greater body roll and less internalrotation at hand entry
+Decrease activity and load During periods of shoulder pain, training and swimming load should be reduced to a
+pain free level by varying between strokes and increasing kick practice
+Use of hand paddles should be avoided
+Use of kick board should be discouraged or used with caution as it brings bothshoulders to continuous abduction, which may aggravate impingement
+Strength training and stretching Improving muscle balance by making use of rubber bands or dynamic exercises to train
+the shoulder in external rotation in varying degrees of abduction
+30
+Medicine ball throwingStretching of shoulder internal rotators using contract-relax-stretch method
+31
+Symptomatic treatment Conservative treatment Application of ice to shoulder after each training session
+Rest period for 2 weeks if pain is constant and preventing rehabilitation
+Medical treatment NSAIDs for resistant shoulder pain
+Intrabursal corticosteroid injection if pain is constant and preventing rehabilitation.
+Arthroscopy Performed at 3–6 months
+Surgical treatment Anterior acromioplasty Used for mechanical impingement
+Subacromial decompression Provides good pain relief
+Inferior capsule shift For anterior–inferior glenohumeral instabilitySoothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 81Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+up for a specified period of time, rather than distance, and increasing
+rest intervals during and between training sessions.39Swimmers should
+not increase distances covered in training by .10% per week.40This
+allows adaptation of soft tissues to increased activity. Swimmers
+should cease activity as soon as symptoms of impingement or returning
+pain occur, so as not to exacerbate any damage.
+Kenal et al.41have reported medical treatment methods for injuries
+in competitive swimmers. They recommend that relative rest, ice and
+non-steroidal anti-inflammatory drugs are of benefit in the acutesetting as a means of reducing inflammation and pain. They also rec-
+ommend a 1 ml betamethasone (6 mg/ml) subacromial injection in
+9 ml of 1% lidocaine to allow faster return to swimming practice.They also make recommendations for rehabilitation (Table 29), and
+recommend that stroke mechanics be reviewed. In front crawl, a good
+rolling stroke should be in place so as not to encourage impingement at
+extreme internal rotation and adduction. Swimmers should also beencouraged to breathe bilaterally to prevent over-stressing the domi-
+nant shoulder, and asymmetrical muscle strengthening and
+development.
+Bak
+42thoroughly described prevention and treatment (Table 29).
+With respect to prevention, swimmers and coaches should be well edu-
+cated on topics such as early injury prevention and detection, togetherwith a multidisciplinary approach including sports therapists and, if
+available, a team doctor.
+43Training methods should concentrate on
+promoting good balance within the stroke and strength training in theshoulder. Strength training should not be commenced in childhood, atleast until the growth plate has fused. Strength training in pre-
+pubescent children is not recommended for several reasons. Firstly,
+they lack sufficient circulating androgens to benefit from strength train-ing. Secondly, athletic children show no benefit when undertaking
+strength training, nor does it reduce the risk of injury. Finally, it may
+in fact cause injury in children.
+44When strength training is introduced,
+it is recommended that it should be in line with bone age.45Stretching
+is advised in swimmers, provided that it is carried out in a non-ballistic
+(bouncing) fashion, as this method activates the muscle spindles.Medical treatment for shoulder pain should take the form of NSAIDsas a first-line treatment when conservative measures have failed, fol-
+lowed by intrabursal corticosteroid injection if pain is constant and
+rehabilitation is hindered. Surgical treatment is only recommended as alast resort, and should be carried out between 3 and 6 months after
+onset of pain if there is no improvement with conservative or medical
+measures. Anterior acromioplasty has been used for mechanicalimpingement,
+46,47with high success rates among patients over the age
+of 40 years who did not partake in any athletic activity. DrawingT. Gaunt and N. Maffulli
+82 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+conclusions regarding treatment for impingement in overhead athletes
+from studies of populations who do not share common activities is
+therefore not recommended. Swimmers can return to their pre-injurylevel after arthroscopic treatment,
+33,35but this is not always the case.48
+Subacromial decompression gives good pain relief, but with poor
+return rates to competitive swimming.48There have been many reports
+of arthroscopy and subacromial decompression in overhead athletes,
+but few specifically involving swimmers. Poor results may be attributed
+to the fact that the actual pathology in swimmers with painfulshoulders might be aggravated by arthroscopic surgical techniques.
+47–
+49Surgery may also be indicated in shoulders with instability, as with
+complete capsule ruptures and Bankart lesions. The most commondirection in unstable shoulders is anterior and inferior. Bigliani et al.
+50
+found that 70% of swimmers returned to swimming at the same level
+after an inferior capsular shift procedure. This procedure yields low
+recurrence rates in shoulders with multidirectional instability.51
+In summary, rehabilitation of swimmers’ shoulder ailments should
+take the form of technique assessment, clinical assessment and correc-
+tion of swimming technique, together with promotion of equilibriumbetween muscles involved in the swimming stroke. If rehabilitation is
+not successful, medical treatment and surgical procedures are available,
+albeit with mixed results, and prevention is better than cure. Educationand early detection of injuries, or contingencies against recurrence of
+injury are essential in training competitive swimmers. The studies out-
+lined in Table 29, although putting forward different techniques for
+assessment and rehabilitation, all strive to reach a common goal, andagree largely on the fundamental principles best outlined by Bak
+42with
+conservative and medical treatment first, and finally surgery as a last
+resort.
+Spine
+Kenal et al.41outline different causes of back pain arising in swimmers.
+Lumbar myofascial strain can result from twisting motions involved in
+flip-turning or when the body does not roll homogeneously during free-
+style. Also, hyperextension of the spine (in technically poor butterflystroke, for example) may increase the likelihood of posterior facet irri-tation. If combined with lateral flexion, it may impinge on the lateral
+facets also. Goldstein et al.
+9showed that disc deformity and spondylo-
+lysis can occasionally occur in swimmers, and Hangai et al .7and
+Kaneoka et al .8demonstrated disc changes in swimmers with back
+pain. Low back pain can also be associated with lumbar spine hyper-
+mobility. This should be addressed in conjunction with increasing ham-string flexibility and strengthening of the trunk muscles, which are also
+often weak in swimmers with back pain. Hamstrings tight enough toSoothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 83Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+prevent a straight leg raise of above 80 8should be stretched. Flexible
+quadriceps muscles should also be encouraged as well as hip flexors. If
+these muscles are tight, they may increase the anterior pelvic tiltleading to an increased load placed on the vertebral facet joints. Bad
+posture is also noted as a cause in competitive swimmers, who exhibit
+genu recurvatum or a posterior pelvic tilt, causing the swimmer to relyon the spinous ligaments instead of muscles. This might be due to tight
+hamstrings, and therefore provides another reason for maintaining
+hamstring flexibility. However, it may also result from bad habit,
+41
+and should be discouraged by coaches. When the swimmer is actively
+suffering from back pain, good posture should be encouraged and use
+of a kick board should be reduced, as it accentuates lumbar lordosisand increases vertebral facet compression.
+Hip
+Swimmers reported that good flexibility52and stretching were useful in
+overcoming groin stress in breaststroke.13However, according to
+Shrier, stretching before activity may not be useful.53With all swim-
+ming injuries, good technique coaching is key to prevention. A widebreaststroke kick is a risk factor for breaststroker’s knee,
+14and might
+also be a factor involved in developing hip adductor injury.13
+Hip adductor injury can cause a sensation of weakness as well as
+pain, which can also lead to missed practice sessions. This weakness or
+even a ‘twinge’ may be an early indicator of adductor strain, or injury,
+and should be taken seriously with a reduction in breaststroke traininguntil the problem has been addressed. Renstrom and Peterson
+54have
+suggested that adductor pain can be relieved by continuing activity, but
+this can subsequently lead to further injury. This reinforces the point of
+reducing breaststroke training during this time.
+More research in this area should show which adductor muscle is
+mostly involved or most at risk of injury in breaststroke swimming.13
+Other research may involve a prospective study of breaststroke swim-
+mers to identify training patterns and injury levels throughout a swim-
+ming season, and what preventative measures may be put in place.
+Knee
+Forces occurring at the knee during the breaststroke kick includevalgus and rotation stresses during the propulsive phase in a technically
+poor, wide kick.
+41Other forces include external tibial rotation, circum-
+duction and knee extension. Also, pushing off the wall after turning
+was an aggravating factor.10Weak quadriceps or hip adductors may be
+at fault in patellofemoral pain, as this leads to a functional genu valgusposition and subsequently increased patellofemoral compression forces
+when pushing off the wall.
+41Strengthening exercises such as leg pressT. Gaunt and N. Maffulli
+84 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+can be used to strengthen weak quadriceps. Hip abductors can be
+strengthened by using stretch cords attached to a static object and
+wrapped around the leg to be strengthened. The patient then abductsthe leg exercising the hip flexors bilaterally. Good flexibility in quadri-
+ceps and hamstrings should be maintained as a preventative measure.
+41
+As with all overuse injuries, prevention should be a priority in all
+training programmes. A good stroke-specific warm-up is essential.10
+During periods of pain, breaststroke kick training should be reduced,10
+and, in a similar fashion to shoulder pain, technique should be studiedand corrected, such as, for example, avoiding pushing off the wall in a
+genu valgus position. Bad posture (such as genu recurvatum) should be
+discouraged, and muscular imbalance should be noted and corrected.
+Limitations
+One limitation to this review is the lack of prospective studies, and the
+small number of participants in the majority of studies reviewed. The
+Coleman methodological score awards points based on the quality ofreporting methods and outcomes, and hence may not fairly represent
+the scientific findings of those studies with low scores. Some articles
+were excluded based on unavailability, and therefore their findings andmethods were not included in the systematic review. There was also
+lack of input from potentially beneficial reports showing rates of injury
+and rehabilitation methods in other overhead athletes, excluded on thebasis of our strict inclusion criteria.
+Future work
+Clinical assessment and examination findings of injuries in swimmersshould be recorded in a more structured way. We recommend a morestructured approach to methods and reporting findings in a more effi-
+cient way, possibly based on the Coleman methodological scoring
+system. This review has identified a number of areas that would benefitfrom greater evidence. Two of the three studies reporting spinalinjuries
+7,8used the same method of classification for lumbar degener-
+ation.23Neither, however, reported pain in the same subjective
+manner. This area would benefit from more research using a commonclassification system, such as the Pfirrmann classification,
+23for lumbar
+degeneration and a common method for reporting lumbar pain in
+swimmers, such as the Oswestry disability index.34We included only
+one study on hip abductor injuries, and hence more research into the
+epidemiology, diagnosis and management of hip injuries in swimmersSoothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 85Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+as a whole is recommended. Joint laxity as a risk factor for injury
+would benefit from further research. We included methods for asses-
+sing joint laxity in the shoulder, and recommend that the Beightonhypermobility grading
+27be applied to the spine, hip and knee, along
+with clinical examination, and use of clinical tools such as the Myrin
+OB Goniometer in assessing joint laxity as a risk factor for injury.Finally, all four strokes used in competitive swimming have evolved
+since most articles regarding swimming injuries were published.
+Therefore, new electromyographic cinematographic studies of the fourstrokes would be of benefit. This would show whether variations in
+muscle pattern activity and recruitment during different phases of each
+stroke still exist between injured and non-injured swimmers, andwhether they are still a risk factor for injury.
+Conclusion
+Research regarding swimming injuries is sub-optimal in terms of meth-odology and reporting clinical findings. Given the scarcity of recent pub-
+lications regarding the treatment and rehabilitation of swimming
+injuries, this field of sports medicine lacks the input from progress inrelated areas of sports medicine, such as that in other overhead athletes.
+Most literature on swimming injuries is directed towards swimmers’
+shoulders and impingement syndrome, and less on other injuries encoun-tered. Most studies identified were retrospective cohort studies. Although
+prospective studies are more expensive and complicated, an effort should
+be made to monitor progress in treatment and rehabilitation of injuredswimmers in this more methodologically sound way. Making compari-sons and conclusions from the current literature is difficult, as many
+articles featured in this review report findings in different ways.
+Treatment and rehabilitation of swimming injuries should be based
+on a common methodology to assess success rates more effectively
+among injured swimmers.
+References
+1 US Bureau of National Statistics. Occupational injuries and illnesses in the United States by
+industry. Bulletin 1990:2368.
+2 Sein ML, Walton J, Linklater J et al . Shoulder pain in Elite swimmers: primarily due to
+swim-volume-induced supraspinatus tendinopathy. Br J Sports Med 2010; 44:105–13.
+3 Rupp S, Berninger K, Hopf T. Shoulder problems in high level swimmers—impingement,
+anterior instability, muscular imbalance? Int J Sports Med 1995; 16:557–62.
+4 Bak K, Faunø P. Clinical findings in competitive swimmers with shoulder pain. Am J Sports
+Med 1997; 25:254–60.
+5 Fredericson M, Ho C, Waite B et al . Magnetic resonance imaging abnormalities in the
+shoulder and wrist joints of asymptomatic athletes. PMR 2009; 1:107–16.T. Gaunt and N. Maffulli
+86 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+6 Wolf BR, Ebinger AE, Lawler MP et al. Injury patterns in division 1 collegiate swimmers.
+Am J Sports Med 2009; 37:2037–42.
+7 Hangai M, Kaneoka K, Hinotsu S et al. Lumbar intervertebral disk degeneration in athletes.
+Am J Sports Med 2009; 37:149–55.
+8 Kaneoka K, Shimizu K, Hangai M et al. Lumbar intervertebral disk degeneration in elite
+competitive swimmers: a case control study. Am J Sports Med 2007; 35:1341–45.
+9 Goldstein JD, Berger PE, Windler GE et al. Spine injuries in gymnasts and swimmers. An epi-
+demiologic investigation. Am J Sports Med 1991; 19:463–68.
+10 Rovere GD, Nichols AW. Frequency associated factors and treatment of breaststrokers knee
+in competitive swimmers. Am J Sports Med 1985; 13:99–104.
+11 Knobloch K, Yoon U, Kraemer R et al. 200–400 m breaststroke event dominate among knee
+overuse injuries in elite swimming athletes. Sportverletz Sportschaden 2008; 22:213–19.
+12 Vizsolyi P, Taunton J, Robertson G et al. Breaststroker’s knee. An analysis of epidemiological
+and biomechanical factors. Am J Sports Med 1987; 15:63–71.
+13 Grote K, Lincoln TL, Gamble JG. Hip adductor injury in competitive swimmers. Am J
+Sports Med 2004; 32:104–8.
+14 Stulberg SD, Schulman K, Stuart K et al. Breaststroker’s knee: pathology, etiology and treat-
+ment. Am J Sports Med 1980; 8:164–71.
+15 Coleman BD, Kahn KM, Maffulli N et al. Studies of surgical outcome after patellar tendino-
+pathy: clinical significance of methodological deficiencies and guidelines for future studies.
+Scand J Med Sci Sports 2000; 10:2–11.
+16 Papalia R, Osti L, Del Buono A et al. Tibial inlay for posterior crutiate ligament reconstruc-
+tion: a systematic review. Knee 2010; 17:264–69.
+17 Tallon C, Coleman BD, Kahn KM et al. Outcome of surgery of chronic Achilles tendinopa-
+thy. A critical review. Am J Sports Med 2001; 29:315–20.
+18 Schepers T. The sinus tarsi approach in displaced intra-articular calcaneal fractures: a sys-
+tematic review. Int Orthop 2011; 19[epub ahead of print].
+19 Benthien JP, Schwaninger M, Behrens P. We do not have evidence based methods for the
+treatment of cartilage defects in the knee. Knee Surg Sports Traumatol Arthrosc
+2011; 19:543–52.
+20 Harris JD, Siston RA, Pan X et al . Autologous chondrocyte implantation: a systematic
+review. J Bone Joint Surg Am 2010; 15:2220–33.
+21 Jansson A, Saartok T, Werner S et al. Evaluation of general joint laxity, shoulder laxity and
+mobility on competitive swimmers during growth and in normal controls. Scand J Med Sci
+Sports 2005; 15:169–76.
+22 Borsa PA, Scibek JS, Jacobson JA et al. Sonographic stress measurement of glenohumeral
+joint laxity in collegiate swimmers and age matched controls. Am J Sports Med
+2005; 33:1077–84.
+23 Pfirrmann CW, Metzdorf A, Zanetti M et al. Magnetic resonance classification of lumbar
+intervertebral disc degeneration. Spine 2001; 26:1873–8.
+24 Beach ML, Whitney SL, Dickoff-Hoffman S. Relationship of shoulder flexibility, strength and
+endurance to shoulder pain in competitive swimming. J Orthop Sports Phys Ther
+1992; 16:262–68.
+25 Torres RR, Gomes JL. Measurement of glenohumeral internal rotation in asymptomatic
+tennis players and swimmers. Am J Sports Med 2009; 37:1017–23.
+26 McMaster WC, Roberts A, Stoddard T. A correlation between shoulder laxity and interfering
+shoulder pain in competitive swimmers. Am J Sports Med 1998; 26:83–6.
+27 Beighton P, Solomon L, Soskolne CL. Articular mobility in an African population. Ann
+Rheum Dis 1973; 32:413–8.
+28 Gerber C, Ganz R. Clinical assessment of instability of the shoulder: with special reference to
+anterior and posterior drawer tests. J Bone Joint Surg Br 1984; 66:551–6.
+29 Boublick M, Hawkins RJ. Clinical examination of the shoulder complex. J Orthop Sports
+Phys Ther 1993; 18:379–85.
+30 Scovazzo ML, Browne A, Pink M et al. The painful shoulder during freestyle swimming. An
+electromyographic cinematographic analysis of twelve muscles. Am J Sports Med
+1991; 19:577–82.Soothing suffering swimmers: a systematic review
+British Medical Bulletin 2012; 103 87Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+
+31 Ruwe PA, Pink M, Jobe FW et al. The normal and painful shoulders during breaststroke
+swimming. An electromyographic cinematographic analysis of twelve muscles. Am J Sports
+Med 1994; 22:789–96.
+32 Pink M, Jobe FW, Perry J et al. The painful shoulder during the butterfly stroke. An electro-
+myographic cinematographic analysis of twelve muscles. Clin Orthop Relat Res
+1993; 288:60–72.
+33 Brushøj C, Bak K, Johannsen HV et al. Swimmers’ painful shoulder arthroscopic findings
+and return rates to sports. Scand J Med Sci Sports 2007; 17:373–7.
+34 Hudson-Cook N, Tomes-Nicholson K, Breen A. A revised Oswestry disability questionnaire.
+In: Roland M, Jenner JR (eds). Back Pain: New Approaches to Rehabilitation and Education .
+Manchester: Manchester University Press, 1989,187–204.
+35 Tibone JE, Jobe FW, Kerlan RK et al. Shoulder impingement syndrome treated by an anterior
+acromioplasty. Clin Orthop Relat Res 1985; 198:134–40.
+36 Allegrucci M, Whitney SL, Irrgang JJ. Clinical implications of secondary impingement in the
+shoulder in freestyle swimmers. J Orthop Sports Phys Ther 1994; 20:307–18.
+37 Smith RL, Brunolli J. Shoulder kinesthesia after anterior glonohumeral joint dislocation. Phys
+Ther 1989; 69:106–12.
+38 Lephart SM, Warner JP, Borsa PA et al. Proprioceptive and kinesthetic awareness in individ-
+uals with shoulder instability. In: Presented at the Annual Meeting of American Orthopaedic
+Society for Sports Medicine, Sun Valley ID, 12–15 July 1993.
+39 Falkel JE, Murphy TC. Common injuries of the shoulder in athletes. In: Malone TE (ed).
+Shoulder Injuries. Sport Injury Management , Vol. 1. No. 2. Baltimore, MD: Williams &
+Wilkins, 1988,66–108.
+40 Johnson JE, Sim FH, Scott SG. Musculoskeletal injuries in competitive swimmers. Mayo Clin
+Proc 1987; 62:289–304.
+41 Kenal KAF, Knapp LD. Rehabilitation of injuries in competitive swimmers. Sports Med
+1996; 22:337–47.
+42 Bak K. Nontraumatic glenohumeral instability and coracoacromial impingement in swim-
+mers. Scand J Med Sci Sports 1996; 6:132–44.
+43 Ekstrand J. Soccer injuries and their prevention. Linkoping University. Medical Dissertations
+No. 130. Sweden: Linkoping, 1982.
+44 Duda M. Prepubescent strength training. Swim Technol 1986:23–6.
+45 Micheli L. The traction apophysities. Clin Sports Med 1987; 6:389–404.
+46 Neer CS. Anterior acromioplasty for the chronic impingement syndrome in the shoulder. J
+Bone Joint Surg Am 2005; 87:1399.
+47 Burns TP, Turba JE. Arthroscopic treatment for shoulder impingement in athletes. Am J
+Sports Med 1992; 20:13–6.
+48 Fu FH, Harner C, Klein AH. Shoulder impingement syndrome—a critical review. Clin
+Orthop Relat Res 1991; 269:162–73.
+49 Fly WB, Tibone JE, Glousman RE et al. Arthroscopic subacromial decompression in athletes
+less than 40 years old. Am J Sports Med 1997; 25:299–305.
+50 Bigliani LU, Kurzweil PR, Schwartzbach CC et al . Inferior capsular shift procedure for
+anterior-inferior shoulder instability in athletes. Am J Sports Med 1994; 22:578–84.
+51 Neer CS, Foster CR. Inferior capsular shift for involuntary and multidirectional instability of
+the shoulder. J Bone Joint Surg Am 2001; 83-A :1586.
+52 Jagomagi G, Jurimae T. The influence of anthropometrical and flexibility parameters on the
+results of breaststroke swimming. Anthropol Anz 2005; 63:213–9.
+53 Shrier I. Should people stretch before exercise? West J Med 2001; 174:282–3.
+54 Renstro ¨m P, Peterson L. Groin injuries in athletes. Br J Sports Med 1980; 14:30–6.T. Gaunt and N. Maffulli
+88 British Medical Bulletin 2012; 103Downloaded from https://academic.oup.com/bmb/article/103/1/45/340981 by guest on 12 August 2024
+

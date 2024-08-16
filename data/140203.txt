@@ -1,0 +1,595 @@
+This item is the archived peer-reviewed author-version of:
+Musculoskeletal dysfunctions associated with swimmers shoulder
+Reference:
+Struyf Filip
+, 
+Tate Angela
+, 
+Kuppens Kevin
+, 
+Feijen Stef
+, 
+Michener Lori A.
+.- 
+Musculoskeletal dysfunctions associated with
+swimmers shoulder
+British journal of sports medicine
+ - 
+ISSN 0306-3674
+ - 
+(2017), p. 1-17
+ 
+Full text (Publishers DOI): http://dx.doi.org/doi:10.1136/BJSPORTS-2016-096847 
+To cite this reference: http://hdl.handle.net/10067/1402030151162165141
+Institutional repository IRUA
+ 1 Musculoskeletal dysfunctions associated with swimmers’ shoulder  1 
+ 2 
+Filip Struyf1, Angela Tate2, Kevin Kuppens1,3, Stef Feijen1, Lori A Michener4 3 
+ 4 
+1Department of Rehabilitation Sciences and Physiotherapy, Faculty of Medicine and Health 5 
+Sciences, University of Antwerp, Belgium  6 
+2Department of Physical Therapy, Arcadia University, Glenside, PA.  7 
+3Department of Physiotherapy, Human Physiology and Anatomy, Faculty of Physical 8 
+Education & Physiotherapy, Vrije Universiteit Brussel, Belgium;  9 
+4Division of Biokinesiology and Physical Therapy, University of Southern California, Los 10 
+Angeles, CA  11 
+ 12 
+ 13 
+Key Words: Swimming; Shoulder; Review  14 
+ 15 
+Number of Pages:  17 16 
+There are no competing interests  to declare  17 
+Acknowledgements: N/A  18 
+No funding was received for the preparation of this manuscript.  19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+Corresponding author: Filip Struyf, PhD. Faculty of Medicine and Health Sciences, University 25 
+of Antwerp, Belgium; Universiteitsplein 1, 2610 Wilrijk, Bel gium, Tel +32 3 821 46 99, Fax: 26 
++32 3 265 25 01; Filip.struyf@uantwerpen.be  27 
+ 2 ABSTRACT  28 
+Shoulder pain is the most reported area of orthopaedic injury in swimmers. The so -called 29 
+“swimmers’ shoulder” has been applied to a variety of complaints involving shoulder pain in 30 
+swimmers without specific reference to contributing mechanisms  or structures . Knowledge 31 
+of dysfunctions associated with swimm ers’ shoulder  can assist clinicians in developing 32 
+rehabilitation stra tegies. This literature review aims to providing clinicians insight into the 33 
+musculoskeletal mechanisms and impairments  associated with swimmers’ shoulder  that 34 
+could aid them in developing rehabilitation strategies . The following musculoskeletal 35 
+dysfunctio ns will be discussed: muscle activity, strength, endurance, muscle control , range of 36 
+motion, glenohumeral laxity, glenohumeral instability, shoulder posture, scapular dyskinesis. 37 
+The findings of this review may have implications for the swimmer , their coac h, and the 38 
+rehabilitation specialist working with swimmers . 39 
+ 40 
+ 41 
+ What is already known ? 42 
+1. The voluminous quantity of shoulder revolutions in swimmers can easily overload soft 43 
+tissue structures around the shoulder and lead to pain at rest as well as during daily activities 44 
+and swimming.  45 
+2. The so -called “swimmers’ shoulder” is a term that has generally been used to describe a 46 
+syndrome with anterior shoulder pain elicited by repetitive impingement of the rotator cuff 47 
+under the coracoacromial arch.  48 
+3. The hete rogeneity of ‘swimmers’ shoulder’ and lack of knowledge regarding the etiology 49 
+has reduced the ability to define and devise successful interventions.  50 
+ 51 
+What are the new findings ? 52 
+1. Reduced shoulder and core trunk endurance is present with swimmers who report 53 
+shoulder pain, but it is unclear if poor endurance is a cause or effect.  54 
+2. It is unclear whether laxity predisposes swimmers to pain or if it occurs in symptomatic 55 
+swimmers as a  result of cumulative microtrauma . 56 
+3. Swimming may alter scapular position, but it is unclear if these changes are related to the 57 
+development of shoulder pain.  58 
+ 59 
+ 3  60 
+INTRODUCTION  61 
+Swimming is a unique sport combining endurance , strength  and control  in a non - 62 
+weight bearing environment. Highly repetitive upper extremity overhead movements 63 
+provide the majority of the propulsive forces for all four main strokes: freestyle, butterfly, 64 
+breaststroke and backstroke [1]. Elite swimmers may swim up to 14.000 meters each day, 65 
+which requires  more than 2500 shoulder revolutions per day [2] or up to 16.000 shoulder 66 
+revolutions per week. This voluminous quantity  of shoulder revolutions can easily overload 67 
+soft tissue structures around the shoulder  and lead to pain at rest  as well as during daily 68 
+activities and swimming . Shoulder pain  occurs frequently  and is the most reported area of 69 
+orthopaedic injury in swimmers. Prevalence rates  of the so -called swimmers’ shoulder can 70 
+be as high as  91% i n competitive swimmers [3-5]. Rates vary, depending on age, level of 71 
+competition, swim stroke, amount of training, time of season and the definition of shoulder 72 
+pain . Symptoms may begin at an early age with 21% of swimmers aged 8 -11 reporting 73 
+significant pain , but h igh school swimmers  were found to be the most symptomatic  age 74 
+category  [6],[7]. A belie f even exists that shoulder pain is normal and should be tolerated to 75 
+complete practice [8]. In fact, a  study of high school competitive swimmers revealed that 76 
+72% used pain medication to manage their shoulder pain during practice, with 47% reporting 77 
+regular medication use [9]. Shoulder symptom prevalence rates in competitive swimmers 78 
+can be some of the highest in competitive sports , and may lead to termination of sports’ 79 
+participation [9]. The functional performance scores for active swimmers are even reported 80 
+to be quite similar  to those seen in injured athletes in other sports  [10]. 81 
+The so -called “swimmers’ sh oulder” is a term that has generally been used to describe  a 82 
+syndrome with anterior shoulder pain elicited by repetitive impingement of the rotator cuff 83 
+under the coracoacromial arch  [6 11-13]. However, this term has been applied to a variety of 84 
+complaints involvi ng shoulder pain in swimmers without specific reference to contributing 85 
+mechanisms  or structures . Typically, this diagnosis has been labelled ‘impingement 86 
+syndrome’.  Because the mechanism may not be impingement of the rotator cuff, other 87 
+terminology has been suggested to include subacromial pain syndrome, rotator cuff related 88 
+pain, and rotator cuff di sease to name a few [14-16]. In addition, the swimmers’ shoulder 89 
+may reflect many other  causes of shoulder pain located outside  the subacromial space . The 90 
+heterogeneity of ‘swimmers’ shoulder’ and lack of knowledge regarding the etiology has 91 
+ 4 reduc ed the ability to define and devise  successful interventions. Suggested  92 
+pathophysiological impairments  include  reduced endurance, incoordination or weakness of 93 
+the shoulder muscles, a lack of scapular stability, poor posture , lack of core stability  and 94 
+altered shoulder and spinal  mobility  [4 5 11 17], which may predispose swimmers to the 95 
+development of swimmer’s shoulder [17]. Knowledge of dysfunctions associated with 96 
+swimm ers’ shoulder  can assist clinicians in developing rehabilitation strategies. Although 97 
+impairments associated with shoulder pain in swimmers have been studied, there is a lack of 98 
+prospective research identifying  the risk factors for the development of swimmers’ shoulde r. 99 
+Moreover, i t is not clear to what exten t these associated fact ors are the cause or effect of 100 
+the swimmers’ shoulder pain , or if the impairment is a sport -specific adaptation needed for 101 
+high level swimming performance .  102 
+A critical review  of the dysfunctions in swimmers with shoulder pain will provide the 103 
+necessary understanding to assess and develop rehabilitation programs based on 104 
+impairment s. It has been suggested that the primary cause of shoulder pain in swimmers is 105 
+impingement of the subacromial structures  [12], however the pathology alone does not 106 
+define  strategies for rehabilitation  [18]. Consequently, this literature review aims to 107 
+providing clinicians insight into the musculoskeletal mechanisms and impairments  associated 108 
+with swimmers’ shoulder  that could aid them in developing rehabilitation strateg ies. 109 
+ 110 
+MUSCLE PERFORMANCE  AROUND THE SWIMMERS’ SHOULDER  111 
+Several  studies have investigated musc le performance  in swimmers suffering  from 112 
+shoulder pain . Muscle performance  is a broad term covering  muscle activity , strength, 113 
+endurance,  and control . Knowledge of  muscle performance  is necessary for monitoring 114 
+disease progression or the development of secondary disorders in clinical p ractice [19]. 115 
+Some studies have analyzed muscle activity  throughout the different phases of a swimming 116 
+stroke  using  electromyography  and cinematographic  analysis during freestyle and 117 
+breaststroke swimming in swimmers with and without shoulder pain [20 21]. During 118 
+freestyle swimming, the rhomboids, upper trapezius, anterior deltoid and middle deltoid 119 
+were less active in swimmers  with shoulder pain during the hand entr y phase than the 120 
+unimpaired controls. The serratus  anterior demonstrated less activity during the pulling 121 
+phase , while the rhomboids beco me more active than in the controls . In addition, in 122 
+ 5 symptomatic swimmers, the anterior and middle deltoid demonstrated less activity during 123 
+the hand -exit phase , while the infraspinatus bec ame  overactive  [20]. Finally, the mid- 124 
+recovery  phase was characterized by reduced activity of the s ubscapularis muscle  in painful 125 
+shoulders  [20]. During breaststroke swimming, decreas ed teres minor activity was found 126 
+during the pulling phase  in painful shoulders  [21].  During the mid - recovery phase, there 127 
+was decreased activity of the middle deltoid, upper trapezius and supraspinatus and 128 
+increased activity  of the infraspinatus  in swimmers with painful shoulders  [21]. Finally, the 129 
+subscapularis  demonstrated a significant ly increased activity during the pulling phase in 130 
+those with shoulder pain compar ed to the unimpaired controls  [21]. In addition, Wadsworth 131 
+et al. [22] found  increased intra -subject variability in the recruitment of scapulothoracic 132 
+muscles in swimmers with shoulder pain when contrast ed to swimmers  without pain . Prior 133 
+to shoulder movement, the upper trapezius is activated, followed by serratus anterior 134 
+immediately after motion begins. After approximately 15° of shoulder elevation, the lower 135 
+trapezius is recruited [22]. Swimmers with a shoulder injury demonstrated the same 136 
+sequence , but with more intra -subject variability  [22].  In addition, they  suggested that 137 
+swimmers with shoulder pain on one side might have muscle performance deficits on their 138 
+unaffected side  [22]. 139 
+In addition to muscle activity , several researchers have highlighted the importance of 140 
+muscle imbalances between internal (IR) and external rotation (ER)  shoulder strength . 141 
+Competitive swimmers present with a significant lower ER:IR ratio compared to non - 142 
+swimmers [23] due to stronger IR strength . However, this ratio  is not seen in those w ith 143 
+shoulder pain . It is unclear if the  swimmer produces less IR strength due to inhibition from 144 
+pain  or if the muscle ratio imbalance is an attempt  to remain pain free . Swimmers with 145 
+shoulder pain tend ed to have lower concentric and eccentric IR strength in the painful 146 
+shoulder  in one study [24], but others [11 25] did not find any difference in strength 147 
+between swimmers having shoulder pain and unimpaired swimmers.  A systematic review on 148 
+the risk factors for developing shoulder pain in swimmers confirmed these findings and 149 
+stated that there is  insufficient evidence  that IR or ER  strength is a risk factor for shoulder 150 
+pain in  swimmers  [13]. 151 
+In order to identify factors that differentiate swimmers with and without shoulder 152 
+pain  and disability , Tate et al. [6] studied 236 female competitive swimmers. They found that 153 
+ 6 young (12 -14 year  old) swimmers with shoulder pain and disability had  significant ly less core 154 
+endurance (measured by the time held during the side bridge position) than their less 155 
+symptomatic colleagues.  Beach et al.  [11] support  these findings by reporting that shoulder 156 
+muscle endurance for abduction and external rotation was negatively correlated with 157 
+shoulder pain in swimmers. In summary, reduced shoulder and core trunk endurance is 158 
+present with swimmers who report  shoulder pain , but it is unclear if poor endurance is a 159 
+cause or effect .  160 
+ 161 
+SHOULDER RANGE OF MOTION  162 
+Several  studies investigated  the relationship between glenohumeral joint (GH) flexibility and 163 
+shoulder pain  in swimmers . Most studies did  not find any significant association between 164 
+shoulder pain and shoulder joint flexibility  [11 24 25]. There were 2 studies  [6 26] that 165 
+reported a relationship between altered GH ROM and shoulder pain. I n a 12 -month 166 
+prospective cohort study in 74 swimmers, Walker et al. [26] found that swimmers with a 167 
+high (≥ 100°) or low (< 93°) ER  ROM ha d an increased risk of developing shoulder pain , but 168 
+no relationship  between IR ROM  and shoulder pain. In contrast, Tate et al. [6] found  a 169 
+relation ship between reduced shoulder flexion and IR ROM  and sh oulder pain  in female 170 
+swimmers aged 8-11 years . ROM  was assessed using an inclinometer with the participant 171 
+lying supin e[6]. These findings are confirmed by the systematic review of Hill et al. [13], 172 
+which demonstrated with moderate certainty that there is sufficient evidence  that reduced 173 
+shoulder IR ROM  and either  increased or decreased ER ROM  (measured with either a 174 
+goniometer or inclinometer)  is a risk factor for shoulder pain in swimmers. However, recent 175 
+studies in an overhead athlete population have highlighted that different methods exist for 176 
+analyzing shoulde r ROM for the classification of a shoulder at risk [27 28]. In addition,  these 177 
+measures should not be used interchangeably [27 28]. These methods include Glenohumeral 178 
+Internal Rotation Deficit (GIRD), Total Rotational Range of Motion (TRROM) and humeral 179 
+torsion [27]. However, to the best of our knowledge, no studies examined humeral torsion in 180 
+a swimming population.  181 
+ 182 
+GLENOHUMERAL LAXITY AND INSTABIL ITY 183 
+ 7 Using clinical laxity tests, several authors have found that, in comparison to other athletes, 184 
+greater GH laxity exists in competitive swimmers  [1 23 29 30]. However, GH laxity may be 185 
+defined as increased humeral head  translation , but  without any complaints  of shoulder pain 186 
+[29]. In addition , laxity can exceed  this physiologic boundar y and give rise to complaints  187 
+(pathologic  laxity)  when not controlled, resulting in glenohumeral instability [29]. Moreover, 188 
+there i s greater laxity in elite swimmers than in recreational swimmers  [30]. McMaster  et al. 189 
+[29] examined 40 high level competitive swimmers , of whom 35% (n=14) reported 190 
+interfering shoulder pain. T he presence of GH laxity was clinically examined with the  sulcus 191 
+sign, ant erior and posterior drawer test s. All clinical tests evaluated humeral head excursion , 192 
+and the presence of apprehension.  There was a significant positive correlation between the 193 
+presence of pain and the clinical tests  for GH laxity within these competitive  swimm ers. 194 
+Rupp et al. [23] clinically examined 22 competitive swimmers and compared them with a 195 
+non-overhead sporting population. Sixty -four percent (n=14) of all swimmers reported 196 
+shoulder pain. Half of all swimmers (n=11)  -of which 8 had a positive Hawkins test - had a 197 
+positive apprehension sign. Indications of GH instability were supported by Bak & Fauno [31] 198 
+who studied 36 competitive swimmers (72 shoulder s) of which 68% of shoulders were 199 
+painful.  Although no clear statistical significance could be noted, 21 shoulders presented 200 
+with a positive apprehension signs. Nineteen painful shoulders demonstrated a positive 201 
+anterior drawer test, 16 a positive sulcus sign. Finally, Sein et al. [1] studied 80 competitive 202 
+swimmers ; 54%  reported unilateral shoulder pain, 37% reported bilateral shoulder pain and 203 
+only 9% reported no shoulder pain. Many swimmers had mild anterior translation (61%),  204 
+posterior translation (33%), or a positive  the sulcus sign (51%) . Shoulder laxity correlated  205 
+positively with a greater  IR ROM . However, although laxity was correlated with the 206 
+swimmers’ amount of pain, Sein et al. did not find a strong correlation  with the swimmers’ 207 
+level of competition or hours of training. The latter did relate  to the incidence of 208 
+supraspinatus tendinopathy  on magnetic resonance imaging.  Current evidence suggests 209 
+uncertainty regarding GH  laxity or instabi lity being a risk factor for shoulder pain in 210 
+swimmers  [13] Although frequently identified in s wimmers, it is unclear whether laxity 211 
+predisposes swimmers to pain or if it occurs in symptomatic swimmers as a result of 212 
+cumulative microtrauma .  213 
+ 214 
+ 8 SHOULDER POSTURE  215 
+Shoulder posture can be defined by the general shoulder or specific humeral head 216 
+position. A prospective study by Mckenna  et al. [7] investigated whether humeral head 217 
+position is predictive of the development of shoulder pain in competitive swimmers. They 218 
+studied 46 adolescent swimmers. They  concluded  that swimmers who ha d a greater 219 
+posterior humeral head position  (larger distance between the anterior humeral head and 220 
+the anterior edge of the acromion ) were more likely to  develop shoulder pain.  As highlighted 221 
+by the authors [7], it is currently  unknown whether the more posteriorly positioned humeral 222 
+head (in relation to the acromion) is due to a change in the acromion  position (more 223 
+anterior) or the humeral  head  position (more posterior) .  224 
+Because th e pectoralis minor muscle  attaches anteriorly to the scapula , shortening of 225 
+this muscle has been related to an altered scapular position and to the prevalence of 226 
+shoulder pain [32 33]. It has been suggested  that the pectoralis minor muscle length is 227 
+affected by repetitive use, which is often  seen on the dominant side in overhead 228 
+athletes [34]. Consequently, the pectoralis minor muscle length is often stud ied when 229 
+investigating  altered  shoulder posture [35]. Tate et al. [6] found a reduced resting length of 230 
+the pectoralis minor in the high school swimmers with shoulder pain and disability in 231 
+contrast to their pain -free controls. These findings are supported by a cross -sectional study 232 
+in 37 female collegiate swimmers of Harrington et al.[25] who also re ported a shorter  233 
+pectoralis minor muscle length in swimmers with shoulder pain and disability in contrast to  234 
+an unimpaired control  group . In summary, current evidence suggests that an anteriorly tilted 235 
+scapular position (and potentially shortened pectoralis minor muscle) may play a 236 
+predisposing role in the development of shoulder pain in swimmers . 237 
+ 238 
+SCAPULAR DYSKINESIS  239 
+Abnormalities in scapular position and scapular motion – termed scapular dyskinesis 240 
+– have been linked to shoulder pain [36]. In swimmers, the results are  mixed . Tate et al . [6]. 241 
+found that the prevalence of obvious scapular dyskinesis was not different between those 242 
+with and without significant shoulder pain  and disability . Interestingly, Tate et al. [6] did find 243 
+greater middle trapezius muscle weakness in swimmers with painful shoulders , but not in 244 
+other scapular muscles.  A critical threshold of altered scapular muscle activity or control 245 
+ 9 may be necessary to result in visually altered scapular motion and shoulder pain. Mckenna ’s 246 
+et al. [7] prospective study determined that altered scapular position was predictive for the 247 
+development of shoulder pain in competitive swimmers. Specifically, those with a more 248 
+protracted scapular position (larger distance between the spinous process of the seventh 249 
+thoracic vertebrae (T7) and the most inferior point of the sca pula ) were predictive for the 250 
+development of shoulder pain in swimmers.  Given these findings, it is unclear if scapular 251 
+dyskinesis is involved in the etiology of shoulder pain or results from the repetitive  252 
+swimming mechanism.  253 
+The effects of swimming on scapular motion has been studied by Su et al. [37] by 254 
+measur ing scapular upward rotation in swimmers with and without impingement syndrome 255 
+(n=40) before and after  a 1–2 hour  practice  session . There was a  decrease in scapular 256 
+upward rotation at 45°, 90° and 135° elevation in those with shoulder impingement  after 257 
+practice, but not for the healthy swimmers. However, based on this study [37], it is n ot clear 258 
+whether the decrease in scapular upward rotation result ed in a meaningful decrease in 259 
+subacromial space , which could  mechanistically relate to the  impingement symptoms . 260 
+Interestingly, both groups revealed significant reduction (13 -14%) in strength  after the 261 
+practice session, but there were no between -group differences.   Likewise, Crotty & 262 
+Smith [38] studied the effect of an intense swimming exercise on scapular position in male 263 
+high school swimmers. However, based on their scapular assessment technique, a fatiguing 264 
+exercise protocol failed to demonstrate significant changes in scapular position. Rega rding 265 
+its predisposing role, there is insufficient evidence that scapular dyskinesis  is a risk factor for 266 
+shoulder pain in swimmers  [13]. Swimming may alter scapular position, but it is unclear if 267 
+these changes are related to the development of shoulder pain.  268 
+ 269 
+PUTTING IT AL  TOGETHER: MECHANISMS AND IMPAIRMENTS THAT MAY RELATE TO 270 
+SHOULDER PAIN IN SWIMMERS  271 
+The aim of this review was to investigate the musculoskeletal dysfunctions theorized 272 
+to be associated with swimmers’ shoulder. The findings of this review have implications for 273 
+the swimmer , their coach , and the rehabilitation specialist working with the sw immers 274 
+either after they develop shoulder pain or in a preventative role . However, because of the 275 
+non-systematic nature of this review, together with a clear lack of well -powered longitudinal 276 
+ 10 prospective studies, it is difficult to generalize the results for practice in the evaluation and 277 
+treatment of swimmers . Table 1 summarizes the key findings in swimmers with shoulder 278 
+pain.  279 
+ 280 
+Table 1: Differences in musculoskeletal function in swimmers with shoulder pain versus the unimpaired 281 
+swimmer.  282 
+Shoulder muscle performance  
+   muscle activity during freestyle 
+swimming  less activity of UT, R, AD, MD (hand entry); less activity of SA; higher activity of R (pulling phase); less activity of AD &  MD;  
+higher activity of IS (hand exit);  less activity SSc (mid -recovery)  
+muscle activity during breaststroke 
+swimming  less activity of Tmi; higher activity of SSc (pulling phase); less activity of MD, UT, SSp; higher activity of IS (mid -recovery)  
+  Muscle strength  Tendency of reduced IR strength (18)  
+   Muscle endurance at the shoulder  less AB & ER endurance (9)  
+  Core endurance  less core endurance (6)  
+  Shoulder range of motion  higher (≥ 100°) or lower (< 93°) ER ROM (20); reduced shoulder flexion and IR ROM (6)  
+  Glenohumeral laxity & instability  greater GH laxity & instability (1, 17, 21, 22)  
+  Shoulder posture  greater posterior  humeral head position (7); shorter PM (6, 19)  
+  Scapular dyskinesis  tendency to  greater incidence of SD  (7); decreased scapular upward rotation after swim practice (29) 
+  Abbreviation: GH= glenohumeral; ER= External Rotation; ROM= Range of motion; SD= scapular dyskinesis; AB= abduction; IR= inte rnal rotation; PM= pectoralis minor; UT=Upper Trapezius;  
+R=Rhomboids; AD=anterior deltoid; MD=middle deltoid; SA=Serratus Anterior; IS=Infraspinatus; SSc=subscapularis;SSp=Supraspinatus Tmi=Teres Minor  
+ 283 
+First, this review did not focus on other  than musculoskeletal factors , which may 284 
+contribute to shoulder pain and disability , such as stroke technique, breathing pattern, swim 285 
+yardage  or body composition . Second, most studies were  retrospective  or cross -sectional in 286 
+design, which make it difficult to resolve the cause or effect question. However, based on 287 
+the presented evidence, there appear s to be collective themes of asso ciated dysfunction s in 288 
+swimmers .  This evidence may benefit the development of  rehabilitation strateg ies and 289 
+prevention programs, rather than the use of a single label of swimmers’ shoulder. The 290 
+musculoskeletal  dysfunctions highlighted in this review  requi re further study, and in 291 
+particular the use of prospective longitudinal research  designs . Regarding muscle 292 
+performance , a compensatory muscle activation strategy may be employed in order to try to 293 
+maintain optimal motor output  in painful shoulders . These strategies  may vary from subtle 294 
+changes in sharing of load with the synergist muscles , to a complete avoidance of a 295 
+movement. Redistribution of muscle activity  to synergist muscles  has been demonstrated in 296 
+non-swimming individuals with shoulder pain [39-42]. In swimmers after swim practice, a  297 
+significant reduction of force (measured with a handheld dynamometer) has been 298 
+ 11 demonstrated for a variety of shoulder movements [24 37]. A reduction in muscle force has 299 
+also concurrently been found in swimmers with altered scapular motion after swim practice. 300 
+In addition, it is still a matter of debate on how to interpret muscle activity (EMG) results , 301 
+and also how to transfer the  findings to clinical practice.  302 
+As highlighted by Beach et al. [11], ER ROM might not be limited; but rather the IR 303 
+ROM is limited. This phenomenon, in which the overhead athlete has a GH IR decrease, is 304 
+described  as GIRD (Glenohumeral Internal Rotation Deficit) [43]. Shanley et al. [44] found 305 
+that a loss of IR >25° was predictive for an arm injury in the overhead baseball athlete s. 306 
+However, GIRD is labelled on a left -to-right difference often seen in unilateral overhead 307 
+athletes . A side to side difference in IR ROM may not be  present or  as great in swimmers  due 308 
+to equal or nearly equal upper extremity use bilaterally . It is suggested that  because 309 
+swimming has no abrupt deceleration as other overhead sports, posterior tightness might 310 
+occur at an older age  [45]. However, caution should be used in interpreting the results of 311 
+Torres and colleagues , as their subjects were recreational swimmers who likely incur 312 
+reduced repetitive shoulder use compared to young er competitive swimmers. Tate et al. [6] 313 
+and Walker et al.  [26] hypothesized that there may be an ideal range of flexibility  needed to 314 
+swim without developing a shoulder injury . According to Walker et al. this could be within 315 
+the range of 93°-100°  for ER ROM . As IR ROM was not predictive for pain in Walkers’ study, it 316 
+is difficult to  recommend  an ideal IR ROM. In addition, age groups present with different 317 
+ROM, their guidelines for an ideal ROM should be based on age categories and gender [6]. 318 
+However, as mentioned above, caution must be taken when interpreting t hese results. 319 
+Whitely and Oceguera [27] recently explained the impact of humeral torsion on IR and ER 320 
+ROM measurements. Humeral torsion is described as the amount of bony twist about the 321 
+long axis of the humerus. Grea ter ER torsion (retrotorsion) will increase ER ROM  and vis a 322 
+versa [27]. To date , it is still unknown as to  what extent humeral torsion is clinically 323 
+important in a swimming population. It is indeed sugge sted that humeral torsion is likely a 324 
+result of throwing [27]. Therefore, we conclude that alterations in shoulder rotational and 325 
+flexion ROM are seen in swimmers with shoulder pain, but we cannot univocally conclude 326 
+that these deficits  are a risk factor  for developing shoulder pain.  327 
+An increase in glenohumeral motion in the form of laxity and instability are present in 328 
+those swimmers with shoulder pain. However , caution should be taken  before  interpreting 329 
+ 12 results concerning glenohumeral laxity and instability  tests . The criteria used for labeling a 330 
+test result as positive for laxity is excessive humeral head translation . Laxity alone is not 331 
+symptomatic. Laxity may be a related mechanism leadin g to overload of shoulder 332 
+musculature or other soft tissues. The criterion to confirm symptomatic GH instability is 333 
+apprehension, which is suggested to be  a strong and reliable clinical sign for glenohumeral 334 
+instability [46 47].  335 
+Current evidence showed moderate certainty that forward shoulder posture due to 336 
+an anter iorly tilted scapula may play a role in the development of shoulder pain in 337 
+swimmers. Interestingly, Lynch  et al.  [48] revealed that the swimmers  (78% with shoulder 338 
+pain)  who participated  in the 8 -week stretching and strengthening program had significantly 339 
+decreased forward shoulder posture , with the acromion process closer to the wall in post - 340 
+exercise testing. However, based on these  results, an exercise regime  could improve 341 
+shoulder posture, but  did not reduce their pain levels.  342 
+Whether or not scapular dyskinesia i s predictive for shoulder pain is still a matter of 343 
+debate. Several prospective longitudinal studies in overhead and rugby athletes have 344 
+focused their study on the prediction of shoulder pain based on the presence of scapular 345 
+dyskinesia [49-53]. Where as 2 studies  [49 51] found  predictive value of the presence of 346 
+scapular dyskinesi a, 3 studies [50 52 53] did not . None of these studies included swimmers. 347 
+The only remarkable difference betw een thes e studies is the level of overhead activity. 348 
+Apparently , those  studies  that predict ed the development of  shoulder pain  during the 349 
+subsequent season  included top -league elite athletes, whereas the studies not predicting 350 
+the development of shoulder  pain included recreational high school athletes. One area for 351 
+future study would be to investigate if those  with  scapular motion deviations incurring  352 
+greater load s on the shoulder  due to higher training levels would be more likely to develop 353 
+pain.   354 
+High training volume has been frequently reported  as a risk factor for shoulder 355 
+injuries in competitive swimmers [1 6 26]. Swimmers at elite level may train for 9 to 12 356 
+kilometres per day, six to seven day a week [2], which makes  monitoring  of training load and 357 
+training increment important parameter s requiring fu rther investigation . In addition to 358 
+training volume , stroke biomechanics  are also of great relevance. Virag et al. [54] 359 
+demonstrat ed a high prevalence of stroke errors in a group of collegiate  swimm ers. A 360 
+ 13 dropped elbow during the pull -through  and recovery phase were the most commonly seen 361 
+stroke errors, p resent in respectively 61% and 53% of the included swimmers. Interestingly, 362 
+many of these stroke errors where interrelated, which resulted in the authors suggestion 363 
+that one error may lead to other errors [54]. High training volume and volume increment in 364 
+combination with s troke errors may be an important contributor  to shoulder dysfunction.   365 
+Finally, Hibberd et al.  [17] recently highlighted that factors not relating to swimming , such as 366 
+school and technology use, may have a sign ificant effect  on posture adaptation s found in 367 
+adolescents,  both swimmers and non -overhead athletes [17]. 368 
+In conclusion, as swimmers combine  endurance, strength , flexibility  and control in a 369 
+repetitive manner , high levels of training might  easily overload soft tissue structures around 370 
+the shoulder and lead to pain, dissatisfaction, and disability . This can give  rise to the so - 371 
+called “swimmers’ shoulder” in which  suggested pathophysiological factors include red uced 372 
+endurance, incoordination or weakness of the shoulder muscles, a lack of scapular stability, 373 
+poor posture, and lack of core stability. T his literature review aimed  at providing clinicians 374 
+insight into the musculoskeletal mechanisms and impairments ass ociated with swimmers’ 375 
+shoulder.  376 
+ 377 
+REFERENCES  378 
+ 379 
+1. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite swimmers: primarily due to swim - 380 
+volume -induced supraspinatus tendinopathy. British journal of sports medicine 381 
+2010; 44(2):105 -13 doi: 10.1136/bjsm.2008.047282[published Online First: Epub Date]|.  382 
+2. Pink MM, Tibone JE. The painful shoulder in the swimming athlete. The Orthopedic clinics of North 383 
+America 2000; 31(2):247 -61  384 
+3. Wolf BR, Ebinger AE, Lawler MP, et al. Injury patterns in  Division I collegiate swimming. The 385 
+American journal of sports medicine 2009; 37(10):2037 -42 doi: 386 
+10.1177/0363546509339364[published Online First: Epub Date]|.  387 
+4. Bak K. The practical management of swimmer's painful shoulder: etiology, diagnosis, and 388 
+treat ment. Clinical journal of sport medicine : official journal of the Canadian Academy of 389 
+Sport Medicine 2010; 20(5):386 -90 doi: 10.1097/JSM.0b013e3181f205fa[published Online 390 
+First: Epub Date]|.  391 
+5. Wanivenhaus F, Fox AJ, Chaudhury S, et al. Epidemiology of inj uries and prevention strategies in 392 
+competitive swimmers. Sports health 2012; 4(3):246 -51 doi: 393 
+10.1177/1941738112442132[published Online First: Epub Date]|.  394 
+6. Tate A, Turner GN, Knab SE, et al. Risk factors associated with shoulder pain and disability acros s 395 
+the lifespan of competitive swimmers. Journal of athletic training 2012; 47(2):149 -58  396 
+ 14 7. McKenna L, Straker L, Smith A. Can scapular and humeral head position predict shoulder pain in 397 
+adolescent swimmers and non -swimmers? Journal of sports sciences 2012; 30(16):1767 -76 398 
+doi: 10.1080/02640414.2012.718092[published Online First: Epub Date]|.  399 
+8. Hibberd EE, Myers JB. Practice habits and attitudes and behaviors concerning shoulder pain in high 400 
+school competitive club swimmers. Clinical journal of sport medicine  : official journal of the 401 
+Canadian Academy of Sport Medicine 2013; 23(6):450 -5 doi: 402 
+10.1097/JSM.0b013e31829aa8ff[published Online First: Epub Date]|.  403 
+9. Pollard H, Croker D. Shoulder pain in elite swimmers. Australasian chiropractic & osteopathy : 404 
+journal of the Chiropractic & Osteopathic College of Australasia 1999; 8(3):91 -5  405 
+10. Wymore L, Fronek J. Shoulder functional performance status of National Collegiate Athletic 406 
+Association swimmers: baseline Kerlan -Jobe Orthopedic Clinic scores. The American journal 407 
+of sports medicine 2015; 43(6):1513 -7 doi: 10.1177/0363546515574058[published Online 408 
+First: Epub Date]|.  409 
+11. Beach ML, Whitney SL, Dickoff -Hoffman S. Relationship of shoulder flexibility, strength, and 410 
+endurance to shoulder pain in competitive swimm ers. The Journal of orthopaedic and sports 411 
+physical therapy 1992; 16(6):262 -8 doi: 10.2519/jospt.1992.16.6.262[published Online First: 412 
+Epub Date]|.  413 
+12. Heinlein SA, Cosgarea AJ. Biomechanical Considerations in the Competitive Swimmer's Shoulder. 414 
+Sports heal th 2010; 2(6):519 -25 doi: 10.1177/1941738110377611[published Online First: 415 
+Epub Date]|.  416 
+13. Hill L, Collins M, Posthumus M. Risk factors for shoulder pain and injury in swimmers: A critical 417 
+systematic review. The Physician and sportsmedicine 2015; 43(4):412 -20 doi: 418 
+10.1080/00913847.2015.1077097[published Online First: Epub Date]|.  419 
+14. Cools AM, Cambier D, Witvrouw EE. Screening the athlete's shoulder for impingement symptoms: 420 
+a clinical reasoning algorithm for early detection of shoulder pathology. British jo urnal of 421 
+sports medicine 2008; 42(8):628 -35 doi: 10.1136/bjsm.2008.048074[published Online First: 422 
+Epub Date]|.  423 
+15. de Witte PB, Nagels J, van Arkel ER, et al. Study protocol subacromial impingement syndrome: 424 
+the identification of pathophysiologic mechanisms  (SISTIM). BMC musculoskeletal disorders 425 
+2011; 12:282 doi: 10.1186/1471 -2474 -12-282[published Online First: Epub Date]|.  426 
+16. Cools A, Michener L. Shoulder pain: can one label satisfy everyone and everything? British journal 427 
+of sports medicine 2016 doi: Br J  Sports Med doi:10.1136/bjsports -2016 -096772[published 428 
+Online First: Epub Date]|.  429 
+17. Hibberd EE, Laudner K, Berkoff DJ, et al. Comparison of Upper Extremity Physical Characteristics 430 
+Between Adolescent Competitive Swimmers and Nonoverhead Athletes. Journal  of athletic 431 
+training 2016; 51(1):65 -9 doi: 10.4085/1062 -6050 -51.2.04[published Online First: Epub 432 
+Date]|.  433 
+18. McClure PW, Michener LA. Staged Approach for Rehabilitation Classification: Shoulder Disorders 434 
+(STAR -Shoulder). Physical therapy 2015; 95(5):791 -800 doi: 10.2522/ptj.20140156[published 435 
+Online First: Epub Date]|.  436 
+19. Edouard P, Degache F, Oullion R, et al. Shoulder strength imbalances as injury risk in handball. 437 
+International journal of sports medicine 2013; 34(7):654 -60 doi: 10.1055/s -0032 - 438 
+1312587[pub lished Online First: Epub Date]|.  439 
+20. Scovazzo ML, Browne A, Pink M, et al. The painful shoulder during freestyle swimming. An 440 
+electromyographic cinematographic analysis of twelve muscles. The American journal of 441 
+sports medicine 1991; 19(6):577 -82  442 
+21. Ruwe  PA, Pink M, Jobe FW, et al. The normal and the painful shoulders during the breaststroke. 443 
+Electromyographic and cinematographic analysis of twelve muscles. The American journal of 444 
+sports medicine 1994; 22(6):789 -96  445 
+22. Wadsworth DJ, Bullock -Saxton JE. Rec ruitment patterns of the scapular rotator muscles in 446 
+freestyle swimmers with subacromial impingement. International journal of sports medicine 447 
+1997; 18(8):618 -24 doi: 10.1055/s -2007 -972692[published Online First: Epub Date]|.  448 
+ 15 23. Rupp S, Berninger K, Hopf T . Shoulder problems in high level swimmers --impingement, anterior 449 
+instability, muscular imbalance? International journal of sports medicine 1995; 16(8):557 -62 450 
+doi: 10.1055/s -2007 -973054[published Online First: Epub Date]|.  451 
+24. Bak K, Magnusson SP. Shoulder strength and range of motion in symptomatic and pain -free elite 452 
+swimmers. The American journal of sports medicine 1997; 25(4):454 -9  453 
+25. Harrington S, Meisel C, Tate A. A cross -sectional study examining shoulder pain and disability in 454 
+Division I female swim mers. Journal of sport rehabilitation 2014; 23(1):65 -75 doi: 455 
+10.1123/jsr.2012 -0123[published Online First: Epub Date]|.  456 
+26. Walker H, Gabbe B, Wajswelner H, et al. Shoulder pain in swimmers: a 12 -month prospective 457 
+cohort study of incidence and risk factors.  Phys Ther Sport 2012; 13(4):243 -9 doi: 458 
+10.1016/j.ptsp.2012.01.001[published Online First: Epub Date]|.  459 
+27. Whiteley R, Oceguera M. GIRD, TRROM, and humeral torsion -based classification of shoulder risk 460 
+in throwing athletes are not in agreement and should not be used interchangeably. Journal 461 
+of science and medicine in sport / Sports Medicine Australia 2016; 19(10):816 -9 doi: 462 
+10.1016/j.jsams.2015.12.519[published Online First: Epub Date]|.  463 
+28. Noonan TJ, Thigpen CA, Bailey LB, et al. Humeral Torsion as a Risk  Factor for Shoulder and Elbow 464 
+Injury in Professional Baseball Pitchers. The American journal of sports medicine 465 
+2016; 44(9):2214 -9 doi: 10.1177/0363546516648438[published Online First: Epub Date]|.  466 
+29. McMaster WC, Roberts A, Stoddard T. A correlation between shoulder laxity and interfering pain 467 
+in competitive swimmers. The American journal of sports medicine 1998; 26(1):83 -6  468 
+30. Zemek MJ, Magee DJ. Comparison of glenohumeral joint laxity in elite and recreational 469 
+swimmers. Clinical journal of sport med icine : official journal of the Canadian Academy of 470 
+Sport Medicine 1996; 6(1):40 -7  471 
+31. Bak K, Fauno P. Clinical findings in competitive swimmers with shoulder pain. The American 472 
+journal of sports medicine 1997; 25(2):254 -60  473 
+32. Borstad JD, Ludewig PM. The effect of long versus short pectoralis minor resting length on 474 
+scapular kinematics in healthy individuals. The Journal of orthopaedic and sports physical 475 
+therapy 2005; 35(4):227 -38  476 
+33. Muraki T, Aoki M, Izumi T, et al. Lengthening of the pectoralis minor m uscle during passive 477 
+shoulder motions and stretching techniques: a cadaveric biomechanical study. Physical 478 
+therapy 2009; 89(4):333 -41 doi: 10.2522/ptj.20080248[published Online First: Epub Date]|.  479 
+34. Cools AM, Johansson FR, Cambier DC, et al. Descriptive p rofile of scapulothoracic position, 480 
+strength and flexibility variables in adolescent elite tennis players. British journal of sports 481 
+medicine 2010; 44(9):678 -84 doi: 10.1136/bjsm.2009.070128[published Online First: Epub 482 
+Date]|.  483 
+35. Struyf F, Meeus M, Franse n E, et al. Interrater and intrarater reliability of the pectoralis minor 484 
+muscle length measurement in subjects with and without shoulder impingement symptoms. 485 
+Manual therapy 2014; 19(4):294 -8 doi: 10.1016/j.math.2014.04.005[published Online First: 486 
+Epub Dat e]|. 487 
+36. Kibler WB, Ludewig PM, McClure PW, et al. Clinical implications of scapular dyskinesis in shoulder 488 
+injury: the 2013 consensus statement from the 'Scapular Summit'. British journal of sports 489 
+medicine 2013; 47(14):877 -85 doi: 10.1136/bjsports -2013 -092425[published Online First: 490 
+Epub Date]|.  491 
+37. Su KP, Johnson MP, Gracely EJ, et al. Scapular rotation in swimmers with and without 492 
+impingement syndrome: practice effects. Medicine and science in sports and exercise 493 
+2004; 36(7):1117 -23  494 
+38. Crotty NM, Smith J. Alterations in scapular position with fatigue: a study in swimmers. Clinical 495 
+journal of sport medicine : official journal of the Canadian Academy of Sport Medicine 496 
+2000; 10(4):251 -8  497 
+39. Hess SA, Richardson C, Darnell R, et al. Timing of rotator cuff act ivation during shoulder external 498 
+rotation in throwers with and without symptoms of pain. J Orthop Sports Phys Ther 499 
+2005; 35(12):812 -20  500 
+ 16 40. Falla D, Arendt -Nielsen L, Farina D. Gender -specific adaptations of upper trapezius muscle activity 501 
+to acute nocicept ive stimulation. Pain 2008; 138:217 -25  502 
+41. Muceli S, Falla D, Farina D. Reorganization of muscle synergies during multidirectional reaching in 503 
+the horizontal plane with experimental muscle pain. J Neurophysiol 2014; 111:615 -30.  504 
+42. Bandholm T, Rasmussen L,  Aagaard P, et al. Effects of experimental muscle pain on shoulder - 505 
+abduction force steadiness and muscle activity in healthy subjects. European journal of 506 
+applied physiology 2008; 102(6):643 -50 doi: 10.1007/s00421 -007-0642 -1[published Online 507 
+First: Epub Dat e]|. 508 
+43. Burkhart SS, Morgan CD, Kibler WB. The disabled throwing shoulder: spectrum of pathology Part 509 
+I: pathoanatomy and biomechanics. Arthroscopy : the journal of arthroscopic & related 510 
+surgery : official publication of the Arthroscopy Association of North America and the 511 
+International Arthroscopy Association 2003; 19(4):404 -20 doi: 512 
+10.1053/jars.2003.50128[published Online First: Epub Date]|.  513 
+44. Shanley E, Thigpen CA, Clark JC, et al. Changes in passive range of motion and development of 514 
+glenohumeral i nternal rotation deficit (GIRD) in the professional pitching shoulder between 515 
+spring training in two consecutive years. Journal of shoulder and elbow surgery / American 516 
+Shoulder and Elbow Surgeons ... [et al.] 2012; 21(11):1605 -12 doi: 517 
+10.1016/j.jse.2011.11 .035[published Online First: Epub Date]|.  518 
+45. Torres RR, Gomes JL. Measurement of glenohumeral internal rotation in asymptomatic tennis 519 
+players and swimmers. The American journal of sports medicine 2009; 37(5):1017 -23 doi: 520 
+10.1177/0363546508329544[published  Online First: Epub Date]|.  521 
+46. McFarland EG, Kim TK, Park HB, et al. The effect of variation in definition on the diagnosis of 522 
+multidirectional instability of the shoulder. The Journal of bone and joint surgery. American 523 
+volume 2003; 85-A(11):2138 -44  524 
+47. Tzannes A, Paxinos A, Callanan M, et al. An assessment of the interexaminer reliability of tests for 525 
+shoulder instability. Journal of shoulder and elbow surgery / American Shoulder and Elbow 526 
+Surgeons ... [et al.] 2004; 13(1):18 -23 doi: 10.1016/S105827460300 2453[published Online 527 
+First: Epub Date]|.  528 
+48. Lynch SS, Thigpen CA, Mihalik JP, et al. The effects of an exercise intervention on forward head 529 
+and rounded shoulder postures in elite swimmers. British journal of sports medicine 530 
+2010; 44(5):376 -81 doi: 10.113 6/bjsm.2009.066837[published Online First: Epub Date]|.  531 
+49. Kawasaki T, Yamakawa J, Kaketa T, et al. Does scapular dyskinesis affect top rugby players during 532 
+a game season? Journal of shoulder and elbow surgery / American Shoulder and Elbow 533 
+Surgeons ... [e t al.] 2012; 21(6):709 -14 doi: 10.1016/j.jse.2011.11.032[published Online First: 534 
+Epub Date]|.  535 
+50. Myers JB, Oyama S, Hibberd EE. Scapular dysfunction in high school baseball players sustaining 536 
+throwing -related upper extremity injury: a prospective study. Jo urnal of shoulder and elbow 537 
+surgery / American Shoulder and Elbow Surgeons ... [et al.] 2013; 22(9):1154 -9 doi: 538 
+10.1016/j.jse.2012.12.029[published Online First: Epub Date]|.  539 
+51. Clarsen B, Bahr R, Andersson SH, et al. Reduced glenohumeral rotation, externa l rotation 540 
+weakness and scapular dyskinesis are risk factors for shoulder injuries among elite male 541 
+handball players: a prospective cohort study. British journal of sports medicine 542 
+2014; 48(17):1327 -33 doi: 10.1136/bjsports -2014 -093702[published Online Firs t: Epub 543 
+Date]|.  544 
+52. Struyf F, Nijs J, Meeus M, et al. Does scapular positioning predict shoulder pain in recreational 545 
+overhead athletes? International journal of sports medicine 2014; 35(1):75 -82 doi: 10.1055/s - 546 
+0033 -1343409[published Online First: Epub Date ]|. 547 
+53. Shitara H, Kobayashi T, Yamamoto A, et al. Prospective multifactorial analysis of preseason risk 548 
+factors for shoulder and elbow injuries in high school baseball pitchers. Knee surgery, sports 549 
+traumatology, arthroscopy : official journal of the ESSK A 2015 doi: 10.1007/s00167 -015- 550 
+3731 -4[published Online First: Epub Date]|.  551 
+ 17 54. Virag B, Hibberd EE, Oyama S, et al. Prevalence of freestyle biomechanical errors in elite 552 
+competitive swimmers. Sports health 2014; 6(3):218 -24 doi: 553 
+10.1177/1941738114527056[published Online First: Epub Date]|.  554 
+ 555 
+ 556 

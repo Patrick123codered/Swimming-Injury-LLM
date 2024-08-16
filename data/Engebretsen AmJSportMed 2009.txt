@@ -1,0 +1,627 @@
+Sports injuries  
+during the Summer Olympic Games 2008 
+ 
+Junge A1, Engebretsen L2,3, Mountjoy M2,4, Alonso JM5, Renström P2, 6, Aubry M7, Dvorak J1,8 
+ 
+ From 
+1 FIFA Medical Assessment and Research  Centre (F-MARC), Zurich, Switzerland 
+and Schulthess Klinik, Zurich, Switzerland  
+2 International Olympic Committee (IOC), Lausanne Switzerland 
+3 Oslo Sports Trauma Research Centre (OSTRC), Oslo, Norway and Ullevaal University Hospital 
+and Medical School, University of Oslo, Norway 
+4 Fédération International de Natation (FINA) Lausanne Switzerland 
+5 International Association of Athl etics Federations (IAAF), Monaco 
+6 Karolinska Institutet, Stockholm, Sweden 
+7 International Ice Hockey Federation (IIHF), Zurich, Switzerland  
+8 Fédération Internationale de Football Association (FIFA), Zurich, Switzerland  
+  
+ 
+ *Address correspondence and reprint requests to Dr. Astrid Junge, Schulthess Klinik, Lengghalde 
+2, CH-8008 Zurich, Switzerland.   'No author or related institution has received any financial benefit in connection with this study. 
+All authors declare that the answ er to the questions on your compe ting interest for are all No and 
+therefore have nothing to declare. See ”Acknowledgements” for funding information.' 
+ 
+ 
+Abstract  
+Objective:  Survey on the frequency, characteristic s and causes of injuries incurred in 
+competition and/or training duri ng the 2008 Beijing Olympic Games.  
+Design: Prospective recording of injuries. 
+Setting: 29th Olympic Games 2008 in Beijing, China. 
+Participants: National team physicians or responsible  Chief Medical Officers of 92 national 
+teams with 9672 (88%) athletes; a ll physicians of the medical stations at the Olympic venues and 
+of the polyclinic in the Olympic village. 
+Main Outcome Measures:  Frequency, characteristics and causes of injuries.   
+Results: 1055 injuries were reported, resulting in an incidence of 96.1 injuries per 1000 
+registered athletes. About half of  the injuries (49.6%) we re expected to prevent the athlete from 
+participating in competition or training. The most prevalent diagnoses were ankle sprains and thigh strains. A quarter of the injuries were incurred during training and 72.5% in competition. One third of the injuries were caused by contact with another athlete, fo llowed by overuse (22%) 
+and non-contact incidences (20%). Injuries were reported from all sports but their incidence and 
+characteristics varied substantiall y. In relation to the number of re gistered athletes, the risk of 
+incurring an injury was highest in taekw ondo, football, hockey, handball, weightlifting and 
+boxing (all >
+15% of the athletes), and lowest for sailing, canoe/kayak, rowing, synchronised 
+swimming, diving, fencing and swimming. Conclusion: The data indicate that the injury survei llance system covered almost all of the 
+participating athletes, and the results highlight areas  of high risk for sport injury such as the in-
+competition period, the ankle and thigh, and specifi c sports. The identification of these factors 
+should stimulate future research an d subsequent policy change to prevent injury in elite athletes.  
+ 
+Keywords: injury surveillance, multi-sport event, top-level athletes, championships.  
+Word count of the manuscript: 3939 
+Word count of the abstract: 267 
+ 
+Acknowledgement: The authors highly appreciate the cooperation of the National Olympic 
+Committees Team Physicians and therapists as well as of the medical personnel of the Beijing 
+Organizing Committee of the Olym pic Games who volunteered their time to collect the data for 
+this project. We thank Dr. x Wu, xxx, very much  for his assistance du ring preparation of the 
+study and the data collection. We acknowledge Ms Agnes Gaillard and Mrs Gudrun Grasshoff 
+for their valuable assistance with the collection of  injury report forms and the input of data. The 
+authors thank Prof. Arne Ljungqvist, Chairmen of the IOC Medical Commission, Dr Patrick 
+Schamasch, IOC Medical Director and the memb ers of the IOC Medical Commission for their 
+support of the project. We gratefully acknowle dge the International Olympic Committee (IOC) 
+and the Fédération Internationale de Football Association (FIFA) for funding of the study. 
+INTRODUCTION  
+ 
+The Olympic Games are the largest world sport event with over 10´000 pa rticipating athletes 
+from more than 200 countries. The International Olympic Co mmittee (IOC) is increasingly 
+emphasising the protection of the athletes’ health and the prevention of injuries. As has been shown previously,
+1 2 standardized assessment of sports injuries provides not only important 
+epidemiological information, but also directions  for injury prevention, and the opportunity for 
+monitoring long-term changes in the frequency and circumstances of injur y. As part of a long-
+term sports injury prevention project, the IO C decided to conduct an injury surveillance study 
+during the Olympic Games 2008 in Beijing.  
+ 
+Injury surveillance studies have been performed in several single-sports tournaments, such as 
+football,1 3-8 rugby,9-13 karate,14-16 ice hockey,17 18 volleyball,19 beach volleyball,20 handball,21 
+tennis,22 cycling,23 and athletics24. For multi-sport events, however only eight studies were found 
+in the literature, including three on disabled athletes.25-27 
+ Martin et al
+28 registered all medical contacts and encount ers due to injuries and illnesses of 3028 
+athletes who participated in the 1985 Junior Olympics in 13 different sports. Laskowski et al29 
+analysed all medical contacts and treatment requir ed by the 6243 participants  in 21 sports at the 
+1994 Star of the North Summer Games. Cunningham and Cunningham30 surveyed the injuries of 
+5106 participants competing in 19  sports during the 1994 Austra lian University Games. Greene 
+and Bernhardt31 studied the injuries of 31580 athletes pa rticipating in ten sports of the Badger 
+States Summer Games of three consecutive years 1994-96.   
+During the 2004 Olympic Games in Athens,
+32 the incidence and characteristics of injuries in all 
+eight team sport tournaments (f ootball, handball, basketball, fi eld hockey, baseball, softball, 
+water polo and volleyball) were recorded using an injury surveillance system established in 
+football1 2 4-7 and handball.21 Since the compliance with the procedure was excellent and the 
+quality of the data obtained high,32 the injury surveillance system was modified to be applicable 
+for both individual and team sports.33 The IOC injury surveillance system proved feasible and 
+useful for individual sports in a pilot study during the 11th World Championship in Athletics.24 
+ 
+The aim of the present study was to analyse the fr equency, characteristics and causes of injuries 
+incurred in competitions and/or traini ng during the Olympic Games 2008 in Beijing.  
+  
+M
+ETHODS  
+ 
+A detailed description of the applied methodol ogy has been published by the Beijing Olympics 
+Study Group.33 In summary, the physicians and/or Ch ief Medial Officers of the National 
+Olympic Committees (NOCs) were asked to report  daily all newly incurred injuries (or the non-
+occurrence of injuries) on a standardised injury re port form. Injuries were additionally reported 
+by the Local Organising Committee (LOC) physicians at the medical  stations at the different 
+Olympic venues and at the polyclinic in the Olympic Village.   
+Definition of Injury  
+An injury was defined as any musculo-skeletal complaint (traumatic and overuse) newly incurred 
+due to competition and/or training during period of  the XXIX. Olympiad in Beijing that received 
+medical attention regardless of the consequences with respect to absence from competition or 
+training.
+33 This injury definition includes five aspect s: (a) all injuries that received medical 
+attention (not only time-loss injuries), (b) newly incurred (pre-existing, not fully rehabilitated 
+injuries should not be reported;  re-injuries (injurie s of the same location and type) should be 
+reported only if the athlete has retu rned to full participation afte r the previous injury), (c) in-
+competition and training injuries, (d) during the Olympic Games (9 to 24 August 2008, except 
+football, for details see “Implementation”), and (e ) exclusion of illnesses and diseases. If multiple 
+body parts were injured or multiple types of inju ry in the same body part were incurred in one 
+incident, this is counted as one injury with two diagnoses.33  
+ 
+Injury report form  
+The injury report form33 required documentation of the fo llowing information: athlete’s 
+accreditation number, sport/discipline, round/heat/t raining, date and time of injury, injured body 
+part, type and cause of injury and estimated duration of the subsequent absence from competition 
+and/or training. Definitions of th ese parameters were stated on th e back of the form. The injury 
+report form was available in seven languages (English, French, Chinese, Spanish, German, 
+Russian, Arabic). The English version is published elsewhere.33 
+ 
+Confidentiality and ethical approval  
+The athletes’ accreditation number  was only used to avoid duplicate reporting from NOC and 
+LOC physicians, and to provide information on age,  gender, sport and national federation of the 
+athlete from the IOC database. All information wa s treated strictly confidential, and the injury 
+reports were made anonymous afte r the Olympic Games. Ethical a pproval was obtained from the 
+Oslo University School of Medicine Ethical Committee. 
+ 
+Implementation and data collection 
+Three months prior the 2008 Olympic Games, the NOCs were informed about the study by the 
+IOC. The medical representatives of all part icipating NOCs received a booklet with detailed 
+information on the study one month before the Ga mes and were requested to participate in the 
+project. All NOC physicians and therapists and the chairpersons of the Medical Commissions of 
+the Summer Olympic International Sports Federatio ns were invited to an instructional meeting 
+two days prior the opening of the Games in Be ijing. During this meeting the NOC physicians 
+were informed about the background and aims of the study, and instructed on the completion and 
+return of the injury report form by the Study Gro up. Questions of the partic ipants were answered, 
+and the instructional booklet and the injury repo rt forms were distributed. During the Olympic 
+Games, members of the Study Group repeatedly met with or phoned the physicians of NOCs with 
+more than 50 athletes to motivate daily compliance with form submission. 
+ 
+In general, the NOC chief physician was responsible for reporting the injuries of their athletes. 
+For a few large NOCs more than one physician retu rned injury report forms (for calculation of 
+response rate and coverage, these were counted as  one report form). One NOC returned all forms 
+at the last day of the Games. One NOC did not re port the injuries in a specific sport, another 
+NOC reported only injuries in two sports. Th e NOC physicians could submit the completed 
+injury report forms to a locked mailbox at the IOC Medical Commission o ffice in the Polyclinic 
+of the Olympic Village, or submit them by ema il or fax to the IOC study office in Beijing. For 
+football, the collection of the forms was slightly  different since the ma tches started prior the 
+official opening, most venues were not in Beijin g and all football team had their own physician. 
+Following the established procedure in FIFA competitions,1 2 4 6 7 the forms were collected after 
+each match by the FIFA Medical Officer at the venue and returned to the IOC study office.  
+ 
+In order to receive also information about inju red athletes of NOCs that  did not have a team 
+physician or therapist, injuries re ports were additionally collected fr om the medical stations at the 
+38 different Olympic venues and the polyclinic in the Olympic Village. Medical stations at the 
+venues were requested to report on a slightly modified injury report form (additional info on 
+NOC of the injured athlete) on all days a competition took place in  the respective venue. During 
+the Games, a member of the Study Group visited th e medical stations at the different venues in 
+Beijing to instruct them on accurate completion of  the forms and to motivate daily compliance of 
+submission. Venues outside Beijing (football, saili ng, equestrian) were contacted via email and 
+phone. Daily injury information was also received  from the polyclinic in the Olympic Village. 
+However, this information was extracted from the local database and included only accreditation 
+number of the athlete, location and type of  injury. Thus, information on circumstance 
+(competition/training) and cause of injury and resulting time-loss in sport are missing for these injuries. In case of duplicate reporting, informa tion from the NOC physici an was preferred to 
+LOC physician´s report, and information from the venue and polyclinics were summarized. 
+ 
+Data analysis  
+The IOC provided a list of athletes registered for the 2008 Olympic Games; the competition 
+schedule was available on the internet (http:/ /en.beijing2008.cn). The response rate of the NOC 
+physicians was determined by dividing the number of received forms by the number of expected forms (number of NOCs which returned at least one  injury report form multiplied with 16 days). 
+The coverage of athletes and of  injuries was assessed regarding the number of athletes in the 
+respective NOC in the analysis, and comparing the proportion of injuries reported by NOC 
+physicians and other sources for NOC s of different sizes. The differe nt mode of data collection in 
+football and the reduced number of athletes re ported on in two NOCs were regarded in these 
+calculations.  
+All data were processed using Excel and SPSS. Statistical methods app lied were descriptive 
+statistics, frequencies, cross-tabulations, t-test and chi2-test. Significance was accepted at p<0.05.  
+ 
+ 
+RESULTS  
+ 
+Response rate and coverage of athletes  
+The physicians or responsible therapists of 92 national teams with 9672 (88%) athletes took part 
+in the study and returned a total 1314 injury report forms. With re spect to the returned forms the 
+average response rate of 75.1%, but regarding the number of at hletes covered by the team 
+physicians´ reports the response ra te was 79.9%. In relation to all registered athletes the daily 
+coverage by team physicians´ reports was 69.1% . In addition, 264 (72.5%) reports from medical 
+stations at the different Olympi c venues and all daily reports from the polyclinic in the Olympic 
+Village were received.  
+ 
+Table 1: Response rate and number of injuries  in relation to size of  the national team  
+ 
+Size of NOC  
+(no. of athletes)  >200  100-200  50-99  25-49  10-24  <10  total 
+No. of NOCs 16 13 26 23 30 96 204 
+No. of athletes 5679 1811 1821 763 452 451 10977 
+No. of NOCs with participating physician(s)
+ (a) 16 
+100% 13 
+100% 24 
+92.3% 13 
+56.5% 8 
+26.7% 18 
+18.8% 92  
+(45.1%)
+No. of forms returned by NOC physicians 
+(b) 208 
+81.3% 169 
+81.3% 301 
+78.4% 141 
+67.8% 56 
+43.8% 174 
+60.4% 1050 
+(72.1%)
+No. of injuries reported by NOC physicians 405 147 153 39 25 18 787 
+No. of injuries reported only by venue or polyclinic 
+(c), (d) 49 20 49 41 31 68 258 
+% of injuries reported by NOC physicians
+ (c), (d) 89.2% 88.0% 75.7% 48.8% 44.6% 20.9% 74.7% 
+Total no. of injuries (d) 454 167 202 80 56 86 1055 
+no. of injuries per 1000 registered athletes 
+(d) 79.9 92.2 110.9 104.8 123.9 190.7 96.1 
+(a) NOCs of which the team physician return ed at least one injury report form,  
+(b) except football (for football additiona l 264 of 294 (89.9%) forms were returned),  
+(c) injuries reported also by NOC physicians not included, (d) country is missing in 10 cases 
+ 
+ 
+The coverage of athletes by NOC physicians corresponded closely to the amount of injuries they 
+reported (for details see Table 1). Overall, 787 (74.6%) injuries were reported by the NOC physicians, 16 by medical representatives of the international sport federa tion at the venue, 127 
+injuries from medical stations at the venues and 234 from the pol yclinic (109 in juries by more 
+than one source of informati on). The percentage of injuri es reported by NOC physicians 
+decreased with the size of the national team, si nce small teams often do not include a physician.  
+ 
+Frequency and diagnosis of injuries  
+A total of 1055 injuries were reported, equiva lent to an incidence of 96.1 injuries per 1000 
+registered athletes. Since 46 injuries had multiple locations or types, 1108 diagnoses were named 
+(for details see table 2). The most prevalent di agnoses were ankle sprain s (n=81; 7.3%) and thigh 
+strain (n=75; 6.8%). About half of the diagnos es (n=600; 54.2%) affected the lower extremity, 
+upper extremity (n=218; 19.7%), trunk (n=176; 16.1%) and head (104; 94%). Thigh (13.3%) and 
+knee (12.1%) were most commonly injured, followed by the lower leg and ankle. Head injuries (9.5%) were also frequent, mainly diagnos ed as skin lesions or contusions.  
+ 
+  
+Table 2: Diagnoses of injuries  
+ head, 
+face neck 
+cervical 
+spine thoraci
+c spine, ribs, 
+chest lumb
+ar spine abdome
+n, pelvis, 
+buttocks shoul
+der arm, elbo
+w wrist, 
+hand, 
+fingers hip, 
+groin thigh knee lower leg, 
+Achilles 
+tendon ankle foot, 
+toe not 
+specif
+ied total 
+concussion 12               12 
+fracture (traumatic) 4  3
+(a) 1 (a)  4 2 17(a)   2 1  7  41 
+stress fracture 
+(overuse)     2   1    4  5  12 
+dislocation, subluxation 1     11 1 1   2  2   18 
+rupture of tendon 
+or ligament       2 3 4 2  18 6 11   46 
+sprain (injury of 
+joint, ligaments)  9 3 16 2 19 11 22  7 37 2 70 12 1 211 
+lesion of cartilage or meniscus       2  1   16     19 
+muscle injuries 
+(strain, rupture)  4 9 16 7 7 6 1 11 75 2 21  3  162 
+contusion, bruise 
+haematoma 36 3 20 5 8 9 15 16 7 35 16 26 7 17  220 
+tendinosis, tendinopathy, 
+impingement  1 1 2  14 5 3 7 8 13 20 5 3  82 
+arthritis, 
+synovitis, bursitis  1  4  3 3 15 4 1 21 1 3 8 1 65 
+skin lesion 
+laceration, 
+abrasion  43  2 2 1 2 5 9 2 3 3 8 2 9  91 
+nerve injury, protrusion  1  7 1  1        1 11 
+muscle cramps or 
+spasm  4 4 8 3  1  2 17 1 20    60 
+others 8 6 2 17 2 1 1   1 3  1 9 2 53 
+not specified     1          4 5 
+total 104 29 44 78 27 74 54 90 35 147 134 109 101 74 8 1108 
+(a) including one avulsion fracture 
+ 
+Circumstances and causes of injury  
+Information on circumstance and cause of injury was available for 858 (81.3%) injuries. The 
+majority of injuries (n= 623; 72.6%) were in curred in competition, te n during warm-up for 
+competition and 225 (26.2%) during training. The injuries incurred during warm-up prior to 
+competition were analysed as injuries during co mpetition. Injuries in training and in competition 
+differed significantly in all inju ry characteristics (location, type , cause and subsequent time-loss 
+from sport) and with regard to the diffe rent sports (for details see Table 3).  
+ One third of the injuries (n= 282; 32.9%) was caused by contact with another athlete. Non-
+contact trauma (n=172; 20.0%) an d overuse either w ith gradual (n= 78; 9.1%) or sudden onset 
+(n=110; 12.8%) were also frequent causes of injury. Some injuries  were due to contact with an 
+object (n= 115; 13.4%) and r ecurrence of previous in jury (n=47; 5.5%). Othe r potential causes of 
+injury (playing field conditions (n=15), weather conditions (n= 8), equipment failure (n=5), 
+others (18)) were rarely stated.  
+ 
+Time-loss from sport after injury  
+Information in relation to time-loss from sport after injury was availabl e for 844 (80%) injuries. 
+About half of the injuries (n=419;  49.6%) were expected to preven t the athlete from participating 
+in competition or training. Physicians estimate d that 275 (33.0%) injuries would result in an 
+absence from sports up to one week, 93 (11.2%) in an absence for more than  a week but less than 
+a month and 41 (4.9%) for more than 28 days abse nce. In ten cases the duration of absence was 
+not specified.  
+ The 41 injuries with an estimated time-loss of  more than four weeks was comprised of 13 
+fractures (foot (n= 4), clavicle (n= 3), knee (n= 2), arm, wrist, hand and pelvis), eight ligament 
+ruptures (knee (n= 6), ankle (n= 2)), five dislocations (shoulder  (n= 2), knee, elbow and wrist), 
+three ruptures of Achilles tendon, three sprains (a nkle, knee and shoulder), six muscle injuries 
+(thigh (n= 4), hip and lower leg), two complex lesions of the joints (shoulder, knee) and one 
+concussion. Out of the 221 injuries for which in formation about time-loss was not specified at 
+least further 22 were suspected to be severe base d on the type of injury (10 fractures, 8 ligament 
+ruptures, 4 complex injuries with ligament ruptures). 
+ 
+Injuries in different sports  
+Injuries were reported from all sports (for deta ils see Table 3). In relation to the number of 
+registered athletes, the risk of incurring an injury was highest in football, taekwondo, field 
+hockey, handball, weightlifting and boxing; and lowest for sailing, canoe/kayak, rowing, 
+synchronised swimming, di ving, fencing and swimming. 
+ For most sports, injuries in training and competition were reported, but in substantially different 
+proportions. No in-competition injury was reported from archery, canoe/kayak, diving shooting 
+and synchronised swimming. Although incidence of in juries in these spor ts was low, it is 
+interesting to note that training  injuries were reported. The pr oportion of trainings injuries was 
+high in table tennis, tennis, swimming, gymnastics, beach volle yball, equestrian, modern 
+pentathlon and athletics. A high percentage of competitions injuries were incurred in boxing, 
+water polo, hockey, handball weig htlifting, baseball and judo.  
+ Consequently, also the causes of injury differed between the sports. Overuse was a frequent cause (>40% of the injuries) in rowing, modern pentat hlon, sailing, shooting, tennis, beach volleyball, 
+triathlon, athletics, weightlifti ng, swimming and badminton. Contact with another athlete was the 
+cause of more than 50% of the injuries in boxing, judo, water polo, handball, taekwondo, 
+wrestling and football. In baseball and hockey contact with a moving object (ball, stick) was the cause in more than half of the injuries. A non-c ontact trauma was frequently incurred by cyclists, 
+riders, shooters, tennis, and volleyball players.  Time-loss injuries were reported from all sports  except canoe flat-wat er, diving, sailing and 
+synchronised swimming. The risk of incurring a time-loss injury was highest in football, 
+taekwondo, handball, weightlifting, boxing, tr iathlon, and athletics (see table 3).  
+ 
+Table 3: Number of gold medals, athlet es and injuries in different sports 
+ 
+ 
+ 
+Sports Gold 
+medal
+s Register
+ed 
+athletes Total no. of 
+injuries 
+(% of 
+athletes) Estim. % of 
+athletes with 
+time-loss 
+injuries  Injuries in 
+training  
+(% of 
+injuries) (b) Injuries in 
+competition  
+(% of 
+injuries) (b) 
+Archery 4 128 9 (7.0%) 2.3% 6 (100%) 0 
+Athletics 47 2132 241 (11.3%) 7.3% 69 (42.6%) 93 (57.4%) 
+Baseball 1 189 21 (11.1%) 5.6% 2 (10.5%) 17 (89.5%) 
+Badminton 5 172 8 (4.7%) 3.1% 1 (14.3%) 6 (85.7%) 
+Basketball 2 287 38 (13.2%) 4.1% 6 (19.4%) 25 (80.6%) 
+Beach 
+volleyball 2 96 8 (8.3%) 2.1% 4 (50.0%) 4 (50.0%) 
+Boxing 11 281 42 (14.9%) 8.1% 2 (5.3%) 36 (94.7%) 
+Canoe/kayak 16 324 4 (1.2%) 0.6% 4 (100%) 0 
+Cycling 18 518 30 (5.8%) 2.0% 10 (33.0%) 20 (66.7%) 
+Diving 8 145 3 (2.1%) 0 3 (100%) 0 
+Equestrian 6 193 10 (5.2%) 1.0% 5 (50.0%) 5 (50.0%) 
+Football 2 496 156 (31.5%) 16.4% 28 (18.2%) 126 (81.8%) 
+Fencing 10 206 5 (2.4) 0.8% 0 2 (100%) 
+Gymnastic 18 318 24 (7.5%) 2.5% 11 (52.4%) 10 (47.6%) 
+Handball 2 334 58 (17.4%) 13.4% 4 (7.4%) 50 (92.6%) 
+Hockey 2 382 78 (20.4%) 3.5% 5 (6.9%) 67 (93.1%) 
+Judo 14 385 53 (11.2%) 6.4% 5 (11.6%) 38 (88.4%) 
+Modern 
+pentathlon 2 71 4 (5.6%) 4.2% 2 (50.0%) 2 (50.0%) 
+Rowing 14 548 10 (1.8%) 0.6% 1 (16.7%) 5 (83.3%) 
+Sailing 11 400 3 (0.8%) 0 1 (33.3%) 2 (66.7%) 
+Shooting 15 386 3 (7.8%) 3.9% 2 (100%) 0 
+Softball 1 119 16 (13.4%) 1.9% 2 (14.3%) 12 (85.7%) 
+Swimming 34 1046 36 (3.4%) 1.0% 15 (62.5%) 8 (34.8%) 
+Synchronised 
+swimming 2 104 2 (1.9%) 0 2 (100%) 0 
+Tennis 4 168 10 (5.9%) 3.0% 5 (62.5%) 3 (37.5%) 
+Taekwondo 8 126 34 (27.0%) 16.2% 9 (36.0%) 16 (64.0%) 
+Triathlon 2 109 10 (9.2%) 8.0% 3 (33.3%) 6 (66.7%) 
+Table Tennis 4 172 9 (5.2%) 2.6% 5 (83.3%) 1 (16.7%) 
+Volleyball 2 287 23 (8.0%) 3.6% 4 (18.4%) 18 (81.8%) 
+Weightlifting 15 255 43 (16.9%) 11.4% 3 (10.3%) 26 (89.7%) 
+Water Polo 2 259 25 (9.7%) 3.7% 2 (9.5%) 19 (90.5%) 
+Wrestling 18 341 32 (9.4%) 6.1% 4 (20.0%) 16 (80.0%) 
+Total 302 10977 1048 (a) 
+(9.6%) 4.7% 225 (b) 
+(26.2%) 633 (b) 
+(73.8%) 
+(a) sport is missing for 7 injuries;  
+(b) information missing for 197 injuries 
+ 
+The fractures were incurred by six (4.8%) taekwondo, five (1.8% ) boxers, ten ( 0.5%) track and 
+field athletes, two track cyclists , two gymnasts, two judoka, two tria thlon athletes, one rider, one 
+synchronised swimmer, one wrestler, six (1.2%) f ootball, four (3.0%) handball, two hockey, two 
+water polo, two volleyball, one softball and one table tennis player. The dislocations and ruptures 
+of tendon or ligament affected four (3.2%)  taekwondo, eight (2.1 %) judoka, five (2.0%) 
+weightlifter, five (1.5%) wres tler, seven (0.3%) track and fi eld athlete, two BMX and one 
+mountain bike cyclists, a boxer, a diver, a fencer , a triathlon athlete, seven (2.1%) handball, four 
+(1.4%) basketball, five (1.3%) hockey, three (0.6%) football, two volleyball, a baseball, a 
+badminton, a beach volleyball, a table tennis and a water polo player. Conc ussions were reported 
+from boxing (n= 2; 0.7%), football (n= 3; 0.6%), baseball, basketball, hoc key judo, taekwondo, 
+cycling road and slalom canoe/kayak (each n=1). 
+  
+Age and gender of injured athletes 
+The age of the injured athletes ranged betwee n 15 and 53 years with no significant difference 
+between men and women (mean= 25.7; sd= 4.75; missing: 122). In 549 (54.2%) cases the gender 
+of the injured athlete was male and in 464 ( 45.8%) female (missing: 42). These characteristics 
+were similar to the age (mean= 25.9; sd= 5.48; range: 12-67) and gender distribution of all 
+registered athletes (male: 57.6%; female: 42.4%). 
+  
+D
+ISCUSSION  
+ 
+This study aimed to analyse all sp orts injuries of athletes participating in the Olympic Games 
+2008. To the authors’ knowledge th is is the first surv ey on injuries during the Olympic Games 
+including all sports.  The injury surveillance system
+32 proved to be accepted by the NOC and the LOC medical 
+personnel and to be feasible in a large multi-spor t event. The data indicate that the injury 
+surveillance system covered almost all participat ing athletes. The NOC physicians and therapists 
+of 92 national teams covering 88% of the register ed athletes took part in the study. The NOCs 
+with more than fifty athletes returned 80% of the daily injury report forms. For NOCs with less 
+than fifty athletes, the response rate was lower,  because some reported only if an athlete was 
+injured. In addition to the injury reports from the NOCs, daily reports were received from the 
+medical stations at the Olympic venues and the polyclinic in the Olympic Village. The 
+percentage of injuries reported from the venues and the polyclinic increased for NOCs with fewer 
+athletes, since small NOCs often do not have medical personnel. The tota l rate of injuries 
+increased from large NOCs to smaller NOCs, proba bly for the same reason. It is assumed that 
+due to the lack of own medical care in smaller teams, the athl etes had more injuries and/or 
+consulted the medical facilities offered during the Olympics also for pre-existing injuries.  
+However, since athletes from NOC with less than  ten athletes represente d less than 5% of the 
+total population, this bias can be neglected. On the other hand, some participating NOCs and 
+some medical stations at the Olympic venues did not return forms on all days. Thus, it is 
+estimated that the injury incidence is slightly higher than reported.  
+ 
+Approximately 10% of registered athletes incu rred an injury during the 2008 Olympic Games. 
+This injury rate was co nsiderably lower than those of the 1985 Junior Olympic Games (25% of 
+2871 athletes sought medical attention)28 and of the 1994 Australian University Games (19.5% of 
+5106 athletes incurred an injury which required medical attention),30 but substantially higher than 
+for the 1994 North Summer Games (55 of 6243 athletes received medical attention)29 and for the 
+Badger States Summer Games 199-96 (285 of 31,580 athletes suffered a reportable injury)31. 
+Although these studies surveyed injuries in larg e multi-sport events, the characteristics of the 
+athletes varied substantially between them and to the present study. Therefore, a comparison can 
+only demonstrate the wide range of injury rates in different sport events. Only one study on 
+sports injuries during the Olym pic Games was found in literature.32 At the 2004 Olympic Games 
+in Athens, all injuries incurred during team sports competitions were recorded using the same 
+injury definition and a simila r mode of data collection.32 33 The total number of matches (2004: 
+488; 2008: 498) as well as the number of all in -competition injuries (2004: 378; 2008: 333) and 
+time-loss injuries in competition (2004: 147; 2008: 150) were similar in the 2004 Olympic 
+Games and the present study. With respect to the si ngle sports, the number of time-loss injuries in 
+competition was similar in the 2004 and the 2008 Olympics for football, handball, baseball, 
+softball and water polo; lower for basketball (which  might be partly due to a rule change) and 
+field hockey, and higher for volleyball. In compar ison to previous studies using a similar injury 
+definition and surveillance system during single spor ts tournaments, comparable injury rates have 
+been reported for football, 1 4 6 7 handball21 and athletics24. 
+ 
+About half of the injuries affect ed the lower extremity, with contusions, sprains and strains being 
+the most common types. This is in agreemen t with most publications  on sports injuries.28 29 30 31 
+32 The diagnoses covered a wide spectrum, however ankle sprains and thigh strain were the most 
+prevalent diagnoses as usua lly in sport. It is worth to mention, that 10 % of the injuries affected 
+the head, mainly diagnosed as skin lesions or contusions, but also tw elve concussions were 
+reported. The risk of concussion is a major concer n in certain sport, an d it diagnosis, treatment 
+and return-to-play gui delines have been the focus of  recent consensus statements.34 35 About half 
+of the injuries were reported to result in time -loss from sport, which is comparable to other 
+studies using the same injury definition and similar assessment methods. 1 4 6 7 21 24 32  
+ The majority of injuries were incurred during competition and one quarter during training which is in agreement with a study on injuries during 2007 World Athl etics Championships using the 
+same injury surveillance system.
+24 Injuries in training and in competition differed significantly in 
+all injury characteristics and with  regard to the different sports. In general, contact with another 
+athlete was the most frequent cause of injury, followed by non-contact trauma and overuse. Other 
+potential causes of injury such as equipment failure, field and weather conditions were rare. 
+However, the causes of injury differed substa ntially between the spor ts, and thus injury 
+prevention programmes should be tailor-made to th e injury profile of the respective sport. 
+ 
+Injuries were reported from all sports with the highest injury risk in football, taekwondo, field 
+hockey, handball, weightlifting, boxing, triathlon, and athletics. Laskowski et al29 found the 
+highest percentage of injured athletes in judo, power lifting, and track an d field; Cunningham and 
+Cunningham30 in hockey, taekwondo, and football. Greene and Bernhardt31 observed the highest 
+injury rates in basketball, cycling, wrestl ing, roller hockey and football. Martin et al28 reported 
+the most encounters for field hocke y and football players. Although th ere is a certain variation, it 
+can be concluded that teams sports (such as football, handball, basketball and hockey) and 
+martial sports (especially taekwondo and wrestli ng) have a relatively high injury risk. On the 
+other hand, the lowest injury risk during th e Beijing Olympics was observed for sailing, 
+canoe/kayak, rowing, synchronised swimming, diving, fencing and swimming which is also in 
+agreement with the literature.28 29 30 31 
+ 
+Limitations of the study and future research  
+The injury definition and methods applied have been discussed in detail in another publication.33 
+However, some limitations of the present study  should be mentioned. Time-loss for sport was 
+based on the physician´s estimate of the number of days that the athlete will not be able to 
+undertake their normal training pr ogramme or will not be able to compete. A follow-up of the 
+injured athletes could improve the validity of this data,33 but was impractical because small 
+NOCs have no associated medical personnel. The causes of injury were  described in given 
+categories, and a more sophisticat e analysis of injury mechanisms might provide more detailed 
+information for the development of preventive programmes.36 For example, incidences of contact 
+injuries should be studied with respect to the ade quacy of rules to protect the athletes from injury 
+and potential rule violation;37 38 motion analysis might help to understanding of the mechanisms 
+of non-contact injuries.39 The present study focused exclusively on injuries incurred in training 
+and competition. Future studies should also incl ude pre-existing (chronic) injuries and other 
+medical conditions (such as illnesse s or disease) since they also can  significantly affect the health 
+and performance of the athletes.   
+C
+ONCLUSION  
+The injury surveillance system proved to be accept ed by all involved medical personnel and to be 
+feasible in a large multi-sport event. The data in dicate that the injury su rveillance system covered 
+almost all participating athletes. The consistent  findings with previous studies demonstrate the 
+high quality of the data obtained. About 10% of the athletes incu rred an injury during the 2008 
+Beijing Olympic Games, half of them a time-loss in jury. The diagnoses, causes and risk of injury 
+differed substantially between the sports. Ther efore, injury prevention programmes should be 
+tailor-made to the injury profile of the respectiv e sport. In future Olympic Games, the injury 
+surveillance should be continued and, if possible,  extended with respect to follow-up of severe 
+injuries, more sophisticated analys is of injury mechanisms, and th e inclusion of chronic injuries 
+and sport-related illnesses. 
+References 
+ 
+1.  Junge A, Dvorak J, Graf-Baumann T. Football injuries during the World Cup 2002. Am J 
+Sports Med 2004;32(1 Suppl):23S-7S. 
+2.  Fuller CW, Junge A, Dvorak J. A six year prospective study of the incidence and causes of 
+head and neck injuries in  international football. Br J Sports Med  2005;39 Suppl 1:i3-9. 
+3.  Elias SR. 10-year trend in USA Cup soccer injuries: 1988-1997. Med Sci Sports Exerc  
+2001;33(3):359-67. 
+4.  Junge A, Dvorak J, Graf-Baumann T, Peterson L. Football injuries during FIFA tournaments 
+and the Olympic Games, 1998-2001: development and implementation of an injury-reporting 
+system. Am J Sports Med  2004;32(1 Suppl):80S-9S. 
+5.  Yoon YS, Chai M, Shin DW. Footba ll injuries at Asian tournaments. Am J Sports Med  
+2004;32(1 Suppl):36S-42S. 
+6.  Dvorak J, Junge A, Grimm K, Kirkendall D. Medical report from the 2006 FIFA World Cup 
+Germany. Br J Sports Med  2007;41(9):578-81; discussion 581. 
+7.  Junge A, Dvorak J. Injuries in female footba ll players in top-level in ternational tournaments. 
+Br J Sports Med  2007;41 Suppl 1:i3-7. 
+8.  Walden M, Hagglund M, Ekstrand J. Footba ll injuries during European Championships 
+2004-2005. Knee Surg Sports Traumatol Arthrosc  2007;15(9):1155-62. 
+9.  Wekesa M, Asembo JM, Njororai WW. Injury surveillance in a rugby tournament. Br J 
+Sports Med 1996;30(1):61-3. 
+10.  Jakoet I, Noakes TD. A high rate of injury during the 1995 Rugby World Cup. S Afr Med J  
+1998;88(1):45-7. 
+11.  Best JP, McIntosh AS, Savage TN. R ugby World Cup 2003 injury surveillance project. Br J 
+Sports Med 2005;39(11):812-7. 
+12.  King DA, Gabbett TJ, Dreyer C, Gerrard DF. Incidence of injuries in the New Zealand 
+national rugby league sevens tournament. J Sci Med Sport  2006;9(1-2):110-8. 
+13.  Fuller CW, Laborde F, Leather RJ, Moll oy MG. International Rugby Board Rugby World 
+Cup 2007 injury surveillance study. Br J Sports Med  2008;42(6):452-9. 
+14.  Muller-Rath R, Bolte S, Petersen P, Mommsen  U. [Injury profile in modern competitive 
+karate--analysis of 1999 WKC-Karate World Championship Games in Bochum]. 
+Sportverletz Sportschaden  2000;14(1):20-4. 
+15.  Arriaza R, Leyes M. Injury  profile in competitive karate: prospective analysis of three 
+consecutive World Karate Championships. Knee Surg Sports Traumatol Arthrosc  
+2005;13(7):603-7. 
+16.  Muller-Rath R, Miltner O, Mamarvar M, Mumme  T. [Risk of injury in and adolescent and 
+junior competitive karate]. Sportverletz Sportschaden  2005;19(4):191-4. 
+17.  Roberts WO, Brust JD, Leonard B, Hebert BJ . Fair-play rules and in jury reduction in ice 
+hockey. Arch Pediatr Adolesc Med  1996;150(2):140-5. 
+18.  Roberts WO, Brust JD, Leonard B. Youth ice hockey tournament injuries: rates and patterns 
+compared to season play. Med Sci Sports Exerc  1999;31(1):46-51. 
+19.  Schafle MD, Requa RK, Patton WL, Garrick  JG. Injuries in th e 1987 national amateur 
+volleyball tournament. Am J Sports Med  1990;18(6):624-31. 
+20.  
+Bahr R, Reeser JC. Injuries among world-cl ass professional beach volleyball players. The 
+Federation Internationale de Volle yball beach volleyball injury study. Am J Sports Med  
+2003;31(1):119-25. 
+21.  Langevoort G, Myklebust G, Dvorak J,  Junge A. Handball injuries during major 
+international tournaments. Scand J Med Sci Sports  2007;17(4):400-7. 
+22.  Hutchinson MR, Laprade RF, Burnett QM, 2nd, Mo ss R, Terpstra J. Injury surveillance at 
+the USTA Boys' Tennis Championships: a 6-yr study. Med Sci Sports Exerc  1995;27(6):826-
+30. 
+23.  Brogger-Jensen T, Hvass I, Bugge S. Injuries at the BMX Cycling European Championship, 
+1989. Br J Sports Med 1990;24(4):269-70. 
+24.  Alonso JM, Junge A, Renstrom  P, Engebretsen L, Mountjoy M, Dvorak J. Sports Injury 
+Surveillance During the 2007 IAAF World Athletics Championships. Clin J Sport Med  2008. 
+25.  McCormick DP, Niebuhr VN, Risser WL. Injury and illness surveillance at local Special 
+Olympic Games. Br J Sports Med  1990;24(4):221-4. 
+26.  Nyland J, Snouse SL, Anderson M, Kelly T,  Sterling JC. Soft tissue injuries to USA 
+paralympians at the 1996 summer games. Arch Phys Med Rehabil  2000;81(3):368-73. 
+27.  Webborn N, Willick S, Reeser JC. Injuries among disabled athletes  during the 2002 Winter 
+Paralympic Games. Med Sci Sports Exerc  2006;38(5):811-5. 
+28.  Martin RK, Yesalis CE, Foster D, Albright JP . Sports injuries at the 1985 Junior Olympics. 
+An epidemiologic analysis. Am J Sports Med  1987;15(6):603-8. 
+29.  Laskowski ER, Najarian MM, Smith AM, Stuart MJ, Friend LJ. Medical coverage for 
+multievent sports competition: a comprehensive analysis of injuries in the 1994 Star of the 
+North Summer Games. Mayo Clin Proc  1995;70(6):549-55. 
+30.  Cunningham C, Cunningham S. Injury surv eillance at a national multi-sport event. Aust J Sci 
+Med Sport  1996;28(2):50-6. 
+31.  Greene JJ, Bernhardt D. Medical coverage analysis for Wisconsin' s Olympics: the Badger 
+State Games. Wis Med J 1997;96(6):41-4. 
+32.  Junge A, Langevoort G, Pipe A, Peytavin A, Wong F, Mountjoy M, et al. Injuries in team 
+sport tournaments during the 2004 Olympic Games. Am J Sports Med 2006;34(4):565-76. 
+33.  Junge A, Engebretsen L, Alonso JM, Renstr om P, Mountjoy M, Aubry M, et al. Injury 
+surveillance in multi-sport events: the In ternational Olympic Committee approach. Br J 
+Sports Med 2008;42(6):413-21. 
+34.  Aubry M, Cantu R, Dvorak J, Graf-Baumann T, Johnston K, Kelly J, et al. Summary and 
+agreement statement of the Fi rst International Conference on Concussion in Sport, Vienna 
+2001. Recommendations for the improvement of sa fety and health of athletes who may 
+suffer concussive injuries. Br J Sports Med  2002;36(1):6-10. 
+35.  McCrory P, Johnston K, Meeu wisse W, Aubry M, Cantu R, D vorak J, et al. Summary and 
+agreement statement of the 2nd International Conference on Concussion in Sport, Prague 
+2004. Br J Sports Med 2005;39(4):196-204. 
+36.  Krosshaug T, Andersen TE, Olsen OE, Mykl ebust G, Bahr R. Research approaches to 
+describe the mechanisms of injuries in sport: limitations and possibilities. Br J Sports Med  
+2005;39(6):330-9. 
+37.  Fuller CW, Junge A, Dvorak J. An assessmen t of football referees' decisions in incidents 
+leading to player injuries. Am J Sports Med  2004;32(1 Suppl):17S-22S. 
+38.  
+Andersen TE, Larsen O, Tenga A, Engebretsen L, Bahr R. Football in cident analysis: a new 
+video based method to describe injury mechanisms in professional football. Br J Sports Med  
+2003;37(3):226-32. 
+39.  Krosshaug T, Slauterbeck JR, Engebretsen L, Bahr R. Biomechanical analysis of anterior 
+cruciate ligament injury mechanisms: three-dimensional motion reconstruction from video 
+sequences. Scand J Med Sci Sports  2007;17(5):508-19.  

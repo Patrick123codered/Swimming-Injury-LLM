@@ -6,8 +6,8 @@ from ensemble import ensemble_retriever_from_docs
 from full_chain import create_full_chain, ask_question
 from local_loader import load_txt_files
 
-st.set_page_config(page_title="LangChain & Streamlit RAG")
-st.title("Insert title")
+st.set_page_config(page_title="SwimRAG")
+st.title("SwimRAG: AI-Powered Chatbot for Swimming Injury Literature")
 
 
 def show_ui(qa, prompt_to_user="How may I help you?"):

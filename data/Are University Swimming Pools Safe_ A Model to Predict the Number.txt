@@ -1,0 +1,422 @@
+International Journal of Aquatic Resear ch and E ducation International Journal of Aquatic Resear ch and E ducation 
+Volume 3 Number 3 Article 7 
+8-1-2009 
+Are Univ ersity Swimming P ools Saf e? A Model t o Predict the Are Univ ersity Swimming P ools Saf e? A Model t o Predict the 
+Number of Injuries in P ennsylv ania Univ ersity Swimming P ools Number of Injuries in P ennsylv ania Univ ersity Swimming P ools 
+Richar d Hsiao 
+Indiana Univ ersity of P ennsylv ania , hsiao@iup.edu 
+Rober t Kostelnik 
+Indiana Univ ersity of P ennsylv ania 
+Follow this and additional works at: https:/ /scholar works.bgsu.edu/ijar e 
+How does access t o this work benefit y ou? Let us know! How does access t o this work benefit y ou? Let us know! 
+Recommended Citation Recommended Citation 
+Hsiao, Richar d and K ostelnik, Rober t (2009) " Are Univ ersity Swimming P ools Saf e? A Model t o Predict the 
+Number of Injuries in P ennsylv ania Univ ersity Swimming P ools, " International Journal of Aquatic Resear ch 
+and E ducation : Vol. 3: No. 3, Ar ticle 7. 
+DOI: https:/ /doi.or g/10.25035/ijar e.03.03.07 
+Available at: https:/ /scholar works.bgsu.edu/ijar e/vol3/iss3/7 
+This Resear ch Ar ticle is br ought t o you for fr ee and open access b y the Journals at ScholarW orks@BGSU. It has 
+been accepted for inclusion in International Journal of Aquatic Resear ch and E ducation b y an authoriz ed edit or of 
+ScholarW orks@BGSU. 
+284International Journal of Aquatic Research and Education, 2009, 3, 284-301
+© 2009 Human Kinetics, Inc.
+Are University Swimming Pools Safe? A 
+Model to Predict the Number of Injuries in 
+Pennsylvania University Swimming Pools
+Richard Hsiao and Robert Kostelnik
+Aquatic facilities can end up paying a large amount of compensation as a result of a 
+charge of negligence. There are two main purposes of this study. The first was to use survey methodology to identify the number of injuries that occur in the swimming pools at Pennsylvania state universities and, as a result, to develop a model to predict the number of injuries that may occur in a university swimming pool. Second, the researchers wanted to gain insight from a sample of aquatic directors into the con-cerns they have managing their aquatic facilities. Multiple linear regression and ANOV A statistics, along with face-to-face interviews and on-site visits/observations, were used for this study. Thirty-three universities (71.7%) of the online survey respon-dents claimed that they had a risk management manual or plan on-site. The research-ers visited a total of 14 state owned universities’ swimming pools in Pennsylvania to examine the pool facilities and evaluate risk management practices within their aquat-ics facilities. When researchers inquired about what procedures the managers fol-lowed when they found an unsafe condition in their facility, 10 out of 14 aquatic directors (71.42%) said that they did not have any standard procedures that they fol-lowed. Site observations not only provided a clear picture for the researchers in understanding how aquatic directors operate their swimming pools but also helped the researchers to identify several false risk management practices, such as rusted pool side drain covers, broken tiles, and blocked exit doors, etc. The effectiveness of the model is appropriate in the application of predicting the number of potential swim-ming pool injuries at the university level. This is valuable statistical information for the aquatic director to obtain and analyze to determine which risk alterations need to occur within the facility management to reduce the number of potential injuries.
+Aquatic facilities, such as swimming pools, can be categorized as attractive 
+nuisances. Attractive nuisances on a property catch the attention of children but 
+also endanger their safety. For example, unlocked university swimming pools, decorative ponds, and fountains have all qualified as attractive nuisances. It is the aquatic director’s responsibility to foresee and prevent the associated potential risks and provide a safer aquatic environment for its patrons. Aquatic-related acci-dents may involve a lawsuit that charges negligence against the pool operator or 
+The authors are with the Health and Physical Education Department at Indiana University of 
+Pennsylvania in Indiana, PA.
+1Hsiao and Kostelnik: Are University Swimming Pools Safe? A Model to Predict the Number
+Published by ScholarWorks@BGSU, 2009
+Are University Swimming Pools Safe?   285
+institution in charge of the facility. These lawsuits are not only time consuming 
+and stress inducing, but also can very expensive, either to litigate or to resolve. According to statistics from the Centers for Disease Control and Prevention (CDCP), 2006, nine people drown each day in the United States.
+There were two main purposes of this study. The first was to use a survey to 
+identify the number of injuries that occur in the swimming pools at Pennsylvania universities and as a result, to develop a model to predict the number of injuries that may occur in a university swimming pool. Second, the researchers wanted to gain insights from a sample of aquatic directors into the concerns they have in managing their aquatic facility.
+The researchers used multiple approaches, including a quantitative question-
+naire, a qualitative face-to-face interview, and onsite visits/observations to inves-tigate the number of injuries in university aquatic facilities in Pennsylvania. The factors that influenced the management style of the aquatics directors were also explored.
+Literature Review
+The literature review can be divided into three areas that include (a) swimming pool injuries, (b) aquatic risk management programs, and (c) lawsuits related to aquatic injuries.
+Swimming Pool Injuries
+According to 2005 statistics from the Centers for Disease Control and Prevention (CDCP), drowning remains the second-leading cause of injury-related deaths for children ages 1–14. Males accounted for 80% of fatal drowning accidents across the United States (CDC, 2006). It is estimated that 7,500 people between the ages of 35–54 had swimming pool-related injuries that required an emergency room visit in the United States in 1998 (Consumer Safety Product Review, 2000). According to statistics from 1998, the National Safety Council reported an esti-mated 99,691 injuries from a population of 57,900,000 participants in aquatic activities (Dworkin, 2002). Injury percentages can be broken down by age groups (Table 1).
+Between 2005 and 2007, an average of 2,700 children under five years old 
+were involved in swimming pool injuries or spa submersions and treated in a hos-pital emergency room each year (Gipson, 2008). Details of these injuries are listed in Table 2.
+Table 1
+ Injur
+y Percentages by Age Group
+Under Age 5 11.8%
+Ages 5–14 43.8%
+Ages 15–24 17.4%
+Ages 25–64 24.3%
+65 & over 2.7%
+2International Journal of Aquatic Research and Education, Vol. 3, No. 3 [2009], Art. 7
+https://scholarworks.bgsu.edu/ijare/vol3/iss3/7
+DOI: https://doi.org/10.25035/ijare.03.03.07
+286  Hsiao and K ostelnik
+Medical costs for near-drowning victims can range between $75,000 and 
+$180,000 annually for the hospital emergency treatment and subsequent long term 
+care. Long term costs can rise above $4.5 million if the near-drowning victim suf-fers brain damage (National SAFE KIDS Campaign, 2004).
+In the Northern United States, university swimming pools operate year round 
+and attract a large number of users during the winter months. Aquatic managers and their staff are charged with providing a safe aquatic environment. Most employees who work in an aquatic-related facility are certified, but may not be experienced. Such inexperience can lead to swimming-related injuries and accidents.
+Aquatic Risk Management Programs
+It is imperative that aquatic managers place safety and risk prevention at the top of their priority list. This requires that each individual employee in the aquatic setting must be trained in this area. Each task, from daily inspections of the water chemicals to examination of the facility’s deck, spa, locker rooms, and equipment room is vitally important for managing inherent risks. A well-designed risk man-agement plan is about a proactive, forward thinking approach to controlling and reducing risk. Aquatic staff members need to be able to foresee potential risks, focusing on the areas accessible to the public with the goal of trying to reduce or transfer risks to protect patrons of the swimming pool.
+“Aquatic risk management is an ongoing process, requiring considerable time 
+commitment and focus on a regimen of monitoring and reevaluation” (Fletemeyer & Temme, 2003). Many potential accidents around the swimming pool are not entirely foreseeable or preventable, and this can make the swimming pool risks extremely hard to manage. The best approach is to minimize future risk and con-trol existing hazards. Fletemeyer and Temme (2003) claim that the following seven steps are effective to control and lower liability in aquatic facilities.
+Step 1: Identifying Goals and Objectives of the Risk Management Plan.  The 
+ultimate goal for an aquatic manager is to eliminate potential dangers and provide a safer aquatic environment for all patrons. Objectives should address how this goal is going to be met for a particular facility. These objectives, once determined, will likely involve policy/procedure revisions as well as staff education and training.Table 2
+ Estimat
+ed Number of Emergency Department Visits for 
+Pool and Spa Submersion Injuries for Children Under Five Years of 
+Age Between 2005–2007
+YearEstimated Emergency Department-Treated Injuries
+Pools Only Pools & Spas
+Average 2,700 2,700
+2007 2,100 2,200
+2006 3,800 3,900
+2005 2,100 2,100
+3Hsiao and Kostelnik: Are University Swimming Pools Safe? A Model to Predict the Number
+Published by ScholarWorks@BGSU, 2009
+Are University Swimming Pools Safe?   287
+Step 2: Organizing an Assessment Team.  The assessment team should be com-
+prised of a group of people with training or expertise in aquatic risk management. 
+These people are usually certified Aquatic Pool Operators (APO), able to use their experience to identify potential swimming pool operation issues, such as water chemistry, lifeguard training, equipment condition, and water temperature. Assess-ment team members can be recruited by contacting other community swimming pools/aquatic facilities and other university pools.
+Step 3: Identifying and Measuring Risks.  Identifying, measuring, and evaluat-
+ing aquatic risks are not easy tasks. Statistical data can play a key role in measure-ment and evaluation of risks. For example, if statistics indicate that the number of injuries associated with a facility’s diving board is 20% higher one year than any previous year, then this should alert management to be concerned and to take action. Further investigation by the aquatic director should occur. Is the surface of the diving board too slippery? Is there proper signage in place so that patrons are aware of the diving board? Are there parts of the diving board that need to be repaired? The greater the risk, the greater effort the aquatic director needs to contribute.
+Step 4: Providing Effective Warnings.  There are two major functions of the 
+warning signs: (a) to warn people about a danger of which they may not be aware and (b) to remind people that a potential risk exists. When making warning sig-nage, the aquatic manager should consider several elements.
+•	 Warning
+	signs
+	need
+	to
+	follo
+w
+	the
+	standards
+	pro
+vided
+	by
+	the
+	American
+	
+National Standards Institute (ANSI) for color
+, placement, size, and design.
+•	 Avoid
+	“sign
+	pollution.
+”
+	Sometimes,
+	too
+	man
+y
+	signs
+	around
+	the
+	pool
+	area
+	can
+	
+be inef
+fective in reminding swimmers of hazards and pool regulations.
+•	 Due
+	to
+	di
+verse
+	demographics
+	in
+	the
+	United
+	States,
+	consider
+	the
+	usage
+	of
+	
+w
+arning symbols instead of warning signs. The warning symbols should be 
+standardized and placed for maximum visibility, thereby increasing their 
+effectiveness.
+Step 5: Training Staff.  In order decrease the possibility of negligence lawsuits, 
+an aquatic director needs to ensure that his/her staff is well-trained and continu-ally in-serviced. Aquatic staff includes all lifeguards, equipment staff and manag-ers, and essentially anyone involved in the operation of the pool. Staff should have an understanding of a risk management model, such as the 7 steps suggested by Fletemeyer and Temme. Mock aquatic scenarios are one effective means for pre-paring staff to deal with accidents or emergencies involving swimming pool patrons.
+Step 6: Record Keeping.  An effective risk management program needs to have 
+all aquatic-related records kept on site. Aquatic management needs to document everything associated with aquatic management and facility operation. These documents should be kept on file for at least five years.
+Step 7: Conducting Performance and Safety Audits.  To ensure that the risk 
+management plan is being carried out in an effective manner, it is important to evaluate the process. Safety audits cannot only be used to serve this function but 
+4International Journal of Aquatic Research and Education, Vol. 3, No. 3 [2009], Art. 7
+https://scholarworks.bgsu.edu/ijare/vol3/iss3/7
+DOI: https://doi.org/10.25035/ijare.03.03.07
+288  Hsiao and K ostelnik
+can also help to make aquatic staff feel like they are part of the risk management 
+team. This has the potential to increase employee morale and motivation. Safety audits also help management to evaluate any staff training needs. All safety audits should be recorded, filed, and regularly reviewed.
+Other aquatic risk management models exist, such as the Risk Management 
+Model (A.D.I.E. Model) developed by Hsiao (2007), which focuses on risk pre-vention and risk reduction. Hsiao presents four major steps related to best practice risk management, which include risk assessment, risk diagnosis, risk intervention, and risk evaluation. The unique part of Hsiao’s model is that he emphasized the fundamental concepts of risk management and illustrated different areas of con-centration, such as communication, critical thinking, skills and competency, col-laboration, and practice. While there is no such thing as a risk-free aquatic envi-ronment, a well-prepared facility director will ensure that there is a plan in place to manage risks, with emphasis on risk prevention and staff training and preparedness.
+Lawsuits Related to Swimming Pools
+The Virginia Graeme Baker Pool and Spa Safety Act of 2007 provided guidelines to protect children from accidents or injuries related to inadequate pool or spa drains (GovTrack.us., 2007). Setting a high standard and providing a safe swim-ming environment is a main goal for all aquatic facility managers. “The future is going to be less tolerant of ignorance and apathy, and the reason I say that is we have seen legislation passed for the first time with the Baker Act, and that’s encouraging additional legislation” (Lachocki, 2008).
+A higher standard needs to be established in the pool industry to reduce 
+potential risks in the swimming pool setting. According to a survey by Recreation Management (2008) of all the aquatic facilities in the nation, 77.7% currently offered learn-to-swim classes for children, with 2.6% of facilities planning to add classes in the future. Sixty-eight percent offered aquatic exercise programs while 5.8% planned on adding a program. Adult learn-to-swim classes were offered by 56.4% with 4% percent planning to add classes in the future. These numbers con-firmed the continuing popularity of aquatic programs within the past several years.
+Swimming pool lawsuits are common and stem from accidents that have 
+occurred in home pools, community pools, and university pools. University pools often are multifunctional and used by university students, faculty and staff, local high school students, and members of the community. Because of the frequency and diversity of their use, it is vitally important to invest time in providing a safe environment to ensure safety for all involved in university pools.
+Examples of lawsuits associated with swimming pools illustrate the impor-
+tance of an effective risk management program. Goetsch, a fifteen-year-old boy, went swimming in the pool at Eckerd College. While practicing to hold his breath, he lost consciousness and drowned. Goetsch’s mother sued the college for negli-gence because the college failed to provide a proper lifeguard chair to assist the lifeguard in seeing the entire pool. This case settled for $1.55 million in favor of Goetsch’s family. In addition, the court asked Eckerd College to make changes related to its pool facility and safety policies (Reporter, 2002).
+5Hsiao and Kostelnik: Are University Swimming Pools Safe? A Model to Predict the Number
+Published by ScholarWorks@BGSU, 2009
+Are University Swimming Pools Safe?   289
+In the case of Lan Duong v. City University of New York (1989), a wrongful 
+death action was filed against City University of New York because a student 
+drowned in the university’s pool during a swimming lesson. The case occurred at the university during scheduled swimming lessons. There is no doubt that the instructor is responsible for this kind of accident, especially since it occurred during class time. It is required by law to have a lifeguard on duty during any swimming-related classes. In this particular case, there were no eyewitnesses to the drowning accident. Because of the lack of eyewitnesses, it is hard to judge if the instructor provided sufficient supervision under the circumstances. Therefore, the trial court’s decision was revised.
+In another case at Creighton University’s swimming pool (Cassio v. Creigh-
+ton University, 1989), Cassio went swimming at the university pool and drowned. When the accident happened, the lifeguard was distracted by a conversation with his supervisor. The plaintiff alleged that the university had failed to properly guard its swimming pool while Cassio was in the pool. The plaintiff sued the university for negligence. The verdict was in favor of the plaintiff and Creighton University filed for a retrial. In this motion, the university contended that because violation of the ordinances had not been specifically pleaded that a new trial should occur. The trial court sustained Creighton University’s motion for a new trial.
+Research Questions
+ 1. Ho w many Pennsylvania universities with aquatic facilities have an aquatic 
+risk management manual/plan?
+ 2.
+ What type of aquatic programs do Pennsylv
+ania universities offer?
+ 3.
+ What 
+concerns do aquatic directors have in terms of risk management 
+implementation and pool operations?
+ 4.
+ What 
+faulty practices were identified during site visits/observations of the 
+aquatic facilities at Pennsylvania universities?
+ 5.
+ Is 
+there an association between the number of injuries and the aquatic 
+manager’s years of experience?
+ 6.
+ Is 
+there an association between the number of injuries and the age of the 
+aquatic facility?
+ 7.
+ Can 
+a model to predict the number of injuries in a swimming pool setting be 
+an effective tool?
+Method
+Study Participants
+Observations/visits, face-to-face interviews, and an online survey were used to investigate swimming facilities at 14 state universities in Pennsylvania. An addi-tional 154 universities (Pike Street Industries Inc., 2005) were selected to com-plete the online survey to gain more information about swimming pool operation and aquatic directors’ knowledge of risk management. The online survey return rate was 29.8% (46 participants). The site visits provided in-depth information the 
+6International Journal of Aquatic Research and Education, Vol. 3, No. 3 [2009], Art. 7
+https://scholarworks.bgsu.edu/ijare/vol3/iss3/7
+DOI: https://doi.org/10.25035/ijare.03.03.07
+290  Hsiao and K ostelnik
+management of the aquatic facilities and operations but also provided the research-
+ers with an estimate of information about management philosophy used by the aquatic facility managers. Figure 1 (Pennsylvania State System of Higher Educa-tion) provides the geographic location of the 14 state universities in Pennsylvania. The geographic locations of the 14 state universities are unique in that they are spread throughout the entire state of Pennsylvania.
+Procedures
+The variables examined by the online survey included the aquatic director’s demo-graphic information, such as sex, age, years of experience, and questions related to risk management practices, such as occurrence of lawsuits, injuries that have occurred, and types of aquatic activities offered. The funnel approach (Wieersma, 2000) was applied throughout the research process to narrow the focus to specific solutions and conclusions. Qualitative research was conducted via face-to-face interviews and on-site observations. Semistructured interviews were conducted with the aquatic directors.
+Statistical Analyses
+Multiple linear regression analysis was chosen as the statistical tool to develop a best-fit model for prediction of the number of injuries in Pennsylvania universi-ties. Correlations were calculated to analyze the association between the number of injuries, experience of the aquatic director, the age of the swimming pool, and the significance of each of the factors that are related to the study. Analysis of variance (ANOV A) statistics were calculated to determine the existence of statisti-cally significant differences between selected independent variables, such as the aquatic director’s age, gender, and number of years of experience.
+Results
+Online Survey Results
+The results of this study provided further understanding of the aquatic directors’ perceptions and implementation of risk management plans. Thirty-three universi-ties (71.7%) of the online survey respondents claimed that they had a risk man-agement manual or plan on-site. Most universities reported offering a variety of aquatic programs or activities to increase the revenue of the aquatic program. It also provided data to create a model by which to predict the number of injuries in Pennsylvania university swimming pools. Table 3 provides information from the online survey about the aquatic programs/activities offered at Pennsylvania uni-versities. For example, 40 universities (86%) offer scuba diving courses and only 3 universities (6.52%) offer a fitness swimming program. This data not only pro-vides insights into university aquatic program offerings but also provides the researchers information about different perspectives when dealing with potential risks in the aquatic setting.
+7Hsiao and Kostelnik: Are University Swimming Pools Safe? A Model to Predict the Number
+Published by ScholarWorks@BGSU, 2009
+291
+Figure 1 — Map of the14 state-owned universities in Pennsylvania.
+8International Journal of Aquatic Research and Education, Vol. 3, No. 3 [2009], Art. 7
+https://scholarworks.bgsu.edu/ijare/vol3/iss3/7
+DOI: https://doi.org/10.25035/ijare.03.03.07
+292
+Table 3  A quatic Programs/Activities Offered by Pennsylvania Universities
+Scuba 
+divingWater 
+aerobicWater 
+poloLifeguard 
+training CPR certification KayakingCompetitive 
+swimFitness 
+swimming Diving
+40 19 22 42 43 4 42 3 5
+86% 41% 47.8% 91.3% 93.4% 8.69% 91.3% 6.52% 10.8%
+9Hsiao and Kostelnik: Are University Swimming Pools Safe? A Model to Predict the Number
+Published by ScholarWorks@BGSU, 2009
+Are University Swimming Pools Safe?   293
+Results From Interviews
+Data were collected from the face-to-face open-ended interview questions with 
+aquatic directors from the 14 state-owned universities in Pennsylvania to answer research question 3 (i.e., What concerns did aquatic directors have in terms of risk management implementation and pool operations?). Eleven aquatic directors (78.57%) claimed that their responsibilities were very diverse, including extra teaching assignments (e.g., aquatic programs/activities, lifeguard training, and CPR certification courses) as well as serving as a swimming coach. Nine aquatic directors (64.28%) said that their pool had a risk management manual, although 7 out of 9 participants (77.77%) admitted that their aquatic risk management plan was outdated and needed to be revised. They claimed an aquatic risk management plan was not useful when accidents had happened. When researchers inquired about what procedures the managers followed when they found an unsafe condi-tion in their facility, 10 out of 14 aquatic directors (71.42%) said that they did not have any standard procedures that they followed. Most of them had posted warn-ing signs if an unsafe condition could not be immediately resolved in the swim-ming pool area.
+Results From Site Observations
+The researchers visited a total of 14 state-owned universities’ swimming pools in Pennsylvania to examine the pool facilities and evaluate risk management prac-tices within their aquatics facilities. Figures 2–7 display examples of unsafe prac-tices and conditions observed throughout the aquatic facilities in state-owned Pennsylvanian universities. Figure 2 shows an electric fan, trash can, and table blocking the exit door of the aquatic facility. Figure 5 illustrates the unorganized, exposed electric wires that should be secured and protected by water-resistant material. Figure 7 shows several broken tiles on the edge of the swimming pool and a wet pool floor, both potentially dangerous hazards to anyone using the swimming pool.
+Figure 2 — Unorganized equipment blocking an exit.
+10International Journal of Aquatic Research and Education, Vol. 3, No. 3 [2009], Art. 7
+https://scholarworks.bgsu.edu/ijare/vol3/iss3/7
+DOI: https://doi.org/10.25035/ijare.03.03.07
+294  Hsiao and K ostelnik
+Potential risk is everywhere and can happen unexpectedly. Even a well-orga-
+nized aquatic facility has the potential to be involved in lawsuits. For example, a 
+broken pool drain case settled for $30.9 million and a deaf lifeguard sued for $20 million (Appenzeller, 1998). An aquatic director needs to update all required risk management drills to make swimmers’ safety a top priority in their facility. Short-cuts should not be taken when trying to lower potential risks in the swimming pool environment. There is definitely a correct way to handle accidents—by fol-lowing all procedures within the manual of risk management practice.
+Accidental drowning statistics illustrate that the potential for accidents during 
+swimming lessons and recreational swimming time is evident. Is the number of years of experience for aquatic directors associated with a reduced number of inju-ries in the swimming pool? Is the condition of the swimming pool a major factor influencing the number of injuries that occur? Research question 5 and question 6 help us to further investigate the relationship between the injury, the condition of the swimming pool, and/or the aquatic director’s years of experience.Figure 3 — Pool lane divider stored inappropriately on the pool deck.
+Figure 4 — Rusted drain cover.
+11Hsiao and Kostelnik: Are University Swimming Pools Safe? A Model to Predict the Number
+Published by ScholarWorks@BGSU, 2009
+Are University Swimming Pools Safe?   295
+Research question 5: Is there an association between the number of injuries 
+and the aquatic manager’s years of experience? Research question 6: Is there an 
+association between the number of injuries and the age of the aquatic facility?
+Table 4 illustrates the Spearman correlations between the number of injuries 
+and the number of years of experience of the aquatic director and the age of the swimming pool. There was a moderate but negative statistically significant rela-tionship between the number of injuries reported and the aquatic director’s years of experience (r = – .550, p < .001). The more experience the aquatic director had, 
+the lower the number of injuries that occurred. In addition, the age of the swim-ming pool was significantly and positively correlated with the number of reported injuries (r = .514, p < .001). The older the swimming pool was, the greater the 
+number of injuries that were reported. The three-dimensional graph (Figure 8) illustrates the relationships among these three variables. The researchers identi-fied some factors from the online survey, such as frequency of past lawsuits, aquatic staff certifications, and management style of the aquatic director that Figure 6 — Diving practice equipment inappropriately stored.
+Figure 5 — Exposed and unsecured electrical wires.
+12International Journal of Aquatic Research and Education, Vol. 3, No. 3 [2009], Art. 7
+https://scholarworks.bgsu.edu/ijare/vol3/iss3/7
+DOI: https://doi.org/10.25035/ijare.03.03.07
+296  Hsiao and K ostelnik
+relate to the number of injuries. For example, facilities with a higher number of 
+past lawsuits tend to have a higher number of injuries.
+One additional goal for the researchers was to develop a model to further 
+assist aquatic directors in reducing potential aquatic risks and to predict the number of injuries in an aquatic facility. Using a multiple linear regression, the researchers developed the following model to answer research question 7 (Can a model to predict the number of injuries in a swimming pool be an effective tool?).Figure 7 — Broken tiles on pool deck.
+Table 4  Cor relations Between the Number of Injuries and the Number of 
+Aquatic Director Years of Experience and the Age of the Swimming Pool
+  Experience PoolAge InjuryNumber
+Spearman 
+CorrelationExperience Correlation  
+Coefficient1.000 .036 -.550**
+Sig. (2-tailed) .812 .000
+N 46 46 46
+PoolAge Correlation  
+Coefficient.036 1.000 .514**
+Sig. (2-tailed) .812 .000
+N 46 46 46
+InjuryNumber Correlation  
+Coefficient-.550** .514** 1.000
+Sig. (2-tailed) .000 .000
+N 46 46 46
+** Correlation is significant at the 0.01 level (2-tailed).
+13Hsiao and Kostelnik: Are University Swimming Pools Safe? A Model to Predict the Number
+Published by ScholarWorks@BGSU, 2009
+Are University Swimming Pools Safe?   297
+Coefficients
+Number of injuries = 2.272 + (−.223 * Experience + .136 * PoolAge + 
+−.233*RiskMgtPlan + 1.928 * Lawsuit)
+From the above multiple linear regression model, the predicted number of injuries can be calculated through the equation: 2.272 (the constant/intercept) + (−.223 * aquatic director’s years of experience + .136 * the age of the pool + −.233 * risk management plan + 1.928 * past lawsuits in the last 12 months). Independent variables from the equation are Experience, PoolAge, RiskMgtPlan, and Lawsuit, and the dependent variable is Number of injuries (see Table 5. Having a risk man-agement plan was coded as 0. Let’s look at an example to illustrate the model. An aquatic director with 3 years of experience manages a pool that is 15 years old and the facility had no risk management plan and has been involved in 2 lawsuits in the past 12 months. All of this information was inserted into the model and resulted in a predictive score of 7.499 injuries. Thus, the predicted number of injuries is between 7 and 8.Figure 8 — A three-dimensional graph of the relationship between the number of injuries, 
+the number of aquatic director years of experience, and the age of the swimming pool.
+14International Journal of Aquatic Research and Education, Vol. 3, No. 3 [2009], Art. 7
+https://scholarworks.bgsu.edu/ijare/vol3/iss3/7
+DOI: https://doi.org/10.25035/ijare.03.03.07
+298  Hsiao and K ostelnik
+The effectiveness of the multiple linear regression model is appropriate in the 
+application of predicting the number of potential swimming pool injuries at the 
+university level. This is valuable statistical information for the aquatic director to obtain and analyze to determine which risk alterations need to occur within the facility management to reduce the number of potential injuries.
+Table 6 illustrates that 67.3% (R
+2) of the variation in the number of injuries 
+can be explained by the four independent variables of an aquatic director’s number of years of experience, the age of the swimming pool, the presence of a risk man-agement plan, and the number of past lawsuits. In addition, the model developed by the researchers can be generalized to swimming pools outside of Pennsylvania. (An adjusted R
+2 for the nationwide data was 0.641.) The reduction between R2 
+and adjusted R2 was 0.032. This means that the multiple regression equation 
+developed from the Pennsylvania swimming pool sample and face-to-face inter-views would account for all but approximately 3% of the variance in the nation-wide survey outcomes. The Durbin-Watson statistic tells us that the assumption of independent errors was tenable (1 < 1.126 < 3). The multiple regression model resulted in a significantly better prediction of the number of injuries in the univer-sity aquatic environment.
+ANOV A examines variability and can be applied to determine the total 
+amount of variance in the dependent variable and how much of the variance is accounted for by the independent variables. The researchers examined the signifi-cance related to all independent variables (aquatic director’s years of experience, the age of the swimming pool, risk management plan, and number of past law-suits) and the dependent variable (the number of injuries). From the ANOV A sta-tistics (Table 7), the F-ratio is significant at p < .001. There was a significant 
+interaction effect between the number of injuries and aquatic director’s years of experience, the age of the pool, risk management plan and lawsuit of the data, F(4, Table 5
+ Coef
+ficients
+B SE B 
+Constant 2.27 1.395
+Experience −2.23 .061 −.401**
+PoolAge .136 .047 .320*
+RiskMgtPlan −.233 .864 −.025
+Lawsuit 1.928 .598 .406*
+Note R2 = .673. **p < .001. * p < .005
+Table 6  Statistical R esults of R2 and Adjusted R2
+R R2 ∆ R2 SEE Durbin-Watson
+.820(a) .673 .641 2.52281 1.126
+Note a Predictors: (Constant), RiskMgtPlan, Experience, PoolAge, Lawsuit
+Dependent Variable: InjuryNumber
+15Hsiao and Kostelnik: Are University Swimming Pools Safe? A Model to Predict the Number
+Published by ScholarWorks@BGSU, 2009
+Are University Swimming Pools Safe?   299
+41) = 21.113, p < .001. The P value is significant and it indicates that the number 
+of injuries differed according to different factors including the aquatic director’s 
+years of experience, the age of the swimming pool, the implementation of a risk management plan, and the number of past lawsuits related to the operation of the university swimming pool.
+Discussion
+Even the best risk management plan cannot eliminate all potential risks. There are many hidden risks surrounding aquatic facilities. Aquatic directors need to put extra effort into creating a user-friendly and safer environment for all patrons.
+This study aimed to present the development of a model and its application in 
+assisting university swimming pool operators to estimate the number of injuries that might occur in a specific university swimming pool setting. This is beneficial and practical for the university swimming pool manager. There are several factors related to the number of injuries within the university swimming pool. The vari-ables within the model are statistically significant in terms of interpretation of a best-fit model for the prediction of number of injuries.
+Many aquatic facilities lack money for needed repairs or renovations accord-
+ing to interviews with aquatic directors in the 14 state-owned Pennsylvanian uni-versity swimming pools. These aquatic directors understand the importance of the risk management plan/manual but lack information in terms of obtaining updated risk management manuals. Through face-to-face interviews, the researchers dis-covered that over 60% of interviewees stated that they had a risk management plan/manual on-site but they were outdated (78%).
+There is really no risk-free environment in the aquatic setting. It is the aquatic 
+director’s responsibility to oversee the day-to-day swimming pool operations, and it is also their job to foresee and eliminate potential risks.
+Site observations not only provided a clear picture for the researchers in 
+understanding how aquatic directors operate their swimming pools within the 14 state-owned universities in Pennsylvania, but also helped the researchers to iden-tify several false risk management practices, such as rusted pool side drain covers, broken tiles, and blocked exit doors, etc.
+Future studies will recommend focusing on a larger sample size to increase 
+the ability to generalize the model. Future research also needs to focus on addi-tional factors, such as the number of lawsuits, types of injuries, and injury reduc-tion. There are several recommendations that the researchers found which might be helpful for further investigation.Table 7
+ ANO
+VA Statistics
+Sum of 
+Squaresdf Mean Square F Sig.
+Regression 537.509 4 134.377 21.113 .000(a)
+Residual 260.947 41 6.365
+Total 798.457 45
+16International Journal of Aquatic Research and Education, Vol. 3, No. 3 [2009], Art. 7
+https://scholarworks.bgsu.edu/ijare/vol3/iss3/7
+DOI: https://doi.org/10.25035/ijare.03.03.07
+300  Hsiao and K ostelnik
+ 1. Increase the online survey return rate to gain more accurate information about 
+swimming pool operations from aquatic directors in the university setting.
+ 2.
+ Conduct 
+similar research in different aquatic facilities, such as high schools 
+and community swimming pools, to compare and contrast risk management 
+practices and the number of accidents and injuries.
+ 3.
+ Compare 
+Pennsylvania university swimming pools with other states’ 
+swimming pools in terms of risk management implementation and risk management education.
+ 4.
+ The 
+frequency of past lawsuits against universities should be tracked to 
+improve the quality of swimming pool operations in the university setting.
+ 5.
+ Examine 
+the influence of the current risk management plan to improve risk 
+prevention and reduction plans for aquatic directors.
+ 6.
+ A 
+national survey is highly recommended to gain more accurate and valuable 
+information in terms of providing safer aquatic environment for the general public.
+ 7.
+ A 
+study to compare and contrast the risk management practices in different 
+countries, such as China and the United States, is warranted.
+Conclusions
+The results of this study not only highlight several important factors related to university swimming pools in Pennsylvania, but also produced a generalized sig-nificant-fit regression model to help aquatic directors to predict the overall number of injuries in their swimming pool. Theoretically, the model of prediction of the number of injuries can be generalized to different university swimming pools in other states. The results of this study provided not only the quantitative data related to swimming pool risk management practice but also provided information with regard to aquatic directors’ perceptions about concerns related to pool operation. The study is based upon two samples: one from a national online survey and a second sample from face-to-face interviews conducted with the aquatic directors for the 14 state universities of Pennsylvania only. It was the aim of this study to develop a model to predict the number of swimming pool injuries and apply this model in the university pool setting. Further research is warranted to generalize the use of the model in other aquatic settings.
+References
+Appenzeller, H. (1998). Risk management in sport: Issues and strategies. Durham, NC: 
+Carolina Academic Press.
+Cassio v. Creighton University (1989), 446 N.W.2d 704; Neb.
+Centers for Disease Control and Prevention. (2006). Water-Related Injuries: Fact Sheet. 
+Available at: http://www.cdc.gov/ncipc/factsheets/drown.htm. Retrieved August 16, 2007
+Consumer, S.P.R. (2000). Operations S.O.S. Consumer Safety Product Review, 4(4).Dworkin, G.M. (2002, August 09). Drowning and aquatic injury facts. Available at: Life-
+saving Resources Inc. http://lifesaving.com/issues/articles/DrowningFacts.html. Retrieved July 16, 2008.
+17Hsiao and Kostelnik: Are University Swimming Pools Safe? A Model to Predict the Number
+Published by ScholarWorks@BGSU, 2009
+Are University Swimming Pools Safe?   30 1
+Fletemeyer, J., & Temme, K. (2003). Effective aquatic risk management: Seven steps to 
+lowering your liability. Parks & Recreation. February.
+Gipson, K. (2008). Pool and spa submersion: Estimated injuries and reported fatalities, 
+2008 Report. Bethesda MD: Consumer Product Safety Commission.
+GovTrack.us. (2007). S. 1771–110th Congress (2007): Virginia Graeme Baker Pool and 
+Spa Safety Act, GovTrack.us (database of federal legislation). Available at: http://
+www.govtrack.us/congress/bill.xpd?bill=s110-1771. Retrieved July 17, 2008
+Hsiao, R. (2007). Analysis of risk-management practices and legal issues in college nata-
+toriums in Taiwan. International Journal of Aquatic Research and Education, 1(4), 
+341–362.
+Lachocki, T. (2008). Safety first: New legislation requires protection from dangerous 
+drains. Recreation Management, 44.
+Lan Duong v. City University of New York (1989). 150 A.D.2d 349; 540 N.Y .S.2d 872; 
+App. Div.
+National SAFE KIDS Campaign. (2004). Washington, DC: Drowning Fact Sheet.Pennsylvania State System of Higher Education. (n.d.). Appendix 1: Qualification Matrix 
+and May of Universities. Available at: https://www.passhe.edu/executive/finance/
+Documents/Qualification.doc Retrieved July 21, 2008
+Pike Street Industries, Inc. (2005). Pennsylvania Colleges and Universities. Available at: 
+www.50states.com/colleege/penn.htm. Retrieved July 17, 2008.
+Recreation Management. (2008). Aquatics: The deep-end look at trends in aquatic facili-
+ties. Recreation Management, 47.
+Reporter, L. (2002, December). Boy drowns in college swimming pool: Inadequate life-
+guard training: Reckless inattentiveness: Wrongful death: Settlement. Available at: http://findarticles.com/p/articles/mi_qa3898/is_200212/ai_n9154787. Retrieved July 17, 2008
+Wieersma, W. (2000). Research methods in education: An introduction. Needham Heights, 
+MA: Allyn & Bacon.
+18International Journal of Aquatic Research and Education, Vol. 3, No. 3 [2009], Art. 7
+https://scholarworks.bgsu.edu/ijare/vol3/iss3/7
+DOI: https://doi.org/10.25035/ijare.03.03.07

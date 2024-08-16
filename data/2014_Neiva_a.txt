@@ -1,0 +1,990 @@
+123
+Sports Medicine
+ 
+ISSN 0112-1642
+Volume 44
+Number 3
+ 
+Sports Med (2014) 44:319-330
+DOI 10.1007/s40279-013-0117-yWarm-Up and Performance in Competitive
+Swimming
+Henrique P. Neiva, Mário C. Marques,
+Tiago M. Barbosa, Mikel Izquierdo &
+Daniel A. Marinho
+
+123
+Your article is protected by copyright and
+all rights are held exclusively by Springer
+International Publishing Switzerland. This e-
+offprint is for personal use only and shall not
+be self-archived in electronic repositories. If
+you wish to self-archive your article, please
+use the accepted manuscript version for
+posting on your own website. You may
+further deposit the accepted manuscript
+version in any repository, provided it is only
+made publicly available 12 months after
+official publication or later and provided
+acknowledgement is given to the original
+source of publication and a link is inserted
+to the published article on Springer's
+website. The link must be accompanied by
+the following text: "The final publication is
+available at link.springer.com”.
+REVIEW ARTICLE
+Warm-Up and Performance in Competitive Swimming
+Henrique P. Neiva •Ma´rio C. Marques •
+Tiago M. Barbosa •Mikel Izquierdo •
+Daniel A. Marinho
+Published online: 1 November 2013
+/C211Springer International Publishing Switzerland 2013
+Abstract Warm-up before physical activity is commonly
+accepted to be fundamental, and any priming practices are
+usually thought to optimize performance. However, spe-ciﬁcally in swimming, studies on the effects of warm-up
+are scarce, which may be due to the swimming pool
+environment, which has a high temperature and humidity,and to the complexity of warm-up procedures. The purpose
+of this study is to review and summarize the different
+studies on how warming up affects swimming perfor-mance, and to develop recommendations for improving the
+efﬁciency of warm-up before competition. Most of the
+main proposed effects of warm-up, such as elevated coreand muscular temperatures, increased blood ﬂow and
+oxygen delivery to muscle cells and higher efﬁciency of
+muscle contractions, support the hypothesis that warm-upenhances performance. However, while many researchers
+have reported improvements in performance after warm-
+up, others have found no beneﬁts to warm-up. This lack ofconsensus emphasizes the need to evaluate the real effectsof warm-up and optimize its design. Little is known about
+the effectiveness of warm-up in competitive swimming,
+and the variety of warm-up methods and swimming eventsstudied makes it difﬁcult to compare the published con-
+clusions about the role of warm-up in swimming. Recent
+ﬁndings have shown that warm-up has a positive effect onthe swimmer’s performance, especially for distances
+greater than 200 m. We recommend that swimmers warm-
+up for a relatively moderate distance (between 1,000 and1,500 m) with a proper intensity (a brief approach to race
+pace velocity) and recovery time sufﬁcient to prevent the
+early onset of fatigue and to allow the restoration of energyreserves (8–20 min).
+1 Introduction
+Warm-up routines are common practice before training
+and competition in almost every sport. For decades,practitioners have prescribed warm-ups to prevent inju-
+ries [ 1] and enhance the performance [ 2] of their athletes.
+The scientiﬁc community supports the use of warm-up,
+which has been reported to increase muscle temperature,
+stimulate the performance of muscle contraction,decrease the time to achieve peak tension and relaxation
+[3], and reduce the viscous resistance of the muscles and
+joints [ 4]. Additionally, the hyperthermia induced by
+warm-up leads to vasodilatation and increased muscle
+blood ﬂow, most likely resulting in optimized aerobic
+function due to the higher oxygen consumption duringsubsequent tasks [ 5,6]. Febbraio et al. [ 7] suggested that
+muscle temperature improves the efﬁciency of muscle
+glycolysis and high-energy phosphate degradation duringexercise, which may be from increasing the dependence
+on anaerobic metabolism. We hypothesize that priming H. P. Neiva /C1M. C. Marques /C1D. A. Marinho
+Department of Sport Sciences, University of Beira Interior,
+Covilha ˜, Portugal
+H. P. Neiva /C1M. C. Marques /C1T. M. Barbosa /C1D. A. Marinho
+Centre for Research in Sport, Health and Human Development,Vila Real, Portugal
+T. M. Barbosa
+National Institute of Education, Nanyang TechnologicalUniversity, Singapore, Singapore
+M. Izquierdo ( &)
+Department of Health Sciences, Public University of Navarre,
+Campus of Tudela. Av. de Tarazona s/n., 31500 Tudela(Navarre), Spaine-mail: mikel.izquierdo@gmail.comSports Med (2014) 44:319–330
+DOI 10.1007/s40279-013-0117-y
+Author's personal copy
+procedures that increase the body temperature optimize
+both aerobic and anaerobic metabolism in energy pro-
+duction during exercise.
+Published reports also claim that warming up via
+physical activity might have some effects beyond the
+temperature-related ones. Gray et al. [ 8] detected a lower
+accumulation of muscle lactate during a 30 s sprint on acycle ergometer after active warm-up compared with pas-
+sive warm-up, despite the same starting temperature con-
+ditions. It was later conﬁrmed that physical activity
+stimulates buffering capacity, maintaining the acid-base
+balance of the body [ 9,10]. Theoretically, the increased
+heart rate after active warm-up [ 7,11] and the higher
+baseline oxygen consumption at the start of subsequent
+practice improve oxygen delivery to the active muscles andpotentiate the aerobic energy system [ 12]. In addition,
+heavy loading activities may induce high-frequency stim-
+ulation of motor neurons [ 13] for several minutes after-
+wards, and this enhanced motor neuron excitability can
+result in a considerable improvement in power production
+[14,15]. The movement required for activity also reduces
+muscle stiffness [ 16] and increases the range of motion of
+the muscles involved, possibly allowing for easier, more
+efﬁcient action.
+Recently, some concerns have been raised about the
+effectiveness of the warm-up for enhancing athletic per-
+formance and preventing injuries [ 17–19]. Improvements
+in performance ranged from 1 to 20 % in sports such as
+cycling [ 20] and running [ 21] as well as in speciﬁc activ-
+ities such as vertical jumping [ 22]. Warm-up also helped
+athletes in team sports; players were acutely ready to per-
+form basketball, handball and baseball skills after warm-up
+activities [ 23–25]. Nevertheless, in other cases, perfor-
+mance was impaired after warm-up. The vertical jump
+height and gymnastic technical leap performance were
+decreased after static stretching exercises [ 26,27], running
+performance was reduced after high-intensity warm-up
+[21] or after a long rest period [ 11], and cycling perfor-
+mance was impaired after cyclists performed their usuallylong warm-up [ 28].
+Scientiﬁc research has not demonstrated the efﬁcacy of
+warm-up. As a result, athletes and coaches design thewarm-up routines based on their individual experiences.
+The combination of a large number of variables, the
+complexity of their relationship (e.g. volume, intensityand recovery interval) and the lack of a standardized
+warm-up complicate characterization of warm-up tech-
+niques [ 29]. For example, there is no scientiﬁc evidence
+of the effectiveness of warm-up in swimming, and
+studies have shown ambiguous effects of warm-up on
+swimming performance [ 30–33]. The variability of
+research designs (e.g. protocols, outcomes selected,swimming events, and swimmers’ competitive level)
+makes it difﬁcult to compare data. Therefore, the purpose
+of the present review is to describe the effects of warm-
+up in swimming performance and to recommend opti-
+mized warm-up strategies.
+2 Literature Search
+The MEDLINE, Scielo, SPORTDiscus, ScienceDirect,
+Scopus, Web of Science and Google Scholar databases
+were searched for studies that were published from January1955 until May 2013 (including electronic publications that
+were available ahead of print). This review includes studies
+about the effects of warm-up on swimming performance,which were identiﬁed using the following key-terms,
+individually and/or combined: ‘warm-up’, ‘warm-up
+effects’; ‘priming exercise’; ‘pre-exercise’, ‘prior exercise’,‘warm-up and performance’ and ‘warm-up and swimming
+performance’. Articles were also gathered based on refer-
+ences from other relevant articles. Those articles withrestricted full text online were found in hardcopy form in
+library archives.
+Studies were included in the review if they fulﬁlled the
+following selection criteria: (i) the studies were written in
+English; (ii) they were published in a peer-reviewed jour-
+nal; (iii) they contained research questions on the effects ofactive and/or passive warm-up in swimming; (iv) the main
+outcome reported was a physiological (e.g. lactate, tem-
+perature, heart rate, or rate of perceived effort), biome-chanical (e.g. stroke length, stroke frequency, or force) or
+performance (e.g. time and velocity) measure; and
+(v) healthy human participants were used. Review articles(qualitative review, systematic review, and meta-analysis)
+were not considered.
+In the initial search, 236 studies were identiﬁed. After
+reading the titles, 59 articles were chosen for abstract
+reading. Those that were clearly not relevant or did not
+meet inclusion criteria were eliminated. A total of 18 ori-ginal research studies on the effects of warm-up on
+swimming were included in our ﬁnal analysis (Table 1).
+Fifteen studies focused on active warm-up, two studiesfocused on passive warm-up, and the remaining study
+investigated both types of practices.
+Studying warm-up involves a large number of variables
+that interact with each other and possibly condition the
+results. Because of the risk in separating those variables,
+the ﬁndings and literature limitations were analyzed afterthe papers had been divided up according to active warm-
+up and its sub-items (swim volume, intensity, recovery/rest
+interval, and related/non-related warm-up) and passivewarm-up.320 H. P. Neiva et al.
+Author's personal copy
+Table 1 Physiological, biomechanical and performance changes following active and/or passive warm-up in swimming
+Author Subjects Warm-up Post warm-up test
+Active Passive Changes* Rest
+(min)Intervention Test Parameters Assessed Main results*
+Volume(m) Intensity Dry Mode
+Carlile (1956)
+[53]10 T
+(M?F)A1 ND ND A 1vs. A 2A2:N 36.6 m vv :A 1[A2
+Hot shower: 8min
+Thompson
+(1958) [ 23]60 UT
+(M)A1 A2 5A 1vs. A 2vs. A 4
+A3vs.A 4;A4:
+NT1: 27.4 m
+Max T 2:
+5 min MaxT1:vT2: Laps v:A1[A2=A4Laps:
+A3[A4 110 Moderate Calisthenics
+A3
+2.5 min 75 % Max
+DeVries (1959)
+[35]13 T (M) A 1 A2 A3: ND ‘‘brief’’ A 1vs. A 2vs.
+A3vs. A 4vs.
+A5A5:N91.4 m Max
+(Crawl,breast, ﬂy)Time Time: A
+1\A2–5
+457.2 Freely Calisthenics
+circuitMassage: 10min
+A4: Hot Shower:
+6min
+Robergs et al.
+(1990) [ 30]8 T (M) A 1 [LA-]:
+A1[A2
+[H?]:
+A1[A2
+HCO 3-:
+A1\A210 A 1vs. A 2
+A2:N200 m
+120 % VO 2max
+(Front crawl)HR; pCO 2;p O 2; HCO 3-;
+[La-][La-]: A 1\A2
+pCo 2:A1\A2
+HR: A 1[A2400
+400 kick
+4x5 082 %
+VO 2max
+45 %
+VO 2max
+111 %
+VO 2max
+Houmard et al.
+(1991) [ 36]8 T (M) A 1 No
+changes5A 1vs. A 2vs.
+A3vs. A 4
+A4:N365.8 m
+95 % VO 2max
+(Front crawl)VO 2; HR; RPE; [La-];
+SLHR: A 4[A1,2,3
+[La-]: A 4[A1,2,3
+SL: A 2,3[A1,44 x 45.7 95 %
+VO 2max
+A2
+1371.6 65 %
+VO 2max
+A3
+1188.7
+4 x 45.765 %
+VO 2max
+95 %
+VO 2max
+Mitchell and
+Huston(1993) [ 31]10 T (M) A
+1 HR:
+A1\A2
+VO 2max:
+A1\A2
+[La-]:
+A1,3\A25A 1vs. A 2vs. A 3
+A3:NT1: 183 m
+110 % VO 2max
+T2:T S
+Max(Freestyle)[La-]; HR; Time; SL;
+VO
+2maxT1:
+HR: A 2[A3
+[La-]: A 2[A1,3
+T2:
+HR: A 1,2[A3366 70 %
+VO 2max
+A2
+4 x 46 110 %
+VO 2max
+Romney and
+Nethery(1993) [ 41]12 T (8M,
+4F)A
+1 A2 ND 3 A 1vs. A 2vs. A 3
+A3:N91.4 m
+Max(Freestyle)Time Time: A
+1\A3
+5 min RPE =12 5 min rope
+5 min calisthenics
+circuit
+5 min rope12 x 22.9 Up to RP
+5 min RPE =14Warm-Up in Competitive Swimming 321
+Author's personal copy
+Table 1 continued
+Author Subjects Warm-up Post warm-up test
+Active Passive Changes* Rest
+(min)Intervention Test Parameters Assessed Main results*
+Volume(m) Intensity Dry Mode
+Akamine and
+Taguchi(1998) [ 54]6 T (M) A
+1 ND 10 A 1vs. A 2 4 min kick
+80 % MaxRBC; HCT; WBC; PP;
+Chol; TG; [La-]; HR;EMGHCT, WBC, PP, Chol:
+A
+1[A2
+HR: A 1\A2
+[La-]: A 1\A2
+EMG: A 1\A2Bath 36 8C, CO 2
+300ppm: 20min
+A2
+Bath 36 8C: 20min
+Bobo (1999)
+[32]23 T
+(ND)A1 A2:N D 5 A 1vs. A 2vs. A 3
+A3:N5 x 91.4 m
+Max (I=3min)
+(Freestyle)Time No changes
+731.5 Moderate Bench press 3 x 6,
+50 % 1RM
+Arnett (2002)
+[48]10 T (6M,
+4F)A1 A1=
+A2=A3:
+ModerateBT:
+AM\PM5 AM: A 1vs.A 2
+PM: A 1vs.A 3
+AM vs. PM91.4m
+Max(Freestyle)Time; RPE; BT Time: A
+2(AM)[A1,3(PM) ;
+BT:
+A1(AM)\A2(AM), A1(PM),
+A3 (PM)2011.7
+A2
+4023.4A
+3
+663.9
+Zochowski
+et al. (2007)[50]10 T (5M,
+5F)A
+1 HR:
+R1[R2R1:1 0
+R2:4 5R1vs. R 2 200 m
+Max(1
+sttechnique)HR; [La-]; RPE; Time Time: R 1\R2
+HR: R 1[R2 300 Easy
+6 x 100 Pull/kick
+10 x 50 Speciﬁc RP
+100 Easy
+Nepocatych et
+Al. (2010)
+[43]10 Mast
+(4M,6F)A1 A3 RPE:
+A5\A1,2
+HR:
+A4\A23A 1vs. A 2vs. A 5
+A2vs. A 3vs. A 4
+A5:N45.7 m
+Max
+(Freestyle)Time; RPE; HR; SR HR: A 5\A2;
+A2[A3,4 45.7 40 % Max 5 x 1min Upper
+body vibrationat 22Hz45.7 90 % Max
+A
+2
+[457.2 [46m
+90 %Max
+A
+4
+A3?A1
+Kilduff et al.
+(2011) [ 42]9 T (7M,
+2F)A1 A2 ND 8 A 1vs. A 2 15 m start
+MaxStart time; Jump Force
+(PHF; PVF)PHF: A 1\A2
+PVF: A 1\A2 300 Easy 3 x 87 % 1RM
+Squat6 x 100 Pull/kick
+10 x 50 Speciﬁc RP
+100 Easy
+Neiva et al.
+(2011) [ 18]10 T (M) A 1 ND 10 A 1vs. A 2
+A2:N30s TS
+Max
+(Front crawl)Fmax;Fmean;
+[La-]; RPEFmax:A 1[A2
+Fmean:A 1[A2 1000 Freely322 H. P. Neiva et al.
+Author's personal copy
+Table 1 continued
+Author Subjects Warm-up Post warm-up test
+Active Passive Changes* Rest
+(min)Intervention Test Parameters Assessed Main results*
+Volume(m) Intensity Dry Mode
+Neiva et al.
+(2012) [ 33]10 T (M) A 1 ND 10 A 1vs. A 2
+A2:N50 m
+Max
+(Front crawl)Time; [La-]; RPE No changes
+1000 Freely
+Balilionis et al.
+(2012) [ 38]16 T (8M,
+8F)A1 HR:
+A2[A3
+RPE:
+A2[A1,33A 1vs. A 2; vs.
+A3
+A3:N45.7 m
+Max
+(Freestyle)Time; Diving distance;
+Reaction; RPE; HR;SRTime: A
+1[A2
+HR: A 1\A2 45.7 40 % Max
+45.7 90 % Max
+A2
+*1200 Freely
+West et al.
+(2013) [ 19]8 T (4M,
+4F)A1 Tcore:
+R1[R2R1:2 0
+R2:4 5R1vs. R 2 200 m
+Max(Freestyle)Tcore; [La-]; HR; RPE;
+Time; SRTime: R
+1\R2
+[La-]: R 1[R2 400;
+200 pull
+200 kick
+200 drill
+200 IMHR 40 to
+60 belowHR
+max
+4x5 0
+freeRP
+200 free Easy
+Neiva et al.
+(2013) [ 37]20 T
+(10M,10F)A
+1 ND 10 A 1vs. A 2
+A2:N100 m
+Max(Freestyle)Time; [La-]; RPE; SF;
+DPS; SI;Time: A
+1\A2
+DPS: A 1[A2
+SI: A 1[A2300 Easy
+2 x 100 High DPS
+8 x 50 Kick/drills;
+RP
+100 Easy
+AMmorning, Axwarm-up number, BTbody temperature, Chol cholesterol, DPS distance per stroke, EMG electromyography signal, FFemale, Fmaxmaximal force, Fmean mean force, H?Hydrogen ion concentration,
+HCO 32bicarbonate, HCT hematocrit, HRheart rate, HR maxmaximal heart rate, Iinterval, IMindividual medley, [La-] blood lactate concentration, Mmale, Mast master swimmers, Max maximal, Nno warm-up, ND
+not determined, pCO 2carbon dioxide pressure, PHF peak horizontal force, PMafternoon, pO2oxygen pressure, PPplasma protein, ppm parts per million, PVF peak vertical force, R1tested rest situation one, R2tested
+rest situation two, RBC red blood cell, RPrace pace, RPE ratings of perceived exertion, RMrepetition maximum, SFstroke frequency, SIstroke index, SLstroke length, SRstroke rate, Ttrained swimmers, T1test one, T2
+test two, Tcore core temperature, TGtriglyceride, TStethered swim, UTuntrained, vvelocity, VO 2oxygen consumption, VO2max maximal oxygen consumption, WBC white blood cell
+aResults are presented in the variables that were statistically signiﬁcant ( pB0.05)Warm-Up in Competitive Swimming 323
+Author's personal copy
+3 Active Warm-Up and Swimming Performance
+Active warm-up is any act of exercising, involving speciﬁc
+and/or non-speciﬁc body movements, with the purpose ofincreasing metabolic activity and heat production in prep-
+aration for an upcoming main activity [ 17,34]. Active
+warm-up is traditionally the preferred method used bypractitioners and is the most commonly investigated type;
+89 % of the studies about warm-up in swimming are about
+active warm-up. Improvements were shown only in 67 %of the 12 studies that compared the use of active warm-up
+with no warm-up. Five of these studies showed an
+improvement in performance after warm-up, and threeothers suggested positive effects in the physiological and
+biomechanical changes. The remaining studies did not ﬁnd
+that warm-up had any effect on swimming performance(Table 1).
+The ﬁrst studies suggested that warm-up allowed the
+swimmers to go 1 % faster for short distances (up to 91 m)[23,35]. This positive inﬂuence was later conﬁrmed for
+long distances, with a higher stroke length ( *0.07 m)
+observed in the ﬁnal meters of 368.5 m [ 36] and lower
+lactate concentrations ( *2 mmol/L) after 200 m of intense
+swimming [ 30]. There were early ideas that priming
+exercises are beneﬁcial to performance, but higher peaks inthe lactate concentration after 2 min of high-intensity
+swimming (13.66 ±2.66 vs. 9.53 ±2.22 mmol/L;
+pB0.05) have been reported [ 31]. Additionally, Bobo [ 32]
+failed to ﬁnd signiﬁcant differences in 91.4 m performance
+between three conditions (exercises in the water, dry landexercises, and no warm-up). The methods used could be
+questioned as performance was assessed using a set of ﬁve
+repetitions of 91.4 m freestyle at maximum intensity. Inaddition, beyond comparing the mean times of all repeti-
+tions performed, the author analyzed the best repetition
+performed, which is similar to a study that tested a singlerepetition. A recent study found that usual warm-up leads
+to improved 100 m swimming performance, prolonging the
+controversy [ 37].
+There have been inconclusive results on a swimmer’s
+performance for shorter distances after warm-up. One study
+reported that warm-up did not have any favorable effects on50 m crawl performance [ 33], while participants in another
+study had a trend toward signiﬁcantly faster times on the
+45.7 m freestyle ( *0.2 s; p=0.06) and higher propelling
+force with 30 s of maximal tethered swimming ( *13 % for
+the mean force and 18 % for the maximal force; pB0.05),
+as reported by Balilionis et al. [ 38] and Neiva et al. [ 18],
+respectively, for warm-up. However, no differences were
+found among the other variables measured in these studies
+(e.g. perceived exertion, highest post-blood lactate con-centration, stroke rate, dive distance and reaction time),
+which weakens these ﬁndings.The effects of active warm-up depend on several com-
+ponents such as volume, intensity and recovery time [ 39,
+40]. Some changes in the characteristics of the external
+training/warm-up load could be essential to inﬂuencing thesubsequent performance and the results obtained. Further-
+more, dry-land movements are usually performed before
+swimmers enter the pool, and the effects of these move-ments should not be disregarded. The relevance of these
+presented categories and their effects on swimming per-
+formance require deeper analysis.
+3.1 Dry-Land Warm-UpDry-land warm-up is any type of active practice performed
+out of the water; dry-land warm-up includes calisthenics,strength/activation exercises and stretching. Swimmers
+often perform some sort of physical activity out of the
+water (e.g. arm rotation) before entering the water to
+activate the body. However, these exercises are used to
+complement and not as an alternative to the in-water warm-
+up. Six studies have focused on the effects of dry-landwarm-up as a different type of active warm-up other than
+the usual in-water procedures.
+Three studies have shown that the use of calisthenics
+exercises does not inﬂuence swimming performance com-
+pared with the no warm-up condition [ 23,35,41].
+Although there were no statistically signiﬁcant differences,the results of Romney and Nethery [ 41] showed that
+swimmers were 0.65 s faster in the 91.4 m freestyle with
+dry-land warm-up than without warm-up. This differencecorresponds to an increase of 1.23 % in performance,
+which can substantially affect a swimming race.
+With regard to strength exercises, Bobo [ 32] found no
+differences in the 91.4 m freestyle between no warm-up
+and bench press practice. The author claimed that the
+amount of weight used may not have been heavy enough tostimulate the swimmers and may have interfered with the
+results. In fact, Kilduff et al. [ 42] showed no differences in
+the 15 m starting time after activation with loaded squats(3987 % of 1 maximal repetition) compared with in-
+water warm-up. These weight exercises with a high load
+can have positive effects by inducing high-frequencystimulation of motor neurons [ 13], resulting in an improved
+rate of force production, which has already been conﬁrmed
+for explosive efforts [ 15]. Strength exercises involving
+large major muscle groups, with few repetitions and high
+loads, could better prepare swimmers for competing.
+An interesting method of dry-land exercise was used by
+Nepocatych et al. [ 43] in master swimmers, adapting a
+swim bench with an attached vibration device. This
+allowed the swimmers to simulate the proper swimmingtechnique while being exposed to ﬁve sets of 1-min
+vibrations. The authors found no differences in the 45.7 m324 H. P. Neiva et al.
+Author's personal copy
+freestyle time between the vibrations and in-water warm-
+up. Although they are not easy to apply, developments
+could arise from this research, and new alternative warm-
+up procedures should be investigated and applied to higher-level swimmers.
+In most swim meets, there is a considerable time interval
+between the in-water warm-up and the swimming event,diminishing its possible beneﬁcial effects [ 19]. Moreover,
+some facilities do not have an extra swimming pool
+available, requiring swimmers to rely on alternatives to in-
+water warm-up. Dry-land warm-up is a possible warm-up
+procedure, which is supported by some studies. It is alsorecommended that the whole body should be stimulated
+instead of focusing on speciﬁc muscle groups. To the
+authors’ knowledge, no study on the addition of thesepractices to in-water warm-up has been conducted, even
+though it could be a method of optimizing the swimmer
+latency period between the warm-up and the swimmingevent.
+Swimmers commonly use stretching exercises, but, to
+the best of our knowledge, no study has been conducted onthe effects of stretching on swimming performance.
+Additionally, little attention has been given to the question
+of stretching as a practice that inﬂuences injury risk. Byreducing muscle strain and increasing the range of motion
+of joints [ 1,44], stretching is expected to reduce the
+resistance of movement, allowing for easier movement thatoptimizes the activity and prevents muscle and joint inju-
+ries. Despite these possible beneﬁts, pre-exercise static
+stretching does not produce a reduction in the risk ofoveruse injuries [ 45], and it could lead to a severe loss of
+strength and performance impairment [ 46]. Yet, a decrease
+in strength when using dynamic stretching exercises hasnot been demonstrated [ 47], suggesting that stretching may
+be part of a warm-up routine if these are usual practices of
+the swimmers. Further investigation is needed to determinethe effects of stretching alone as well as in combination
+with other warm-up activities.
+3.2 In-Water Warm-Up: the Effect of Volume
+The acute effects of different warm-up volumes on swim-
+ming performance have been previously researched in four
+studies; two found positive effects for volumes between
+1,000 and 1,500 m compared with a lower volume (i.e.lower than 200 m). A higher volume (1,371.6 m) allows
+the swimmers to maintain higher stroke length (3.76 %) in
+the last meters of 365.8 m at *95 % of maximal oxygen
+consumption ( VO
+2max), with similar values of blood lactate
+concentration and heart rate [ 36]. This was later corrobo-
+rated for shorter testing distances, verifying better 45.7 mperformance (1.22 %) after warming up for approximately
+1,300 m (men: 1,257 ±160 m; women: 1,314 ±109 m)instead of a 91.44 m warm-up [ 38]. It is possible that the
+lower volume was not sufﬁcient to cause signiﬁcant met-
+abolic changes during the performance trial. In fact, the
+same result was veriﬁed by Nepocatych et al. [ 43]i n
+master swimmers, with no changes in the 45.7 m freestyle
+after two short warm-ups (91.4 m and more than 450 m).
+The remaining study on the inﬂuence of warm-up vol-
+umes did not ﬁnd differences in the 91.4 m freestyle when
+warming up for either 2,011.7 or 4,023.4 m with similar
+intensities [ 48]. Swimmers may expend too much energy
+during warm-up, or they may not have enough time after
+warm-up to replenish their phosphocreatine and adenosinetriphosphate levels, compromising the energy supply and
+negatively affecting their performance. For instance,
+swimmers traditionally complete long warm-ups, even forshort races, to achieve greater water sensitivity and to be
+better prepared for the competitive event. However, a long
+duration of exercise has a higher energy consumption thatcan contribute to the early onset of muscle fatigue, espe-
+cially for high intensities [ 49].
+When subjected to a continuous activity at moderate
+intensity, the body increases its temperature and stabilizes
+between 10 and 20 min after the start [ 39]. Although this
+time could be set as a rule of thumb, the volume of thewarm-up performed before swimming competitions differs
+considerably. The ﬁrst study on active warm-up veriﬁed that
+swimming for 110 m or 2.5 min [ 23] positively affected
+swimming performance. The level of the swimmers
+(untrained) may explain these positive results with such a
+light warm-up volume. With lower physical preparedness, ashorter volume is required to activate the body to the main
+task. A slightly longer warm-up, as required in the study by
+De Vries [ 35], allowed veriﬁcation of the improvements in
+swimming performance of competitive swimmers (457 m).
+Nevertheless, the volumes presented were completed in
+less than 10 min; this could be the reason why the fol-lowing studies focused on longer warm-ups. Using the
+control condition of no warm-up, the 91.4 and 100 m
+freestyle times and a propelling force in 30 s of tetheredswimming were improved after approximately 15 min of
+swimming ( *1,000) [ 18,37,41]. Moreover, a warm-up of
+1,000 m reduced the changes in the acid-base balance after200 m (2 min) of intense swimming [ 30].
+There are some studies in which performance was
+similar or even impaired after warm-up when comparedwith the no warm-up condition. There were no differences
+in the 91 m freestyle after 731.5 m of moderate swimming
+[32] or on the 50 m front crawl after 1,000 m of habitual
+warm-up [ 33]. Some possible reasons for these results are
+the time between warm-up and maximal swimming (not
+allowing a sufﬁcient time to recover) and/or the volumeand intensity of the warm-up, which most likely were not
+sufﬁcient to cause desirable metabolic effects.Warm-Up in Competitive Swimming 325
+Author's personal copy
+We propose a total warm-up volume of a 15–20 min
+duration (between 1,000 and 1,500 m) for swimming
+events up to 3–4 min. There is a trend toward increasing
+the volume of warm-up in the morning. The reasoningbehind this is the need for extra body activation due to
+adaptation to the circadian rhythm. However, Arnett [ 48]
+found that the swimmers still perform better on the 91.4 min the afternoon even when a longer warm-up (4,023.4 vs.
+2,011.7 m) was performed in the morning (58.48 ±5.69
+and 56.86 ±4.87 s, respectively; pB0.05). This result
+suggests that performance is signiﬁcantly higher in the late
+afternoon, independent of the previous warm-up volumeperformed.
+3.3 In-Water Warm-Up: the Effect of IntensityThe two studies on the use of different warm-up intensities
+in swimming found no effects on performance. Houmardet al. [ 36] were the ﬁrst authors to compare the effects of
+two different intensities of priming exercises on perfor-
+mance ( *65 % VO
+2max of continuous swimming vs. warm-
+up including 4 945.7 m at *95 % VO2max), and no dif-
+ferences were found in heart rate, stroke length or blood
+lactate concentration after 365.8 m front crawl at *95 %
+VO2max. Because volume was the same in the two experi-
+mental conditions, the study did not use a speciﬁc, intensive
+set to optimize performance. These conditions may result inextra energy expenditure and most likely inﬂuenced the
+concentration of metabolites, thus impairing swimming
+performance. In fact, warming up at 110 % VO
+2max instead
+of 70 % VO2max led to elevated lactate concentrations
+(13.66 ±2.66 vs. 9.53 ±2.22 mmol/L; pB0.05) after
+183 m freestyle at high-intensity [ 31]. The 5-min recovery
+period after warm-up could have been insufﬁcient for
+reducing the residual effects of the priming exercises. The
+accumulation of lactate was higher after high-intensitywarm-up (6.97 ±1.97 vs. 2.27 ±0.81 mmol/L; pB0.05),
+which could have contributed to the higher values obtained
+after performance. Additionally, the lower volume per-formed during the high-intensity warm-up compared with
+the low-intensity warm-up did not allow sufﬁcient activa-
+tion of the aerobic metabolism. However, the heart rate(159.9 ±7.7 vs. 148.0 ±9.5 bpm; pB0.05) and VO
+2max
+(4.18 ±0.45 vs. 3.23 ±0.24 L/min; pB0.05) after the
+warm-up showed cardiovascular alterations that might beindicative of enhanced aerobic metabolism for the high-
+intensity priming exercises, regardless of the volume
+performed.
+Despite the uncertainties about including high-intensity
+swimming sets in the warm-up procedures, it seems better
+to use high-intensity swimming sets instead of not warmingup. Robergs et al. [ 30] found that lactate concentrations
+after 200 m of intensive front crawl swimming were lowerwhen the warm-up included 4 950 m at 111 % VO
+2max
+(8.7 ±0.8 mmol/L vs. 10.9 ±0.5 mmol/L; pB0.05).
+Furthermore, including a short-distance swimming set with
+increased intensity over the repetitions was effective for91 m maximal freestyle [ 41]. The time performed was
+reduced by 0.75 s compared with when there was no pre-
+vious warm-up; thus, short distances at race pace couldoptimize performance. Thus, a short-distance set that is
+built up from low intensity to race-pace velocity in the last
+repetition could be used to improve subsequent perfor-
+mance by stimulating the energy systems that are recruited
+in the competitive event [ 39,40]. Nevertheless, when high-
+intensity swimming is performed during warm-up, it
+should be used with caution to avoid the early fatigue and
+compromising the subsequent swimming performance.
+3.4 Recovery Time After Warm-Up
+Active warm-up seems to improve the performance with
+periods of recovery up to 20 min, mainly related to tem-
+perature mechanisms [ 19,40]. The time gaps between the
+end of the in-water warm-up and the start of the competition/
+test used in the research studies were 3 min [ 38,41], 5 min
+[31,32], 8 min [ 42], and 10 min [ 18,30,33,37]. Never-
+theless, according to our knowledge, the effect of different
+time intervals between warm-up and the main task was only
+studied by Zochowski et al. [ 50] and West et al. [ 19]. The
+200 m times were 1.38 and 1.48 % better with 10-min [ 50]
+and 20-min rest periods [ 19], respectively, instead of 45 min
+of rest. The maintenance of an elevated core temperatureduring shorter intervals[ 19], and the higher heart rate at the
+start of exercise which potentially increased baseline oxygen
+consumption [ 50], are the possible mechanisms responsible
+for the improved performance. In addition, the post-activa-
+tion potentiation effect of warm-up, which happens around
+the 8th min of recovery [ 42], possibly allowed swimmers to
+start at an optimized power.
+In real competition venues, it is almost impossible to
+take less than 8–10 min between ﬁnishing the warm-up andthe swimming event. Warming up is more effective when it
+is sufﬁciently intense to activate the physiological pro-
+cesses that will be required in the competition event, with arecovery time that should be between 8 and 20 min,
+allowing for replenishment of phosphocreatine [ 51]. The
+literature only focuses on the effects of different intervalsin the 200 m swimming event, and the various competitive
+distances and techniques could demand different recovery
+periods. Moreover, considering the studies of Saez SaezVillarreal et al. [ 15], it would be interesting to know how
+different muscle activations (e.g. using high-intensity
+exercises or loaded concentric actions) can extend theeffects of warm-up as well as how swimmers can beneﬁt
+from improved performance after a longer rest.326 H. P. Neiva et al.
+Author's personal copy
+4 Passive Warm-Up and Swimming Performance
+Increases in muscle and core body temperature could be
+achieved without physical activity by the use of externalheating, such as hot showers, saunas and heated vests [ 39].
+These practices are commonly known as passive warm-up,
+through which the swimmers most likely beneﬁt from theeffects of temperature-related mechanisms without spend-
+ing energy. A variation in the muscle temperature of 1 /C176C
+improves the muscle’s contractile properties and modiﬁesperformance by 2–5 % [ 52]. Therefore, passive warm-up
+could be suggested as a practice for maintaining the tem-
+perature between warm-up and the swimming event.However, heating cannot exceed 39 /C176C for the core tem-
+perature, as overheating negatively affects motor drive and
+muscular performance [ 52].
+Three studies examined the effects of different passive
+procedures on swimming performance with conﬂicting
+results. Carlile [ 53] demonstrated that swimmers submit-
+ting to 8 min of a hot shower or a 10-min massage attained
+1 % higher swim velocity in 36.6 m than swimmers
+without warm-up procedures. Conversely, De Vries [ 35]
+veriﬁed that a 10-min massage did not inﬂuence the
+91.44 m performance, which was instead positively inﬂu-
+enced by active warm-up. Thus, while the ﬁrst study notedthe positive inﬂuence of passive warm-up in swimming
+performance, there have been more studies questioning
+these results. The applicability of these ﬁndings should be
+weighed, as several decades have passed from the time
+when research occurred. In fact, although there are fewstudies about active warm-up in swimming and the ﬁndings
+are contradictory, the gap is even larger in regard to passive
+warm-up. The large range of passive procedures, theunfamiliarity with some of those techniques and a possible
+deviation of attention to active warm-up, which is the most
+relevant form of pre-exercise, could be some of the reasonsfor this scarcity.
+The understanding of the effects of different passive
+procedures is also important for optimizing swimmingperformance. Two different practices of passive heating
+were tested, and a carbonated bath at 36 /C176C was more
+effective than a normal bath at the same temperature andduration of 4 min of kicking exercise [ 54]. The authors
+proposed that this method be adopted by swimmers
+because it tends to reduce the lactate concentration, heartrate and electromyography response of the rectus femoris,
+suggesting higher muscle efﬁciency and less fatigue.
+However, the low experience level of swimmers and thenon-existence of comparison with active warm-up, call into
+question its efﬁciency.
+Currently, there is no evidence-based information about
+the effects of passive warm-up procedures in swimming
+performance and the unclear indications cannot support thereliably of these methods, making them uncommon. How-
+ever, it is not unusual to see swimmers completely dressed
+up (sometimes with a jacket over a sweat suit), near starting
+blocks, just before starting the race. The use of externalsources of heating most likely allows the swimmers to
+extend the effects of the active warm-up that was performed
+some time before. Beyond investigating the effects of pas-sive warm-up, we should try to understand how it could be
+used when there is a long resting time after the active warm-
+up or even as a complement to active warm-up.
+5 Effect on Different Performance Events
+The Olympic competition schedule for swimming includes
+distances from 50 to 1,500 m in the pool and 10,000 m in
+open-water swimming. As presented in Table 1, swimming
+events performed in the pool are the main focus in warm-uprelated studies. Corresponding to efforts ranging from less
+than 30 s to more than 15 min, it is expected that these
+different events are stimulated by different warm-upapproaches as well. Considering the studies that used a
+control condition (without warm-up), three of the six studies
+that tested swimming distances up to 50 m or the equivalenteffort in time presented better performance after warm-up
+[18,23,53]. Some uncertainty continues on distances up to
+100 m, with three of four studies showing improved per-formance [ 35,37,41], as well as between the 100 and
+200 m, with one of two studies mentioning lower lactate
+values and higher heart rate [ 30]. Times on the distances
+above 200 m were improved after warm-up when consid-
+ering all of the studies presented [ 23,36]. Considering that
+only submaximal tests were performed and mainly focused
+on physiological variables, longer warm-ups should be
+indicated when the competition distance is longer.
+Table 2 Possible recommendations for active warm-up prior to
+competitive swimming
+Setting Recommendation
+Main suggestions
+In-water warm-up Volume 1,000–1,500 m
+Moderate intensityDrills focusing on stroke efﬁciencyShort distances at race paceRecovery period 8–20 min
+Alternative suggestionsDry-land warm-up Total body stimulation
+Calisthenics—moderate intensityStrength exercises—short sets, heavy loads
+a
+Vibration exercises on adapted swim bencha
+aHypothesized onlyWarm-Up in Competitive Swimming 327
+Author's personal copy
+Researchers have focused mainly on the shorter dis-
+tances, but the positive effects of warm-up seem more
+consistent for distances above 200 m, reinforcing the pos-
+sible positive effects of aerobic metabolism stimulationduring warm-up procedures. Moreover, the positive chan-
+ges in performance on distances under 200 m were lower
+than 1 % for the time improvement, and it is unclear howmuch of this effect was due to warm-up. Caution has to be
+taken when studying any measure of performance, and, for
+instance, it is important to show by how much that per-
+formance measure would be expected to vary day-to-day or
+test-to-test. Researchers should be aware of the deﬁcientknowledge about the effects of warm-up in the different
+competition distances and swimming techniques, which
+may be due to the existing lack of warm-up speciﬁcity.
+6 Future Research
+Some limitations were found in the literature that resear-
+ched the topic covered in this review. In fact, it appears thatinvestigations of warm-up effects on swimming perfor-
+mance were not performed for a few years, resulting in a
+lack of research and resulting restrictions. The particularswimming pool environment, with a high temperature and
+humidity, and the complexity of warm-up procedures could
+explain why there are few studies on this topic.
+Some methodological issues can be observed in the
+literature and should be overcome in future research. For
+instance, the control group or control condition in the studydesign sometimes did not exist, and a standard warm-up
+was compared with other variations of it. This methodo-
+logical issue may be relevant to the analysis of the resultsobtained and should be considered in the possible conclu-
+sions. Additionally, the small sample sizes used in some of
+the studies increased the effects of chance and enhancedthe ambiguity of the results.
+Passive warm-up and dry-land exercises should be
+deepened as alternative and/or complementary practice foran active warm-up. Additionally, most of the studies
+focused on freestyle swimming, and a study on the warm-
+up effects on different techniques and swimming distancesshould be developed. There is a gap in the research on the
+inﬂuence of the different subject’s ages, gender, and
+training status for selecting the proper warm-up. Oncesome of these broader issues are clariﬁed, we can evaluate
+the structure and speciﬁcity of warm-up practices.
+7 Conclusions
+Warm-up is commonly accepted as fundamental, and any
+priming practices are usually considered to optimizeperformance. Speciﬁcally in swimming, and despite some
+contradictory results, research tends to suggest that warm-
+up, more particularly the active type, has a positive effect
+on the swimmer’s performance, especially for distancesabove 200 m. Additionally, the literature proposes that in-
+water activities are the most useful activities, but when it is
+not possible to do in-water warm-up, dry-land exercisescan be performed as an alternative.
+Dry-land warm-up should include all body segments.
+Strength exercises with few repetitions and high-load
+intensities, vibration stimulation, or the use of calisthenics
+are hypothesized to better prepare the swimmer for racing.Although there are some doubts about using these methods,
+some studies found promising results, with no differences
+in performance compared with in-water warm-up. Weightand vibration exercises are not practical to perform before a
+swimming event, but calisthenics can be used. Further
+investigation is needed to reach a consensus about the useof alternative methods of warming up and deﬁne its ideal
+structure in terms of the type, duration, volume, speciﬁc
+and/or general tasks, and recovery period. Moreover, littleis known about dry-land exercise for maintaining the
+effects of the in-water warm-up during the waiting time
+before the swimming race. Additionally, the use ofstretching exercises is common among swimmers as a
+complement to the in-water warm-up, but the effects are
+not known and could even impair performance. Dynamicstretches are not detrimental to performance, and a daily
+routine could be replicated in warm-up procedures to pre-
+vent possible injuries.
+The in-water warm-up should last for 15–25 min, and
+short, intensive, and speciﬁc tasks can be performed in
+some parts of the warm-up; there are favorable effects aftershort distances of progressive swimming up to the race-
+pace velocity. However, one should be cautious because
+high-intensity swimming during warm-up can be over-valued and may not be essential to performance optimi-
+zation. Moreover, some studies presented standard warm-
+ups with exclusive lower/upper limb exercises that mayachieve better activation for each body part. A swimming
+race is performed using the whole body and splitting
+stimulation of the body may not be the best way to increasethe swimmer’s preparedness. The use of technical drills
+during warm-up could increase the swimming efﬁciency in
+the ﬁrst meters by the longer distance per stroke achieved[37]. The recovery period after warming up should be
+balanced so that it is sufﬁcient for energy replenishment
+and so that swimmers can beneﬁt from the proposed effectsof warm-up (Table 2).
+Because there is a latency period between the in-water
+warm-up and the swimming race, passive warm-up shouldbe considered. Despite the lack of concrete evidence, these
+practices could be used to maintain elevated core and328 H. P. Neiva et al.
+Author's personal copy
+muscle temperatures, which are beneﬁcial for swimmers.
+Little is known about the best passive practices to imple-
+ment, but passive exercise could be any method that does
+not elevate the temperature above 39 /C176C, which would
+otherwise impair performance.
+Scientists have recently started to study the effects of
+warm-up on swimming performance, but numerous doubtsremain. Not much is known about the structure and com-
+ponents of warm-up even though it is still thought to
+inﬂuence performance in a sport where a tenth of a second
+could determine success or failure. The results highlight
+that the volume, intensity and recovery, and speciﬁcexercises of active warm-up are complementary variables.
+Any change carried out in one of these characteristics leads
+to variations in the others, which can inﬂuence the results.
+Acknowledgements This work was supported by a grant from the
+Science and Technology Foundation (SFRH/BD/74950/2010) and byUniversity of Beira Interior and Santander Totta bank (UBI/FCSH/Santander/2010). The authors have no conﬂicts of interest that are
+directly relevant to the content of this review.
+References
+1. Ekstrand J, Gillquist J, Liljedahl SO. Prevention of soccer inju-
+ries: supervision by doctor and physiotherapist. Am J Sports Med.
+1983;11:116–20.
+2. De Bruyn-Prevost P. The effects of various warming up inten-
+sities and durations upon some physiological variables during an
+exercise corresponding to the WC170. Eur J Appl Physiol Occup
+Physiol. 1980;43(2):93–100.
+3. Segal SS, Faulkner JA, White TP. Skeletal muscle fatigue in vitro
+is temperature dependent. J Appl Physiol. 1986;61(2):660–5.
+4. Wright V. Stiffness: a review of its measurement and physio-
+logical importance. Physiotherapy. 1973;59(4):107–11.
+5. Gray SC, Nimmo MA. Effects of active, passive or no warm-up
+on metabolism and performance during short-duration high-
+intensity exercise. J Sport Sci. 2001;19:693–700.
+6. Pearson J, Low DA, Sto ¨hr E, et al. Hemodynamic responses to
+heat stress in the resting and exercising human leg: insight into
+the effect of temperature on skeletal muscle blood ﬂow. Am J
+Phys Regul Integr Comp Phys. 2011;300(3):R663–73.
+7. Febbraio MA, Carey MF, Snow RJ, et al. Inﬂuence of elevated
+muscle temperature on metabolism during intense, dynamic
+exercise. Am J Physiol. 1996;271(5 Pt 2):R1251–5.
+8. Gray SC, De Vito G, Nimmo MA. Effect of active warm-up on
+metabolism prior to and during intense dynamic exercise. Med
+Sci Sports Exerc. 2002;34(12):2091–6.
+9. Beedle BB, Mann CL. A comparison of two warm-ups on joint
+range of motion. J Strength Cond Res. 2007;21(3):776–9.
+10. Mandengue SH, Seck D, Bishop D, et al. Are athletes able to self-
+select their optimal warm up? J Sci Med Sport. 2005;8(1):26–34.
+11. Andzel WD. The effects of moderate prior exercise and varied
+rest intervals upon cardiorespiratory endurance performance.J Sports Med Phys Fitness. 1978;18(3):245–52.
+12. Burnley M, Davison G, Baker JR. Effects of priming exercise on
+VO
+2kinetics and the power-duration relationship. Med Sci Sports
+Exerc. 2011;43(11):2171–9.
+13. French DN, Kraemer WJ, Cooke CB. Changes in dynamic
+exercise performance following a sequence of preconditioningisometric muscle actions. J Strength Cond Res.
+2003;17(4):678–85.
+14. Sale DG. Postactivation potentiation: role in human performance.
+Exerc Sport Rev. 2002;30:138–43.
+15. Saez Saez de Villarreal E, Gonza ´lez-Badillo JJ, Izquierdo M.
+Optimal warm-up stimuli of muscle activation to enhance shortand long-term acute jumping performance. Eur J Appl Physiol.2007;100(4):393–401.
+16. Proske U, Morgan DL, Gregory JE. Thixotropy in skeletal muscle
+and in muscle spindles: a review. Prog Neurobiol.1993;41(6):705–21.
+17. Woods K, Bishop P, Jones E. Warm-up and stretching in the pre-
+vention of muscular injury. Sports Med. 2007;37(12):1089–99.
+18. Neiva H, Morouc ¸o P, Silva AJ, et al. The effect of warm up on
+tethered front crawl swimming forces. J Hum Kinet.2011;29A(Spec Iss):113–119.
+19. West DJ, Dietzig BM, Bracken RM, et al. Inﬂuence of post-
+warm-up recovery time on swim performance in internationalswimmers. J Sci Med Sport. 2013;16(2):172–6.
+20. Burnley M, Doust JH, Jones AM. Effects of prior warm-up
+regime on severe-intensity cycling performance. Med Sci SportsExerc. 2005;37:838–45.
+21. Stewart IB, Sleivert GG. The effect of warm-up intensity on
+range of motion and anaerobic performance. J Orthop Sports Phys
+Ther. 1998;27:154–61.
+22. Burkett LN, Phillips WT, Ziuraitis J. The best warm-up for the
+vertical jump in college-age athletic men. J Strength Cond Res.
+2005;19:673–6.
+23. Thompson H. Effect of warm-up upon physical performance in
+selected activities. Res Q. 1958;29(2):231–46.
+24. Dumitru DC. The importance of a speciﬁc warm-up on the per-
+formance of the handball goalkeeper. J Phys Ed Sport.2010;28(3):23–31.
+25. Szymanski DJ, Beiser EJ, Bassett KE, Till ME, Medlin GL,
+Beam JR, DeRenne C. Effect of various warm-up devices on bat
+velocity of intercollegiate baseball players. J Strength Cond Res.2011;25(2):287–92.
+26. Di Cagno A, Baldari C, Battaglia C, Gallotta MC, Videira M,
+Piazza M, Guidetti L. Preexercise static stretching effect on
+leaping performance in elite rhythmic gymnasts. J Strength CondRes. 2010;24(8):1995–2000.
+27. Bradley PS, Olsen PD, Portas MD. The effect of static, ballistic,
+and proprioceptive neuromuscular facilitation stretching on ver-
+tical jump performance. J Strength Cond Res. 2007;21:223–6.
+28. Tomaras EK, MacIntosh BR. Less is more: standard warm-up
+causes fatigue and less warm-up permits greater cycling power
+output. J Appl Physiol. 2011;111(1):228–35.
+29. Fradkin AJ, Zaryn TR, Smoliga JM. Effects of warming-up on
+physical performance: a systematic review with meta-analysis.
+J Strength Cond Res. 2010;24(1):140–8.
+30. Robergs RA, Costill DL, Fink WJ, et al. Effects of warm-up on
+blood gases, lactate and acid-base status during sprint swimming.Int J Sports Med. 1990;11(4):273–8.
+31. Mitchell JB, Huston JS. The effect of high- and low-intensity
+warm-up on the physiological responses to a standardized swimand tethered swimming performance. J Sports Sci.
+1993;11(2):159–65.
+32. Bobo M. The effect of selected types of warm-up on swimming
+performance. Int Sports J. 1999;3(2):37–43.
+33. Neiva HP, Morouc ¸o PG, Pereira FM, et al. The effect of warm-up
+in 50 m swimming performance. Motricidade. 2012;8(S1):13–18.
+34. Shellock FG, Prentice WE. Warming-up and stretching for
+improved physical performance and prevention of sports-relatedinjuries. Sports Med. 1985;2(4):267–78.
+35. De Vries HA. Effects of various warm-up procedures on 100-yard
+times of competitive swimmers. Res Q. 1959;30:11–22.Warm-Up in Competitive Swimming 329
+Author's personal copy
+36. Houmard JA, Johns RA, Smith LL, et al. The effect of warm-up
+on responses to intense exercise. Int J Sports Med.
+1991;12(5):480–3.
+37. Neiva HP, Marques MC, Fernandes RJ, Viana JL, Barbosa TM,
+Marinho DA. Does warm-up have a beneﬁcial effect on 100 m
+freestyle? Int J Sports Physiol Perform. Epub 9 Apr 2013
+38. Balilionis G, Nepocatych S, Ellis CM, et al. Effects of different
+types of warm-up on swimming performance, reaction time, and
+dive distance. J Strength Cond Res. 2012;26(12):3297–303.
+39. Bishop D. Warm up I: potential mechanisms and the effects of
+passive warm up on exercise performance. Sports Med.2003;33(6):439–54.
+40. Bishop D. Warm up II: performance changes following active
+warm up and how to structure the warm up. Sports Med.2003;33(7):483–98.
+41. Romney NC, Nethery VM. The effects of swimming and dryland
+warm-ups on 100-yard freestyle performance in collegiate
+swimmers. J Swim Res. 1993;9:5–9.
+42. Kilduff LP, Cunningham DJ, Owen NJ, et al. Effect of postac-
+tivation potentiation on swimming starts in international sprint
+swimmers. J Strength Cond Res. 2011;25(9):2418–23.
+43. Nepocatych S, Bishop PA, Balilionis G, et al. Acute effect of
+upper-body vibration on performance in master swimmers.
+J Strength Cond Res. 2010;24(12):3396–403.
+44. Hadala M, Barrios C. Different strategies for sports injury pre-
+vention in an America’s Cup Yachting Crew. Med Sci SportsExerc. 2009;41:1587–96.45. Pope RP, Herbert RD, Kirwan JD, et al. A randomized trial of
+preexercise stretching for prevention of lower-limb injury. Med
+Sci Sports Exerc. 2000;32:271–7.
+46. Winchester JB, Nelson AG, Landin D, et al. Static stretching
+impairs sprint performance in collegiate track and ﬁeld athletes.
+J Strength Cond Res. 2008;22(1):13–9.
+47. Hough PA, Ross EZ, Howatson G. Effects of dynamic and static
+stretching on vertical jump performance and electromyographic
+activity. J Strength Cond Res. 2009;23(2):507–12.
+48. Arnett MG. Effects of prolonged and reduced warm-ups on
+diurnal variation in body temperature and swim performance.J Strength Cond Res. 2002;16(2):256–61.
+49. Hawley JA, Williams MM, Hamling GC, et al. Effects of a task-
+speciﬁc warm-up on anaerobic power. Br J Sports Med.1989;23(4):233–6.
+50. Zochowski T, Johnson E, Sleivert GG. Effects of varying post-
+warm-up recovery time on 200-m time-trial swim performance.
+Int J Sports Physiol Perform. 2007;2(2):201–11.
+51. O ¨zyener F, Rossiter HB, Ward SA, et al. Inﬂuence of exercise
+intensity on the on- and off-transient kinetics of pulmonary
+oxygen uptake in humans. J Phys. 2001;533(Pt 3):891–902.
+52. Racinais S, Oksa J. Temperature and neuromuscular function.
+Scand J Med Sci Sports. 2010;20(Suppl 3):1–18.
+53. Carlile F. Effect of preliminary passive warming on swimming
+performance. Res Q Exerc Sport. 1956;27(2):143–51.
+54. Akamine T, Taguchi N. Effects of an artiﬁcially carbonated bath
+on athletic warm-up. J Hum Ergol. 1998;27(1–2):22–9.330 H. P. Neiva et al.
+Author's personal copy

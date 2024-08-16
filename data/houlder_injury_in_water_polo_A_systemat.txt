@@ -1,0 +1,1122 @@
+Shoulder injury in water polo: A systematic review of
+incidence and intrinsic risk factors
+Author
+Miller, AH, Evans, K, Adams, R, Waddington, G, Witchalls, J
+Published
+2018
+Journal Title
+Journal of Science and Medicine in Sport
+Version
+Post-print
+DOI 
+https://doi.org/10.1016/j.jsams.2017.08.015
+Copyright Statement
+© 2017 Sports Medicine Australia. Published by Elsevier Ltd. Licensed under the Creative
+Commons Attribution-NonCommercial-NoDerivatives 4.0 International Licence (http://
+creativecommons.org/licenses/by-nc-nd/4.0/) which permits unrestricted, non-commercial use,
+distribution and reproduction in any medium, providing that the work is properly cited.
+Downloaded from
+http://hdl.handle.net/10072/364244
+Griffith Research Online
+https://research-repository.griffith.edu.au
+1 | Page  
+ Shoulder injury in water polo: a systematic review of incidence and  intrinsic risk factors.  
+Abstrac t 
+Background: Water polo is a popular water -based contact sport that involves swimming, throwing and 
+defending. Cumulatively, these repetitive overhead activities are thought to increase the risk of 
+shoulder injury and, subsequently to affect players’ physical conditio ning as well as team 
+performance. 
+Objective: To examine available  evidence relating to shoulder injury rates and risk factors for shoulder 
+injury in water polo . 
+Methods:  CINAHL, AUSPORT , Pubmed, Pedro and SPORTDiscus databases were searched  for 
+original research papers  using the predefined terms ( "water polo") AND (shoulder OR glenohumeral* 
+OR a rm OR "upper limb"). 
+Results: Twenty  papers were identified as suitable for inclusion. Reported shoulder inj ury rates varied 
+from 24%-51%. Shoulder injuries were more likely to become chronic compared to all  other reported 
+injuries . Injury data during the last three World Championships indicate s an increasing rate of 
+shoulder injur ies-per- year with participation in aquatic sport s. Risk for shoulder injury in water  polo is 
+multi -factorial. Volume of shooting, range of motion, scapular dyskinesis, strength i mbalance, 
+proprioceptive deficit and altered throwing kinematics have been proposed to be associated with an 
+increased risk of injury  
+Conclusion:  Although th is review showed water polo to have a high propensity for shoulder i njury , the 
+descriptive nature of the included papers limit ed the inferences that could be drawn from  the pooled 
+literature. Future direction s for research include collecting normative data f or shoulder range of 
+motion, strength ratio and proprioception with prospective analysis of these attributes in relation to  
+injury rates and time los t. 
+Keywords: Athletes; muscle strength; range of motion; p roprioception;  upper limb   
+2 | Page  
+ i. Introduction  
+Water polo originated in the mid -19th century in England and Scotland as an aquatic form of rugby.1 
+Men’s water polo was introduced at the modern Olympics in 1900 making the sport of wa ter polo the 
+first Olympic team competition .2 Presently, t he International Swimming Federation (FI NA) is the  
+international governing body for the sport.3 
+Water polo is a physically demanding sport, particularly on athletes’ upper limbs , with  intense bursts 
+of sprint swimming, changing direction every 6.2s4, and passing and shooting the ball repetitively 
+from end-of- range  shoulder abduction (Abd ) and external rotation (ER) a t arm speeds of up to 
+24.1±1.58 ms-1.5 
+Risk factors identified for shoulder pain in swimmers are often  extrapolated  to water polo , despite the 
+unique demands. Unlike competitive  swimm ers, water polo players use an adapted upright swimming 
+posture to allow transport of the ball and a clear view of the opposition. The elevated posture 
+eliminates the body rol l observed in traditional freestyle swimming , increasing the required shoulder 
+Abd and internal rotation (IR) and placing  stress on the rotator cuff .6 Also in contrast to swimming, 
+water polo is a contact sport. In defensive play, athletes keep their arms above t heir head to physically 
+obstruct the opposition and block opposing players’ throws, placing external  force on the shoulder 
+joint.7, 8  
+The aquatic environment means that water polo players  generate throwing force wit hout the 
+contribution of a solid  base of support , making it difficult  to produce the conventional throwing 
+proximal- distal kinematic chain sequence .6, 9 When throwing  in water polo, power is produced by the 
+trunk rotating  forward from  hyperextension to 20°  flexion to maximise shoulder ER by leaving th e 
+arm and ball behind the body (Figure 1).9 The arm then moves  in an arc , shifting the body towards the 
+horizontal plane as the trunk simultaneously laterally flexes away from the throwing  arm, increasing 
+the height and velocity for ball release .9, 10  
+ 
+ 
+3 | Page  
+ Figure 1 : The water polo shot. Image provided with permission by Queensland Academy of  Sport 
+Water Polo program  
+  
+ 
+Despite the lower average ball velocity observed in water polo (16 .5ms-1) compared to baseball (33 ms-
+1) and American football (23ms-1), res ultant joint torques is  similar .11 Horizontal adduction and IR 
+torque in the penalty shot is 64/59Nm compared to 100/67Nm and 78/66Nm for baseball and 
+American football respectively .10, 12, 13 The observed force  can be explained by the large r size and 
+weight of the water polo ball (400-450g) compared  to baseball , and the reduced contribution of the 
+lowe r extremity to the kinetic chain .10, 14, 15  
+The aim of this paper was to review the available literature regarding shou lder injury rates and risk 
+factors for shoulde r injury in water polo. It has been previously suggested that shoulder injury r ates are 
+as high as 80% in elite water polo,1, 6, 16 however due to limited research results are often extrapola ted 
+from other overhead sports. Evaluation of the incidence of shoulder injury and the relationship 
+between intrinsic risk factors and shoulder injury may help identify  “at risk” athletes and enable 
+targeted injury prevention strategies. Further, this revi ew serves to identify current gaps in water polo 
+research regarding shoulder injury rates, normative data and risk factors associ ated with shoulder 
+injury .  
+
+4 | Page  
+ ii. Methods  
+CINAHL, AUSPORT,  Pubmed, Pedro and SPORTDiscus databases were searched using the key 
+terms ("water polo") AND (shoulder OR glenohumeral* OR a rm OR "upper limb"). No date limits 
+were applied and the search was completed in August 2016.  Two reviewers conducted the selection 
+process and independently evaluated the characteristics and key outc omes of the study.  Studies were 
+included if they were in English and original research , and could be anthropometrical, descriptive, 
+epidemiological or interventional . No restriction was placed on player’s age or competition level.  
+Studies were excluded if multiple overhead sports wer e aggregated in the analysis or  if non-
+conservative/surgical interventions were applied.  The sequence of paper selection is presented  in 
+Figure 2 . 
+Articles were di vided by the main themes of injury inci dence, pain, st rength, ROM, proprioception, 
+pathoanatomy and posture. The quality of the final study yield  was analysed  using a modified version 
+of the Critical Review Form for Quantitative Studies.17 To enable a numerical result each criterion was 
+evaluated using a dichotomous ‘yes’ =1, no or not applicable = 0 for a total achievable score of 12, 
+with a score of greater than 50% required for inclusion. Final study ratings were collated and inter-
+rater difference discussed in a consensus meeting. The quality score  and outcome summary is reported 
+in Table 1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 | Page  
+ Figure 2  PRISMA flow diagram.  n = number 
+ 
+ 
+ 
+ 
+  Records identified through database 
+searching  
+(n = 122 ) Additional records identified from 
+hand searched reference lists  
+(n = 7) 
+Records after duplicates removed  
+(n = 84 ) 
+Records screened  
+(n = 84 ) Records excluded  
+(n = 45 )  
+Full-text articles assessed 
+for eligibility  
+(n = 39 ) Full-text articles excluded, 
+with reasons  
+(n = 19 ) 
+No statistics – 8 
+Abstract only– 2 
+Case report – 2 
+Surgical intervention – 2 
+Mixed sports – 3 
+Elbow – 1 
+Not original research - 1 Studies included in review 
+article  
+(n = 20 ) 
+6 | Page  
+ iii. Results  
+The review process returned 20 papers . Six papers considered epidemiology of shoulder pain and 
+injury and the remaining 14 investigated intrinsic risk factors of  shoulder injury in water polo players.  
+Injury incidence was defined as  the number of new inju ries in a specified time period,18 and injury rate 
+as the number of injuries divided by athlete- time-exposure .19 
+Shoulder injury i ncidence  at major championships . Three  studies evaluated shoulder injury  
+incidence at ma jor international cha mpionships.7, 8, 20 A cohort study of male water polo players 
+competing at the 2004 Summer Olympics reported that 53% of i njuries affected the head/ neck, 12% 
+the trunk and 6% the shoulder .7 Retrospective analysis of the 2009 FINA World Championshi ps 
+revealed  that upper-limb injury was highest in water polo compared to other aquatic sports, w ith 37% 
+of the total injuries (n=48) being reported by water polo athletes, of which  19% affected  the head/ neck 
+region and 12.5% affected the shoulder.20 Analysis of injury incidence prior to and during the 2013 
+FINA World Championships demonstra ted that water polo had the highest injury rate compared to all 
+other aq uatic sports (15.3 injuries/ 100-athletes) followed by open water sw imming (11.7) and diving 
+(11.4).8 Of injuries to the head and neck across all sports, water polo was responsible fo r two -thirds of 
+the total number of injuries (n=23).  The most frequently -injured body part at the World 
+Championships was the shoulder (n=39, 21%) and 25% of injuries that resulted in time loss were 
+shoulder injuries (n=28); although the percentages  for each sport were not reported. A more recent 
+review of the last three FINA World C hampionships, confirms the shoulder was the most commonly 
+affected anato mical site for aquatic athletes .21  
+Shoulder injury incidence. The other t hree epidemiological studies obtained documented anatomical 
+site and injury incidence in water polo players and all found shoulder injury the most prevalent .22-24 
+Ellapen et al .24 prospectively examined the prevalence of musculoskeletal pain in adolescent male 
+water polo players. During the 12-month study pe riod, the shoulder accounted for over half (51%) of 
+all injuries sustained. A 13 -year retrospective study was conducted on male water polo scholarship 
+holders at the Australian Institute of Sport (AIS). Of all anatomical sites, the shoulder had the highest 
+reported clinical incidence (n=67), comprising 24% of tot al injury over the 13- year period , and 
+7 | Page  
+ shoulder injuries were also more likely to become chronic .22 Sallis et al .23 was the only author to 
+consider gender differen ces and injury incidence, with injuries at a single NCAA -Division -III college 
+compared  over a 15 -year period. A statistically significant gender difference (p<0.01) w as found for 
+shoulder injury , with female water polo players reporting 2.38 times the rate (3.40 vs 8.09/100 
+participant years)  of shoulder injury compared with men.  
+Shoulder pain and patho -anatomy. Three  studies considered shoulder pain.14, 15,  25 Wheeler et al .15 
+found 74% of shoulde r soreness c ould be explained by the total volume of shooting and reduced rest 
+between shots. All athletes reported moderate soreness  (2.9±1.3) on an increasing 10- point likert  scale,  
+and shoulder soreness was associated  with performing a greater number of shots. Shoulder soreness 
+was shown to increase with an average rest time of <508s between shots in the squad selection camp 
+and < 160s in the team game -based camp.  Giombini et al.25 compared  magnetic resonance imaging 
+(MRI), clinical tests and arthroscopic investigation  in 11 water polo players with shoulder pain and 
+demonstrated posterior-superior glenoid rim impingement to be a contribut ing cause of pain in elite-
+level water polo players .25 All the players  demonstrated internal impingement, thought to be from 
+repetitive positioning of the shoulder in maximum ER /Abd in the cocking phase of throwing. Klein et 
+al.14 conducted a cross -sectional study , comparing 28 semi-professional water polo players to healthy 
+age-matched controls, but found no significant  correlation between clinical presentation a nd imaging 
+results.14 When viewed on MRI, water polo players had significantl y more changes in subscapularis  
+(p=0.001) and infraspinatus tendons (p=0.024 ) and the posterior labrum  (p=0.041) than age -matched 
+controls. A ll 28 players ’ throwing shoulders demonstrated abnormal findings o n MRI , despite only 
+29% being symptomatic.14 
+Posture  and shoulder injury.  Water polo athletes with  reduced pectoralis -minor length demonstrated 
+altered scapular kinematics ; that is, less posterior scapular tilting and greater IR with humeral 
+elevation .26, 27 Scapular  muscle i mbalance from reduced pectoralis-minor length may lead t o 
+dyskinesis , increasing gleno humeral contact and impingement of the rotator cuff .28 In players with 
+shoulder pain, upward scapular rotation has been shown to decrease after intens e practice, potentially 
+increasing the risk of impingement of the rotator cuff.27, 29 Two studies considered the role of posture 
+8 | Page  
+ profile and injury rates and both demonstrated a positive relationship betwee n a kyphotic posture and 
+shoulder pain  in water polo .24, 30 25% of included players reported a previous shoulder injury (elbow -
+11%, back-6%) and 8% reported recent shoulder injury ; 67% of players with recent shoulder injury 
+had a protracted shoulder posture.30 
+Shoulder ROM. In college water polo players’ significantly greater ER  ROM (83.8±10.9° v 
+77.5±18.2° p<0.001 ) and total ROM (132.1±17.4° v 127.4±18.2° p=0.04) has been reported for the 
+throwing vs non-dominant arm.31 Witwer and Sauers31 attribute this adap tation to elongation of th e 
+inferior glenohumeral ligament arising from the repetitive ER and preservation of IR with swimming 
+demands. In contrast, results from Elliot32 demonstrated elite water polo player s to have significantly 
+greater bilateral shoulder flexion ROM (p<0.01) compared to controls, and reduced unilateral IR of 
+their throwing arm (p<0.01). No significant correlation was found between shoulder range and pain.  
+Shoulder strength. Although w ater polo players are stronger than age and gender -matched controls, 
+rotator cuff muscle imbalance may be present due to greater IR than ER development occurring in 
+water polo players.33-36 Of the four studies reviewed, only one reported the expected  ratio for a 
+throwing population for IR:ER of 1.0:0.6736 with the other three varying between 1.0:0.50 –1.0:0.6033-
+35 indicating an increased IR strength and/or relative decrease in ER  strength .  
+Throwing and  shoulder i njury. While shooting a penalty goal, kinematic differences at the elbow 
+were observed  in players with shoulder pain, with injured athletes demonstrating lower pe ak angular 
+velocity and less elbow flexion early in the throw cycle .37 A more  recent investigation  suggests that 
+male water polo players ’ throwing velocity has imp roved over time from 19.7±0.4ms-1 to 
+24.1±1.58ms-1.5 However, d espite th is improvement in throwing velocity, no change in kinematic 
+variables was observed between athletes with and without shoulder pain . Further investigation of this 
+performance phenomenon including specific weight training and talent selecti on is recommended .5 
+Proprioception  and strength. Mota and  Ribeiro .36 evaluated the relationship between shoulder 
+proprioception and strength  of the shoulder rotators . Greater sensory acuity through improved 
+proprioception is suggested  to contribute to enhanced motor contro l of the joint .38 Knowledge of 
+9 | Page  
+ proprioception, and its association with strength, may improve training and inj ury prevention 
+strategies .36 Proprioception acuity at 30°ER was negatively  correlated with both eccentric -ER and 
+concentric -IR peak torque in this position . The se main  findings suggest  that the tested cohort of 
+athletes may be more prone to injury . Reduced proprioception acuity may lead to a delayed 
+neuromuscu lar protective reflex  and the resultant shoulder rotator muscle contraction may  be 
+insufficient to protect the j oint from excessive movement.36 
+  
+10 | Page  
+ iv. Discussion  
+Previous descriptive reports  have suggested  shoulder injury rates in elite w ater polo  are as high as 
+80%.1, 6, 16 In contrast, the present review found injury rates for elite male water polo players was 24 % 
+and up to 51% for college level males .22, 24 Due to methodolog ical limitations of retr ospective studies , 
+such as incomplete medical records and failure to report injury re-occurance , future prospective 
+studies with a clear definition  of ‘injury ’ as well as  capturing time-loss to sport participation and 
+recording injury rec urrence  are necessary.  
+A trend toward  increasing rates of shoulder injury during major international cham pionships was 
+observed , with shoulder injury rates doubling between the 2004 Summer Olympics and 2009 FINA 
+World Championships from 6% to 13%.7, 20 A contributing factor may have been the rule change in 
+2005, whereby the maximum perio d for keeping the b all was reduced from 35s to 30s.39 While t his 
+change increased the speed and the appeal of the game, the  rise in throwing frequency may explain the 
+increased number of shoulder injuries . Interpretation of the incidence of injury during the 2009 
+championships is limited somewhat  by the low response rates from  team physicians (53%).20 Given 
+the high rates of shoulder injury  in water polo , risk of chronicity and potential ensuing detraining 
+effects on overall performance, research focussing on reducing shoulder injur y frequency in this 
+population is warranted . A need exists for implementation of injury prevention strategies at an 
+organisat ional level  targeting the shoulder , such as  introducing daily monitoring of athletes’ pain and 
+conducting regular evidence- based musculoskeletal screening to enable targeted and early intervention 
+for at -risk athletes.40  
+It remains unclear whether shoulder injury risk is gender or sport -specific. Only one study investigated 
+gender differences in water polo injury rates23 with nearly 2000 injuries recorded during a 15- year 
+period. All injuries were evaluated using a standardised injury form completed by the same athletic 
+trainer. Female  water polo players were nearly three times more likely to sustain a shoul der injury than 
+their male counterpar ts. Although a statistically significant difference was found between genders, n o 
+injury severity or time -loss data was recorded, limiting the cl inical significance of the findings.  
+Authors suggested the increased injury rate may be attributed to a more rig orous training program for 
+11 | Page  
+ the female players.23 Gender related differences have been previously demonstrated in anterior 
+cruciate ligament injury rates ,41 and one may question whether greater shoulder laxity and less relative 
+strength may be similarly contributing to increased shoulder injury in female water polo players. With 
+increasing partic ipation of women in water polo, f urther investigation is required to determine if 
+shoulder injury is related to the demands of the sport or if gender- specific risk factors exist  that c ould 
+be addressed . 
+The repetitive stress placed on the athlete's shoulder joint complex duri ng the throwing motion 
+challenges the physiologic al limits of the surrounding tissues . Increased s hot frequency was associated 
+with shoulder soreness , and thresholds were specific to individual athletes , with 29% of soreness 
+prediction based on individual difference s.15 These findings highlight the importance of coaches 
+developin g individual athlete thresholds  to enhance performance and reduce injury risk through 
+optimising training load and substituti on of athletes during a game . 
+In terms of the mechanic s of the water polo throwing action, t wo contradictory views exist regarding 
+humeral translation occurring during the cock ing phase. One view suggests that the humeral head 
+translates postero -superiorly and is associated with thickening of the posterior cap sule and 
+deve lopment of internal impingement42 while the other suggests that repeated Abd and ER is 
+associated with anterior -inferior translation and re sultant anterior instability and attenuati on of the 
+capsule.43 Giombini et al .25 concluded that a primary cause of pain in water polo players was posterior -
+superior glenoid impingement however no asymptom atic water polo players or healthy controls were 
+included for comparison. In contrast, Klein et al .14 when comparing water polo players to healthy age-
+matched controls , found no correlation between clinical presentation and imaging results . Both authors 
+agree the action of overhead throwing causes  anatomical change s to the posterior labrum. The notion 
+of the labrum as a primary pain source , however, requires further investigation before a link between 
+shoulder pain, throwing and labral pathology in water polo can be confirmed . Anatomical changes of  
+the labrum on MRI may not indicate pathology and should not be used as the basis for  intervention in 
+a throwing population.44 Rather it is recommended that team physiotherapists consider an athlete ’s 
+12 | Page  
+ clinical history , clinical examination findings , functional limitation s and radiological  results together 
+when developing a management  strategy .14, 45, 46  
+One proposed mechanism for altered  scapular kinematics is change in pectoralis -minor length.47 Water 
+polo athletes with reduced pectoralis -minor length demonstrate altered scapular kinematics which may 
+lead to dyskinesis, increasing gleno humeral contact and risk of rotator cuff impingement.27, 29 It has 
+previously been demonstrated that a forward scapular position can result f rom posterior shoulder 
+tightness and alteration in shoulder and scapular muscle activity pattern.46 Clinically , the presence of 
+scapular asymmetry  in a throwing athlete is nearly universal, however pain is not.46 Given that visual 
+assessment of scapular dyskinesis has demonstrated validity for athletes engaged i n overhead sport26, 48 
+inclusion of the assessment of scapular dyskinesis in water polo at hlete s’ musculoskeletal screening 
+has merit and may enable targeted  stretching for athletes at increased risk of developing shoulder pain. 
+However , testing needs to consider the  larger clinical picture including posterior shoulder muscle 
+length , muscle strength and activity pattern . 
+College level water polo players demonstrated greater E R ROM in their dominant compared to non-
+dominant shoulder , attributed to acquired  changes from  repetitive overhead activity.31 As goniometry 
+was used to measure ROM instead of ultrasound  it is not possible to determine whether osseous or soft 
+tissue adaptation s account for the observed changes in ROM . Previous research in baseball indicates 
+that throwing between the ages of 11-16 years  is critical in the deve lopment of humeral retroversion49, 
+but the required loads for the development of torsional change is unknown.46 Given the later age that 
+water polo player s commence  training, it is proposed that the osseous adap tation of the humerus 
+observ ed in baseball would not have as many years to develop.31 Further, t he stresses placed on the 
+shoulder joint in water polo are different and require a combination of swimming and to a lesser extent 
+overhead throwing. The difficulty lies in differentiating between advantageous adaptive and 
+pathological change in ROM. Internal impingement is thought to be a normal phenomenon a nd the 
+true pathological process is whe n loss of IR exceeds gain s in ER.42 Baseball players (unilateral) and 
+swimmers (bilateral) demonstrate a relative increase in ER and a corresponding loss in IR.50, 51 In elite 
+level water polo players , Elliot.32 found a similar imbalance in shoulder flexibility; a bilateral increa se 
+13 | Page  
+ in ER and unilateral decrease in IR (throwing arm) . In contrast , college level water polo players’ 
+throwing arm IR ROM  was preserved , and an increase in ER without a loss of IR is observed.31 It is 
+unclear at what point these observed changes in ROM are a predisposing fa ctor to shoulder injury in 
+water polo, as only pain -free college level athletes were included31 and no significant correlation was 
+found between ROM and pain in the elite population.32 Accordingly, investigation of water polo 
+players with and without shoulder pain to establish normative ranges and injury risk is required . 
+The overhead throw is the most eff ective method for accelerating the ball and is critical to success and 
+scoring goals in water polo . Although elements of shooting efficiency are a trained skill, the 
+assumption is that the faster the ball travels, the harder it is for  the goalie to deflect  the shot.52 Water 
+polo players demonstrated increased strength in IR and ER compared to gender ma tched controls, 
+however a rotator cuff muscle imbalance exists due to greater relative IR than E R strength .33-36 It has 
+been proposed that the risk of shoulder  injury is therefore increased  due to insufficient ER strength to 
+balance and decelerate the shoulder in the follow through phase of throwing.33-35 Isokinetic shoulder 
+strength was measured as it is considered an important parameter to predict t hrowing performance, 
+however no change in throwing velocity was observed following a shoulder stre ngthening program 
+despite significant increase in strength.35 Participants may have traded off velocity for accuracy though 
+due to a target being used to measure throwing performance. Further inv estigation is required to 
+clarify the relationship between throwin g speed and shoulder strength. A systematic review of 
+shoulder rotation strength in baseball players recommends IR:ER of grea ter than 1.0:0.67.46 Normative 
+pre-season strength data of baseball players has shown a correlation between increased I R and reduced 
+relative ER strength as a predictor of  in-season shoulder inju ry risk.53 This data provides an evidence -
+based foundation for the assessment of water polo players, however  due to the known d ifference in 
+throwing mechanics , a need exists for standardised normative data within water polo in order to guide 
+strength and conditioning and rehabilitation protocols. 
+Kinematic differences at the elbow w hile shooting a penalty goal have been demonstrated in elite 
+players with and without shoulder pain, h owever, it is unclear whether this different kinemati c profile 
+contributes to development of shoulder injury due to some individuals within the injured  and non-
+14 | Page  
+ injured group performing  similarly .37 The study groups were also not homogenous at baseline as non-
+injured athletes  had lower mean body weight and height.35 One of the major limitations of kinematic 
+investigation s of the shoulder in water polo is demonstrating the contribution of the  superficial an d 
+deep shoulder cuff muscles to movemen t and stability .5, 37 Superior throwing performance has been 
+shown to be characterised by decreased movement variability at critical point s within the penalty 
+shot.54 Although shooting proficiency is adversely affected by increased exertion,  height out of the 
+water, elbow angle and position at release, ball speed and accuracy were all maintained under 
+fatigue.55 Reduction in movement variability at the elbow before ball release suggests that a threshold 
+may exist to improve throwing accuracy and potentially reduce injury risk.  The role of technique in 
+injury -risk and conversely injury causing change in throwing technique is unclear a nd requires further 
+investigation. Water polo is an intermittent and high intensity sport and incr emental fatigue causes 
+decrement in throwing performance. To improve athletes throwing proficiency , the literature 
+demonstrates value in coaches focussing on i ncreasing  athletes overall fitness55 as well as practicing  
+throwing skill under pre- fatigue  conditions.54 
+Dynamic shoulder stability is derived from muscular as well as neuromuscul ar control. Recent 
+research has shown that the quality of an individual’s proprioception is associ ated with the level at 
+which they perform in their sport.56 It may therefore be expected water polo athletes would 
+demonstrate superior proprioception; however in sports involving overhead activ ities, the shoulder can 
+show proprioceptive deficits .36, 57, 58 Joint proprioception has been shown to be impaired further into 
+range in people with chronic shoulder injuries.59-61 The increased ROM developed from repeated 
+throwing may, over time, induce trauma to the shoulder capsule damaging mec hanoreceptors, 
+reducing afferent input and increasing the risk of shoulder injury .36, 62 In baseball , repetitive throwing 
+has been shown to reduce proprioception acuity but not an athlete’ s shoulder strength .62 Despite 
+reduced proprioception, power remained unaffected , suggesting an increase d injury risk from the 
+impact of fatigue on proprioception, before a reduction in performance was observed. There is lim ited 
+research of mechanisms to  enhanc e proprioception; however, it is known that improved proprioception 
+is trainable in the  lower leg and the knee region.63 Preliminary work suggests reduced proprioception 
+15 | Page  
+ in water polo players may increase the risk of injury.36 To date , no study has measured proprioception  
+of water polo athletes in t heir aquatic playing environment. Accordingly, p otential exists for 
+proprioceptive training of the shoulder region to be applied within a water polo context but further 
+research is required with high ecological validity, a larger sample size and incl usive of both male and 
+female athletes for a more robust analysis of the correlation of proprioception and injury risk.  
+This systematic review was li mited by the heterogeneity of the included studies preventing 
+quantitative statistical analysis. Results reporting was biased by lack of cons ensus regarding the 
+definition of injury, as some studies did not include a working definition o f injury30, 32, 37, injury 
+severity7, 23, 30 or athlete exposure/risk.7, 24, 30 Included studies were of a small study size,15, 25, 31, 36 and 
+are limited by the risk of recall bias due to self -report questionnaires,8, 24 no control group in 
+intervention studies,25, 31, 32 and non-homogenous groups at baseline.14, 37 Differences in 
+methodological quality of the included studies were compared, however reader s are cautioned when 
+interpreti ng results as some selected outcome measures may not have been sensitive to detect change 
+(measurement bias).5, 33, 35Results are further limited by selection bias and may not be generalisable to  
+the wider water  polo population due to inclusion of elite athletes only.5, 7, 8, 14, 15, 20, 22, 25, 32 -34, 37 
+  
+16 | Page  
+ v. Conclusion  
+Review of the c urrent literature indicates that shoulder pain and injury are common in water polo with 
+reported rates for male players ranging from 24% – 51%. Risk for shoulder injury is multifactorial , 
+however the relative contribution of intrinsic factors remains unclear.  
+Future i mplications for research  include development of normative data sets in water polo regarding 
+shoulder ROM, strength ratio and proprioception. Simultaneously, further prospective analysis with a 
+clear definition of injury incidence and rate and that details time l oss/injury severity is required. 
+Results would enable more targeted and comprehensive injury prevention interv entions to be 
+developed by physiotherapists, coaches and strength and conditioning trainers.   
+Practical implications for training include monitoring individual athlete s’ shot frequency and rest 
+intervals in conjunction with daily shoulder pain reporting to allow individualised athlet e loading. 
+Regular musculoskeletal screening of water polo players for risk factors fo r shoulder injury is advised 
+and should include; v isual assessment of athlete ’s posture an d rating of scapular dyskinesis to enable 
+targeted muscle  stretching prescription. Similarly, m easurement and preservation of IR ROM needs to 
+be monitored and assessment and  maintenance of  shoulder ER strength relative to IR, to ensure a 
+minimum ratio of I R:ER of 1.0:0.67 is achieved . Alongside posture, ROM, strength, daily pain and 
+training load monitoring, neuromuscular assessment and post-injury retraining a re recommended. 
+17 | Page  
+ vi. Practical implications  
+• For injury prevention, m onitoring individual athlete loading and daily reported shoulder pain is 
+encouraged.  
+• Visual assessment for scapular dyskinesis pre and post training can enable targeted shoulder 
+stretching prescription. 
+• Measurement and preservation of  dominant/throwing arm IR ROM is recommended.  
+• A shoulder strength ratio for IR:ER > 1.0: 0.67 is desirable . 
+• For performance outcome, i ncreased overall athlete fitness may improve athlete’s goal 
+shooting accuracy.  
+  
+18 | Page  
+ vii. Acknowledgments   
+Andrea Miller is curre ntly supported by a joint QAS -University of Canberra  PhD scholarship for the 
+duration of her PhD candidature  
+  
+19 | Page  
+ viii. References  
+1. Franić M, Ivković A, Rudić R. Injuries in water polo. Croat Med J  2007; 48(3): 281-288. 
+2. Smith HK. Applied physiology of water polo. Sports Med  1998; 26(5): 317 -334. 
+3. Nauright J, Parrish C. Sports history culture and practice in Europe, Chapte r 2, Sports around 
+the world: History, Culture and Practice . California, ABC-CLIO. 2012 
+4. Tan F, Po lglaze T, Dawson B. Activity profiles and physical demands of elite women's w ater 
+polo match play. J Sport Sci  2009; 27(10): 1095-1104. 
+5. Melchiorri G, Padua E, Padulo J et al. Throwing velocity and kinematics i n elite male water 
+polo players. J Sports Me d Phys Fitness  2011; 51(4): 541 -546. 
+6. Colville JM, Markman BS. Competitive water polo: Upper extremity inj uries. Clin Sports 
+Med 1999; 18(2): 305 -312. 
+7. Junge A, Langevoort G, Pipe A et al. Injuries in team sport tournaments during  the 2004 
+Olympic Game s. Am J Sports Med  2006; 34(4): 565-576. 
+8. Mountjoy M, Junge A, Benjamen S et al. Competing with injuries: injuries pr ior to and during 
+the 15th FINA World Championships 2013 (aquatics). Br J Sports Med  2015; 49(1): 37-43. 
+9. The University of Manitoba Sp orts Biomechanics Lab Water polo: A biomechanical analysis 
+of the shot. Available at: 
+https://umanitoba.ca/faculties/kinrec/hlhpri/media/water_polo_shot.pdf . Accessed 30 
+November 2015. 
+10. Garrett WE, Kirkendall DT. Biomechanics of overhead sports, Chapter  38, Exercise and Sport 
+Science . Philadelphia, Lippincott Williams & Wilkins. 2000 
+11. Feltner ME, Taylor G. Three -dimensional kinetics of the shoulder, elbow, and wrist during a 
+penalty throw in water polo. J Appl Biomech  1997; 13: 347 -372. 
+12. Rash G, Sh apiro R. A three -dimensional dynamic analysis of a quarterback's throwing motion 
+in American football. J Appl Biomech  1995; 11(4): 443-459. 
+13. Fleisig GS, Andrews JR, Dillman CJ et al. Kinetics of Baseball Pitchi ng with Implications 
+About Injury Mechanisms. Am J Sports Med  1995; 23(2): 233 -239. 
+20 | Page  
+ 14. Klein M, Tarantino I, Warschkow R et al. Specific shoulder pathoanatomy in se miprofessional 
+water polo players: A magnetic resonance imaging study. Orthop J Sports Med  2014; 2(5). 
+15. Wheeler K, Kefford T, Mosler A et al. The volume of goal shooting during trai ning can 
+predict shoulder soreness in elite female water polo players. J Sci Med Sport  2013; 16(3): 255-
+258. 
+16. Webster MJ, Morris ME, Galna B. Shoulder pain in water polo: A systematic revi ew of the 
+literature. J Sci Med Sport  2009; 12(1): 3-11. 
+17. Guidelines for critical review form– quantitative studies. Available at: 
+https:// www.unisa.ed u.au/Global/Health/Sansom/Documents/iCAHE/CATs/McMasters_Quan
+titative%20review.pdf . Accessed 30 November 2016. 
+18. Phillips LH. Sports injury incidence. Br J Sports Med  2000; 34(2): 133-136. 
+19. Knowles SB, Marshall SW, Guskiewicz KM. Issues in Estimating Risks and Rates in Sp orts 
+Injury Research. J Athl Train  2006; 41(2): 207-215. 
+20. Mountjoy M, Junge A, Manuel Alonso J et al. Sports injuries and illnesses in the  2009 FINA 
+World Championships (Aquatics). Br J Sports Med  2010; 44(7): 522-527. 
+21. Prien A, Mountjoy M, Miller J et al. Injury and illness in aquatic sport: How  high is the risk? 
+A comparison of results from three FINA World Championships. B J Sports Med  2016; 0: 1-7. 
+22. Annett P, Fric ker P, McDonald W. Injuries to elite male waterpolo players over a 13 -yr 
+period. NZ J Sports Med  2000; 28: 78-83. 
+23. Sallis RE, Jones K, Sunshine S et al. Comparing sports injuries in men and women. Int J 
+Sports Med  2001; 22(6): 420 -423. 
+24. Ellapen TJ, Stow C, Macrae N et al. Prevalence of musculoskeletal pain among  competitive 
+high school male water polo players in Kwa Zulu Natal, South Africa. Postepy rehabilitacji  
+2012; 26(3): 5. 
+25. Giombini A, Rossi F, Pettrone F et al. Postero-superior gleniod rim impingement a s a cause of 
+shoulder pain in top level waterpolo players. J Sports Med and Phys Fitness  1997; 37: 273-8. 
+21 | Page  
+ 26. Tate A, McClure P, Kareha S et al. A clinical method for identifying scapula r dyskinesis, part 
+2: validity. J Athl Train  2009; 44(2): 165-173. 
+27. Mukhtyar FR, Mitra M, Kaur A. The effects of intense practice sessions on th e scapular 
+kinematics of elite water polo players with and without impingement syndr ome. Indian J 
+Physiother Occup Ther  2014; 8(2): 189-193. 
+28. Escamilla  RF, Andrews JR. Shoulder muscle recruitment patterns and related biom echanics 
+during upper extremity sports. Sports Med  2009; 39(7): 569-590. 
+29. Su K, Johnson MP, Gracely EJ et al. Scapular rotation in swimmers with and with out 
+impingement syndrome: prac tice effects. Med Sci Sports Exerc  2004; 36(7): 1117-1123. 
+30. Gradidge PJ-L, Neophytou N, Benjamin N et al. The injury and posture profile s of male high 
+school water polo players in Johannesburg, South Africa. Afr J Phys Health Educ Recreat 
+Dance  2014; 20 (1): 179 -188. 
+31. Witwer A, Sauers E. Clinical measures of shoulder mobility in college water -polo players. J 
+Sport Rehabil  2006; 15(1): 45 -57. 
+32. Elliott J. Shoulder pain and flexibility in elite water polo players. Physiotherapy  1993; 79(10): 
+693-697. 
+33. McMaster WC, Long SC, Caiozzo VJ. Isokinetic torque imbalances in the rotato r cuff of the 
+elite water polo player. Am J Sports Med  1991; 19(1): 72 -75. 
+34. Tsekouras YE, Kavouras SA, Campagna A et al. The anthropometrical and physio logical 
+characteristics of elite water polo players. Eur J Appl Physiol  2005; 95(1): 35 -41. 
+35. Bloomfield J, Blanksby BA, Ackland TR et al. The influence of Strength Tra ining on 
+Overhead Throwing Velocity of Elite Water Polo Players. Aust J Sci Med Sport  1990: 63. 
+36. Mota N, Ribeiro F. Association between shoulder proprioception and muscle strengt h in water 
+polo players. Isokinet Exerc Sci  2012; 20(1): 17 -21. 
+37. Whiting WC, Puffer JC, Finerman GA et al. 3- Dimensional cinematographic analysis of water 
+polo throwing in elite pe rformers Am J Sports Med  1985; 13(2): 95-98. 
+22 | Page  
+ 38. Han J, Anson J, Waddington G et al. Sport attainment and proprioception. Int J Sports Sci 
+Coach  2014; 9(1): 159-170. 
+39. Platanou T. Cardiovascular and metabolic requirements of water polo. Serb J Sports Sci  2009; 
+3(3): 85-97. 
+40. Mountjoy M, Junge A, Alonso JM et al. Consensus statement on the methodology of inju ry 
+and illness surveillance in FINA (aquatic sports). Br J Sports Med  2016; 50(10): 590. 
+41. Prodromos CC, Han Y, Rogowski J et al. A Meta- analysis of the Incidence of Anterior 
+Cruciate Ligament Tears as a Function of Gender, Sport, and a Knee Injury–Reduc tion 
+Regimen. Arthroscopy  2007; 23(12): 1320-1325.e6. 
+42. Burkhart SS, Morgan CD, Kibler WB. The disabled throwing shoulder: Spec trum of 
+pathology part I: Pathoanatomy and biomechanics. Arthroscopy  2003; 19(4): 404-420. 
+43. Jobe FW, Giangarra CE, Kvitne RS et al. Anterior capsulolabral reconstr uction of the shoulder 
+in athletes in overhand sports. Am J Sports Med  1991; 19(5): 428 -434. 
+44. Connor PM, Banks DM, Tyson AB et al. Magnetic resonance imaging of the asymptom atic 
+shoulder of overhead athletes: A 5 -Year follow -up study. Am J Sports Med  2003; 31(5): 724 -
+727. 
+45. Baker CL, Merkley MS. Clinical  evaluation of the athlete's shoulder. J Athl Train  2000; 35(3): 
+256-260. 
+46. Whiteley RJ, Oceguera MV, Valencia EB et al. Adaptations at the shoulder of t he throwing 
+athlete and implications for the clinician. Tech Should Surg  2012; 13(1): 36 -44. 
+47. Bors tad JD, Ludewig PM. The effect of long versus short pectoralis minor re sting length on 
+scapular kinematics in healthy individuals. J Orthop Sports Phys Ther  2005; 35(4): 227 -238. 
+48. McClure P, Tate AR, Kareha S et al. A clinical method for identifying sca pular dyskinesis, 
+part 1: reliability. J Athl Train  2009; 44(2): 160-164. 
+49. Whiteley R, Adams R, Ginn K et al. Playing level achieved, throwing history, and hume ral 
+torsion in Masters baseball players. J Sports Sci  2010; 28(11): 1223.  
+23 | Page  
+ 50. Bak K, Magnusson SP. Shoulder strength and range of motion in symptomatic and pain- free 
+elite swimmers. Am J Sports Med  1997; 25(4): 454-459. 
+51. Wilk KE, Macrina LC, Arrigo C. Passive range of motion characteristics in t he overhead 
+baseball pitcher and th eir implications for rehabilitation. Clin Orthop Relat Res  2012; 470(6): 
+1586-1594. 
+52. Marques MC, Liberal SM, Costa AM et al. Effects of two different training progra ms with 
+same workload on throwing velocity by experienced water polo players. Percept Mo t Skills  
+2012; 115(3): 895 -902. 
+53. Byram I, Bushnell BD, Dugger K et al. Preseason shoulder strength measureme nts in 
+professional baseball pitchers : Identifying players at risk for inury. Am J Sports Med 2010; 
+38: 1375-1382. 
+54. Taylor PG, Landeo R, Coog an J. Intraindividual movement variability within the 5 m water 
+polo shot. J Appl Biomech  2014; 30(3): 477-482. 
+55. Royal KA, Farrow D, Mujika I et al. The effects of fatigue on decision maki ng and shooting 
+skill performance in water polo players. J Sport Sci  2006; 24(8): 807-815. 
+56. Han J, Waddington G, Anson J et al. Level of competitive success achieved by elit e athletes 
+and multi-joint proprioceptive ability. J Sci Med Sport  2015; 18(1): 77-81. 
+57. Dover GC, Kaminski TW, Meister K et al. Assessment of shoulder proprioception in the 
+female softball athlete. Am J Sports Med  2003; 31(3): 431 -437. 
+58. Allegrucci M, Whitney SL, Lephart SM et al. Shoulder kinesthesia in healthy  unilateral 
+athletes particiating in upper extrmity sports J Orthop Sports Phys Ther  1995; 21(4): 220-226. 
+59. Anderson VB. Impaired joint proprioception at higher shoulder elevations in ch ronic rotator 
+cuff pathology. Arch Phys Med Rehabil  2011; 92(7): 1146 -1151. 
+60. Fyhr C. The effects of shoulder injury on kinaesthesia: A systematic review an d meta -
+analysis. Man Ther  2015; 20(1): 28-37. 
+61. Hung YJ. Shoulder position sense during passive matching and active positioning ta sks in 
+individuals with anterior shoulder instability. Phys Ther  2012; 92(4): 563-573. 
+24 | Page  
+ 62. Nocera J, Rubley M, Holco mb W et al. The effects of repetitive throwing on shoulder 
+proprioception and internal and external rotation strength. J Sport Rehabil  2006; 15(4): 351-
+362. 
+63. Waddington G, Seward H, Wrigley T et al. Comparing wobble board and jump-landing 
+training effects on knee and ankle movement discrimination. J Sci Med Sport  2000; 3(4): 449 -
+459. 
+ 
+25 | Page  
+ ix. Table 1  Included studies . The key variables investigated and quality evaluation summary.  
+Author/s 
+Study design Key variable  Participants  Level of 
+WP Results  Limitations  Quality 
+Score  
+Shoulder Injury Incidence  at major championships  
+Mountjoy et al.8 
+ 
+Retro spective  
+and prospective 
+survey  Injury 
+incidence at 
+the 2013 
+FINA World 
+Championship  
+ Competed at 
+FINA 2013 
+ 
+Age 24.5±4.23y. 
+n=329 (Males 
+153, Females 
+176) Elite The most frequent injury, shoulder tendonosis 
+(n=17).  
+Primary MOI, contact with opposing player 
+(n=46; 24.7%).  
+Time loss : 8% of reported injuries resulted in of 
+1–2 weeks time loss , and 25% of all time -loss 
+injuries were to the shoulder (n=28). Data on t ime loss is missing 
+in 53 (28%) cases. 9/12 
+Mountjoy et al.20 
+ 
+Prospective 
+survey   Injury 
+incidence at 
+the 2009 
+FINA World 
+Championship  Competed at 
+FINA 2009 
+ 
+Age – NS. 
+n=461 
+(Males 235, 
+Females 226)  Elite Injuries per 1000 athletes; 89.4 men, 101.8 
+women . 
+Competition injuries per 1000 starts ; men 14.9, 
+women 23.8. 
+WP had the highest injury rate of the 
+championship. 
+ 
+37% of the total injuries (n=48) reported WP  
+athletes, of which 19% affected the head/neck 
+region and 12.5% affected the shoulder. 
+ Response rate 53.4% . 10/12 
+Junge et al.7 
+ 
+Cohort study  Injury 
+incidence 
+during the 
+2004 
+Olympic 
+Games  
+ 14 teams at 2004 
+Olympics  
+ 
+Age – NS Elite The total incidence was 21 injuries  per 1000 
+player matches (95% CI, 11-31). The majority of 
+injuries affected the head (56%), followed by the 
+upper extremity (28%), a ll injuries were incurred 
+because of contact with another player . 
+ 
+Men’s WP shoulder injury 6% of total injury.  No recording of time loss. 
+Mean number of injuries 
+per match disregards the 
+number of players in a 
+match and the duration. 8/12 
+Shoulder Injury Incidence  
+Annett, 
+Fricker, 
+McDonald.22 Male AIS 
+athletes injury 
+rate by 77 Male AIS WP 
+Scholarship 
+holders 1985 – Elite  1.51 injuries/athlete/ year.  
+ 
+Shoulder injury most frequent 24.1%. No recording of time loss. 
+Retrospective design - 
+reliance on completeness of 8/12 
+26 | Page  
+  
+Retrospective 
+cohort study anatomical 
+location and 
+per playing 
+hours 1998 
+ 
+Age 20y (16y 
+4m – 33y 6m) 
+n=77 males Overuse injury 50% shoulder (n=38) . 
+Chronic shoulder injury  n=22, 38.6% of all 
+chronic injuries.  medical records. No 
+indication of recurrence of 
+injury.  
+Ellapen et al.24 
+ 
+Prospective 
+cohort study  Injury rates 
+and 
+anatomical 
+location in 
+youth WP 
+players  Adolescent WP 
+player residing 
+in Kwa -zulu 
+natal  
+ 
+Age 16.34y 
+n=100 males Collegiate  72/100 players report ed pain w ithin last 
+12months, 51.04% of total injury was related to 
+the shoulder, 23.95% knee, 17.71% vertebral. 
+ 
+MOI = overuse (88%, p<0.001) Self-reported questionnaire 
+– potential for recall bias  
+ 
+ 10/12 
+Sallis et al.23 
+ 
+Retrospective 
+cohort study 
+ Injury rate of 
+collegiate 
+sports by 
+anatomical 
+area and 
+gender NCAA Div III 
+athletes b/w 
+1980-1995 
+ 
+Age range 18 -
+22y. n= 3796 
+(total for all 
+sports) Collegiate  Shoulder injury rate  
+Male WP = 3.40/100 participants -years , 
+Female = 8.09/100 participants-years (p<0.001) Did not consider injury 
+trend over time . 
+No injury severity 
+recorded . 
+No recording of time lost. 9/12 
+Shouler Pain  
+Wheeler et al.15 
+ 
+Cross- sectional 
+study Shoulder 
+soreness and 
+shooting 
+volume AIS volunteers 
+ 
+Age 23y (18-
+29y). n=7 
+Females  Elite  74% of shoulder soreness was explained by 
+shooting volume (p=0.013). 
+Prediction for soreness stronger during squad 
+selection than team game  (p=0.002). 
+Shoulder soreness increase d with a rest time of ≤ 
+508s b/ w shots at squad selection and ≤ 160s in 
+team based camp . 
+ Sample size – 7. 
+Shot intensity not 
+considered.  9/12 
+Giombini et al.25 
+ 
+Prospective study  Shoulder 
+impingement Persistent 
+shoulder pain  
+ 
+Age range 17 -
+29y. n=11; males 
+7, females 4  Elite  MRI show ing damage to joint structures - 
+100% posterior-superior labral damage, partial 
+tears o f under surface of rotator cuff.  
+ 
+ No control used, small 
+sample size.  
+ 7/12 
+27 | Page  
+ Elliott.32 
+ 
+Descriptive  
+study Shoulder 
+ROM of  
+members of 
+GBR WP team  Elite WP players 
+no current  
+shoulder pain  
+ 
+Age 25y (20-
+35y). n=25 
+males; WP 13, 
+controls 12 Elite  WP players greater  flexion bilaterally and 
+reduced IR on dominant/preferred throwing arm. 
+No relationship between ROM and pain. 
+ 
+WP Flexion, Dominant = 182±15°, Non-
+dominant = 180±15° 
+Control (158±11°, 159±10°, p<0.001) 
+ 
+WP IR, dominant = 45.4±12.2°, non-dominant 
+50.8±11.1° (p<0.01) 
+Control (54.6±16.4°, 55.0±14.4°) 
+ Reported no relationship 
+b/w ROM and pain but 
+excluded WP players who 
+had pain limiting ROM 7/12 
+Shoulder ROM  
+Witwer and 
+Sauers.31 
+ 
+Repeated 
+measures  Shoulder 
+PROM  IR/ER  NCAA div I  
+ 
+Age 19.9±1.1y 
+n=31; males 12, 
+females 19  Collegiate  No significant difference was observed  
+between L) and R) sides for scapular upward 
+rotation, posterior shoulder tightness or IR.  
+ 
+A significant difference between sides was 
+observed for ER ROM for the dominant vs non-
+dominant shoulder (83.8±10.9°, 77.5±11.9° p < 
+0.0001) and total ROM (132.1±17.4°, 
+127.4±18.4° p = 0.039). Small population. Inluded 
+athletes were  pain free only 
+so it is not possible to 
+determine what role these 
+clinic al measures of 
+shoulder mobility play in 
+the development of 
+shoulder pathology.  11/12 
+Shoulder S trength  
+Tsekouras et al.34 
+ 
+Descriptive study  Shoulder 
+strength; 
+IR/ER at 
+90/90 Elite WP player  
+ 
+Age 25.5±5.0 y  
+n=19 males Elite Maximum torque, IR 68.5±10.8 Nm  
+ER 37.1±5.7 N m.  
+Ratio IR:ER 1.9 :1.0. Athletes play in the same 
+team . 
+No indication of shoulder 
+pain or history . 8/12 
+McMaster, Long, 
+Caiozzo .33 
+ 
+Descriptive study  Shoulder 
+strength; 
+Add/Abd, 
+shoulder 
+ER/IR  USA Men’s 
+national team 
+ 
+Age= Control 
+22y, WP 26y 
+n=25 males; WP 
+15, controls 10  Elite Strength ratio’s  
+ 
+Add:Abd 2.0 :1.0, ER:IR 0.6:1.0 Only 10s rest between 
+trials, insufficient recovery 
+for maximal strength 
+contraction. 9/12 
+28 | Page  
+ Bloomfield et 
+al.35 
+ 
+Two way mixed 
+design  The effect of 
+strength 
+training on 
+throwing 
+velocity  Western AUS  
+under 19 team  
+ 
+Age 18.5y (16-
+23y). n=21 
+males; 
+intervention=12, 
+control=9 Elite Throwing velocity positively correlated with 
+standing height and body weight (p<0.01). 
+ 
+No change in overhead throwing velocity was 
+observed post strength training intervention . Outcome used measured 
+accuracy and velocity a nd 
+athletes may have trade of 
+velocity for accuracy. 
+Training stimulus too low  
+for strength/power ; 3 sets -  
+15 @ 50-60%, @70-80%, 8 
+@ 85 -90%. 9/12 
+Throwing & Shoulder Injury/Pain  
+Taylor, Landeo, 
+Coogan.54 
+ 
+Descriptive study  Movement 
+variability 
+during WP 
+shot  National AUS 
+players  
+ 
+Age 21.1±2.7 y 
+n = 7 females  Sub-elite Group mean elbow and wrist displacement at 
+release were 133.7±8.2 and 122.7±20.6° 
+respectively.  
+ 
+Reduced variability at the elbow and wrist close 
+to critical point of ball release . Small sample size. Athletes 
+were requested to start with 
+arm elevated above water – 
+not regular start position. 
+Skill level of  players sub -
+elite v elite.  7/12 
+Melchiorri et al.5  
+ 
+Descriptive study  The effect of 
+shoulder 
+injury on 
+throwing 
+mechanics  Italian men’s 
+national team  
+ 
+Injured 23.8±3y; 
+non-injured 
+22.4±3.6y. n=53 
+males; 17 injured 
+& 36 non-injured Elite No statistically significant difference was 
+observed between injured and non-injured 
+players kinematics. No positive correlation b/w 
+physical characteristic s (weight/height) ball 
+velocity . Average ball velocity 24.1±1.5ms−1. Goal keepers included in 
+analysis, goals keepers had 
+a significantly lower ball 
+speed. S capular kinematics 
+and trunk rotation not 
+included in analysis.  9/12 
+Whiting et al.37 
+ 
+Descriptive study  Throwing 
+velocity and 
+kinematics 
+with/without 
+shoulder pain  US me n’s 
+national t eam 
+ 
+Injured 
+28.9±1.9y, non-
+injured 24±1.0y. 
+n= 13 (6 injured)  Elite  Lower peak angular velocity  (injured, non -
+injured; 1104±72°/s, 1182±45°/s) and angular 
+velocity (652±51°/s, 738±41°/s) at release in 
+injured group.  
+ 
+Ball velocity at release  (19.9±0.7ms−1, 19.3±0.5 
+ms−1). Group not homogenous at 
+baseline, non- injured group 
+had a lower body weight 
+and were shorter in height 
+than injured.  7/12 
+Proprioception  & Strength       
+Mota and 
+Ribeiro.36 
+ Shoulder 
+proprioception 
+and shoulder National league 
+WP players  
+ National  Players exhibited a negative correlation between  
+proprioception acuity (absolute error) and peak 
+eccentric ER torque at 30°ER (r= -0.505, Moderate correlation only, 
+larger sample required for 
+more robust analysis of 9/12 
+29 | Page  
+ Descriptive study  strength  
+ Age 20.2±2.3y; 
+n=20 p=0.023). 
+ 
+The ER:IR strength ratio were 0.67±0.23 and 
+0.66±0.18 , respectively for c oncentric and 
+eccentric efforts . 
+DCR  was 0. 69±0.16. Recommended value 1:1.  
+ correlation of 
+proprioception and 
+shoulder strength  
+Patho -anatomy  
+Klein et al.14 
+ 
+Cross -sectional 
+study MRI 
+abnormalities 
+in sho ulders of 
+elite WP 
+compared to 
+controls National WP 
+league players 
+Switzerland  
+ 
+Age WP 
+23.9±5.1y, 
+contro ls 
+30.9±4.0y. n=58; 
+28 WP, 15 
+control (30 
+shoulders) Elite  WP players demonstrated significant change in 
+subscapularis, infraspinatus  tendon and posterior 
+labrum (p=0.001, p=0.24, p=0.041). O ther 
+structures demonstrated no statistical difference 
+including supraspinatous.  
+ 
+All throwing shoulders showed abnormal 
+findings in MRI but only 29% (n=8) were 
+symptomatic. Mean age of control 30y 
+compared to 23.9y WP.  
+MRI imaging instead of 
+MRA , small control group 
+numbers.  12/12 
+Posture  & Shoulder Injury/Pain  
+Gradidge et al.30 
+ 
+Cross -sectional  
+Observation 
+study Posture and 
+injury profiles 
+of male high 
+school water 
+polo players Male high school 
+WP player  
+Johannesburg  
+ 
+Age 16.9±0.86y. 
+n= 36 males High  
+School Good posture head, spine, abdomen (86%, 92%, 
+86%). Fair posture shoulder 81% and upper back 
+61%.  
+ 
+All participants with previous Cx injury had 
+poor abdominal posture and Lx posture. Of 
+those with recent shoulder injury 66.67% had 
+poor shoulder posture.  Adolescent population, 
+results may be affected by 
+developmental postural 
+changes .  6/12 
+Mukhtyar, 
+Mahesh, 
+Kaur.27 
+ 
+Descriptive  
+study The effect of 
+intense 
+training on 
+scapular 
+kinematics of 
+players with Mumbai 
+Residents with 
+>3yrs WP 
+experience, 
+training ≥ 10 
+sessions/week.  Sub-elite No statistically significant difference observed at 
+baseline.  
+ 
+Post training comparison between injured and 
+non-injured:  
+ 2D not 3D analysis, pool 
+side measurement so 
+impingement was 
+diagnosed solely of clinical 
+tests. 7/12 
+30 | Page  
+ and without 
+shoulder pain   
+Age 17 – 35y. 
+n=30 men; 16 
+non-injured, 14 
+injured WP  Injured athlete kinematics  
+Scapular Abd was decreased at 45° and 90°  
+humeral Abd (p = 0.0001, p = 0.008). 
+ 
+RI decreased at 0° and 45°  humeral Abd 
+(p=0.0001, p=0.04). 
+Abd = Abduction, Add = Adduction, AIS = Australian Institute of Sport, b/w = Between, CI = Confidence interval , Cx = Cervical spine, DCR = Dynamic 
+control ratio  ER = External rotation, FINA = International swimming federation, IR =  Internal rotation, m= Months, L) = Left, Lx = Lumbar, MOI = 
+Mechanism of injury, MRI = Magnetic Resonance Imaging, MRA = Magnetic Resonanc e Arthrogram, n = Number, NCAA=national collegiate athletic 
+association , NS = Not specified, PROM = Passive range of motion, R) = Right, ROM = Range of  motion, RI = Rotary index, WP = Water polo, y = Years, 
+90/90 = 90°abd 90°ER 
+ 
+31 | Page  
+  
+ Supplementary  material : Study quality evaluation   
+Research question clearly defined  
+Appropraite stuidy design  
+Population distribution described  
+Size of sample justified  
+Inclusion criteria defined & 
+applied uniformly  
+Exclusion criteria defined & 
+applied uniformly 
+Main measure valid and reliable  
+Descr ibed efforts to reduce bias  
+Main findings clearly described 
+and statistical significance reported  
+Statistics appropriate  
+External validity discussed  
+Limitations described  
+Total out to 1 2 
+INJURY RATES               
+Mountjoy et al10 + + + + + - + + + + - - 9 
+Ellapen et al22 + + + + + - + - + + + + 10 
+Mountjoy et al18 + + - + + - + - + + - + 8 
+Junge et al9 + + - + + - + - + + - + 8 
+Sallis et al21 + + - + + + + - + + + + 10 
+Annett, 
+Fricker, McDonald.20 + + - + + - + - + + + + 9 
+PAIN               
+Wheeler et al15 + + + + + - + - + + + - 9 
+Giombini et al23 + + + - + - + - + + - - 7 
+Elliott30 + + - - + + + - + + - - 7 
+ROM               
+Witwer and Sauers29 + + + - + + + + + + + + 11 
+STRENGTH               
+Tsekouras et al32 + + + - + - + - + + + - 8 
+McMaster, Long, 
+Caiozzo .31 + + + - + + + - + + + - 9 
+Bloomfield et al33 + + + - + - + + + + - + 9 
+THROWING               
+Taylor, Landeo,  
+Coogan51 + + - - + + + - + + - - 7 
+Melchiorri et al.6  + + + - + + + + + + - - 9 
+Whiting et al35 + + + - + - + - + + - - 7 
+PROPRIOCEPTION               
+Mota and Ribeiro34 + + + - + + + - + + - + 9 
+PATHO -
+ANATOMY               
+Klein et al.14 + + + + + + + + + + + + 12 
+POSTURE               
+Gradidge et al.28 + + + - + - - - + + - - 6 
+Mukhtyar, Mahesh, 
+Kaur.25 + + - - + + + - + + - - 7 
+Average              8.6
+/12 

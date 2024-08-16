@@ -1,0 +1,674 @@
+Effects of Swimming on Functional Recovery after Incomplete
+Spinal Cord Injury in Rats
+Rebecca R. Smith , Alice Shum-Siu , Ryan Baltzley , Michelle Bunger , Angela Baldini , Darlene
+A. Burke , and David S.K. Magnuson
+Kentucky Spinal Cord Injury Research Center, Department of Neurological Surgery, University of
+Louisville School of Medicine, Louisville, Kentucky
+Abstract
+One of the most promising rehabilitation strategies for spinal cord injury is weight-supported
+treadmill training. This strategy seeks to re-train the spinal cord below the level of injury to generate
+a meaningful pattern of movement. However, the number of step cycles that can be accomplished is
+limited by the poor weight-bearing capability of the neuromuscular system after injury. We have
+begun to study swimming as a rehabilitation strategy that allows for high numbers of steps and a
+high step-cycle frequency in a standard rat model of contusive spinal cord injury. The purpose of the
+present study was to evaluate the effect of swimming as a rehabilitation strategy in rats with contusion
+injuries at T9. We used a swimming strategy with or without cutaneous feedback based on original
+work in the chick by Muir and colleagues. Adult female rats ( n = 27) received moderately-severe
+contusion injuries at T9. Walking and swimming performance were evaluated using the Open-Field
+Locomotor Scale (BBB; Basso et al., 1995) and a novel swimming assessment, the Louisville
+Swimming Scale (LSS). Rats that underwent swim-training with or without cutaneous feedback
+showed a significant improvement in hindlimb function during swimming compared to untrained
+animals. Rats that underwent swim-training without cutaneous feedback showed less improvement
+than those trained with cutaneous feedback. Rats in the non-swimming group demonstrated little
+improvement over the course of the study. All three groups showed the expected improvement in
+over-ground walking and had similar terminal BBB scores. These findings suggest that animals re-
+acquire the ability to swim only if trained and that cutaneous feedback improves the re-training
+process. Further, these data suggest that the normal course of recovery of over-ground walking
+following moderately-severe contusion injuries at T9 is the result of a re-training process.
+Keywords
+contusion injury; rehabilitation; re-training; swimming
+Introduction
+Hindlimb Stepping during locomotion in mammals is thought to involve descending pathways
+that originate in the midbrain (mesencephalic locomotor region; MLR), pass through relays in
+the ventromedial medulla (VMM), to descend in the ventral white matter of the spinal cord to
+the lumbar enlargement (Jordan, 1998). These descending locomotor command fibers are
+thought to innervate central pattern generating circuitry (CPG) located in the rostral part of the
+lumbar enlargement serving to initiate and maintain hindlimb stepping during locomotion
+(Noga et al., 1995; Magnuson et al., 1999; Hadi et al., 2000; Loy et al., 2002). Functional
+Address reprint requests to: David S.K. Magnuson, Ph.D., Kentucky Spinal Cord Injury Research Center, Department of Neurological
+Surgery, MDR Rm. 616, University of Louisville, 511 S. Floyd St., Louisville, KY 40292, dsmagn01@gwise.louisville.edu.
+NIH Public Access
+Author Manuscript
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+Published in final edited form as:
+J Neurotrauma . 2006 June ; 23(6): 908±919. doi:10.1089/neu.2006.23.908.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+evidence of the MLR-VMM-CPG pathway can be observed during fictive locomotion,
+recorded from hindlimb nerves in pharmacologically paralyzed, decerebrate cats, which can
+be elicited using a constant stimulus of 15 hz in the MLR (Shik et al., 1966; Noga et al.,
+1991) or brainstem (Shefchyk et al., 1990). Hindlimb stepping on a treadmill can also be
+induced by MLR stimulation, even when one hindlimb is completely deafferented, and is often
+maintained for some time following bilateral hindlimb deafferentation ( Grillner and Zangger,
+1984). The pattern of hindlimb muscle activation during MLR stimulation in a deafferented
+cat is very similar to the intact animal, apart from the response amplitudes of key extensor
+muscles which are reduced compared to normal, leading to a relatively flexed limb position
+during stance (Grillner and Zangger, 1975, 1984). These and other detailed observations
+(Hiebert and Pearson, 1999) suggest that afferent feedback plays an important role in regulating
+limb extension (weight-bearing) during the stance phase of stepping, but that the underlying
+pattern of the centrally generated rhythmic activity is not dependent on phasic descending or
+afferent input. The underlying rhythm appears to be a function of the intrinsic characteristics
+of the neurons and circuitry in the spinal cord.
+Thus, functional locomotion requires both supraspinal inputs, which serve to initiate and
+maintain locomotor movements, and afferent feedback from the limbs that modulates the step
+cycle (Grillner, 1975). Three different types of afferent feedback are thought to play important
+roles in the various phases of locomotion (Grillner, 1975; Muir and Steeves, 1995). First of
+all, proprioceptive input from muscle spindles and Golgi tendon organs signal limb-loading
+during the stance phase and limb position throughout the step cycle (Pearson et al., 1993).
+Secondly, afferent input from joint capsules signal the extremes of limb position. Hip joint
+afferents in particular are effective at triggering of the transition from stance to swing phases
+(Grillner et. al, 1975; Muir and Steeves, 1995). Finally, feedback from cutaneous receptors
+signal plantar foot contact during stance and dorsal foot contact during swing if an obstacle is
+encountered or the foot is dragging (Muir and Steeves, 1995; Bouyer and Rossignol, 2003).
+Following spinal cord injury, descending input onto interneurons of the CPG is reduced while
+afferent inputs remain intact. Deficits in hindlimb function during walking are proportional to
+white matter loss in the ventral half of the spinal cord following contusion or laceration injuries
+or demyelination of the thoracic spinal cord (Basso et al., 1996; Schuct et al. 2002; Loy et al.
+2002). For more than two decades, hindlimb afferents have been used to activate and re-train
+spinal cord locomotor circuitry in a variety of animal models. Studies in rats (Multon et al.,
+2003), chicks (Muir and Steeves, 1995), and humans (Harkema et al., 1997; Abel et al.,
+2002; Hicks et al., 2003) have revealed that locomotor training after incomplete spinal cord
+injury leads to improved function. Barbeau and Rossignol (1987) demonstrated that, even
+following complete spinal transection, adult cats could be taught to walk if trained on a
+treadmill with body weight support and a strong afferent drive provided by pinching the tail
+or stimulating the perineal region. In this paradigm, several weeks of intensive training is
+required suggesting that the amount of activity may play a role in re-activating or re-training
+the spinal cord circuitry required for normal oscillatory function.
+In order for walking to be reestablished however, a small amount of cutaneous input must be
+present. A recent study by Bouyer and Rossignol (2003) used a cat model of weight-supported
+treadmill rehabilitation to demonstrate that spinalized animals could be re-trained to walk on
+a treadmill provided that some cutaneous inputs to the hindpaw were left intact. Even with
+progressive loss of cutaneous afferents, the cats regained function with re-training. Complete
+absence of cutaneous inputs, however, resulted in permanent loss of plantar placing and weight
+bearing during locomotion despite several months of re-training (Bouyer and Rossignol,
+2003). These observations indicate that cutaneous afferent input from the paw is a critical
+component of weight-supported treadmill training in spinalized cats.Smith et al. Page 2
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Clinical rehabilitation after moderate and severe spinal cord injuries, however, can be more
+problematic due to the fact that most patients with ASIA grade C or D injuries have difficulty
+achieving weight-bearing limb movements without external support (Dietz et al., 1994 , 1995;
+Harkema et al., 1997; Abel et al., 2002; Maegele et al., 2002; Pepin et al., 2003). In rodents,
+swimming is a form of locomotion that involves repetitive stepping-like movements of
+unloaded limbs. Unlike treadmill walking, which employs a harness to support body weight,
+swimming relies on natural buoyancy as a means of weight support. In addition to the buoyancy,
+another potential advantage of employing swimming as a rehabilitation strategy in rats after
+experimental spinal cord injury over treadmill walking is that swimming involves a higher
+number of step cycles being produced by the central pattern generator circuitry. Thus
+swimming may allow moderately and severely injured rats to achieve more step cycles during
+a given training period than they would with traditional treadmill training.
+Swimming and walking are naturally occurring behaviors in both rats and chicks that share
+some important features including the phasic relationship between the right and left alternation
+of limb flexion and extension. During swimming, however, both cutaneous feedback and
+loading of the limbs are significantly reduced compared to the levels during walking (Muir and
+Steeves, 1995). While sensory feedback has been shown to contribute to the recovery of
+locomotor function after spinal cord injury (Edgerton et al., 1992, Muir and Steeves, 1995;
+Harkema et al., 1997), only one study (Muir and Steeves, 1995) has looked at the specific role
+of cutaneous, or exteroceptive, feedback in the recovery of hindlimb function following an
+incomplete injury. They examined the role of phasic cutaneous feedback during swimming in
+spinal cord injured chicks. Since swimming normally involves very low levels of both
+proprioceptive (loading) and cutaneous feedback, the latter was provided by adding buoyant
+centrifuge tubes suspended from the bottom of the pool that touched the feet of the chicks
+during swimming. This model allowed Muir and colleagues to isolate the effects of cutaneous
+feedback on hindlimb locomotion. Results from this study showed an improvement in hindlimb
+function in chicks that were exposed to phasic cutaneous feedback compared to chicks that
+swam without this input. Since rats are also natural swimmers and to date no other study has
+examined the role of cutaneous feedback in locomotor recovery in these animals, we
+hypothesized that cutaneous feedback would be beneficial to locomotor re-training of rats with
+incomplete spinal cord injuries.
+The current study examines the role of swimming, with and without cutaneous feedback on
+locomotor recovery after incomplete spinal cord injury in rats. We have chosen to focus on
+animals with moderately-severe contusion injuries of the thoracic spinal cord because the
+majority of these animals recover some degree of weight-supported stepping, but have severe
+and persistent deficits in hindlimb function during over-ground walking (Basso et al., 1995,
+1996; Magnuson et al., 1999). It is our hypothesis that animals involved in a swimming-based
+rehabilitation program will show greater functional recovery than untrained animals as assessed
+by the Basso, Beattie, and Bresnahan (BBB) Open-Field Locomotor Scale (Basso et al.,
+1995) and a novel assessment developed in our laboratory, the Louisville Swimming Scale
+(LSS). Furthermore, we hypothesize that cutaneous feedback during swimming will lead to
+enhanced locomotor performance in both the open field and in the water.
+Methods
+Pre-Training and Testing
+One week prior to surgery, animals were exposed to the swimming pool for several minutes
+per day for 5 consecutive days. During this time the research personnel responsible for
+swimming and testing handled the animals on a daily basis and fed them sweetened cereal as
+treats. Rats are natural swimmers and were quickly acclimatized to the swimming sessions.
+The swimming pool is a Plexiglas chamber 60-in long, 7-in wide, and 12-in deep, that providesSmith et al. Page 3
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+a nominal swimming distance of 48 inches. There is an adjustable ramp at one end of the pool
+covered with a computer mouse pad that provides exceptionally good traction to allow even
+injured animals to exit the pool. The pool has a plexiglass lid that is easily removed and covers
+all but 8–10 inches of the pool length. The lid was designed to slide freely along the length of
+the pool to expose either the exit ramp or the entry point at the far end of the pool. The pool
+was filled to a depth of 8 inches with warm tap water (27–30°C) for each swimming session
+and was thoroughly cleaned daily. Each animal was carefully transferred from its home cage
+to the far end of the pool, opposite the ramp. The lid was slid over the entry point of the pool
+to prevent their exit until they reached the ramp. Uninjured or minimally injured animals rapidly
+learn to swim to the ramp to get out or to wait to be transferred back to the far end of the pool.
+In practice, it takes approximately 3–4 sec of swimming and 4–5 sec of transfer time per lap.
+In this way, upwards of 30 laps can be completed in each 4-min session. We conducted three
+4-min sessions each morning and afternoon for each animal, totaling 24 min of swimming per
+day. Uninjured or mildly injured animals use 12–15 complete “step” cycles (flexion-extension
+of each hindlimb) to swim the length of the pool, which means that the spinal cord will produce
+between 360 and 450 step cycles per 4-min swimming session, or up to 2700 step cycles each
+day after spending a total of 24 min in the pool.
+Cutaneous Feedback
+Cutaneous feedback during swimming was provided by inverted centrifuge tubes suspended
+from a stainless steel grid on fishing line. The tubes used were the standard 1.5-mL size with
+snap lids. Each row consisted of eight tubes placed 12 mm apart. Alternate rows were staggered
+and rows were separated by 10 mm. This resulted in the maximum possible density of tubes
+given the 1.0 × 1.3 mm cap size (cap lip adds 0.3 mm in one direction). The tubes are suspended
+approximately 4–5 inches from the plate (to the top of the tube) ensuring that the animals
+contact the tubes but have great difficulty making contact with the metal plate. The tubes
+provide cutaneous feedback that feels to our fingers like trying to grasp small ice cubes floating
+in water, but without the cold. There is definite contact, but little in the way of resistance or
+support.
+Spinal Cord Injury
+Twenty-seven female Sprague-Dawley rats weighing 160–200 g were used for these
+experiments. All procedures involving experimental animals were performed according to the
+guidelines of the University of Louisville Institutional Animal Care and Use Committee (1996).
+Each animal was anesthetized with Nembutol sodium solution (0.8 cc/100 g, i.p.) and was
+given prophylactic antibiotics (gentomycin sulfate, 15 mg/kg, s.c). Body temperatures were
+continuously monitored during surgery and were maintained at 36–37°C until the animal
+recovered from the anesthetic. A dorsal midline incision was made over the mid-thoracic spinal
+cord. A single level laminectomy was performed at the T9 vertebra. The spine was immobilized
+using clamps applied to the T8 and T10 spinous processes. The NYU Impactor (W. Young,
+Rutgers, NJ) was used to produce moderately-severe (25 g-cm) weight-drop contusion injuries
+centered on the T10 segment of the spinal cord. After injury, the wounds were closed in layers
+and a topical antibiotic ointment was applied to the incision. The animals were placed in
+recovery cages on heating pads until they recovered from the anesthesia. Injured animals were
+housed individually and received daily post-operative care, including manual bladder
+expression until adequate spontaneous voiding occurred. Five animals served as controls and
+received laminectomies without contusion injuries.
+Training Design
+Prior to training the animals were randomly divided into three groups: group 1, trained with
+cutaneous feedback ( n = 8); group 2, trained without cutaneous feedback ( n = 7); and group 3Smith et al. Page 4
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+untrained ( n = 7). On post-injury days 14–17, the animals were placed in the water for one 4-
+min training session per day, and were assisted by the handlers when necessary. On post-injury
+days 21–23, the animals were trained for two (day 21) or three (days 22 and 23) 4-min sessions
+per day, according to their capabilities as a group. By day 24, few of the animals required
+assistance but all still relied on their forelimbs for forward motion. On post-injury days 28–67
+(the final phase of training), the animals trained for three 4-min sessions each morning and
+afternoon (total of 24 min of training) for 4 days each week. The group receiving cutaneous
+feedback swam with buoyant tubes suspended from the bottom of the pool, which touched the
+skin of their hindpaws and hindlimbs as they swam. The rats in the non-swimming group
+remained in the swimming room for the duration of the sessions each day. They were handled
+daily and received sweetened cereal as treats with the trained animals at the completion of each
+training session.
+Behavioral Outcome Measures
+The BBB involves placing the animal in an open field (36 inches in diameter) and evaluating
+hindlimb function for 4 min. This evaluation was performed weekly by the same two scorers,
+who were presented the animals in random order. The low end of the scale (0–7) is characterized
+by individual joint movements, whereas the intermediate (8–13) and high (14–21) ends of the
+scale are characterized by weight support and coordination and paw position, respectively.
+Animals were assessed preoperatively and at approximately weekly intervals thereafter. Scores
+were analyzed with repeated measures analysis of variance (ANOVA) and followed by Student
+Newman-Keuls post hoc t-tests when appropriate.
+The Louisville Swimming Scale (LSS) is an 18-point scale (0–17) with three ranges: 0–5, 6–
+11, and 12–17 (Table 1). This assessment was designed to evaluate swimming performance
+based on three primary components, forelimb dependency, hindlimb activity and body position.
+While the categories shown in Table 1 were developed using the basic structure of the BBB
+scale as a rough guide (Basso et al., 1995), a strong emphasis was placed on the different
+swimming patterns of both injured and normal rats. When a normal rat swims, it is completely
+dependent on its hindlimbs for forward locomotion and the forelimbs are used only
+occasionally to steer. The trunk remains at an angle of 20° or less to the water surface and the
+hindlimbs kick in an alternating fashion to move the animal through the water. The trunk is
+rotationally stable while the animal is moving. In contrast, animals with moderately-severe
+spinal cord injuries are completely dependent on their forelimbs for forward locomotion,
+display a tail down body angle greater than 45° and/or are rotationally unstable showing 45°
+or more of body roll (about the long axis). With the LSS scale, animals that score in the 0–5
+category are poor swimmers that rely heavily on their forelimbs for forward locomotion and
+have little or no hindlimb movement. Animals that score in the 6–11 range are intermediate
+swimmers with occasional to frequent hindlimb movement but with some retained dependency
+on their forelimbs for forward motion, occasional to consistent trunk instability and a mild
+(21–45°, tail down from horizontal) body angle during forward locomotion (Fig. 1). Animals
+that score 12 and higher have consistent hindlimb movement, little to no forelimb dependency,
+little to no trunk instability and frequent to consistent alternating hindlimb movement.
+Swimming performance was evaluated using the LSS scale prior to injury, at 11 days post-
+injury and at approximately weekly intervals thereafter. For each testing session, the animals
+swam one 4-min session and were scored by two independent observers and a third person who
+videotaped 1 min of each swim session with a Sony MiniDV digital camera. The initial LSS
+evaluation, on post-injury day 11 and prior to any training, was done without centrifuge tubes.
+Starting on post-injury day 18, rats in the cutaneous feedback group were evaluated with the
+centrifuge tubes in the pool and the animals in the standard swimming group and the non-
+swimmers were tested without the tubes. The water depth and temperature were kept constant.Smith et al. Page 5
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Early in the study, the videos were used to confirm body angles and trunk instability scores,
+by consensus among the scorers. At the completion of the training, on post-injury day 70, all
+the animals were assessed using the LSS Scale without cutaneous feedback. For the terminal
+assessment (day 70), the animals were presented to the scorers in a random order.
+Statistical Analysis
+LSS scores were analyzed with repeated measures analysis of variance (ANOVA) and followed
+by Student Newman-Keuls post hoc t-tests when appropriate.
+To examine the relationship between the BBB and LSS scores, scatterplots were constructed
+and the lines of best fit were plotted for the total data set and also for the individual groups.
+Pearson correlation coefficients were calculated for each line of best fit with the level of
+significance set at 95%.
+Histological Outcomes
+The rats were euthanized on post-injury day 73 with excess anesthetic (ketamine/xylazine, 80
+and 10 mg/kg i.p., respectively) and perfused transcardially with calcium free tyrodes and 4%
+paraformaldehyde. The spinal cords were removed and post-fixed in the same fixative
+overnight, followed by cryoprotection in 30% sucrose. Spinal cord tissue was cut at 30 μm and
+mounted onto glass slides. One set of slides was stained with Cresyl violet as previously
+described (Hadi et al., 2000). Every second section was photographed with a digital SPOT
+camera (Medical Diagnostics) attached to a Macintosh G4 computer. The sections were then
+traced using a Wacom Intuos (Vancouver, WA) drawing tablet with Appleworks 6.0 and saved
+as a bit-map file. The bit-map images were opened in NIH image and the areas of white matter,
+gray matter, and cavity were calculated for each section (Magnuson et al., 2005). The injury
+epicenter was determined as the section with the least spared white matter. The area
+measurements were transferred to an Excel spreadsheet and graphed. The spared white matter
+at the injury epicenter was calculated as a percent of the white matter area taken from uninjured
+animals (Magnuson et al., 2005; Takami et al., 2002).
+Results
+At 11 days post-injury, and prior to any swim training, all of the animals were highly dependent
+on their forelimbs for forward motion and received LSS scores (tested without tubes) in the
+poor category (0–5). By post-injury day 18, after the first week of swim training (a single 4-
+min training session per day for 4 days), the animals being trained and tested with cutaneous
+feedback had an average LSS score of 8.0 ± 3.0 (intermediate) while the swimmers that were
+trained and tested without cutaneous feedback and the non-swimmers remained in the poor
+category with scores of 4.5 ± 2.8 and 2.3 ± 1.0, respectively (Table 1 and Fig. 2). All of the
+animals were at least somewhat dependent on their forelimbs for forward motion and animals
+in the cutaneous feedback group had frequent (51–95%) or consistent (96–100%) hindlimb
+movement. The animals in the standard swimming and non-swimming groups showed
+occasional (6–50%) hindlimb movement, at most (Fig. 2). Likewise, animals in the non-
+swimming group had more frequent episodes of moderate to severe trunk instability compared
+to the animals receiving swim training. Figure 1 illustrates a typical injured and a normal rat
+swimming without cutaneous feedback and the relationship between the buoyant tubes and
+hindpaws for an injured rat during swim training.
+By post-injury day 40, the mean LSS score for animals in the cutaneous feedback group was
+significantly higher than for the other groups (time: F = 43.0, df = 4, 72, p < 0.001; group:
+F= 5.8, df = 1, 18, p < 0.01; Fig. 2). Likewise, the group trained and tested without cutaneous
+feedback had significantly higher LSS scores than the non-swimmers (group: F = 9.0, df = 1,Smith et al. Page 6
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+18, p < 0.05). The animals receiving cutaneous feedback had frequent or consistent hindlimb
+movement and showed little dependency on their forelimbs for forward motion (seldom or
+occasional, <50%). Likewise, they had fewer episodes of trunk instability and an improved
+body position in the water. The majority of animals in the standard swim group had frequent
+hindlimb movement, occasional forelimb dependency and frequent episodes of moderate trunk
+instability. The non-swimmers had seldom or no hindlimb use ( ≤5%), consistent forelimb
+dependency (>95%) and frequent episodes of moderate to severe trunk instability (>50%). By
+the final week of the study, the animals receiving cutaneous feedback during training had an
+average LSS score of 11.4 ± 3.3, while the standard swimming and non-swimming groups had
+average scores of 7.3 ± 3.2 and 2.6 ± 1.6, respectively. On post-injury day 70, the animals were
+re-tested as they were on day 11, without cutaneous feedback. The animals were presented in
+random order. Both training groups scored significantly better than the untrained group (Fig.
+2), and the group trained with cutaneous feedback scored better than the no-feedback group
+(8.9 ± 3.3 and 7.9 ± 3.7, respectively); however, this difference was not statistically significant.
+No significant differences in the Open Field BBB scores between the swim groups were found
+at any time point tested (time: F = 0.75, df = 6, 126, p > 0.05; group: F = 1.0, df = 1, 21, p >
+0.05; Fig. 3). Animals in the cutaneous feedback group had an average terminal BBB score of
+10.9 ± 1.3 while the animals trained without cutaneous feedback and the non-swimming group
+had average BBB scores of 10.1 ± 1.5 and 9.9 ± 1.5, respectively. Sham animals had an average
+terminal BBB score of 20.8 ± 0.5. Table 2 provides brief explanations of various levels of the
+BBB scoring system with the scores of 8, 9, and 10 in bold.
+In order to better understand the relationship between swimming and walking, the terminal
+LSS scores were plotted against the BBB scores. Regression lines of best fit were plotted to
+illustrate the relationships. A significant correlation between the LSS and Open Field BBB
+scores was present for the group trained with cutaneous feedback (Fig. 4, p < 0.05). The
+correlation for the group trained without cutaneous feedback approached significance ( p =
+0.054) and the relationship for the non-swimming group was not statistically significant.
+Evaluation of the amount of spared white matter at the injury epicenter for animals in each of
+the three groups showed no significant differences. Figure 5 provides an example of a
+moderately-severe (25 g-cm) contusion injury showing Nissl stained sections taken from the
+injury epicenter and 2.0 mm rostral to the epicenter. Table 3 represents the average percent of
+spared white matter for each of the three groups.
+Discussion
+One of the goals of the present study was to extend to rats the work by Muir and Steeves
+(1995) , who showed that cutaneous feedback during swimming could positively influence the
+recovery of hindlimb function following an incomplete (hemisection) spinal cord injury in
+chicks. Therefore, using a rat model of spinal cord injury, we set out to determine (1) if
+swimming-based rehabilitation would result in improved recovery of hindlimb function during
+walking and/or swimming and (2) if cutaneous feedback during swimming would enhance any
+improvement in hindlimb function. The results support our hypotheses, in part, by
+demonstrating that a swimming-based rehabilitation strategy involving supplemental
+cutaneous feedback can bring about improvements in the recovery of hindlimb function in the
+water. However, swimming-based rehabilitation had no effect on hindlimb function during
+overground walking.
+In the present study, the animals that were trained with cutaneous feedback showed significant
+improvement in their LSS scores from 3.1 at post-injury day 11 (tested without cutaneous
+feedback) to 11.4 at day 68. Similarly, the group that was trained and tested without cutaneousSmith et al. Page 7
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+feedback showed improvement in swimming, however, their mean terminal LSS at post-injury
+day 68 was 7.9, which is significantly lower than the group trained and tested with cutaneous
+feedback. These groups of animals had initial, post-injury BBB scores of 3, indicating that they
+had movement of two of the three joints, and terminal BBB scores of 10.9 and 10.1,
+respectively, indicating that they demonstrated occasional weight-supported stepping that
+lacked coordination (Basso et al., 1995). These observations show some similarities to those
+reported by Muir and Steeves (1995) who demonstrated in the chick that supplemental
+cutaneous feedback during swim training appears to enhance the recovery of function following
+an incomplete spinal cord injury. In their study, cutaneous feedback during swim training
+substantially enhanced the swimming activity of the leg on the injured side during training, as
+assessed using kinematics and angle-angle plots for the knee and ankle (Muir and Steeves,
+1995).
+The animals that did not receive swim training had initial and terminal mean LSS scores of 2.1
+and 3.3, respectively, indicating that they were completely dependent on their forelimbs for
+forward motion during swimming throughout the study. These animals had initial and terminal
+BBB scores of 2.1 and 9.9, respectively, indicating that they were similar to the groups that
+received swim training when walking over-ground. This finding replicates in rats that reported
+by Muir and Steeves (1995) for chicks who showed that trained and untrained animals showed
+similar levels of hindlimb recovery when walking despite the striking differences when
+swimming.
+Between post-injury days 11 and 18, animals received only 4 min of training, with or without
+cutaneous feedback, per day for 4 days (on post-injury days 14, 15, 16, and 17). For the animals
+trained and tested in the presence of cutaneous feedback this resulted in a 4.5-point increase
+(3 to 7.5) in their mean LSS score. Animals trained and tested without cutaneous feedback
+showed only a 1.5-point increase (3 to 4.5) over the same period. We suggest that some of the
+increase seen for animals trained for only 16 min over 4 days with cutaneous feedback may be
+due to the direct influence of cutaneous feedback on hindlimb movement in the water.
+Swimming is not normally associated with cutaneous feedback such as that supplied by the
+centrifuge tubes, and we observed that cutaneous input to the dorsal surface of the foot (during
+forward motion supplied by the forelimbs with the hindlimbs dragging) appeared to induce
+hindlimb flexion. During forward motion the flexed limb often then made contact with the
+tubes on its plantar surface (Fig. 1), which appeared, in turn, to induce an extension of the limb.
+On post-injury day 70, a terminal LSS assessment was done without cutaneous feedback for
+all three experimental groups. During this assessment the animals were presented in random
+order and no pre-training was provided to animals in group 1 to acclimatize them to swimming
+without the centrifuge tubes. The LSS scores for groups 2 and 3 remained stable compared to
+previous assessments, however the average LSS score for group 1 dropped from 11.4 to 8.9.
+This suggests that the lack of cutaneous feedback had an acute negative effect on their
+swimming ability, but on average they remained better swimmers than those in group 2 that
+were trained and tested without cutaneous feedback.
+Thus, in both the chick hemisection and rat thoracic contusion models of spinal cord injury,
+significant functional improvement can result from a swimming-based rehabilitation program
+involving supplemental cutaneous feedback. However, in the present study we found that
+significant improvement in hindlimb function during swimming is training dependent and
+appears to be enhanced by supplemental cutanouse feedback, but is not dependent on it. In
+contrast, Muir and Steeves (1995) reported that very little improvement in the activity of the
+leg on the injured side could be achieved in the absence of cutaneous feedback. This may reflect
+the different injuries used and the pattern of spared tissue. The moderately-severe contusion
+injuries we used showed approximately 10% white matter sparing at the injury epicenter,Smith et al. Page 8
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+compared to an uninjured spinal cord, and this sparing was largely bilaterally symmetrical.
+However, the hemisection injury used by Muir and Steeves (1995) spared 50% of the white
+matter at the injury epicenter, on one side of the spinal cord. One could speculate that the small
+amount of bilateral sparing following a contusion may be sufficient to reduce the strict
+dependency on cutaneous feedback of the circuitry below the injury shown in the chick model.
+There are, however, many other issues to consider, including the relatively immature state of
+the chick model.
+Bouyer and Rossignol (2003) showed recently that cutaneous afferents from the foot are
+absolutely necessary for successful re-training of hindlimb walking on the treadmill in
+completely spinalized cats. They found that complete hindpaw deafferentation rendered
+treadmill retraining impossible, even if non-specific sensory input is provided (tail pinching).
+In the contusion model of spinal cord injury the lumbar spinal cord is not completely isolated
+from the higher CNS and sensory input from the hindlimbs and paws is intact. Our results
+showed that swim training in the absence of any supplementary cutaneous feedback can result
+in improved hindlimb function during swimming in parallel with the normal progression of
+recovery of over ground walking. This suggests that while cutaneous feedback may be
+absolutely necessary for re-training of a stereotypic locomotor activity that is normally
+associated with substantial cutaneous input from the paws, it is not necessary for re-training
+of swimming, an activity not normally associated with cutaneous input. However, our results
+show that supplemental cutaneous input, that may be inappropropriate for the behavior of
+swimming, can be used to enhance, at least acutely, hindlimb movements during swimming
+thus potentially improving the re-training process.
+In the present study, the majority of animals achieved plantar paw placement during stance
+with or without weight-support (BBB scores of 9 or 8, respectively) by week 5 regardless of
+which training group they were in (Fig. 3). This observation is of interest for two reasons. First
+of all, it suggests that moderate swim training, with or without cutaneous feedback, does not
+appear to alter the time course of functional recovery of hindlimb movements in the open field.
+Secondly, it suggests that the cutaneous and proprioceptive (limb-loading) sensory feedback
+associated with plantar paw placement may be a key factor allowing spinal cord injured animals
+to achieve substantial improvements in hindlimb function during over-ground locomotion. This
+implies that achieving plantar paw placement allows these animals to re-train themselves
+resulting in functional improvements up-to and including weight-supported stepping that lacks
+consistent forelimb-hindlimb coordination (BBB scores of 10–11). Recent work by Van
+Meeteren et al. (2003) and Lankhorst et al. (2001) suggests that increasing hindlimb activity
+with plantar paw placement, in the form of voluntary wheel running in an enriched
+environment, may be reflected as small but significant improvements in hindlimb function
+during over-ground walking. While the mechanisms behind such plastic changes in spinal cord
+and neuromuscular function are not know, it has been shown that post-spinal cord injury
+allodynia is reduced more effectively by treadmill exercise than it is by swimming ( Hutchinson
+et al., 2004), suggesting that lasting changes to sensory input and processing can result from
+activity-based rehabilitation strategies that include cutaneous and proprioceptive (limb-
+loading) feedback. It has also been shown that activity-based rehabilitation strategies can
+induce modest but significant changes in factors and receptors thought to be involved in
+plasticity in the spinal cord and elsewhere in the central nervous system (Gomez-Pinilla et al.,
+2002).
+The corollary to these observations also appears to hold, in that improvements in swimming
+performance are dependent on a re-training process, which did not occur in the non-swimmers
+and was enhanced in the group trained with cutaneous feedback. We can conclude from these
+observations that moderately-intense swim training (24 min per day) with or without cutaneous
+feedback, significantly enhances the recovery of functional hindlimb movements duringSmith et al. Page 9
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+swimming without significantly influencing either the time course or end point of the recovery
+of functional hindlimb movements in the open field. Swim training with cutaneous feedback
+may be even more effective, however our results do not allow us to distinguish a significant
+long-term effect of cutaneous feedback from a direct or acute influence of the centrifuge tubes
+on hindlimb movement. We will attempt to tease out these differences in a future study by
+doing LSS assessments on all experimental animals in the presence and absence of cutaneous
+feedback at each time point.
+It has been reported by a number of authors in both animal models and human spinal cord
+injury (Harkema et al., 1997; De Leon et al., 1998a ,b; Hutchinson et al., 2004 ) that post-injury
+training is task-specific. Animals that are trained to stand show improved standing but not
+walking, and animals that are trained to walk, but not to stand show improvements that are
+specific to walking. We hypothesize that our results demonstrate this phenomenon in two
+natural modes of locomotion, walking and swimming. The animals that are exposed to
+swimming on a regular basis (with or without cutaneous feedback) show recovery of hindlimb
+function that parallels, qualitatively and quantitatively, the normal course of recovery seen for
+over-ground walking. Animals not exposed to water show little to no improvement in their
+swimming capabilities. In support of these hypotheses, we found that a scatterplot of the
+terminal BBB and LSS scores indicates a significant relationship between these two measures
+for the group that received swim training with cutaneous feedback (Fig. 4). The standard
+swimming group shows a correlation that approaches significance while the non-swimming
+group shows a lack of correlation between these scores. Qualitative similarities include
+hindlimb alternation during swimming and stepping in the open field. Quantitative similarities
+include the amount of hindlimb movement during swimming (none, seldom, occasional,
+frequent, consistent) and the amount of stepping in the open field (occasional, frequent,
+consistent).
+In summary, three critical points can be made from these data. First of all, animals with 25 g-
+cm contusion injuries at T9 show substantial recovery of hindlimb function during walking
+regardless of the swim training they undergo. We interpret this to indicate that these animals
+are re-training themselves to walk and that this re-training process is not influenced by their
+swim training or lack thereof. The majority of 25 g-cm injured animals achieve plantar paw
+placement while standing by 3–5 weeks post-injury. This means that the spinal cord will be
+receiving cutaneous and proprioceptive input appropriate for stance (plantar surface of the paw
+and limb-loading), suggesting that re-training of the spinal cord can occur spontaneously while
+the animals are moving about in their cages. Secondly, animals that are not trained to swim
+following a 25 g-cm contusion injury at T9 do not spontaneously recover significant hindlimb
+function during swimming. Finally, animals that are trained to swim following injury recover
+significant hindlimb function during swimming and this recovery can be enhanced if the
+training includes phasic cutaneous feedback. Overall, our results support the concept of task-
+specific training effects following spinal cord injury and provide support to the earlier studies
+pointing to the importance of cutaneous feedback during training. Unfortunately, our findings
+cannot be used to provide support for the clinical use of a training strategy using un-loaded
+limbs because of the likelihood that our animals were experiencing substantial training effects
+during their normal daily activities. However, the present study presents a model of retraining
+that has the potential to provide substantial insight into the mechanisms of plasticity and
+learning in the spinal cord circuitry caudal to an incomplete injury.
+Acknowledgments
+We wish to acknowledge the very helpful suggestions by J. Bresnahan. Excellent technical assistance was provided
+by Christine Nunn, Kim Fentress and Aaron Puckett. This work was supported by a grant from the Kentucky Spinal
+Cord and Head Injury Research Trust to D.S.K.M. and by NIH/NCRR P20-RR15576. D.S.K.M. is supported in part
+by Norton Healtcare (Louisville, KY).Smith et al. Page 10
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+References
+Abel R, Schablowski M, Rupp R, Gerner HJ. Gait analysis on the treadmill-monitoring exercise in the
+treatment of paraplegia. Spinal Cord 2002;40:17–22. [PubMed: 11821965]
+Barbeau H, Wainberg M, Finch L. Description and application of a system for locomotor rehabilitation.
+Med Biol Eng Comput 1987;25:341–344. [PubMed: 3449731]
+Basso DM, Beattie MS, Bresnahan JC. A sensitive and reliable locomotor rating scale for open field
+testing in rats. J Neurotrauma 1995;12:1–21. [PubMed: 7783230]
+Basso DM, Beattie MS, Bresnahan JC. Graded histological and locomotor outcomes after spinal cord
+contusion using the NYU weight-drop device versus transection. Exp Neurol 1996;139:244–256.
+[PubMed: 8654527]
+Bouyer LJ, Rossignol S. Contribution of cutaneous inputs from the hindpaw to the control of locomotion.
+II. Spinal cats. J Neurophysiol 2003;90:3640–3653. [PubMed: 12944535]
+De Leon RD, Hodgson JA, Roy RR, Edgerton VR. Locomotor capacity attributable to step training versus
+spontaneous recovery following spinalization in adult cats. J Neurophysiol 1998a;79:1329–1340.
+[PubMed: 9497414]
+De Leon RD, Hodgson JA, Roy RR, Edgerton VR. Full weight-bearing hindlimb standing following
+standtraining in the adult spinal cat. J Neurophysiol 1998b;80:83–91. [PubMed: 9658030]
+Dietz V, Colombo G, Jensen L. Locomotor activity in spinal man. Lancet 1994;344:1260–1263.
+[PubMed: 7967986]
+Dietz V, Colombo G, Jensen L, Baumgartner L. Locomotor capacity of spinal cord in paraplegic patients.
+Ann Neurol 1995;37:574–582. [PubMed: 7755351]
+Edgerton VR, Roy RR, Hodgson JA, Prober RJ, DE Guzman CP, De Leon R. Potential of adult
+mammalian lumbosacral spinal cord to execute and acquire improved locomotion in the absence of
+supraspinal input. J Neurotrauma 1992;9:S119–S128. [PubMed: 1588602]
+Gomez-Pinilla F, Ying Z, Roy RR, Molteni R, Edgerton VR. Voluntary exercise induces a BDNF-
+mediated mechanism that promotes neuroplasticity. J Neurophysiol 2002;88:2187–2195. [PubMed:
+12424260]
+Grillner S. Locomotion in vertebrates: central mechanisms and reflex interaction. Physiol Rev
+1975;55:247–304. [PubMed: 1144530]
+Grillner S, Zangger P. The effect of dorsal root transection on the efferent motor pattern in the cat's
+hindlimb during locomotion. Acta Physiol Scand 1984;120:393–405. [PubMed: 6741575]
+Grillner S, Zangger P. How detailed is the central generator for locomotion? Brain Res 1975;88:367–
+371. [PubMed: 1148835]
+Hadi B, Zhang YP, Burke DA, Shields CB, Magnuson DS. Lasting paraplegia caused by loss of lumbar
+spinal cord interneurons in rats: no direct correlation with motor neuron loss. J Neurosurg
+2000;93:266–275. [PubMed: 11012058]
+Hadi B, Zhang YP, Burke DA, Shields CB, Magnuson DS. Lasting paraplegia caused by loss of lumbar
+spinal cord interneurons in rats: no direct correlation with motor neuron loss. J Neurosurg
+2000;93:266–275. [PubMed: 11012058]
+Harkema SJ, Hurley SL, Patel UK, Requejo PS, Dobkin BH, Edgerton VR. Human lumbosacral spinal
+cord interprets loading during stepping. J Neurophysiol 1997;77:797–811. [PubMed: 9065851]
+Hiebert GW, Pearson KG. Contribution of sensory feedback to the generation of extensor activity during
+walking in the decerebrate cat. J Neurophysiol 1999;81:758–770. [PubMed: 10036275]
+Hicks AL, Martin KA, Ditor DS, et al. Long-term exercise training in persons with spinal cord injury:
+effects on strength, arm ergometry performance and psychological well-being. Spinal Cord
+2003;41:34–43. [PubMed: 12494319]
+Hutchinson KJ, Gomez-Pinilla F, Crowe MJ, Ying Z, Basso DM. Three exercise paradigms differentially
+improve sensory recovery after spinal cord contusion in rats. Brain 2004;127:1403–1414. [PubMed:
+15069022]
+Jordan LM. Initiation of locomotion in mammals. Ann NY Acad Sci 1998;860:83–93. [PubMed:
+9928303]Smith et al. Page 11
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Lankhorst AJ, Ter Laak MP, Van Laar TJ, et al. The effects of enriched housing on functional recovery
+after spinal cord contusive injury in the adult rat. J Neurotrauma 2001;18:203–215. [PubMed:
+11229712]
+Loy DN, Magnuson DS, Zhang YP, et al. Functional redundancy of ventral spinal locomotor pathways.
+J Neurosci 2002;22:315–323. [PubMed: 11756515]
+Maegele M, Muller S, Wernig A, Edgerton VR, Harkema SJ. Recruitment of spinal motor pools during
+voluntary movements versus stepping after human spinal cord injury. J Neurotrauma 2002;19:1217–
+1229. [PubMed: 12427330]
+Magnuson DS, Trinder TC, Zhang YP, Burke D, Morassutti DJ, Shields CB. Comparing deficits
+following excitotoxic and contusion injuries in the thoracic and lumbar spinal cord of the adult rat.
+Exp Neurol 1999;156:191–204. [PubMed: 10192790]
+Magnuson DS, Lovett MR, Coffee C, et al. Functional consequences of lumbar spinal cord contusion
+injuries in the adult rat. J Neurotrauma 2005;22:529–543. [PubMed: 15892599]
+Muir GD, Steeves JD. Phasic cutaneous input facilitates locomotor recovery after incomplete spinal injury
+in the chick. J Neurophysiol 1995;74:358–368. [PubMed: 7472337]
+Multon S, Franzen R, Poirrier AL, Scholtes F, Schoenen J. The effect of treadmill training on motor
+recovery after a partial spinal cord compression-injury in the adult rat. J Neurotrauma 2003;20:699–
+706. [PubMed: 12965049]
+Noga BR, Kriellaars DJ, Jordan LM. The effect of selective brainstem or spinal cord lesions on treadmill
+locomotion evoked by stimulation of the mesencephalic or pontomedullary locomotor regions. J
+Neurosci 1991;11:1691–1700. [PubMed: 2045881]
+Pearson KG. Common principles of motor control in vertebrates and invertebrates. Annu Rev Neurosci
+1993;16:265–297. [PubMed: 8460894]
+Pepin A, Norman KE, Barbeau H. Treadmill walking in incomplete spinal-cord-injured subjects: 1.
+Adaptation to changes in speed. Spinal Cord 2003;41:257–270. [PubMed: 12714988]
+Schucht P, Raineteau O, Schwab ME, Fouad K. Anatomical correlates of locomotor recovery following
+dorsal and ventral lesions of the rat spinal cord. Exp Neurol 2002;176:143–153. [PubMed: 12093091]
+Shefchyk S, Mccrea D, Kriellaars D, Fortier P, Jordan L. Activity of interneurons within the L4 spinal
+segment of the cat during brainstem-evoked fictive locomotion. Exp Brain Res 1990;80:290–295.
+[PubMed: 2358044]
+Shik ML, Severin FV, Orlovskii GN. Control of walking and running by means of electric stimulation
+of the midbrain. Biofizika 1966;11:659–666. [PubMed: 6000625]
+Van Meeteren NL, Eggers R, Lankhorst AJ, Gispen WH, Hamers FP. Locomotor recovery after spinal
+cord contusion injury in rats is improved by spontaneous exercise. J Neurotrauma 2003;20:1029–
+1037. [PubMed: 14588119]Smith et al. Page 12
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+FIG. 1.
+Shown are pictures illustrating both normal and injured rats swimming without cutaneous
+feedback. The panel on the right demonstrates an injured animal swimming with cutaneous
+feedback. Note the differences in the body angle and the position of the forelimbs between the
+injured and normal rats. The picture on the right illustrates the relationship between the
+hindlimbs and the buoyant tubes used to provide cutaneous feedback.Smith et al. Page 13
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+FIG. 2.
+Shown are the Louisville Swimming Scale (LSS) scores from 25g-cm injured animals over a
+68-day period. One group received daily swim training with cutaneous feedback, one group
+was trained without cutaneous feedback, and one group remained untrained. As assessed by
+the LSS, the animals trained with cutaneous feedback (1) had significantly higher swim scores
+compared to the animals trained without feedback at post-injury days 40 and 68, and compared
+to the untrained animals at days 24, 40, 54, and 68 ( p < 0.05). The animals in the group that
+was trained without cutaneous feedback (2) had significantly higher swim scores than the
+untrained animals (3) at post-injury days 40 and 68. The group of sham animals had
+significantly higher swim scores than the injured groups at all time points tested.Smith et al. Page 14
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+FIG. 3.
+Shown are the Basso, Beattie, and Bresnahan (BBB) Open-Field Locomotor scores for animals
+in each of the four experimental groups. The sham animals had significantly higher BBB scores
+compared to animals in the three injured groups at all testing points. There were no significant
+differences between any of the injured groups.Smith et al. Page 15
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+FIG. 4.
+Shown is a scatter plot of the terminal (week 9) Basso, Beattie, and Bresnahan (BBB) and
+Louisville Swimming Scale (LSS) scores for all animals. Pearson correlations and lines of best
+fit were calculated for each group. The group trained with cutaneous feedback showed a
+significant positive correlation between the LSS and the BBB scores ( p < 0.05).Smith et al. Page 16
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+FIG. 5.
+Shown are photomicrographs (4×) of Nissl (Cresyl violet)–stained sections from a 25 g-cm
+injured spinal cord 2.0 mm rostral to the epicenter ( A) and at the T9 injury epicenter ( B). Adobe
+Photoshop™ was used to adjust the brightness and contrast, remove the background, and
+transfer the photomicrographs to gray scale.Smith et al. Page 17
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptSmith et al. Page 18
+Table 1
+Louisville Swim Scale: Summary
+Category Range Description
+HL movement 0N Any hindlimb movements are counted
+4C
+HL alternation 0N/S Strict R/L alternation over two complete cycles
+3C
+FL dependency 0C FL movements are associated with forward motion; steering movements are
+not counted4N
+Trunk instability 0F/S Rotation about the long axis of the body
+4N or S (Mi)
+Body angle 0Se Tail down angle relative to water surface
+2N/Mi
+Each range goes from none (0%; N), through occasional (1–5%; O), to frequent (51–95%; F) and consistent (96–100%; C). Trunk instability and body
+angle includes none (0°; N), mild (1–20°; Mi), moderate (21–45°; Mo), and severe (46° and up; Se). Poor swimmers score, 0–5; intermediate swimmers,
+score 6–11; good swimmers, score 12–17. Normal Sprague-Dawley rats score a perfect 17.
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptSmith et al. Page 19
+Table 2
+Functional Characteristics of the Basso, Beattie, and Bresnahan Scale
+Score Indication
+0 Complete plegia of the limb
+7 Extensive movement of all three joints without weight support
+8 Plantar paw placement without weight support
+9 Plantar paw placement with weight support during stance only
+10 Occasional weight support during stepping, no coordination
+13 Consistent weight support with some coordinated stepping
+14 Consistent coordinated stepping with plantar weight support, incorrect foot placement, posture and tail
+position
+21 Normal locomotion
+Shown are some of the key features of the BBB Open Field Locomotor Scale that are of particular importance for the current study. The range of
+scores received by animals in the current study is shown in boldface.
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptSmith et al. Page 20
+Table 3
+Histological Measures: Injury Epicenter
+Group Spared white matter
+Cutaneous feedback 8.6 ± 5.3
+No feedback 11.0 ± 1.5
+Non-swimmer 8.8 ± 6.4
+Data presented as percentage of normal (uninjured controls) ± SD. No significant differences were found between any of the swim groups.
+J Neurotrauma . Author manuscript; available in PMC 2010 March 3.

@@ -1,6 +1,6 @@
 import os
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from langchain import hub
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
@@ -8,7 +8,7 @@ from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 from langchain_core.messages.base import BaseMessage
 
 from basic_chain import basic_chain, get_model
-from remote_loader import get_wiki_docs
+#from remote_loader import get_wiki_docs
 from splitter import split_documents
 from vector_store import create_vector_db
 

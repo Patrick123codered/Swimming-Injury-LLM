@@ -1,0 +1,962 @@
+Original R esearch 
+Injur y and Injur y Prevention in United States P ara Swimming: A 
+Mixed-Methods Approach 
+Jay Salerno, PT, DPT 1 
+, Stephanie Tow, MD 2 
+, Elizabeth Regan, DPT, PhD 3 
+, Stephen Bendziewicz, PT, DPT 4 
+, Matthew 
+McMillan, PT, DPT 5 
+, Shana Harrington, PT, PhD 3 
+ a 
+1 Prisma Health Apex Athletic Performance, Lexington, SC, USA, 2 Department of Physical Medicine & Rehabilitation, University of Texas Southwestern 
+Medical Center, 3 Department of Exercise Science, Physical Therapy Program, University of South Carolina, Columbia, SC, USA, 4 Jumpstart Pediatrics, 
+Chapin, SC, USA, 5 Interim Healthcare of the Upstate, Greenville, SC, USA 
+Keywords: para swimming, swimming, injury, injury prevention 
+https://doi.org/10.26603/001c.31173 
+International Journal of Sports Physical Therap y 
+Vol. 17 , Issue 2, 2022 
+Back ground 
+Para swimming has e xperienc ed increased participation in rec ent y ears. Injur y and injur y 
+prevention research on P ara swimmers is lacking c ompared to swimmers without 
+impairment. 
+Purpose 
+This study aimed to gather data in P ara swimmers on t ypical injuries, injur y pre vention 
+programs, and at titudes to ward injur y and injur y pre vention in this population. 
+Study Design 
+Cross-sec tional, mix ed-methods design e valuating injuries, injur y management, and 
+injur y pre vention in elite P ara swimmers in United States (U.S. ). 
+Methods 
+Para swimmers on the U.S. P aralympics Swimming National teams at multiple 
+competition le vels w ere invited to c omplete an online sur vey. Qualitativ e inter views with 
+six U.S. P aralympics National team P ara swimmers w ere c onduc ted to pro vide detail on 
+athlete e xperienc es with injur y and pre vention. 
+Results 
+Twenty-one of 56 sur veys w ere returned: 11 of 21 participants (52.4%) reported 
+experiencing an injur y that altered their w eekly training. All (21/21) reported 
+participating in strength training and 19 of 21 (90.5%) reported inc orporating stretching 
+into their training regimen, although strengthening/stretching regimens included 
+routines that may no t hav e been specifically targeted to ward injur y pre vention. Six of 21 
+(28.6%) reported participation in an injur y pre vention program. Qualitativ e inter view 
+themes included the impac t of swimmers’ c ompensated body mechanics on injur y risk, 
+the value of individualiz ed injur y pre vention programs, and the importanc e of 
+knowledgeable c oaching and rehabilitation staff . 
+Conclusions 
+Injur y pre vention programs are important c omponents in P ara swimming training 
+although the y are underutiliz ed based on responses in this study . These programs should 
+be individualiz ed to address swimming biomechanics and athlete-specific impairments. 
+Increasing c oaching kno wledge and ac cess to individualiz ed programs may reduc e injur y 
+prevalenc e among this at -risk population. 
+Corresponding author: 
+Shana Harrington PT, PhD 
+Department of Exercise Science, Physical Therapy Program, University of South Carolina, Blatt PE Center, 101G, Columbia, SC 
+29208, USA. Phone: 803-777-9112, Fax: 803-777-8422, Email: sharring@mailbox.sc.edu a 
+Salerno J, Tow S, Regan E, Bendziewicz S, McMillan M, Harrington S. Injury and Injury
+Prevention in United States Para Swimming: A Mixed-Methods Approach. IJSPT .
+2022;17(2):293-306.
+Level of Evidenc e 
+3 
+INTR ODUC TION 
+The P aralympic mo vement has gained significant momen -
+tum o ver the past c entur y. The P aralympic Games includes 
+athletes with various physical, visual, and intellec tual im -
+pairments and hav e evolved into an elite le vel of c ompeti -
+tion.1,2 The International P aralympic C ommit tee o versees 
+the P aralympics, which has traditionally f ocused on elite 
+sports perf ormanc e or helping individuals with disabilities 
+train in sports to bec ome future elite athletes. 
+Classification systems w ere de veloped and hav e evolved 
+for each sport intending to mak e the c ompetition as fair 
+as possible. The goal of classification is to group P ara ath -
+letes who hav e a similar degree of sport -specific ac tivit y 
+limitation from their impairment into a sport class.3 World 
+Para Swimming go verns P aralympic Swimming classifica -
+tion, and the classification proc ess results in three separate 
+sport classes per athlete e valuation: a S class f or freest yle, 
+backstrok e, and but terfly , a SB class f or breaststrok e, and a 
+SM class f or individual medle y. For physical impairments, 
+sport classes range from S1 through S10 / SB1 through SB9 
+/ SM1 through SM10, with the lo wer numbers representing 
+more se vere physical impairment/limitation in swimming.4 
+The visual impairment sport classes range from S11/SB11/
+SM11 through S13/SB13/SM13, with the lo wer numbers rep -
+resenting more se vere vision impairment.4 Within each 
+sport class, P ara swimmers may also hav e variabilit y in their 
+swimming perf ormanc e, reflec tive of their training, e xperi -
+ence, and inherent athleticism and no t impac ted b y their 
+impairment, similar to ho w swimmers without disabilities 
+may hav e var ying swimming perf ormanc e within an age 
+group. One may assume that c ertain sport classes e xpe-
+rienc e greater func tional limitations when injured due to 
+their physical impairments, but this relationship remains 
+unclear .5 
+As the P aralympic mo vement gains increasing c ommer -
+cial support and media c overage, more generations of indi -
+viduals with disabilities are inspired to participate in sports. 
+With the gro wing population of P ara athletes, there is an 
+increased need to understand injur y epidemiology and in -
+jury pre vention strategies f or P ara athletes. A qualitativ e 
+study c onduc ted b y Fagher and c olleagues inter viewed 18 
+Swedish P ara athletes representing 10 diff erent P ara sports 
+and re vealed that P ara athletes’ vie ws of their sports-re -
+lated injuries e xperienc es are c omple x, multifac torial, and 
+distinc t from the perspec tives of athletes without disabil -
+ities in terms of injur y causes, risk behavior , impac ts on 
+func tion af ter injur y, psy chosocial stressors, and o verall 
+consequenc es of injur y.6 For instanc e, one P ara athlete 
+noted, “I’ m of ten thinking, what will happen if I get an in -
+jury to my non-disabled side, I w ouldn’t be able to manage 
+my daily lif e. That ’s what I’ m afraid of .”6 
+Currently , most published P ara sports injur y epidemiol -
+ogy data hav e been from the P aralympic Games.5,7–11 Stud -
+ies from the Rio 2016 and London 2012 Summer P aralympic 
+Games reported 8.5% - 12.4% of P ara swimmers had a cur -
+rent injur y12 with the highest perc entage of injuries being acute (47%), f ollowed b y overuse (37%), and then acute on 
+chronic (16%).12 Past studies hav e reported higher injur y 
+rates in P ara swimmers, R eynolds and c olleagues f ound 69% 
+of P ara swimmers on the British team reporting injuries 
+during the Barc elona 1992 Summer P aralympic Games.13 
+Outside of the elite c ompetition, there is a lack of published 
+studies that include P ara swimmers and their injur y pat -
+terns. T o our kno wledge, there hav e been no rec ent studies 
+describing P ara swimmers’ injur y pat terns outside of the 
+Paralympic Games. 
+Due to the lack of published research on injuries and in -
+jury pre vention specific to P ara swimming outside of the 
+Paralympic Games, P ara swimmers of ten rely on current 
+knowledge and e videnc e for injur y pre vention in swimmers 
+without disabilities. Many injuries to swimmers without im -
+pairment are at the shoulder and are c ommonly a result of 
+overuse.14 Risk fac tors f or shoulder injuries in swimmers in -
+clude high training v olumes, muscle fatigue/o verload (es -
+pecially of the subscapularis and serratus anterior), ro tator 
+cuff tendinosis, shoulder laxit y, and impingement positions 
+during swim strok e.15 Injur y pre vention programs f or swim -
+mers should include strengthening, stretching, and en -
+duranc e training. It should also include strok e-specific in -
+struc tion on body mechanics such as decreasing internal 
+rotation of the shoulder during rec overy, breathing bilat -
+erally , or shortening strok e follow-through.15,16 However, 
+Para swimmers may hav e diff erent risk fac tors f or injuries 
+compared to swimmers without disabilities due to P ara 
+swimmers’ underlying impairments. For instanc e, depend -
+ing on the P ara swimmer’ s underlying medical c ondition(s) 
+and impairment(s), the y may hav e anatomical or func tional 
+differenc es that alter swimming biomechanics, c ompen -
+sator y biomechanics, and techniques to ac commodate their 
+impairments but also increase the risk of an o veruse injur y. 
+To bet ter understand injuries, injur y risk, and pre vention 
+in P ara swimmers at all c ompetition le vels studies are 
+needed outside of the P aralympic Games. Theref ore, the 
+purpose of this study was to inv estigate U.S. P ara swimmers 
+with physical or visual impairments at various c ompetition 
+levels and (1) describe injuries related to P ara swimming, 
+(2) understand athletes’ participation in injur y pre vention 
+programs and the charac teristics of those programs, and (3) 
+evaluate athletes’ perc eptions of injur y risk, c omplications, 
+and treatment. 
+METHODS 
+Design : A cross-sec tional, mix ed-methods approach e val-
+uating injuries, injur y management, and injur y pre vention 
+related to P ara swimming in U.S. National team P ara swim -
+mers was used f or this study . The first part of the study 
+consisted of a one-time online sur vey. A pre vious sur vey 
+developed f or P ara athletes was used to help guide the de -
+velopment of the sur vey used in this study .17 Additionally , 
+input from the U.S. Chief of P aralympic Sport and the U.S. 
+Paralympics Swimming High-P erformanc e Direc tor was 
+sought and the initial sur vey was pilo ted f or any f eedback Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+and edits. An online sur vey (REDCap® v ersion 7 .6.0, V an-
+derbilt Univ ersit y, Nashville, TN) was utiliz ed, hosted and 
+distributed through Univ ersit y of South Carolina, (Appen -
+dix 1). 
+The sec ond part of the study c onsisted of qualitativ e 
+semi-struc tured inter views via an audio visual c ommunica -
+tion platf orm (Skype™). The inter view questions w ere de -
+veloped b y the student inv estigators (JS, MM, SB) as a result 
+of the sur vey responses and through c ollaboration with a 
+board-c ertified Physical Medicine & R ehabilitation and 
+Sports Medicine physician (ST) with a specialization in P ara 
+Sports Medicine. The f ocus of the inter views was to gather 
+comprehensiv e inf ormation on P ara swimmers’ perc eptions 
+and e xperienc es with injuries, injur y pre vention, treatment, 
+and the injur y rec overy proc ess. The inter view guide can be 
+viewed in Appendix 2. 
+PARTICIP ANTS : 
+Surv ey: Participants w ere recruited through emails distrib -
+uted b y the U.S. P aralympics Swimming High-P erformanc e 
+Direc tor. Inclusion criteria c onsisted of: being able to c om-
+plete the sur vey in English and being a member of the U.S. 
+Paralympic Swimming National teams with either a physi -
+cal or visual impairment. P articipants w ere e xcluded if the y 
+were an athlete with an intellec tual impairment giv en con-
+cern that the y would no t be able to appropriately c omplete 
+the sur vey. Fif ty-six participants w ere identified b y the 
+High-P erformanc e Direc tor f or recruitment, the goal was to 
+have a sample siz e of at least 17 responses (response rate 
+30.4%) sinc e on av erage, online sur veys yield a response 
+rate betw een 20-30%.18,19 
+Qualitativ e Intervie ws: P articipants w ere selec ted 
+through a c onvenienc e sample of U.S. P ara swimmers on the 
+U.S. P aralympics Swimming National teams. R esearchers 
+requested the U.S. P aralympics Swimming High-P erfor-
+manc e Direc tor pro vided purposeful sampling of P ara 
+swimmers representing div ersit y in regards to primar y 
+strok e, medical diagnoses, and impairments. Inclusion cri -
+teria w ere: current U.S. P ara swimming National team 
+members with either a physical or visual impairment under 
+the direc tion of the direc tor. Upon the direc tor’s review of 
+the team roster and discussions with the athletes, six P ara 
+swimmers w ere selec ted based on the request in represent -
+ing a div ersit y of P ara swimmers, schedule availabilit y, and 
+willingness to participate in an inter view. The y were en -
+couraged to also tak e the sur vey portion of the study but 
+were no t excluded if the y did no t complete the sur vey. 
+This study was re viewed and appro ved b y the Univ ersit y 
+of South Carolina Institutional R eview Board (P ro00081813 
+and P ro00084553). 
+PROCEDURES: 
+Surv ey: Fifty-six participants on the U.S. P aralympic Swim -
+ming National teams w ere emailed the online sur vey. Email 
+reminders w ere distributed af ter tw o weeks to remind par -
+ticipants of the study , and each w eek f ollowing f or se ven 
+weeks, af ter which the sur vey was closed. The general defin -
+ition used f or injur y histor y reporting in this study was “ any 
+injur y related to swimming that altered w eekly training or caused a P ara swimmer to miss a c ompetition, regardless of 
+whether participants sought medical treatment f or the in -
+jury.” 
+Training:  Student inv estigators w ere trained in qualita -
+tive inter view techniques b y author (ER), who is an e xpe-
+rienc ed qualitativ e researcher , including open ended ques -
+tions, f ollow up techniques and av oidanc e of leading 
+questions. Student inv estigators prac ticed and w ere giv en 
+feedback. 
+Intervie ws: After the sur vey was closed, each of the three 
+student inv estigators c ontac ted tw o of the six P ara swim -
+mers b y email to arrange a one-on-one inter view over an 
+audio visual c ommunication platf orm (Skype™). Audio vi-
+sual inter views instead of audio-only w ere selec ted as this 
+allowed f or a more personal inter view. The inter viewers 
+provided the P ara swimmers with an e xplanation of the 
+study and po tential inter view questions bef ore c onduc ting 
+the inter view. The inter views w ere c onversational and 
+semi-struc tured to allo w for in-dep th follow-up. Inter views 
+lasted betw een 14 and 38 minutes. 
+DATA ANAL YSIS: 
+Surv ey Analysis : Statistical analysis was perf ormed using a 
+statistical sof tware platf orm (IBM® SPSS® Statistics f or 
+Windo ws, V ersion 26.0, Armonk, NY: IBM C orp). Descrip -
+tive statistics including means, minimum, maximum, stan -
+dard de viations, and frequencies w ere calculated f or the de -
+pendent variables. 
+Qualitativ e Analysis:  Each inter view was transcribed v er-
+batim. De-identified transcrip ts from the inter views w ere 
+input into qualitativ e data analysis sof tware (QSR Interna -
+tional Pt y Ltd. (2019) NViv o, Version 12.3.0). Iterativ e the -
+matic analysis20 was c ompleted in a c ollaborativ e proc ess 
+by the three student inv estigators (JS, MM, SB) with support 
+and re view by author (ER) with qualitativ e research e xper -
+tise. The first inter view was c oded b y each of the three stu -
+dent inv estigators individually , then discussed as a group 
+with author (ER) to ensure c onsistency betw een researchers 
+in the c oding proc ess. Initial c odes w ere c ompleted induc -
+tively, remaining as close as possible to the participant ’s 
+wording. Further iterations of the c oding w ere c ompleted 
+as a group, with themes categoriz ed bo th deduc tively into 
+predetermined categories (demographics, injur y, training, 
+treatment) and induc tively through emergent identified 
+new themes through group c onsensus. 
+Further thematic breakdo wn under resultant categories 
+were re viewed and re vised in se veral rounds b y all three stu -
+dent researchers (JS, MM, SB) and author (ER), and the re -
+sults w ere re viewed with authors (SH, ST). T rustw orthiness 
+was established through c omparison to sur vey results (tri -
+angulation) and utilizing a mentor with qualitativ e exper -
+tise.21 
+RESUL TS 
+PART I: SUR VEY RESUL TS 
+A to tal of 24 c omplete sur vey responses w ere rec eived from 
+the 56 sur veys distributed to swimmers on the U.S. P ara-
+lympic Swimming National T eams (42.9% response rate). 
+There w ere no inc omplete sur vey responses. Three of the Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+Table 1. Sur vey Participant Demographics. 
+Number of surv ey participants (n=21) 
+Gender Female 6 (21.6%) 
+Male 15 (71.4%) 
+Age 14 – 18 y ears 
+old 11 (52.4%) 
+19 – 25 y ears 
+old 6 (28.6%) 
+26 – 30 y ears 
+old 4 (19%) 
+Number of y ears 
+swimming 
+competitiv ely < 5 y ears 3 (14.3%) 
+5-10 y ears 11 (52.4%) 
+> 10 y ears 7 (33.3%) 
+Highest le vel of 
+competition in P ara 
+swimming International 19 (90.5%) 
+National 2 (9.5%) 
+Impairment T ype Physical 
+impairment* Physical 
+impairment 
+types 18 (85.7%) 
+Hypertonia 2 (9.5%) ( dystonic tetr aplegia, multiple tr aumatic br ain injuries) 
+Impaired 
+muscle 
+power# 3 (14.3%) (arthrogryposis am yoplasia, tr ansv erse m yelitis, 
+lumbar le vel incomplete spinal cord injury) 
+Impaired 
+passiv e range 
+of motion# 2 (9.5%) (arthrogryposis am yoplasia, Nager syndrome ) 
+Limb 
+deficiency 9 (42.9%) (lower e xtremity amputations including pro ximal 
+femor al focal deficiency , upper e xtremity amputations, Nager 
+syndrome ) 
+Short stature 5 (23.8%) ( dwarfism including achondroplasia, osteogenesis 
+imperfecta) 
+Visual impairment 3 (14.3%) 
+24 sur vey responses (12.5%) w ere from swimmers with in -
+tellec tual impairments and w ere e xcluded. Figure 1  demon -
+strates the recruitment proc ess of participants. 
+PARTICIP ANT INFORMA TION 
+The mean age of sur vey participants was 19.4 y ears (range 
+14-30). P articipants reported swimming c ompetitiv ely f or a 
+mean of 8.4 y ears (range 2-17). Demographics of sur vey par -
+ticipants are presented in Table 1 . Only three (14.3%) swim -
+mers reported c ompeting in additional sports o ther than 
+swimming (sho t put, P ara triathlon, and archer y). The most 
+common primar y swimming strok e reported was freest yle 
+(57.1%). 
+IN AND OUT OF P OOL TRAINING INFORMA TION 
+Participants reported swimming an av erage of 15.62 (SD 
+3.57) hours per w eek. All reported perf orming cross-train -
+ing, with an av erage of 4.10 (SD 2.32) hours per w eek. When 
+combining to tal hours of cross-training and swimming, par -
+ticipants av eraged a to tal of 19.71 (SD 4.33) hours of to tal 
+training per w eek. All of the sur vey participants reported 
+Figure 1. 
+using some t ype of resistanc e training outside of the pool 
+(Table 2). Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+Table 2. R eported Strength T raining Out of the P ool 
+Type * Number of P articipants (%) 
+Bodyweight e xercise 20 (95%) 
+Dumbbells or free weights 18 (86%) 
+Medicine Balls 16 (76%) 
+Elastic bands 15 (71%) 
+Weight machines 10 (48%) 
+*Participants c ould selec t all that apply 
+Table 3. R eported R esistanc e Training In the P ool 
+Type * Number of P articipants (%) 
+Paddles 18 (86%) 
+Parachutes 17 (81%) 
+Fins 16 (76%) 
+Bungee cords 12 (57%) 
+Buck ets 8 (38%) 
+Other (ie: swim socks or dr ag suits) 4 (19%) 
+*Participants c ould selec t all that apply 
+Appro ximately 91% of the participants w ere super vised 
+during their resistanc e training. Super vision was most c om-
+monly pro vided b y the swim c oach (32%), athletic trainer or 
+strength c oach (26% each), a c ombination of bo th a swim 
+coach and athletic trainer (11%), and a c ombination of a 
+swim c oach and physical therapist (5%). All 19 participants 
+reported rec eiving c orrec tion of improper f orm during 
+strength training. When determining the amount of w eight 
+used f or strength training, 14 (67%) reported the amount 
+of resistanc e was determined on an individual basis, nine 
+(43%) reported the swimmer decides the amount of resis -
+tanc e, three (14%) reported using their body weight, tw o 
+(9.5%) used a predetermined repetition maximum and one 
+(4.8%) reported all swimmers on the team use the same 
+amount of w eight. All but one participant reported using 
+some t ype of resistanc e training in the pool. The t ypes of 
+in-pool resistanc e reported b y participants can be vie wed in 
+Table 3 . Nineteen of 21 (90.5%) participants reported inc or-
+porating stretching into their training regimen. Strength -
+ening/stretching programs reported b y participants in -
+cluded routines that may no t hav e been specifically targeted 
+toward injur y pre vention sinc e the interpretation of “injur y 
+prevention” was lef t up to the respondent. 
+INJUR Y HIST ORY 
+Of the 21 sur vey participants, 11 (52.4%) reported e xperi -
+encing an injur y during their swimming career that altered 
+their w eekly training, with fiv e (23.8%) reporting shoulder 
+injuries as the cause of missed time. Six of the 21 swimmers 
+(28.6%) reported missing c ompetitions due to injur y, with an av erage of 1.5 c ompetitions missed. Of the swimmers 
+who reported an injur y that altered their w eekly training, 8 
+trained 15-21 hours/w eek, 2 trained 8-14 hours/w eek, and 
+one trained ≤7 hours/w eek. Freest yle (n=12) was reported as 
+the most c ommon primar y strok e (57%). Eight (66.7%) who 
+identified freest yle as their primar y strok e reported an in -
+jury that altered w eekly training, whereas f our (33.3%) re -
+ported missing c ompetition due to injur y. Tw o swimmers 
+(9.5%) reported having had pre vious surger y related to a 
+swimming injur y. Of the six male sur vey participants, tw o 
+(33.3%) reported injuries that altered w eekly training, while 
+nine (60%) of the 15 f emales reported injuries that altered 
+weekly training. 
+Any mechanisms of injur y reported w ere classified as 
+acute (defined as any injur y that was caused b y a specific, 
+identifiable e vent related to P ara swimming ac tivities), 
+chronic (defined as any injur y that de veloped o ver days, 
+weeks, or months and was no t associated with an acute 
+event), or unkno wn chronicit y (if the participant did no t 
+provide enough inf ormation in their sur vey response to 
+classify the injur y as acute or chronic). Table 4  provides 
+an o verview of injur y charac teristics described b y partici -
+pants, categoriz ed b y the eligible impairment t ypes of P ara 
+swimmers. Of the fiv e respondents with short stature, f our 
+(80%) reported an injur y that altered their w eekly training 
+and three (60%) missed c ompetition due to their injur y. The 
+shoulder was the most c ommonly reported body area across 
+multiple impairment categories. Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+Table 4. Injur y Charac teristics and Injur y Prevention P rogram Histor y – By Eligible Impairment 
+Impairment Categories 
+Total 
+Participants 
+(n=21) Hypertonia  (n=2) Impaired 
+Muscle 
+Power* 
+(n=3) Impaired 
+Passiv e 
+Range of 
+Mo vement* 
+(n=2) Limb Deficiency  (n=9) Short 
+Stature 
+(n=5) Visual Impairment  (n=3) 
+Participants reporting injury 
+altering weekly tr aining 1 (50%) 1 
+(33.3%) 1 (50%) 2 (22.2%) 4 (80%) 3 (100%) 11 (52.3%) 
+Participants reporting missing 
+competition due to injury --- --- --- 1 (11.1%) 3 (60%) 2 (66.7%) 6 (29%) 
+Chronicity of 
+injuries 
+reported Acute 
+injuries --- --- --- --- 3 (60%) 1 (33.3%) 4 (19%) 
+Chronic 
+injures 1 (50%) 1 
+(33.3%) 1 (50%) 2 (22.2%) 1 (20%) --- 5 (23.8%) 
+Injuries of 
+unknown 
+chronicity --- --- --- --- --- 2 (66.7%) 2 (9.5%) 
+Body part(s) 
+reported to be 
+injured (some 
+participants 
+reported 
+multiple ) Shoulder 1 (50%) 1 
+(33.3%) 1 (50%) 2 (22.2%) --- 1 (33.3%) 5 (23.8%) 
+Knee --- --- --- --- 1 (20%) --- 1 (4.8%) 
+Lower leg --- --- --- --- 1 (20%) --- 1 (4.8%) 
+Ankle --- --- --- --- --- 1 (33.3%) 1 (4.8%) 
+Abdomen --- --- --- --- --- 1 (33.3%) 1 (4.8%) 
+Multiple 
+fractures 
+(location 
+not 
+specified) --- --- --- --- 2 (40%) --- 2 (9.5%) 
+Multiple 
+tendon or 
+muscle 
+strains 
+(location 
+not 
+specified) --- --- --- --- 1 (20%) --- 1 (4.8%) 
+Reported Participated 1 (50%) --- --- 1 (11.1%) --- 2 (66.7%) 4 (19%) Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+Impairment Categories 
+Total 
+Participants 
+(n=21) Hypertonia  (n=2) Impaired 
+Muscle 
+Power* 
+(n=3) Impaired 
+Passiv e 
+Range of 
+Mo vement* 
+(n=2) Limb Deficiency  (n=9) Short 
+Stature 
+(n=5) Visual Impairment  (n=3) 
+injury 
+pre vention 
+progr am 
+participation in injury 
+pre vention 
+and injured 
+Description 
+of injury 
+pre vention 
+progr am Prehab progr am 
+prior to starting 
+practice x10 min --- --- Shoulder strengthening in 
+physical ther apy x1 hour weekly --- 1) Injury pre vention at 
+national team camps/
+international 
+competitions b y team 
+support staff 2) Not 
+specified --- 
+Participated 
+in injury 
+pre vention 
+and NO T 
+injured 1 (50%) --- --- 2 (22.2%) --- --- 2 (9.5%) 
+Description 
+of injury 
+pre vention 
+progr am Stretching, shoulder 
+and hip 
+strengthening 
+directed b y strength 
+coach x45 min e very 
+morning --- --- 1) Stretching, shoulder and hip 
+strengthening directed b y 
+strength coach x45 min e very 
+morning 2) Ex ercises not specified 
+x 1.5 hours weekly --- --- --- Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+Table 5. Demographics of Inter view Participants. 
+Participant Age 
+(years) Gender Para Swimming Eligible Impairment(s) Para Swimming Sport Class (S/SB/
+SM) 
+1 26 Male Visual 11/11/11 
+2 28 Female Physical (limb deficiency and 
+hypertonia) 8/7/8 
+3 30 Female Physical (h ypertonia) 3/3/3 
+4 23 Female Visual 12/12/12 
+5 21 Female Physical (short stature ) 6/6/6 
+6 22 Female Physical (short stature ) 7/6/7 
+Eight of 21 participants (38.1%) reported having current 
+pain with an av erage intensit y rating of 3.4 (SD 0.89), (on a 
+0 to 10 numerical rating scale, with 0 representing no pain 
+and 10 representing the most se vere pain). P articipants e x-
+periencing pain reported the location of their current pain 
+as follows: 23.8% reported pain in the shoulder , 9.5% in the 
+arm, 9.5% in the upper back and lo wer back, and 4.8% in the 
+abdomen, elbo w, hip, and knee. 
+INJUR Y PREVENTION PR OGR AMS AND TREA TMENT 
+Six (28.6%) of the 21 participants reported participation in 
+an injur y pre vention program, with f our of the six (66.7%) 
+reporting injur y. Seven (46.7%) of the 15 participants who 
+did no t participate in an injur y pre vention program re -
+ported having a histor y of an injur y. Injur y pre vention pro -
+grams (as interpreted b y the participant) ranged from a pro -
+gram at a national team camp to an individualiz ed program 
+that included stretching and strengthening 45 minutes each 
+morning to pre vent shoulder and hip injur y. 
+Nine (42.9%) of the 21 sur vey participants reported re -
+ceiving physical therap y treatment due to injur y, 9 (42.9%) 
+reported rec eiving chiroprac tic treatment, 10 (47 .6%) re -
+ported rec eiving a massage due to injur y, and 4 (19%) re -
+ported rec eiving no treatment at all. T reatments included 
+kinesio tape (n=9, 42.9%), cupping (n=7 , 33.3%), ASTYM 
+(n=4, 19%), elec trical stimulation (n=8, 38.1%), massage 
+(n=16, 76.2%), pneumatic c ompression (n=7 , 33.3%), and 
+manual therap y (n=8, 38.1%). Three (14.3%) participants re -
+sponded to an open-ended question on the sur vey regard -
+ing any additional inf ormation on swimming and swimming 
+injur y as it pertains to their personal e xperienc es and re -
+ported the y had impro vement of symp toms f ollowing the 
+implementation of stretching and strengthening programs. 
+PART II. INTER VIEW RESUL TS 
+Six P ara swimmers who w ere U.S. P aralympics Swimming 
+resident team members and at least 18 y ears old partici -
+pated in the qualitativ e inter views, with demographics pre -
+sented in Table 5 . 
+Para swimmers inter viewed represented bo th genders 
+with div erse impairments and classification sport classes. 
+The resultant themes from the inter views w ere categoriz ed 
+into f our main topic categories: training, injur y risk, in -
+ 
+juries, and treatment and return to sport ( Figure 2 ). 
+Training Theme*: T raining is individualiz ed and requires 
+knowledgeable c oaching and support personnel:* Inter vie-
+wees no ted the wide array of physical impairments mak es 
+the at titudes and beliefs to wards training and injur y var y 
+betw een individuals in P ara swimming. All 6 participants 
+reported c oaches, medical staff , and training personnel 
+have an impac t on their swimming career and that having 
+access to a c omprehensiv e, multidisciplinar y team and re -
+sourc es was important f or their training needs. As no ted b y 
+Participant 06: 
+“Para athletes [need to] kno w that the y’re on that same 
+elite le vel [as athletes without disabilities] and the y 
+need those same … rec overy tools or … , pre vention 
+techniques. … That ’s just something that I’v e realiz ed 
+since, … making my first National team is I need those 
+things just lik e an able-bodied athlete does, maybe just 
+in a diff erent way .” 
+Para swimmers also rec ogniz ed the value of having their 
+training super vised b y someone officially trained and e x-
+perienc ed in w orking with athletes with disabilities who 
+could rec ogniz e and understand the balanc e betw een allo w-
+ing them to be resilient and push, but no t overdo it to the 
+point that risks injur y. As per P articipant 04: 
+“I’m very thankful to hav e coaches watching me and 
+making sure I’ m doing the proper technique. … that 
+was especially a big thing in therap y. I really had to Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+have somebody help me because I used a lo t of c ompen -
+sation methods that I ne ver realiz ed that I did until I 
+was in therap y and I was supposed to be doing isolated 
+exercises and I w ould c ompensate a ton. So the y had to 
+work really hard with me and help me to, to no t com-
+pensate. ” 
+As is the case f or all athletes, inter viewees also no ted it 
+is important f or Para swimmers to gradually return to their 
+training regimens af ter a hiatus to av oid injuries. Some in -
+terviewees reported that time off from swimming may im -
+pact Para swimmers more than swimmers without disabil -
+ities, further emphasizing the importanc e of cross-training 
+and participation in o ther ac tivities. 
+Injur y Risk Theme: Injury risk is unique in P ara swimmers 
+based on their underlying medic al conditions, impairments, 
+and adaptations to ac commodate for their impairments : As 
+per P articipant 03: 
+“I think at the same time there was no real way f or me 
+to get the same range of mo tion or pull do wn my right 
+arm in order to match my lef t arm, which w ould hav e 
+led to … ano ther f orm of … c ompensation injur y.” 
+Some P ara swimmers reported the y learned to do their 
+pre-habilitation or injur y pre vention programs based on 
+their personal e xperienc e. Swimmers with visual impair -
+ment who require tappers also hav e to de velop strong re -
+lationships with their tappers to anticipate the wall of the 
+pool and pre vent injur y. Ho wever, most swimmers do no t 
+get a chanc e to prac tice with their tappers until the time 
+surrounding a c ompetition. 
+Injuries Theme: Para swimmers, c ompared to swimmers 
+without disabilities, may experienc e a greater impact from 
+their injuries on their daily liv es: Inter viewees reflec ted that 
+Para swimmers, c ompared to swimmers without disabili -
+ties, may f eel a more significant impac t from injuries as 
+some P ara swimmers reported the water and swimming im -
+proved their func tion and e veryday symp toms from their 
+underlying disabilities. As per P articipant 06: 
+“The water … mak es my body f eel bet ter and … I don’t 
+feel as stiff and … don’t e xperienc e as many aches and 
+pains as I do … when I’ m no t in the water . So when 
+there is an injur y … pre venting me from being in the 
+water , … it definitely mak es me upset. [ …and] sad. 
+[Be]cause it aff ects me a lo t and I f eel lik e … it aff ects 
+me a lo t more than it w ould [aff ect] an able-bodied 
+swimmer .” 
+Inter viewees also reported that their injuries can bo th be 
+preventable and unpre ventable due to unique risk fac tors 
+from their underlying medical c onditions. Injur y symp toms 
+and clinical presentation may be at ypical due to some P ara 
+swimmers’ underlying disabilities and their subsequent in -
+creased resilienc e and pain toleranc e. 
+Treatment Theme: Intervie wees reported both mix ed expe -
+rienc es with medic al treatment of their injuries and return to 
+sport rec ommendations, with negativ e experienc es causing sig -
+nificant barriers in their P ara swimming c areer:  One inter vie-
+wee no ted that replacing swimming with ano ther ac tivit y 
+is sometimes more helpful when rec overing from injur y or 
+taking time off . Inter viewees also e xpressed ho w swimming 
+itself aids in the rec overy proc ess and ho w it assists with strengthening. Injuries as se vere as frac tures w ere no ted b y 
+one inter viewee with osteogenesis imperf ecta and w ere no t 
+enough to hold her out of the pool f or more than 3 days. 
+Inter viewees reported bo th positiv e and negativ e experi -
+ences and inc onsistencies with medical care of their injuries 
+- times when all of their specific medical needs w ere met 
+due to great c ommunication, but also when c onflic ting staff 
+opinions limited training unnec essarily . Participant 01 and 
+03 summariz ed: 
+Participant 01: “the staff at [location omit ted] … was 
+sometimes more of an obstacle than a help … their 
+head of a Sports Medicine didn’t want me back in the 
+pool af ter I had a pret ty good at tack. One day the y 
+called the ambulanc e, the whole 9 yards. … And I [told] 
+him [that] my neurologist cleared me, neurologist said 
+[I’m] fine, [I’ m] cleared to go… I can remember that re -
+ally hurt my training pret ty bad. ” 
+Participant 03: “Injuries that w ere no t caught … in time 
+or misdiagnosed. So … w e’ve had to limit what w e can 
+and can’t do as far as strok es. … W e were doing the 
+wrong rehab program f or quite some time, so w e were 
+only aggravating that initial injur y to begin with. .” 
+DISCUSSION 
+This study utiliz ed a mix ed-methods approach producing 
+valuable data and perspec tives on injuries, treatment, train -
+ing prac tices, and participation in injur y pre vention in elite 
+U.S. P ara swimmers with physical and/or visual impair -
+ments. These results indicate that P ara swimmers e xperi -
+ence injuries at similar rates to swimmers without impair -
+ments. Additionally , the results of this study sho w there is 
+a lack of injur y pre vention programs being utiliz ed b y Para 
+swimmers and that individual P ara swimmers hav e unique 
+needs due to their disabilities and impairments. 
+The most c ommon site of injur y in the athletes in the 
+current study was the shoulder , which is c onsistent with 
+other studies that f ocused on P ara swimmers,22 Para ath -
+letes across a variet y of sports,8,10,12 and swimmers without 
+disabilities.16,23 The perc entage of U.S. P ara swimmers re -
+porting injuries in our sur vey was higher than what has 
+been reported in o ther studies.10,12 However, it is difficult 
+to compare the present study to o thers because of diff er-
+ences in methodology , including data sourc es and ho w “in -
+jury” was defined. Derman and c olleagues e valuated 
+prospec tive cohort data from a to tal of 3657 athletes from 
+78 countries at the Rio 2016 Summer P aralympic Games.10 
+The authors reported that within the sport of P ara swim -
+ming 42 of the 492 P ara swimmers (8.5% ) sustained injuries 
+during the Rio 2016 P aralympic Games.10 Whether injuries 
+were acute, acute on chronic, or chronic was no t reported 
+specifically f or P ara swimming. Willick and c olleagues e x-
+amined 62 injuries in P ara swimmers (12.4% of all P ara 
+swimmers) during the London 2012 P aralympic Games. Of 
+these injuries, 47% w ere reported to be “ acute ” and 16% 
+were reported to be “ acute on chronic. ”12 
+The current study’ s retrospec tive data was no t specific 
+to one e vent or time point, but rather across the partici -
+pants’ careers as c ompetitiv e Para swimmers. While studies 
+conduc ted b y Derman10 and Willick12 reported prospec tive 
+data from a much larger sample siz e during the duration of Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+a single P aralympic Games, this present study is the first 
+to report data e xclusiv ely from U.S. P ara swimmers, specif -
+ically gathering data about injuries that impac ted w eekly 
+training throughout the swimmer’ s career . This present 
+study f ocused on injuries that altered w eekly training or 
+competition participation, while studies c onduc ted b y Der -
+man10 and Willick12 included injuries that may no t hav e al-
+tered w eekly training or c ompetition participation. 
+The participants in the present study reported more 
+chronic than acute injuries c ompared to the those included 
+in P aralympic Games injur y sur veillanc e studies, which 
+could be e xplained b y gathering injur y histor y data that 
+may no t hav e needed medical at tention. Thus, the present 
+survey may hav e been more sensitiv e in cap turing chronic 
+injuries c ompared to Derman10 and Willick12 studies. This 
+is especially true if P ara athletes are more lik ely to seek 
+medical at tention f or acute injuries and no t for chronic in -
+juries at the Games, which may oc cur f or multiple reasons. 
+As reported b y participants in this study , Para swimmers 
+may hav e a c omplicated medical histor y and some hav e re-
+ported negativ e experienc es when seeking medical care f or 
+symp toms leading to unnec essar y training/c ompetition re -
+stric tions. The qualitativ e inter view discussion about in -
+juries no ted a c ommon theme reflec ting P ara swimmers’ 
+beliefs that time in the water impro ved their func tion in 
+everyday lif e. Theref ore, time away from the pool due to in -
+jury may be of greater detriment f or P ara swimmers than 
+swimmers without disabilities. Fear of repeat negativ e ex-
+perienc es may disc ourage P ara swimmers from seeking 
+medical care until absolute nec essar y, such as in acute in -
+juries causing significant pain or func tional limitations, or 
+only when chronic injuries hav e been e xacerbated and c ome 
+to a point where the y are no longer tolerable. Further e vi-
+denc e is needed to understand the impac t of an injur y on 
+various psy chosocial, func tional, and sports participation 
+outc omes in P ara swimmers c ompared to swimmers with -
+out disabilities. 
+Current guidelines proposed f or injur y pre vention in 
+swimmers without disabilities suggest that strength train -
+ing be super vised b y a c ertified strength and c onditioning 
+specialist, athletic trainer , or physical therapist to pre vent 
+injur y.24 There are no published guidelines f or those with 
+impairments/disabilities. Most sur vey participants in our 
+study (90.5%) reported super vision of their out of pool re -
+sistanc e training, with 61.9% being at least oc casionally su -
+pervised b y an athletic trainer , strength c oach, or physical 
+therapist, theref ore meeting guidelines f or best prac tice of 
+strength training, at least ac cording to literature f or ath -
+letes without disabilities.24 The majorit y of sur vey partici -
+pants (90.5%) also c ompleted stretching as part of their reg -
+ular training routine, which is in alignment with current 
+recommendations f or swimmers without disabilities.16 
+However, sinc e bo th of these strengthening and stretching 
+guidelines w ere created f or swimmers without disabilities 
+in mind, further research is needed to e valuate eff ective 
+techniques f or strengthening and stretching specifically in 
+Para swimmers, with c onsideration of the broad spec trum 
+of medical diagnoses, impairments, and func tional abilities 
+Para swimmers represent. 
+Although many of the sur vey participants reported per -
+forming resistanc e and stretching programs, while 15 (71.4%) reported the y did no t participate in a specific injur y 
+prevention program, half of this group reported an injur y. 
+Out of the remaining sur vey participants who did partici -
+pate in an injur y pre vention program, 66.7% of these partic -
+ipants still reported an injur y. In swimmers without disabil -
+ities, there are proposed algorithms f or injur y pre vention, 
+including careful monitoring of training v olume, intensit y, 
+and duration b y coaches and physicians while also looking 
+out f or strok e alterations that c ould represent c ompensa -
+tion f or pain or injur y.16 It is also rec ommended that swim -
+mers without disabilities in general w ork on enduranc e 
+training (strengthening, stabilization, and fle xibilit y) of 
+core muscles to av oid e xcessiv e anterior pelvic tilt and lum -
+bar lordosis, and also f ocus on scapular strengthening be -
+fore primar y rotator cuff muscles strengthening as part of 
+their injur y pre vention program.16 However, due to the 
+uniqueness of each P ara swimmer , the results of the present 
+study highlight that an injur y pre vention plan should in -
+clude individual analyses of the P ara swimmers’ biome -
+chanics and a strong understanding of ho w their underlying 
+medical c ondition impac ts their mo vements in the water , 
+fatigue, and risk of injur y. Those that participated in the 
+qualitativ e portion of this study also emphasiz ed the value 
+of having support from a multidisciplinar y team w ell-e xpe-
+rienc ed in w orking with P ara athletes. In c ollaboration with 
+the P ara athlete, c oach(es), and o ther healthcare special -
+ists (e.g. sports psy chologist, nutritionist, etc. ), such indi -
+vidualiz ed injur y pre vention programs c ould be prescribed 
+by physiatrists, sports medicine physicians, physical thera -
+pists, and/or athletic trainers e xperienc ed in e valuating the 
+needs of the P ara athlete. 
+LIMIT ATIONS 
+The small sample siz e of this study limits the abilit y to 
+generaliz e the results, and pre vents detailed analysis b y in-
+dividual impairment t ypes and sport classes f or classifica -
+tion. Further limitations included the po tential f or response 
+bias and having to rely on the participant ’s understanding 
+and interpretation of their injur y diagnosis. Injur y pre va-
+lenc e or incidenc e was no t able to be calculated from the 
+data as the sur vey did no t define a time period f or partic -
+ipants to report injuries. A specific definition f or “injur y” 
+and “injur y pre vention program” also was no t pro vided to 
+survey participants, possibly leading to diff erent interpre -
+tations of what entails an injur y or injur y pre vention pro -
+gram, and o ver-or under -reporting of each. Moreo ver, the 
+survey inquired about injuries that altered w eekly training 
+versus injur y that caused the participant to miss a c ompe -
+tition, but did no t gather data about injuries that did no t 
+result in these c onsequenc es, thus po tentially underrepre -
+senting the injur y histor y of P ara swimmers in our study . 
+CONCLUSION 
+Injuries that alter w eekly training are c ommon in U.S. P ara 
+swimmers, although only a small number participate in in -
+jury pre vention programs. Qualitativ e results re vealed that 
+many P ara swimmers belie ve the y experienc e injuries based 
+on their specific impairments and c ompensations. Injur y 
+prevention programs should be specifically designed f or in -Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+dividual P ara swimmers due to the diff erenc e in training 
+needs based on underlying medical c onditions, impair -
+ments, and func tion. Future research should e xamine 
+coaching kno wledge and whether ac cess to individualiz ed, 
+multidisciplinar y programs can reduc e injur y pre valenc e 
+among this at -risk population. CONFLIC TS OF INTEREST 
+None. 
+Submit ted: March 08, 2021 CST , Accepted: Sep tember 19, 2021 
+CST 
+This is an open-access article distributed under the terms of the Creativ e Commons Attribution 4.0 International License 
+(CCBY -NC -4.0 ). View this license ’s legal deed at https:/ /creativ ecommons.org/licenses/b y-nc/4.0 and legal code at https:/ /cre-
+ativ ecommons.org/licenses/b y-nc/4.0/legalcode for more information. Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+REFERENCES 
+1. International P aralympic C ommit tee. Histor y of 
+the P aralympic mo vement. A ccessed June 27 , 2020. ht
+tps://w ww.paralympic.org/ipc/histor y 
+2. Wilson PE, Clay ton GH. Sports and disabilit y. Phys 
+Med R ehabil . 2010;2(3):S46-S54. doi:10.1016/j.pmrj.2
+010.02.002 
+3. International P aralympic C ommit tee. What is 
+classification? A ccessed June 27 , 2020. https://w ww.p
+aralympic.org/classification 
+4. International P aralympic C ommit tee. W orld P ara 
+Swimming classification rules and regulations. 
+Updated . Published online August 20, 2020. https://w
+ww.paralympic.org/swimming/classification 
+5. Fagher K, Le xell J. Sports-related injuries in 
+athletes with disabilities. Scand J Med Sci Sports . 
+2014;24(5):e320-e331. doi:10.1111/sms.12175 
+6. Fagher K, Forsberg A, Jac obsson J, Timpka T , 
+Dahlström Ö , Lexell J. P aralympic athletes’ 
+perc eptions of their e xperienc es of sports-related 
+injuries, risk fac tors and pre ventiv e possibilities. Eur J 
+Sport Sci . 2016;16(8):1240-1249. doi:10.1080/1746139
+1.2016.1192689 
+7. Webborn N, Emer y C. Descrip tive epidemiology of 
+Paralympic sports injuries. Phys Med R ehabil . 
+2014;6:S18-S22. doi:10.1016/j.pmrj.2014.06.003 
+8. Rudolph L, Willick S, T eramo to M, Cushman DM. 
+Adap tive sports injur y epidemiology . Sports Med 
+Arthrosc R ev. 2019;27(2):e8-e11. doi:10.1097/jsa.0000
+000000000243 
+9. Derman W , Schw ellnus M, Jordaan E, et al. Illness 
+and injur y in athletes during the c ompetition period 
+at the London 2012 P aralympic games: De velopment 
+and implementation of a w eb-based sur veillanc e 
+system (WEB-IISS) f or team medical staff . Br J Sports 
+Med . 2013;47(7):420-425. doi:10.1136/bjsports-201
+3-092375 
+10. Derman W , Runciman P , Schw ellnus M, et al. High 
+prec ompetition injur y rate dominates the injur y 
+profile at the Rio 2016 Summer P aralympic Games: A 
+prospec tive cohort study of 51  198 athlete days. Br J 
+Sports Med . 2018;52(1):24-31. doi:10.1136/bjsports-2
+017-098039 
+11. Derman W , Runciman P , Jordaan E, et al. High 
+incidenc e of injuries at the Py eongchang 2018 
+Paralympic winter games: A prospec tive cohort study 
+of 6804 athlete days. Br J Sports Med . 
+2020;54(1):38-43. doi:10.1136/bjsports-2018-100170 12. Willick SE, W ebborn N, Emer y C, et al. The 
+epidemiology of injuries at the London 2012 
+Paralympic games. Br J Sports Med . 
+2013;47(7):426-432. doi:10.1136/bjsports-2013-09237
+4 
+13. Reynolds J, Stirk A, Thomas A, Gear y F. 
+Paralympics--Barc elona 1992. Br J Sports Med . 
+1994;28(1):14-17 . doi:10.1136/bjsm.28.1.14 
+14. Tate A, Harrington S, Buness M, Murray S, T rout 
+C, Meisel C. Inv estigation of in-water and dr y-land 
+training programs f or competitiv e swimmers in the 
+United States. J Sport R ehabil . 2015;24(4):353-362. do
+i:10.1123/jsr .2014-0205 
+15. Shoulder injur y in c ompetitiv e swimming: 
+Strategies f or early identification and pre vention. 
+Accessed August 20, 2020. https://w ww.usaswimmin
+g.org/docs/default -sourc e/clinics/online-clinic -series/
+sports-med/4-15-15-e valuation-and-management -o
+f-should-pain-in-swimmers---dr -scott-rodeo.pdf?sfvr
+sn=4 
+16. Waniv enhaus F, Fo x AJS, Chaudhur y S, R odeo SA. 
+Epidemiology of injuries and pre vention strategies in 
+competitiv e swimmers. Sports Health . 
+2012;4(3):246-251. doi:10.1177/1941738112442132 
+17. Fearing M, Harrington SE. Understanding injur y 
+and injur y pre vention in P aralympic sport. Sports Med 
+Health Sci . 2017;49(5S):1093. doi:10.1249/01.mss.000
+0520012.78593.1f 
+18. Sax LJ. Our inc oming students: What are the y 
+like? About C ampus . 2003;8(3):15-20. doi:10.1177/108
+648220300800305 
+19. Kaplo witz MD , Hadlock TD , Levine R. A 
+comparison of w eb and mail sur vey response rates. 
+Public O pin Q . 2004;68(1):94-101. doi:10.1093/poq/nf
+h006 
+20. Braun V , Clark e V. Using thematic analysis in 
+psychology . Qual R es Psychol . 2006;3(2):77 -101. doi:1
+0.1191/1478088706qp063oa 
+21. Henderson R, Rheault W . Appraising and 
+incorporating qualitativ e research in e videnc e-based 
+prac tice. J Phys T her Educ . 2004;18(3):35-40. doi:10.1
+097/00001416-200410000-00005 
+22. Silva MM e, Bilz on J, Duarte E, Gorla J, Vital R. 
+Sport injuries in elite P aralympic swimmers with 
+visual impairment. J Athl T rain. 2013;48(4):493-498. d
+oi:10.4085/1062-6050-48.4.07 Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+23. Chase KI, Caine DJ, Goodwin BJ, Whitehead JR, 
+Romanick MA. A prospec tive study of injur y aff ecting 
+competitiv e collegiate swimmers. Res Sports Med . 
+2013;21(2):111-123. doi:10.1080/15438627 .2012.7572
+24 24. Haff GG, T riplet t NT . Essentials of strength 
+training and c onditioning 4ed. Human K inetics . 
+Published online 2015. Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy
+SUPPLEMENT ARY MA TERIALS 
+Appendix 1 
+Download: https:/ /ijspt.scholasticahq.com/article/31173-injury-and-injury-pre vention-in-united-states-par a-
+swimming-a-mix ed-methods-approach/attachment/78474.pdf?auth_tok en=OFREm9TI21p ye-Z -mgtp 
+Appendix 2 
+Download: https:/ /ijspt.scholasticahq.com/article/31173-injury-and-injury-pre vention-in-united-states-par a-
+swimming-a-mix ed-methods-approach/attachment/78723.pdf?auth_tok en=OFREm9TI21p ye-Z -mgtp Injur y and Injur y Prevention in United States P ara Swimming: A Mix ed-Methods Approach
+International Journal of Sports Physic al Therapy

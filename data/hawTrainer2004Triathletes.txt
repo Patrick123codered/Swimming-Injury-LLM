@@ -1,0 +1,232 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/8019652
+Training patterns and sports inju ries in triathletes
+Article    in  Journal of Scienc e and Medicine in Sport  · Januar y 2005
+DOI: 10.1016/S1440-2440(04)80262-7  · Sour ce: PubMed
+CITATIONS
+55READS
+1,207
+4 author s, including:
+Peter Ho wat
+Curtin Univ ersity
+252 PUBLICA TIONS    4,388  CITATIONS    
+SEE PROFILE
+Bruc e May cock
+Univ ersity of Ex eter
+151 PUBLICA TIONS    3,599  CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Peter Ho wat on 30 May 2018.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+Training patterns and sports injuries in triathletes 
+T Shaw 1, P Howat 2, M Trainor 2 & B Maycock 2 
+1Child Health Promotion Research Unit, Edith Cowan University, Perth, Western Australia. 2Western 
+Australian Centre for Health Promotion Research, School of Public Health. Curtin University, Perth, 
+Western Australia. 
+Sports-related injuries are a significant health problem within Australia, and constitute a 
+national health priority. There is limited Australian research data available on factors that 
+contribute to triathlon injuries, and in particular on how training patterns relate to injury 
+risk. This study examined the association between training patterns and injury in mostly 
+non-elite triathletes. 
+A cross-sectional survey of 258 triathletes completed a questionnaire that focused on 
+injuries they had sustained during the previous three triathlon seasons. Statistical assoc- 
+iations were found between hours of training and sustaining an injury. These associations 
+were U shaped, with those triathletes training at low levels and at high levels more likely to 
+sustain an injury. The results suggest that, for non-elite triathletes, the likelihood of 
+sustaining an injury is least when training for a total of 8 to 10 hrs per week, specifically 
+cycling for five to six hrs and running for three to four hrs weekly. Time spent on swimming 
+training does not appear to affect injury risk. 
+This research is seen as a contribution towards assisting triathletes in the planning of 
+training programs aimed at reducing the risk of injury. 
+(J Sci Med Sport 2004;7:4:446-450) 
+Introduction 
+Increased participation in recreational and competitive triathlons over the last 
+decade has been accompanied by an increase in numbers of athletes sustaining 
+injuries 1. Triathlon is likely to continue to attract growing numbers of parti- 
+cipants and injuries are therefore likely to become more prevalent unless more 
+emphasis is placed on their prevention. 
+Studies which investigated factors relating to levels of training which 
+contributed to injury identified that training for or competing in the running 
+component of the triathlon resulted in the greatest number of injuries and often 
+the most severe followed by cycling. The swimming component was associated 
+with the fewest injupes 1-5. 
+The literature suggests a linear relationship between training patterns and 
+injury occurrence. Risk of injury increased with increased weekly training 
+distances, especially for running and cycling 1-a. 
+Despite some research on the nature of triathlon injuries there are limited 
+data on specific causes of such injuries and fewer on the impact of training 
+patterns on injury occurrence. Given the unique nature of triathlon training, it 
+446 
+
+Training patterns and sports injuries in triathletes 
+is of importance to gain some insight into the effects of different levels of 
+training. This paper describes a study aimed at elucidating causative factors of 
+injuries incurred by people participating in triathlons at a range of levels. 
+Specifically the associations between training patterns and injuries are 
+presented. Identifying the existence and nature of such associations will be of 
+assistance to triathletes who participate at a non-elite level in the preparation 
+of training programs that minimise the risk of injury. 
+Methods 
+A cross-sectional study was conducted with a random sample of 258 tri- 
+athletes, using a self-completed questionnaire. Triathletes were asked to report 
+on injuries which resulted in one or more of the following consequences: 
+• a reduction in the amount or level of sports activity; 
+• a need for medical advice or treatment; 
+• adverse social or economic effects; and 
+• a need to alter training to accommodate the injury. 
+A sample of 500 triathletes was randomly selected from the Triathlon 
+Association of Western Australia's members' marling list. The majority of adults 
+who compete in triathlons in Western Australia, Australia, are members of this 
+association, the only one in the State. The questionnaires were mailed to the 
+triathletes, and a small prize was offered as an incentive. A total of 276 quest- 
+ionnaires were completed (response rate = 55%). Of these, 258 were included in 
+the analyses, with 18 excluded because they were from subjects under the age 
+of 16 years. 
+Descriptive statistics are presented. Logistic regression analyses were con- 
+ducted with injury/no injury in last triathlon season as the dependent variable 
+and firstly with total hours trained and then with number of hours trained 
+weekly in the different disciplines as predictors. A number of possible con- 
+founders were assessed for inclusion in the two models. However only highest 
+level competed in triathlons was significant. The number of hours trained in 
+each discipline were categorised prior to inclusion to allow for non-linear 
+relationships between training patterns and injuries. 
+ReSUltS 
+The final sample (n=258) consisted of 74% males (n=190), aged between 16 and 
+63 years (mean=35 years). More than half (62%, n=161) of the triathletes 
+participated at a competitive versus a recreational level. However, when asked 
+about the highest level at which they had ever competed, only 28% had ever 
+competed at a national (16%, n=41) or international (12%, n=32) level, with 
+42% (n=108) competing locally and 30% (n=77) at a state level. 
+Forty-five percent (n=116) trained six days a week, 30% (n=76) five days and 
+16% (n=42) seven days per week. The median total number of hours that they 
+participated in triathlon training was 11 hrs per week, with the middle 50% of 
+triathletes training between eight and 15 hrs weekly. In terms of total 
+kllometres covered, the median was 168 km with 50% of triathletes doing 
+between 108 and 239 km per week. 
+Sixty-two percent (n= 160) of the sample sustained at least one injury in their 
+last triathlon season; 30% (n=77) sustained one injury, 22% (n=56) two injuries 
+447 
+
+Training patterns and sports injuries in triathletes 
+and 10% (n=27) three or more injuries. With regard to the most significant 
+injury sustained, the majority were related to the lower extremities (77%, 
+n= 127), of which the knee was the most frequently reported site of injury (32%, 
+n=41). 
+A statistical association was found between the total hours a triathlete 
+trained weekly and sustaining an injury, after controlling for level of triathlon 
+participation. Specifically when compared to triathletes who trained a total of 
+eight to l0 hrs per week, those triathletes who trained seven or fewer hrs (odds 
+ratio=2.24, 95% CI (1.03 ; 4.88 )) and those who trained for 15 hrs or more per 
+week (odds ratio=2.23, 95% CI (1.03 ; 4.81)) were more than twice as likely to 
+sustain an injury, whilst those who trained between 11 to 14 hrs (odds 
+ratio=l.46, 95% CI (0.74 ; 2.86)} were at a slightly higher (non-significant) risk 
+of injury. Thus, as illustrated in Figure 1, triathletes training the lowest and the 
+highest number of hours were more likely to sustain an injury. 
+The results of the logistic regression assessing the effect of hours trained in 
+each discipline per week on the risk of sustaining an injury are presented in 
+Table 1. The time spent cycling and time spent running were significantly 
+associated with sustaining an injury, but the number of hours spent on 
+swimming training was not. Triathletes who did cycling training between three 
+and four hrs and for seven or more hrs per week had more than 2.5 times 
+higher odds of sustaining an injury than those who cycled for five to six hrs. 
+Although the trend was not consistent, apart from the lowest category there is 
+some evidence of fewer injuries occurring in the intermediate training category 
+versus the categories at the ends of the scale. Similarly the odds of sustaining 
+an injury were double for triathletes who ran two or fewer hrs and those who 
+ran for five or more hrs per week when compared with those who ran for three 
+to four hrs in training. Two-way interactions between the disciplines were 
+assessed individually (to determine the effect of combinations of training) but 
+were non-significant. As expected triathletes who had competed at national or 
+higher levels were at an increased risk (twice as likely) of sustaining an injury. 
+100 
+80 
+Percentage of 60 
+injuries % 40 
+20 
+0 75 67.4 59.4 
+i i i 
+upto7 8to10 11to 14 15+ 
+Total hours trained per week 
+Figure 1: Association between sustaining an injury and total hours trained. 
+448 
+
+Training patterns and sports injuries in triathletes 
+variable Odds ratio* 95% confidence Wald Z 2 P value 
+interval 
+Highest level of participation 
+Local & State 1 
+National & International 2.03 (1.03 ; 3.98) 4.20 0.040 
+Cycling 
+0 to 2 hours 0.77 (0,31 ; 1.89) 0.33 0,567 
+3 to 4 hours 2.59 (1.22 ; 5.51) 6.13 0,013 
+5 to 6 hours 1 
+7+ hours 2.54 (1,18 ; 5,44) 5.72 0.017 
+Running 
+0 to 2 hours 2.10 (1.12 ; 3.96) 5.30 0,021 
+3 to 4 hours 1 
+5+ hours 2.15 (0.92 ; 5,01) 3.12 0.077 
+Swimming 
+0 to I hours 1,35 (0.57 ; 3.16) 0.47 0.494 
+2 to 3 hours 1 
+4+ hours 1.18 (0.64 ; 2.19) 0.28 0.598 
+* Odds of sustaining an injury vs not sustaining an injury. 
+Hosmer-Lemeshow chi-square=5.696, df=8, P value=0.681 
+Table 1: Logistic regression model: Association between sustaining an injury and hours trained per 
+discipline (n=258). 
+Discussion 
+Data from a total sample of 258 triathletes participating at a range of levels 
+were analysed for this study. As expected, associations were found between 
+levels of training and sustaining an injury. Specifically, the total number of 
+hours a triathlete cycled and ran per week had an influence. The results with 
+regard to running training are consistent with other studies that found the 
+running component of the triathlon was the major contributor to injury 1,3-5. 
+Interestingly, U-shaped associations were found for the above training 
+patterns and injury. Injuries were sustained more frequently for the lower and 
+higher hours spent training than for the middle categories. This U-shape 
+distribution of injury was also referred to in a cricket fast bowling workload and 
+injury study that suggested maintaining a workload that is too low or too high 
+significantly increases the bowler's risk of injury 6. Similarly, it appears that a 
+triathlete may be more likely to risk injury when training at low levels and at 
+high levels. It is plausible to suggest that the former may be due to lack of 
+conditioning, or poor training practices. The latter may be due in part to an 
+increased risk of injury due simply to greater participation. However, it is likely 
+to be in part the result of overuse and overtraining, which was a contributing 
+factor identified by the athletes in this study. 
+There were several limitations to this study. The sample was drawn from the 
+members of the WA Triathlon Association and thus excluded non-members. 
+Although the response rate of 55% is relatively high for a survey of this type, it 
+449 
+
+Training patterns and sports injuries in triathletes 
+is unclear whether or how it may have impacted on the estimated associations. 
+Injuries were self-reported and not confirmed by medical diagnosis. Some 
+accuracy may have also been compromised due to retrospectively recalling 
+training times. Due to the difficulties in separating the relative contribution of 
+training and external factors as causes of injuries, all injuries were included in 
+the analyses. 
+Conclusions 
+The findings of this study are that the triathlon participants who train for the 
+longest and the shortest periods of time tend to sustain injuries more often 
+than those who train the intermediate lengths of time. The results suggest that, 
+particularly for non-elite triathletes, the likelihood of sustaining an injury is 
+least when training for a total of eight to 10 hrs per week, and specifically when 
+cycling for five to six hrs and running for three to four hrs weekly. Time spent 
+on swimming training did not affect injury risk. 
+This research is seen as a contribution towards a better understanding of the 
+association between levels of training and sustaining an injury and will 
+therefore assist triathletes to plan training regimes aimed at reducing the risk 
+of injury. 
+References 
+l. Burns J, Keenan A, Redmond AC. Factors associated with triathlon-related overuse 
+injuries. J Orthop Sports Phys Ther 2003; 33: 177-184. 
+2. Collins K et al. Overuse injuries in triathletes. A study of the 1986 Seafair Triathlon. Am 
+J Sports Med 1989; 17, (5): 675-680. 
+3. Ireland ML, Micheli LJ. Triathletes: biographic data, training and injury patterns. Ann 
+Sports Med 1987; 3, (2): 117-120. 
+4. Korkia PK, "i~mstall-Pedoe DS, Maffulli N. An epidemiological investigation of training and 
+injury patterns in British triathletes. Br J Sports Med 1994; 28, (3): 191-196. 
+5. Williams MM et al. Injuries amongst competitive triathletes. New Zeal J Sports Med 1988; 
+March: 2-6. 
+6. Dennis R et al. Cricket fast bowling workload and injury study 2001-2002. 1st Asia-Pacific 
+Injury Prevention Conference and 6th National Conference on Injury Prevention and Control. 
+16-18 March 2003 Burswood International Convention Centre Perth, Western Australia. 
+450 
+View publication stats

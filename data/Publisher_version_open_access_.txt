@@ -1,0 +1,1787 @@
+Musculoskeletal Science and Practice 71 (2024) 102926
+Available online 15 March 2024
+2468-7812/© 2024 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-
+nc-nd/4.0/ ).Review article 
+Swimming for low back pain: A scoping review 
+Deborah M. Warehama,*, Joel T. Fullera, Tayla J. Douglasa, Christopher S. Hanb, Mark 
+J. Hancocka 
+aFaculty of Medicine, Health and Human Sciences, Macquarie University, Macquarie Park 2109, NSW, Australia 
+bInstitute for Musculoskeletal Health, The University of Sydney and Sydney Local Health District, Sydney, Australia   
+ARTICLE INFO  
+Keywords: 
+Back pain 
+Rehabilitation 
+Aquatic exercise 
+Prevention 
+Therapeutic exercise ABSTRACT  
+Background: Guidelines recommend exercise for treatment of chronic low back pain and prevention, but the 
+amount and quality of evidence for different exercise modes is highly variable. Swimming is commonly rec-
+ommended by health professionals, but the extent and quality of research supporting its relationship with back 
+pain is not clear. 
+Objectives: The aim of this scoping review was to map the extent, characteristics and findings of research 
+investigating the relationship between swimming and low back pain. 
+Design: Scoping review. 
+Method: Four electronic databases (MEDLINE, EMBASE, CINAHL, and SPORT Discus) were searched from 
+inception to February 2023. We included primary studies and reviews that reported an association between 
+swimming and low back pain. Hydrotherapy studies were excluded. 
+Results: 3093 articles were identified, and 44 studies included. Only one randomised controlled trial and one 
+longitudinal cohort study were included. Most studies were cross-sectional (37/44; 84.1%), included competitive 
+athletes (23/39; 59.0%), and did not primarily focus on the association between swimming and low back pain in 
+the aims (41/44; 93.2%). Instead, most data available were largely incidentally collected or a secondary 
+outcome. The reported associations between swimming and low back pain were highly variable regardless of 
+whether the comparison was to other sports (odds ratio: 0.17 to 17.92) or no sport (odds ratio: 0.54 to 3.01). 
+Conclusion: Most available literature investigating swimming and low back pain is cross-sectional in design. We 
+did not identify any clear pattern of association between swimming and low back pain, based on the available 
+literature.   
+1.Introduction 
+Low back pain (LBP) is the most common non-communicable disease 
+and the leading cause of disability globally (Hartvigsen et al., 2018 ). 
+Estimates of the lifetime prevalence of LBP in the general and athletic 
+populations are up to 84% and 94%, respectively (Hoy et al., 2012 ; 
+Trompeter et al., 2017 ). Recurrence of LBP is common with 70% of these 
+people experiencing a recurrence within the following 12 months of 
+recovering from an episode (da Silva et al., 2019 ). Chronic LBP is the 
+primary cause of healthcare costs and lost working hours (Foster et al., 
+2018 ; Buchbinder et al., 2018 ). Current guidelines recommend exercise 
+as one of the most effective treatments for chronic LBP and for pre-
+venting recurrences (Foster et al., 2018 ; Chou et al., 2007 ). But, the 
+amount and quality of evidence for different exercise modes is highly variable (Hayden et al., 2021 ). 
+Swimming appears to be a suitable exercise for LBP, being one of the 
+most common forms of exercise, relatively low cost, and easily acces -
+sible. It is also a credible method to improve strength and range of 
+motion, while producing low axial loads on the spine (Chase et al., 
+2008 ). Considering this, it is unsurprising that anecdotally some health 
+professionals recommend swimming for patients with LBP (Zandwijk 
+et al., 2018 ). However, there is limited research available on the effec-
+tiveness of swimming for LBP. A 2022 systematic review of randomised 
+controlled trials (RCTs) investigating the effectiveness of walking, 
+swimming or cycling for LBP found only one small trial that assessed the 
+effectiveness of swimming as treatment and no trials investigated pre-
+vention (Pocovi et al., 2022 ). There is a need to review a wider range of 
+research designs, beyond RCTs, to provide insight on the association 
+*Corresponding author. 
+E-mail addresses: Deborah.wareham@hdr.mq.edu.au (D.M. Wareham), joel.fuller@mq.edu.au (J.T. Fuller), tayla.douglas@students.mq.edu.au (T.J. Douglas), 
+christopher.han@sydney.edu.au (C.S. Han), mark.hancock@mq.edu.au (M.J. Hancock).  
+Contents lists available at ScienceDirect 
+Musculoskeletal Science and Practice 
+u{�~zkw! s{yo|kro>! ÐÐÐ1ow�o �to~1m{y2w{m k�o2y�v�|!
+https://doi.org/10.1016/j.msksp.2024.102926 
+Received 28 November 2023; Received in revised form 1 February 2024; Accepted 7 March 2024   
+Musculoskeletal Science and Practice 71 (2024) 102926
+2between swimming and LBP. 
+A few previous systematic reviews briefly comment on the associa -
+tion between swimming and LBP, but none had a focus on this topic. 
+They included designs other than RCTs, but none summarized the as-
+sociation between swimming and LBP (e.g. odds ratios) or the key design 
+elements of the included studies (Farahbakhsh et al., 2018 ; Gaunt and 
+Maffulli, 2012 ; Hill et al., 2022 ; Ribaud et al., 2013 ). Therefore, the 
+extent of research investigating the association between swimming and 
+LBP, including what study designs, populations, controls and outcome 
+measures are used, has not yet been thoroughly reviewed. This infor-
+mation can optimise clinicians understanding of the relationship be-
+tween swimming and LBP, and inform future research efforts in this 
+area, which is important given the investigation of swimming as a 
+treatment or prevention strategy for LBP is in its infancy. 
+Scoping reviews use an explorative approach to synthesize research 
+evidence to map the nature, volume and trends of the existing literature 
+(Peters et al., 2015 ; Levac et al., 2010 ; Arksey and O’Malley, 2005 ). 
+Given the potential benefit of swimming on improving pain and func-
+tion, the wide use of exercise for the prevention and treatment of LBP, 
+anecdotal evidence for an already existing culture of health pro-
+fessionals recommending swimming for LBP, and the lack of existing 
+reviews focusing on the topic, there is a clear need for a scoping review 
+this topic. 
+The primary aim of this scoping review was to map the extent and 
+characteristics of research investigating the relationship between 
+swimming and low back pain. We also aimed to summarize the reported 
+relationships between swimming and LBP and identify research gaps 
+and key research priorities. 
+2.Materials and methods 
+This scoping review was guided by the methodological framework 
+developed by Arksey and O’Malley (2005) and the adaptations recom -
+mended by Levac et al. (2010) and the Joanna Briggs Institute (Peters 
+et al., 2015 ). The review adheres to the Preferred Reporting Items for 
+Systematic Reviews and Meta-Analyses extension for Scoping Reviews 
+(PRISMA-ScR) Checklist (Tricco et al., 2018 ). The review protocol was 
+prospectively registered on Open Science Framework: https://doi.org/ 
+10.17605/OSF.IO/USWEA . 
+2.1. Data sources and searches 
+MEDLINE, EMBASE, CINAHL, and SPORT Discus were searched from 
+inception to the February 22, 2023. The complete search strategy is 
+included in Appendix A. Forward and backward citation searching were 
+completed to identify additional studies that may have not been detec -
+ted by the primary searches. 
+We included studies that reported a quantitative measure of the 
+effectiveness of swimming for treatment or prevention of LBP, or the 
+association between swimming and LBP (e.g., mean difference, odds 
+ratio [OR], risk ratio), or data enabling this to be calculated. Studies 
+were required to include human participants, of any age with or without 
+existing LBP. Studies were required to include groups of participants 
+that were exposed to swimming or received a swimming intervention as 
+a primary component (i.e more than 50% of the exercise); a comparison 
+group that was not exposed to swimming or were exposed to an alter-
+native swimming intervention (e.g., different volumes or different 
+strokes); and report on a LBP related outcome including pain prevalence, 
+pain intensity, physical functioning or disability, work productivity, or 
+lumbar spine pathology (e.g., imaging measures of disc degeneration). 
+Swimming was defined as actively propelling the body through the 
+water. All strokes of swimming were considered. 
+All articles included were full-length, peer-reviewed papers, and 
+published in any language, as long as English translation was available. 
+Study designs included primary research studies (e.g., cross-sectional, 
+longitudinal and RCTs), reviews and meta-analyses. We excluded case studies, opinion pieces, qualitative studies and 
+guidelines. We also excluded studies investigating general water activ-
+ity, including hydrotherapy, water running and aqua aerobics. 
+2.2. Study selection 
+A pool of five researchers contributed to the study selection process. 
+Two researchers independently reviewed the titles and abstracts of the 
+identified studies. Full texts were then obtained for all potentially 
+included studies and independently assessed against the eligibility 
+criteria. Any discrepancies were settled by discussion between the two 
+involved reviewers or discussed amongst the entire research team if a 
+consensus was not reached by the initial two researchers. Non-English 
+texts were translated using Google Translate before undergoing review. 
+2.3. Data extraction 
+Our data extraction form was modelled on the Joanna Briggs Insti-
+tute recommendations for scoping reviews (Peters et al., 2015 ). One 
+researcher completed the initial data extraction for each included study. 
+A second researcher independently checked these data to ensure accu-
+racy. Any discrepancies were resolved through discussion between re-
+searchers. We completed regular meetings to discuss and agree upon 
+iterative updates to the data extraction form based on pilot testing. 
+We extracted data on study characteristics (author, publication year, 
+study design), population characteristics (age, sex, current LBP or no 
+pain, competitive or non-competitive swimmer), swimming exposure 
+(frequency, distance, swim stroke; defined as adequate and inadequate if 
+duration of swimming was specified or not), pool setting (indoor or 
+outdoor swimming, pool temperature, supervision levels), comparator 
+or control type, back pain related outcome measures and results of 
+relevant statistical analysis of association. The study design was deter -
+mined based on the nature of the study results related to our research 
+question. For example, if a longitudinal study only reported an associ -
+ation between swimming and LBP at baseline it was categorised as cross- 
+sectional. Populations were determined to be competitive swimmers 
+(specified as an athlete or competing in any level of competition) or non- 
+competitive swimmers. 
+If sufficient raw data were available, we extracted 2 ×2 data 
+enabling us to calculate OR. If raw data were not available, we extracted 
+the least adjusted results (ORs if available) to maximise the extent to 
+which they could be compared with manually calculated ORs from other 
+studies. 
+2.4. Data synthesis and analysis 
+Results were summarized descriptively and presented in tables and 
+figures. Tables summarized all studies presenting quantitative compar -
+isons between swimming and comparisons. Agreement between authors 
+for study selection was calculated using MedCalc inter-rater agreement 
+(MedCalc Software, Ostend, Belgium) (Inter-rater Agreement, 2024 ). 
+The associations between swimming and LBP were reported separately 
+based on study design (RCTs, longitudinal studies and cross-sectional 
+studies) and for competitive and non-competitive populations. 
+ORs with 95% confidence intervals (CI) and p-values were calculated 
+using an online statistical calculator (Select Statistical Services) (Odds 
+Ratio – Confidence Interval, 2023 ) for studies that reported raw 2 ×2 
+data. Modified Haldane-Anscombe corrections (adding 1/2 to all cells) 
+were made for any studies where a zero score was present in the 2 ×2 
+data. Effect size precision and level of certainty were based on assessing 
+the 95% CI width. Thresholds for increased OR were considered small 
+(1.68 –3.47), medium (3.47 –6.71) and large (F6.71) and decreased ORs 
+were considered small (0.59 –0.29), medium (0.29 –0.15) and large 
+(D0.15). (Chen et al., 2010 ). 
+Mean differences were calculated using raw mean ±standard devi-
+ation scores, using Comprehensive Meta-Analysis Software, Version 4 D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+3(Biostat Inc, Englewood, NJ) (Comprehensive Meta-Analysis, 2022 ). 
+Results were presented as mean difference between swimming and a 
+comparator with 95% confidence intervals. Data were coded and re-
+ported so that positive mean differences indicated better outcomes in 
+swimmers compared to the comparison group. 
+2.5. Patient and public involvement 
+Physiotherapists, researchers, and consumers with LBP were 
+involved in the final interpretation and dissemination of results. These 
+individuals were identified through our research team ’s contact 
+network. We provided a draft manuscript and asked for input on what they felt was most helpful to their understanding of the topic, what as-
+pects could be improved to enhance clarity and relevance, and any other 
+suggestions. We offered the option of providing feedback via an online 
+meeting or in written form. All consumers chose a written format. Based 
+on feedback, minor adjustments were made to the manuscript to 
+improve clarity. All feedback supported the importance of investigating 
+the association between swimming and LBP, considering that it is an 
+already widely used and recommended mode of exercise. 
+Fig. 1.Flow diagram of included studies.  D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+43.Results 
+3.1. Search results 
+A total of 3093 studies were identified via the electronic search. 44 
+studies met all inclusion criteria and were included (Fig. 1). A detailed 
+summary of each individual study is available in Appendix B. There was 
+a substantial level of agreement between two independent raters when 
+screening full texts (Kappa [95% CI] 0.66 [0.53 to 0.80]) (Landis and 
+Koch, 1977 ). One study appeared to meet our inclusion criteria based on 
+the abstract, but despite multiple attempts to contact the author, 
+collaboration with academic librarians and consultation with a database 
+of the local district, the full text was unable to be retrieved and no data 
+was extracted or included in our results (Torii, 2005 ). 
+3.2. Description of all studies 
+Table 1 demonstrates the number and percentage of studies for all study designs, as well as the number and percentage of primary studies 
+for descriptions of participants, swimming exposure, comparison group 
+and LBP outcome measure. Research was conducted across 17 different 
+countries, with a progressive increase in the number of published studies 
+over time. 
+3.2.1. Study design 
+Most included studies were cross-sectional study designs (37/44; 
+84.1%). Only one RCT and one longitudinal cohort study were included 
+(Weifen et al., 2013 ; Mueller et al., 2016 ). We also identified 5 sys-
+tematic reviews (Pocovi et al., 2022 ; Farahbakhsh et al., 2018 ; Gaunt 
+and Maffulli, 2012 ; Hill et al., 2022 ; Ribaud et al., 2013 ). Of these, one 
+included RCTs only (reporting on the same single RCT we identified ), 
+(Pocovi et al., 2022 ) and one included cross-sectional studies only, 
+(Farahbakhsh et al., 2018 ) and three included all types of primary 
+studies (Gaunt and Maffulli, 2012 ; Hill et al., 2022 ; Ribaud et al., 2013 ). 
+Primary studies and reviews rarely focused on the relationship be-
+tween swimming and LBP as the primary aim of the study. Only three 
+studies aims explicitly included “swimming ” and a variation of “LBP” in 
+their aims (6.8%) (Pocovi et al., 2022 ; Folkvardsen et al., 2016 ; Mutoh, 
+1977 ). In comparison, the aims of thirteen studies did not include 
+“swimming ” or any variations of “LBP” (29.5%), (Ariyoshi et al., 1999 ; 
+Hangai et al., 2009 ; Iwamoto et al., 2008 .; Mundt et al., 1993 ; Owen 
+et al., 2020 ; Øyen et al., 2009 ; Ristolainen et al., 2010 ; Ruddick et al., 
+2019 ; Sheehy et al., 2022 ; Suri et al., 2015 ; Takatalo et al., 2017 ; 
+Trompeter et al., 2018 ; Bartolozzi et al., 1991 ) ten studies included 
+“swimming ” but not any variations of “LBP” (22.7%), (Gaunt and Maf-
+fulli, 2012 ; Hill et al., 2022 ; Capaci et al., 2002 ; Gębska et al., 2016 ; 
+Kaneoka et al., 2007 ; Martins et al., 2014 ; Matsuura et al., 2019 ; Mohsen 
+et al., 2012 ; Zaina et al., 2015 ; Knobloch et al., 2008 ) and eighteen 
+studies included a variation of “LBP” but not “swimming ” in the aims 
+(40.9%) (Farahbakhsh et al., 2018 ; Ribaud et al., 2013 ; Weifen et al., 
+2013 ; Mueller et al., 2016 ; Auvinen et al., 2008 ; Goldstein et al., 1991 ; 
+Harreby et al., 1997 ; Muller et al., 2017 ;Kaartinen et al., 2020 ; Kovacs 
+et al., 2003 ; Masiero et al., 2008 ; Mogensen et al., 2007 ; Noormo -
+hammadpour et al., 2016 ; Sjolie, 2004 ; Skoffer et al., 2008 ; Sundell 
+et al., 2019 ; Sato et al., 2011 ; Lively, 2002 ). Most data we included was 
+secondary or incidental data relevant to our research question (Avail -
+able in Appendix B). 
+3.3. Description of primary studies 
+3.3.1. Participants 
+Over half of the included primary studies reported on competitive 
+swimmers (23/39; 58.9%). Definitions of competitive swimmers varied 
+greatly between studies, ranging from membership in a swimming club 
+to competing in the 2016 Rio Olympics. However, studies reporting on 
+non-competitive swimmers had considerably larger sample sizes, total-
+ling 82.9% of the total participants in primary studies (60,027/72,406). 
+Half of the included primary studies described young adults (aged 
+18–29 years) as the primary age group (20/39; 51.3%). But across all 
+studies, adolescents (aged 12–17 years) had a larger sample size, total-
+ling 62.7% of all participants in primary studies (45,446/72,406). In 
+comparison, only five studies assessed an adult population (aged 30–59 
+years) as the primary age group (5/39; 12.8%) with a total of 14,134 
+participants (19.5%). No studies described children (aged under 12 
+years) or older adults (aged 60 years and over) as the primary age group. 
+3.3.2. Swimming exposure 
+Reports of the amount of exposure to swimming were mostly inad-
+equate. Only fourteen studies reported the duration of swimming 
+exposure of participants (36.0%) and only five studies reported the swim 
+stroke used by participants (12.8%). No studies reported on the pool 
+setting, level of supervision or swimming intensity. Table 1 
+Components of included studies.   
+Studies (n. of 
+participants) 
+All included studies 
+Study design  
+Systematic reviews 5 
+Randomised controlled trials 1 
+Cohort study 1 
+Cross-sectional 37 
+Primary studies  
+Mean age  
+Children: under 12 0 (0) 
+Adolescent: 12–17 years 14 (45,446) 
+Young adult: 18–29 years 20 (12,826) 
+Adult: 30-59 5 (14,134) 
+Older adults: 60 and over 0 (0) 
+Sex  
+Male only 3 (157) 
+Female only 3 (1297) 
+Male and female 30 (66,909) 
+Not specified 3 (4043) 
+Swimming level  
+Competitive swimming 23 (12,089) 
+Non-competitive 14 (60,027) 
+Mix of competitive and non-competitive 2 (290) 
+Swimming exposure reported  
+Adequate exposure reported: Duration of session (per 
+session, week or year) 14 (38,298) 
+Inadequate exposure reported: frequency of swimming 
+sessions OR years of exposure to swimming 9 (15,586) 
+Exposure not reported 16 (18,522) 
+Specified swimming stroke  
+All common strokes: freestyle, breaststroke, backstroke, and 
+butterfly 3 (822) 
+Only freestyle and butterfly 2 (142) 
+Swimming stroke not specified 34 (71,442) 
+Outcome measure reported  
+LBP prevalence 23 (65,480) 
+Imaging: disc degeneration, disc bulge, zygapophyseal 
+arthritis, or spondylolysis 6 (1303) 
+Both LBP prevalence and imaging 6 (4455) 
+Stress fracture 2 (367) 
+Changes in LBP: improvement, aggravates, no change 1 (481) 
+Pain rating: VAS 0–100 point 1 (320) 
+Comparisons to swimming  
+No sports only 2 (525) 
+Other sports only 17 (18,565) 
+Both no sports and other sports 6 (30,833) 
+Different swimming volume 3 (7962) 
+Different swimming strokes 5 (964) 
+Recreational swimminga 1 (94) 
+No swimming/unable to determine 5 (13,463) 
+LBP low back pain, VAS visual analogue scale. 
+aCompared to competitive swimming. D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+53.3.3. Comparison 
+Swimming was most frequently compared to other sports (23/39; 
+59.0%). Comparison sports ranged from a single sport to over twenty 
+different comparison sports combined, with no consistent comparison 
+sport used throughout studies. Few studies contained a no-exercise 
+comparison (8/39; 20.5%). In five studies the comparison was unclear 
+(12.8%). 
+3.3.4. LBP outcome measures 
+LBP was measured using a wide range of clinician-reported and self- 
+report outcome measures and imaging findings (Table 1). Most studies 
+reported on LBP prevalence outcomes, reported as count and percentage 
+(29/39; 74.4%). Of the studies reporting low back prevalence, most did 
+not define LBP (19/29; 65.5%), and of those that did, only two specified 
+the location of pain (between the last rib and lower gluteal fold) 
+(Noormohammadpour et al., 2016 ; Sjolie, 2004 ). The time periods used 
+to determine the prevalence of LBP also varied widely from point 
+prevalence to lifetime prevalence. Imaging outcomes were reported in 
+twelve studies (31.0%), most commonly reporting on the presence of 
+disc degeneration and spondylosis. Only the single RCT assessed pain 
+intensity using the Visual Analogue Scale as an outcome measure 
+(Weifen et al., 2013 ). 
+3.4. Effectiveness of swimming for LBP 
+3.4.1. RCTs 
+One RCT (n 320) that investigated the effectiveness of Tai Chi for 
+the treatment of LBP provided data on the effect of swimming, which 
+was one of 4 control groups (swimming n 38) (Weifen et al., 2013 ). 
+The other comparison groups were no regular sports, jogging and 
+backwards walking (combined n 141). Participants were retired ath-
+letes with an average age of 38 years. Pain intensity was reported in 
+terms of Visual Analogue Scale (VAS, 0–100). Participants were retired 
+athletes with an average age of 38 years. Swimming demonstrated a 
+reduction of pain compared to no regular sport, jogging and backwards 
+walking at 3 months (VAS [95% CI] 8.0 [6.3 to 9.7], 5.7 [4.1 to 7.3], and 
+4.9 [3.3 to 6.5], respectively) and 6 months follow up (VAS [95% CI] 8.1 
+[6.6 to 9.6], 6.3 [4.9 to 7.7], and 4.9 [3.5 to 6.3], respectively). There 
+was no significant difference in pain outcomes between swimming and 
+Tai Chi at 3 months (VAS [95% CI]  1.0 [ 2.2 to 0.2]) and Tai Chi was 
+superior to swimming at 6 months (VAS [95% CI]  1.8 [ 2.7 to  0.9]). 
+3.4.2. Longitudinal observational study 
+One longitudinal study suggested that 2 years of swimming may 
+reduce the risk of reporting LBP in the previous 7 days amongst an 
+adolescent population at a sports high school (OR [95% CI]: 0.55 [0.07 
+to 4.29]); however, estimates are very imprecise based on the wide 
+confidence intervals which extend into beneficial and detrimental effect 
+estimate ranges (Mueller et al., 2016 ). 
+3.5. Associations between swimming and LBP 
+3.5.1. Cross-sectional studies 
+Of the total 37 cross-sectional studies, 24 compared swimming to 
+other sports or no sports (7 reporting non-competitive populations and 
+17 reporting competitive populations) (Farahbakhsh et al., 2018 ; Folk-
+vardsen et al., 2016 ; Hangai et al., 2009 ; Iwamoto et al., 2008 Owen 
+et al., 2020 ; Ristolainen et al., 2010 ; Ruddick et al., 2019 ; Sheehy et al., 
+2022: Trompeter et al., 2018 ; Bartolozzi et al., 1991 ; Gębska et al., 2016 ; 
+Zaina et al., 2015; Knobloch et al., 2008 ; Goldstein et al., 1991 ; Harreby 
+et al., 1997 ; Masiero et al., 2008 ; Mogensen et al., 2007 ; Noormo -
+hammadpour et al., 2016 ; Skoffer et al., 2008 ; Sundell et al., 2019 ; Sato 
+et al., 2011 ; Lively, 2002 ; Muller et al., 2017 ; Abdalkader et al., 2020 ). 
+Of the studies comparing other sports or no sports, 23 studies provided 
+data enabling us to calculate ORs or directly reported ORs we could use 
+(Fig. 2) (Farahbakhsh et al., 2018 ;Folkvardsen et al., 2016 ; Hangai et al., 2009 ; Iwamoto et al., 2008 Owen et al., 2020 ; Ristolainen et al., 2010 ; 
+Sheehy et al., 2022; Trompeter et al., 2018 ; Bartolozzi et al., 1991 ; 
+Gębska et al., 2016 ; Goldstein et al., 1991 ;Zaina et al., 2015 ;Knobloch 
+et al., 2008 Noormohammadpour et al., 2016 ;Harreby et al., 1997 ; 
+Masiero et al., 2008 ; Lively, 2002 ; Skoffer et al., 2008 ; Sato et al., 2011 ; 
+Sundell et al., 2019 ;Muller et al., 2017 ;Mogensen et al., 2007 ; Abdal -
+kader et al., 2020 ). Compared to other sports and no sports, both 
+competitive and non-competitive swimming populations demonstrated 
+a mix of increased and decreased risk of LBP across different studies. 
+Point estimates of ORs spread over a wide range of positive and negative 
+associations (from 0.20 to 17.92), but most point estimates reported 
+suggested small associations or less (ORs from 0.53 to 2.11) with larger 
+studies only reporting less than small associations (ORs from 0.64 to 
+1.40). Most confidence intervals were wide and included both positive 
+and negative association values that were of potentially important 
+magnitude. 
+Six cross-sectional studies reported on the difference between com-
+mon swimming strokes (freestyle, breaststroke, backstroke, and butter -
+fly) (Mutoh, 1977 ; Capaci et al., 2002 ; Martins et al., 2014 ; Matsuura 
+et al., 2019 ; Mohsen et al., 2012 ; Knobloch et al., 2008 ). When 
+compared to other strokes, point estimates of ORs suggest that freestyle 
+may be associated with less LBP (range from 0.04 to 0.74 across studies), 
+while breaststroke may be associated with more LBP (range from 1.11 to 
+1.37 across studies). Both backstroke and butterfly demonstrated a mix 
+of positive and negative associations, according to point estimates. 
+However, for all swimming strokes nearly all confidence intervals were 
+wide and included both positive and negative associations that were of 
+potentially important magnitude (Appendix C). 
+4.Discussion 
+We found a lack of high-level evidence investigating swimming as a 
+treatment or prevention strategy for LBP. There is only one published 
+RCT investigating swimming for LBP, and in this trial, swimming was 
+used as one of four small comparison groups for Tai Chi, which was the 
+primary intervention being investigated. In contrast, we identified a 
+large number of cross-sectional studies that reported some data on 
+swimming and LBP, usually as part of broader research related to 
+physical activity and health. The lack of primary focus on the association 
+of swimming and LBP in these studies resulted in poorly defined 
+swimming exposure data and LBP outcomes. So while we could extract 
+measures of association, caution is required when interpreting them. 
+Most cross-sectional studies included young adult populations or 
+competitive swimmers. Very few studies provided data on comparisons 
+of swimming to no exposure group (i.e., no physical activity or no sport) 
+and most provided data on comparison to multiple other sports. We did 
+not find any clear pattern of association between swimming and LBP 
+across the included studies. 
+This is the first review to focus on synthesizing all available evidence 
+on the association between swimming and LBP. We found four system -
+atic reviews that incidentally reported on the association between 
+swimming and LBP, with two reviews focused on swimming injuries 
+(Gaunt and Maffulli, 2012 ; Hill et al., 2022 ) and two focused on LBP in 
+sports (Farahbakhsh et al., 2018 ; Ribaud et al., 2013 ). Summaries of the 
+relationship between swimming and LBP were consistently brief and 
+reported on between three to eight studies per review. In contrast, our 
+review had a search strategy that was optimised for investigating the 
+association between swimming and LBP and identified 44 studies (F5 
+times any of the previous reviews). As a result, our review provides a 
+more expansive overview of the evidence reporting the effect and as-
+sociation between swimming and LBP. This wider understanding allows 
+for a more complete summary and more specific recommendations for 
+future research. 
+Our study demonstrates that most research related to LBP and 
+swimming includes specific populations that may not generalise to many 
+people who experience back pain. Over half of the included studies D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+6
+Fig. 2.Scatter plot of odds ratios for low back pain (LBP) prevalence and imaging in cross-sectional studies of (a) swimming compared to no sport control and (b) 
+swimming compared to other sports. Inverse variance increases with larger sample sizes and reduces with smaller sample sizes. Datapoints represent each reported 
+LBP outcome, such that several data points may arise from one study (e.g. four studies report both point and lifetime prevalence of LBP). White-filled points indicate 
+an imaging outcome. Errors bars represent the 95% confidence intervals. D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+7focused on populations of competitive swimmers. Athletic populations 
+are known to have a unique profile of LBP and to report a higher 
+prevalence of LBP compared to the general population (Wilson et al., 
+2021; Heneweer et al., 2009). Athletic populations are also most 
+commonly young adults (Allen and Hopkins, 2015). As a result, our 
+findings are best generalised to athletic populations who are an impor -
+tant subgroup of LBP patients. However, common risk factors for 
+disabling LBP (e.g., older age, high BMI and smoking) are rarely seen in 
+athletic populations and a primary concern in research and policy is the 
+rising levels of disability associated with LBP (Heneweer et al., 2009; 
+Ferreira et al., 2023). Our study highlights the need for future research 
+to investigate the relationship between swimming and LBP in pop-
+ulations with risk factors (other than athletes) who likely contribute 
+most to the huge societal burden associated with LBP. 
+Our review demonstrates that current studies only allow for limited 
+evidence appraisal and synthesis, secondary to insufficient descriptions 
+of swimming dosage, unclear definitions of LBP and using a limited 
+number of LBP outcomes. Key descriptions of swimming such as dura-
+tion and swim stroke were infrequently included in most studies, while 
+intensity and supervision levels were absent. These descriptions are 
+more sparse than the average descriptions seen in exercise prescription 
+studies, which are already noted to be insufficient for evidence synthesis 
+and application to clinical practice (Hansford et al., 2022; Davidson 
+et al., 2021). Furthermore, half of the included studies only reported on 
+the prevalence of LBP as the LBP outcome, whereas most studies did not 
+define how LBP was categorised. Exploring the association and effect of 
+swimming on a wider range of important LBP-related outcomes is 
+warranted. LBP is considered to be a complex multi-faceted disease, 
+where it is important to measure a range of outcomes relating to 
+disability, pain, psychological factors and healthcare costs (Hartvigsen 
+et al., 2018). Consensus documents highlight the core LBP outcomes to 
+include back-specific function, generic health status, pain, work 
+disability, and patient satisfaction (Bombardier, 2000). The limitations 
+in the reporting of swimming dosage, definition of LBP and outcomes 
+used in the included studies are likely a result of most studies not 
+focusing on the association between swimming and LBP as the primary 
+objective. 
+Although guidelines recommend exercise to treat and prevent LBP, 
+(Foster et al., 2018) our study findings are unable to support or refute 
+these recommendations for swimming specifically. There is only a single 
+trial that assesses the effect, (Weifen et al., 2013) and no trials that assess 
+swimming as a prevention strategy for LBP. The potential association 
+between swimming and LBP is also unclear as the included 
+cross-sectional studies contain significant limitations. Clinical hetero -
+geneity is seen in the wide range of populations, comparisons, outcome 
+measures and exposures to swimming. Only 18% of studies compared 
+swimming to a no-exposure group, which would be ideal before 
+comparing swimming to other sports or physical activities. Statistical 
+heterogeneity is evidenced by the mix of positive and negative associ -
+ations, many reported with great uncertainty (wide confidence in-
+tervals). Our review highlights the urgent need for future research that 
+explores the association or effect of swimming for LBP, especially given 
+the apparent popularity of swimming amongst health professionals and 
+patients and the potential benefits (Chase et al., 2008). Furthermore, 
+future research may be warranted to investigate why there is a notice -
+able lack of evidence addressing swimming and LBP, especially in light 
+of widespread recommendations for exercise in managing LBP and the 
+common use of swimming. 
+4.1. Limitations 
+We did not assess the quality of the included studies, as a formal 
+assessment of quality is outside the scope of scoping reviews (Peters 
+et al., 2015; Levac et al., 2010; Arksey and O’Malley, 2005). There is likely a mix of study quality across those included in this review, which 
+has not been accounted for when reporting our review findings. Almost 
+all included studies used a cross-sectional study design and our data 
+extraction from these studies was often limited by unclear reporting of 
+exposures and outcome measures. These study reporting issues likely 
+reduce the quality of evidence available on the association between 
+swimming and LBP. We also recognize the limitation of using Google 
+Translate to aid data extraction from non-English texts. The use of 
+Google Translate is recommended as a method to avoid bias that may 
+result from only including English texts, however, it is recognized that 
+this may not be as accurate as translation from a native speaker (Jackson 
+et al., 2019). Additionally, only two studies required translation so this 
+was unlikely to influence the overall review findings. 
+4.2. Conclusion 
+Our findings demonstrate the lack of RCTs investigating the effect of 
+swimming on LBP but a relatively large number of cross-sectional 
+studies with data on the association between swimming and LBP. Most 
+current research reports on LBP prevalence, in populations of young 
+adults or competitive swimmers, based on studies designed primarily for 
+other purposes. It is not currently possible to draw any confident con-
+clusions on the effectiveness of swimming as an intervention for LBP or 
+the broad association between swimming and LBP. 
+Funding information 
+No external funding was received for this article. D.W. is a holder of a 
+Research Excellence Scholarship from Macquarie University. 
+Ethics committee 
+Ethics review was not required for this study type. 
+Data availability 
+The data that supports the primary conclusions in this study are 
+available in the tables, figures and supplementary material of this 
+article. Further data regarding swimming exposure or raw data of as-
+sociations are available from the corresponding author upon reasonable 
+request. 
+CRediT authorship contribution statement 
+Deborah M. Wareham: Conceptualization, Data curation, Formal 
+analysis, Project administration, Writing – original draft, Writing – re-
+view & editing. Joel T. Fuller: Conceptualization, Formal analysis, 
+Investigation, Methodology, Supervision, Validation, Writing – review & 
+editing, Visualization. Tayla J. Douglas: Data curation, Investigation, 
+Writing – review & editing. Christopher S. Han: Data curation, Inves -
+tigation, Writing – review & editing. Mark J. Hancock: Conceptuali -
+zation, Data curation, Formal analysis, Investigation, Methodology, 
+Supervision, Validation, Writing – review & editing. 
+Declaration of competing interest 
+None. 
+Acknowledgements 
+The authors would like to thank all consumers (Karen Collinson and 
+Kerry Mace) and physiotherapists (Melinda Martin, Philip Arndt, 
+Bridget Dean and Alex Bloomfield) who provided feedback on this 
+manuscript.  D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+8Appendix A.Search strategies completed February 22, 2023  
+Set 
+#  Results  
+MEDLINE  
+1 Lumbar Vertebrae/or Coccyx/or exp Intervertebral Disc/or Sacrum/or Vertebral Body/or exp Back/ 97546 
+2 exp Spinal Diseases/ 138910 
+3 exp Back Muscles/ 3945 
+4 exp Back Pain/ 44293 
+5 exp Sciatic Neuropathy/ 7490 
+6 exp Back Injuries/ 27560 
+7 spinal fusion/or exp diskectomy/or laminectomy/ 43381 
+8 (low back pain or back pain or lumbar vertebrae or dorsalgia or backache or coccyx or coccydynia or sciatica or spondylosis or lumbago or back disorder*).mp. 135593 
+9 ((dis* adj degeneration) or (dis* adj prolapse) or (dis* adj herniation) or (failed adj back) or (facet adj joints) or (lumbar adj joints)).mp. 23778 
+10 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 290767 
+11 swim*.mp. [mp title, book title, abstract, original title, name of substance word, subject heading word, floating sub-heading word, keyword heading word, 
+organism supplementary concept word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms, 
+population supplementary concept word, anatomy supplementary concept word] 51941 
+12 exp Swimming/ 26822 
+13 (freestyle or backstroke or breaststroke or forward crawl or butterfly stroke).mp. 1902 
+14 11 or 12 or 13 60029 
+15 Animals/not (animals/and humans/) 5062487 
+16 10 and 14 466 
+17 16 not 15 402 
+EMBASE 
+1 exp backache/ 132764 
+2 exp ischialgia/or exp piriformis syndrome/or exp sciatica/ 7726 
+3 exp spine disease/ 287540 
+4 dorsalgia.mp. [mp title, abstract, heading word, drug trade name, original title, device manufacturer, drug manufacturer, device trade name, keyword 
+heading word, floating subheading word, candidate term word] 212 
+5 back pain.mp. [mp title, abstract, heading word, drug trade name, original title, device manufacturer, drug manufacturer, device trade name, keyword 
+heading word, floating subheading word, candidate term word] 111249 
+6 (lumbar adj pain).mp. [mp title, abstract, heading word, drug trade name, original title, device manufacturer, drug manufacturer, device trade name, 
+keyword heading word, floating subheading word, candidate term word] 2807 
+7 coccyx.mp. 1603 
+8 coccydynia.mp. 277 
+9 sciatica.mp. 6644 
+10 spondylosis.mp. 10650 
+11 lumbago.mp. 1851 
+12 back disorder$.ti,ab. 757 
+13 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 10 or 11 or 12 403499 
+14 swimming/ 26692 
+15 swim$.mp. [mp title, abstract, heading word, drug trade name, original title, device manufacturer, drug manufacturer, device trade name, keyword heading 
+word, floating subheading word, candidate term word] 66059 
+16 ("freestyle stroke" or "breaststroke" or "butterfly stroke" or "Backstroke" or "forward crawl").mp. [mp title, abstract, heading word, drug trade name, original 
+title, device manufacturer, drug manufacturer, device trade name, keyword heading word, floating subheading word, candidate term word] 353 
+17 14 or 15 or 16 66082 
+18 13 and 17 659 
+19 exp animals/or exp invertebrate/or animal experiment/or animal model/or animal tissue/or animal cell/or nonhuman/ 32353506 
+20 human/or normal human/or human cell/ 25251459 
+21 19 and 20 25170916 
+22 19 not 21 7182590 
+23 18 not 22 504 
+CINAHL 
+1 (MH "Back Pain") 34,706 
+2 (MH "Neuralgia") 7905 
+3 (MH "Osteoarthritis, Spine") 110 
+4 (MH "Spinal Diseases") 39,890 
+5 (MH "Spine") 52,376 
+6 TX lumbago 699 
+7 TX (lumbar N2 vertebra) 1623 
+8 TX (coccydynia OR back disorder*) 29 
+9 TX coccyx 1515 
+10 TX sciatica 4998 
+11 TX ("lumbar N5 pain") 19,323 
+12 TX (lumbar W1 pain) 2090 
+13 TX backache 2908 
+14 TX dorsalgia 116 
+15 S1 OR S2 OR S3 OR S4 OR S5 OR S6 OR S7 OR S8 OR S9 OR S10 OR S11 OR S12 OR S13 OR S14 114,697 
+16 (MH "Swimming") 4848 
+17 TI (swim*) OR AB (swim*) 7002 
+18 TI (backstroke OR freestyle OR breaststroke OR "butterfly stroke" OR "forward crawl ”) OR AB (backstroke OR freestyle OR breaststroke OR "butterfly stroke" OR 
+"forward crawl ”) 176 
+19 S16 OR S17 OR S18 8347 
+20 S15 AND S19 166 
+Sports Discus 
+(continued on next page) D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+9(continued ) 
+Set 
+#  Results 
+1 DE (“Swimming” OR “Swimmers” OR “BACKSTROKE (Swimming)” OR “Breaststroke (Swimming)” OR “BUTTERFLY stroke (Swimming)” OR “CRAWL stroke 
+(Swimming)”) 32,697 
+2 ((DE "INDIVIDUAL medley" OR DE "LONG distance swimming" OR DE "MEDLEY relay (Swimming)" OR DE "MIDDLE distance swimming" OR DE "POLAR bear 
+swims (Sports events)" OR DE "SWIMMING competitions" OR DE "SWIMMING for children" OR DE "SWIMMING for infants" OR DE "SWIMMING for older 
+people" OR DE "SWIMMING for people with disabilities" OR DE "SWIMMING in art" OR DE "SYNCHRONIZED swimming" OR DE "WOMEN’S swimming") AND 
+(DE "SWIMMERS" OR DE "SWIMMING therapy" OR DE "SWIMMING training")) 1500 
+3 TX (Swim*) 109,799 
+4 (S1 OR S2 OR S3) 109,799 
+5 DE "LUMBAR vertebrae" OR DE "LUMBOSACRAL region" 3367 
+6 DE "SCIATICA" 226 
+7 TX backache 6338 
+8 TX sciatica 1600 
+9 TX low back pain 17,534 
+10 DE "BACKACHE" 4338 
+11 (TX back pain OR TX lumbago OR TX spinal pain) 30,025 
+12 (S5 OR S6 OR S7 OR S8 OR S9 OR S10 OR S11) 33,657 
+13 S4 AND S12 Limiters - Peer Reviewed 1420  
+Appendix B.Summary of individual studies  
+Authors (year) Main study purpose Study design Sample size 
+and mean age 
+(years) Comparison group Back pain related outcome and definition 
+Abdalkader, M., Guermazi, A., 
+Engebretsen, L., Roemer, F. 
+W., Jarraya, M., Hayashi, 
+D., Crema, M.D. and Mian, 
+A.Z (2020) Assess the frequency and the 
+distribution (by location, 
+gender distribution, type of 
+sport, and age groups) of the 
+degenerative discs detected on 
+108 MRIs of athletes 
+competing in 28 sports in the 
+2016 Summer Olympic games 
+in Rio de Janeiro, Brazil. Cross- 
+sectional 100 25 Other Olympic sports Disc 
+degeneration MRI (Pfirrmann’s 
+classification grading 
+system grade II and 
+above) 
+Auvinen, J.P., Tammelin, T. 
+H., Taimela, S.P., Zitting, P. 
+J., Mutanen, P.O. and 
+Karppinen, J.I., (2008) To evaluate the relationships 
+between participation in 
+different sports and exercise 
+activities and neck, shoulder, 
+and low back pains. Cross- 
+sectional 6945 16 Swimming dosage (once 
+a month, two to four 
+times a month, at least 
+twice a week) Low back pain Survey (have you had 
+any pain or aching in 
+your a) neck/occipital, b) 
+shoulder, or c) low back 
+area within the past 6 
+months?) 
+Capaci, K., Ozcaldiran, B. and 
+Durmaz, B.J.T.P.C., (2002) The musculoskeletal problems 
+seen in our competitive 
+swimmers are presented and 
+relationships between stroke 
+style and musculoskeletal 
+problems are discussed. 
+Furthermore, the profiles of 
+MSK pain and the differences 
+of physical characteristics 
+between injured and healthy 
+swimmers were also 
+investigated. Cross- 
+sectional 38 14 Swim strokes (freestyle, 
+butterfly, breaststroke, 
+and backstroke) Low back pain Survey (undefined) 
+Farahbakhsh, F., Rostami, M., 
+Noormohammadpour, P., 
+Mehraki Zade, A., 
+Hassanmirazaei, B., Faghih 
+Jouibari, M., Kordi, R. and 
+Kennedy, D.J., (2018) To identify and collate studies 
+on the prevalence of LBP 
+among athletes, and to review 
+the methodological quality of 
+the relevant literature 
+regarding the prevalence of 
+LBP among athletes in 
+different sports. Systematic 
+review 11,152 NA Other sports (tennis. 
+Speed skating. Football. 
+Field hockey. Floorball. 
+Basketball. Karate. 
+Shooting. Track and 
+field. Badminton. Futsal. 
+Volleyball. Rowing. 
+Handball. Multi-sport. 
+Parachuting. Skydiving. 
+Orienteering. Skiing. 
+Diving. Ice-hockey. 
+Wrestling. Weightlifting. 
+Road cycling. Judo. 
+Gymnastics. Rafting. 
+Golf. Running and 
+walking. Triathlon.) Low back pain NA 
+Folkvardsen, S., Magnussen, 
+E., Karppinen, J., Auvinen, 
+J., Larsen, R.H., Wong, C. 
+and Bendix, T., (2016) To investigate the effects of 
+elite-level swimming activities 
+on spinal degenerative 
+pathology and LBP. We 
+conducted a cross-sectional Cross- 
+sectional 196 20 No sport Low back pain 
+Disc 
+degeneration 
+Disc bulge Survey (undefined) 
+MRI (modified 
+Pfirrmann’s 
+classification III and 
+above) 
+(continued on next page) D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+10(continued ) 
+Authors (year) Main study purpose Study design Sample size 
+and mean age 
+(years) Comparison group Back pain related outcome and definition 
+comparison regarding dd, disc 
+contour abnormalities and LBP 
+assessed with MRI and clinical 
+questionnaires for back pain 
+and swimming history. MRI (defined as 
+displacement of disc 
+material greater than 50 
+% of the disc 
+circumference.) 
+Gaunt, T. and Maffulli, N., 
+(2012) Reviews methods by which 
+swimmers are examined and 
+diagnosed, and whether these 
+are methodologically sound. It 
+also illustrates different 
+methods for treatment and 
+rehabilitation of common 
+swimming injuries, and, where 
+possible, suggests ways to 
+improve these. Systematic 
+review NA NA No sport control and 
+recreational swimmers Low back pain 
+Disc 
+degeneration NA 
+Gębska, M., Weber- 
+Nowakowska, K., Oklejak, 
+M., Bo˘ckowski, R., 
+lZylzniewski, J. and 
+lZylzniewska-Banaszak, E., 
+(2016) To evaluate the prevalence of 
+polyarticular hypermobility 
+and its consequences in rowers 
+and swimmers. Cross- 
+sectional 30 17 Rowing Low back pain Survey (undefined) 
+Goldstein, J.D., Berger, P.E., 
+Windler, G.E. and Jackson, 
+D.W., (1991) To examine factors that could 
+be causal in the increased 
+incidence of spine problems in 
+these athletes. Cross- 
+sectional 52 17 Gymnastics Disc 
+degeneration MRI (undefined) 
+Hangai, M., Kaneoka, K., 
+Hinotsu, S., Shimizu, K., 
+Okubo, Y., Miyakawa, S., 
+Mukai, N., Sakane, M. and 
+Ochiai, N., (2009) To compare the frequencies of 
+disk degeneration that may 
+vary with the competitive 
+sport because of the different 
+postures and actions specific to 
+each sport. Cross- 
+sectional 379 20 Other sports (baseball 
+players, basketball 
+players, kendo 
+competitors, 
+Runners and soccer 
+players) and no sports Low back pain 
+Disc 
+degeneration Survey (undefined) 
+MRI (modified 
+Pfirrmann ’s 
+classification III and 
+above) 
+Harreby, M., Hessels øe, G., 
+Kjer, J. and Neergaard, K., 
+(1996) To clarify the relation between 
+physical activity in leisure 
+time, including sports 
+activities, and LBP, education, 
+work and smoking. Cross- 
+sectional 481 38 Other sports 
+(gymnastics, ball games, 
+running, tennis/ 
+badminton) Change in low 
+back pain Survey (Is your low back 
+pain influenced by 
+performing sports?) 
+Hill, L., Mountjoy, M. and 
+Miller, J., (2022) To critically assess the 
+published evidence for risk 
+factors that may predispose a 
+swimmer to non-shoulder 
+musculoskeletal soft-tissue 
+injuries. Systematic 
+review NA NA No sport and different 
+stroke Low back pain 
+and disc 
+degeneration NA 
+Iwamoto, J., Takeda, T., Sato, 
+Y. and Matsumoto, H., 
+(2008) To investigate gender-specific 
+differences in the types of 
+injuries sustained during 
+sports activities common to 
+both males and females Cross- 
+sectional 2989 22 Other sports (basketball, 
+volleyball, tennis, skiing 
+and track and field) Low back pain 
+Disc 
+degeneration 
+Spondylolysis Clinical diagnosis 
+(defined as nontraumatic 
+pain that was not 
+associated with any 
+abnormal findings on the 
+radiographs or MRIs.) 
+Clinical diagnosis 
+(symptoms such as low 
+back pain or sciatica due 
+to disc degeneration or 
+herniation found on 
+magnetic resonance 
+images (MRIs), or by 
+spinal instability and disc 
+space narrowing found 
+on plain radiographs) 
+Clinical diagnosis 
+(radiographic findings 
+and the presence of low 
+back pain associated 
+with tenderness of the 
+spinous process and 
+induced by the lumbar 
+spine extension test.) 
+Kaartinen, S., Aaltonen, S., 
+Korhonen, T., 
+Rottensteiner, M., Kujala, U. 
+M. and Kaprio, J., (2020) To investigate whether the 
+quantity and quality of sports 
+activities are associated with 
+radiating and/or non-radiating 
+LBP among the physically 
+active general adult 
+population. With sports 
+activities, we refer to both Cross- 
+sectional 3737 34 Unclear Low back pain 
+(radiating or 
+non-radiating) Survey (undefined) 
+(continued on next page) D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+11(continued ) 
+Authors (year) Main study purpose Study design Sample size 
+and mean age 
+(years) Comparison group Back pain related outcome and definition 
+competitive and recreational 
+sports participated during 
+leisure time. Our hypothesis is 
+that participation in several 
+sports activities is associated 
+with less radiating LBP, 
+whereas non-radiating LBP is 
+not associated with the 
+quantity and quality of sports 
+activities. 
+Kaneoka, K., Shimizu, K., 
+Hangai, M., Okuwaki, T., 
+Mamizuka, N., Sakane, M. 
+and Ochiai, N., (2007) To examine the prevalence of 
+disc degeneration in elite 
+swimmers and to use the data 
+generated for the management 
+of team members ’ LBP. Cross- 
+sectional 94 20 Low-load swimming 
+(less frequent and at a 
+lower skill level) Disc 
+degeneration MRI (modified 
+Pfirrmann ’s 
+classification grade II 
+and above) 
+Kovacs, F.M., Gestoso, M., del 
+Real, M.T.G., L˘opez, J., 
+Mufraggi, N. and M˘endez, J. 
+I., (2003) To establish the prevalence of 
+LBP in a stable Spanish 
+adolescent population aged 
+13–15 years and to test 
+different factors potentially 
+associated with a higher risk. Cross- 
+sectional 9172 43 Unclear Low back pain Survey (undefined) 
+Martins, L.C.X., Paiva, J.R., 
+Freitas, A.C., Miguel, L.B. 
+and Maia, F.R.C., (2014) To investigate the prevalence 
+of pain and related factors in 
+high-performance swimmers 
+who took part in world 
+championships. Cross- 
+sectional 42 23 Unclear Low back pain Survey (undefined) 
+Masiero, S., Carraro, E., Celia, 
+A., Sarto, D. and Ermani, 
+M., (2008) To investigate the prevalence 
+of LBP and to identify the main 
+associated risk factors in a 
+population of teenagers aged 
+between 13 and 15 years, in 
+the city and province of 
+Padova (Veneto region, Italy) Cross- 
+sectional 7542 15 Other exercise (aerobics 
+other sports) Low back pain Survey (undefined) 
+Matsuura, Y., Hangai, M., 
+Koizumi, K., Ueno, K., Hirai, 
+N., Akuzawa, H. and 
+Kaneoka, K., (2019) To document the trends of 
+injury occurrence in the Japan 
+national swim team for 15 
+years and to evaluate the 
+effectiveness of the lumbar 
+injury prevention project. Cross- 
+sectional 488 21 Swim strokes (freestyle, 
+breaststroke, butterfly, 
+backstroke, individual 
+medley) Low back pain Clinical diagnosis 
+(orthopaedic surgeon 
+and restricting 
+participation in swim 
+practice by at least 1 day) 
+Mogensen, A.M., Gausel, A. 
+M., Wedderkopp, N., Kjaer, 
+P. and Leboeuf-Yde, C., 
+(2007) If the self-reported 
+participation in organized 
+sport, in general, was 
+associated with self-reported 
+back pain in youngsters, and if 
+there was any association 
+(negative or positive) between 
+the kind of sports youngsters 
+practise and back pain. In 
+addition, we studied the 
+possible importance of the 
+number of hours per week that 
+sports activities were carried 
+out and the number of sports 
+practised by the same person. Cross- 
+sectional 439 13 Other exercise (jump 
+gymnastics, rhythmic 
+gymnastics, soccer, 
+other ball games, 
+badminton/tennis, 
+horseback riding, 
+running, cycling, roller 
+skating/skateboarding, 
+martial arts) Low back pain Survey (undefined) 
+Mohsen, B., Reza Attarzadeh, 
+H.S., Zohreh, B. and 
+Mehrdad, F., (2012) To discover the prevalence of 
+injuries among Iranian 
+swimmers and the 
+biomechanical factors 
+associated with them. Cross- 
+sectional 89 19 Swim stroke (butterfly) Low back pain Survey (undefined) 
+Mueller, S., Mueller, J., Stoll, 
+J., Prieske, O., Cassel, M. 
+and Mayer, F., (2016) To examine the development 
+(incidence) of back pain in 
+adolescent athletes with 
+respect to anthropometrics and 
+sports characteristics over a 
+mean period of 2 years of 
+systematic training. Prospective 
+cohort study 321 15 Other sports (boxing, 
+karate, judo, wrestling, 
+soccer, handball, 
+volleyball, gymnastics, 
+weight lifting, track and 
+field, modern 
+pentathlon, canoeing, 
+cycling, horse riding, 
+rowing, shooting, 
+triathlon) Low back pain Survey (report of the 
+presence of back pain 
+causing moderate to 
+unimaginable pain) 
+Müller, J., Müller, S., Stoll, J., 
+Frohlich, K., Otto, C. and 
+Mayer, F., (2017) To investigate the point 
+prevalence of back pain in a 
+large cohort of young elite 
+athletes with regards to age, 
+gender, and sport discipline. Cross- 
+sectional 2116 13 Other sports (volleyball, 
+triathlon, shooting, 
+swimming, rowing, 
+wrestling, horse riding, 
+cycling, modern Low back pain Survey (report of the 
+presence of back pain 
+causing moderate to 
+unimaginable pain) 
+(continued on next page) D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+12(continued ) 
+Authors (year) Main study purpose Study design Sample size 
+and mean age 
+(years) Comparison group Back pain related outcome and definition 
+pentathlon, athletic, 
+canoeing, judo, 
+handball, weight lifting, 
+gymnastics, soccer, 
+boxing) 
+Mundt, D.J., Kelsey, J.L., 
+Golden, A.L., Panjabi, M.M., 
+Pastides, H., Berg, A.T., 
+Sklar, J. and Hosea, T., 
+(1993) Participation in eight 
+individual types of sports 
+(baseball or softball, golf, 
+bowling, swimming, diving, 
+jogging, aerobics, and racquet 
+sports), as well as the use of 
+free weights and weightlifting 
+equipment, were examined 
+separately as possible risk 
+factors for herniated lumbar 
+and cervical discs. Case-control 
+study 459 25 Swim dosage (1–4 times 
+a month, 2–3 times a 
+week, more than 4 times 
+a week) Disc herniation 
+(symptomatic) Clinical diagnosis and 
+radiograph 
+Noormohammadpour, P., 
+Rostami, M., Mansournia, 
+M.A., Farahbakhsh, F., 
+Pourgharib Shahi, M.H. and 
+Kordi, R., (2016) To investigate the prevalence 
+of LBP among female athletes 
+who attended the national 
+sports Olympiad of female 
+university students in nine 
+different fields of sports, and 
+assess their care-seeking 
+behaviours and sick leaves due 
+to LBP. Cross- 
+sectional 1059 23 Other sports (basketball, 
+volleyball, futsal, tennis, 
+badminton, track and 
+field, shooting, karate) Low back pain Survey (The low back 
+pain is a pain between 
+the last rib and lower 
+gluteal fold as you can 
+see in the 
+Following a mannequin, 
+which is bad enough to 
+limit or change athletes ’ 
+daily routine or sports 
+activities for more than 1 
+day and is not due to 
+menstruation) 
+Owen, P.J., Hangai, M., 
+Kaneoka, K., Rantalainen, 
+T. and Belavy, D.L., (2021) To examine the adaptation of 
+the IVD in a range of sporting 
+types, in addition to nonathlete 
+controls in a large sample size. 
+We hypothesized that 
+participation in sports 
+involving upright load-bearing 
+activities, such as running, 
+would be associated with more 
+beneficial IVD characteristics 
+than nonathletic referents. Cross- 
+sectional 379 20 No sport control and 
+other sports (baseball, 
+swimming, basketball, 
+kendo, soccer, running) Low back pain Survey (undefined) 
+Øyen, J., Torstveit, M.K. and 
+Sundgot-Borgen, J., (2009) To determine the prevalence of 
+self-reported versus diagnosed 
+stress fractures in athletes, and 
+to investigate whether stress 
+fractures are prevalent also in 
+the general population. Cross- 
+sectional 186 22 Other sports (low 
+impact, medium impact 
+and high impact sports) Stress fracture Survey (self-reported) 
+Pocovi, N.C., de Campos, T.F., 
+Christine Lin, C.W., Merom, 
+D., Tiedemann, A. and 
+Hancock, M.J., (2022) To investigate the effectiveness 
+of walking/running, cycling, 
+and swimming for treating or 
+preventing nonspecific LBP 
+and associated disability, 
+compared to alternate 
+interventions (i.e., any 
+pharmacological, 
+nonpharmacological, active, or 
+passive therapies) or minimal/ 
+no intervention. Systematic 
+review with 
+meta-analysis NA NA Other exercise (jogging, 
+backwards walking and 
+Tai Chi) Low back pain NA 
+Ribaud, A., Tavares, I., 
+Viollet, E., Julia, M., 
+H˘erisson, C. and Dupeyron, 
+A., (2013) To determine what advice can 
+be given to an LBP patient after 
+an FRP in terms of firstly, the 
+benefits of a leisure physical 
+activity and secondly, the 
+absence of harmful effects 
+related to the resumption of a 
+sport. Systematic 
+review NA NA Swim stroke Low back pain Survey (undefined) 
+Ristolainen, L., Heinonen, A., 
+Turunen, H., Mannstr om, 
+H., Waller, B., Kettunen, J. 
+A. and Kujala, U.M., (2010) To compare the occurrence of 
+acute and overuse injuries, the 
+role of previous injuries, time 
+loss from training and 
+competition and in addition, 
+the reasons for stopping a 
+career in athletes in different 
+sports with differing loading 
+patterns. Cross- 
+sectional 639 22 Other sports (cross 
+country skiers, runners, 
+soccer) Low back pain Survey (undefined) 
+(continued on next page) D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+13(continued ) 
+Authors (year) Main study purpose Study design Sample size 
+and mean age 
+(years) Comparison group Back pain related outcome and definition 
+Ruddick, G.K., Lovell, G.A., 
+Drew, M.K. and Fallon, K.E., 
+(2019) To expand on Brukner (on 
+bone stress injuries) by 
+focusing on elite athletes 
+across a number of sports and 
+investigating the utility and 
+limitations of the AMS in 
+monitoring and studying 
+athlete health which may then 
+suggest potential applications 
+for training and injury 
+prevention. Cross- 
+sectional 181 16 Other sports (athletics, 
+badminton, basketball, 
+diving, football, 
+gymnastics, hockey, 
+modern pentathlon, 
+netball, rowing, 
+taekwondo, triathlon, 
+volleyball, water polo, 
+winter sports) Lumbar bone 
+stress injury Survey (undefined) 
+Sheehy, D.J., Toohey, L.A., 
+Perera, N.K.P. and Drew, M. 
+K., (2022) To investigate the incidence, 
+prevalence, burden and 
+characteristics of injuries; and 
+explore the frequency of 
+physiotherapy and medical 
+servicing appointments 
+delivered to athletes across 
+multiple sports at an 
+Australian state academy of 
+sport, over a 12-month 
+scholarship season 
+(2019 –2020). Cross- 
+sectional 94 18 Other sports (football, 
+hockey, individual, 
+netball, rowing, rugby) Low back pain Survey (undefined) 
+Sjolie. A., (2003) To investigate associations 
+between leisure activities and 
+LBP in the same population. It 
+was hypothesized that LBP 
+would be inversely associated 
+with physical activity, and 
+positively associated with 
+aerobics and 
+Ball activities, as well as with 
+long periods spent reading and 
+watching television or 
+computer. Cross- 
+sectional 88 15 Unclear Low back pain Survey (undefined) 
+Skoffer, B. and Foldspang, A., 
+(2008) To investigate the relationship 
+between LBP in schoolchildren 
+and measures of physical 
+activity and inactivity. Cross- 
+sectional 546 16 Other exercise (jogging, 
+handball, gymnastics, 
+riding, scouting) Low back pain Survey (limiting and not 
+limiting function. 
+Defined as pain or 
+discomfort in the low- 
+back region, from the 
+lower rib curvature to 
+the lower part of the seat 
+region, as visualized by a 
+drawing shown in the 
+questionnaire.) 
+Sundell, C.G., Bergstr om, E. 
+and Lars˘en, K., (2019) To evaluate the prevalence of 
+low back pain (LBP) and 
+associated physical disability 
+in an adolescent population in 
+relation to sports activity level, 
+age, and gender. Cross- 
+sectional 2550 18 No sports and other 
+exercise (soccer, 
+floorball, strength 
+training, ice hockey, 
+aerobics, judo, 
+equestrian, athletics, 
+gymnastics) Low back pain Survey (“Have you ever 
+had pain, ache or felt 
+unpleasantness in your 
+low back? ”) 
+Suri, P., Hunter, D.J., Boyko, 
+E.J., Rainville, J., 
+Guermazi, A. and Katz, J.N., 
+(2015) To determine whether general 
+physical activity or specific 
+types of exercise are associated 
+with prevalent lumbar ZJO 
+when adjusting for 
+demographic factors, and 
+potential contributions to 
+physical loading from 
+anthropometric factors. Cross- 
+sectional 424 57 Unclear Zygapophyseal 
+joint arthritis CT scan (undefined) and 
+clinical diagnosis. 
+Takatalo, J., Karppinen, J., 
+Nayha, S., Taimela, S., 
+Niinim aki, J., Blanco 
+Sequeiros, R., Tammelin, T., 
+Auvinen, J. and Tervonen, 
+O., (2017) To evaluate whether 
+adolescent participation in 
+popular recreational sports 
+activities is associated with 
+lumbar DD in a general 
+population of young adults. Cross- 
+sectional 558 21 Dosage (swimming once 
+a month, 2–4 times a 
+month and at least twice 
+a week)) Disc 
+degeneration MRI (sum score of 
+modified Pfirrmann ’s 
+classification) 
+Trompeter, K., Fett, D., 
+Brüggemann, G.P. and 
+Platen, P., (2018) To provide a summary of a 
+survey that examined the 
+prevalence of bp in different 
+spinal locations in adult elite 
+athletes on the highest German 
+competition level from 
+different Olympic disciplines. Cross- 
+sectional 1114 21 Other sports (archery, 
+badminton, basketball, 
+beach volleyball, 
+bobsleigh, boxing, 
+canoe, curling, cycling, 
+dancing, diving, fencing, 
+figure skating, golf, Low back pain Survey (undefined) 
+(continued on next page) D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+14(continued ) 
+Authors (year) Main study purpose Study design Sample size 
+and mean age 
+(years) Comparison group Back pain related outcome and definition 
+gymnastics, handball, 
+hockey, horse riding, ice 
+hockey, judo, karate, 
+luge, modern 
+pentathlon, 
+orienteering, rowing, 
+rugby, sailing, shooting, 
+skiing, soccer, speed 
+skating, synchronised 
+swimming, table tennis, 
+taekwondo, tennis, track 
+and field, triathlon, 
+volleyball, water polo, 
+underwater rugby, 
+weightlifting, wrestling) 
+Weifen, W., Muheremu, A., 
+Chaohui, C., MD, L.W. and 
+Lei, S., (2013) To determine whether Tai Chi 
+practice is superior to other 
+means of sports rehabilitation 
+to relieve non-specific chronic 
+low back pain in a younger 
+population Randomised 
+control trial 320 38 Other exercise (jogging, 
+backwards walking and 
+Tai Chi) Low back pain Survey (VAS pain scale 
+0–100) 
+Zaina, F., Donzelli, S., Lusini, 
+M., Minnella, S. and 
+Negrini, S., (2015) To determine the prevalence of 
+spinal deformities, including 
+trunk asymmetries and 
+hyperkyphosis, and LBP in 
+adolescent competitive 
+swimmers compared with the 
+general school population. Cross- 
+sectional 329 13 No sports Low back pain Survey (undefined) 
+Bartolozzi, C., Caramella, D., 
+Zampa, V., Dal Pozzo, G., 
+Tinacci, E. and Balducci, F., 
+(1991) The purpose of our work was 
+to evaluate the possible 
+presence of disc alterations in 
+these athletes and to correlate 
+their incidence with the 
+technical parameters of 
+athletic training. Cross- 
+sectional 75 21 Volleyball Disc 
+degeneration MRI (one of four 
+classifications: Square 
+normal, degeneration 
+isolated with signs of 
+dehydration, bulging 
+(protrusion) disc, 
+hernia.) 
+Knobloch, K., Yoon, U., 
+Kraemer, R. and Vogt, P.M., 
+(2008) The hypothesis is that 
+swimming has a low risk of 
+acute injury, but overuse 
+injuries associated with the 
+preferred swimming discipline 
+play an important role. Cross- 
+sectional 296 19 Swim strokes (freestyle, 
+breaststroke, butterfly, 
+backstroke) Low back pain Survey (undefined) 
+Mutoh, Y., (1977) To investigate the nature of 
+low back pain of competitive 
+swimmers, especially of 
+butterfly strokers who seem to 
+be affected by the greater 
+mechanical stress on their 
+lumbar spine. Cross- 
+sectional 53 17 Swim strokes (freestyle, 
+breaststroke, butterfly, 
+backstroke, individual 
+medley) Low back pain 
+Disc 
+degeneration 
+Spondylolysis Survey (undefined) 
+X-ray film (narrowing of 
+more than 2 mm at the 
+centre of the disc 
+compared with adjacent 
+normal intervertebral 
+discs) 
+Undefined 
+Sato, T., Ito, T., Hirano, T., 
+Morita, O., Kikuchi, R., 
+Endo, N. and Tanabe, N., 
+(2011) To evaluate the association 
+between sports activities and 
+LBP in childhood and 
+adolescence in Japan using a 
+large-scale cross-sectional 
+epidemiological study based 
+on a questionnaire 
+administered to all children 
+living in a defined area, 
+Niigata city. Cross- 
+sectional 26,766 12 Other exercise 
+(basketball, soccer, 
+baseball, tennis, music, 
+table tennis, volleyball, 
+athletics, kendo, karate, 
+badminton, ballet, 
+dance, judo, gymnastics, 
+golf, dodgeball, rugby, 
+wrestling, archery) Low back pain Survey (“Do you have 
+any pain in your lower 
+back now? And have you 
+had any pain in your 
+lower back before? ”) 
+Lively, M. W. (2002) To report the prevalence of 
+recurrent LBP in college 
+athletes Cross- 
+sectional 1040 19 Other sports 
+(cheerleading, football, 
+gymnastics, track, 
+dance, soccer, tennis, 
+wrestling, volleyball) Low back pain Survey (lumbar pain on 
+at least two previous 
+occasions that required 
+the athlete to suspend 
+participation in sports for 
+at least one day.) 
+LBP low back pain. MRI magnetic resonance imaging. NA not available. CT computerized tomography. VAS visual analogue scale. 
+Appendix C.Associations between swimming and comparisons D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+15Exposure Comparison Outcome (time point) Odds ratio (CI) 
+Randomised Control Trial 
+Swimming (Weifen et al., 2013 ) Taichi VAS pain scale (100 point) 3-month  1.0 ( 2.2, 0.2)a 
+Swimming (Weifen et al., 2013 ) Jogging VAS pain scale (100 point) 3-month 5.7 (4.1, 7.3)a 
+Swimming (Weifen et al., 2013 ) Backwards walking VAS pain scale (100 point) 3-month 4.9 (3.3, 6.5)a 
+Swimming (Weifen et al., 2013 ) Taichi VAS pain scale (100 point) 6-month  1.8 ( 2.7,  0.9)a 
+Swimming (Weifen et al., 2013 ) Jogging VAS pain scale (100 point) 6-month 6.3 (4.9, 7.7)a 
+Swimming (Weifen et al., 2013 ) Backwards walking VAS pain scale (100 point) 6-month 4.9 (3.5, 6.3)a 
+Swimming (Weifen et al., 2013 ) No exercise VAS pain scale (100 point) 3-month 8.0 (6.3, 9.7)a 
+Swimming (Weifen et al., 2013 ) No exercise VAS pain scale (100 point) 6-month 8.1 (6.6, 9.6)a 
+Longitudinal study 
+Competitive swimming (Mueller et al., 2016 ) Other sports Low back pain (7-day prevalence) 0.55 (0.07, 4.29) 
+Cross-sectional studies 
+Swimming (Sundell et al., 2019 ) Other exercise Low back pain (7-day prevalence) 1.63 (0.31, 8.49) 
+Swimming (Mogensen et al., 2007 ) Other exercise Low back pain (1-month prevalence) 1.16 (0.61, 2.22) 
+Swimming (Skoffer et al., 2008 ) Other exercise Low back pain (3-month prevalence) 0.44 (0.23, 0.86) 
+Swimming (Skoffer et al., 2008 ) Other exercise Function limiting low back pain (3-month prevalence) 0.17 (0.05, 0.57) 
+Swimming (Masiero et al., 2008 ) Other exercise Low back pain (1-year prevalence) 1.91 (1.45, 2.52) 
+Swimming (Sundell et al., 2019 ) Other exercise Low back pain (lifetime) 0.69 (0.15, 3.1) 
+Swimming (Sato et al., 2011 ) Other exercise Low back pain (undefined) 0.63 (0.59, 0.67) 
+Swimming (Harreby et al., 1997 ) Other exercise Improvement in low back pain 6.39 (2.56, 15.86) 
+Swimming (Harreby et al., 1997 ) Other exercise Aggravates low back pain 0.79 (0.25, 2.45) 
+Swimming (Harreby et al., 1997 ) Other exercise No change of low back pain 0.19 (0.06,0.57) 
+Swimming (Sundell et al., 2019 ) No exercise Low back pain (7-day prevalence) 1.71 (0.33, 8.91) 
+Swimming (Mogensen et al., 2007 ) No exercise Low back pain (1-month prevalence) 1.08 (0.5, 2.36) 
+Swimming (Sundell et al., 2019 ) No exercise Low back pain (lifetime) 1.05 (0.23, 4.74) 
+Swimming (Sato et al., 2011 ) No exercise Low back pain (undefined) 1.4 (1.28, 1.53) 
+Swimming (Kovacs et al., 2003 ) Unclear Low back pain (undefined) 1.1 (1.04, 1.18) 
+Swimming (Sjolie, 2004 ) Unclear Low back pain (1-year prevalence) 0.2 (0.04, 1) 
+Swimming (Kaartinen et al., 2020 ) Unclear Radiating low back pain (undefined) 1.13 (0.85, 1.5) 
+Swimming (Kaartinen et al., 2020 ) Unclear Non-radiating low back pain (undefined) 1.1 (0.83, 1.49) 
+Swimming (Suri et al., 2015 ) Unclear Zygapophyseal joint arthritis 0.69 (0.38, 1.24) 
+Competitive swimming (Farahbakhsh et al., 2018 ) Other sports Low back pain (point prevalence) 0.53 (0.34, 0.82) 
+Competitive swimming (Noormohammadpour et al., 2016 ) Other sports Low back pain (point prevalence) 1.02 (0.64, 1.63) 
+Competitive swimming (Iwamoto et al., 2008 ) Other sports Low back pain (point prevalence) 3.44 (1.82,6.51) 
+Competitive swimming (Trompeter et al., 2018 ) Other sports Low back pain (7-day prevalence) 0.77 (0.4, 1.48) 
+Competitive swimming (Muller et al., 2017 ) Other sports Low back pain (7-day prevalence) 0.82 (0.39, 1.7) 
+Competitive swimming (Farahbakhsh et al., 2018 ) Other sports Low back pain (1-year prevalence) 0.63 (0.44,0.9) 
+Competitive swimming (Noormohammadpour et al., 2016 ) Other sports Low back pain (1-year prevalence) 0.78 (0.54, 1.14) 
+Competitive swimming (Ristolainen et al., 2010 ) Other sports Low back pain (1-year prevalence) 1.44 (0.9, 2.29) 
+Competitive swimming (Trompeter et al., 2018 ) Other sports Low back pain (1-year prevalence) 0.64 (0.35, 1.17) 
+Competitive swimming (Sheehy et al., 2022 ) Other sports Low back pain (1-year prevalence) 17.92 (4.25, 75.56) 
+Competitive swimming (Noormohammadpour et al., 2016 ) Other sports Low back pain (sport life) 0.64 (0.44, 0.94) 
+Competitive swimming (Farahbakhsh et al., 2018 ) Other sports Low back pain (lifetime) 0.67 (0.52, 0.86) 
+Competitive swimming (Noormohammadpour et al., 2016 ) Other sports Low back pain (lifetime) 0.57 (0.4, 0.82) 
+Competitive swimming (Owen et al., 2020 ) Other sports Low back pain (lifetime) 2.11 (0.64, 6.94) 
+Competitive swimming (Trompeter et al., 2018 ) Other sports Low back pain (lifetime) 0.71 (0.36, 1.41) 
+Competitive swimming (Hangai et al., 2009 ) Other sports Low back pain (lifetime) 0.61 (0.29, 1.3) 
+Competitive swimming (Lively, 2002 ) Other sports Recurrent low back pain (lifetime) 2 (0.46, 8.78) 
+Competitive swimming (Gębska et al., 2016 ) Other sports Low back pain (undefined) 1 (0.17, 5.98) 
+Competitive swimming (Goldstein et al., 1991 ) Other sports Disc degeneration 0.59 (0.14, 2.54) 
+Competitive swimming (Goldstein et al., 1991 ) Other sports Spondylolysis 0.24 (0.03, 2.16) 
+Competitive swimming (Hangai et al., 2009 ) Other sports Disc degeneration 1.85 (0.99, 3.47) 
+Competitive swimming (Bartolozzi et al., 1991 ) Other sports Disc degeneration 0.31 (0.11, 0.91) 
+Competitive swimming (Iwamoto et al., 2008 ) Other sports Disc degeneration 1.84 (1.12, 3.04) 
+Competitive swimming (Iwamoto et al., 2008 ) Other sports Spondylolysis 1.47 (0.52,4.12) 
+Competitive swimming (Abdalkader et al., 2020 ) Other sports Disc degeneration 0.69 (0.15, 3.11) 
+Competitive swimming (Ruddick et al., 2019 ) Other sports Lumbar spine bone stress injury 2.66 (0.16, 43.5) 
+Competitive swimming (Hangai et al., 2009 ) No sport Low back pain (lifetime) 2.84 (1.25, 6.46) 
+Competitive swimming (Folkvardsen et al., 2016 ) No sport Low back pain (undefined) 0.54 (0.3, 0.97) 
+Competitive swimming (Zaina et al., 2015 ) No sport Low back pain (undefined) 1.61 (1.01, 2.57) 
+Competitive swimming (Folkvardsen et al., 2016 ) No sport Disc bulge 1.37 (0.69, 2.72) 
+Competitive swimming (Folkvardsen et al., 2016 ) No sport Disc degeneration 0.81 (0.46, 1.43) 
+Competitive swimming (Hangai et al., 2009 ) No sport Disc degeneration 3.01 (1.4, 6.47) 
+Competitive swimming (Kaneoka et al., 2007 ) Recreational swimming Disc degeneration 5.18 (2.11, 12.72) 
+Swimming 2–4 times a month (Auvinen et al., 2008 ) Swimming once a month Low back pain (6-month prevalence) 0.95 (0.75, 1.25)b 
+Swimming 2–4 times a month (Auvinen et al., 2008 ) Swimming once a month Low back pain (6-month prevalence) 0.9 (0.6, 1.15)c 
+Swimming at least twice a week (Auvinen et al., 2008 ) Swimming once a month Low back pain (6-month prevalence) 0.89 (0.67, 1.45)b 
+Swimming at least twice a week (Auvinen et al., 2008 ) Swimming once a month Low back pain (6-month prevalence) 1.03 (0.75, 1.4)c 
+Swimming 2–4 times a month (Takatalo et al., 2017 ) Swimming at least once a month Disc degeneration 1.22 (0.83, 1.81) 
+Swimming at least twice a week (Takatalo et al., 2017 ) Swimming at least once a month Disc degeneration 3.0 (1.1, 8.4) 
+Swimming 2–3 times a week (Mundt et al., 1993 ) Swimming 1–4 times a month Symptomatic disc herniation 1.12 (0.68, 1.87) 
+Swimming more than 4 times a week (Mundt et al., 1993 ) Swimming 1–4 times a month Symptomatic disc herniation 0.84 (0.47, 1.51) 
+Freestyle (Capaci et al., 2002 ) Other strokes Low back pain (undefined) 0.8 (0.13, 4.87) 
+Freestyle (Matsuura et al., 2019 ) Other strokes Low back pain (undefined) 0.74 (0.45, 1.23) 
+Freestyle (Knobloch et al., 2008 ) Other strokes Low back pain (undefined) 0.92 (0.39, 2.19)e 
+Freestyle (Mohsen et al., 2012 ) Butterfly Low back pain (undefined) 0.70d 
+(continued on next page) D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+16(continued ) 
+Exposure Comparison Outcome (time point) Odds ratio (CI) 
+Freestyle (Mutoh, 1977 ) Butterfly Spondylolysis 0.04 (0, 0.87) 
+Freestyle (Mutoh, 1977 ) Butterfly Disc degeneration 0.14 (0.01, 1.57) 
+Breaststroke (Capaci et al., 2002 ) Other strokes Low back pain (undefined) 1.37 (0.22, 8.66) 
+Breaststroke (Matsuura et al., 2019 ) Other strokes Low back pain (undefined) 1.11 (0.62, 2) 
+Breaststroke (Knobloch et al., 2008 ) Other strokes Low back pain (undefined) 0.64 (0.25, 1.59)e 
+Breaststroke (Martins et al., 2014 ) Unclear Low back pain (undefined) 0.02f 
+Backstroke (Capaci et al., 2002 ) Other strokes Low back pain (undefined) 0.41 (0.04, 3.88) 
+Backstroke (Matsuura et al., 2019 ) Other strokes Low back pain (undefined) 1.42 (0.79, 2.56) 
+Backstroke (Knobloch et al., 2008 ) Other strokes Low back pain (undefined) 0.25 (0.06, 0.78)e 
+Butterfly stroke (Capaci et al., 2002 ) Other strokes Low back pain (undefined) 2.7 (0.39, 18.92) 
+Butterfly stroke (Matsuura et al., 2019 ) Other strokes Low back pain (undefined) 0.97 (0.52, 1.82) 
+Butterfly stroke (Mutoh, 1977 ) Non-butterfly strokes Low back pain (undefined) 1.11 (0.36, 3.44) 
+CIConfidence interval. VASVisual analogue scale. a Mean difference (95% confidence interval) b In females. c In males. d Insufficient data to calculate confidence 
+intervals. e Incident rate ratio. f P-value indicating an increased rate of low back pain. 
+References 
+Abdalkader, M., Guermazi, A., Engebretsen, L., et al., 2020. MRI-detected spinal disc 
+degenerative changes in athletes participating in the Rio de Janeiro 2016 Summer 
+Olympics games. BMC Musculoskelet Disord 21, 1–8. https://doi.org/10.1186/ 
+s12891-020-3057-3 . 
+Allen, S.V., Hopkins, W.G., 2015. Age of peak competitive performance of elite athletes: a 
+systematic review. Sports Med. 45, 1431 –1441 . 
+Ariyoshi, M., Sonoda, K., Nagata, K., et al., 1999. Efficacy of aquatic exercises for 
+patients with low-back pain. Kurume Med. J. 46 (2), 91–96. 
+Arksey, H., O’Malley, L., 2005. Scoping studies: towards a methodological framework. 
+Int. J. Soc. Res. Methodol. 8 (1), 19–32. 
+Auvinen, J.P., Tammelin, T.H., Taimela, S.P., Zitting, P.J., Mutanen, P.O.A., 
+Karppinen, J.I., 2008. Musculoskeletal pains in relation to different sport and 
+exercise activities in youth. Med. Sci. Sports Exerc. 40 (11), 1890 –1900. https://doi. 
+org/10.1249/MSS.0b013e31818047a2 . November.  
+Dec Bartolozzi, C., Caramella, D., Zampa, V., Dal Pozzo, G., Tinacci, E., Balducci, F., 
+1991. Incidenza delle alterazioni discali nei giocatori di pallavolo. Rilievi con 
+risonanza magnetica. Comparative Study. Radiol. Med. 82, 757–760. 
+Bombardier, C., 2000. Outcome assessments in the evaluation of treatment of spinal 
+disorders: summary and general recommendations. Spine 25 (24), 3100 –3103 . 
+Buchbinder, R., van Tulder, M., Oberg, B., et al., 2018. Low back pain: a call for action. 
+Lancet 391 (10137), 2384 –2388 . 
+Capaci, K., Ozcaldiran, B., Durmaz, B., 2002. Musculoskeletal pain in elite competitive 
+male swimmers. Pain Clin. 14 (3), 229–234. https://doi.org/10.1163/ 
+156856902320761432 . 
+Chase, N.L., Sui, X., Blair, S.N., 2008. Comparison of the health aspects of swimming with 
+other types of physical activity and sedentary lifestyle habits. Int. Aquat. Res. 2 (2), 
+7. 
+Chen, H., Cohen, P., Chen, S., 2010. How big is a big odds ratio? Interpreting the 
+magnitudes of odds ratios in epidemiological studies. Communications in 
+Statistics —simulation and Computation ® 39 (4), 860–864. 
+Chou, R., Qaseem, A., Snow, V., et al., 2007. Diagnosis and treatment of low back pain: a 
+joint clinical practice guideline from the American College of Physicians and the 
+American Pain Society. Ann. Intern. Med. 147 (7), 478–491. 
+Comprehensive Meta-Analysis, 2022. In: Borenstein, M., Hedges, L., Higgins, J., 
+Rothstein, H. (Eds.). Biostat. Englewood, NJ. Version 4. 
+da Silva, T., Mills, K., Brown, B.T., et al., 2019. Recurrence of low back pain is common: a 
+prospective inception cohort study. J. Physiother. 65 (3), 159–165. 
+Davidson, S.R., Kamper, S.J., Haskins, R., et al., 2021. Exercise interventions for low 
+back pain are poorly reported: a systematic review. J. Clin. Epidemiol. 139, 
+279–286. 
+Farahbakhsh, F., Rostami, M., Noormohammadpour, P., et al., 2018. Prevalence of low 
+back pain among athletes: a systematic review. Systematic Review. J Back 
+Musculoskeletal Rehabil 31 (5), 901–916. https://doi.org/10.3233/BMR-170941 . 
+Ferreira, M.L., de Luca, K., Haile, L.M., et al., 2023. Global, regional, and national burden 
+of low back pain, 1990 –2020, its attributable risk factors, and projections to 2050: a 
+systematic analysis of the Global Burden of Disease Study 2021. Lancet Rheumatol 5 
+(6), e316 –e329. 
+Folkvardsen, S., Magnussen, E., Karppinen, J., et al., 2016. Does elite swimming 
+accelerate lumbar intervertebral disc degeneration and increase low back pain? A 
+cross-sectional comparison. Eur. Spine J. 25, 2849 –2855. https://doi.org/10.1007/ 
+s00586-016-4642-x . 
+Foster, N.E., Anema, J.R., Cherkin, D., et al., 2018. Prevention and treatment of low back 
+pain: evidence, challenges, and promising directions. Lancet Glob Health 391 
+(10137), 2368 –2383 . 
+Gaunt, T., Maffulli, N., 2012. Soothing suffering swimmers: a systematic review of the 
+epidemiology, diagnosis, treatment and rehabilitation of musculoskeletal injuries in 
+competitive swimmers. Br. Med. Bull. 103 (1), 45–88. https://doi.org/10.1093/ 
+bmb/ldr039 . 
+Gębska, M., Weber-Nowakowska, K., Oklejak, M., Bo˘CKowski, R., lZylzniewski, J., 
+lZylzniewska-Banaszak, E., 2016. Polyarticular hypermobility and its consequences in 
+rowers and swimmers: a preliminary report. Trends Sport Sci 3 (23), 141–145. Goldstein, J.D., Berger, P.E., Windler, G.E., Jackson, D.W., 1991. Spine injuries in 
+gymnasts and swimmers: an epidemiologic investigation. Am. J. Sports Med. 19 (5), 
+463–468. 
+Hangai, M., Kaneoka, K., Hinotsu, S., et al., 2009. Lumbar intervertebral disk 
+degeneration in athletes. Am. J. Sports Med. 37 (1), 149–155. https://doi.org/ 
+10.1177/0363546508323252 . 
+Hansford, H.J., Wewege, M.A., Cashin, A.G., et al., 2022. If exercise is medicine, why 
+don’t we know the dose? An overview of systematic reviews assessing reporting 
+quality of exercise interventions in health and disease. Br. J. Sports Med. 56 (12), 
+692–700. 
+Harreby, M., Hesselsoe, G., Kjer, J., Neergaard, K., 1997. Low back pain and physical 
+exercise in leisure time in 38-year-old men and women: a 25-year prospective cohort 
+study of 640 school children. Eur. Spine J. 6, 181–186. https://doi.org/10.1007/ 
+BF01301433 . 
+Hartvigsen, J., Hancock, M.J., Kongsted, A., et al., 2018. What low back pain is and why 
+we need to pay attention. Lancet 391 (10137), 2356 –2367 . 
+Hayden, J.A., Ellis, J., Ogilvie, R., Malmivaara, A., van Tulder, M.W., 2021. Exercise 
+Therapy for Chronic Low Back Pain. CDSR, (9). 
+Heneweer, H., Vanhees, L., Picavet, H.S.J., 2009. Physical activity and low back pain: a 
+U-shaped relation? Pain 143 (1–2), 21–25. 
+Hill, L., Mountjoy, M., Miller, J., 2022. Non-shoulder injuries in swimming: a systematic 
+review. Clin. J. Sport Med. 32 (3), 256–264. https://doi.org/10.1097/ 
+JSM.0000000000000903 . 
+Hoy, D., Bain, C., Williams, G., et al., 2012. A systematic review of the global prevalence 
+of low back pain. Arthritis Rheum 64 (6), 2028 –2037 . 
+Iwamoto, J, Takeda, T, Sato, Y, Matsumoto, H., 2008. Retrospective case evaluation of 
+gender differences in sports injuries in a Japanese sports medicine clinic. Gend. Med. 
+5 (4), 405–414. https://dx.doi.org/10.1016/j.genm.2008.10.002 . 
+Jackson, J.L., Kuriyama, A., Anton, A., et al., 2019. The accuracy of Google Translate for 
+abstracting data from non–English-language trials for systematic reviews. Annals of 
+internal medicine 171 (9), 677–679. 
+Kaartinen, S., Aaltonen, S., Korhonen, T., Rottensteiner, M., Kujala, U.M., Kaprio, J., 
+2020. Cross-sectional associations between the diversity of sport activities and the 
+type of low back pain in adulthood. Eur. J. Sport Sci. 20 (9), 1277 –1287 . 
+Kaneoka, K., Shimizu, K., Hangai, M., et al., 2007. Lumbar intervertebral disk 
+degeneration in elite competitive swimmers: a case control study. Am. J. Sports Med. 
+35 (8), 1341 –1345. https://doi.org/10.1177/0363546507300259 . 
+Knobloch, K., Yoon, U., Kraemer, R., Vogt, P.M., 2008. Die 200- bis 400 m-Brustlage 
+dominiert bei Knieüberlastungssch aden im Schwimmsport. Sportverletz 
+Sportschaden 22 (04), 213–219. https://doi.org/10.1055/s-2008-1027987 . 
+Kovacs, F.M., Gestoso, M., Gil del Real, M.T., et al., 2003. Risk factors for non-specific 
+low back pain in schoolchildren and their parents: a population based study. Pain 
+103 (3), 259–268. https://doi.org/10.1016/S0304-3959(02)00454-2 . 
+Landis, J.R., Koch, G.G., 1977. The Measurement of Observer Agreement for Categorical 
+Data. Biometrics, pp. 159–174. 
+Levac, D., Colquhoun, H., O’Brien, K.K., 2010. Scoping studies: advancing the 
+methodology. Implement. Sci. 5, 1–9. 
+Lively, M.W., 2002. Prevalence of pre-existing recurrent low back pain in college 
+athletes. W V Med. J 98 (5), 202–204. 
+Martins, L.C.X., Paiva, J.R., Freitas, A.C., Miguel, L.B., Maia, F.R.C., 2014. Prevalence of 
+pain and associated factors in elite swimmers. Sci. Sports 29 (3), e11–e14. https:// 
+doi.org/10.1016/j.scispo.2013.08.002 . 
+Masiero, S., Carraro, E., Celia, A., Sarto, D., Ermani, M., 2008. Prevalence of nonspecific 
+low back pain in schoolchildren aged between 13 and 15 years. Int J Paediatr 97 (2), 
+212–216. https://doi.org/10.1111/j.1651-2227.2007.00603.x . 
+Matsuura, Y., Hangai, M., Koizumi, K., et al., 2019. Injury trend analysis in the Japan 
+national swim team from 2002 to 2016: effect of the lumbar injury prevention 
+project. BMJ Open Sport Exerc Med 5 (1), e000615. https://doi.org/10.1136/ 
+bmjsem-2019-000615 . 
+Mogensen, A.M., Gausel, A.M., Wedderkopp, N., Kjaer, P., Leboeuf-Yde, C., 2007. Is 
+active participation in specific sport activities linked with back pain? Scand. J. Med. 
+Sci. Sports 17 (6), 680–686. D.M. Wareham et al.                                                                                                                                                                                                                           
+Musculoskeletal Science and Practice 71 (2024) 102926
+17Mohsen, B., Reza Attarzadeh, H.S., Zohreh, B., Mehrdad, F., 2012. Swimming injuries 
+and their risk factors among Iranian elite freestyle and butterfly swimmers. Int J 
+Sports Sci Fitness 2 (2), 231–237. 
+Mueller, S., Mueller, J., Stoll, J., Prieske, O., Cassel, M., Mayer, F., 2016. Incidence of 
+back pain in adolescent athletes: a prospective study. BMC Sports Sci Med Rehabil 8. 
+https://doi.org/10.1186/s13102-016-0064-7 , 1-5.  
+Muller, J., Muller, S., Stoll, J., Frohlich, K., Otto, C., Mayer, F., 2017. Back pain 
+prevalence in adolescent athletes. Scand. J. Med. Sci. Sports 27 (4), 448–454. 
+https://doi.org/10.1111/sms.12664 . 
+Mundt, D.J., Kelsey, J.L., Golden, A.L., et al., 1993. An epidemiologic study of sports and 
+weight lifting as possible risk factors for herniated lumbar and cervical discs. The 
+Northeast Collaborative Group on Low Back Pain. Am. J. Sports Med. 21 (6), 
+854–860. 
+Mutoh, Y., 1977. Low back pain in butterfliers. Jpn. J. Phys. Fit. Sports Med. 26 (4), 
+177–181. 
+Noormohammadpour, P., Rostami, M., Mansournia, M.A., Farahbakhsh, F., Pourgharib 
+Shahi, M.H., Kordi, R., 2016. Low back pain status of female university students in 
+relation to different sport activities. Eur. Spine J. 25 (4), 1196 –1203. https://doi. 
+org/10.1007/s00586-015-4034-7 . 
+Odds Ratio – Confidence Interval, Select Statistical Services Limited. Exeter, 2023. 
+Accessed July, 2023. https://select-statistics.co.uk/calculators/confidence-interval 
+-calculator-odds-ratio/ . 
+Owen, P.J., Hangai, M., Kaneoka, K., Rantalainen, T., Belavy, D.L., 2020. Mechanical 
+loading influences the lumbar intervertebral disc. A cross-sectional study in 308 
+athletes and 71 controls. J Orth Res 39 (5), 989–997. https://doi.org/10.1002/ 
+jor.24809 . 
+Øyen, J., Torstveit, M.K., Sundgot-Borgen, J., 2009. Self-reported versus diagnosed stress 
+fractures in Norwegian female elite athletes. J. Sports Sci. Med. 8 (1), 130–135. 
+Peters, M.D., Godfrey, C.M., Khalil, H., McInerney, P., Parker, D., Soares, C.B., 2015. 
+Guidance for conducting systematic scoping reviews. JBI Evid 13 (3), 141–146. 
+Pocovi, N.C., de Campos, T.F., Christine Lin, C.W., Merom, D., Tiedemann, A., 
+Hancock, M.J., 2022. Walking, cycling, and swimming for nonspecific low back pain: 
+a systematic review with meta-analysis. J. Orthop. Sports Phys. Ther. 52 (2), 85–99. 
+https://doi.org/10.2519/jospt.2022.10612 . 
+Ribaud, A., Tavares, I., Viollet, E., Julia, M., Herisson, C., Dupeyron, A., 2013. Which 
+physical activities and sports can be recommended to chronic low back pain patients 
+after rehabilitation? Ann Phys Rehabil Med 56 (7–8), 576–594. https://doi.org/ 
+10.1016/j.rehab.2013.08.007 . 
+Ristolainen, L., Heinonen, A., Turunen, H., et al., 2010. Type of sport is related to injury 
+profile: a study on cross country skiers, swimmers, long-distance runners and soccer 
+players. A retrospective 12-month study. Scand. J. Med. Sci. Sports 20 (3), 384–393. 
+Ruddick, G.K., Lovell, G.A., Drew, M.K., Fallon, K.E., 2019. Epidemiology of bone stress 
+injuries in Australian high performance athletes: a retrospective cohort study. J. Sci. 
+Med. Sport 22 (10), 1114 –1118. https://doi.org/10.1016/j.jsams.2019.06.008 . Sato, T., Ito, T., Hirano, T., et al., 2011. Low back pain in childhood and adolescence: 
+assessment of sports activities. Eur. Spine J. 20, 94–99. https://doi.org/10.1007/ 
+s00586-010-1485-8 . 
+Sheehy, D.J., Toohey, L.A., Panagodage Perera, N.K., Drew, M.K., 2022. Despite 
+maintaining a high daily training availability, a quarter of athletes start the season 
+injured and three quarters experience injury in an Australian State Academy of 
+Sport. J. Sci. Med. Sport 25 (2), 139–145. https://doi.org/10.1016/j. 
+jsams.2021.09.003 . 
+Sjolie, A.N., 2004. Associations between activities and low back pain in adolescents. 
+Scand. J. Med. Sci. Sports 14 (6), 352–359. 
+Skoffer, B., Foldspang, A., Skoffer, B., Foldspang, A., 2008. Physical activity and low- 
+back pain in schoolchildren. Eur. Spine J. 17, 373–379. https://doi.org/10.1007/ 
+s00586-007-0583-8 . 
+Sundell, C.G., Bergstr om, E., Lars˘en, K., 2019. Low back pain and associated disability in 
+Swedish adolescents. Scand. J. Med. Sci. Sports 29 (3), 393–399. 
+Suri, P., Hunter, D.J., Boyko, E.J., Rainville, J., Guermazi, A., Katz, J.N., 2015. Physical 
+activity and associations with computed tomography-detected lumbar 
+zygapophyseal joint osteoarthritis. Spine J 15 (1), 42–49. https://doi.org/10.1016/j. 
+spinee.2014.06.022 . 
+Takatalo, J., Karppinen, J., Nayha, S., et al., 2017. Association between adolescent sport 
+activities and lumbar disk degeneration among young adults. Scand. J. Med. Sci. 
+Sports 27 (12), 1993 –2001. https://doi.org/10.1111/sms.12840 . 
+Torii, S., 2005. Relation between the experience of major joint injury in collegiate 
+athletic activity and arthralgia in later life. Jpn J Clin Sports Med 13 (2), 220–225. 
+Tricco, A.C., Lillie, E., Zarin, W., et al., 2018. PRISMA extension for scoping reviews 
+(PRISMA-ScR): checklist and explanation. Ann. Intern. Med. 169 (7), 467–473. 
+Trompeter, K., Fett, D., Platen, P., 2017. Prevalence of back pain in sports: a systematic 
+review of the literature. Sports Med. 47, 1183 –1207 . 
+Trompeter, K., Fett, D., Brüggemann, G.P., Platen, P., 2018. Prevalence of Back Pain in 
+Elite Athletes. Dtsch. Z. Sportmed. 69, 240–245. 
+Weifen, W., Muheremu, A., Chaohui, C., Md, L.W., Lei, S., 2013. Effectiveness of tai chi 
+practice for non-specific chronic low back pain on retired athletes: a randomized 
+controlled study. J Musculoskelet Pain 21 (1), 37–45. https://doi.org/10.3109/ 
+10582452.2013.763394 . 
+Wilson, F., Ardern, C.L., Hartvigsen, J., et al., 2021. Prevalence and risk factors for back 
+pain in sports: a systematic review with meta-analysis. BJSM 55 (11), 601–607. 
+Zaina, F., Donzelli, S., Lusini, M., Minnella, S., Negrini, S., 2015. Swimming and spinal 
+deformities: a cross-sectional study. Comparative Study. J Pediatr 166 (1), 163–167. 
+https://doi.org/10.1016/j.jpeds.2014.09.024 . 
+Zandwijk, P., van Koppen, B., van Mameren, H., Winkens, B., de Bie, R., 2018. Physical 
+activity preferences of patients experiencing non-specific low back pain. European 
+Journal of Physiotherapy 20 (1), 51–57. 
+Inter-rater Agreement, 2024. MedCalc Software Ltd. Version 22.019. Accessed January, 
+2024. https://www.medcalc.org/calc/kappa.php . D.M. Wareham et al.                                                                                                                                                                                                                           

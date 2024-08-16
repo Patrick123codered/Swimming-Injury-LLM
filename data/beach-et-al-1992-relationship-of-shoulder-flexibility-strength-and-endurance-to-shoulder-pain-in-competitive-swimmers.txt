@@ -1,0 +1,893 @@
+. .. -7-R.'E. .* - STUDY 
+Relationship of Shoulder Flexibility, Strength, 
+and Endurance to Shoulder Pain in 
+Competitive Swimmers 
+Mary Lee Beach, MS, PT' 
+Susan I. Whitney, PhD, MS, PT, ATC2 
+Steven A. Dickoff-Hoffman, MS, PT, ATC3 
+he swim season for the 
+competitive swimmer 
+lasts 10- 12 months 
+per year. Competitive 
+swimmers practice 5-7 
+days 1x1. week, with twice daily 
+workouts during midseason training. 
+The reported average yardage for 
+midseason swimmers is 8,000 to 
+20,000 yds per day (2, 20, 26). 
+Counsilman (5) proposed a 4: 1 ratio 
+of running to swimming, in which 4 
+miles of running are exertionally 
+equivalent to 1 mile of swimming. 
+Therefore, the average swimming 
+yardage would be equivalent to run- 
+ning more than 45 miles per dav. 
+The competitive swimmer will 
+also weight train a minimum of three 
+times per week. Common weight 
+training consists of free weights, 
+NautilusR (Nautilus, Independence, 
+VA, 24348), and a swim bench, 
+which emphasizes internal rotation 
+and shoulder extension (2, 8, 18, 2 1, 
+2.5). This intensity of training places 
+the conlpetitive swimmer at risk of 
+developing n~usculoskeletal injuries. 
+Although there are four strokes 
+in competitive swimming (freestyle, 
+butterfly, backstroke, breaststroke), 
+80% of practice time is spent per- 
+forming the freestyle stroke. This 
+percentage is independent of the 
+swimmer's specialty stroke, and, 
+therefore, the freestyle stroke is the 
+emphiisis of this study (8, 19, 25). A common complaint of competitive swimmers is shoulder pain. The purposes of this study 
+were to: 1) provide normative data on shoulder flexibility in swimmers, 2) determine if a correlation 
+exists between flexibility and shoulder pain, and 3) determine the correlation between strength and 
+endurance ratios to shoulder pain. The subjects were 28 Division I collegiate swimmers and four 
+club swimmers. Shoulder flexibility measurements were obtained bilaterally using a universal goni- 
+ometer. Strength and endurance ratios were obtained bilaterally using the Cybex I$ isokinetic 
+dynamometer and the Upper Body Exercise Table? The swimmers completed a questionnaire that 
+included a shoulder pain performance scale. The Pearson product moment correlation coefficient 
+and multiple regression (R) analysis were the applied statistics. The results demonstrated that no 
+significant correlation (p > 0.00 1) existed between shoulder flexibility, strength ratios, and shoulder 
+pain. There was a significant (p 5 0.001) negative Pearson's correlation between endurance ratios of 
+external rotation, abduction, and shoulder pain in competitive swimmers. A multiple R of 0.78 was 
+obtained for the combination of external rotation and abduction endurance ratios to shoulder pain, 
+which was significant (p I 0.00 1). Clinical implications suggest that when evaluating swimmers, 
+clinicians need to be aware of the importance of assessing the endurance ratios of the shoulder 
+abductors and the external rotators at faster speeds. With decreased endurance ratios, competitive 
+swimmers may be more likely to develop shoulder pain. 
+Key Words: swimmer, muscle strength, flexibility 
+' Associate, Metro Physical Therapy, Inc., 1501 locust Street, Suite C-8, Pittsburgh, PA 15219. At the time this 
+research was conducted, Ms. Beach was a master's candidate in the sports physical therapy track, University of 
+Pittsburgh, PA. ' Assistant professor, Department of Physical Therapy, University of Pittsburgh, Pittsburgh, PA ' Director of Sports Medicine, North Hills Sports Medicine Center, Pittsburgh, PA 
+This study was supported in part by the School of Health Related Professions Research and Development 
+Fund, University of Pittsburgh, Pittsburgh, PA. 
+A common conlplaint of compet- 
+itive swimmers is shoulder pain. The 
+incidence of shoulder pain in com- 
+petitive swimmers ranges from 40- 
+80% (2, 8, 26). A number of articles 
+have been written discussing the two 
+most common contributing factors in 
+swimmers' shoulder pain-flexibility 
+and muscle imbalances between the 
+internal and external rotators (1 2, 
+14, 18, 20, 21, 26). However, the literature is limited in demonstrating 
+any type of correlation between 
+these contributing factors and shoul- 
+der pain in competitive swimmers. 
+Although training techniques have 
+greatly improved in the past 10 
+years, the incidence of shoulder pain 
+in swimmers has not declined (1 8). 
+Researchers have stated that the 
+primary cause of shoulder pain in 
+swimmers is impingement of the ro- 
+Volume 16 Number 6 December 1992 *JOSPT 
+ Journal of Orthopaedic & Sports Physical Therapy® 
+ Downloaded from www.jospt.org at on August 12, 2024. For personal use only. No other uses without permission. 
+ Copyright © 1992 Journal of Orthopaedic & Sports Physical Therapy®. All rights reserved.
+
+RESEARCH STUDY 
+tator cuff, biceps tendon, subdeltoid 
+bursa, and subacromial bursa under 
+the coracoacromial arch (2.9, 20, 
+22). The mechanism of injury is be- 
+lieved to be a result of repetitive 
+stress, overuse, and improper stroke 
+mechanics (2, 9, 21, 23). 
+Discrepancies in the literature 
+exist regarding flexibility and its role 
+in shoulder injury (I 1, 14, 18, 21, 
+26). Some authors (I I, 14, 18, 26) 
+have suggested that a lack of shoul- 
+der flexibility in swimmers contrib- 
+utes to shoulder injury. On the other 
+hand, McMaster (2 1) discussed the 
+influence of hyperflexibility in swim- 
+mers, which may cause a multitude 
+of shoulder problems. Only one au- 
+thor has shown objective documenta- 
+tion for his/her opinion on swim- 
+mers' excessive/limited shoulder 
+flexibility (14). The data collected by 
+Greipp (1 4) were limited to one 
+measurement of the anterior shoul- 
+der compartment. He was able to 
+predict at a 90% accuracy rate at 
+which swimmers, based on their pre- 
+season shoulder flexibility measure- 
+ment, would develop shoulder pain 
+during that swim season. 
+Several studies have compared 
+shoulder internal/external rotation 
+strength ratios of baseball players 
+and nonathletes at 60, 180, and 
+240°/sec (3, 4, 16, 23, 29). The ob- 
+tained unilateral antagonistic ratios 
+were 3:2 for internal rota- 
+tion:external rotation and 2: 1 for ad- 
+duction:abduction across a velocity 
+spectrum. There was no significant 
+difference between the dominant 
+and nondominant arm or the speed 
+of testing. In these studies, the test 
+position was supine for internal/ex- 
+ternal strength ratios. One of two 
+known studies to test swimmers' in- 
+ternal/external rotation strength ra- 
+tios was completed by Falkel et al 
+(1 1). He tested the swimmers prone 
+to mimic specificity in sports testing 
+and achieved greater torque produc- 
+tion in the prone position compared 
+with supine. Beasley's (I) study sup 
+ported the preliminary work of Fal- 
+kel et al (I l). She found that exter- nal to internal rotator concentric ra- 
+tios at 60°/sec tested in the prone 
+position were significantly greater (p 
+< 0.05) for swimmers compared to 
+nonathletes. Falkel and Murphy (1 2), 
+in an unpublished follow-up study, 
+reported on "endurance ratios" for 
+external rotators vs. internal rota- 
+tors. Their results showed endur- 
+ance of 67.8% for external/internal 
+rotation in nonswimmers, 56.1 % in 
+swimmers without shoulder pain, 
+and 42.0% in swimmers with shoul- 
+der pain (12). The need for further 
+research is apparent. 
+The purposes of this study were 
+to: 1) provide normative data on 
+elite swimmers' shoulder flexibility, 
+2) determine if a correlation exists 
+between excessive or limited flexibil- 
+ity and shoulder pain, 3) determine 
+Eighty percent of 
+practice time is spent 
+performing the 
+freestyle stroke. 
+the correlation coefficient between 
+external/internal and abductionlad- 
+duction strength ratios to shoulder 
+pain, and 4) determine the endur- 
+ance ratios for 50 repetitions of in- 
+ternal rotation, external rotation, 
+and abduction and adduction, and 
+their correlation to shoulder pain. 
+The null hypothesis for this study 
+was that no correlation existed be- 
+tween shoulder flexibility, shoulder 
+strength, or endurance ratios and 
+pain experienced by swimmers. 
+METHOD 
+Subjects 
+Thirty-two swimmers volun- 
+teered to participate in this study. 
+Seven males and 2 1 females were 
+members of the University of Pitts- 
+burgh Division I Swimming team. One male and three females were 
+club swimmers (three of the club 
+swimmers would be competing for a 
+Division I team and the fourth swim- 
+mer was a 15-year-old Junior Olym- 
+pic qualifier). The swimmers were all 
+accepted into the study without 
+screening for prior or present shoul- 
+der injury. One individual was ex- 
+cluded from the study secondary to 
+recent shoulder surgery and lack of 
+medical clearance. The University of 
+Pittsburgh intercollegiate swimmers 
+who volunteered for this study were 
+accepted regardless of their current 
+level of shoulder symptoms because 
+swimmers frequently practice with 
+shoulder pain. Therefore, the intent 
+was to test all swimmers, regardless 
+of their present level of shoulder 
+pain. Seventy percent of the Univer- 
+sity of Pittsburgh male swim team 
+and 91 % of the female swim team 
+participated in this study. The age 
+range was 15-2 1, and the mean was 
+19 for both males and females. The 
+participants signed an informed con- 
+sent according to the regulations of 
+the Biomedical Interna! Review 
+Board of the University of 
+Pittsburgh. 
+Procedure 
+A questionnaire adapted from 
+the United States Swimming Associa- 
+tion (28) was completed by all partic- 
+ipants (Table 1). Attached to the 
+questionnaire was a modified version 
+of the shoulder pain performance 
+scale established by Greipp (14) 
+(Table 2). 
+After completing the question- 
+naire, each subjects' shoulder flexi- 
+bility was tested in the supine posi- 
+tion using a universal goniometer. 
+The lower extremities were flexed 
+bilaterally to maintain the spine in a 
+neutral position (1 0) (Figure 1). 
+Standard goniometric tests were per- 
+formed for active internal/external 
+rotation measured at 90" of shoul- 
+der abduction (I 0. 13, 19). Active 
+horizontal abduction and adduction 
+were measured with shoulder flexion 
+JOSPT Volume 16 Number 6 December 1992 
+ Journal of Orthopaedic & Sports Physical Therapy® 
+ Downloaded from www.jospt.org at on August 12, 2024. For personal use only. No other uses without permission. 
+ Copyright © 1992 Journal of Orthopaedic & Sports Physical Therapy®. All rights reserved.
+
+RESEARCH STUDY 
+1. At what age did you first swim competitively? 
+2. List 100 and 200 times you swim, with current 
+best times. 
+3. How many workouts per week do you partici- 
+pate in now? 
+4. How many yards per day do you swim in 
+workouts? 
+5. How many months will you train this year? 
+6. Have you ever stretched before workouts? 
+7. At what age did you first start stretching? 
+8. Do you stretch before workouts now? 
+9. If sometimes, how often? 
+10. Have you ever used surgical tubing to stretch? 
+11. Do you now use surgical tubing to stretch? 
+12. If yes, how often? 
+13. If yes, for how long? 
+14. Have you ever used weight training in your 
+workouts? 
+15. Do you use weight training in your workouts 
+? 
+1 
+1 
+1 
+1 
+20. At what age did you t~rst begln us~ng welgnrs! 
+21. Have you ever used hand paddles in work- 
+outs? 
+22. Do you use hand paddles in your workouts 
+now? 
+23. Have you ever experienced shoulder pain? 
+24. Do you have shoulder pain now? (such that 
+your training has been altered) 
+25. If yes, how long have you had shoulder pain? 
+TABLE 1. United States Swimming Sports Medicine 
+Shoulder Pain Questionnaire. (Adapted from Troop 
+(28), with permission). 
+Please circle the number that corresponds to your 
+present shoulder pain level: 
+No pain 
+Occasional shoulder pain which lasts less than 
+two hours. No problem. 
+Shoulder pain lasting longer than 2 hours fol- 
+lowing swim practice. 
+Shoulder pain experienced on forceful arm 
+movements. 
+Shoulder pain which is annoying for perhaps 
+eight hours a day. Could have affected my 
+practice abilities. 
+Pain was very annoying. Almost certainly af- 
+fected my ability to practice hard. 
+Severe shoulder pain, lasting at least 12 hours 
+a day (unless I used ice, medication, etc). 
+Almost impossible to practice hard. 
+TABLE 2. Swimmer's Shoulder Pain Scale. (Adapted 
+from Creipp (14), with permission). FIGURE 1. Coniometric test position lor external 
+rotation. 
+to 90". the forearm in the neutral 
+position, and the elbow extended. 
+The position for active shoulder 
+flexion was with the palm of the 
+hand facing upward and the elbow 
+extended with the arm over the side 
+of the table. Active shoulder abduc- 
+tion was assessed with the scapula 
+supported on the table, the elbow 
+extended, and the palm facing up 
+ward (1 0). The end point was deter- 
+mined by the swimmer's maximal ac- 
+tive range precluding observable 
+substitution. One bilateral measure- 
+ment of each of the following active 
+motions was recorded: shoulder flex- 
+ion, extension, abduction, horizontal 
+abduction, horizontal adduction and 
+internal and external rotation (1 0, 
+13. 19). An intratester reliability 
+coefficient of 0.95 was established in 
+a pilot study using 42 physical ther- 
+apy students and the same proce- 
+dures for the shoulder flexibility 
+measurements. 
+Following the flexibility meas- 
+urements, strength was tested with a 
+Cybex II@ (Cybex Division of Lu- 
+mex, Inc, Ronkonkoma, NY, 1 1799) 
+isokinetic dynamometer, an Upper 
+Body Extremity Testing Tablem and 
+the Cybex Data Reduction Com- 
+puter. One of many definitions for 
+strength is the ability of a muscle 
+group to exert a force about an axis. 
+For the purpose of this study, the 
+parameter to indicate strength was 
+peak torque. Strength (peak torque) 
+ratios were obtained for externallin- 
+ternal rotation and abduction/adduc- 
+tion at 60" sec and endurance ratios for 50 repetitions at 240°/sec, ac- 
+cording to the manufacturer's rec- 
+ommendations (7). The strength 
+decrement (endurance ratio) was cal- 
+culated by dividing the mean of the 
+peak torque for the last three con- 
+tractions by the mean of the peak 
+torque for the first three contrac- 
+tions x 100. The 240°/sec was se- 
+lected as an appropriate sport-spe- 
+cific speed based on the following 
+mathematical equation: 
+O/sec = (360°/stroke) x (number of 
+strokes/arm/sec for 25 yards), 
+which was obtained from a study 
+completed by Craig (6). Richardson 
+(26) reported that the average num- 
+ber of arm strokes per 25 yds of the 
+pool was 20. An average time (sec- 
+onds for 25 yards) was obtained for 
+this specific sample during one of 
+their swimming practices. The Cy- 
+bex I1 dynamometer was calibrated 
+according to the manufacturer's 
+specifications before testing began 
+(7). The damping was set at two (2). 
+and the paper speed was set at 5 mm 
+per second (30). 
+The axis of the Cybex !I was 
+aligned with the axis of the humerus 
+in the prone position for externall 
+internal rotation with the arm at 90" 
+of abduction (1 1) (Figure 2). velcrodU 
+straps were used to stabilize the waist 
+and chest. The subjects completed 
+three submaximal repetitions at the 
+specified speed prior to testing. A 
+30-second rest occurred between 
+warm-up and the initiation of the 
+test. The test included three repeti- 
+tions of maximum effort at 60°/sec 
+and an endurance trial of 50 repeti- 
+tions at 240°/sec. One-minute rest 
+periods were provided between test- 
+ing speeds (27). No verbal encour- 
+agement was given. All tests were 
+completed bilaterally, and the testing 
+order was randomized. 
+Data Analysis 
+The Pearson product moment 
+correlation coefficient and multiple 
+regression (R) analysis were com- 
+Volume 16 Number 6 kember 1992 JOSPT 
+ Journal of Orthopaedic & Sports Physical Therapy® 
+ Downloaded from www.jospt.org at on August 12, 2024. For personal use only. No other uses without permission. 
+ Copyright © 1992 Journal of Orthopaedic & Sports Physical Therapy®. All rights reserved.
+
+RESEARCH STUDY 
+FIGURE 2. Cybex IP prone test position for 
+external/internal rotation. 
+puted to determine if a relationship 
+existed between the variables. The 
+significance level for all variables in- 
+vestigated was P < 0.00 1. Three 
+paired t-test analyses of the data 
+were computed to indicate if there 
+was a significant difference (p < 
+0.05) between right and left range of 
+motion, strength, and endurance 
+ratios. 
+RESULTS 
+In the sample of swimmers stud- 
+ied, the average age that the swim- 
+mers began competition was 8 (s = 
+2). They now participate in eight 
+practices/week (s = 2), with an aver- 
+age yardage/workout of 7,000 yds (s 
+= 2,000 yds). The swimmers practice 
+10 months per year (2 1 month). 
+Ninety-seven percent stretch prior to 
+workout and started stretching at 
+age 10 (s = 3). Ninety-one percent of 
+the swimmers are on a weight train- 
+ing program. Ninety-four percent of 
+these individuals train with free 
+weights, 94% train with Nautilus, 
+and 63% use the swim bench. None 
+of the athletes uses any other equip 
+ment for strength training. The 
+mean age at which the swimmers 
+started weight training was 14 (s = 
+2). Ninety-four percent of three indi- 
+viduals had ever used hand paddles, 
+with only 4 1 % presently using hand 
+paddles. The percent of swimmers 
+who had ever experienced shoulder 
+pain was 87%. Sixty-nine percent 
+presently experience some degree of 
+shoulder pain, and 3 1% have shoul- 
+der pain that is presently effecting 
+their swimming ability. The mean shoulder flexibility 
+and standard deviation measure- 
+ments as well as correlation coeffi- 
+cients for left and right shoulder 
+flexibility to shoulder pain appear in 
+Table 3. There was a low and non- 
+significant correlation between 
+shoulder flexibilitv and competitive 
+swimmers with shoulder pain (p > 
+0.001). There was no significant dif- 
+ference between the right and left 
+range of motion measurements (p > 
+0.0.5). 
+The results of the mean ratios 
+for external/internal rotation and 
+abduction/adduction for left and 
+right shoulder strength as well as 
+correlation for strength ratios to 
+shoulder pain are summarized in Ta- 
+ble 4. Mean endurance ratios for ex- 
+ternal rotation, internal rotation, ab- 
+duction and adduction, and correla- 
+tion coefficients for endurance ratios 
+to shoulder pain are summarized in 
+Table 5. There was no significant 
+difference between the right and left 
+shoulder mean percent ratios (P > 
+0.05). Very low and nonsignificant 
+correlations, shown in Table 4, were found between external/internal ro- 
+tation and abduction/adduction 
+strength ratios and shoulder pain in 
+swinimers. The correlation coeffi- 
+cients in Table 5 for endurance ra- 
+tios of 50 repetitions for both exter- 
+nal rotation and abduction at 240'1 
+sec showed a significant correlation 
+to shoulder pain (p < 0.00 1). This 
+represents a moderately negative 
+correlation-as the endurance ratios 
+of external rotation and abduction 
+decrease, the reported value on the 
+pain scale increases. 
+The results of the multiple 
+regression (R) analysis showed a sig- 
+nificant multiple regression coeffi- 
+cient of 0.73 for the left and 0.78 
+for the right for the combined vari- 
+ables of external rotation and abduc- 
+tion endurance ratios to shoulder 
+pain in swimmers (p < 0.001). The 
+R' was 0.54 left and 0.60 right, 
+which indicates that more than 54% 
+and 60% of the variation in pain rat- 
+ing could be explained by the combi- 
+nation of external rotation and ab- 
+duction ratios at 240°/sec in the left 
+and right sides, respectively. 
+TABLE 3. Left and right shoulder flexibility in supine and correlation coefficients lor shoulder flexibility to 
+shoulder pain. 
+TABLE 4. Left and right shoulder strength ratios of external/internal rotation and abduction/adduction and the 
+correlation coefficients for strength ratios to shoulder pain. 
+JOSPT Volume 16 Number 6 December 1992 
+ Journal of Orthopaedic & Sports Physical Therapy® 
+ Downloaded from www.jospt.org at on August 12, 2024. For personal use only. No other uses without permission. 
+ Copyright © 1992 Journal of Orthopaedic & Sports Physical Therapy®. All rights reserved.
+
+RESEARCH STUDY 
+Mean Standard Correlation (r) Previous literature indicates that 
+Endurance Ratio Peak Torque Deviation to Shoulder Pain internal rotation strength is greater 
+for 50 Repetitions than external rotation strength by 
+at 240'/sec Lefi Right Lefi Right 
+(%I (Oh) (%I (%I Right approximately a 3:2 ratio (3, 4, 29, 
+16). A 3:2 ratio (67%) and the actual 
+External rotation 80 78 23 22 -.61* -.69' 
+106 107 17 17 value obtained from the data in this Internal rotation -.24 -.46 
+Abduction 55 60 36 37 -.55' -.63' study (7 1 % left and 70% right) are 
+Adduction 124 127 25 36 -.01 .07 quite similar. In Table 5, the stand- 
+I ! _ 1 r--~ ---&--- ' Significant at p < 0.001 
+TABLE 5. left and right shoulder endurance ratios of external mtation, internal mtation, abduction and 
+adduction and correlation coeHicients for endurance ratios to shoulder pain. The endurance ratio was defined 
+as the mean of the peak toque for the last three repetitions divided by the mean of the peak toque for the 
+first three repetitions multiplied by 100. 
+DISCUSSION 
+The descriptive findings concur 
+with the study by Richardson et al 
+(26). which reported that the major- 
+ity of successful swimmers have 
+fewer than 1-2 months of unsched- 
+uled practices per year in a swim- 
+ming career that lasts 10-1 5 years. 
+The incidence of shoulder pain, the 
+number and amount of workouts, 
+and yardage these subjects com- 
+pleted were representative of the 
+characteristics of the competitive 
+swimmer previously described in the 
+literature (2, 20, 22-24, 26). 
+The mean range of motion in 
+Table 3 demonstrated that the swim- 
+mers in this study were hypomobile 
+in internal rotation compared with 
+published standards, which report 
+that normal internal rotation range 
+of motion is 90" (1 0). Pappas (25) 
+hypothesized that limited internal 
+rotation was the result of reactive fi- 
+brosis of the capsular tissues because 
+of repetitive microtrauma in individ- 
+uals with shoulder impingement. 
+The mean range of motion for 
+shoulder external rotation and ab- 
+duction demonstrated hypermobility 
+in these directions when compared 
+with normative data (external rota- 
+tion = go0, abduction = 180"). 
+Individuals competing in over- 
+head sports have often been re- 
+ported to demonstrate at least a 15" 
+increase in shoulder external rota- 
+tion and abduction range of motion (1 5) compared with published stand- 
+ards (I 0). 
+Although most of the literature 
+on rehabilitation of swimmers em- 
+phasizes passive stretching into ex- 
+ternal rotation for the shortened in- 
+ternal rotators, the results of this 
+study show that external rotation 
+range of motion is 10- 1 1 " greater 
+than normal (2, 8, 14, 18, 21). The 
+average mean internal rotation was 
+quite limited-45" right and 49" 
+left. The greatest amount of internal 
+rotation measured in any of the 
+swimmers was 70". None of the 
+treatment protocols presently de- 
+scribed in the literature addresses 
+the issue of shortening of the exter- 
+nal rotators (1 I, 14, 18, 20, 26). 
+In addition, the idea that shoul- 
+der mobility may cause shoulder 
+pain may not be important, given 
+that the correlation coefficients of 
+shoulder flexibility to shoulder pain 
+in swimmers were extremely low and 
+nonsignificant (Table 3). 
+The majority of swimmers in this 
+study were hypermobile in shoulder 
+abduction, external rotation and 
+flexion compared with published 
+norms (1 0). but not all swimmers ex- 
+perienced shoulder pain. Similarly, 
+all of the swimmers were hypomobile 
+in shoulder internal rotation, but not 
+all swimmers experienced shoulder 
+pain. Therefore, there was little cor- 
+relation between hypermobility or 
+hypomobility and shoulder pain in 
+competitive swimmers. ara aeviation was large ror me exter- 
+nal rotation endurance ratio due to 
+the fact that a few swimmers with a 
+pain scale rating above one were un- 
+able to maintain enough torque to 
+register on the computer, and their 
+rating was zero. 
+The results of the shoulder ab- 
+duction/adduction strength and en- 
+durance ratios, represented in Ta- 
+bles 4 and 5, are similar to "normal" 
+(3,4, 16, 29) values for abduction1 
+There was a low and 
+nonsignificant 
+correlation between 
+shoulder flexibiliiy and 
+competitive swimmers 
+with shoulder pain. 
+adduction. In Table 4, adduction 
+strength was found to be greater 
+than abduction strength by approxi- 
+mately a 2: 1 ratio, which corre- 
+sponds to previous studies by Con- 
+nelly et al (3), Cook et al (4), Weldon 
+et al (29), and Ivey and Calhoun 
+(1 6). The actual value obtained from 
+this study (57% on the left and 56% 
+on the right) was very similar to the 
+reported "normal" ratio of 50%. 
+There was no significant correlation 
+between externallinternal rotation 
+and abduction/adduction strength 
+ratios and shoulder pain in competi- 
+tive swimmers (Table 4). 
+Adduction endurance ratios 
+were greater than loo%, which indi- 
+cates that the adductors were getting 
+stronger through the testing period 
+while the abductors, with a mean of 
+Volume 16 Number 6 December 1992 JOSPT 
+ Journal of Orthopaedic & Sports Physical Therapy® 
+ Downloaded from www.jospt.org at on August 12, 2024. For personal use only. No other uses without permission. 
+ Copyright © 1992 Journal of Orthopaedic & Sports Physical Therapy®. All rights reserved.
+
+RESEARCH STUDY 
+60'31, were getting weaker (Table 5). 
+The standard deviation is larger for 
+the abduction endurance ratio due 
+to the fact that a few swimmers with 
+a pain scale rating above one were 
+unable to maintain enough torque to 
+register on the computer, and their 
+percent ratios were zero. 
+The correlation coefficients for 
+the endurance ratios of 50 repeti- 
+tions for both external rotation and 
+abduction at 240°/sec represented a 
+moderately high negative correla- 
+tion. The negative correlation indi- 
+cated that as the endurance ratios of 
+external rotation and abduction de- 
+Individuals competing 
+in overhead sports 
+have offen been 
+reported to 
+demonstrate at least a 
+IS0 increase in 
+shoulder external 
+rotation and 
+abduction range of 
+motion. 
+creased, the reported value on the 
+pain scale increased (Table 5). Falkel 
+and Murphy (1 2) reported that 
+swimmers with shoulder pain have 
+significantly lower absolute external 
+rotation endurance than swimmers 
+without shoulder pain. Their work is 
+similar to this study's findings of a 
+moderately high negative correlation 
+between endurance ratios of exter- 
+nal rotation, abduction, and shoul- 
+der pain in swimmers. 
+The first and second parts of the 
+null hypothesis, which state that 
+there is no correlation between 
+shoulder flexibility and strength ra- 
+tios for external/internal rotation, abduction/adduction, and shoulder 
+pain experienced by swimmers, are 
+not rejected. The third part of the 
+null hypothesis, which states that 
+there is no correlation between ex- 
+ternal rotation, abduction endur- 
+ance, and shoulder pain in competi- 
+tive swimmers is rejected as a result 
+of significant correlation (p I 0.00 1) 
+to shoulder pain. 
+The limitations of this study in- 
+clude a relatively small sample size, 
+no distinction between the influence 
+of various pathologies, such as im- 
+pingement, subluxation, labrum 
+tears, or multidirectional instabili- 
+ties, and limited familiarity of the 
+subjects with testing procedures. 
+This study illustrates the need for 
+further research. Possible future 
+studies include correlating the ef- 
+fects of different pathologies (ie., im- 
+pingement, subluxation, and labrum 
+tears) on endurance ratios and shoul- 
+der pain in swimmers. A second 
+study incorporating an intervention 
+program of endurance training for 
+the external rotators and abductors 
+could determine if improved endur- 
+ance ratios decrease the incidence of 
+shoulder pain in swimmers. 
+CONCLUSION 
+The results of the multiple 
+regression analysis of external rota- 
+tion and abduction endurance ratios 
+showed a significant correlation to 
+shoulder pain in competitive swim- 
+mers. This suggests that when evalu- 
+ating swimmers, the clinician needs 
+to be aware of the importance of as- 
+sessing the endurance ratios of the 
+shoulder abductors and the external 
+rotators at 240°/sec, because as the 
+endurance ratios decreased, the re- 
+ported level of pain and dysfunction 
+increased. The flexibility data 
+showed an extremely low, nonsignifi- 
+cant correlation to shoulder pain. In 
+light of the data obtained from this 
+study, present treatment protocols 
+that encourage stretching into exter- 
+nal rotation should be questioned. 
+psl'-r ACKNOWLEDGMENTS 
+The authors greatly appreciate 
+the cooperation and support of Ste- 
+phen Ford and members of the Uni- 
+versity of Pittsburgh swimming 
+team, their coaches, and the athletic 
+training department in preparation 
+of this study. We also thank Dr. John 
+Bolvin for his guidance and 
+encouragement. 
+REFERENCES 
+I. Beasley R: Antagonistic and eccentric/ 
+concentric strength ratios of the shoul- 
+der internal and external rotators in 
+women swimmers and nonathletes. 
+(abstr) Phys Ther 69(5): 15 1, 1989 
+2. Ciullo /V, Stevens C: The prevention 
+and treatment of injuries to the shoul- 
+der in swimmers. Sports Med 7: 182- 
+204, 1989 
+3. Connelly Maddux RE, Kibler WB, Uhl 1: lsokinetic peak torque and work 
+values for the shoulder. / Orthop 
+Sports Phys Ther 1 O(7): 264-269, 1989 
+4. Cook EE, Cray VL, Savinar-Nogue E, 
+Medeiros 1: Shoulder antagonistic 
+strength ratios: A comparison between 
+college-level basebali pitchers and 
+nonpitchers. I Orthop Sports Phys Ther 
+8(9): 451-461, 1987 
+5. Counsilman /E: The Science of Swim- 
+ming, Englewood Cliffs, N/: Prentice- 
+Hall, 1968 
+6. Craig AB: Use of stroke rate, distance 
+per stroke and velocity relationships 
+during training for competitive swim- 
+ming. In: Terauds /, Bedingfield E (eds), 
+Swimming 111 Baltimore, MD: Univer- 
+sity Park Press, 1 978 
+7. Cybex: Isolated joint testing and exer- 
+cises: A handbook for using Cybex 11 
+and the UBXT. Ronkonkoma, NY: Cy- 
+bex, Division of Lumex Inc., 1983 
+8. Dominguez RH: Shoulder pain in age- 
+group swimmers. In: Eriksson B, Fur- 
+burg B (eds), Swimming Medicine IV, 
+Baltimore, MD: University Park Press, 
+1978 
+9. Dominguez RH: Shoulder pain in 
+swimmers. Phys Sports Med 8(7): 37- 
+42, 1980 
+10. Duesterhaus Minor MA, Duesterhaus 
+Minor S: Patient Evaluation Methods 
+for the Health Professional, Reston, 
+VA: Reston Publishing Company, 1985 
+I I. FalkellE, Murphy TC, Murray TF: Prone 
+positioning for testing shoulder inter- 
+nal and external rotation on the Cybex 
+I1 isokinetic dynamometer. / Orthop 
+JOSPT Volume 16 Number 6 December 1992 
+ Journal of Orthopaedic & Sports Physical Therapy® 
+ Downloaded from www.jospt.org at on August 12, 2024. For personal use only. No other uses without permission. 
+ Copyright © 1992 Journal of Orthopaedic & Sports Physical Therapy®. All rights reserved.
+
+RESEARCH STUDY 
+Sports Phys Ther 8(7):368-370, 1987 
+12. Falkel /E, Murphy TC: Case principles: 
+Swimmer's shoulder. In: Malone TE 
+(ed), Shoulder Injuries, Sports Injury 
+Management, Vol. I, No. 2, Baltimore, 
+MD: Williams & Wilkins, 1988 
+13. Cajdosik RL, Bohannon RW: Clinical 
+measurements of range of motion: Re- 
+view of goniometry emphasizing reli- 
+ability and validity. Phys Ther 67(12): 
+1867-1872, 1987 
+14. Creipp IF: Swimmer's shoulder: Influ- 
+ence of flexibility and weight training. 
+Phys Sports Med l3(8): 92- 105, 1985 
+15. Harner CD: The unstable shoulder 
+pathophysiology and diagnosis. Pre- 
+sented at the annual Panther Sports 
+Medicine Symposium, Pittsburgh, PA, 
+December, 1 989 
+16. lvey FM, Calhoun /H: lsokinotic testing 
+of shoulder strength: Normal values. 
+Arch Phys Med Rehabil66: 384-386, 
+1985 
+17. lobe FW: (Commentary) Patterns of 
+flexibility, laxity, and strength in nor- 
+mal shoulders and shoulders with in- 
+stability and impingement. Am / Sports 
+Med 18(4): 375, 1990 18. lohnson I: Musculoskeletal injuries in 
+competitive swimmers. Mayo Clin 
+Proc 62: 289-304, 1987 
+19. Kapandji IA: The Physiology of the 
+loints: Upper Limb, New York, NY: 
+Churchill Livingstone Inc., 1982 
+20. Kennedy IC, Hawkins R, Krissoff WB: 
+Orthopaedic manifestations of swim- 
+ming. Am I Sports Med 6: 309-322, 
+1978 
+21. McMaster WC: Anterior glenoid la- 
+brum damage: A painful lesion in 
+swimmers. Am I Sports Med 14: 383- 
+387, 1986 
+22. McMaster WC: Painful shoulder in 
+swimmers: A diagnostic challenge. 
+Phys Sports Med 14(12): 108-122, 
+1986 
+23. Moynes DR, Perry 1, Antonelli Dl, lobe 
+FW: Electromyography and motion 
+analysis of the upper extremity in 
+sports. Phys Ther 66(12): 1905- 19 1 1, 
+1986 
+24. Nuber C, lobe FW, Perry IK, Moynes 
+DR, Antonelli D: Fine wire EMC analy- 
+sis of the shoulder during swimming. 
+Am I Sports Med 14: 7- 1 1, 1986 
+25. Pappas AM, Zawacki RM, McCarthy CF: Rehabilitation of the pitching 
+shoulder. Am I Sports Med 13: 223- 
+235, 1985 
+26. Richardson AB, lobe FW, Collins HR: 
+The shoulder in competitive swim- 
+ming. Am / Sports Med 8(3): 159- 163, 
+1980 
+27. Stratford PW, Bruulsema A, Maxwell B, 
+Black T, Harding B: The effect of inter- 
+trial rest internal on the assessment of 
+isokinetic thigh muscle torque. I Or- 
+thop Sports Phys Ther 1 1(8): 362-366, 
+1990 
+28. Troup I: United States Swimming 
+Sports Medicine Shoulder Pain Ques- 
+tionnaire. United States Olympic 
+Training Center Swimming, 1750 East 
+Boulder Street, Colorado Springs, CO 
+80909-5770 (personal communica- 
+tion) 
+29. Weldon C, Snouse SL, Shultz S: Nor- 
+mative strength values for knee, shoul- 
+der, elbow and ankle for females ages 
+9-73 as determined by isokinetic test- 
+ing. Athl Train 23(4): 325-33 1, 1988 
+30. Winter DA, Wells RP, Orr CW: Errors 
+in the use of isokinetic dynamometers. 
+Eur / Appl Physiol43: 397-408, 198 1 
+Volume 16 Number 6 December 1992 JOSPT 
+ Journal of Orthopaedic & Sports Physical Therapy® 
+ Downloaded from www.jospt.org at on August 12, 2024. For personal use only. No other uses without permission. 
+ Copyright © 1992 Journal of Orthopaedic & Sports Physical Therapy®. All rights reserved.
+

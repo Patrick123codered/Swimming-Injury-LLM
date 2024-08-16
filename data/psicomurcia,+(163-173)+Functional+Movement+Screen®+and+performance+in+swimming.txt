@@ -1,0 +1,801 @@
+Correspondence to: Pedro Duarte -Mendes . Dirección Postal: Department of Sports and Well -
+being, Polytechnic Institute of Castelo Branco, Rua Prof. Dr . Faria de Vasconcelos, 6000 -266 
+Castelo Branco, Portugal.  Tel: (+351) 272339100 . Email:  pedromendes@ipcb.pt  
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+Cuadernos de Psicología del Deporte, vol. 21, 2, 163-173     © Copyright 2018 : Servicio de Publicaciones de la Universidad de  Murcia  
+Recibido:  27/07/2020          Murcia (España) ISSN edición impresa:  1578 -8423  
+Aceptado:  16/02/2021                    ISSN  edición  web (http://revistas.um.es/cpd  ): 1989 -5879  
+ 
+ 
+ 
+ 
+Functional Movement Screen® evaluation: comparison between elite and 
+non-elite young swimmers  
+ 
+Evaluación Functional Movement Screen®: Comparación entre nadadores 
+jóvenes de élite y no élite  
+Evaluación Functional Movement Screen®: Comparación entre 
+nadadores jóvenes de élite y no él ite 
+Lucas, D.1, Neiva, H. P.1,2, Marinho, D. A.1,2, Ferraz, R.1,2, Rolo, I.1, Duarte -Mendes, P.3,4 
+1 Department of Sport Sciences, University of Beira Interior, Covilhã, Portugal ; 2 Research Center in 
+Sport Sciences, Health Sciences and Human Development (CIDESD), Covilhã, Portugal ; 3 Department of 
+Sports and Well -being, Polytechnic Institute of Castelo Branco, Castelo Branco, Portugal ; 4 Sport, 
+Health & Exercise Research Unit  (SHERU) , Polytechnic Institute of Castelo Branco, Castelo Branco, 
+Portugal  
+ 
+ABSTRACT   
+Functional Movement Screen® (FMS®) allows to assess athlete’s movement functionality. Movement funcionality in 
+young elite and non -elite swimmers may predict future performance. The purpose of this study is to compare FMS® 
+scores between young elite and non -elite swimmers, and to verify their relationship with 100m freestyle performance. 
+Thirty -two elite swimmers (age: 14.99 ± 0.13 years old; height: 1.71 ± 0.02 m; body mass: 61.28 ± 1.27 kg; 
+Fédération Internationale de Natation [FINA] points: 651.59 ± 6.44) and 17 non -elite swimmers (age: 14.65 ± 0.19 
+years old; height: 165.12 ± 2 .03 cm; body mass: 57.22 ± 2.43 kg; FINA points: 405.71 ± 21.41) volunteered to 
+participate in this cross -sectional study. Individual -test FMS® scores, FMS® composite score and FINA points were 
+considered for analysis.  Elite swimmers achieved higher Deep S quat ( p = 0.005; ES = 0.99), Right Hurdle Step ( p = 
+0.005; ES = 0.99), Left Hurdle Step ( p = 0.002; ES = 1.08), Trunk Stability Push Up ( p < 0.001; ES = 1.44) and 
+FMS® composite ( p < 0.001; ES = 1.35) scores compared to non -elite swimmers. FMS® composite s cores were 
+positively related with 100m freestyle performance (r = 0.596, r2 = 40.9%, p < 0.001).  Young non -elite swimmers 
+reveal functional deficits in tasks involving mobility of the hips,  knees and ankles, and stabilization of the core and 
+spine. Higher movement functionality is positively related with 100m freestyle performance. Swimming coaches 
+should consider these deficits and their relationship with performance to differentiate exerci se prescription between 
+this populations.  
+ 
+Keywords:  Swimming Performance; Functional Performance; Competitive Swimmers; Movement Screen; Young 
+Swimmers .  
+ 
+ Cita: Dineia, L , Neiva, H. P. , Marinho, D. A. , Ferraz, R. , Rolo, I. , Duarte -Mendes, P.  (2021) . 
+Functional Movement Screen® evaluation: comparison between elite and non -elite young swimmers . 
+Cuadernos de Psicología del Deporte,  21(2), 163-173 
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+ 
+ 
+Dineia  et al.  
+ 164 
+RESUMEN   
+O Functional Movement Screen® (FMS®) permite avaliar a funcionalidade do movimento em atletas. A 
+funcionalidade do movimento em jovens nadadores de elite e não -elite pode prever o desempenho futuro. O objetivo 
+deste estudo é comparar os scores do FMS® entre jovens nadadores de elite e não -elite e verificar sua relação com o 
+desempenho de 100m no estilo livre. Trinta e dois nadadores de elite (idade: 14,99 ± 0,13 anos; altura: 1,71 ± 0,02 
+m; massa corporal: 61,28 ± 1,27 kg; Fédération Internationale de Natation [FINA] pontos: 651,59 ± 6,44) e  17 
+nadadores não -elite (idade: 14,65 ± 0,19 anos; altura: 165,12 ± 2,03 cm; massa corporal: 57,22 ± 2,43 kg; pontos 
+FINA: 405,71 ± 21,41) que se voluntariaram para participar neste estudo transversal. Scores  FMS® de teste 
+individual, scores  composto s FMS®  e pontos FINA foram considerados para análise. Nadadores de elite alcançaram 
+valores mais elevados no Deep Squat  (p = 0,005; ES = 0,99), Right Hurdle Step  (p = 0,005; ES = 0,99 ), Left Hurdle 
+Step (p = 0,002; ES = 1,08), Trunk Stability Push Up  (p < 0,001); ES = 1,44) e FMS® compostos ( p < 0,001; ES = 
+1,35) em comparação com nadadores não elite. Os scores  compostos do FMS® foram positivamente relacionados 
+com o desempenho de 100m no estilo livre (r = 0,596, r2 = 40,9%, p < 0,001). Jovens nadadores do grupo não -elite 
+revelam défices funcionais em tarefas que envolvem mobilidade das ancas, joelhos e tornozelos e estabilização do 
+núcleo e da coluna. A maior funcionalidade de movimento está positivamente relacionada ao desempenho de 100m 
+estilo livre. O s treinadores de natação devem considerar esses défices e sua relação com o desempenho para 
+diferenciar a prescrição de exercícios entre essas populações.  
+  
+Palabras clave: Rendimiento de natación; Rendimiento funcional; Nadadores competitivos; Pantalla d e movimiento; 
+Jóvenes nadadores.  
+ 
+RESUMO  
+O Functional Movement Screen® (FMS®) permite avaliar a funcionalidade do movimento em atletas. A 
+funcionalidade do movimento em jovens nadadores de elite e não -elite pode prever o desempenho futuro. O objetivo 
+deste estudo é comparar os scores do FMS® entre jovens nadadores de elite e não -elite e verificar sua relação com o 
+desempenho de 100m no estilo livre. Trinta e dois nadadores de elite (idade: 14,99 ± 0,13 anos; altura: 1,71 ± 0,02 
+m; massa corporal: 61,28 ± 1,27 kg; Fédération Internationale de Natation [FINA] pontos: 651,59 ± 6,44) e  17 
+nadadores não -elite (idade: 14,65 ± 0,19 anos; altura: 165,12 ± 2,03 cm; massa corporal: 57,22 ± 2,43 kg; pontos 
+FINA: 405,71 ± 21,41) que se voluntariaram para participar neste estudo transversal. Scores  FMS® de teste 
+individual, scores  composto s FMS®  e pontos FINA foram considerados para análise. Nadadores de elite alcançaram 
+valores mais elevados no Deep Squat  (p = 0,005; ES = 0,99), Right Hurdle Step  (p = 0,005; ES = 0,99 ), Left Hurdle 
+Step (p = 0,002; ES = 1,08), Trunk Stability Push Up  (p < 0,001) ; ES = 1,44) e FMS® compostos ( p < 0,001; ES = 
+1,35) em comparação com nadadores não elite. Os scores  compostos do FMS® foram positivamente relacionados 
+com o desempenho de 100m no estilo livre (r = 0,596, r2 = 40,9%, p < 0,001). Jovens nadadores do grupo não-elite 
+revelam défices funcionais em tarefas que envolvem mobilidade das ancas, joelhos e tornozelos e estabilização do 
+núcleo e da coluna. A maior funcionalidade de movimento está positivamente relacionada ao desempenho de 100m 
+estilo livre. Os treinad ores de natação devem considerar esses défices e sua relação com o desempenho para 
+diferenciar a prescrição de exercícios entre essas populações.  
+ 
+Palavras -chave : Desempenho na Natação; Performance funcional; Nadadores competitivos; Rastreio de 
+movimento; Nadadores jovens.  
+ 
+ 
+ 
+ 
+ 
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+ 
+ 
+ 
+Functional Movement Screen® and performance in swimming  
+ 
+ 165 
+INTRODU CTION  
+ 
+Functional Movement Screen® (FMS®) test battery 
+has been proposed as a reliable instrument to assess 
+athletes’ functional movement patterns in daily sports 
+practice (Kraus et al, 2014; Grible et al, 2013, Onate 
+et al., 2012; Teyhen et al., 2012, Minick et al., 2010). 
+Moreover, despite controversial evidence (Mokka, 
+Sprague, & Gatens, 2016), FMS® composite scores 
+under 14 points have been suggested as a cut -off point 
+to predict musculoskeletal injury r isk among athletes 
+(Chorba et al., 2010; Kiesel, Plisky, & Voight, 2007; 
+O`Connor et al., 2011). FMS® comprises 7 
+fundamental movement patterns that require mobility, 
+neuromuscular control, balance, and stability. To 
+evaluate movement functionality, athlet es are assessed 
+on a scale from 0 to 3, in which 0 denotes experienced 
+pain and 3 indicates that the movement was completed 
+without any compensation (Cook et al., 2014a). The 
+highest total score that can be attained on the FMS® is 
+twenty -one points(Cook et  al., 2014b). Even though 
+the FMS® test battery has been used by sports 
+professionals to assess functional movement patterns 
+in several sports (Anderson, Nrumann, & Bliven, 
+2015, Marques et al., 2017; Kuzuhara, et al, 2018; 
+Kiesel,  Plisky, & Butler, 2011; Nicolazakes et al., 
+2017), only a few applied it to swimmers (Bond et al., 
+2015; Gunay, et al., 2017, Bullock et al, 2017).  
+Swimming is a sport that involves closed and 
+continuous motor skills (Duarte -Mendes et al, 2019) 
+and the performance can be influenc ed by several 
+factors such as physiological, biomechanical, and 
+anthropometric characteristics (Okada, Huxel, & 
+Nesser, 2011). The relationship between physical 
+characteristics and sprint swimming performance in 
+young swimmers has been studied (Connaboy, e t al., 
+2015; Geladas, Nassis, & Pavlicevics, 2005; Garrido 
+et al, 2012). Ankle, knees, hip, and shoulder mobility 
+have been referred to as key kinematic determinants of 
+undulatory underwater swimming at maximal velocity 
+(Connaboy, et al., 2015). Interestin gly, ankle and 
+shoulder mobility were not related to swimming 
+performance in male swimmers, whereas shoulder 
+mobility was significantly related to 100m freestyle 
+performance in female swimmers (Geladas, Nassis, & 
+Pavlicevics, 2005). To aid scientific resea rch on this 
+topic, the relationship between FMS® scores and 
+young swimmers’ performance has been analyzed (Bond et al., 2015; Gunay, et al., 2017). Despite the 
+few studies, higher FMS® composite scores have been 
+positively related to 100m freestyle perform ance in 
+youth swimmers (Bond et al., 2015), while 200m 
+individual medley performance does not seem to be 
+related to FMS® composite scores in youth swimmers 
+(Gunay, et al., 2017). However, given that in freestyle 
+races any swimming stroke may be used ( FINA rules, 
+2017) , this technique may be more representative of 
+swimmers’ functional movement patterns. Further, the 
+100m freestyle long course event is the key distance in 
+competitive swimming and has been on every 
+Olympic program since 1904 (men) and 1912 
+(women) (Post et al., 2020).  
+To the best of our knowledge, there are no studies 
+comparing FMS® scores in elite and non -elite 
+swimmers, specifically at young ages (under eighteen 
+years old). In fact, swimming performance from a 
+young age is highly valued and considered as a strong 
+predictor of success (KNZB, 2020). Assessing the 
+physical skills of young swimmers is important for 
+coaches, sports professionals and swimmers (Bond et 
+al., 2015). This knowledge could be relevant for 
+swimming coaches, being able  to effectively manage 
+young elite and non -elite swimmers’ movement 
+functionality according to their specific needs, 
+maximizing performance. Thus, the aim of the current 
+study was to assess and compare FMS® scores 
+between young elite and non -elite swimmers , as well 
+as to verify their relationship with 100m freestyle 
+performance. It was hypothesized that elite swimmers 
+would have higher FMS® scores compared to non -elite 
+swimmers. A secondary hypothesis was that FMS® 
+composite scores would be positively corre lated to 
+100m freestyle performance.  
+ 
+MATERIAL Y MÉTODOS  
+Participants   
+In this quantitative study with a cross -sectional design , 
+thirty -two elite swimmers (age: 14.99 ± 0.13 years old; 
+height: 1.71 ± 0.02 m; body mass: 61.28 ± 1.27 kg; 
+Fédération Internati onale de Natation [FINA] points: 
+651.59 ± 6.44) and 17 non -elite swimmers (age: 14.65 
+± 0.19 years old; height: 165.12 ± 2.03 cm; body mass: 
+57.22 ± 2.43 kg; FINA points: 405.71 ± 21.41) 
+volunteered to participate in this cross -sectional study. 
+Elite swimm ers were considered those who were 
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+ 
+ 
+Dineia  et al.  
+ 166 
+members of the Portuguese National Swimming Team 
+and non -elite swimmers were considered those who 
+competed at a national level. All subjects were free of 
+any functional limitation that would preclude them to 
+perform the e xperimental protocol and had at least one 
+year of experience in swimming competitions. 
+Subjects were excluded if they reported any 
+musculoskeletal injury in the last year. All subjects 
+and their parents were informed beforehand about the 
+benefits, risks, p urposes, and procedures of the study 
+and gave their written consent. The current study was 
+conducted according to the Declaration of Helsinki 
+and the protocol was fully approved by the 
+Institutional research ethics committee of the 
+University of Beira Inte rior (CE -UBI-Pj-2018 -
+051:M7247).  
+Structured protocol and d ata collection  
+The evaluation was conducted on two different days, 
+one for each group. Before the FMS® assessment, each 
+subject’s age, height, and body mass were collected. 
+FINA points were calculated after inquiring the 
+participants’ coach about each athlete’s 100m 
+freestyle best swim time. All subjects performed the 7 -
+test battery FMS®, receiving standar dized verbal 
+instructions . 
+Measures  
+Functional Movement Screen® 
+FMS® comprises 7 tests performed in the following 
+order: Deep Squat (assessing hips, knees and ankles 
+mobility), Hurdle Step (assessing proper stride 
+mechanics during a stepping motion), Inlin e Lunge  
+(assessing hip and ankle mobility and stability, 
+quadriceps flexibility, and knee stability), Shoulder 
+Mobility (assessing bilateral and reciprocal shoulder 
+range of motion, scapular mobility, and thoracic spine 
+extension), Active Straight Leg Rais e (assessing 
+active hamstring and gastro‐soleus flexibility while 
+maintaining a stable pelvis and core), Trunk Stability 
+Push Up (assessing stabilization of the core and spine 
+in an anterior and posterior plane during a closed‐
+chain upper body movement) an d Rotary Stability 
+(assessing neuromuscular coordination and energy 
+transfer from one segment of the body to another 
+through the torso) (Cook et al., 2014a,b). Athletes 
+were assessed by two experienced raters using the 
+FMS® test battery. The 7 tests were a ssessed on a scale of 0 to 3 according to the following criteria: 0 - 
+experienced pain during the testing; 1 - unable to 
+complete the movement pattern or unable to assume 
+the position to perform the movement; 2 - able to 
+complete the movement with compensa tions; 3 - 
+performs the movement correctly without any 
+compensation, complying with standard movement 
+expectations associated with each test (Cook et al., 
+2014b). Except for the Deep Squat and Trunk Stability 
+Push Up tests, each side of the body was assess ed 
+unilaterally, considering only the side with the lowest 
+score. Subjects performed three trials of each 
+movement, and the highest score was considered for 
+analysis (Cook et al., 2014a). After the test battery was 
+performed, both raters verified agreement  of the given 
+scores for each test. If there was disagreement in any 
+scored test, the subject was asked to repeat the given 
+movement. Composite scores were calculated by 
+summing each individual -test score (Cook et al., 
+2014a).  
+Measures of Swimming P erformance 
+Swimming performance was assessed using the FINA 
+points system which allows comparisons of 
+performances regardless of technique or distance 
+swam (FINA, 2011). To that end, the participant’s 
+coach provided information regarding each athlete's 
+100m freestyle personal best swim time.  Then, each 
+time was converted to FINA points, a standard 
+measure of international swimming performance 
+where 1000 points represents the average of the top 10 
+all-time results in each event.  
+Statistical analysis  
+Descriptive statistics (mean ± standard deviation) 
+were performed for age, height, bodyweight, FINA 
+points, FMS® individual -test scores, and FMS® 
+composite scores. Data normality was tested using the 
+Kolmogorov -Smirnov and Shapiro -Wilk tests for the 
+elite and non -elite groups, respectively.  Therefore, 
+FMS® composite scores ( p = 0.19 vs. p = 0.652 for the 
+elite and non -elite group, respectively) were analyzed 
+using a Student’s T -test, whereas FMS® individual -
+test scores ( p < 0.05 for all tests) were analyze d using 
+a Mann -Whitney U test. When analyzing the overall 
+sample, a Kolmogorov Smirnov test was used to test 
+for distribution normality of FMS® composite score 
+and FINA points variables ( p = 0.012 vs p = 0.000, 
+respectively). Spearman’s rank correlation co efficient 
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+ 
+ 
+ 
+Functional Movement Screen® and performance in swimming  
+ 
+ 167 
+(r) and coefficient of determination (r2) were used to 
+verify correlations between FINA points and FMS® 
+composite scores. The strength of the relationship was 
+classified as follows (Mukaka, 2012): very high (0.90 
+< r < 1.00); high (0.70 < r < 0.9 0); moderate (0.50 < r 
+< 0.70); low (0.30 < r < 0.50); little (0.10 < r < 0.30). 
+Furthermore, the magnitude of effects was classified 
+as follows (Lakens, 2013): small (ES = 0.2); moderate 
+(ES = 0.5); large (ES = 0.8). The statistical analysis was performed  using SPSS software (IBM Corp. 
+Released in 2017. IBM SPSS Statistics for Windows, 
+Version 25.0. Armonk, NY: IBM Corp.) and the 
+significance level was set at p < 0.05.  
+RESULTADOS  
+The subject’s anthropometric characteristics and 
+FINA points are displayed in Table I.  
+ 
+Table I.  Anthropometric characteristics and FINA points of young elite and non -elite swimmers.  
+ Elite Group (n = 32)  Non-elite Group (n = 17)  
+Age (years old)  14.99 ± 0.13  14.65 ± 0.19  
+Height (cm)  171.25 ± 1.49  165.12 ± 2.03  
+Bodyweight (kg)  61.28 ± 1.27  57.22 ± 2.43  
+FINA points  651.59 ± 6.44  405.71 ± 21.41  
+Table note:  Data are expressed as mean ± standard deviation (SD)  
+ 
+Table II presents the values of FMS® individual -test 
+scores and FMS® composite scores, as well as 
+differences between group analysis. Differences were 
+found between elite and non -elite groups on the Deep 
+Squat ( p = 0.005; ES = 0.99, large effect), Right 
+Hurdle Step ( p = 0.005; ES = 0.99, lar ge effect), Left 
+Hurdle Step ( p = 0.002; ES = 1.08, large effect) and 
+Trunk Push Up ( p < 0.001 ; ES = 1.4, large effect) tests. 
+Although there were no statistically significant 
+differences between groups on the Left Rotary 
+Stability, the effect size indicat es a moderate effect ( p 
+= 0.114; ES = 0.52). The elite group achieved higher 
+scores for all tests, except for the Left Shoulder 
+Mobility. However, no statistical differences were 
+found in the aforementioned test ( p = 0.472; ES = 0.2). 
+The elite group FMS® composite scores were 
+significantly higher ( p < 0.001 ; ES = 1.35, large effect) 
+compared to the non -elite group.  
+There was a positive and moderate relationship (r = 
+0.596, r2 = 40.9%, p < 0.001 ) between FMS® 
+composite scores and 100m freestyle performance 
+(FINA points) (Figure 1).  DISCUSIÓN  
+The purpose of the current study was to assess and 
+compare FMS® scores in young elite and non -elite 
+swimmers and to verify their relationship with 100m 
+freestyle performa nce. The main findings of the 
+present study were: (i) young elite swimmers achieved 
+significantly higher Deep Squat, Left Hurdle Step, 
+Right Hurdle Step, Trunk Stability Push Up and FMS® 
+composite scores compared to young non -elite 
+swimmers; (ii) FMS® comp osite scores were 
+positively correlated with 100m freestyle 
+performance.  
+FMS® has been used to assess functional movement 
+patterns in several sports (Anderson, Nrumann, & 
+Bliven, 2015, Marques et al., 2017; Kuzuhara, et al, 
+2018;  Kiesel, Plisky, & Butler, 2011; Nicolazakes et 
+al., 2017). However, only a few applied FMS® to 
+swimmers (Bond et al., 2015; Gunay, et al., 2017, 
+Bullock et al, 2017) and no studies have compared 
+FMS® scores between young elite and non -elite 
+swimmers.  
+ 
+ 
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+ 
+ 
+Dineia  et al.  
+ 168 
+Table II.  Descriptive statistics (mean ± SD) of FMS® individual -test, FMS® composite score, and differences 
+between group analysis.  
+ Elite group  
+(n = 32)  Non-Elite group  
+(n = 17)  p ES 
+Deep Squat  2.53 ± 0.51  2.00 ± 0.61  0.005a* 0.99 
+Right Hurdle Step 2.53 ± 0.51  2.00 ± 0.61  0.005a* 0.99 
+Left Hurdle Step  2.34 ± 0.55  1.76 ± 0.56  0.002a* 1.08 
+Right Inline Lunge  2.53 ± 0.57  2.35 ± 0.70  0.413a 0.30 
+Left Inline Lunge  2.53 ± 0.58  2.29 ± 0.69  0.237a 0.40 
+Right Shoulder Mobility  2.56 ± 0.62  2.47 ± 0.72 0.714a 0.14 
+Left Shoulder Mobility  2.53 ± 0.62  2.65 ± 0.61  0.472a 0.20 
+Right Active Straight Leg Raise  2.53 ± 0.62  2.29 ± 0.59  0.149a 0.40 
+Left Active Straight Leg Raise  2.41 ± 0.62  2.18 ± 0.53  0.159a 0.40 
+Trunk Stability Push Up  2.81 ± 0.39  2.18 ± 0.53  0.000a* 1.44 
+Right Rotary Stability  2.28 ± 0.46  2.06 ± 0.56  0.170a 0.46 
+Left Rotary Stability  2.28 ± 0.52  2.00 ± 0.61  0.114a 0.52 
+Composite Score  17.03 ± 1.81  14.59 ± 1.94  0.000b* 1.35 
+Table note:  *p < 0.01  
+a,bA Mann -Whitney U testa or Student’s T testb were used according to normality distribution.
+ 
+ 
+ 
+Figure 1.  Correlation between FMS® composite scores and FINA points (r = 0.596, p < 0.001).  
+ 
+
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+ 
+ 
+ 
+Functional Movement Screen® and performance in swimming  
+ 
+ 169 
+In the present study, the elite group achieved 
+significantly higher Deep Squat, Left Hurdle Step, 
+Right Hurdle Step, Trunk Stability Push Up and FMS® 
+composite scores than the non -elite group. These 
+results suggest that young non -elite swimmers may 
+have relevant functional deficits in ta sks involving 
+mobility of the hips, knees and ankles (Deep Squat 
+test), proper stride mechanics during a stepping 
+motion (Hurdle Step test), and also stabilization of the 
+core and spine in an anterior and posterior plane during 
+a closed‐chain upper body mo vement (Trunk Stability 
+Push Up test). Future studies aiming to identify or 
+differentiate movement functionality deficits in young 
+elite and non -elite swimmers are needed. This would 
+allow swimming coaches to provide training programs 
+according to swimmers ’ specific needs in an early 
+stage of their careers, which has been suggested to 
+predict future competitive success (Post et al., 2020).  
+Interestingly, even though we have not found 
+significant differences between young elite and non -
+elite swimmers in the Shoulder Mobility test, the non -
+elite group achieved higher scores on Left Shoulder 
+Mobility test. The Shoulder Mobility test assesses 
+bilateral and reciprocal shoulder range of motion, 
+combining internal rotation with adduction of one 
+shoulder and externa l rotation with the abduction of 
+the other. The test also requires normal scapular 
+mobility and thoracic spine extension (Cook et al., 
+2014b). It is widely agreed that swimming injuries are 
+overuse in nature (Hill, Collins, & Posthumus, 2015; 
+Kerr et al., 2013) and highly frequent in shoulders 
+during an athlete’s career (Barbosa et al, 2000; Blache, 
+2018). Despite the higher scores on the Left Shoulder 
+Mobility test, the non -elite group revealed higher 
+asymmetry incidence when compared to the elite 
+group. T hat might be due to the breathing technique 
+used during freestyle swimming if there is a lateral 
+dominance that may lead to incorrect swimming 
+technique and increase those imbalances (Higson, 
+2018). Therefore, more research is needed to clarify 
+the potenti al influence of swimming techniques on 
+movement functionality asymmetries which may 
+predispose swimmers to overuse injury.  
+There is limited data regarding the relationship 
+between FMS® scores and physical performance 
+among athletes (Kraus, 2014; Silva et a l., 2015). In 
+fact, a thorough search of the relevant literature 
+yielded only two studies analyzing the relationship between FMS® composite scores and swimming 
+performance (Bond, 2015; Gunay, 2017). When 
+analyzing the referred relationship, we found a 
+positive correlation between FMS® composite scores 
+and 100m freestyle performance, i.e., young 
+swimmers with higher levels of movement 
+functionality were able to achieve better 
+performances. These results supported previous 
+research where 100m freestyle perfor mance was also 
+positively related to movement functionality in young 
+swimmers (Bond, 2015). In another study, the authors 
+analyzed the relationship between FMS® composite 
+scores and 200m individual medley swimming 
+performance (Gunay, 2017). Although they d id not 
+find a correlation between the aforementioned 
+variables, it should be noted that the distance and 
+swimming stroke analyzed were not the same as ours. 
+Since FMS® comprises 7 fundamental movement 
+patterns that require mobility, neuromuscular control, 
+balance, and stability, our results also support previous 
+research that referred to ankle, knees, hip and shoulder 
+mobility as key kinematic determinants of sprint 
+swimming performance (Connaboy, 2015). 
+Interestingly, ankle and shoulder mobility have not 
+been related to swimming performance in male 
+swimmers, whereas shoulder mobility was 
+significantly related to 100m freestyle performance in 
+female swimmers (Geladas, Nassis, & Pavlicevics, 
+2015). However, these authors did not use FMS® test 
+battery and thus  more research is needed to clarify the 
+relationship between swimmers’ functional movement 
+patterns assessed through FMS® and 100m freestyle 
+performance.  
+There are some limitations that we should be aware in 
+the current study. First, we should mention the 
+sample’s dimension and heterogeneity (elite group n = 
+32; non -elite group n = 17). Secondly, we have 
+considered neither the athlete’s history of injuries nor 
+the training frequency. Past injuries and training 
+frequency should be considered since those variables 
+potentially impact on swimming performance (Okada, 
+Huxel, & Nesser, 2011). Our sample consisted of only 
+young swimmers and we should be careful when  
+generalizing our findings for older trained swimmers. 
+All variables were assessed at one moment (cross -
+sectional design) (Cid et al., 2019; Monteiro et al., 
+2018 , Rodrigues et  al., 2019 ). Finally, we have not 
+analysed analyzed  relevant variables such as 
+anthropometric data (e.g.: skinfolds, body fat 
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+ 
+ 
+Dineia  et al.  
+ 170 
+percentage, waist -to-hip ratio). By including 
+anthropometric data, we could have been able to draw 
+more accurate comparisons with previous studies. 
+Further research including longitudinal and 
+experimental inves tigation on functional movement 
+development and physical performance in young 
+swimmers is needed . 
+CONCLUSIONES  
+Our findings have shown that young elite swimmers 
+have higher movement functionality compared to 
+young non -elite swimmers. In fact, young non -elite 
+swimmers might have relevant functional deficits in 
+tasks involving mobility of the hips, knees and ankles, 
+proper stride mechanics during a stepping motion, and 
+also stabilization of the core and spine in an anterior 
+and posterior plane during a close d‐chain upper body 
+movement. Furthermore, our results suggest that 
+young swimmers with higher movement functionality 
+are able to achieve better performances in 100m 
+freestyle.  
+PRACTICAL IMPLICATIONS  
+Swimming coaches/medical staff should be aware of 
+the pot ential movement functionality differences 
+between young elite and non -elite swimmers since 
+specific deficits require adjusted training programs in 
+order to maximize performance.  
+ACKNOWLEDGMENT  
+This project was supported by national funding 
+through the Portuguese Foundation for Science and 
+Technology, I.P., under project UID/DTP/04045/2019 
+and the European Fund for Regional Development 
+(FEDER) allocated by European Union through the 
+COMPETE 2020 Programme (POCI -01-0145 -
+FEDER -006969) – competitiveness and 
+internationalization (POCI).  
+ 
+REFEREN CES   
+1. Anderson, B.E., Neumann, M.L., & Bliven, 
+K.C.H. (2015). Functional Movement Screen 
+Differences Between Male and Female Secondary 
+School Athletes. Journal of Strength and 
+Conditioning Research , 29 (4),1098 -106. 
+https://doi.org/ 10.1519/JSC.0000000000000733.  2. Barbosa, T., Costa, M., Marinho, D., Queirós, T., 
+Costa, A., & Cardoso, L. (2000). Manual de 
+referência FPN para o ensino e aperfeiçoamento 
+em natação . Lisbon: Federação Portuguesa de 
+Natação.  ISBN: 978 -989-95747 -3-1. 
+3. Blache , Y., Gillet, B., Selin, J., Sevrez, V., & 
+Rogowski, I. (2018). Scapular kinematics during 
+scaption in competitive swimmers. European 
+Journal of Sport Science , 18 , 659 -666. 
+https://doi.org/ 10.1080/17461391.2018.1449893.  
+4. Bond, D., Goodson, L., Oxford, S., N evill, A., & 
+Duncan, M. J. (2015). The Association between 
+Anthropometric Variables, Functional Movement 
+Screen Scores and 100 m Freestyle Swimming 
+Performance in Youth Swimmers. Sports, 3 (1), 1 –
+11. https://doi.org/ 10.3390/sports3010001.  
+5. Bullock, G.S., Bro okreson, N., Knab, A.M., & 
+Butler, R. J. (2017).  Examining Fundamental 
+Movement Competency and Closed -Chain Upper -
+Extremity Dynamic Balance in Swimmers . 
+Journal of Strength and Conditioning Research , 
+31, 1544 -1551. 
+https://doi.org/ 10.1519/JSC.0000000000001627.
+7. 
+6. Cid, L., Pires, A., Borrego, C., Duarte -Mendes, P., 
+Teixeira, D., Moutão, J., & Monteiro, D. (2019). 
+Motivational determinants of physical education 
+grades and the intention to practice sport in the 
+future. PLoS ONE, 14 (5): e20217218. 
+https://doi.org/ 10.1371/journal.pone.0217218 . 
+7. Chorba, R. S., Chorba, D. J., Bouillon, L. E., 
+Overmyer, C. A., & Landis, J. A. (2010). Use of a 
+functional movement screening tool to determine 
+injury risk in female collegiate athletes. North 
+Ameri can Journal of Sports Physical Therapy , 
+5(2),47 –54. PMID: 21589661.  
+8. Connaboy, C., Naemi, R., Brown, S., Stelios, P., 
+McCabe, C., Coleman, S. et al. (2015). The Key 
+Kinematic Determinants of Undulatory 
+Underwater Swimming at Maximal Velocity. 
+Journal of Spo rts Sciences , 34(11), 1036 -1043. 
+https://doi.org/ 10.1080/02640414.2015.1088162.  
+9. Cook, G., Burton, L., Hoogenboom, B. J., & 
+Voight, M. (2014a). Functional Movement 
+Screening: The use of fundamental movements as 
+an assessment of function – Part 1 . Internatio nal 
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+ 
+ 
+ 
+Functional Movement Screen® and performance in swimming  
+ 
+ 171 
+Journal of Sports Physical Therapy , 9(3), 296 -
+409. PMID: 24944860.  
+10. Cook, G., Burton, L., Hoogenboom , B. J., & 
+Voight M. (2014b). Functional Movement 
+Screening: The use of fundamental movements as 
+an assessment of function – Part 2. International 
+Journal of Sports Physical Therapy , 9(4), 549 -
+563. PMID: 25133083.  
+11. Duarte -Mendes, P., Marinho, D., Monteiro, D., 
+Cid, L., Paulo, R., Serrano, J., Petrica, J. (2019). 
+The comparison of Imagery ability in elite, sub -
+elite and non -elite swimmers. Cuadernos de 
+Psicología del Deporte, 19 (2), 116 -126. ISSN: 
+1989 -5879  
+12. FINA Points Table [Internet].  Lousanne: 
+Fédération I nternationale de Natation; ©2011 
+[cited  2011  Mar 28]. 
+http://www.fina.org/content/fina -points . 
+13. FINA Rules [Internet]. Lousanne: Fédération 
+Internationale de Natation; ©2018 -2020 [cited 
+2018 Mar 30]. Available from: 
+http://www.fina.org/content/fina -rules . 
+14. Garrido, N. D., Silva, A. J., Fernandes, R. J., 
+Barbosa, T. M., Costa, A. M., Marinho, D. A., et 
+al. (2012). High level swimming performance and 
+its relation to non -specific parameters: a cross -
+sectional study on maximum handgrip isometric 
+strength. Percept ual and Motor Skills , 114 (3), 
+936-48. 
+https://doi.org/ 10.2466/05.10.25.PMS.114.3.936 -
+948. 
+15. Geladas, N. D., Nassis, G. P., & Pavlicevic S. 
+(2005). Somatic and physical traits affecting sprint 
+swimming performance in young swimmers. 
+International Journal of Sports Medicine , 26(2), 
+139-44. https://doi.org/ 10.1055/s -2004 -817862.  
+16. Gribble, P. A., Brigle, J., Pietrosimone, B. G., 
+Pfile, K. R., & Webster, K . A. (2013). Intrarater 
+reliability of the functional movement screen. 
+Journal of Strength and Conditioning Research , 
+27(4), 978 –981. 
+https://doi.org/ 10.1519/JSC.0b013e31825c32a8.  
+17. Gunay, E., Oğuz, Ü., İsmet, T., & Bediz, C. F. 
+(2017) The Relationship Betwe en Functional 
+Movement Screen and Swimming Performance. 
+Science, Movement and Health , 17(2 suppl), 566 -570. 
+https://doi.org/ 10.13140/RG.2.2.24840.32003.  
+18. Higson, E., Herrington, L., Butler, C., & Horsley, 
+I. (2018). The short -term effect of swimming 
+trainin g load on shoulder rotational range of 
+motion, shoulder joint position sense and 
+pectoralis minor length. Shoulder & Elbow, 10 (4), 
+285-291. 
+https://doi.org/ 10.1177/1758573218773539.  
+ 
+19. Hill, L., Collins, M., & Posthumus, M. (2015). 
+Risk factor for shoulder p ain and injury in 
+swimmers: A critical systematic review. The 
+Physician and Sportsmedicine , 43 (4), 412 -20. 
+https://doi.org/ 10.1080/00913847.2015.1077097.  
+20. Kerr, Z. Y., Baugh, C. M., Hibberd, E. E., Snool, 
+E. M., Hayden, R., & Dompier, T. P. (2015) 
+Epidemiol ogy of National Collegiate Athletic 
+Association men's and women's swimming and 
+diving injuries from 2009/2010 to 2013/2014. 
+British Journal of Sports Medicine , 49(7), 465 -71. 
+https://doi.org/ 10.1136/bjsports -2014 -094423.  
+21. Kiesel, K., Plisky, P. J., & Voight , M. L. (2007). 
+Can serious injury in professional football be 
+predicted by a preseason functional movement 
+screen? North American Journal of Sports 
+Physical Therapy , 2(3), 147 –158. PMID: 
+21522210.  
+22. Kiesel, K., Plisky , P., & Butler, R. (2011). 
+Functional Movement test scores following a 
+standardized off -season intervention program in 
+professional football players. Scand inavina  
+Journal of  Medicine &  Science in Sport s, 21(2), 
+287-292. https://doi.org/ 10.1111/j.1600 -
+0838. 2009.01038.x.  
+23. KNZB: Top -level sport and talent development 
+[Internet]. Nieuwegein: Royal Dutch Swimming 
+Federation; ©2020. Available from: 
+https://www.knzb.nl/vereniging__wedstrijdsport/
+wedstrijdsport/zwemmen/topsport/ . 
+24. Kraus, K., Schütz, E., Taylor, W.R.,  & Doyscher, 
+R. (2014). Efficacy of the Functional Movement 
+Screen: A review. Journal of Strength and 
+Conditioning Research , 28 (12), 3571 –3584.  
+https://doi.org/ 10.1519/JSC.0000000000000556.  
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+ 
+ 
+Dineia  et al.  
+ 172 
+25. Kuzuhara, K., Shibata, M., Iguchi, J., & Uchida, 
+R. (2018). Functi onal Movements in Japanese 
+Mini -Basketball Players. Journal of Human 
+Kinetics , 61 , 53 -62. 
+https://doi.org/ 10.1515/hukin -2017 -0128.  
+26. Lakens, D. (2013). Calculating and reporting 
+effect sizes to facilitate cumulative science: a 
+practical primer for t -tests an d ANOVAs. 
+Front iers in  Psychol ogy, 4 , 863. 
+https://doi.org/ 10.3389/fpsyg.2013.00863.  
+ 
+27. Marques, V., Medeiros, T., Souza, Z., Nakamura, 
+F., Baroni, B. (2017). The Functional Movement 
+Screen in Elite Young Soccer Players between 14 
+and 20 years: Composite Score, Individual -test 
+scores and Asymmetries. International Journal of 
+Sports Physical Therapy , 12(6), 977 -985. PMID: 
+29158958.  
+28. Minick, K. I., Kiesel, K. B., B urton, L., Taylor, A., 
+Plisky, P., & Butler, R. J. (2010). Interrater 
+reliability of the functional movement screen. 
+Journal of Strength and Conditioning Research , 
+24(2), 479 –486. 
+https://doi.org/10.1519/JSC.0b013e3181c09c04 . 
+29. Monteiro, D., Teixeira, D., Tr avassos, B., Duarte -
+Mendes, P., Moutão, J., Machado, S., & Cid, L. 
+(2018).  Perceived Effort in Football Athletes: The 
+Role of Achievement Goal Theory and Self -
+Determination Theory. Front iers in  Psychol ogy, 
+9:1575. 
+https://doi.org/ 10.3389/fpsyg.2018.01575 . 
+30. Mokha, M., Sprague, P. A., & Gatens, D. R. 
+(2016). Predicting Musculoskeletal Injury in 
+National Collegiate Athletic Association Division 
+II Athletes from Asymmetries and Individual -Test 
+Versus Composite Functional Movement Screen 
+Scores. Journal of Athle tic Training , 51(4), 276 –
+282. https://doi.org/ 10.4085/1062 -6050 -51.2.07.  
+31. Mukaka, M. M. (2012) A guide to appropriate use 
+of Correlation coefficient in medical research. 
+Malawi Medical Journal , 24(3),69 -71. PMID: 
+23638278.  
+32. Nicolazakes , C. P., Schneider, D. K., Rower, B., 
+Borchers, J., & Hewett, T. E. (2017). Influence of 
+Body Composition on Functional Movement 
+Screen Scores® in Collegiate Football Players. Journal of Sport Rehabilitation , 27 (5),1 -21. 
+https://doi.org/ 10.1123/jsr.2015 -0080.  
+33. Okada, T., Huxel, K. C., & Nesser, T. W. (2011). 
+Relationship between core stability, functional 
+movement, and performance. Journal of Strength 
+and Conditioning Research , 25 (1),252 -61. 
+https://doi.org/ 10.1519/JSC.0b013e3181b22b3e.  
+34. Onate, J. A., Dewey, T., Kollock, R. O., Thomas, 
+K. S., Van Lunen, B. L., DeMaio, M., et al. (2012). 
+Real-time intersession and interrater reliability of 
+the functional movement screen. Journal of 
+Strength and Conditioning Research , 26(2), 408 –
+415. 
+https://d oi.org/ 10.1519/JSC.0b013e318220e6fa.  
+35. O’Connor, F. G., Deuster, P. A., Davis, J., Pappas, 
+C. G., & Knapik, J. J. (2011). Functional 
+movement screening: Predicting injuries in officer 
+candidates. Medicine and Science in Sports and 
+Exercise , 43 (12), 2224 –2230 . 
+https://doi.org/ 10.1249/MSS.0b013e318223522d.  
+36. Post, A. K., Koning, R. H., Visscher, C., & 
+Elferink -Gemser, M. T. (2020). Multigenerational 
+Performance Development of Male and Female 
+Top-Elite Swimmers - A Global Study of the 
+100m Freestyle Event. Scand inavian Journal of  
+Medicine & Science in  Sports 30 (3), 564 -571. 
+https://doi.org/10.1111/sms.13599 . 
+37. Rodrigues, F., Neiva, H.P., Marinho , D.A., 
+Duarte -Mendes, P., Teixeira, D.S., Cid, L., & 
+Monteiro, D. (2019)., Assessing Need satisfaction 
+and frustration in Portuguese exercise instructors: 
+Scale validity, reliabity and invariance between 
+gender . Cuadernos de Psicologia del Deporte , 
+19(1),  233-240. 
+https://doi.org/10.6018/cpd.347331  
+38. Silva, B., Clemente, F. M., Camoes, M., & 
+Bezerra, P. (2017). Functional Movement Screen 
+Scores and Physical Performance among Youth 
+Elite Soccer Players. Sports, 5 (1), pii: E16. 
+https://doi.org/ 10.3390/sports50 10016  
+39. Teyhen, D. S., Shaffer, S. W., Lorenson, C. L., 
+Halfpap, J. P., Donofry, D. F., Walker, M. J., et al. 
+(2012). The functional movement screen: A 
+reliability study. Journal of Orthopaedic & Sports 
+Physical Therapy , 42 (6), 530 –540. 
+https://doi.org/ 10.25 19/jospt.2012.3838.   
+ 
+Cuadernos de Psicología del Deporte, 21, 2 (abril)  
+ 
+ 
+ 
+Functional Movement Screen® and performance in swimming  
+ 
+ 173 
+ 

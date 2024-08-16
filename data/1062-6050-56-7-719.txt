@@ -1,0 +1,547 @@
+Journal of Athletic Training 2021;56(7):719–726
+doi: 10.4085/1062-6050-703-20
+/C211by the National Athletic Trainers’ Association, Inc
+www.natajournals.orgInjury Reports by Sport
+Epidemiology of Injuries in National Collegiate
+Athletic Association Men’s Swimming and Diving:
+2014–2015 Through 2018–2019
+Adrian J. Boltz, MSH*; Hannah J. Robison, MS, LAT, ATC*; Sarah N. Morris, PhD*;
+Bernadette A. D’Alonzo, MPH†; Christy L. Collins, PhD*;Avinash Chandran, PhD, MS*
+*Datalys Center for Sports Injury Research and Prevention, Indianapolis, IN; †Penn Injury Science Center, University
+of Pennsylvania, Philadelphia
+Context: The National Collegiate Athletic Association
+(NCAA) has sponsored men’s swimming and diving since 1937.
+Background: Routine examinations of men’s swimming
+and diving injuries are important for identifying emerging
+injury-related patterns.
+Methods: Exposure and injury data collected in the NCAA
+Injury Surveillance Program during the 2014–2015 through2018–2019 academic years were analyzed. Injury counts, rates,
+and proportions were used to describe injury characteristics, and
+injury rate ratios were used to examine differences in injury rates.
+Results: The overall injury rate was 1.56 per 1000 athlete-
+exposures (AEs) for swimmers and 1.52 per 1000 AEs for divers.Shoulder (27.0%) injuries accounted for the largest proportion of
+all swimming injuries, and most injuries were attributed to overusemechanisms (42.6%). Shoulder (23.3%) and trunk (23.3%)injuries accounted for the largest proportion of all diving injuries,and most injuries resulted from surface contact (32.6%).
+Conclusions: Findings were consistent with existing litera-
+ture on swimming and diving. The need for continuedsurveillance, coupled with more robust participation by swim-ming and diving programs was also highlighted.
+Key Words: collegiate, sport-related, surveillance
+Key Points
+/C15Overall, competition and practice injury rates were similar in men’s swimming.
+/C15The most common speciﬁc injuries in men’s swimming were biceps tendinitis, shoulder impingement, rotator cuff
+tear (partial or complete), and rotator cuff tendinitis.
+/C15In both men’s swimming and men’s diving, most injuries were attributed to the shoulder or trunk and were classiﬁedas non-time loss injuries.
+The National Collegiate Athletic Association (NCAA)
+has sponsored men’s swimming and diving since1937.
+1In recent years, participation has continued to
+grow, with an estimated 444 sponsored teams and 9800
+athletes competing2in 2018–2019. Despite the large number
+of NCAA student athletes and steady increases in member-ship over the years, few studies have explored the
+epidemiology of collegiate swimming- and diving-related
+injuries.
+3,4An updated investigation is needed to appraise the
+overall health and safety of this population and to assess
+temporal patterns in injury incidence within this group.
+The NCAA initiated an injury surveillance system to
+monitor injuries within collegiate athletics5,6in 1982. After
+its evolution to an electronic platform, this system iscurrently known as the NCAA Injury Surveillance Program
+(ISP). The NCAA ISP has collected data on men’s
+swimming and diving
+4since 2009–2010. The most recent
+study using these data identiﬁed similar injury rates betweenmen’s swimming and men’s diving.4The overall injury rate
+in men’s swimming was approximately 1.5 injuries per 1000
+athlete-exposures (AEs); and in men’s diving, approximately2 injuries per 1000 AEs.
+4It was also reported that most
+injuries in swimmers and divers were shoulder related andthat injuries were most commonly classiﬁed as overuse andnoncontact mechanisms.
+4
+Routine examination of injury incidence in this population
+is necessary to highlight areas that may warrant furtherattention and to inform the implementation of targetedinterventions aimed at injury prevention. As such, the purposeof this study was to describe the epidemiology of sport-relatedinjuries among men’s swimming and diving student-athletes
+i nas a m p l eo fN C A At e a m sr e c o r d e di nt h eN C A AI S P
+during the 2014–2015 through 2018–2019 academic years.
+METHODS
+Study Data
+Men’s swimming and diving exposure and injury data
+collected in the NCAA ISP during the 2014–2015 throughAuthors Adrian J. Boltz and Hannah J. Robison have contributed
+equally to manuscript preparation. The articles in this issue are
+published as accepted and have not been edited.
+Journal of Athletic Training 719
+2018–2019 athletic seasons were analyzed in this study.
+The methods of the NCAA ISP have been reviewed andapproved as an exempt study by the NCAA Research
+Review Board. In brief, athletic trainers (ATs) at partici-
+pating institutions contributed exposure and injury data
+using their clinical electronic medical record systems. A
+reportable injury was one that occurred due to participationin an organized intercollegiate practice or competition and
+required medical attention by a team AT or physician,
+regardless of time lost. Scheduled team practices andcompetitions were considered reportable exposures for this
+analysis. Data from 7 (2% of membership) participating
+programs in 2014–2015, from 4 (1% of membership) in
+2015–2016, from 8 (2% of membership) in 2016–2017,
+from 8 (2% of membership) in 2017–2018, and from 23(5% of membership) in 2018–2019 qualiﬁed for inclusion
+in analyses. Qualiﬁcation criteria are detailed further in the
+methods article within this special issue.
+7
+Classifying Injuries and Athlete-Exposures by
+Swimming Versus Diving
+Injured athletes were identiﬁed as either swimmers or
+divers when injury records were submitted by the AT. Forinjury records with unknown athlete type, it was assumed
+that the athlete was a swimmer if the corresponding activity
+at the time of injury was reported as backstroke,
+breaststroke, butterﬂy, freestyle, or medley. The athlete
+was assumed to be a diver if the corresponding activity wasreported as 1.0-m board, 1.0-m platform, 3.0-m board, 3.0-
+m platform, 5.0-m platform, 7.5-m platform, or 10.0-m
+platform. Injury records without an identiﬁable athlete typewere not retained in the analysis (n ¼11). Combined AEs
+were collected for swimming and diving teams in the
+NCAA ISP. Previous researchers studying this population
+determined that on average, 87% of athletes on swimming
+and diving team rosters were swimmers, whereas 13% weredivers.
+4Injury rates for swimming and diving were
+calculated separately according to their respective distribu-
+tion of AEs.Statistical Analysis
+Injury counts and rates per 1000 AEs for each athlete
+type (swimmers, divers) were examined by event type
+(practice, competition) and time lost (time loss [TL], non–time loss [NTL]). Poststratiﬁcation sample weights bysport, year, and division are established within thesurveillance system to compute national estimates of injuryevents on the basis of the sampled teams. An AE wasdeﬁned as 1 athlete participating in 1 exposure event.Weighted and unweighted rates were estimated; however,results have been presented in terms of unweighted rates(unless otherwise speciﬁed) due to low frequencies of
+injury observations across levels of certain explanatory
+variables. Temporal trends in injury rates (pooled forpractices and competitions) across the study period wereevaluated using rate proﬁle plots stratiﬁed by athlete type.Injury counts and proportions were examined by body partinjured, mechanism of injury, injury diagnosis, and activityat the time of injury. Respiratory infections (n ¼40) were
+not included in analyses due to reporting inconsistencies(by program and year) across the study period. Injury rateratios were used to examine differential injury rates across
+event types. The injury rate ratios with associated 95%
+conﬁdence intervals (CIs) excluding 1.00 were consideredstatistically signiﬁcant. All analyses were conducted usingSAS version 9.4 (SAS Institute).
+RESULTS
+A total of 339 men’s swimming and diving injuries
+(swimmers: 296; divers: 43) from 218 050 AEs (swimmers:189 704; divers: 28 346) were reported to the NCAA ISP
+during the 2014–2015 through 2018–2019 athletic seasons
+(rate: swimmers ¼1.56/1000 AEs; divers ¼1.52/1000
+AEs). This equated to a national estimate of 13 521 injuriesoverall (swimmers: 10 956; divers: 2 565; Table 1). Acrossthe study period overall, there were no signiﬁcantdifferences in swimming injury rates by event type(practice, competition). Differences in diving injury ratesby event type were not examined due to a low number ofTable 1. Reported and National Estimates of Injuries, Athlete Exposure (AEs), and Rates per 1000 AEs by Athlete Type and Event Typea
+Athlete TypeNumber
+AEs
+Rate per 1000 AEs (95% CI)
+Overall Practices Competitions
+Reported National Estimate Reported National Estimate Reported National Estimate
+Swimmers 296 10 956 274 10 040 22 917
+189 704 7 740 041 169 885 6 863 653 19 818 876 388
+1.56 (1.38, 1.74) 1.42 (1.24, 1.9) 1.61 (1.42, 1.80) 1.46 (1.27, 1.65) 1.11 (0.65, 1.57) 1.05 (0.58, 1.51)
+Divers 43 2565 34 2137 9 428
+28 346 1 156 558 25 385 1 025 603 2961 130 954
+1.52 (1.06 , 1.97) 2.22 (1.76, 2.67) 1.34 (0.89, 1.79) 2.08 (1.63, 2.53) 3.04 (1.05, 5.03) 3.27 (1.28, 5.25)
+Overall 339 13 521 308 12 176 31 1345
+218 050 8 896 599 195 270 7 889 257 22 780 1 007 342
+1.55 (1.39, 1.72) 1.52 (1.35, 1.69) 1.58 (1.40, 1.75) 1.54 (1.37, 1.72) 1.36 (0.88, 1.84) 1.34 (0.86, 1.81)
+aData presented in the order of reported number, followed by athlete exposures (AEs), estimated injury rates, and associated 95%
+Confidence Intervals (CIs). Data pooled association-wide are presented overall, and separately for practices and competitions. Nationalestimates were produced using sampling weights estimated on the basis of sport, division, and year. All CIs were constructed using
+variance estimates calculated on the basis of reported data. A reportable injury was one that occurred due to participation in an organized
+intercollegiate practice or competition, and required medical attention by a team Certified Athletic Trainer or physician (regardless of timeloss). Only scheduled team practices and competitions were retained in this analysis.
+720 Volume 56 /C15Number 7 /C15July 2021
+competition-related injuries (n ,10) reported across the
+study period. In swimmers, injury rates remained relativelystable between 2014–2015 and 2016–2017, then increasedsharply during 2017–2018 before falling again in 2018–
+2019 (Figure A). The diving injury rates appeared to
+decrease across the study period (Figure A). However,injury rates for divers in 2015–2016 and 2016–2017 werepotentially unstable due to low numbers of reported injuriesduring these years (n ,5). Accordingly, estimated injury
+rates corresponding to these years are illustrated in Figure
+A as open circles and connected to other annual estimateswith a dotted line, and these estimates should be interpretedwith caution.
+Time Loss
+In both men’s swimming and diving, NTL injuries
+represented a larger proportion of all reported injuries thanTL injuries (swimmers: NTL: 51.3%, TL: 35.5%, missing:
+13.2%; divers: NTL: 51.2%, TL: 32.5%, missing: 16.3%).
+In men’s swimming, TL injuries accounted for 34.3% ofreported practice injuries and 50.0% of competitioninjuries; whereas in men’s diving, TL injuries accountedfor 35.3% of reported practice injuries and 22.2% of
+competition injuries. Overall TL injury rates for swimmers
+remained relatively stable between 2014–2015 and 2016–2017, then increased sharply in 2017–2018, followed by adecrease in 2018–2019 (Figure B).
+Injury Characteristics
+Injuries to the shoulder (27.0%) and trunk (16.2%)
+accounted for the largest proportions of all men’sswimming injuries reported during the study period (Table
+2). Among shoulder injuries, nearly half (47.5%) were
+NTL, approximately a third (30.0%) were TL, and roughlya quarter (22.5%) had missing TL data. Similarly, a greaterproportion of trunk injuries involved NTL (NTL: 50.0%;TL: 33.3%; missing TL data: 16.7%). The most commonly
+reported mechanisms of injury were overuse (42.6%) and
+noncontact (18.9%) injuries. Overuse injuries accounted fora larger proportion of practice injuries (43.4%) thancompetition injuries (31.8%), whereas noncontact injuriesaccounted for a larger proportion of competition injuries
+(27.3%) than practice injuries (18.3%). Most men’sswimming injuries reported during 2014–2015 through2018–2019 were strains (19.6%) and inﬂammatory condi-
+tions (18.6%). Strains were more prevalent among reported
+competition injuries (36.4%) than practice injuries (18.3%),whereas inﬂammatory conditions were more prevalentamong reported practice injuries (19.0%) than competitioninjuries (13.6%). The most commonly reported speciﬁc
+injuries during the study period were biceps tendinitis
+(shoulder) (7.8%; Rate ¼1.21 per 10000 AEs), shoulder
+impingement (4.7%; Rate ¼0.74 per 10000 AEs), rotator
+cuff tear (partial or complete) (3.4%; Rate ¼0.53 per 10000
+AEs), and rotator cuff tendinitis (3.4%; Rate ¼0.53 per
+10000 AEs).
+Injuries to the shoulder (23.3%) and trunk (23.3%)
+accounted for the largest proportions of all men’s divinginjuries reported during the study period (Table 3). Injurieswere most commonly attributed to surface contact (32.6%),
+noncontact (30.2%), and overuse (20.9%) mechanisms.
+Most men’s diving injuries reported during the study periodwere strains (18.6%) and inﬂammatory conditions (16.3%);no speciﬁc injury was observed to be notably prevalentamong all reported diving injuries.
+Injuries by Swimming- and Diving-Specific Activities
+Most injuries in men’s swimming between 2014–2015
+and 2018–2019 occurred during freestyle swim (34.1%),
+conditioning (16.9%), and breaststroke swim (10.8%).
+Injuries occurring during freestyle and breaststroke eventswere more prevalent among reported competition injuriesthan practice injuries (Table 4). Most injuries in men’sdivers during the study period occurred during unspeciﬁed
+diving activities (44.2%).
+SUMMARY
+This study aimed to describe the epidemiology of NCAA
+men’s swimming- and diving-related injuries reported to
+the NCAA ISP between the 2014–2015 and 2018–2019academic years. Injury rates in men’s swimming remainedrelatively stable and low during the ﬁrst 3 years of the study
+Figure. Temporal patterns in injury rates between 2014–2015 and 2018–2019. A, Depicts overall injury rates (per 1000 AEs) stratiﬁed by
+men’s swimming and men’s diving. B, Depicts rates of time loss injuries among men’s swimming. Rates presented in all ﬁgures areunweighted and based on reported data. Abbreviation: AE, athlete-exposures.
+Journal of Athletic Training 721
+period before ﬂuctuating during the ﬁnal years of the study.
+The observed ﬂuctuations in the ﬁnal 2 years of the study
+may be reﬂective of variation in AT documentation
+practices.8The relatively low number of participating
+schools during the 2017–2018 academic year may predis-
+pose overall trends to vary more dramatically in reaction to
+small differences in AT reporting practices. Furthermore, itis salient to note that during the ﬁnal year of the study
+period, participation increased almost 3-fold, due largely to
+revised recruitment strategies (for instance, support and
+communication from the NCAA Sport Science Institute). It
+is reasonable to suggest that the estimates associated with2018–2019 may be a more appropriate representation of the
+injury burden in this population than estimates from
+previous years. The overall men’s swimming injury rateobserved in this study was comparable to previous reports
+of this population.
+4However, the competition injury rate in
+men’s swimming was notably lower in the present studythan in previous reports.4Despite the relative stability, the
+changes observed among competition injuries as well as the
+observed ﬂuctuations in the ﬁnal years of the study may
+also be reﬂective of changes in training patterns. High
+intensity interval training (HIIT), which generally refers to
+repeated short to long bouts of high-intensity exercise
+interspersed with recovery periods,9had become a popular
+style of training among strength coaches in the previous 5
+years.10HIIT has been studied in several populations and
+found to be a highly effective training technique in
+endurance sports.11,12In sprint-distance triathlon partici-
+pants, HIIT has been shown to both increase muscularperformance and improve athletic performance in swim,
+cycling, and running time.
+9Although outside the scope of
+information collected by the NCAA ISP, changes in overalltraining techniques (such as a transition from long periods
+of low-speed swimming to a HIIT approach) may be an
+important area of future study in traditional enduranceTable 2. Distribution of Swimmer Injuries by Body Part, Mechanism, and Injury Diagnosis; Stratified by Event Typea
+Overall Competitions Practices
+Injuries
+Reported (%)National
+Estimate (%)Injuries
+Reported (%)National
+Estimate (%)Injuries
+Reported (%)National
+Estimate (%)
+Body part
+Head/face 20 (6.76) 838 (7.65) 1 (4.55) 38 (4.14) 19 (6.93) 801 (7.98)
+Neck 3 (1.01) 148 (1.35) 0 (0.0) 0 (0.0) 3 (1.09) 148 (1.47)
+Shoulder 80 (27.03) 3269 (29.84) 5 (22.73) 408 (44.49) 75 (27.37) 2860 (28.49)Arm/elbow 19 (6.42) 543 (4.96) 4 (18.18) 97 (10.58) 15 (5.47) 446 (4.44)Hand/wrist 7 (2.36) 222 (2.03) 1 (4.55) 30 (3.27) 6 (2.19) 192 (1.91)
+Trunk 48 (16.22) 2349 (21.44) 4 (18.18) 132 (14.39) 44 (16.06) 2217 (22.08)
+Hip/groin 19 (6.42) 626 (5.71) 4 (18.18) 113 (12.32) 15 (5.47) 513 (5.11)Thigh 7 (2.36) 208 (1.90) 1 (4.55) 43 (4.69) 6 (2.19) 166 (1.65)Knee 15 (5.07) 392 (3.58) 0 (0.0) 0 (0.0) 15 (5.47) 392 (3.90)
+Lower leg 5 (1.69) 114 (1.04) 1 (4.55) 19 (2.07) 4 (1.46) 96 (0.96)
+Ankle 8 (2.70) 233 (2.13) 0 (0.0) 0 (0.0) 8 (2.92) 233 (2.32)Foot 8 (2.70) 215 (1.96) 0 (0.0) 0 (0.0) 8 (2.92) 215 (2.14)Other 57 (19.26) 1799 (16.42) 1 (4.55) 38 (4.14) 56 (20.44) 1761 (17.54)
+Mechanism
+Player contact 7 (2.36) 197 (1.80) 1 (4.55) 38 (4.14) 6 (2.19) 159 (1.58)Surface contact 19 (6.42) 554 (5.06) 3 (13.64) 86 (9.38) 16 (5.84) 468 (4.66)
+Water 6 (31.58) 222 (40.07) 1 (33.33) 38 (44.19) 5 (31.25) 185 (39.53)
+Deck 10 (52.63) 265 (47.83) 2 (66.67) 49 (56.98) 8 (50.00) 216 (46.15)Other 3 (15.79) 67 (12.09) 0 (0.0) 0 (0.0) 3 (18.75) 67 (14.32)
+Other apparatus contact 8 (2.70) 164 (1.50) 3 (13.64) 54 (5.89) 5 (1.82) 110 (1.10)
+Noncontact 56 (18.92) 2690 (24.55) 6 (27.27) 402 (43.84) 50 (18.25) 2288 (22.79)
+Overuse 126 (42.57) 4777 (43.60) 7 (31.82) 268 (29.23) 119 (43.43) 4509 (44.91)Other/unknown 80 (27.03) 2574 (23.49) 2 (9.09) 68 (7.42) 78 (28.47) 2505 (24.95)
+Diagnosis
+Abrasion/laceration 6 (2.03) 142 (1.30) 0 (0.0) 0 (0.0) 6 (2.19) 142 (1.41)
+Concussion 5 (1.69) 133 (1.21) 1 (4.55) 38 (4.14) 4 (1.46) 95 (0.95)Contusion 1 (0.34) 19 (0.17) 1 (4.55) 19 (2.07) 0 (0.0) 0 (0.0)
+Dislocation/subluxation 11 (3.72) 808 (7.37) 2 (9.09) 289 (31.52) 9 (3.28) 518 (5.16)
+Entrapment/impingement 18 (6.08) 519 (4.74) 0 (0.0) 0 (0.0) 18 (6.57) 519 (5.17)Fracture 3 (1.01) 86 (0.78) 0 (0.0) 0 (0.0) 3 (1.09) 86 (0.86)Illness/infection 12 (4.05) 394 (3.60) 0 (0.0) 0 (0.0) 12 (4.38) 394 (3.92)
+Inflammatory condition 55 (18.58) 1966 (17.94) 3 (13.64) 128 (13.96) 52 (18.98) 1839 (18.32)
+Spasm 19 (6.42) 1133 (10.34) 2 (9.09) 68 (7.42) 17 (6.20) 1065 (10.61)Sprain 11 (3.72) 302 (2.76) 2 (9.09) 60 (6.54) 9 (3.28) 242 (2.41)Strain 58 (19.59) 1943 (17.73) 8 (36.36) 213 (23.23) 50 (18.25) 1730 (17.23)
+Other 97 (32.77) 3512 (32.06) 3 (13.64) 102 (11.12) 94 (34.31) 3410 (33.96)
+aData presented in the order of reported number, followed by the proportion of all injuries attributable to a given category. Data pooled
+across event types are presented overall, and separately for practices and competitions. National estimates were produced usingsampling weights estimated on the basis of sport, division, and year. A reportable injury was one that occurred due to participation in an
+organized intercollegiate practice or competition, and required medical attention by a team Certified Athletic Trainer or physician
+(regardless of time loss). Only scheduled team practices and competitions were retained in this analysis.
+722 Volume 56 /C15Number 7 /C15July 2021
+sports such as swimming. There were insufﬁcient data to
+examine temporal patterns in competition injury incidence
+among swimmers in the present study. However, future
+researchers may examine more closely the trajectories of
+competition injury incidence in this population to determine
+whether the pattern is maintained and to identify temporal
+nuances. Such examinations will be critical in identifying
+rules and policy changes that have been effective in
+reducing the injury burden among NCAA men’s swimming
+athletes.
+The NTL injuries accounted for over half of all reported
+swimming injuries across the study period.13This may be
+unsurprising given the prevalence of overuse injuries,
+which often do not initially require missed participation.14
+The prevalence of NTL shoulder injuries in swimming maybe of particular concern. In a previous study of actively
+competing competitive swimmers, 91% reported a history
+of shoulder pain and 80% reported pain during activity on a
+constant, daily, weekly, or monthly basis.
+15Given the
+observed prevalence of shoulder pain among actively
+training swimmers, the incidence of shoulder injury mayeven be greater than that observed in the present study.
+Because overuse injuries are often chronic and may beassociated with cycles of remission and exacerbation,
+documenting only the cases that required medical attention
+and intervention by an AT may not fully capture the
+prevalence of shoulder pain in this population. When
+addressing overuse and chronic pain, clinicians andresearchers alike may seek to identify cases of chronic
+shoulder pain as opposed to acute injury presentations.
+16
+Similarly, the observed distribution of swimming injuries
+across body parts may be expected when considering the
+dynamics of the sport. Given that swimmers use their upper
+extremities to propel themselves through the water, it is not
+surprising that injuries were mostly attributed to the
+shoulder, trunk, and hip and groin, as opposed to theextremities (eg, hand and wrist, elbow, foot, ankle, knee).
+Notably, most swimming injuries were attributed to
+noncontact or overuse mechanisms. These types ofmechanisms have been known to lead to the development
+of inﬂammatory conditions such as bicep tendonitis, rotator
+cuff tendonitis, or bursitis.
+13Given the physical demands ofTable 3. Distribution of Diver Injuries by Body Part, Mechanism, and Injury Diagnosis; Stratified by Event Typea
+Overall Competitions Practices
+Injuries
+Reported (%)National
+Estimate (%)Injuries
+Reported (%)National
+Estimate (%)Injuries
+Reported (%)National
+Estimate (%)
+Body part
+Head/face 3 (6.98) 311 (12.12) 1 (11.11) 30 (7.01) 2 (5.88) 281 (13.15)
+Neck 1 (2.33) 30 (1.17) 0 (0.0) 0 (0.0) 1 (2.94) 30 (1.40)
+Shoulder 10 (23.26) 720 (28.07) 2 (22.22) 49 (11.45) 8 (23.53) 672 (31.45)Hand/wrist 5 (11.63) 128 (4.99) 2 (22.22) 49 (11.45) 3 (8.82) 79 (3.70)Trunk 10 (23.26) 671 (26.16) 4 (44.44) 300 (70.09) 6 (17.65) 371 (17.36)
+Hip/groin 2 (4.65) 61 (2.38) 0 (0.0) 0 (0.0) 2 (5.88) 61 (2.85)
+Thigh 1 (2.33) 50 (1.95) 0 (0.0) 0 (0.0) 1 (2.94) 50 (2.34)Knee 3 (6.98) 91 (3.55) 0 (0.0) 0 (0.0) 3 (8.82) 91 (4.26)Lower leg 3 (6.98) 110 (4.29) 0 (0.0) 0 (0.0) 3 (8.82) 110 (5.15)
+Ankle 1 (2.33) 50 (1.95) 0 (0.0) 0 (0.0) 1 (2.94) 50 (2.34)
+Foot 2 (4.65) 282 (10.99) 0 (0.0) 0 (0.0) 2 (5.88) 282 (13.20)Other 2 (4.65) 60 (2.34) 0 (0.0) 0 (0.0) 2 (5.88) 60 (2.81)
+Mechanism
+Surface contact 14 (32.56) 409 (15.95) 3 (33.33) 79 (18.46) 11 (32.35) 330 (15.44)
+Water 11 (78.57) 310 (75.79) 3 (100.00) 79 (100.00) 8 (72.73) 231 (70.00)Other 3 (21.43) 99 (24.21) 0 (0.0) 0 (0.0) 3 (27.27) 99 (30.00)
+Other apparatus contact 2 (4.65) 269 (10.49) 1 (11.11) 19 (4.44) 1 (2.94) 251 (11.75)
+Noncontact 13 (30.23) 907 (35.36) 2 (22.22) 144 (33.64) 11 (32.35) 762 (35.66)Overuse 9 (20.93) 609 (23.74) 3 (33.33) 186 (43.46) 6 (17.65) 423 (19.79)Other/unknown 5 (11.63) 372 (14.50) 0 (0.0) 0 (0.0) 5 (14.71) 372 (17.41)
+Diagnosis
+Abrasion/laceration 1 (2.33) 19 (0.74) 1 (11.11) 19 (4.44) 0 (0.0) 0 (0.0)Concussion 3 (6.98) 311 (12.12) 1 (11.11) 30 (7.01) 2 (5.88) 281 (13.15)Contusion 1 (2.33) 19 (0.74) 0 (0.0) 0 (0.0) 1 (2.94) 19 (0.89)
+Dislocation/subluxation 3 (6.98) 91 (3.55) 0 (0.0) 0 (0.0) 3 (8.82) 91 (4.26)
+Entrapment/impingement 3 (6.98) 299 (11.66) 2 (22.22) 49 (11.45) 1 (2.94) 251 (11.75)Fracture 2 (4.65) 282 (10.99) 0 (0.0) 0 (0.0) 2 (5.88) 282 (13.20)
+Illness/infection 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Inflammatory condition 7 (16.28) 452 (17.62) 0 (0.0) 0 (0.0) 7 (20.59) 452 (21.15)Spasm 3 (6.98) 114 (4.44) 0 (0.0) 0 (0.0) 3 (8.82) 114 (5.33)Sprain 4 (9.30) 141 (5.50) 1 (11.11) 30 (7.01) 3 (8.82) 110 (5.15)
+Strain 8 (18.60) 523 (20.39) 1 (11.11) 126 (29.44) 7 (20.59) 397 (18.58)
+Other 8 (18.60) 314 (12.24) 3 (33.33) 175 (40.89) 5 (14.71) 139 (6.50)
+aData presented in the order of reported number, followed by the proportion of all injuries attributable to a given category. Data pooled
+across event types are presented overall, and separately for practices and competitions. National estimates were produced using
+sampling weights estimated on the basis of sport, division, and year. A reportable injury was one that occurred due to participation in an
+organized intercollegiate practice or competition, and required medical attention by a team Certified Athletic Trainer or physician(regardless of time loss). Only scheduled team practices and competitions were retained in this analysis.
+Journal of Athletic Training 723
+competitive swimming and the typical nature of injuries
+reported in men’s swimming, it is unsurprising that the 3most reported speciﬁc injuries were in fact biceps tendonitis(shoulder), shoulder impingement, and rotator cuff tendi-nitis.
+17,18It is important to note that swimming athletes may
+also experience concomitant shoulder injuries due to themultifactorial etiology (strength imbalances, glenohumeraljoint laxity, scapular dyskinesia) of overuse shoulder
+pain.
+18–20On the basis of the existing literature surrounding
+the prevalence of shoulder injury,13the necessary stress and
+strain on the shoulder to be competitive—and the difﬁcultyin implementing injury prevention programs for a multi-factorial injury that is often overuse—may involve multipleanatomical structures and involve individualized muscularimbalances and form variations. It may be reasonable tosuggest that in addition to screening for risk factors such asrange of motion deﬁcits, muscular imbalances, and historyof injury, clinician and research focus should be aimed
+towards secondary injury prevention strategies. This may
+include monitoring fatigue and recovery as well asaddressing the cycle of remission and exacerbation withinoveruse injuries. Previous studies have indicated that arepetitive strain on the shoulder and a high prevalence ofshoulder injury are associated with competitive swim-ming.
+15,21Coupled with the multifactorial pathology of
+shoulder injury in swimming (which may involve multipleanatomical structures,
+22muscular imbalances,23and form
+variations24), it may be reasonable to suggest that in
+addition to screening for risk factors (such as excessive and/
+or limited range of motion,24,25muscular imbalances,23and
+history of injury), clinicians and researchers should alsofocus on secondary injury prevention strategies. Suchstrategies may include monitoring workload
+26,27as well
+as addressing the cycle of remission and exacerbationwithin overuse injuries.
+16Given that whole-body movement and coordination is
+necessary in swimming, it is important to identify thatinjury to the shoulder may be a functional manifestation ofunderlying core weakness.
+24,28–30This observation in
+previous literature (in both swimming24,28and overhead31,32
+athletes) may be further supported by the ﬁnding that afterthe shoulder, the trunk and the hip and groin were also
+prevalently injured structures in the current study. There-
+fore, the observed distribution of injuries along the kineticchain among NCAA men’s swimming athletes in thepresent study point to the importance of the interactionamong the shoulder, trunk, and hip and groin and mayindicate a relationship between the inherent risks of injurywithin these structures.
+28,30,33
+The overall men’s diving injury rate in the present study
+was lower than previously reported in this population.4
+Given the observed frequencies of diving injuries reportedacross the study period, it is difﬁcult to contextualize theseﬁndings. The most commonly reported injuries among
+men’s diving occurred in the shoulder and trunk, which is
+consistent with previous reports within this population.
+4It
+is important that the biomechanics of diving during takeoff(contact with the surface of the diving board or platform),ﬂight, and entry are inherent factors that contribute toinjury.
+34During takeoff, ﬂight, and entry, divers perform
+complex extension, ﬂexion, and rotational movementswithin the trunk.
+34Just before entering the water, divers’
+shoulders are uniquely abducted and ﬂexed in a vulnerable
+position whereby glenohumeral joint stability may be
+compromised.34During entry, divers’ shoulders (abducted
+and ﬂexed) and wrists (dorsiﬂexed, pronated, and radiallydeviated) bear signiﬁcant gravitational force of impact,breaking the surface tension of the water while being placedin an unstable position.
+34The competitive nature of the
+sport demands that athletes consistently practice andTable 4. Distribution of Injuries by Injury Activity; Stratified by Athlete Type and Event Typea
+Athlete Type ActivityOverall Competitions Practices
+Injuries
+Reported (%)National
+Estimate (%)Injuries
+Reported (%)National
+Estimate (%)Injuries
+Reported (%)National
+Estimate (%)
+Swimmers Swim–backstroke 14 (4.73) 366 (3.34) 1 (4.55) 34 (3.71) 13 (4.74) 332 (3.31)
+Swim–breast 32 (10.81) 1117 (10.20) 5 (22.73) 155 (16.90) 27 (9.85) 962 (9.58)
+Swim–butterfly 15 (5.07) 652 (5.95) 3 (13.64) 325 (35.44) 12 (4.38) 328 (3.27)
+Swim–freestyle 101 (34.12) 3663 (33.43) 12 (54.55) 365 (39.80) 89 (32.48) 3298 (32.85)Swim–medley 7 (2.36) 236 (2.15) 0 (0.0) 0 (0.0) 7 (2.55) 236 (2.35)Diving–not specified 1 (0.34) 34 (0.31) 0 (0.0) 0 (0.0) 1 (0.36) 34 (0.34)
+Conditioning 50 (16.89) 2606 (23.79) 0 (0.0) 0 (0.0) 50 (18.25) 2606 (25.96)
+Weights 9 (3.04) 253 (2.31) 0 (0.0) 0 (0.0) 9 (3.28) 253 (2.52)Other or unknown 67 (22.64) 2030 (18.53) 1 (4.55) 38 (4.14) 66 (24.09) 1992 (19.84)
+Divers Dive–1.0-m board 8 (18.60) 547 (21.33) 3 (33.33) 186 (43.46) 5 (14.71) 361 (16.89)
+Dive–1.0-m platform 1 (2.33) 19 (0.74) 1 (11.11) 19 (4.44) 0 (0.0) 0 (0.0)
+Dive–3.0-m board 5 (11.63) 128 (4.99) 1 (11.11) 19 (4.44) 4 (11.76) 110 (5.15)Dive–3.0-m platform 1 (2.33) 30 (1.17) 0 (0.0) 0 (0.0) 1 (2.94) 30 (1.40)Dive–5.0-m platform 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Dive–7.5-m platform 1 (2.33) 19 (0.74) 0 (0.0) 0 (0.0) 1 (2.94) 19 (0.89)
+Dive–10.0-m platform 1 (2.33) 30 (1.17) 1 (11.11) 30 (7.01) 0 (0.0) 0 (0.0)Diving–not specified 19 (44.19) 1615 (62.96) 2 (22.22) 156 (36.45) 17 (50.00) 1459 (68.27)
+Weights 2 (4.65) 37 (1.44) 0 (0.0) 0 (0.0) 2 (5.88) 37 (1.73)
+Other or unknown 5 (11.63) 140 (5.46) 1 (11.11) 19 (4.44) 4 (11.76) 121 (5.66)
+aData presented in the order of reported number, followed by the proportion of all injuries attributable to a given category. Data pooled
+across event types are presented overall, and separately for practices and competitions. National estimates were produced using
+sampling weights estimated on the basis of sport, division, and year. A reportable injury was one that occurred due to participation in an
+organized intercollegiate practice or competition, and required medical attention by a team Certified Athletic Trainer or physician(regardless of time loss). Only scheduled team practices and competitions were retained in this analysis.
+724 Volume 56 /C15Number 7 /C15July 2021
+develop complex aerial movements, putting them at risk of
+developing both strains through noncontact mechanismsand inﬂammatory conditions through overuse mechanism.
+35
+It may be noted that over half of all reported injuries in thepresent study were attributed to these mechanisms.Therefore, the ﬁndings of the present study are largelyconsistent with expectations given the biomechanicaldemands of diving activities.
+In considering the results of the present study, there exist
+limitations applicable to both swimming and diving injuriesthat warrant targeted attention and discussion. First, NCAAISP participation among men’s swimming and divingprograms was notably low throughout the study period.Despite the similarity in participation with previous
+surveillance-based investigations of NCAA men’s swim-
+ming,
+4the limited participation among NCAA men’s
+swimming programs in the current study not only limitsthe analytical ﬂexibility of the data collected (as notedthroughout the present study), but also the external validityof the ﬁndings. Whereas sports injury surveillance is aneffective tool to examine temporal patterns in injuryincidence, healthy participation in surveillance programsis needed to facilitate such investigations. As such, it iscritical to continue efforts aimed at increasing ISPparticipation among men’s swimming and diving programs.Second, in considering the injury rates reported in thepresent study, it is imperative to acknowledge thatexposure-time ascertainment remains a challenge in sportsinjury surveillance, particularly for individualized sportswith nontraditional athletic seasons, such as swimming anddiving. Swimming and diving are unique sports, andtherefore, swimmers and divers are subjected to inherently
+different degrees of injury risk. As one example, swimmers
+perform repetitive movements at varying intensities,whereas divers are tasked with performing highly technicalaerial maneuvers at a comparatively lesser volume. Thesedifferences notwithstanding, swimming and diving aretypically recognized as 1 team within member institutions.As such, computation of position-speciﬁc at-risk exposuretime is particularly challenging, and although AEs may beestimated on the basis of roster sizes (as done herein), thispractice remains far from ideal. Incorporating wearablehealth instruments to capture athletes’ time spent practic-ing, distance and strokes swum, number and type of dives,or cardiovascular and muscular exertional indices maymore precisely describe and quantify at-risk exposure timein this population.
+36,37The NCAA ISP in its current form is
+not well positioned to accommodate such measures, andsuch nuanced measurement may require adaptations insports injury surveillance (separately capturing at-riskexposure time for swimmers and divers) or small-sample
+studies.
+Routine surveillance of collegiate men’s swimmers and
+divers allows researchers to describe and highlight injurypatterns, which in turn are disseminated to provide thesports medicine community with current and practicalinformation. As discussed above, this critical process willbe more effective with more robust participation in sportsinjury surveillance programs. Our ﬁndings demonstrateunique injury characteristics in NCAA men’s swimmingand diving. The results observed in this study, coupled withthe inferential limitations discussed above, highlight theneed for further study of men’s swimming and divinginjuries yet also offer avenues for additional data collection
+and targeted examination.
+ACKNOWLEDGMENTS
+The NCAA Injury Surveillance Program was funded by the
+NCAA. The Datalys Center is an independent nonproﬁtorganization that manages the operations of the NCAA ISP.The content of this report is solely the responsibility of the
+authors and does not necessarily represent the ofﬁcial views of the
+funding organization. We thank the many ATs who havevolunteered their time and efforts to submit data to the NCAA-ISP. Their efforts are greatly appreciated and have had atremendously positive effect on the safety of collegiate student-athletes.
+REFERENCES
+1. NCAA. DI Men’s Swimming Championship History Web Site.
+https://www.ncaa.com/history/swimming-men/d1. Accessed April1, 2021.
+2. Sports sponsorship and participation research. National Collegiate
+Athletic Association Web Site. https://www.ncaa.org/about/resources/research/sports-sponsorship-and-participation-research.
+Accessed March 12, 2021.
+3. Wolf BR, Ebinger AE, Lawler MP, Britton CL. Injury patterns in
+Division I collegiate swimming. Am J Sports Med . 2009;37(10):2037–
+2042. doi:10.1177/0363546509339364
+4. Kerr ZY, Baugh CM, Hibberd EE, Snook EM, Hayden R, Dompier
+TP. Epidemiology of National Collegiate Athletic Association
+men’s and women’s swimming and diving injuries from 2009/10 to
+2013/14. Br J Sports Med . 2015;49(7):465–471. doi:10.1136/
+bjsports-2014-094423
+5. Dick R, Agel J, Marshall SW. National Collegiate Athletic
+Association Injury Surveillance System commentaries: introduction
+and methods. J Athl Train . 2007;42(2):173–182.
+6. Kerr ZY, Comstock RD, Dompier TP, Marshall SW. The ﬁrst
+decade of web-based sports injury surveillance (2004–2005 through2013–2014): methods of the National Collegiate Athletic Associ-ation Injury Surveillance Program and High School ReportingInformation Online. J Athl Train . 2018;53(8):729–737. doi:10.4085/
+1062-6050-143-17
+7. Chandran A, Morris SN, Wasserman EB, Boltz A, Collins CL.
+Methods of the National Collegiate Athletic Association InjurySurveillance Program, 2014–2015 Through 2018–2019. J Athl
+Train . 2021;56(7):616–621.
+8. Eberman LE, Neil ER, Nottingham SL, Kasamatsu TM, Bacon
+CEW. Athletic trainers’ practice patterns regarding medical
+documentation. J Athl Train . 2019;54(7):822–830. doi:10.4085/
+1062-6050-230-18
+9. Garcia ´-Pinillos F, Ca ´mara-P ´erez JC, Soto-Hermoso VM, Latorre-
+Roma ´n PA. A high intensity interval training (HIIT)-based running
+plan improves athletic performance by improving muscle power. J
+Strength Cond Res . 2017;31(1):146–153. doi:10.1519/JSC.
+0000000000001473
+10. Thompson WR. Worldwide survey of ﬁtness trends for 2018. ACSM
+Health Fit J . 2017;21(6):10–19. doi:10.1249/FIT.0000000000000341
+11. Milanovi ´c Z, Spori ˇs G, Weston M. Effectiveness of high-intensity
+interval training (HIT) and continuous endurance training for
+VO
+2max improvements: a systematic review and meta-analysis of
+controlled trials. Sports Med . 2015;45(10):1469–1481. doi:10.1007/
+s40279-015-0365-0
+12. N ´ıC h´eilleachair NJ, Harrison AJ, Warrington GD. HIIT enhances
+endurance performance and aerobic characteristics more than high-
+volume training in trained rowers. J Sports Sci . 2017;35(11):1052–
+1058. doi:10.1080/02640414.2016.1209539
+Journal of Athletic Training 725
+13. Weldon EJ 3rd, Richardson AB. Upper extremity overuse injuries in
+swimming: a discussion of swimmer’s shoulder. Clin Sports Med .
+2001;20(3):423–438. doi:10.1016/S0278-5919(05)70260-X
+14. Clarsen B, Myklebust G, Bahr R. Development and validation of a
+new method for the registration of overuse injuries in sports injury
+epidemiology: the Oslo Sports Trauma Research Centre (OSTRC)
+overuse injury questionnaire. Br J Sports Med . 2013;47(8):495–502.
+doi:10.1136/bjsports-2012-091524
+15. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite
+swimmers: primarily due to swim-volume-induced supraspinatus
+tendinopathy. Br J Sports Med . 2010;44(2):105–113. doi:10.1136/
+bjsm.2008.047282
+16. International Olympic Committee Injury and Illness Epidemiology
+Consensus Group; Bahr R, Clarsen B, Derman W, et al.International Olympic Committee consensus statement: methods
+for recording and reporting of epidemiological data on injury and
+illness in sports 2020 (including the STROBE Extension for Sports
+Injury and Illness Surveillance (STROBE-SIIS)). Orthop J Sports
+Med. 2020;8(2). doi:10.1177/2325967120902908
+17. Bak K. The practical management of swimmer’s painful shoulder:
+etiology, diagnosis, and treatment. Clin J Sport Med .
+2010;20(5):386–390. doi:10.1097/JSM.0b013e3181f205fa
+18. De Martino I, Rodeo SA. The swimmer’s shoulder: multi-
+directional instability. Curr Rev Musculoskelet Med .
+2018;11(2):167–171. doi:10.1007/s12178-018-9485-0
+19. Nichols AW. Medical care of the aquatics athlete. Curr Sports Med
+Rep. 2015;14(5):389–396. doi:10.1249/JSR.0000000000000194
+20. Struyf F, Tate A, Kuppens K, Feijen S, Michener LA. Musculo-
+skeletal dysfunctions associated with swimmers’ shoulder. Br J
+Sports Med . 2017;51(10):775–780. doi:10.1136/bjsports-2016-
+096847
+21. Pink MM, Tibone JE. The painful shoulder in the swimming athlete.
+Orthop Clin North Am . 2000;31(2):247–261. doi:10.1016/S0030-
+5898(05)70145-0
+22. Bak K. Nontraumatic glenohumeral instability and coracoacromial
+impingement in swimmers. Scand J Med Sci Sports . 1996;6(3):132–
+144. doi:10.1111/j.1600-0838.1996.tb00081.x
+23. Drigny J, Gauthier A, Reboursi `ere E, Guermont H, Gremeaux V,
+Edouard P. Shoulder muscle imbalance as a risk for shoulder injury
+in elite adolescent swimmers: a prospective study. J Hum Kinet .
+2020;75(1):103–113. doi:10.2478/hukin-2020-0041
+24. Heinlein SA, Cosgarea AJ. Biomechanical considerations in the
+competitive swimmer’s shoulder. Sports Health . 2010;2(6):519–
+525. doi:10.1177/1941738110377611
+25. Cejudo A, Sa ´nchez-Castillo S, de Baranda PS, Ga ´mez JC, Santonja-
+Medina F. Low range of shoulders horizontal abduction predisposesfor shoulder pain in competitive young swimmers. Front Psychol .
+2019;10:478. doi:10.3389/fpsyg.2019.00478
+26. Barry L, Lyons M, McCreesh K, Powell C, Comyns T. The
+relationship between training load and pain, injury and illness in
+competitive swimming: a systematic review. Phys Ther Sport .
+2021;48:154–168. doi:10.1016/j.ptsp.2021.01.002
+27. Feijen S, Struyf T, Kuppens K, Tate A, Struyf F. Prediction of
+shoulder pain in youth competitive swimmers: the development and
+internal validation of a prognostic prediction model. Am J Sports
+Med. 2021;49(1):154–161. doi:10.1177/0363546520969913
+28. Tate A, Turner GN, Knab SE, Jorgensen C, Strittmatter A,
+Michener LA. Risk factors associated with shoulder pain and
+disability across the lifespan of competitive swimmers. J Athl Train .
+2012;47(2):149–158. doi:10.4085/1062-6050-47.2.149
+29. Weston M, Hibbs AE, Thompson KG, Spears IR. Isolated core
+training improves sprint performance in national-level junior
+swimmers. Int J Sports Physiol Perform . 2015;10(2):204–210.
+doi:10.1123/ijspp.2013-0488
+30. Silﬁes SP, Ebaugh D, Pontillo M, Butowicz CM. Critical review of
+the impact of core stability on upper extremity athletic injury and
+performance. Braz J Phys Ther . 2015;19(5):360–368. doi:10.1590/
+bjpt-rbf.2014.0108
+31. Chu SK, Jayabalan P, Kibler WB, Press J. The kinetic chain
+revisited: new concepts on throwing mechanics and injury. PM R .
+2016;8(suppl 3):S69–S77. doi:10.1016/j.pmrj.2015.11.015
+32. Kibler WB, Wilkes T, Sciascia A. Mechanics and pathomechanics
+in the overhead athlete. Clin Sports Med . 2013;32(4):637–651.
+doi:10.1016/j.csm.2013.07.003
+33. Cholewicki J, Silﬁes SP, Shah RA, et al. Delayed trunk muscle
+reﬂex responses increase the risk of low back injuries. Spine (Phila
+Pa 1976) . 2005;30(23):2614–2620. doi:10.1097/01.brs.
+0000188273.27463.bc
+34. Rubin BD. The basics of competitive diving and its injuries. Clin
+Sports Med . 1999;18(2):293–303. doi:10.1016/S0278-
+5919(05)70145-9
+35. Mountjoy M. Injuries and medical issues in synchronized Olympic
+sports. Curr Sports Med Rep . 2009;8(5):255–261. doi:10.1249/JSR.
+0b013e3181b84a09
+36. Greenwood JD, Moses GE, Bernardino FM, Gaesser GA, Weltman
+A. Intensity of exercise recovery, blood lactate disappearance, and
+subsequent swimming performance. J Sports Sci . 2008;26(1):29–34.
+doi:10.1080/02640410701287263
+37. Hellard P, Scordia C, Avalos M, Mujika I, Pyne DB. Modelling of
+optimal training load patterns during the 11 weeks preceding major
+competition in elite swimmers. Appl Physiol Nutr Metab .
+2017;42(10):1106–1117. doi:10.1139/apnm-2017-0180
+Address correspondence to Avinash Chandran, PhD, MS, Datalys Center for Sports Injury Research and Prevention, 6151 Central
+Avenue, Suite 117, Indianapolis, IN 46202. Address email to avinashc@datalyscenter.org .
+726 Volume 56 /C15Number 7 /C15July 2021

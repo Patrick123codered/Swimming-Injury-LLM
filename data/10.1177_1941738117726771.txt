@@ -1,0 +1,229 @@
+113
+SPORTS HEALTHvol. 10 • no. 2
+Competitive swimming is a popular sport, with 
+approximately 450,000 adults and children participating in the United States each year.
+18,27,28 
+Unfortunately, injuries in competitive swimming are common, with reports of up to 37% of swimmers missing competition or training due to injury.
+29 Shoulder pain is particularly common among swimmers, with up to 91% of swimmers aged 13 to 25 years regularly experiencing shoulder pain.
+22 
+Furthermore, the shoulder was the most common site of injury in swimmers, with shoulder injuries accounting for 38% of all injuries that prevented swimmers from training or competing.
+29726771 SPHXXX10.1177/1941738117726771Dischler et alSPORTS HEALTH
+research-article 2017
+Association Between Years of  
+Competition and Shoulder Function  
+in Collegiate Swimmers
+Jack D. Dischler, BS,*† Timothy G. Baumer, MS,† Evan Finkelstein, MD,‡ Daniel S. Siegal, MD,‡  
+and Michael J. Bey, PhD†
+Background: Shoulder injuries are common among competitive swimmers, and the progression of shoulder pathology is not well understood. The objective of this study was to assess the extent to which years of competitive swim training were associated with physical properties of the supraspinatus muscle and tendon, shoulder strength, and self-reported assessments of shoulder pain and function.
+Hypothesis: Increasing years of competition will be associated with declining physical properties of the supraspinatus 
+muscle/tendon and declining self-reported assessments of pain and function.
+Study Design: Descriptive epidemiology study.Level of Evidence: Level 4.Methods: After institutional approval, 18 collegiate female swimmers enrolled in the study. For each swimmer, 
+supraspinatus tendon thickness was measured; tendinosis was assessed using ultrasound imaging, supraspinatus muscle shear wave velocity was assessed using shear wave elastography, isometric shoulder strength was measured using a Biodex system, and self-reported assessments of pain/function were assessed using the Western Ontario Rotator Cuff (WORC) score. All subjects were tested before the start of the collegiate swim season. Linear regression was used to assess the association between years of competition and the outcome measures.
+Results: Years of participation was positively associated with tendon thickness (P = 0.01) and negatively associated with 
+shear wave velocity (P = 0.04) and WORC score (P < 0.01). Shoulder strength was not associated with years of participation (P > 0.39).
+Conclusion: Long-term competitive swim training is associated with declining measures of supraspinatus muscle/
+tendon properties and self-reported measures of pain and function. Although specific injury mechanisms are still not fully understood, these findings lend additional insight into the development of rotator cuff pathology in swimmers.
+Clinical Relevance: Lengthy swimming careers may lead to a chronic condition of reduced mechanical properties in the 
+supraspinatus muscle and tendon, thereby increasing the likelihood of rotator cuff pathology.
+Keywords: swimming; shoulder; rotator cuff; shear wave elastography
+From the †Bone and Joint Center, Henry Ford Health System, Detroit, Michigan, and ‡Department of Radiology, Henry Ford Health System, Detroit, Michigan 
+*Address correspondence to Jack D. Dischler, BS, Bone and Joint Center, Henry Ford Health System, 6135 Woodward Avenue, Detroit, MI 48202  
+(email: dischlerj@gmail.com).
+The authors report no potential conflicts of interest in the development and publication of this article.
+DOI: 10.1177/1941738117726771
+© 2017 The Author(s)
+Mar • Apr 2018Dischler et al
+114Anecdotal evidence suggests that the cumulative effects of 
+competitive swim training over many years may increase the 
+likelihood of shoulder injury. Studies have investigated the association between years of swimming and shoulder pain or  injury.
+5,10-13,22,25 For example, 69% of swimmers had magnetic 
+resonance imaging (MRI)–based evidence of tendinopathy of the supraspinatus, and supraspinatus tendinopathy was present in 89% of national-level swimmers and 100% of international-level swimmers.
+22 Furthermore, 100% of swimmers with 
+increased supraspinatus tendon thickness had impingement pain and supraspinatus tendinopathy.
+22 Years of swim training 
+experience was associated with an increase in supraspinatus tendon thickness.
+22 Additionally, there is an association between 
+shoulder pain and years of swimming experience in swimmers aged 15 to 19 years.
+25
+The aforementioned studies, which have certainly contributed 
+significantly to our understanding of shoulder pathology in competitive swimmers, have utilized MRI-based evidence of tendinopathy, tendon thickness, shoulder strength, and self-reported pain as the primary outcome measures.
+22,25 
+However, none of these studies was designed to investigate the physical properties of the rotator cuff. Consequently, the objective of this study was to assess the extent to which years of competitive swim training was associated with physical properties of the supraspinatus muscle and tendon, shoulder strength, and self-reported assessments of shoulder pain and function.
+Methods
+After institutional review board approval and informed consent was obtained, a convenience sample of 18 female subjects was recruited to participate in this study (Table 1). The subjects were swimmers (mean age, 19.4 ± 1.1 years; range, 18-22 years) actively competing on a National Collegiate Athletic Association (NCAA) Division II swimming team (Wayne State University). To maintain a homogeneous subject population, only female swimmers were selected to participate in the study.
+Supraspinatus tendon thickness was measured using the 
+technique previously described by Michener et al.
+17 Specifically, 
+B-mode ultrasound images were acquired with the subjects seated with their feet flat on the floor and shoulder in the modified Crass position. The ultrasound transducer (Siemens ACUSON S3000, 12L4 probe) was placed on the anterior portion of shoulder and humeral head, perpendicular to the long axis of the supraspinatus tendon and anterior to the anterior-lateral margin of the acromion to capture the supraspinatus tendon and long head of the biceps tendon in the short axis. Using this image, supraspinatus tendon thickness was manually measured at 10, 15, and 20 mm lateral to the superolateral-most portion of the biceps tendon using computer software (ImageJ 1.49v; National Institutes of Health). The inferior border of the supraspinatus tendon was defined as the hyperechoic border superior to the anechoic articular cartilage of the humeral head, while the superior border was defined as the hyperechoic region of the tendon just inferior to the anechoic subdeltoid bursa. These 3 measurements were averaged to define a mean thickness measurement of the supraspinatus tendon. The supraspinatus tendon images were also evaluated clinically by 2 fellowship-trained radiologists (D.S.S. and E.F.). Each image was graded on a scale from 0 to 3, where 0 indicated normal tendon echogenicity, 1 mild tendinosis, 2 moderate tendinosis, and 3 marked tendinosis.
+Shear wave elastography (SWE) has recently emerged as a 
+viable ultrasound-based technique for providing a noninvasive estimate of tissue properties by measuring the velocity of shear wave propagation through soft tissues.
+3,8,9,15 In recent years, this 
+technique has been increasingly used for musculoskeletal applications, including the rotator cuff and supraspinatus muscle.
+1,6,7,20 Consequently, shear wave velocity (SWV) of the 
+supraspinatus muscle was measured in each swimmer using the technique previously described by Rosskopf et al.
+20 Specifically, 
+subjects were seated with their feet flat on the floor and forearms resting on their thighs. An SWE-enabled transducer (Siemens ACUSON S3000, 9L4 probe) was centered over the supraspinatus muscle belly midway between the acromion and medial border of the scapula and approximately 15 to 20 mm anterior to the scapular spine. An imaging region of interest (ROI) of approximately 25 × 30 mm (289 × 128 pixels) was located over the supraspinatus and trapezius muscles, and measures of SWV were acquired at each pixel within this ROI. Five trials were acquired for each shoulder, and both shoulders of each subject were tested. For each trial, image-processing Table 1. Outcome measures
+Outcome Measure Mean ± SD
+Age, y 19.4 ± 1.1
+Height, cm 170.7 ± 5.2
+Weight, kg 67.7 ± 7.9
+BMI, kg/m223.2 ± 1.8
+Tendon thickness, mm 6.4 ± 1.0
+Shear wave velocity, m/s 2.2 ± 0.3
+ABD strength, N·m 28.7 ± 9.9
+ELEV strength, N·m 30.1 ± 8.5
+ER strength, N·m 19.8 ± 6.6
+IR strength,N·m 27.7 ± 8.3
+WORC score 87.1 ± 14.7
+ABD, coronal-plane abduction; BMI, body mass index; ELEV, sagittal-
+plane elevation; ER, external rotation; IR, internal rotation; WORC, Western Ontario Rotator Cuff index.
+SPORTS HEALTHvol. 10 • no. 2
+115software (ImageJ 1.49v) was used to manually identify an ROI 
+within the supraspinatus muscle and then calculate a mean SWV value from the data contained within this ROI. This process resulted in a single measure of supraspinatus SWV for each trial. To assess the repeatability of the SWE technique, SWE images of the supraspinatus were acquired from the dominant shoulder of 10 subjects (mean age, 44.7 ± 18.8 years; range, 18-70 years) by 2 different operators (J.D.D. and T.G.B.). SWE imaging of the supraspinatus muscle had high repeatability, with intra- and interuser intraclass correlation coefficient values of greater than 0.87 and 0.73, respectively.
+Isometric shoulder strength was measured using an isokinetic 
+dynamometer (Biodex System 2). As previously described,
+19 4 
+exercises were used to assess shoulder strength: coronal plane abduction (ABD) at 30° of abduction, sagittal plane elevation (ELEV) at 30° of elevation, internal rotation (IR) at 15° of frontal plane elevation and neutral humeral rotation, and external rotation (ER) at 15° of frontal plane elevation and neutral of humeral rotation. Both shoulders were tested, and 3 trials were recorded for each activity, with the isometric strength calculated as the mean of the 3 trials for each shoulder and activity.
+In addition to ultrasound and strength measurements, all 
+subjects completed the Western Ontario Rotator Cuff (WORC) questionnaire for each shoulder. The WORC index evaluates shoulder function and provides a cumulative score based on physical symptoms, sport/recreation, work, lifestyle, and emotional function with 21 questions using a 10-cm visual analog scale.
+16 The WORC index is reported on a scale from 0 to 100, 
+with 100 indicating the highest level of self-reported shoulder function. For each subject, all data (ie, tendon thickness, supraspinatus SWV, shoulder strength, and WORC score) were acquired during the 2 weeks prior to the start of the NCAA swimming season and prior to any exercise on the day of testing. The number of years of participation in competitive swimming was also recorded for each swimmer on the day of testing.
+An initial analysis of the data failed to detect statistically 
+significant differences between the dominant and nondominant shoulder, or between the preferred breathing side and opposite side, in any of the outcome measures. Consequently, the data from both shoulders of each subject were averaged and used for further analysis. Linear regression was used to assess the relationship between years of participation and the primary outcome measures (tendon thickness, muscle SWV, strength, and WORC score). Logistic regression analysis was used to assess the relationship between tendinosis grade and years of competition, supraspinatus tendon thickness, mean SWV, and WORC score. Significance for all statistical tests was set at P  ≤ 0.05.
+Results
+The mean supraspinatus tendon thickness was 6.4 ± 1.0 mm and ranged from 5.0 to 8.4 mm. A significant association was detected between years of swimming participation and supraspinatus tendon thickness, indicating that tendon thickness increased with increasing years of participation (P  = 0.01, Figure 1).No signs of tendinosis were found in 56% (10/18) of 
+swimmers, while 39% (7/18) showed signs of grade 1 tendinosis and 6% (1/18) showed signs of grade 2 tendinosis. Tendinosis (ie, grade 1 or 2) was significantly associated with supraspinatus tendon thickness (P = 0.02), but no significant associations were found between the presence of tendinosis and years of competition (P = 0.68), mean SWV (P = 0.47), or WORC  score (P = 0.87). Logistic regression analysis showed that supraspinatus tendon thickness predicted the presence/absence of supraspinatus tendinosis in 83% of swimmers. This analysis showed that swimmers with supraspinatus tendon thicknesses greater than 6.2 mm are at an increased risk for supraspinatus tendinosis (Figure 2).
+The mean SWV across all study participants was 2.2 ± 0.3 m/s 
+and ranged from 1.9 to 2.8 m/s. A significant association was detected between years of participation and supraspinatus SWV, indicating that SWV decreased with increasing years of participation (P = 0.04, Figure 3).
+Mean shoulder strength was 28.7 ± 9.9 N·m (range, 7.9-46.4 
+N·m) for ABD, 30.1 ± 8.5 N·m (range, 18.7-47.6 N·m) for ELEV, 19.8 ± 6.6 N·m (range, 14.4-28.1 N·m) for ER, and 27.7 ± 8.3 N·m (range, 15.3-47.3 N·m) for IR. The study failed to detect an association between years of participation and measures of ABD (P = 0.39), ELEV (P = 0.41), ER (P = 0.67), or IR (P = 0.79) strength.
+The mean WORC score for all swimmers was 87.1 ± 14.7 and 
+ranged from 51 to 99. A significant negative association was detected between years of participation and WORC score, indicating that self-reported shoulder function declines as years of participation increases (P < 0.01, Figure 4).
+discussion
+The measures of supraspinatus tendon thickness reported in the current study compare well with previously reported data in 
+Figure 1. A positive association was found between 
+supraspinatus tendon thickness and years of competition in 
+swimmers (r2 = 0.32, P = 0.01).
+Mar • Apr 2018Dischler et al
+116swimmers. Using MRI imaging, Sein et al22 measured a median 
+supraspinatus tendon thickness of 8 mm (range, 6-10 mm) in a 
+population of 52 swimmers. In addition, they reported that supraspinatus tendon thickness was significantly associated with competitive level (eg, club, state, national, international), years in training, weekly training time, cumulative use, and tendinopathy.
+22 These findings are consistent with this study’s 
+reported association between supraspinatus thickness and years of participation (see Figure 1).
+The findings from this study suggest that the supraspinatus 
+tendon of competitive swimmers increases in thickness to meet the imposed functional demands of swim training. This finding is consistent with previous studies that have investigated the effects of overuse on tendon mechanical properties in small animal models.
+14,24,26 For example, rats that performed 8 weeks 
+of treadmill running (1 h/d, 5 d/wk) had a 36% greater increase in supraspinatus tendon cross-sectional area compared with rats that were allowed normal cage activity.
+24 Histological evaluation 
+in small animal models has shown evidence of increase in tendon cross-sectional area being due to the remodeling of the tendon.
+4,23,24 This remodeling process and corresponding tissue 
+accumulation is the body’s attempt at increasing the tendon’s mechanical properties to meet the functional demands, but with the continued stress of overuse activity, the tendon remains in a state of constant remodeling with reduced mechanical properties.
+24 Thus, lengthy swim careers may lead to a chronic 
+condition of reduced mechanical properties in the rotator cuff, thereby increasing the likelihood of pathology. It is unknown if, or to what extent, tendon thickness decreases after an extended period of inactivity, but it is likely that these chronic adaptations in tendon thickness may help explain the high prevalence of subacromial impingement in swimmers.
+22
+The findings from the conventional ultrasound imaging are in 
+good agreement with Sein et al,22 who reported that 69% of 
+swimmers had MRI-based evidence of supraspinatus tendinopathy. Interestingly, tendinosis was significantly associated with tendon thickness (Figure 2), and tendon thickness was also significantly associated with years of competition (see Figure 1). However, tendinosis was not associated with years of competition, which is consistent with the findings reported by Sein et al.
+22 Taken together, these findings suggest that even 
+though tendon thickness increases with increased years of competition, tendon thickness at the start of an individual’s swim career may have a greater influence on the presence/absence of tendinosis in swimmers than the number of years of competition. Specifically, the data reported here would suggest that a supraspinatus tendon thickness approaching 6 mm may be a risk factor for tendinosis (Figure 2). This interpretation of these findings is admittedly speculative, and a more rigorous analysis of 
+Figure 2. A positive association was found between 
+supraspinatus tendinosis and supraspinatus tendon 
+thickness (r2 = 0.51, P = 0.02).
+Figure 3. Years of competition was found to be negatively 
+associated with supraspinatus shear wave velocity (r2 = 
+0.25, P = 0.04).
+Figure 4. Years of competition was found to be negatively 
+associated with Western Ontario Rotator Cuff (WORC) score (r
+2 = 0.41, P < 0.01).
+SPORTS HEALTHvol. 10 • no. 2
+117factors contributing to the development of tendinosis in 
+swimmers may be a promising area of future research.
+The SWV findings of this study are consistent with previous 
+studies that have examined the supraspinatus muscle using SWE. For example, healthy control subjects had supraspinatus muscle SWV values of 3.0 ± 0.5 m/s, which was significantly higher than subjects with rotator cuff pathology, whose SWV was 2.5 ± 0.5 m/s.
+20 This finding suggests that SWV values 
+decrease with pathology. In fact, lower SWV values were associated with muscle atrophy and fatty infiltration, characteristics that are commonly associated with rotator cuff pathology.
+20 Interestingly, the current study’s mean SWV of 2.2 ± 
+0.3 m/s in this collegiate swimmer population is lower than that of the control and pathologic subject populations in the study by Rosskopf et al.
+20 This finding seems to suggest that 
+increasing years of swimming competition results in supraspinatus SWV values that are consistent with (or perhaps even surpass) rotator cuff pathology (see Figure 3). The caveat to this interpretation of the study findings is that the current study acquired SWE images with the transducer parallel to the long axis of the supraspinatus, whereas Rosskopf et al
+20 
+acquired SWE images perpendicular to the long axis of the supraspinatus. Previous research has reported that transducer orientation (parallel vs perpendicular to muscle fibers) can have a significant effect on SWV values,
+7 so differences in SWV 
+values between studies may have been influenced, at least to some extent, by transducer orientation.
+This study failed to detect an association between years of 
+competition and any of the strength measurements, which was somewhat confounding. Previous research has reported that swimmers develop a significant muscle imbalance throughout the competitive season, with IR strength increasing significantly without a corresponding change in ER strength.
+2 These 
+muscular imbalances are responsible, at least in part, for the pathologic condition described as “swimmer’s shoulder.”
+21 
+However, there are several possible explanations for this lack of association between years of competition and shoulder strength. First, it is entirely possible, or even likely, that the relationship between years of competition and shoulder strength is not linear. Second, it is possible that short-term muscle imbalances develop within a training season but do not persist throughout the course of a swimmer’s career as periods of lower intensity training within a training year restore the balance between IR and ER strength. Additionally, it is possible that swimmers who continue to swim at the collegiate level are those who are naturally selected to do so. Specifically, swimmers with rotator cuff tendinopathy, pain, and weakness likely drop out of the sport and are therefore not represented in the study’s subject population. Finally, the convenience sample of 18 subjects may have been insufficient to detect a linear association between years of competition and shoulder strength.
+The associations between years of competition and tendon 
+thickness (see Figure 1), SWV (see Figure 3), and WORC score (see Figure 4) together suggest that over many years of a swimming career, it is likely that the swimmer’s supraspinatus tendon will become thicker, thus increasing the risk of impingement, and that SWV of the supraspinatus muscle will decrease, suggesting a loss of mechanical properties. With an increased risk of impingement and loss of mechanical properties, it is perhaps not surprising that the swimmer’s subjective assessment of pain and function also decreases over time (see Figure 4). These findings are consistent with previous research showing years of competition is associated with shoulder pain in swimmers aged 15 to 19 years.
+25 Similarly, 
+these findings are consistent with the high incidence of supraspinatus tendinopathy in high-level swimmers.
+22
+As with any research project, this study had several limitations. 
+First, the study involved a relatively small convenience sample of subjects, and therefore, it is likely that the study did not have the appropriate statistical power for detecting significant differences for many of the outcome measures. A related limitation is that the study included only female swimmers. However, there is some evidence to suggest that muscle SWV may be influenced by sex,
+6 so including only female swimmers 
+in this study was done in an effort to maintain a homogeneous subject population and minimize any effects due to sex. Another limitation is that subjects were selected from only 1 collegiate swim team, and therefore, the findings may have been biased by the specific training regimen implemented by Wayne State University’s women’s swim team. Finally, although shoulder laxity is associated with impingement and extreme pain in swimmers,
+22 no physical examination was performed on the 
+swimmers to measure shoulder laxity.
+In summary, years of participation in competitive swimming 
+was positively associated with supraspinatus tendon thickness and negatively associated with both supraspinatus muscle SWV and WORC score. These findings have implications for the development of rotator cuff pathology in competitive swimmers.
+RefeRences
+ 1. Ates F, Hug F, Bouillard K, et al. Muscle shear elastic modulus is linearly related 
+to muscle torque over the entire range of isometric contraction intensity.  
+J Electromyogr Kinesiol. 2015;25:703-708.
+ 2. Batalha N, Marmeleira J, Garrido N, Silva AJ. Does a water-training macrocycle 
+really create imbalances in swimmers’ shoulder rotator muscles? Eur J Sport Sci. 2015;15:167-172.
+ 3. Berg WA, Mendelson EB, Cosgrove DO, et al. Quantitative maximum shear-wave stiffness of breast masses as a predictor of histopathologic severity. AJR Am J Roentgenol. 2015;205:448-455.
+ 4. Carpenter JE, Flanagan CL, Thomopoulos S, Yian EH, Soslowsky LJ. The effects of overuse combined with intrinsic or extrinsic alterations in an animal model of 
+rotator cuff tendinosis. Am J Sports Med. 1998;26:801-807.
+ 5. Chase KI, Caine DJ, Goodwin BJ, Whitehead JR, Romanick MA. A prospective 
+study of injury affecting competitive collegiate swimmers. Res Sports Med. 2013;21:111-123.
+ 6. Eby SF, Cloud BA, Brandenburg JE, et al. Shear wave elastography of passive skeletal muscle stiffness: influences of sex and age throughout adulthood. Clin Biomech (Bristol, Avon). 2015;30:22-27.
+ 7. Eby SF, Song P, Chen S, Chen Q, Greenleaf JF, An KN. Validation of shear wave elastography in skeletal muscle. J Biomech. 2013;46:2381-2387.
+ 8. Feldmann A, Langlois C, Dewailly M, et al. Shear wave elastography (SWE): an analysis of breast lesion characterization in 83 breast lesions. Ultrasound Med 
+Biol. 2015;41:2594-2604.
+ 9. Hagan M, Asrani SK, Talwalkar J. Non-invasive assessment of liver fibrosis and 
+prognosis. Expert Rev Gastroenterol Hepatol. 2015;9:1251-1260.
+Mar • Apr 2018Dischler et al
+118 10. Harrington S, Meisel C, Tate A. A cross-sectional study examining shoulder pain 
+and disability in Division I female swimmers. J Sport Rehabil. 2014;23:65-75.
+ 11. Hidalgo-Lozano A, Calderon-Soto C, Domingo-Camara A, Fernandez-de-Las-Penas C, Madeleine P, Arroyo-Morales M. Elite swimmers with unilateral shoulder pain demonstrate altered pattern of cervical muscle activation during a functional upper-limb task. J Orthop Sports Phys Ther. 2012;42:552-558.
+ 12. Hidalgo-Lozano A, Fernandez-de-las-Penas C, Calderon-Soto C, Domingo-Camara A, Madeleine P, Arroyo-Morales M. Elite swimmers with and without unilateral shoulder pain: mechanical hyperalgesia and active/latent muscle trigger points in 
+neck-shoulder muscles. Scand J Med Sci Sports. 2013;23:66-73.
+ 13. Hill L, Collins M, Posthumus M. Risk factors for shoulder pain and injury in 
+swimmers: a critical systematic review. Phys Sportsmed. 2015;43:412-420.
+ 14. Huang TF, Perry SM, Soslowsky LJ. The effect of overuse activity on Achilles 
+tendon in an animal model: a biomechanical study. Ann Biomed Eng. 
+2004;32:336-341.
+ 15. Kim HJ, Lee HK, Cho JH, Yang HJ. Quantitative comparison of transient elastography (TE), shear wave elastography (SWE) and liver biopsy results of 
+patients with chronic liver disease. J Phys Ther Sci. 2015;27:2465-2468.
+ 16. Kirkley A, Alvarez C, Griffin S. The development and evaluation of a disease-
+specific quality-of-life questionnaire for disorders of the rotator cuff: the Western 
+Ontario Rotator Cuff Index. Clin J Sport Med. 2003;13:84-92.
+ 17. Michener LA, Subasi Yesilyaprak SS, Seitz AL, Timmons MK, Walsworth 
+MK. Supraspinatus tendon and subacromial space parameters measured on ultrasonographic imaging in subacromial impingement syndrome. Knee Surg 
+Sports Traumatol Arthrosc. 2015;23:363-369.
+ 18. National Collegiate Athletic Association. NCAA Sports Sponsorship and 
+Participation Rates Report. 1981-1982 to 2014-2015. Indianapolis, IN: National 
+Collegiate Athletic Association; 2015:123-124, 171-172. 19. Peltz CD, Baumer TG, Mende V, et al. Effect of arthroscopic stabilization on in 
+vivo glenohumeral joint motion and clinical outcomes in patients with anterior 
+instability. Am J Sports Med. 2015;43:2800-2808.
+ 20. Rosskopf AB, Ehrmann C, Buck FM, Gerber C, Flück M, Pfirrmann CW. Quantitative 
+shear-wave US elastography of the supraspinatus muscle: reliability of the method and relation to tendon integrity and muscle quality. Radiology. 2016;278:465-474.
+ 21. Rupp S, Berninger K, Hopf T. Shoulder problems in high level swimmers—impingement, anterior instability, muscular imbalance? Int J Sports Med. 1995;16:557-562.
+ 22. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite swimmers: primarily 
+due to swim-volume-induced supraspinatus tendinopathy. Br J Sports Med. 
+2010;44:105-113.
+ 23. Soslowsky LJ, Carpenter JE, DeBano CM, Banerji I, Moalli MR. Development and use of an animal model for investigations on rotator cuff disease. J Shoulder 
+Elbow Surg. 1996;5:383-392.
+ 24. Soslowsky LJ, Thomopoulos S, Tun S, et al. Neer Award 1999. Overuse 
+activity injures the supraspinatus tendon in an animal model: a histologic and biomechanical study. J Shoulder Elbow Surg. 2000;9:79-84.
+ 25. Tate A, Turner GN, Knab SE, Jorgensen C, Strittmatter A, Michener LA. Risk factors associated with shoulder pain and disability across the lifespan of competitive swimmers. J Athl Train. 2012;47:149-158.
+ 26. Tucker JJ, Riggin CN, Connizzo BK, et al. Effect of overuse-induced tendinopathy on tendon healing in a rat supraspinatus repair model. J Orthop Res. 2016;34:161-166.
+ 27. US Masters Swimming. STREAMLINES April 2016. STREAMLINES Newsletters. Sarasota, FL: US Masters Swimming; 2016.
+ 28. USA Swimming. 2015 Membership Demographics. 2015 ed. Colorado Springs: USA Swimming; 2015:4.
+ 29. Wolf BR, Ebinger AE, Lawler MP, Britton CL. Injury patterns in Division I 
+collegiate swimming. Am J Sports Med. 2009;37:2037-2042.
+For reprints and permission queries, please visit SAGE’s Web site at http://www.sagepub.com/journalsPermissions.nav.

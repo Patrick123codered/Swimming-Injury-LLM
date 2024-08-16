@@ -1,0 +1,2405 @@
+ 
+ 
+ 
+SHOULDER INJURIES IN HONG KONG  
+INTER-SCHOOL SWIMMING CHAMPIONS  
+(HONG KONG ISLAND AND KOWLOON)  
+DIVISION I SCHOOLS' STUDENTS  
+ 
+BY 
+ 
+LI KI YAN  
+10002731  
+ 
+AN HONOURS PROJECT SUBMITTED IN PARTIAL FUFILMENT OF  
+THE REQUIREMENTS FOR THE DEGREE OF  
+ 
+BACHELOR OF AR TS 
+IN 
+PHYSICAL EDUCATION AND RECREATION MANAGEMENT (HONOURS)  
+HONG KONG BAPTIST UNIVERSITY  
+APRIL 2012  
+2 
+HONG KONG BAPTIST UNIVERSITY  
+ 
+30TH ARPIL, 2012  
+ 
+We hereby recommend that the Honours Project by Miss LI 
+KI YAN entitled “ SHOULDER INJURIES IN HONG KONG INT ER-
+SCHOOL SWIMMING CHAMPIONS (HONG KONG ISLAND AND KOWLOO N) 
+DIVISION I SCHOOLS' STUDENTS ” be accepted in partial 
+fulfillment of the requirements for the Bachelor of Arts 
+Honours Degree in Physical Education and Recreation 
+Management.  
+ 
+ 
+ 
+___________________ ____    ___________________ ____ 
+Dr. LOBO LOUIE     DR. TOM TONG  
+Chief Adviser      Second Reader  
+3 
+DECLARATION  
+ 
+I hereby declare that this honours project ” SHOULDER 
+INJURIES IN HONG KONG INTER -SCHOOL SWIMMING CHAMPIONS (HONG 
+KONG ISLAND AND KOWLOO N) DIVISION I SCHOOLS' STUDENTS” 
+represents my own work and had not been previously 
+submitted to this or other institution for a degree, 
+diploma or other qualification. Citations from the other 
+authors were listed in the references.  
+ 
+ 
+ 
+ 
+ 
+ 
+____________________  
+Li Ki Ya n 
+ 
+30th April, 2012  
+4 
+ACKNOWLEDGEMENTS  
+ 
+I would like to express my deepest gratitude to my chief 
+advisor, Dr. Lobo Louie for his professional advices and 
+valuable recommendations throughout the entire project 
+period. 
+I would also like to thank Dr. Tom Tong for being my 
+second reader. Appreciation was given to the cooperation of 
+the following  secondary schools for participating in this 
+study. 
+ 
+Secondary Schools  
+Diocesan Boys' School  
+Diocesan Girls' School  
+Fukien Secondary School (Kwun Tong)  
+Heep Yunn School  
+Maryknoll Convent School  
+Marymount Secondary School  
+Queen's College   
+Raimondi College  
+Sacred Heart Canossian College  
+St. Joseph's College  
+5 
+St. Paul's College  
+St. Paul's Convent School (Secondary Section)  
+St. Stephen's Girls' College  
+Wa Ying College 
+Wah Yan College (Kowloon)  
+ 
+Finally, I would like to give special thanks to my 
+family for their supports, Hill Top Swimming Club, swimming 
+team members of Hong Kong Baptist University  for their 
+advise, university swimming team coach , Mr. Wong Ka Ki for 
+his guidance  and my friends, Lu Zhe, Carmen Tang, Kwok Fong 
+Pui, Chow Chit Ling and  Lai Tsz Wing for their assistances 
+throughout  the project.  
+ 
+ 
+______________________  
+Li Ki Yan  
+Department of Physical Education  
+Hong Kong Baptist University  
+Date: 30th April, 2012  
+ 
+6 
+Abstract  
+The results of the c ompetitive swimming in Hong Kong 
+have been raised in the past years. Many Hong Kong Records  
+have been broken by the Hong Kong swimmers in international 
+events. In order to achieve outstanding results, swimmers 
+in Hong Kong received intense training and soon after years, 
+it is common to hear swimmers got injured due to 
+overtraining. The purpose o f this study is to investigate 
+the injury patterns of swimming injuries of swimmers whom 
+were studied in schools that participated in the Hong Kong 
+Inter-school Swimming Championships (Hong Kong  Island and 
+Kowloon) Division I 2010/2011 and 2011/2012.  
+There were 437 young swimmers participated in the study. 
+There result showed that 154 swimmers (59 males and 95 
+females) had suffered from injuries in the past one year. 
+There were a total of 437 injury incidents happened in the 
+past one year among all the swi mmers and gave an incidence 
+rate of 0.28 per 1000 training hours. Swimmers from the 
+junior training squad had the highest incidence rate. 
+Sprain/strain at lumbar spine/low back (27  cases) and 
+strain at shoulder (26  cases) were the most frequent sites 
+at upper extremities and dorsal trunk while in the lower 
+7 
+extremities, muscle cramps at the thigh/lower legs (53  
+cases) and sprain at ankle (46  cases) were the most common 
+injuries.  The demographical information of swimmers with 
+shoulder injuries was also invest igated.  
+8 
+Table of Content  
+CHAPTER                                                Page  
+1. INTRODUCTION  ................................ .........  13 
+Statement of the Problem  .............................  14 
+Purpose of the Study  ................................ . 15 
+Definition of Terms  ................................ .. 16 
+Delimitations  ................................ ........  20 
+Limitations  ................................ ..........  20 
+Significance of the Study  ............................  21 
+2. REVIEW OF LITERAT URE ................................ . 22 
+Rate of Swimming Injuries  ............................  22 
+Rate of Shoulder Dislocation in Sports  ...............  25 
+Summary ............................................. .30 
+3. METHOD ................................ ...............  31 
+The Subjects  ................................ .........  31 
+Instrument  ................................ ...........  32 
+9 
+Procedures ................................ ...........  33 
+Method of Analysis  ................................ ... 34 
+4. ANALYSIS OF DATA  ................................ ..... 35 
+Results ................................ ..............  37 
+Discussion  ................................ ...........  73 
+5. SUMMARY AND CONCLUSIONS  ..............................  79 
+Summary of Results  ................................ ... 79 
+Conclusion  ................................ ...........  85 
+Recommendation for Further Studies  ...................  85 
+REFERENCE  ................................ ...............  88 
+APPENDIX  ................................ ................  95 
+A. Letter to schools  ................................ . 95 
+B. 中學學界游泳比賽受傷比率調查  ..........................  96 
+ 
+10 
+LIST OF TABLES  
+TABLE           PAGE 
+1. Demographic information of respondents (N=437).....  
+2. Performance Levels and Injury rates (N=437)....... . 
+3. One way ANOVA to analyze the performance levels of 
+swimmers and the injury occurrence (N=437).........  
+4. Main strokes and Injury rates (N=437)..............  
+5. One way ANOVA to analyze the main stroke of 
+swimmers and the injury occurrence (N=437).........  
+6. Grade participation in Inter-school Swimming 
+Championship (Ho ng Kong Island & Kowloon) Division 
+I 2010/2011 and the injury rates (N=247)...........  
+7. One way ANOVA of grade participation in Inter-
+school Swimming Championship (Hong Kong Island & 
+Kowloon) Division I 2010/2011 and the injury rates 
+(N=247)................ ............................  
+8. Grade participation in Inter-school Swimming 
+Championship (Hong Kong Island & Kowloon) Division 
+I 2011/2012 and the injury rates (N=343)... ........ 
+9. One way ANOVA of grade participation in Inter-
+school Swimming Championship (Hon g Kong Island & 38 
+40 
+ 
+40 
+42 
+ 
+42 
+ 
+ 
+44 
+ 
+ 
+ 
+44 
+ 
+ 
+46 
+ 
+ 
+11 
+Kowloon) Division I 2011/2012 and the injury rates 
+(N=343)............................................  
+10. Independent t -test of injury rates of swimmers who 
+had participated in the Inter-school Swimming 
+Championship (Hong Kong Island & Kowloon ) Division 
+I 2010/2011 and 2011/2012 (N=232).............. .... 
+11. Independent t -test of hours of swimming or land 
+training among Males and Females Swimmers (N=437)..  
+12. Independent t -test of hours of swimming or land 
+training and the injury occurrence of swimmer s 
+(N=232)............................................  
+13. The total training hours, total number of injury 
+cases and the incidence rates of injuries (per 1000 
+training hours) for each performance level group of 
+swimmers (N=437)......... ................... ....... 
+14. Warm up time patterns of the swimmers in swimming 
+or land training (N=437) ...........................  
+15. Warm up patterns in swimming and landing training 
+of swimmers (N=437)................................  
+16. Cool down patterns of swimmers after swimming and 
+land training (N=437)..............................  
+17. Injury patterns and the incident rates of swimmers  
+46 
+ 
+ 
+ 
+48 
+ 
+51 
+ 
+ 
+51 
+ 
+ 
+ 
+53 
+ 
+55 
+ 
+57 
+ 
+59 
+ 
+12 
+of different performance levels (N=437)............  
+18. Background information of swimmers with shoulder 
+injury of different performance level (N=43).......  
+19. Types of shoulder injury and the type of main 
+strokes (N=43).....................................  
+20. Recurrent rate and acute injury rate of shoulder of 
+different strokes (N=43)...........................  
+21. Treatments after first time and recurrent injury 
+(N=43).............................................  
+22. The frequencies of the number of days staying in 
+hospital, number of days off from training and 
+sports completely  (N=43)...........................  
+23. Self Rating (1 -5) on muscle strength, range of 
+motion and swi mming skills after treatment  (N=43)..  62 
+ 
+66 
+ 
+67 
+ 
+68 
+ 
+69 
+ 
+ 
+70 
+ 
+71 
+ 
+ 
+LIST OF FIGURES  
+FIGURE           PAGE 
+1. Histogram of the Self Rating on muscle strength, 
+range of motion and swimmin g skills after treatment  72 
+ 
+ 
+13 
+Chapter One  
+Introduction  
+Swimming is one of the elite sports in Hong Kong. This 
+is because the Hong Kong team has gained outstanding 
+results in numerous  international events, especially in the 
+2009 East Asian Games and the 2010 Asian Games. For years, 
+the Hong Kong swimmers have broken  the new Hong Kong 
+records in different competitions : in 2010, the Hong Kong 
+swimmers have broken 3 new Hong Kong records in Asian 
+Games-Guangzhou, China and 7 new Hong Kong records in 10th 
+FINA World Swimming Championships - Dubai, UAE ( Chiu, 2011) . 
+These tell us that their limits have not bee n reached. 
+There are still  rooms of improvement can be made and Hong 
+Kong swimmers are stepping toward the bright stage of the 
+swimming world.  
+In the pas t, swimming is a survival or rescue skill. 
+People swim for bathing, cooling, fishing, recreation, 
+exercise and sport. The modern four swimming styles are 
+developed throughout years. Front crawl as an example, it 
+is deduced from the dog paddle, to breastst roke, sidestroke, 
+then trudgen  (Colwin, 2002). Other than the front crawl, 
+14 
+the mechanism of breathing technique,as an example, among  
+the backstroke, breaststroke and butterfly are also changed 
+to the nowadays forms.  
+Every year, there are 12 boys’ schools an d 12 girls’ 
+schools participate in the Inter -school Swimming 
+Championships (Hong Kong Island & Kowloon) Division I. New 
+records are always created by young swimmers within this 
+division rather than division two or three. Thus, it is 
+believed that the train ing quantity is much tenser within 
+this group of swimmers. Since th ere are a significant 
+number of swimmers (either for recreational or competitive) 
+in Hong Kong, it is essential to understand the pattern of 
+the potential injuries so as to set up preventiv e measures 
+to prevent and reduce the chance of the swimming injuries 
+to occur.  
+ 
+Statement of the Problem 
+The aim of the study was to investigate the injury 
+patterns of Inter-school Swimming Championships (Hong Kong 
+Island & Kowloon) Division I swimmers  in Hong Kong. 
+Included in the study was an attempt to identify the injury 
+15 
+patterns and the demography information of the shoulder 
+injuries of swimmers in Hong Kong.   
+ 
+Purpose of the Study  
+The purpose of the study was to investigate the injury 
+patterns among s wimmers in Hong Kong Inter-school Swimming 
+Championships (Hong Kong Island & Kowloon) Division I and 
+would be providing information for coaches and swimmers  of 
+common injuries in swimming. This would help the coaches 
+and schools to develop a better plan for training so as to 
+reduce the risk of injury and improve their training 
+quality. Also, it can raise the awareness of sports 
+injuries among recreational swimmers.  To understand the 
+injury patterns of swimmers, the following research 
+questions were asked:  
+1. What would t he injury patterns of swimmers in Inter -
+school Swimming Championships (Hong Kong Island & 
+Kowloon) Division I  be?  
+2. Are there any association  between the performance 
+levels of swimmers and their injury patterns ? 
+16 
+3. Are there any association  between the main st roke of 
+swimmers and their injury patterns ? 
+4. Are there any association between training intensity  
+of swimmers and the injury patterns?  
+5. Are there any association between different main 
+strokes of swimmers and the shoulder injury patterns?  
+ 
+Definition of Te rms 
+The operational definitions of the terms in this study 
+were defined as follows:  
+Sport Injuries 
+It refers to any injuries that happen ed when playing 
+sports or exercising. Some are from accidents. Others can 
+result from poor training practices or imprope r gear. Some 
+people get injured when they are not in proper condition. 
+Not warming up or stretching enough before playing or 
+exercising can also lead to injuries  (U.S. Department of 
+Health and Human Services, 2009) . 
+17 
+Performance Level 
+It refers to the highe st swimming ability of the 
+subjects including Hong Kong Team, Regional  Training Squad, 
+Junior Training Squad, swimming clubs swimmers and school 
+team only swimmers.   
+Swimming Strokes 
+There are four swimming stroke s as stated in the FINA 
+(Federation Intern ational De Association). They are 
+freestyle, backstroke, breaststroke and butterfly.  
+Freestyle  
+It means that in an event so designated  the swimmer 
+may swim any style and s ome part of the swimmer must break 
+the surface of the water throughout the race  except that in 
+individual medley or medley relay events, freestyle means 
+any style other than backstroke, breaststroke or butterfly  
+(FINA, SW 5 Freestyle, 2010) . 
+Backstroke   
+Prior to the starting signal, the swimmers shall line 
+up in the water facing the starti ng end, with both hands 
+holding the starting grips.  The swimmer shall push off and 
+18 
+swim upon his back throughout the race except when 
+executing a turn  (FINA, SW 6 Backstroke, 2010) . 
+Breaststroke  
+From the beginning of the first arm stroke after the 
+start an d after each turn, the body shall be on the breast. 
+It is not permitted to roll onto the back at any time. From 
+the start and throughout the race , the stroke cycle must be 
+one arm stroke and one leg kick in that order. All 
+movements of the arms shall be si multaneous and on the same 
+horizontal plane without alternating movement  (FINA, SW 7 
+Breaststroke, 2010) . 
+Butterfly  
+Both arms shall be brought forward together over the 
+water and brought backward simultaneously through -out the 
+race. All up and down movemen ts of the legs must be 
+simultaneous. The legs or the feet need not be on the same 
+level, but they shall not alternate in relation to each 
+other. A breaststroke kicking movement is not permitted  
+(FINA, SW 8 Butterfly, 2010) . 
+ 
+19 
+Individual Medley  
+  Swimmer cov ers the four swimming strokes in the 
+following order: Butterfly, Backstroke, Breaststroke and 
+Freestyle. Each of the strokes must cover one quarter (1/4) 
+of the distance (FINA, SW 9 Medley Swimming, 2010) . 
+Additional Land Training 
+It refers to the any type s of extra training on dry-
+land which aims to enhance the muscular strength and 
+endurance of swimmers so as to improve their performance.  
+Warm Up 
+It refers to the exercise conducted prior to 
+performance, whether or not muscle or body temperature is 
+elevated (Powers & Howley, 2004) .  
+Cool Down 
+It refers to activities including slow walking and 
+stretching exercises that gradually return heart rate and 
+blood pressure back to normal(Powers & Howley, 2004) .  
+20 
+Delimitations  
+The delimitations of the present study w ere list as 
+follows:   
+1. The subjects were  delimited to  be the school swimming 
+team members  whom schools had participated 
+consecutively in the Inter -school Swimming 
+Championships (Hong Kong Island & Kowloon) Division 
+One for the academic year s of 2010/2011 and 2011/2012.  
+2. The subjects were assumed to have regular swimming or 
+dry-land training  at least once per week. 
+3. Incidence of injuries was delimited to the past one 
+year. 
+ 
+Limitations  
+The following limitations should be considered when 
+interpreting the results of this study:   
+1. It was assumed that the injury items of the 
+questionnaire are enough to measure the common types 
+of injury.  
+2. It was assumed that all subjects would answer the 
+questionnaires honestly.  
+21 
+3. It was assumed that all subjects were able to identify 
+their injuries.  
+ 
+Significance of the Study  
+The significance of study was to investigate the 
+potential injuries  in swimming . It exa mined associations 
+between gender, age, performance level s, the main stroke s 
+and the years of participation in the Championships  of the 
+swimmers with the injuries. It also provide d information to 
+compare the injury pattern s from the Hong Kong team 
+swimmers to the school team  swimmers.  
+The study was specifically focused on the injuries 
+that are related to the shoulder . According to the  
+Federation In ternationale de Natation (FINA ) (Mountjoy et 
+al, 2010), it was reported that in the World Championships 
+2009, the up per extremity especially shoulder was the most 
+frequently injured region. Finding out the pattern s of 
+injuries c ould help the coach es and schools  to plan and 
+develop their training programs so as to enhance swimmers’ 
+performance and improve their skills and tech nique 
+effectively.  
+22 
+Chapter Two  
+Review o f Literature  
+It is likely to have injuries when you play basketball, 
+rugby, and soccer. It is always heard that people who are 
+injured shall swim for rehabilitation but it is rare to get 
+injured because of swimming.  
+The rate of swimming injuries and  the rate of sho ulder 
+dislocation in sports  will be included  in this chapter . 
+ 
+Rate of Swimming Injuries 
+Some researchers had conducted a study about the injury 
+patterns in National Collegiate Athletic Association (NCAA)  
+Division I -A level (Wolf, Ebinger,  Lawler & Britton, 2009). 
+They followed one men and women swimming team over 5 
+seasons (2002 -2007). Out of 44 male and 50 female athletes, 
+90 injuries were sustained by 32 males (72.7%) and 35 
+female swimmers g ot 76 injuri es (70.0%).  There was no 
+significant gender different in the risk of being injured. 
+The common injuries in cluded in the  report were 
+shoulder/upper arm (23 cases out of 55 swimmers), neck/back 
+23 
+(12 cases out of 38 swimmers) and elbow/wrist/hand/finger 
+(6 out of 18 male swimmers) or knee/leg (5 cases out of 13 
+female swimmers). In the study, there were 30% and 28% of 
+male and female swimmers injury cases reported in their 
+strength training that back/neck injury happened the most . 
+Moreover, there was no relationship  between the injury to 
+different body part s and the stroke specialty.  
+Although Wolf et al. (2009) indicated  that there was no 
+correlation between the body part injured and the stroke 
+specialty , Grote, Lincoln & Gamble  (2004) pointed out that 
+breaststroke swi mmers had a greater chance to have groin 
+pain (6.92%) than the individual medley swimmers who did 
+not take part in the breaststroke events ( 0, P = 0.015). 
+From the survey collected from th e 296 competitive swimmers, 
+it was found that the pain at hip adduct ors (groin injury) 
+has been affecting or inhibiting the trainings and 
+competitions of these breaststroke swimmers.  
+Furthermore, 341 elite swimmers conditions were followed 
+by Knobloch , Yoon, Kraemer & Vogt (2008). It is found that 
+the overall injury rate o f these swimmers was 0.39/1000h. 
+In details, the rate of overuse injuries  was greater than 
+the acute injuries (0.22/1000h and 0.17/1000h respectively).  
+24 
+It is likely to see th at the injuries of upper limbs was 
+much more than the trunk or lower limbs (0.11,  0.067 and 
+0.085 per 1000h correspondingly) while ahead by the knee 
+pain at the rate of 0.17/1000h. The study also made 
+contrast with the previous research of Wolf et al. (2009) 
+that 200 -400m breaststroke swimmers had a higher risk of 
+knee pain (relative ri sk, RR 5.1, p = 0.001). Shoulder 
+overuse syndromes and acute shoulder injury were indicated 
+as in freestyle and butterfly swimmers respectively. It was 
+noted that athletes who trained for 4 times a week or above 
+were under a higher risk of knee injuries (R R2.1) and 
+shoulder injuries (RR4.0).  
+On the other hand, a case study  was reported that a 
+female butterfly swimmer  suffered from the bilateral 
+subluxation of sternoclavicular joints which initially  
+associated with pain and discomfort at the shoulder girdle  
+(Echlin & Michaelson , 2006).  Another case of swimming 
+injury was that a 31-year-old male recreational  triathlete 
+reported that he ha d headaches and temporomandibular joint  
+pain while attempting to incorporate bilateral breathing 
+into his free -style swimmi ng training regime  (Yuill & Howit, 
+2009). Besides, an unusual case of injury that happened to 
+25 
+competitive swimmer s was the chronic costochondritis. In 
+this case, a 14 years old female competitive swimmer 
+reported that the pain occurred during dry -land train ing, 
+including push -ups, seated rows, medicine ball toss and 
+relieved with rest. Due to the numerous consecutive push -
+ups performance during swimming practice, the pain was the n 
+developed  (Cubos, Cubos & Stefano,2010) .   
+ 
+Rate of Shoulder Dislocation in  Sports 
+There were many kinds of injuries over the shoulder 
+complex, including the sternoclavicular  joint injury, 
+clavicle fracture, acrominoclavicular joint injury, 
+osteolysis of the distal clavicle, little league shoulder, 
+proximal humerus fracture, gleno humeral instability and 
+rotator cuff injury. The level of injury and the patterns 
+were related to the kind s of sport, the intensity involved 
+and the level of participation  (Kocher, Waters & Micheli, 
+2000). 
+When the arm was forcefully abducted (e.g. when making  an 
+arm tackle in football) or having an excessive shoulder 
+external rotation and extension, i.e., arm in the overhead 
+26 
+position (Anderson, Hall  & Martin,  2000). A study of 
+“Injuries to the Shoulder in the Throwing Athlete” by  Keith 
+Meister (2000) g ave a clear explanation of ho w the throwing 
+mechanism affect ed the shoulder complex. It is mentioned 
+that the improper mechanics and poor conditioning 
+contribute to the injuries of throwing shoulder the most. 
+Meister (2000) had t he following elaboration about  part of 
+the throwing phase  that may lead to injury :  
+Hyperextension of the knee while planting the striding 
+leg and landing on the heel cause a sudden deceleration of 
+the body, which results in undue counterforce on the 
+throwing arm. Such a maneuver is often s een in pitcher s who 
+are “overthrowing”  and trying to get more velocity on their 
+fastballs.  
+The planted foot should always point toward home plate. 
+Placing the striding foot outside the target (toward the 
+first-base side for a right -handed pitcher) and wide  to the 
+torso results in “opening up too soon”.  In this instance, 
+pelvic rotation occurs too early, creating increased stress 
+across the anterior shoulder and elbow. Planting the foot 
+toward the third -base side of home plate slows down 
+27 
+rotation of the tors o, taking from the body’s momentum and 
+forcing the throw to be delivered entirely by the arm.  
+The throwing motion should be a smooth acceleration and 
+deceleration of the cente r of gravity toward the target . 
+(p.269)  
+The excessive stress on the upper arm wo uld then give 
+impact on the structure of the shoulder girdle.  
+A survey on the shoulder injury pa tterns of high school 
+athletes was conducted in 2005 -2006 and 2006 -2007 school 
+years (Bonza, Fields  & Yard, 2009). A total of nine sports 
+were inves tigated. Th ey were: football, soccer, basketball, 
+baseball, and wrestling for boys and soccer, volleyball, 
+basketball, and softball for girls. In the result, 805 
+shoulder injuries were reported out of 3,550,141 athlete -
+exposures (AEs). It is more likely to have shoul der 
+injuries occur during competition than practice (rate ratio 
+= 3.01, 95% confidence interval = 2.62, 3.46). Nevertheless, 
+Thomas and Swanik  (2009) measured glenohumeral internal 
+rotation (IR) and external rotation (ER) with the scapular 
+stabilized of 10  swimmers, 16 tennis players and 10 tennis 
+players. All of them were female athletes. Results showed 
+that the internal rotation decreased from preseason to 
+28 
+postseason (P=.012) and swimmers had less IR than both 
+volleyball and tennis players (P = .001). Ext ernal rotation 
+also decreased in the swimmers (P= .001). In the overall, 
+from the preseason to postseason, the total motion 
+decreased for athletes participating in swimming ( P =.001) 
+and tennis (P = .019). It is then suggested that close 
+monitoring should be given to the athletes throughout the 
+competitive seasons.  
+In swimming, during the hand entry and exit of the 
+freestyle stroke (most swimmers would choose front crawl),  
+the following muscular co -ordinations were involved to 
+perform the motion: the upper trapezius, rhomboids, 
+supraspinatus, middle deltoid and anterior deltoid position 
+the scapula and the humerus. The serratus anterior and 
+subscapularis also performed to position the scapular and 
+the internal rotation of the humerus respectively  (Pink & 
+Tibone, 2000) .  
+Similar study on the measurement on the glenohumeral 
+internal and external rotation was also conducted on 54 
+healthy males  (Torres & Gomes,  2009). Subjects wer e divided 
+into 3 groups (tennis players, swimmers, control group). 
+From the result, the mean glenohumeral internal rotation 
+29 
+deficit (GIRD) in tennis players, swimmers and control 
+group were 23.9° ± 8.4° ( P <.001), 12° ± 6.8° ( P <.001) and 
+4.9° ± 7.4° ( P =.035)  respectively. It showed that 
+significant difference of dominant shoulder  between all 
+groups, and the difference in internal rotation of the 
+dominant shoulder between the group of tennis players in 
+comparison with the control group (27.6°, P < .001) was 
+greater than the difference in internal rotation of the 
+dominant shoulder foun d in the group of swimmers compared 
+with the control group (17.9°, P <.001). Between tennis 
+players and swimmers, the difference in internal rotation 
+of the dominant shoulder was 9.7° ( P =.002). 
+A research had been done on the bony defect of the 
+glenoid rim  (Saito et al., 2005). The hypo thesis was that 
+the bony defect was anterior rather than anteroinferior to 
+the glenoid and the result confirmed this that the mean 
+orientation of the defect was pointing toward 3:01 on the 
+clock face of the glenoid, at a mean angle of 9 0.5° ± 10.4° 
+from the 12 -o’clock direction.  
+A study on the injury in rugby (Headey, Brooks  & Kemp, 
+2007) had the following findings: The most common match 
+injury was acromioclavicular joint injury (32%); the most 
+30 
+severe was shoulder dislocation and instab ility (mean 
+severity, 81 days absent), which also caused the greatest 
+proportion of absence (42%) and had the highest rate of 
+recurrence (62%). The majority of match shoulder injuries 
+were sustained in the tackl e (65%), and outside backs were 
+the most likel y to sustain an injury from tackling 
+(2.4/1000 player -tackles). It is then suggested that: the 
+potential to reduce this injury burden by modifying 
+training activities and implementing “prehabilitation” 
+strategies in an effort to minimize the risk of should er 
+dislocation/instability.  
+Summary 
+ In summary, differ from other sports, swimming 
+requires  relatively  more strength and power of the upper 
+limbs and trunk and the coordinations  between the breathing 
+and stroke motions is also a necessity .  
+ Common injured body sites in swimming include the 
+shoulder region, spine and knee.  Proper treatment should be 
+taken and consultation s from professional are encouraged  in 
+returning to trainings and participating  in competitions.     
+31 
+Chapter Three  
+Method 
+The method of this study was presented in the 
+following sections: 1) The subjects, 2) Instruments, 3) 
+Procedures and 4) Method of analysis.  
+ 
+The Subjects  
+The subjects were both male and female swimmers. Th ey 
+were from the school swimming team s whom schools had been  
+consecutively participated in the Inter -school Swimming 
+Championships Division I in the academic year s of 2010/2011 
+and 2011/2012.  A total of 19 secondary schools fulfill ed 
+this requirement  while only 15 schools participated in the 
+study with 8 girls’ schools and 7 boys’ schools . The total 
+number of subjects was 437 with 266 (60.9%) girls and 171 
+(39.1%) boys, aged 13 to 19 . 
+The performance level include d Hong Kong team swimmers 
+(4.1%), regional training squads (5.5%), junior training 
+squads (2.3%), swimming clubs swimmers (67.7%) and swimmers 
+who only train in school swimming team (19.9%).  
+32 
+Instrument  
+A self-designed questionnaire was used as the method 
+of collecting data  (see Appendix B). The procedures for 
+developing the self -designed q uestionnaires are based on 
+reviewing the journals that were related to the research 
+topic. The development of the questionnaire and translation 
+were supervised by the advisor. The questionnaire was 
+divided into t hree parts. 
+In the first part, the demograph ic information of the 
+respondents such as gender, performance level, stroke 
+majored in, training hours on swimming a nd fitness , warm up 
+and cool down exercise habit s were investigated. The y were 
+not required to provide thei r names.   
+In the second part, it focused on injuries happened 
+within one year time. Common injuries in swimming were 
+investigated, sorted by inju ry sites with type s of injuries . 
+Other injuries out of the list would also be asked to 
+specify by the subject s. 
+In the third part, only subject s who had been suffered 
+in shoulder injuries were required to answer.  The 
+background information such as the dominate side and 
+injured side, the period of suffering in the injury (acut e 
+33 
+or chronic),  the occasion  when injury happen ed, the motion 
+that caused the injur y, the time for recovery , medical help 
+from hospitals  and a self rating on the muscle strength , 
+rang of motion and swimming skills have also been asked.  
+ 
+Procedures  
+A pilot test was conducted with the swimmers from Hong 
+Kong Baptist University swimming team and Hill Top Swimming 
+Club to assess the suitability of the questionnaire before 
+the formal survey.  
+The purposes of this conduction were to see whether 
+the Chinese transla tion matches the English terms and to 
+test if the wordings used were understandable and 
+acceptable. In this pilot study, 40 swimmers were asked to 
+complete the questionnaire and stated out the problem s of 
+understanding the questions after completing the 
+questionnaires.   
+In the actual study, questionnaires were ad ministered 
+to subjects by school teachers and swimming team captains. 
+The purpose of the study has been explained to the subject s 
+by the administrator. The respondents were asked to recall 
+34 
+their past experience in swimming in t he past years and 
+also within the past one year. Each questionnaire took 
+approximately 3 minutes to complete.  
+ 
+Method of Analysis  
+All the responses of the questionnaires will be coded 
+for further data analysis and inputted into Statistic 
+Package of Social Science 16.0 for windows” (SPSS 16.0) and 
+Microsoft Excel. All statistical procedures were tested at 
+the 0.05 level of significance. Descriptive statistics such 
+as frequency, mean, standard deviation and percentage will 
+be used to describe the social demog raphic information such 
+as the personal data, exercise and warm up habit, the main 
+stroke and injury patterns of the subjects.  
+In comparing the means difference between male and 
+female swimmers in hours of swimming, additional fitness 
+training a nd the main stroke, the independent group t -test 
+and One way ANOVA were used.   
+35 
+Chapter 4  
+Analysis of Data  
+The purpose of this  study was to investigate the injury 
+patterns of the swimming players who have participated in 
+the 2010/2011 and 2011/2012 Inter -school Swimming 
+Championships (Hong Kong Island & Kowloon) Division I.  
+The descriptive statistics, ONEWAY ANOVA, Chi square an d 
+independent t -test were used to analyze the data. The 
+analyses of the data were presented in the following 
+results:  
+1. Demographic information of respondents  
+2. Distribution of grade participation with percentage of 
+injuries  
+3. Years of participation with percent age of injuries  
+4. Hours of swimming and land training of the swimmers and 
+the incidence rate s of injuries  
+5. Warm up patterns of the swimmers  
+6. Cool down patterns of swimmers  
+7. Details of injuries among injured body sites and injury 
+types 
+8. Background information of swimmers with shoulder injury  
+36 
+9. Types of shoulder injury  
+10. Recurrent rate and acute injury rate  of shoulder of 
+different strokes  
+11. Treatments after first time and recurrent injury  
+12. The frequencies of the number of days staying in 
+hospital, number of days off  from training and sports 
+completely    
+13. Self rating on muscle strength, range of motion and 
+swimming skills after treatment    
+37 
+Results 
+ 
+Demographic information of respondents  
+In this study, there were 437 swimmers involved, with 
+171 were males (39.1%) and 2 66 were females (60.9%). The 
+mean age of the subjects was 15 (SD±1.5), ranged from 13 -19. 
+The average weight and height of the subjects were 51.96kg 
+(SD±9.8) and 162.83cm (SD±8.5).  
+Within the 437 swimmers, there were 95 males and 152 
+females participated i n the 2010/2011 Championship while 
+138 males and 205 females had participated in the 2011/2012 
+Championship. The average of age, weight and height, 
+participation rate s in the inter -school swimming 
+championships of 2010/2011 and 2011/2012 and the injury 
+rates were summarized in Table 1.  
+38 
+ 
+Table 1 Demographic information of respondents  (N=437) 
+Gender  Age Weight  Height  Participated in 
+2010/2011 
+Championship  Participated in 
+2011/2012 
+Championship  Injury Occurrence  
+Mean  Mean  Mean  Yes No Yes No Yes No 
+Male  15.25 57 168 95  
+(21.7%)  76  
+(17.4%)  138  
+(31.6%)  33  
+(7.6%)  59  
+(13.5%)  112  
+(25.6%)  
+Female  15.06  49 160 152  
+(34.7%)  114  
+(26.1%)  205  
+(46.9%)  61  
+(13.9%)  95  
+(21.7%)  171  
+(39.1%)  
+ 
+ 
+   
+39 
+The D1 swimmers were categorized into five performance 
+levels. As illu strated in Table 2, the rate s of injury of 
+the Hong Kong team (8 swimmers), Regional training squad 
+(10 swimmers), the junior training squad (3 swimmers) and 
+those who only trained in the school swimming teams (21 
+swimmers) were 1.8%, 2.3%, 0.7% and 4.8% re spectively. For 
+those who trained in the swimming clubs (112 swimmers), the 
+injury rate was relatively much higher than the rest of the 
+performance groups which was 25.6%.  
+Table 3 showed that there was no significant difference 
+between the performance lev els and the injury occurrence 
+(p<0.05).  
+40 
+ 
+Table 2 Performance Levels and Injury rate s (N=437) 
+Performance Levels  Injury Occurrence  
+Total 
+Yes No 
+Hong Kong Team  8 
+(1.8%) 10 
+(2.3%) 18 
+Regional Training 
+Squad 10 
+(2.3%) 14 
+(3.2%) 24 
+Junior Training Squad  3 
+(0.7%) 7 
+(1.6%) 10 
+Swimming Clubs  112 
+(25.6%) 186 
+(42.6%) 298 
+School Swimming Team 
+only 21 
+(4.8%) 66 
+(15.1%) 87 
+Total 154 
+(35.2%) 283 
+(64.8%) 437 
+ 
+ 
+ 
+Table 3 One way ANOVA to analyze the performance levels of 
+swimmers and the injury occurrence  (N=437) 
+ Sum of 
+Squares df Mean 
+Square F p 
+Between 
+Groups 1.515 4 .379 1.666 .157 
+Within Groups  98.215 432 .227   
+Total 99.730 436    
+ 
+ 
+41 
+The main stroke of the subjects was identified. The 
+front crawl was the main stroke of 147 swimmers (33.6%) 
+while 112 sw immers (25.7%) chose breaststroke as their main 
+stroke. Backstroke and butterfly were the main strokes of 
+86 (19.7%) and 63 (14.4%) swimmers. The individual medley 
+had the fewest swimmers with 29 out of 437 (6.6%) swimmers. 
+Table 4 had shown the main strok es and the injury rates of 
+the swimmers.  
+One way ANOVA was used and the results were shown in 
+Table 5. The results indicated that there was no 
+significant difference  (p<0.05)  between the main stroke of 
+swimmers and the injury rate s. 
+42 
+ 
+Table 4 Main strokes a nd Injury rates (N=437) 
+Types of Stroke  Injury Occurrence  
+Total 
+Yes No 
+Front Crawl  44 
+(10.1%) 103 
+(23.6%) 147 
+(33.6%) 
+Breaststroke  43 
+(9.8%) 69 
+(15.8%) 112 
+(25.7%) 
+Backstroke  30 
+(6.9%) 56 
+(12.8%) 86 
+(19.7%) 
+Butterfly  24 
+(5.5%) 39 
+(8.9%) 63 
+(14.4%) 
+Individual Medley  13 
+(3.0%) 16 
+(3.7%) 29 
+(6.6%) 
+Total 154 
+(35.2%) 283 
+(64.8%) 437 
+ 
+ 
+ 
+Table 5 One way ANOVA to analyze the main stroke of swimmers 
+and the injury occurrence (N=437) 
+ Sum of 
+Squares df Mean 
+Square F p 
+Between Groups  .845 4 .211 .922 .451 
+Within Groups  98.885 432 .229   
+Total 99.730 436    
+ 
+ 
+43 
+Distribution of grade participation with percentage of 
+injuries  
+Table 6 showed the grade participation of swimmers who 
+had participated in the Inter -school Swimming Championship 
+(Hong Kong Island &  Kowloon) Division I 2010/2011 and the 
+injury rates of which there were 18  swimmers (7.3%), 40 
+swimmers (16.2%) and 46  swimmers (1 8.6%) from A grade, B 
+grade and C grade reported that they were injured in the 
+past one year. The One  way ANOVA test showed th ere was 
+significant difference (p<0.05) between the swimmers who 
+had participated in the Championship 2010/2011 and the 
+injury rate s. 
+ 
+ 
+ 
+ 
+ 
+44 
+ 
+Table 6 Grade participation in Inter-school Swimming 
+Championship (Hong Kong Island & Kowloon) Division I 
+2010/2011 and the injury rates  (N=247) 
+Grade Participation 
+in Championships 
+2010/2011  Injury Occurrence  
+Total 
+Yes No 
+A Grade 18 
+(7.3%) 32 
+(13.0%) 50 
+(20.2%) 
+B Grade 40 
+(16.2%) 70 
+(28.3%) 110 
+(44.5%) 
+C Grade 46 
+(18.6%) 41 
+(16.6%) 87 
+(35.2%) 
+Total 100 
+(42.1%) 143 
+(57.9%) 247 
+ 
+Table 7 One way ANOVA of grade participation in Inter-
+school Swimming Championship (Hong Kong Island & Kowloon) 
+Division I 2010/2011 and the injury rates  (N=247)  
+ Sum of 
+Squares df Mean 
+Square F p 
+Between 
+Groups 1.607 2 .804 3.350 *.041 
+Within 
+Groups 58.780 245 .240   
+Total 60.387 247    
+*p<.05, two -tailed. 
+  
+45 
+In the study, there were a total of 344 swimmers have 
+been participated in the Inter -school Swimming Championship 
+(Hong Kong Island & Kowloon) Division I 2011/2012, Out of 
+the 344 swimmers, there were 132 swimmers got injured in 
+the past one year with 29 swimmers (8. 5%) were from A grade, 
+60 swimmers (17. 5%) were from B grade and 43 swimmers 
+(12.5%) were from C grade. Table 5.1 showed the grade 
+participation and the injury rate s while Table 8 showed 
+that there was no significant difference (p> 0.05) between 
+the grade participation in the championships 2011/2012 and 
+the injury rate s. 
+ 
+46 
+ 
+Table 8 Grade participation in Inter-school Swimming 
+Championship (Hong Kong Island & Kowloon) Div ision I 
+2011/2012 and the injury rates  (N=343) 
+Grade Participation 
+in Championships 
+2011/2012  Injury Occurrence  
+Total 
+Yes No 
+A Grade 29 
+(8.5%) 55 
+(16.0 %) 84 
+(24.5%) 
+B Grade 60 
+(17.5%) 84 
+(24.5%) 144 
+(42.0%) 
+C Grade 43 
+(12.5%) 72 
+(21.0%) 115 
+(33.5%) 
+Total 132 
+(38.5%) 211 
+(61.5%) 343 
+ 
+ 
+Table 9 One way ANOVA of grade participation in Inter-
+school Swimming Championship (Hong Kong Island & Kowloon) 
+Division I 2011/2012 and the injury rates  (N=343)  
+ Sum of 
+Squares df Mean 
+Square F p 
+Between 
+Groups .291 2 .146 .612 .543 
+Within 
+Groups 80.910 340 .238   
+Total 81.201 342    
+ 
+ 
+ 
+ 
+47 
+Years of participation with percentage of injuries  
+For those who had participated in the championships 
+2010/2011 and 2011/2012, the injured rates of swimmers were 
+summarized in Table 10. There were 232 out of 437 swimmers 
+had participated in the Championships consecutive for two 
+years (2010/2011 and 2011/2012). Among the 232 swimmers, 
+there were 100 swimmers (39 male swimmers, 16.8% and 61 
+female swimmers, 26.2%) got injured on d ifferent bodies in 
+the past one year. The independent t -test has shown that 
+there is no significant difference (p>0.05) between the 
+injury rate s and the 2 -year of participation in the Inter -
+school Swimming Championship (Hong Kong Island & Kowloon) 
+Division I. 
+48 
+ 
+ 
+Table 10 Independent t -test of injury rates of swimmers who 
+had participated in the Inter-school Swimming Championship 
+(Hong Kong Island & Kowloon) Division I 2010/2011 and 
+2011/2012 (N=232)  
+Injury 
+Occurrence  Gender 
+Total t (df=230)  p 
+Male Female  
+Yes 39 
+(16.8%) 50 
+(21.6%) 89 
+(38.4%) 0.173 0.863 No 61 
+(26.3%) 82 
+(35.3%) 143 
+(61.6%) 
+Total 100 
+(43.1%) 132 
+(56.9%) 232   
+ 
+ 
+ 
+ 
+49 
+Hours of swimming and land training of the swimmers and the 
+incidence rate s of injuries  
+The average hours of training i n swimming and land 
+training were illustrated in Table 11. The mean hours of 
+swimming training per week for males and females were 7.65 
+(SD±5.05) and 6.20 (SD±4.69) hours respectively and the 
+mean hours of land training per week for males and females 
+were 1.35 (SD±1.70) and 1.08 (SD±1.22) hours respectively. 
+The mean hours of the swimming and land training were 6.77 
+(SD±4.88) and 1.18 (SD±1.43) hours. Both of the groups 
+showed significant mean differences, (t=3.058, p= .002) in 
+the number of hours of swimmi ng training between males and 
+females; and (t=1.962, p=.050) in the number of hours of 
+land training between males and females. Males spent more 
+time in both swimming training and land training than 
+females.  
+Table 12 summarized the results of independent t -test 
+of the hours of swimming or land training and the injury 
+occurrence of swimmers and showed there were  no significant 
+mean differences , (t=2.147,  p=0.33) in the number of hours 
+of swimming training between the injured and non -injured 
+50 
+swimmers, and (t=1 .988, p=0.48) in the number of hours of 
+land training between the injured and non -injured swimmers.  
+51 
+ 
+Table 11 Independent t -test of hours of swimming or land 
+training among Males and Females Swimmers (N=437)  
+ 
+Mean Standard 
+Deviation  Total N Mean 
+Differen ce t (df=435)  p 
+Hours of 
+swimming 
+Training  Male 7.65 5.05 171 1.45 3.058 *0.002 
+Female 6.20 4.69 266 
+Total 6.77 4.88 437    
+Hours of 
+land 
+training  Male 1.35 1.70 171 0.27 1.96 *0.050 
+Female 1.08 1.22 266 
+Total 1.18 1.43 437    
+*p<.05, two -tailed. 
+ 
+ 
+Table 12 Independent t -test of hours of swimming or land 
+training and the injury occurrence of swimmers (N=232)  
+ Injury 
+Occurrence  Mean Standard 
+Deviation  Total N Mean 
+difference  t (df=230)  p 
+Hours of 
+swimming 
+Training  Yes 8.6317 4.78409 100 
+1.39 2.147 0.33 
+No 7.2389 4.97303 132 
+Hours of 
+land 
+training  Yes 1.4883 1.23876 100 
+0.37 1.988 0.48 
+No 1.1184 1.51615 132 
+ 
+ 
+52 
+ The total numbers of training hours of each 
+performance group were shown in Table 13 . The mean training 
+hours including th e swimming part and land training part 
+were 9.00 (SD±5.84) and 7.28 (SD±5.36) hours for male and 
+female swimmers. The total training hours of the 
+respondents were 3476.57 hours per week, approximately 
+180782 training hours per year. In the past one year, t he 
+total number of injured swimmers was 154 out of 437 
+swimmers and the total number of injury cases was 427 among 
+the 154 swimmers.  
+The incident rates of injuries (per 1000 training  
+hours) of the five performance groups ranked were, in 
+descending order, t he junior training squad (6.04), 
+regional training squad (1.91), Hong Kong team (1.75), 
+school swimming team (1.42) and swimming club swimmers 
+(0.50).  
+ 
+53 
+ 
+Table 13  The total training hours, total number of injury 
+cases and the incidence rate s of injuries (p er 1000 training 
+hours) for each performance level group of swimmers  (N=437) 
+Performance 
+level Total 
+Training 
+Hours(per 
+week) Total 
+number of 
+swimmers 
+injured Total 
+number of 
+injury 
+cases Incidence 
+rates of 
+injuries (per 
+1000 training  
+hours) 
+Hong Kong 
+Team 
+(N=18) 349.08 8 
+(5.2%) 11.00 1.75 
+Regional 
+Training 
+Squad 
+(N=24) 305.75 10 
+(6.5%) 14.00 1.91 
+Junior 
+Training 
+Squad 
+(N=10) 115.92 3 
+(1.9%) 7.00 6.04 
+Swimming Club 
+swimmers  
+(N=298) 2301.49 112 
+(72.7%) 345.00 0.50 
+School Team 
+only swimmers  
+(N=87) 404.33 21 
+(13.6%) 50.00 1.42 
+Total 
+(N=437) 3476.57 154 
+(100%) 427.00 0.28 
+ 
+ 
+54 
+Warm up patterns of the swimmers  
+The warm up time patterns of swimmers were illustrated 
+in Table 1 4. In both swimming and land training, swimmers 
+used less than five minutes for their  warm up sections (198 
+swimmers in swimming training and 204 swimmers in land 
+training. In swimming training, there were 182 and 57 
+swimmers used five to 10 minutes and more than ten minutes 
+to warm up before starting swimming training whilst there 
+were 185 and 48 swimmers spent five to 10 minutes and more 
+than ten minutes for the warm up session in the land 
+training.  
+The One way ANOVA has shown that there was no 
+significant difference between the warm up time in both 
+swimming training (p=0.0 63) and land training (p=0. 267) and 
+the injury rate s.
+55 
+ 
+Table 14   Warm up time patterns of the swimmers in swimming or land 
+training  (N=437) 
+ Swimming training  land training  
+Performance 
+level Less 
+than 5 
+minutes 5-10 
+minutes More 
+than 10 
+minutes Less 
+than 5 
+minutes 5-10 
+minutes More 
+than 10 
+minutes 
+Hong Kong 
+Team 10 
+(5.10%) 6 
+(3.30%) 2 
+(3.50%) 5 
+(2.50%) 12 
+(6.50%) 1 
+(2.10%) 
+Regional 
+Training 
+Squad 7 
+(3.50%) 14 
+(7.70%) 3 
+(5.30%) 6 
+(2.90%) 15 
+(8.10%) 3 
+(6.20%) 
+Junior 
+Training 
+Squad 3 
+(1.50%) 5 
+(2.70%) 2 
+(3.50%) 3 
+(1.50%) 7 
+(3.80%) 0 
+(0.00%) 
+Swimming 
+Club 
+swimmers  135 
+(68.20%)  118 
+(64.80%)  45 
+(78.90%)  142 
+(69.60%)  119 
+(64.30%)  37 
+(77.10%)  
+School Team 
+only 
+swimmers  43 
+(21.70%)  39 
+(21.40%)  5 
+(8.80%) 48 
+(23.50%)  32 
+(17.30%)  7 
+(14.60%)  
+Total 198 182 57 204 185 48 
+ 
+ 
+ 
+ 
+56 
+Table 15 showed the type of warm up exercises that the 
+swimmers did before starting their training. It was more 
+likely for the swimmers to have stretching (382 swimmers, 
+87.41% before swimming training and 312 swimmers, 71.4% 
+before land training) for swimmer s from every performance 
+level. Other than stretching, before swimming training 
+began, 123 swimmers (28.15%) had specific warm up and 76 
+swimmers (17.39%) jogged. There were 181 swimmers (41.42%) 
+jogged and 124 swimmers (28.38%) had specific warm up 
+before the land training.  
+57 
+ 
+Table 15  Warm up patterns in swimming and landing training of 
+swimmers  (N=437)  
+Performance 
+level  Swimming training  Land training  
+Jogging  Stretching  Specific 
+warm up  Others  Jogging  Stretching  Specific 
+warm up  Others  
+Hong Kong 
+Team  4 18 2 1 11 15 4 1 
+0.92%  4.12%  0.46%  0.23%  2.52%  3.43%  0.92%  0.23%  
+Regional 
+Training Squad   6 22 7 2 11 22 8 1 
+1.37%  5.03%  1.6%  0.46%  2.52%  5.03%  1.83%  0.23%  
+Junior Training 
+Squad  3 9 3 0 6 8 4 0 
+0.69%  2.06%  0.69%  0.00%  1.37%  1.83%  0.92%  0.00%  
+Swimming Club 
+Swimmers  49 263 92 23 131 222 88 30 
+11.21%  60.18%  21.05%  5.26%  29.98%  50.8%  20.14%  6.86%  
+School Team 
+only swimmers  14 70 19 10 22 45 20 29 
+3.2%  16.02%  4.35%  2.29%  5.03%  10.3%  4.58%  6.64%  
+Total  76 382 123 36 181 312 124 61 
+17.39%  87.41%  28.15%  8.24%  41.42%  71.4%  28.38%  13.96%  
+58 
+Cool down patterns of swimmers  
+After training, there were 288 (65.9%) and 282 (64.5%) 
+swimmers had cool down exercises after swimming and land 
+training whilst there were 149 (34.1%) and 155 (35.5%) 
+swimmers did not  have cool down after training.  
+Table 16 illustrated the cool down patterns of swimmers 
+of different performance groups. The swimmers from swimming 
+clubs had the greatest percentage (69.4% for swimming and 
+71.3% for land training) to cool down after train ing. 
+Followed by that, the school team only swimmers had less 
+percentage in having cool down after both trainings. The 
+regional training squad, the Hong Kong team and the junior 
+training squad has a higher percentage of swimmers (7.6% 
+and 7.1%, 5.9% and 6. 0%, 2.4% and 2.8%) to perform cool 
+down after training when compared with its own performance 
+group. 
+The independent t -test showed that there were 
+significant mean differences between the cool down sessions 
+in both swimming and land training ( p=0.045 and p=0.015 
+respectively) and the injury rate s. 
+59 
+ 
+ 
+Table 16 Cool down patterns of swimmers after swimming and land 
+training (N=437)  
+ Cool down after 
+swimming training  Cool down after land 
+training  
+Yes No Yes No 
+Hong Kong Team 
+(N=18) 17 1 17 1 
+(5.9%) (0.7%) (6.0%) (0.6%) 
+Regional Training 
+Squad (N=24)  22 2 20 4 
+(7.6%) (1.3%) (7.1%) (2.6%) 
+Junior Training 
+Squad (N=10)  7 3 8 2 
+(2.4%) (2.0%) (2.8%) (1.3%) 
+Swimming Club 
+swimmers (N=298)  200 98 201 97 
+(69.4%) (65.8%) (71.3%) (62.6%) 
+School Team only 
+swimmers (N=87)  42 45 36 51 
+(14.6%) (30.2%) (12.8%) (32.9%) 
+Total (N=437)  288 149 282 155 
+(65.9%) (34.1%) (64.5%) (35.5%) 
+Injury 
+Occurrence  Yes 111 43 111 43 
+No 177 106 171 112 
+ 
+ 
+ 
+ 
+ 
+ 
+60 
+Details of injuries among injured body sites and injury 
+types 
+Table 17 illustrated the number of cases of each injured 
+body sites and the corresponding injury types with 
+different performance level groups. From the table, it is 
+showed that in the upper extremities and the dorsal of the 
+body, shoulder (59), lumbar spine/lo w back (39), cervical 
+spine/neck (27) and wrist/hand (27) were the top four 
+injured sites while in the lower extremities of the body, 
+thigh/lower leg (94), ankle/foot (82) and knee (37) were 
+the top three most common injured body sites.  
+For the detailed in jury types over the injured body 
+sites, for the upper extremities and dorsal of the body, 
+sprain/strain at lumbar spine/low back (27), strain at 
+shoulder (26) and sprain/strain at cervical spine/neck (20) 
+were the top three injuries whereas cramps at the 
+thigh/lower legs (53), sprain at ankle (46) and strain at 
+the thigh/lower legs (40) were the top three injuries 
+occurred in the lower extremities.  
+Thigh/lower leg strain and knee contusion  (both had 
+1.725 cases per 1000 training hours ) had the highest 
+incident rate in the junior training squad. Among the 
+61 
+swimming club swimmers, cramps at thigh/lower leg was the 
+most frequent injury followed by strain at thigh/ lower leg 
+(0.048) and sprain at ankle (0.047). Shoulder strain and 
+sprain/strain at lumbar spine/lo w back had the same 
+incident rate of 0.034 (23 cases for both) and ranked 
+fourth. 
+ 
+  
+62 
+ 
+Table 17 Injury patterns and the incident rates of swimmers 
+of different performance levels  (N=437) 
+Body sites  Injury types  Hong Kong 
+Team  Regional 
+Training 
+Squad  Junior 
+Training 
+Squad  Swimming 
+Clubs  School 
+swimming 
+Team only  Total  
+Head/  
+Face  Concussion  0 0.000  0 0.000  0 0.000  2 0.003  0 0.000  2 
+Sprain  0 0.000  0 0.000  0 0.000  1 0.001  1 0.028  2 
+Contusion  0 0.000  0 0.000  0 0.000  1 0.001  0 0.000  1 
+Skin Lesion  0 0.000 0 0.000  0 0.000  2 0.003  1 0.028  3 
+Others  0 0.000  0 0.000  0 0.000  1 0.001  0 0.000  1 
+Cervical 
+spine/ 
+Neck  Sprain/  
+Strain  0 0.000  0 0.000  0 0.000  17 0.025  3 0.085  20 
+Muscle 
+Cramps  0 0.000  0 0.000  0 0.000  6 0.009  1 0.028  7 
+Others  0 0.000  0 0.000  0 0.000 0 0.000  0 0.000  0 
+Lumbar 
+spine/ 
+Low back  Sprain/  
+Strain  1 0.159  1 0.136  0 0.000  23 0.034  2 0.057  27 
+Muscle 
+Cramps  0 0.000  1 0.136  0 0.000  6 0.009  3 0.085  10 
+Enthesopathy/  
+fasciitis  0 0.000  0 0.000  0 0.000  1 0.001  0 0.000  1 
+Other  0 0.000  0 0.000  0 0.000  1 0.001  0 0.000  1 
+Other 
+Trunk  Thoracic Spine  0 0.000  0 0.000  0 0.000  2 0.003  0 0.000  2 
+Sternum/ribs/ 
+chest muscles  0 0.000  0 0.000  0 0.000  5 0.007  0 0.000  5 
+Abdomen  0 0.000  0 0.000  0 0.000  1 0.001  0 0.000  1 
+Other  0 0.000  0 0.000  0 0.000  0 0.000 0 0.000  0 
+Shoulder  Dislocation  0 0.000  0 0.000  0 0.000  3 0.004  1 0.028  4 
+Sprain  0 0.000  0 0.000  0 0.000  5 0.007  1 0.028  6 
+Strain  0 0.000  1 0.136  0 0.000  23 0.034  2 0.057  26 
+Contusion  0 0.000  0 0.000  0 0.000  4 0.006  0 0.000  4 
+Tendinitis  1 0.159  0 0.000  0 0.000  6 0.009  0 0.000  7 
+Inflammation/ 
+bursitis  0 0.000  0 0.000  0 0.000  5 0.007  0 0.000  5 
+Impingement  0 0.000  0 0.000  0 0.000  7 0.010  0 0.000  7 
+Other  0 0.000  0 0.000  0 0.000  0 0.000  0 0.000  0 
+Arm/ 
+Elbow  Sprain  0 0.000  0 0.000  0 0.000  3 0.004 1 0.028  4 
+Strain  1 0.159  2 0.273  1 0.863  17 0.025  1 0.028  22 
+Contusion  0 0.000  0 0.000  0 0.000  1 0.001  1 0.028  2 
+Tendinitis  0 0.000  0 0.000  0 0.000  0 0.000  0 0.000  0 
+Other  0 0.000  0 0.000  0 0.000  1 0.001  0 0.000  1 
+63 
+Table 17 Injury patterns and the incident rates of swimmers 
+of different performance levels  (N=437) 
+Body sites  Injury types  Hong Kong 
+Team  Regional 
+Training 
+Squad  Junior 
+Training 
+Squad  Swimming 
+Clubs  School 
+swimming 
+Team only  Total  
+Wrist/ 
+Hand  Fracture  0 0.000  1 0.136  0 0.000  1 0.001  1 0.028  3 
+Tendon 
+Rupture  0 0.000  0 0.000  0 0.000  1 0.001  0 0.000  1 
+Sprain  1 0.159  0 0.000  0 0.000  6 0.009  1 0.028  8 
+Contusion  0 0.000  0 0.000  0 0.000  3 0.004  2 0.057  5 
+Skin Lesion  0 0.000  0 0.000  0 0.000  6 0.009  1 0.028  7 
+Other 1 0.159  0 0.000  0 0.000  1 0.001  1 0.028  3 
+Hip/ Groin  Strain  0 0.000  1 0.136  0 0.000  2 0.003  0 0.000  3 
+Tendinitis  0 0.000  0 0.000  0 0.000  0 0.000  0 0.000  0 
+Impingement  0 0.000  0 0.000  0 0.000  2 0.003  0 0.000  2 
+Other  0 0.000  0 0.000  0 0.000  0 0.000 0 0.000  0 
+Thigh/ 
+Lower leg  Strain  1 0.159  1 0.136  2 1.725  33 0.048  3 0.085  40 
+Contusion  0 0.000  0 0.000  0 0.000  0 0.000  1 0.028  1 
+Skin Lesion  0 0.000  0 0.000  0 0.000  4 0.006  0 0.000  4 
+Cramps  0 0.000  3 0.409  1 0.863  47 0.069  2 0.057  53 
+Other  0 0.000 0 0.000  0 0.000  1 0.001  0 0.000  1 
+Knee  Subluxation  0 0.000  0 0.000  0 0.000  2 0.003  1 0.028  3 
+Sprain  1 0.159  0 0.000  0 0.000  7 0.010  0 0.000  8 
+Contusion  1 0.159  0 0.000  2 1.725  2 0.003  2 0.057  7 
+Tendinosis  0 0.000  0 0.000  0 0.000  7 0.010  0 0.000  7 
+Skin Lesion  0 0.000  0 0.000  0 0.000  6 0.009  4 0.114  10 
+Other  0 0.000  0 0.000  0 0.000  1 0.001  1 0.028  2 
+Ankle/ 
+Foot Fracture  0 0.000  0 0.000  0 0.000  3 0.004  0 0.000  3 
+Sprain(ankle)  3 0.477  2 0.273  1 0.863  32 0.047  8 0.227  46 
+Sprain/Strain 
+(Foot)  0 0.000  0 0.000  0 0.000  14 0.020  1 0.028  15 
+Contusion  0 0.000  1 0.136  0 0.000  6 0.009  1 0.028  8 
+Skin Lesion  0 0.000  0 0.000  0 0.000  7 0.010  1 0.028  8 
+Other  0 0.000  0 0.000  0 0.000  2 0.003  0 0.000  2 
+OTHER    0 0.000  0 0.000  0 0.000  3 0.004  1 0.028  4 
+64 
+Background information of swimmers with shoulder injury  
+Table 18 has shown the background information of 
+swimmers who got the shoulder injuries. Items included the 
+subjects’ dominate side an d injured side, the days for  
+recovery, the occasion when injury happened, the motion of 
+swimmers acquired during injury, the number of cases of 
+recurrent injury, the number of cases of acute shoulder 
+injury and the number of cases of participating in 
+competitions after recovery.  
+The most injured side was ambidextrous w ith 16 cases 
+(37.2%) followed by the right side (14 cases, 32.6%) and 
+left side (13 cases, 30.2%). The longest mean day of 
+recovery among the performance groups was 99 days which 
+equivalent to almost 3 months. Most shoulder injuries 
+happened during swimmin g training (20 cases, 46.5%). At the 
+moment of injury occurred, it was reported that the 
+subjects were under vigorous exercise (34 cases, 79.1%).  
+The recurrent rate was 41.9%, (18 cases) and there was 
+only 1 acute shoulder injury case that needed to send to 
+the hospital directly. The rate of participating in 
+65 
+competitions after recovery was high with 40 out of 43 
+cases (93.0%) with 3 swimmers had withdrawn.  
+There were 43 cases of shoulder injuries. Among the 
+five performance groups, there was no record of s houlder 
+injuries in the junior training squad  level. 
+66 
+ 
+Table 18 Background information of swimmers with shoulder 
+injury of different performance level (N=43)  
+Items  Hong 
+Kong 
+Team  
+(N=1)  Regional 
+Training 
+Squad  
+(N=1)  Junior 
+Training 
+Squad  
+(N=0)  Swimming 
+Club 
+swimmers  
+(N=38)  School 
+Swimming 
+Team only  
+(N=3)  
+Dominate side  Right (27)  1 1 0 24 1 
+Left (5)  0 0 0 3 2 
+Ambidextrous 
+(11) 0 0 0 11 0 
+Injured side  Right (14)  0 1 0 11 2 
+Left (13)  1 0 0 11 1 
+Ambidextrous 
+(16) 0 0 0 16 0 
+Days for  
+recovery  Mean  18 20 0 99 50 
+Occasion 
+when injury 
+happened  
+ 
+ During swimming 
+training (20)  1 1 0 16 2 
+After swimming 
+training (9)  0 0 0 8 1 
+During land/ land 
+training (6)  0 0 0 6 0 
+After land/ fitness 
+training (5)  0 0 0 5 0 
+During swimming 
+competition (3)  0 0 0 3 0 
+Motion 
+acquire during 
+injury  
+ 
+ Static state (1)  0 0 0 1 0 
+Daily life work 
+(6) 1 0 0 5 0 
+Vigorous exercise 
+(34) 0 0 0 31 3 
+Others (2)  0 1 0 1 0 
+Recurrent 
+Injury  Yes (18)  1 1 0 16 0 
+No (25)  0 0 0 22 3 
+Acute 
+shoulder 
+injury  Yes (1)  0 0 0 1 0 
+No (42) 1 1 0 37 3 
+Participate in 
+competition 
+after recovery  Yes (40)  1 1 0 35 3 
+No (3)  0 0 0 3 0 
+ 
+67 
+Types of shoulder injury  
+The types of shoulder injuries included in the study 
+were listed as follow (Table 1 9): overuse, strain, 
+dislocation, subluxation, sprain, inflammation and 
+arthritis. Sprain at shoulders was the most frequent type 
+among the five swimming styles (front crawl, butterfly, 
+breaststroke, backstroke and individual medley)  with front 
+crawl swimmers acquired the most. Overuse was the second 
+one in front crawl and backstroke swimmers.  
+ 
+Table 19  Types of shoulder injury and the type of main 
+strokes (N=43)  
+Type of Injuries  Front 
+Crawl  Butterfly  Breaststroke  Backstroke  Individual 
+Medley  
+Overuse  5 3 2 5 3 
+Strain  9 4 4 4 2 
+Dislocation  0 2 1 0 0 
+Subluxation  0 1 0 0 0 
+Sprain  1 2 0 1 1 
+Inflammation  2 1 2 2 1 
+Arthritis  3 1 0 0 1 
+68 
+Recurrent rate and acute injury rate of shoulder of 
+different strokes  
+The recurrent rate of shoulder injuries at the same 
+position was 41.86% (18 cases). The rate of br eaststroke 
+swimmers was high with 5 out of 18 cases (27.8%). Swimmers 
+of butterfly, individual medley, backstroke and front crawl  
+were ranked in a descending order.  
+Table 20  illustrated the r ecurrent rate and acute 
+injury rate of shoulder of different stro kes. The acute 
+injury rate was low with only 1 butterfly swimmers had been 
+sent to the hospital directly due to the shoulder injury.  
+ 
+Table 20  Recurrent rate and acute injury rate of shoulder 
+of different strokes(N=43)  
+    Front 
+Crawl  Butterfly  Breaststro ke Backstroke  Individual 
+Medley  Percentage 
+(%) 
+Recurrent 
+Injury  Yes 2 4 5 3 4 41.86  
+No 11 5 2 5 2 58.14  
+Total  13 9 7 8 6 100 
+    
+      Acute 
+shoulder 
+injury  Yes 0 1 0 0 0 2.33 
+No 13 8 7 8 6 97.67  
+Total  13 9 7 8 6 100 
+69 
+Treatments after first ti me and recurrent injury  
+Table 21  showed the types of treatment that subjects 
+had looked for after injury. When it was the first time to 
+have the injury, swimmers took rest (58.1%) or seek for 
+physiotherapists (27.9%) or the acupuncture treatment 
+(23.3%).  Among the 18 recurrent cases, swimmers also chose 
+to take rest (11 cases), seek for physiotherapists (10 
+cases) or Chinese bone setters (5 cases)  
+ 
+Table 21  Treatments after first time and recurrent 
+injury (N=43) 
+Types of treatment  First time 
+treatment 
+(N=43) Recurrent 
+treatment (N=18)  
+Rest 25 58.1 11 61.1 
+Emergency Treatment 
+(Hospital)  5 11.6 1 5.6 
+Orthopaedics Doctor  6 14 4 22.2 
+Family Doctor  4 9.3 3 16.7 
+Physiotherapist  12 27.9 10 55.6 
+Operations  2 4.7 0 0 
+Chinese Bone setter  9 20.9 5 27.8 
+Acupuncture 10 23.3 4 22.2 
+Others 3 7 2 11.1 
+N/A / / 23 / 
+ 
+70 
+The frequencies of the number of days staying in hospital, 
+number of days off from training and sports completely  
+The frequencies of the number of days staying in 
+hospital, number of days off from tra ining and sports 
+completely  were illustrated in Table 18. Five swimmers had 
+been stayed in the hospital for 1 to 2 weeks. The days off 
+from training and sports depended on the seriousness of the 
+injuries.  
+ 
+Table 22  The frequencies of the number of days st aying in 
+hospital, number of days off from training and sports 
+completely  (N=43)  
+Items 0 
+Days 1 
+Week 2 
+Weeks 3 
+Weeks 1 
+Month 2 
+Months 3-4 
+Months 
+Hospital  38 4 1 / / / / 
+Training  7 18 9 8 3 2 2 
+Sports 18 13 5 2 2 / 3 
+ 
+71 
+Self rating on muscle strength, range of motion and 
+swimming skills after treatment   
+The subjects were asked to compare and rate the 
+performance of the muscle strength, range of motion and the 
+swimming skills before and after injuries. Th e results were 
+listed in Table 23  and Figure 1. Mo st subjects rated the 
+three items as 3 (Neutral).  
+ 
+Table 23  Self rating (1-5)on muscle strength, range of motion 
+and swimming skills after treatment  (N=43) 
+Items  Muscle Strength  Range of Motion  Swimming skills  
+1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 
+Frequencies  2 6 22 10 3 5 5 20 8 5 3 4 22 11 3 
+Percentage 
+(%) 4.7 14 51.2 23.3 7.0 11.6 11.6 46.5 18.6 11.6 7.0 9.3 51.2 25.6 7.0 
+Mean  3.14 3.07 3.16 
+Median  3 3 3 
+Mode  3 3 3 
+Std. 
+Deviation  0.91 1.1 0.95 
+1-the performance is relatively better before injury ;  
+5-the performance is relatively better after treatment  
+72 
+ 
+ 
+Figure 1 Histogram of the Self rating on muscle strength, 
+range of motion and swimming skills after treatment  
+ 
+ 
+ 
+73 
+Discussion  
+A total of 437 youth swimmers responded in this study.  
+The result was used t o give a better understanding of the 
+common injury patterns, the effect of demographic 
+backgrounds including the training time, performance level 
+and the type of stroke that may lead to high risk of injury. 
+Similar studies have been conducted but the targe t groups 
+and the design of content were different. Thus, some of the 
+viewpoints between studies are worth discussing.  
+Injury pattern of swimmers  
+The choices of different injured sites in the study 
+were basically referred to a similar study in the 2009 FINA  
+World Championships (Aquatics). The respondents of that 
+study were participants of the Championships and they were 
+asked if they had suffered in any injuries during 
+competitions and the results showed that, in the swimming 
+section, shoulder and wrist/hand  injuries (9 cases for both) 
+were the most injured parts followed by head/face, lumbar 
+spine/low back and hip/groin (each was 5 cases)  (Mountjoy, 
+et al., 2010) . The researchers concluded at the end that 
+most of the injuries were not acute but caused by ove ruse. 
+74 
+Differ from the FINA study, this study recorded 
+swimmers injury pattern s over the past one year which means 
+that the injuries may not happened during swimming 
+competitions but during or after trainings. One of the aims 
+of the current study was to inve stigate the injury patterns 
+among the youth swimmers over the past one year so as to 
+serve as a reference for further study in comparing the 
+probability of injury incidence s during different occasions 
+for example, during and after training,  injury pattern s 
+between swimmers  and other sports participants like field 
+athletes and volleyball players.  
+From the result of our study, it is obvious that in 
+the upper extremities and body trunk, sprain/strain at 
+lumbar spine/low back (27 cases) and strain at shoulder (26 
+cases) were re markable injured sites. In 2008, XVIth FINA 
+(Federation Internationale De Natation) World Sports 
+Medicine Congress was held in Manchester, Great Britain. In 
+the Congress, the topic about injuries in aquatic athletes 
+was being discussed. Presentation topics  included 1) 
+Tendinopathies in Sports, 2) Management of shoulder 
+problems in swimming and 3) Assessment and management of 
+lumbar spine problems  (FINA, 2008) . The presented topics  
+75 
+were chosen because of their eye -catching statistics on 
+swimmers which  were consistent with the findings from our 
+study.  
+ 
+Shoulder injuries of swim mers 
+The shoulder injury rate of front crawl swimmers were 
+very high with 20 cases of different types of injury. 
+Several studies have been conducted on the biomechanical 
+analysis of front crawl. In the front crawl, the arm stroke 
+provided a backward pull a nd push in order to swim forward. 
+This motion involved lot s of muscle groups, for examples, 
+trapezius,pectoralis major, latissimus dorsi, deltoid and 
+rotator cuff. There were several factors that affect the 
+injury incidence of the shoulder joint. These muscle groups 
+were attached around the shoulder joint  (glenohumeral  
+joint). Overtraining or overreaching could bring ha rm to 
+these muscle groups.  
+According  to the results, t he mean training hours of 
+swimming training among the swimmers wa s 6.77(SD±4.88) 
+hours per week  and there w ere significant mean difference 
+between the hours of training  in both swimming sessions and 
+76 
+land training sessions  among the male and female swimmers . 
+From the findings , the incidence rate of injuries is 0.28 
+per 1000 training hours which was  closed to the result of 
+0.39/1000h in the study of Knobloch, Yoon, Kraemer & Vogt 
+(2008). The demand and intensity of the training and the 
+physiological status for example, muscle fibre type, 
+strength and power of the muscles of th e swimmers would 
+greatly affect the chance of occurrence of the injury 
+incidence  (Sortwell, 2012) . 
+Pink and Tibone reported that among the 233 
+competitive swimmers, 44% of swimmers had anterior -superior 
+region, 26% had diffuse pain, 14% had anterior -inferior 
+region, 10% had posterior -superior region  and 4% in 
+posterior -inferior region (Pink & Tibone, 2000) . Compared 
+with the current result, it could not reflect the positions 
+of the shoulder injuries but the types only. Further 
+investigation could be made on  this issue.  
+From the results of the current findings, there was no  
+significant difference between injury incident rates and  
+the main swimming style they had . These were consistent 
+with Wolf et al.  findings (2009). 
+77 
+ 
+Treating injuries, Prevention and Promote Health  
+In the third part of the study, most respondents 
+mentioned that they took rest or seek help from 
+physiotherapists. In the 2008 Manchester Congress, Dr. 
+Gillett mentioned in the presentation ab out the diagnostic 
+methods in treating the lumbar spine pain while Dr.Rodeo 
+focused on the swimmer’s shoulder  (FINA, 2008) . The focus 
+of the injured body sites on the Congress had also matched 
+and reflected in the injury rates of the current study  
+(shoulder region) . 
+Moreover, Shona Halson  from the Australian Institute 
+of Sport did a review on the overreaching and the 
+overtraining syndrome in swimmers in varies aspects: 
+performance, lactate, endocrine system, immune system and 
+mood state (Halson, 2011) . It is found that the m entioned 
+areas could be the potential indicatiors of the 
+overtraining syndrome whereas the ‘useful indicators 
+include the performance on standard exercise test and self -
+analysis of well being. Halson also suggested some ways for 
+swimmers to recover from in tense training like hydrotherapy, 
+78 
+hot/cold water immersion and sleep (in quantity and 
+quality).  
+It is important to teach swimmers and coaches to 
+understand the symptoms and differences in shoulder pain 
+and soreness so as to minimize the continuous demage t o 
+swimmer’s shoulders and help the athletes to recover and 
+engage to the training again.  Coaches should also set up 
+swimming conditioning program that involved muscular 
+endurance, resistance training , flexibility of muscular 
+muscles and joints,  and strengthening exercises on sh oulder 
+muscle groups , for example, rotator cuffs , external and 
+internal rotators,  adductors and abductors . Although ,from 
+the study, it was shown that there was no significant mean 
+difference between the warm up patterns and the injury 
+rates, warm up exercise is essential to every athletes so 
+as to prepare the body to  get into the status of ready to 
+participate in order to prevent from getting injuries . Cool 
+down stretching is also important in bring down the heart 
+rate muscle state back to normal and minimize the effects 
+of fatig ue. 
+79 
+Chapter 5  
+Summary and Conclusions  
+This chapter consists of three main parts. They are (1) 
+Summary of Results (2) Conclusion and (3) Recommendations 
+for Future Study.  
+Summary of Results  
+The results of the study were summarized as follows:  
+1. Out of the 437 respondents, there were 154 of them 
+(35.2%) got injured in the past one year. The injury 
+rates of each performance group were 1.8% for the Hong 
+Kong Team, 2.3% for the R egional training squad, 0.7% 
+for the junior training squad , 25.6% for the swimming 
+clubs swimmers and 4.8% for those trained in school 
+swimming team only.  The One way ANOVA has shown that 
+there was no significant difference between the 
+performance level of  the swimmers and the injury rates.  
+2. The distribution of the main swimming stroke of swimmers 
+was identified. For choosing front crawl as the main 
+stroke, there were 147 swimmers; for breaststroke, there 
+were 112 swimmers; for backstroke, there were 86 
+80 
+swimmers; for butterfly, there were 63 swimmers. 29 
+swimmers who were good at the four swimming strokes 
+chose individual medley as their main swimming style. 
+One way ANOVA showed that there was no significant 
+difference (p=0.451) between the main strokes of 
+swimmers and their injury rates.  
+3. There were 2 47 swimmers had participated in the 
+2010/2011 Championships . The One way ANOVA showed there 
+was significant mean difference (p=0.041) between these 
+232 swimmers (categorized into A, B, C grades) and the 
+injury rates. I n the 2011/2012 Championships, 344 
+swimmers had participated  and the One way ANOVA showed 
+that there was no significant difference (p=0.543) 
+between these 344 swimmers and the injury rate s. Within 
+the 437 swimmers, there were 232 swimmers who had 
+participat ed in both 2010/2011 and 2011/2012 
+Championships. The One way ANOVA has shown that there 
+was no significant difference (p=0.863) between these 
+swimmers and the injury rates.  
+4. The mean training hours per week in swimming and fitness 
+sessions were 6.77 (SD ±4.88) and 1.18 (SD ±1.43) 
+81 
+respectively. The independent t -test showed that there 
+was significant difference (p=o.33) between the training 
+hours (both swimming and fitness training) of and the 
+injury occurrence.  
+5. The total training hours of the 437 respondents 
+(including swimming and fitness training sessions) was 
+3476.57 hours per week. The total number of injury 
+incidents was 427 cases. The incidence rate of injuries 
+was 0.28 injuries per 1000 training hours.  
+6. The warm up time of training (both swimming and fit ness 
+training) were divided into 3 categories: less than 5 
+minutes, 5 to 10 minutes and more than 10 minutes. There 
+were 198 and 204 swimmers had less than 5 minutes for 
+their warm up in swimming and fitness trainings 
+respectively;182 (swimming training) a nd 185 (land 
+training) swimmers used 5 to 10 minutes and 57 and 48 
+swimmers used more than 10 minutes for their warm up in 
+the swimming and land training sessions. The One way 
+ANOVA showed that there was no significant difference 
+between the warm up time i n both swimming training 
+82 
+(p=0.063) and land training (p=0.267) and the injury 
+rates. 
+7. The warm up exercises were divided into four types: 
+jogging, stretching, specific warm up and others. The 
+percentages of swimmers’ choices in the types of warm up 
+were as f ollow: (during swimming training) 17.39%, 
+87.41%, 28.15% and 8.24% in jogging, stretching, 
+specific warm up and others like sit -up and push up; 
+(during land training) 41.42%, 71.4%, 28.38%, 13.96% in 
+jogging, stretching, specific warm up and others like 
+rope skipping.  
+8. The cool down patterns of swimmers were similar. 288 
+swimmers had cool down after swimming training wh ile 282 
+swimmers had cool down after land training.  The 
+independent t -test showed that there were significant 
+mean differences between the coo l down sessions in both 
+swimming and land training (p=0.045 and p=0.015 
+respectively) and the injury rates. 
+9. The four most injured body sites in the upper 
+extremities and dorsal trunk were shoulder (59 cases), 
+lumbar spine/low back (39 cases), cervical spine /neck 
+83 
+(27 cases) and wrist/hand (27 cases); in the lower 
+extremities, thigh/lower leg (94 cases), ankle/foot (82 
+cases) and knee (37 cases) were the three most common 
+injured body sites.  Among the swimming club swimmers, 
+muscle cramps at thigh/lower leg wa s the most frequent 
+injury followed by strain at thigh/ lower leg (0.048) 
+and sprain at ankle (0.047). Shoulder strain and 
+sprain/strain at lumbar spine/low back had the same 
+incident rate of 0.034 (23 cases for both) and ranked 
+fourth. 
+10. There were 43 cases  of injuries among the 437 
+respondents. For those who suffered in the shoulder 
+injuries, the most injured side was ambidextrous with 16 
+cases (37.2%) followed by the right side (14 cases, 
+32.6%) and left side (13 cases, 30.2%). it was reported 
+that, at the  moment of injury occurred, the subjects 
+were under vigorous exercise (34 cases, 79.1%).  There 
+was no of shoulder injuries recorded in the junior 
+training squad level of swimmers.  
+11. In the five swimming styles, front crawl swimmers 
+suffered the most (20 case s), followed by butterfly (14 
+84 
+cases), backstroke (12 cases), breaststroke (9 cases) 
+and individual medley swimmers (8 cases).  
+12. The recurrent rate of shoulder injuries at the same 
+position was 41.86% (18 cases). There was only one case 
+that swimmers needed t o be sent to the hospital directly.  
+13. After suffered in the shoulder injuries for the first 
+time, swimmers took rest (58.1%) or seek for 
+physiotherapists (27.9%) or the acupuncture treatment 
+(23.3%).  Among the 18 recurrent cases, swimmers also 
+chose to take rest (11 cases), seek for physiotherapists 
+(10 cases) or Chinese bone setters (5 cases)  
+14.  Within the 43 swimmers who were suffered from shoulder 
+injuries, 5 of them have been stayed in the hospital; 7 
+of them did not stop training and 18 of them did not 
+stop involving in sports activities.  
+15. After recovered from the shoulder injuries, 22 
+respondents rated that their muscle strength and 
+swimming skills were in different (3, rating 1 -5) as 
+before injury while 20 of them rated 3 (neutral) in the 
+range of motion o f the shoulder joint.  
+85 
+Conclusion  
+This study gave a general injury patterns among the 
+competitive swimmers in Hong Kong. Although the injuries 
+incidents in swimming were not serious, it is essential to 
+reduce the injury rate to minimize the effect on swimmers’ 
+performance and the chance of recurrent injuries.  Therefore, 
+the training programs for swimmers should be well -planned 
+and revised regularly in order to enhance swimmers’ 
+strength and abilities and to maximize their limits.  
+Recommendation s for Further Studies  
+Base on the s tudy, the following recommendation s are 
+presented for further studies:  
+1. The items and choices of injuries were limited. It may 
+not be able to reflect all the problems.  
+2. Studies may focus on general group and other training 
+groups, e.g. the general public and hig h level 
+competitions.  
+3. Study may focus on general injury types or injured sites, 
+which may give the outline of the injury patterns, thus 
+move onto the correlation between the specific injured 
+sites of swimming and other sports.  
+86 
+4. Study may focus on the speci fic strokes and the 
+corresponding injured sites. Detailed result may provide 
+advice in setting up of preventive measure or specific 
+training program, e.g. different kind of swimming 
+strokes and the common injured sites in swimming.  
+5. Developmental research c an be conducted in longitudinal 
+approach of the injured swimmers to follow up the 
+injured site status and swimmers’ participation in 
+swimming competitions after injury, e.g. the specific 
+treatment s and the recovery periods. 
+6. Qualitative studies can be conducted  to acquire in -depth 
+understanding of the mechanism of injury, which enable a 
+more meaningful conclusion, e.g. which specific skill or 
+action leading to a particular injury.  
+7. Research can include new and recurrent injuries of other 
+injured sites, to find ou t any relationship between them.  
+8. Research can include other injured sites about the 
+relationship between the dominant and non -dominant sides 
+of the swimmers and their injuries, to find out any 
+relationship between them.  
+9. Research can include the skeletal an d muscular contents 
+of swimmers and other sports participants, to find out 
+87 
+the sports type that affects the particular bone and 
+muscle content which may lead to the common injuries, 
+e.g. the relationship between the bone density of 
+swimmers and basketball players and the rate of fracture.  
+10. Experimental studies can be conduct in the relationship 
+between the quantity of swimming training and the land 
+training in the skeletal muscular content or the 
+recovery of the injured sites.  
+11. Research can include the expen se on medication for 
+injury. 
+12. Research can include psychological impact  on swimmers 
+after injury.  
+13. Research can include what the swimmers will do to reduce 
+the risk of injuries.  
+88 
+Reference  
+Anderson, M.K., Hall, S.J. & Martin, M. (2000). Sports 
+Injury Mana gement 2nd edit ion. United States of America: 
+Lippincott Williams & Wilkins.  
+Bonza, J.E., Fields, S.K., & Yard, E.E. (2009). Shoulder 
+injuries among United States high school athletes during 
+the 2005 -2006 and 2006 -2007 school years.  Journal of 
+Athletic Training  , 44(1), 76-83.  
+Chiu, D. (2011). Swimming Committee Annual Report (April 
+2010-March 2011). HKASA Annual Report 2010 -2011 (pp. 1-
+9). Hong Kong: Hong Kong Amateur Swimming Association.  
+Cubos, J., Cubos, A. & Stefano, F.D. (2010). Chronic 
+costochondritis in an adole scent competitive swimmer: a 
+case report. The Journal of the Canadian Chiropractic 
+Association  , 54(4), 271 -275.  
+Colwin, C. (2002). Breakthrough swimming.  Champaign: Human 
+Kinetics.  
+Echlin, P.S. & Michaelson, J.E.  (2006). Adolescent 
+butterfly swimmer wit h bilateral subluxing 
+89 
+sternoclavicular joints. British Journal of Sports 
+Medicine  , 40(4), 12.doi: 10.1136/bjsm.2005.020115.  
+FINA. (2008). Manchester 2008. Retrieved April 25,2012, 
+from Federation Internationale de Natation Sports 
+Medicine Section : 
+http://www.fina.org/project/index.php?option=com_content
+&task=view&id=1447&Itemid=549  
+FINA. (2010, May 19). SW 5 Freestyle . Retrieved April 13, 
+2011, from Federation International De Natation: 
+http://www.fina.org/H2O/index.php?option=com_content&vie
+w=article&id=282:sw -5-freestyle&catid=82:swimming -
+rules&Itemid=184  
+FINA. (2010,  May 19). SW 6 Backstroke . Retrieved April 13, 
+2011, from Federation International De Natation: 
+http://www.fina.org/H2O/index.php?option=com_content&vie
+w=article&id=283:sw -6-backstroke&catid=82:swimming -
+rules&Itemid=184  
+FINA. (2010, May 19). SW 7 Breaststr oke. Retrieved April 13, 
+2011, from Federation International De Natation: 
+http://www.fina.org/H2O/index.php?option=com_content&vie
+90 
+w=article&id=284:sw -7-breaststroke&catid=82:swimming -
+rules&Itemid=184  
+FINA. (2010, May 19). SW 8 Butterfly . Retrieved April 13 , 
+2011, from Federation International De Natation: 
+http://www.fina.org/H2O/index.php?option=com_content&vie
+w=article&id=285:sw -8-butterfly&catid=82:swimming -
+rules&Itemid=184  
+FINA. (2010, May 19). SW 9 Medley Swimming . Retrieved April 
+29, 2012, from Federat ion Internationale De Natation: 
+http://www.fina.org/H2O/index.php?option=com_content&vie
+w=article&id=286:sw -9-medley-swimming&catid=82:swimming -
+rules&Itemid=184  
+Grote, K., Lincoln, T. L., & Gamble, J. G. (2004). Hip 
+adductor injury in competitive swimmers.  The American 
+Journal of Sports Medicine  , 32(1), 104 -108. 
+Halson, A. (2011). Overreaching, the overtraining syndrome 
+and recovery. In L. Seifert, D. Chollet, & I. Mujika, 
+World Book of Swimming: from science to performance  (pp. 
+375-391). New York: Nova Sc ience Publishers.  
+91 
+Headey, J.,  Brooks, J.H.M. & Kemp, S.P.T.  (2007). The 
+epidemiology of shoulder injuries in english 
+professional rugby union. The American Journal of Sports 
+Medicine  , 35(9), 1537 -1543. Abstract retrieved from:  
+http://www.ncbi.nlm. nih.gov/pubmed/17452514  
+Knobloch, K., Yoon, U., Kraemer, R. & Vogt, P.M. (2008). 
+200 - 400 m breaststroke event dominate among knee 
+overuse injuries i n elite swimming athletes. 
+Sportverletz Sportschaden  , 22(4), 213-219. Abstrct 
+retrieved from 
+http://www.ncbi.nlm.nih.gov/pubmed/19085772  
+Kocher, M.S., Waters, P.M. & Micheli, L.J. (2000). Upper 
+extremity injuries in the paediatric athlete. Sports 
+Medicine (Auckland, N.Z.) , 30(2), 117-35. Abstract 
+retrieved from 
+http://www.ncbi.nlm.nih.gov/pubmed/19085772  
+Meister, K. (2000). Injuries to the shoulder in the 
+throwing athlete : Part one: 
+Biomechanics/pathophysiology/classification of injury. 
+The American Journal of Sports Medicine  , 28(2), 265 -275. 
+92 
+Mountjoy, M., Junge, A., Alonso, J.M., Engebretsen, L., 
+Dragan, I., Gerrard, D., Kouidri, M., Luebs, E., Shahpar, 
+F.M., & Dvorak, J. (2010). Sports injuries and illnesses 
+in the 2009 FINA World Championships (Aquatics). The 
+British Journal of Sports Medicine , 44, 522 -527. doi: 
+10.1136/bj sm.2010.071720.  
+Pink, M. M., & Tibone, J. E. (2000). The painful shoulder 
+in the swimming athlete. Orthopedic Clinics of North 
+America 31  , (2), 247 -261. doi:10.1016/S0030 -
+5898(05)70145 -0. 
+Powers, S.K., & Howley, E.T. (2004). Exercise Physiology: 
+Theory an d Application to Fitness and Performance (5th 
+Edition).  New York: McGraw -Hill. 
+Saito, H., Itoi, E., Sugaya, H., Minagawa, H., Yamamoto, N. 
+& Tuoheti, Y. (2005). Location of the glenoid defect in 
+shoulders with recurrent anterior dislocation. The 
+American J ournal of Sports Medicine  , 33(6), 889 -893. 
+Abstract retrieved from 
+http://www.ncbi.nlm.nih.gov/pubmed/15827355  
+93 
+Sortwell, A. (2012). Strength and power training for 100m 
+front crawl swimmers. Journal of International Society 
+of Swimming Coaching , 2(1), 4-29. 
+Thomas, S.J. & Swanik, K.A. (2009). Glenohumeral rotation 
+and scapular position adapta tions after a singie high 
+school female sports season. Journal of Athletic 
+Training  , 44(3), 230 -237. 
+Torres, R.R., & Gomes, J.L.E. (2009). Measurement of 
+glenohumeral internal rotation in asymptomatic tennis 
+players and swimmers. The American Journal of S ports 
+Medicine  , 37(5), 1017 -1023. 
+doi:10.1177/0363546508329544.  
+U.S. Department of Health and Human Services. (2009, June). 
+What Are Sports Injuries?  Retrieved April 13, 2011, from 
+National Institute of Arthritis and Musculoskeletal and 
+Skin Diseases: 
+http://www.niams.nih.gov/Health_Info/Sports_Injuries/spo
+rts_Injuries_ff.pdf  
+Wolf, B. R., Ebinger, A. E., Lawler, M. P. & Britton, C.L. 
+(2009). Injury patterns in division I collegiate 
+94 
+swimming. The American Journal of Sports Medicine  , 
+37(10), 2037 -2042. doi: 10.1177/0363546509339364.  
+Yuill, E. & Howit, S. D. (2009). Temporomandibular joint: 
+conservative care of TMJ dysfunction in a competitive 
+swimmer. The Journal of the Canadian Chiropractic 
+Association  , 53(3), 165 –172. 
+ 
+95 
+Appendix  A 
+Letter to schools  
+
+96 
+Appendix B 
+中學學界游泳比賽受傷比率調查  
+本人是香港浸會大學體育系三年級學生。最近正進行一份關於中學校際游泳錦標賽 (香港
+及九龍 ) (第一組 ) 泳手受傷情況的研究。現誠邀閣下參與有關研究並回答本問卷以作收集
+數據之用。  
+出生年份： __________  體重 :_________ 公斤  
+性別： __________  身高 :_________ 米 
+請圈出最適合您的答案。  
+甲部  
+1. a) 您有曾參加 2011/2012年度 (本年度 )的中學校際游泳錦標賽？   
+a. 有 -> 請回答問題  1b  
+b. 沒有   -> 請回答問題  2  
+ 
+ b) 請問您代表 哪一個組別？   
+a. 甲組   
+b. 乙組   
+c. 丙組   
+ 
+2. a) 請問您有沒有參加 2010/2011年度  (上年度 ) 的中學校際游泳錦標賽？  
+a. 有  -> 請回答問題 2b  
+b. 沒有   -> 請回答問題 3  
+ 
+ b) 請問您代表哪一個組別？   
+a. 甲組   
+b. 乙組   
+c. 丙組   
+ 
+3. 請問您在過往一年內 (2011年1月至 12月)，曾代表香港參加任何本地或海外的游
+泳比賽嗎？  
+a. 有 
+b. 沒有  
+ 
+4. 請問您在哪裡接受訓練？   
+a. 香港代表隊  
+b. 地區游泳訓練隊  
+c. 青年軍  
+d. 游泳會  
+e. 只在學校校隊  
+97 
+ 
+5. 您的主項是？  
+a. 捷泳  
+b. 蝶泳  
+c. 胸泳  
+d. 背泳  
+e. 個人四式  
+ 
+6. 過去一年內 ，您平均每星期進行 多少節游泳訓練 ?  
+     平均每星期 ___ 節 
+7. 承上題，平均每節游泳訓練的時數是 ? 
+   每節平均 ___分鐘  
+8. 進行游泳訓練 前，您平均用多少時間作熱身運動 ?  
+a. 少於五分鐘   
+b. 五至十分鐘  
+c. 多於十分鐘   
+ 
+9. 進行游泳訓練前， 您做的熱身運動包括 ? (可選多項 )  
+□ 1 慢跑   
+□ 2 伸展 (拉筋)  
+□ 3 針對性的熱身運動   
+□ 4 其他 :____________  
+ 
+10. 運動後，您有沒有做緩和運動 (cool down) ?  
+a. 有  
+b. 沒有   
+ 
+11. 過去一年內 ，您平均每星期進行多少節輔助訓練 (陸上訓練 )?  
+平均每星期 __ 節 
+12. 承上題，平 均每節輔助訓練的時數是 ?  
+    每節平均 __分鐘  
+13. 進行輔助訓練 前，您平均用多少時間作熱身運動 ?  
+a. 少於五分鐘   
+b. 五至十分鐘  
+c. 多於十分鐘   
+ 
+14. 進行輔助訓練前， 您做的熱身運動包括 ? (可選多項 )  
+□ 1 慢跑   
+□ 2 伸展 (拉筋)  
+□ 3 針對性的熱身運動   
+□ 4 其他 :____________  
+98 
+ 
+15. 在游泳或輔助訓練 後，您有沒有做緩和運動 (cool down) ?  
+a. 有  
+b. 沒有   
+ 
+16. 過去一年內，您有沒有曾經受傷 ?  
+a. 有 (到乙部 )  
+b. 沒有  (有關是次研究已經完成 ,謝謝 ) 
+乙部  
+過去一年內，您有否曾出現以下哪些受傷 ? (可選多項 ) 
+頭部 /臉部   腦震盪  
+ 皮膚性損害   扭傷  
+ 其他 _______   挫傷  
+頸部 /頸椎   扭傷 /拉傷   肌肉抽筋   其他 _______  
+腰部 /腰椎   扭傷 /拉傷  
+ 其他 _______   肌肉抽筋   筋膜炎  
+身軀其他位置   胸椎受傷  
+ 腹部受傷   胸骨 /肋骨 /胸部肌肉  受傷  
+ 其他 _______  
+肩部   脫臼 
+ 挫傷  
+ 受撞擊   扭傷  
+ 肌腱炎  
+ 其他 _______   拉傷  
+ 發炎 , 黏液囊炎  
+手臂 /手肘   扭傷  
+ 肌腱炎   拉傷  
+ 其他 _______   挫傷  
+手腕 /手  骨折  
+ 挫傷   肌腱炎  
+ 皮膚性損害   扭傷  
+ 其他 _______  
+臀部   拉傷  
+ 其他_______   肌腱炎   受撞擊  
+大腿 /小腿   拉傷  
+ 抽筋   挫傷  
+ 其他 _______   皮膚性損害  
+膝部   半脫臼  
+ 肌腱炎   扭傷  
+ 皮膚性損害   挫傷  
+ 其他 _______  
+足踝 /足部   骨折  
+ 挫傷   扭傷  (足踝 ) 
+ 皮膚性損害   扭傷 /拉傷   (足部 ) 
+ 其他 _______  
+其他 (請註明 ) :_____________________  
+如您的肩部曾有過任何受傷，請繼續回答丙部問題。  
+99 
+丙部  
+如您曾有過肩部受傷 ,請回答以下問題。  
+1. 慣用手：右 / 左 /兩手都善用 的 
+2. 受傷部位：右  / 左 / 兩邊也曾受傷  
+3. 肩部第一次是在 甚麼時候受傷 ? 
+  _____/_____  (月月 /年年年年 ) 
+4. 肩部是何時痊癒 ? 
+  _____/_____  (月月 /年年年年 ) 
+5. 肩部的第一次受傷是在什麼場合發生 ? 
+□ 1 游泳訓練過程中  
+□ 2 游泳訓練後  
+□ 3 輔助訓練過程中  
+□ 4 輔助訓練後  
+□ 5 游泳比賽中  
+ 
+6. 您如何受傷 ? 
+a. 靜止狀態  
+b. 日常生活活動  
+c. 激烈運動  
+d. 其他 (請形容 ):_____________________________________  
+ 
+7. 受傷後，您如何處 理患處及尋求協助 ? (可選多項 ) 
+□ 1 休息  □ 2 急症室  □ 3 骨科醫生 □ 4 家庭醫生  □ 5 物理治療 
+□ 6 進行手術  □ 7 中醫跌打  □ 8 針灸  □ 9 其他 (請註明 ):_______________  
+ 
+8. 是次的肩部受傷類型為？  
+□１長期勞損  □２肌肉拉傷  □３脫臼 □４半脫臼 □５扭傷  
+□６肌肉發炎  □７關節發炎  □８其他 (請註明 ):_______________  
+ 
+9. 受傷後， (在以下項目中 ) 您花了多少日子 ? 
+在醫院   ________天 
+停止訓練   ___________ 天 
+不接觸任何運動   ___________ 天 
+ 
+10. 肩部的同一位置有沒有再次受傷 ? 
+a. 有 
+b. 沒有  
+ 
+100 
+11. 您如何處理再次受傷患處及尋求協助 ? 
+□ 1 休息  □ 2 急症室  □ 3 骨科醫生  □ 4 家庭醫生  □ 5 物理治療  
+□ 6 進行手術  □ 7 中醫跌打  □ 8 針灸  □ 9 其他  (請註明 ):_______________   
+□ 10 不適用  
+ 
+12. 您有否因肩部受傷而緊急入院治 療? 
+a. 有 
+b. 沒有  
+ 
+13. 康復後，您有否參加任何游泳比賽 ? 
+a. 有 
+b. 沒有  
+ 
+14. 請就以下的項目，比較您曾受傷的肩膀於受傷前及經過治療後的表現：  
+ (1-代表受傷部位於 受傷前的表現相對較好 ; 5-代表受傷部位於 治療後表現相對較好 ) 
+ 評分  
+肌肉強度  1 2 3 4 5 
+動作幅度  1 2 3 4 5 
+游泳技術  1 2 3 4 5 
+ 
+是次問卷已經完成，謝謝您的參與 。 
+ 
+ 

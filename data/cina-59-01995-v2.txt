@@ -1,0 +1,785 @@
+Citation: Glisic, M.; Nikolic Turnic,
+T.; Zivkovic, V .; Pindovic, B.;
+Chichkova, N.V .; Fisenko, V .P .;
+Nikolic, M.; Stijak, L.; Yurievna, L.E.;
+Veselinovic, M.; et al. The Enhanced
+Effects of Swimming and Running
+Preconditioning in an Experimental
+Model of Myocardial
+Ischemia/Reperfusion Injury. Medicina
+2023 ,59, 1995. https://doi.org/
+10.3390/medicina59111995
+Academic Editor: Francisco Epelde
+Received: 30 August 2023
+Revised: 23 October 2023
+Accepted: 6 November 2023
+Published: 13 November 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+medicina
+Article
+The Enhanced Effects of Swimming and Running
+Preconditioning in an Experimental Model of Myocardial
+Ischemia/Reperfusion Injury
+Milos Glisic1, Tamara Nikolic T urnic2,3,4,*
+, Vladimir Zivkovic1,4,5, Bozidar Pindovic2
+,
+Natalia Vasilievna Chichkova6, Vladimir Petrovich Fisenko5, Marina Nikolic1, Lazar Stijak7
+,
+Lemina Elena Yurievna8, Mirjana Veselinovic9,10, Milena Jovicic11, Katarina Mihajlovic2
+, Sergey Bolevich12
+and Vladimir Jakovljevic1,4,12
+1Department of Physiology, Faculty of Medical Sciences, University of Kragujevac, Svetozara Markovica 69,
+34000 Kragujevac, Serbia; miloskg92@gmail.com (M.G.); vladimirziv@gmail.com (V .Z.);
+marina.rankovic.95@gmail.com (M.N.); drvladakgbg@yahoo.com (V .J.)
+2Department of Pharmacy, Faculty of Medical Sciences, University of Kragujevac, Svetozara Markovica 69,
+34000 Kragujevac, Serbia; pindovic.bozidar@gmail.com (B.P .); katarina.radonjic@medf.kg.ac.rs (K.M.)
+3N.A. Semashko Public Health and Healthcare Department, F.F. Erismann Institute of Public Health,
+I.M. Sechenov First Moscow State Medical University (Sechenov University), 119435 Moscow, Russia
+4Center of Excellence for Redox Balance Research in Cardiovascular and Metabolic Disorders,
+34000 Kragujevac, Serbia
+5Department of Pharmacology, 1st Moscow State Medical, University IM Sechenov, Trubetskaya Street 8, Str. 2,
+119991 Moscow, Russia; ﬁsenko_v_p@staff.sechenov.ru
+6Department Faculty Therapy, University IM Sechenov, Trubetskaya Street 8, Str. 2, 119991 Moscow, Russia;
+chichkova_n_v@staff.sechenov.ru
+7Institute of Anatomy, School of Medicine University in Belgrade, Dr Subotica 4/II., 11000 Belgrade, Serbia;
+lazar.stijak@gmail.com
+81st Moscow State Medical, University IM Sechenov, Trubetskaya Street 8, Str. 2, 119991 Moscow, Russia
+9Department of Internal Medicine, Faculty of Medical Sciences, University of Kragujevac, Svetozara Markovica 69,
+34000 Kragujevac, Serbia; miraveselinovic.m@gmail.com
+10Clinic for Rheumatology and Allergology, University Clinical Center, 34000 Kragujevac, Serbia
+11Department of Communication Skills, Faculty of Medical Sciences, University of Kragujevac,
+34000 Kragujevac, Serbia; limena27@gmail.com
+12Department of Human Pathology, 1st Moscow State Medical, University IM Sechenov, Trubetskaya Street 8,
+Str. 2, 119991 Moscow, Russia; bolevich2011@yandex.ru
+*Correspondence: tnikolict@gmail.com; Tel.: +381-656856185
+Abstract: Background and Objectives : This study was conducted to examine the inﬂuence of different
+swimming and running protocols as forms of physiological preconditioning on an isolated rat heart’s
+ischemia/reperfusion injury. Materials and Methods : This study was conducted on 60 male Wistar
+albino rats (6 weeks old, bw: 200 20 g), divided into: CTRL group—a sedentary control group;
+sAeT—a group that underwent aerobic swimming conditioning using a swimming protocol for
+8 weeks; sAnT—a group that underwent anaerobic swimming conditioning; rAeT—a group that
+underwent aerobic running conditioning; and rAnT—a group that underwent anaerobic running
+conditioning. After the preconditioning protocols, ex vivo estimating of myocardial function accord-
+ing to the Langendorff technique was performed. Results : The anaerobic running training decreased
+heart rate and the anaerobic swimming training reduced coronary ﬂow, demonstrating the difference
+in the physiological heart response of aerobic/anaerobic physical training ( p< 0.05). Heart rate
+was signiﬁcantly reduced in both training swimming groups after a period of ischemia ( p< 0.05).
+On the other hand, the anaerobic running protocol induced a signiﬁcantly decreased heart rate in
+comparison with the aerobic running group and the sedentary group ( p< 0.05). Conclusions : The data
+from this experimental study support many protective training effects, i.e., improved contractility,
+improved resting heart rate, and increased physical work capacity and exercise tolerance. Physical
+training in the form of anaerobic running induces greater heart preconditioning for reperfusion injury
+in comparison with anaerobic swimming training.
+Medicina 2023 ,59, 1995. https://doi.org/10.3390/medicina59111995 https://www.mdpi.com/journal/medicina
+Medicina 2023 ,59, 1995 2 of 16
+Keywords: aerobic preconditioning; anaerobic performance; swimming; running; rat; myocardial
+ischemia
+1. Introduction
+According to the World Health Organization, the most common causes of death in
+many parts of the world are different cardiovascular diseases (CVDs). Reports suggest that
+among various cardiovascular diseases, the most frequent cause of death lies in ischemic
+heart disease (IHD) [ 1,2]. IHD is often caused due to coronary artery stenosis, leading
+to insufﬁcient blood circulation and decreased blood perfusion of the heart, resulting in
+ischemia, reduced metabolism, and irregular cardiac function [3–8].
+The treatment and therapy of IHD in recent decades represent one of the biggest tasks
+of the health community, where the emphasis is mainly on a pharmacological approach,
+i.e., the development of a large number of pharmacological agents in the control and
+treatment of ischemic heart disease [ 9]. Apart from the therapeutic problem, it is well
+known that the prevention of a possible ischemic event can be an important factor in
+reducing the consequences of this disease, both in terms of the clinical picture and in
+terms of treatment costs. Therefore, in order to prevent the myocardium from I/R injury,
+a preconditioning procedure was developed, which is a procedure for the protection and
+prevention of the myocardium from impending ischemic and reperfusion damage, and
+which is carried out using pharmacological and non-pharmacological principles [ 10]. One
+of the non-pharmacological types of preconditioning—physical activity—was shown to be
+potentially the most effective with numerous promising results in this ﬁeld [10–12].
+A known fact is that regular aerobic exercise can promote metabolism, regulate hor-
+mone equilibrium, improve cognitive function, and is a recommended factor in controlling
+cardiovascular disease. Improving systemic circulation, increasing cardiopulmonary func-
+tion, increasing coronary artery perfusion, and improving cardiac stress tolerance are all
+effects of regular exercise [ 13,14]. Physical exercise can lead to an increase in ventricular
+dimensions and myocardial mass, and it can increase both cardiac output and stroke vol-
+ume [ 15]. Exercise training and its effects on myocardial ischemia (MI) were ﬁrst reported
+in a study by McElroy et al. [ 16]. Their study found that exercising could reduce the infarct
+size after MI due to it inducing the formation of new blood vessels in rat hearts [ 16]. For
+animals, the most commonly employed interventional exercising methods are running
+on a treadmill and swimming. Studies showed that treadmill training in rats increases
+antioxidant enzyme levels and improves blood-pumping capacity recovery following
+MI [17].
+Regular physical exercise can lead to an increase in antioxidant enzyme levels in
+muscles [ 18]. Exposure to cold, whether the medium is cold air or water, is a signiﬁcant
+environmental stressor. Since cold mediums trigger many different responses in living
+organisms, both thermoregulatory and chemical, cold stimulation is used as a form of
+physical therapy [ 19]. Following up on the last statement, water immersion is a popular
+recovery method, especially after long and hard training sessions. It is most commonly
+used by athletes for reducing muscle pain or accelerating fatigued muscles’ recovery, but
+it is not limited to them since it is also recommended for older people to modify their
+lifestyles [ 20]. Exposure to different temperatures and hydrostatic pressure are the factors
+responsible for triggering various physiological changes. Exercising in cold environments
+has provided signiﬁcant evidence of increased usage of body fat as a more prominent energy
+source and an increased VO 2demand with both immediate and long-term physiological
+and biochemical consequences [ 21]. During immersion in cold water, a decrease in the
+skin, subcutaneous, muscle, and sometimes even rectal temperature results from increased
+metabolism and oxygen usage to maintain adequate temperatures of vital organs [ 22].
+While the effects of acute and regular exercise on oxidative stress and antioxidant systems
+were investigated in several studies, only a few have conﬁrmed that swimming increases
+Medicina 2023 ,59, 1995 3 of 16
+oxidative stress in humans and that periodical immersion in cold water could be used to
+improve immune system responses and antioxidant protection [23].
+Studies show that swimming training, especially before MI, can increase cardiac
+antioxidant capacity in rats and improve their systolic function [ 23,24]. Increased cardiac
+arteriole density and improved cardiac function during the remodeling phase were also
+reported as an effect of swimming preconditioning in rats [24].
+Also, using the Langendorff technique allows for the induction of ischemia, arrhyth-
+mia, and hypoxia to various degrees, which makes it a unique tool for the study of patho-
+logical cardiac conditions. This model provides for testing the different procedures that
+change the myocardial function and provides for comparison with the intact function of
+the working myocardium and the coronary vessels to obtain conclusions based on the
+measurement of a variety of parameters [25].
+This study aimed to examine the inﬂuence of different training modalities, such as
+swimming and running, as physiological preconditioning for the prevention of isolated
+rat heart ischemia/reperfusion injury. Also, this study looks to answer questions on how
+different modalities of physical training (aerobic and anaerobic training) and intensity
+(moderate and high intensity) could impact the prevention or reduction of functional heart
+damage after ischemia.
+2. Materials and Methods
+2.1. Ethical Concerns
+This experimental study was approved by the Ethics Committee for the Welfare of experi-
+mental animals, Faculty of Medical Sciences, University of Kragujevac, (No. 01-10540/3). All
+procedures followed the Guidelines for the Care and Use of Laboratory Animals (GLP).
+According to these guidelines, we followed all procedures that reduced suffering for the
+animals during laboratory testing: reduced number of animals needed in a procedure;
+reﬁned procedures to cause the least possible distress to the animals; acclimatized the
+animals to new environments; well-trained staff; positive reinforcements; and helpful tools
+(analgesics, anesthetics, and non-pharmacological strategies) [26].
+2.2. Experimental Animals
+This study was conducted on 60 male Wistar albino rats (6 weeks old, with an average
+body weight of 200 20 g). Their habitat in the Institute of Cardiovascular Physiology con-
+sisted of strictly controlled environmental conditions such as consistent room temperature
+(222C) with established day/night cycles lasting 12 h and an abundance of food and
+water to be taken freely (ad libitum). The Wistar outbred albino rat is the most popular rat
+model due to its multi-purpose characteristics, productive performances, and cost beneﬁts,
+making it a powerful species for clinical medical research in physiology and long studies.
+The animals (n = 60) used in this study were healthy and not under the effects of drugs
+or supplements. They were randomly divided into three experimental groups (12 animals
+per group):
+1. CTRL group—a sedentary control group of rats that were not exposed to physical training;
+2. sAeT—a group that underwent aerobic swimming conditioning using a swimming
+protocol for 8 weeks;
+3. sAnT—a group that underwent anaerobic swimming conditioning for 8 weeks;
+4. rAeT—a group that underwent aerobic running conditioning using a running protocol
+for 8 weeks;
+5. rAnT—a group that underwent anaerobic running conditioning using a running
+protocol for 8 weeks.
+2.3. Aerobic and Anaerobic Swimming Protocol
+The swimming protocols were conducted in a specially constructed glass tank
+(80 cm 60 cm 100 cm) with an installed electric heater used for maintaining wa-
+ter temperature (37 1C) and a pump for continuously making waves to prevent ﬂoating
+Medicina 2023 ,59, 1995 4 of 16
+instead of swimming. The animals were under supervision during the entire duration of
+the exercises. The training protocol began every day early in the morning (9:00 a.m.) for
+all training sessions. Simultaneously, a maximum of six (6) rats were placed in the water
+tank [27,28].
+In the aerobic swimming protocol (AeS), the corresponding group was swimming for
+ﬁve (5) days per week for nine (9) weeks continuously. The ﬁrst week of the protocol was
+an adaptation period with the animals continuously swimming for 20 min on the ﬁrst day,
+with the swimming time increasing by 10 min daily and ending with a 60 min swimming
+session on the ﬁfth day. The exercise duration was constant from the second week onwards
+(60 min/day, 5 days/week), with no additional weight added, so the required level of
+physical exercise was just below the recommended anaerobic level [28,29].
+To conﬁrm that we reached an anaerobic level of lactates, we used the following
+swimming protocol (ArS). The anaerobic threshold of lactate was set at 4.5 mmol/L, and
+all values below 3.5 mmol/L were set as aerobic.
+The protocol consisted of swimming for 60 min daily for ﬁve (5) days per week during
+the ﬁrst two weeks as an adaptation period. The following three weeks consisted of 15 min
+swimming sessions where each animal was equipped with lead weights corresponding
+to 6.5% of their weight. During the last four weeks of the protocol, the rats underwent
+60 min swimming sessions again equipped with lead weights corresponding to 6.5% of
+their body weight. At the end of each week of training, we measured the lactate levels
+in exercising rats via tail vein punction using a portable lactate monitor and a lancet. To
+simulate the same stress levels that our exercising groups of animals had, the rats from the
+control group were also put in water for 1 min per day/5 days a week until the end of the
+training period [27].
+2.4. Swimming Pool for Experimental Animals
+Swim-training was performed in a glass pool (60 cm 100 cm 75 cm), with the
+water depth 60 cm and the temperature of the aquatic environment 37 1C. Training
+was performed by two groups simultaneously with continuous monitoring of the training
+and the temperature of water environment. In order to experience the same experimental
+conditions, rats from CTRL group were placed into a separate water tank (depth 5 cm) for
+ﬁve minutes at the same water temperature [28].
+2.5. Aerobic and Anaerobic Running Protocol
+After the adaptation period, rats subjected to moderate intensity running would run
+60 min a day for the next ﬁve weeks, gradually increasing the running speed (10–13 m/min)
+so that in the last week the rats ran at a speed of 15 m/min [ 26,27]. The total duration of
+this protocol is 6 weeks including adaptation period.
+High Intensity Interval Training Protocol (High Intensity Interval Running) means
+that after the adaptation period, rats subjected to high-intensity interval running would
+run at an intensity of 45 m/min for 30 s from the second week, and after a 3 min rest, this
+procedure would be repeated in four more cycles. During the next three weeks, both the
+speed and the duration of running was gradually increased so that in the last week, the
+rats would run at a speed of 55 m/min for 90 s in ﬁve cycles [ 27]. In order to evaluate and
+conﬁrm the aerobic or anaerobic type of running in animals from both groups, lactates
+were measured after each running session (at least three times a week) using a commercial
+lactometer by puncturing the tail vein [27].
+2.6. Treadmill for Small Experimental Animals
+Exercise protocol was performed by Treadmill for rats (ELUNIT Medical Equipment),
+customized for anatomical and physiological characteristics of small experimental animals
+(power supply 220 V , 50 Hz; number of trails for running: 4; speed control 2–50 m/min with
+a resolution of 0.1 m/min; bars which deliver mild electric shock of 0–0.5 mA with a 1–2 s
+interpulse interval), connected with Treadmill software (animal treadmill for rats—TM
+Medicina 2023 ,59, 1995 5 of 16
+S01) to monitor speed continuously. Mild electric shock was activated when rats stopped
+running but without causing stress to animals [29,30].
+2.7. Ex Vivo Estimating Myocardical Function of Wistar Rats
+We excised and then perfused the hearts of all the exercising animals (n = 60, 12 in
+each experimental group) on Langendorff apparatus (Experimetria Ltd., 1062 Budapest,
+Hungary) [ 25,31]. After a brief anesthetization period using ketamine (10 mg/kg) and
+xylazine (5 mg/kg), cervical dislocation was performed and the animals were sacriﬁced
+(Schedule 1 of the Animals/Scientiﬁc Procedures, Act 1986, UK). After the ensuing midline
+thoracotomy, the hearts were extracted and dipped in cold isotonic saline before being
+mounted on the Langendorff apparatus for retrograde perfusion under constant coronary
+perfusion pressure (CPP of 70 cmH 2O). For the perfusion the Krebs–Henseleit buffer was
+used (in mmol/L: NaCl 118, KCl 4.7, CaCl 22H2O 2.5, MgSO 47H2O 1.7, NaHCO 3,
+KH 2PO41.2, glucose 11, and pyruvate 2). The buffer was then warmed up to 37C while
+maintaining a pH of 7.4 and infused with 95% O 2and 5% CO 2. After the successful mount,
+a stabilization period of circa 20 min at CPP of 70 cm H 2O transpired, after which a 30 min
+global ischemia session ensued. Following the ischemia session, a 30 min reperfusion
+period started. Different parameters [ 25] for assessing myocardial function were measured
+with a sensor placed in the left heart ventricle:
+1. Maximum rate of pressure development in LV (dp/dt max);
+2. Minimum rates of pressure development in LV (dp/dt min);
+3. Systolic left ventricle pressure (SLVP);
+4. Diastolic left ventricle pressure (DLVP);
+5. Heart rate (HR);
+6. Coronary ﬂow (CF) was measured ﬂowmetrically.
+2.8. Statistical Analysis
+Values are expressed as the mean standard error of mean. The well-known Shapiro–
+Wilk test was the method used to test the normality of the data. For testing the differences
+between groups in each parameter, one-way ANOVA and Tukey post hoc test were used
+to conﬁrm the differences. Normality tests and analytical tests were conducted using the
+statistical software SPSS version 26. The statistical signiﬁcance threshold was set at 0.05.
+3. Results
+In Figures 1–6 the dynamics of the parameters of myocardial function measured in
+ex vivo conditions are shown. The main parameters of heart contractility, dp/dt max, and
+dp/dt min are signiﬁcantly changed in comparison with the CTRL values. At the beginning
+of the reperfusion period (R1–R15), the dp/dt max was increased in the sAnT group, and
+later increased in the sAeT group in comparison with the CTRL (Figure 1A). On the other
+hand, the dp/dt max with the running protocol was signiﬁcantly decreased in the rAnT
+group in comparison with the aerobic running and sedentary groups of animals (Figure 1B).
+From Table 1 we can observe that in most of the measured points, the changes to the dp/dt
+max in both the swimming and running protocols were altered in comparison with the
+control conditions (Table 1).
+Further, the second parameter of heart contractility, named dp/dt min, was also sig-
+niﬁcantly altered during different types and intensities of training. That means that during
+swimming, the dp/dt min in the R period was similarly increased in both groups (sAeT
+and sAnT) and during running, the aerobic protocol induced an increased contractility
+(Figure 2 and Table 2).
+Medicina 2023 ,59, 1995 6 of 16
+Table 1. Comparison of changing dp/dt max in all experimental groups with CTRL *.
+Group sAeT sAnT rAeT rAnT p-Value
+R1 35.80 44.93 39.20  22.57 p< 0.05a–f
+R5 6.63 14.35 2.23  17.02 p< 0.05a–f
+R10 14.17 26.53 58.28 3.65 p< 0.05a–f
+R15 30.48 36.90 83.96 15.03 p< 0.05a–f
+R20 11.45 41.99 113.00 28.43 p< 0.05a–f
+R25 18.32 48.58 131.00 4.58 p< 0.05a–f
+R30 21.92 58.36 161.28 9.15 p< 0.05a–f
+* The values are obtained from ratio of stabilization (S) and one of the following reperfusion points (R1–R30),
+by using calculation 100  ([value] Rx  [value] S) 100 = [value]%. Statistical analysis was performed using
+ANOVA and Tukey post hoc test as follows: a = sAet vs. sAnT; b = sAeT vs. rAeT; c = aAet vs. rAnT; d = sAnT
+vs. rAeT; e = sAnT vs. rAnT; f = rAeT vs. rAnT.
+Medicina 2023 , 59, x FOR PEER REVIEW 6 of 16 
+ 
+  
+(A) 
+ 
+(B) 
+Figure 1. Values of maximum rate of development of left ventricular pressure in ( A): CTRL, sAeT, 
+and sAnT groups; and ( B): CTRL, rAeT, and rAnT. Results are presented as mean ± standard error 
+of mean. 
+Table 1. Comparison of changing dp/dt max in al l experimental groups with CTRL *. 
+Group sAeT sAnT rAeT rAnT p-Value 
+R1 35.80 44.93 39.20 −22.57 p < 0.05 a–f 
+R5 6.63 14.35 2.23 −17.02 p < 0.05 a–f 
+R10 14.17 26.53 58.28 3.65 p < 0.05 a–f 
+R15 30.48 36.90 83.96 15.03 p < 0.05 a–f 
+R20 11.45 41.99 113.00 28.43 p < 0.05 a–f 
+R25 18.32 48.58 131.00 4.58 p < 0.05 a–f 
+R30 21.92 58.36 161.28 9.15 p < 0.05 a–f 
+* The values are obtained from ratio of stabilizat ion (S) and one of the following reperfusion points 
+(R1–R30), by using calculation 100 − ([value] Rx − [value] S) × 100 = [value]%. Statistical analysis 
+was performed using ANOVA and Tukey post hoc test as follows: a = sAet vs. sAnT; b = sAeT vs. rAeT; c = aAet vs. rAnT; d = sAnT vs. rAeT ; e = sAnT vs. rAnT; f = rAeT vs. rAnT. 
+Further, the second parameter of heart cont ractility, named dp/dt min, was also sig-
+niﬁcantly altered during di ﬀerent types and intensities of tr aining. That means that during 
+swimming, the dp/dt min in the R period was similarly increased in both groups (sAeT 
+Figure 1. Values of maximum rate of development of left ventricular pressure in ( A): CTRL, sAeT,
+and sAnT groups; and ( B): CTRL, rAeT, and rAnT. Results are presented as mean standard error
+of mean.
+Medicina 2023 ,59, 1995 7 of 16
+Medicina 2023 , 59, x FOR PEER REVIEW 7 of 16 
+ 
+ and sAnT) and during running, the aerobic protocol induced an increased contractility 
+(Figure 2 and Table 2). 
+ 
+(A) 
+ 
+(B) 
+Figure 2. Values of minimum rate of development of left ventricular pressure ( A): CTRL, sAeT, and 
+sAnT groups; and ( B): CTRL, rAeT, and rAnT. Results are pr esented as mean ± standard error of 
+mean. 
+Table 2. Comparison of changing dp/dt min in all experimental groups with CTRL *. 
+Group sAeT sAnT rAeT rAnT p-Value 
+R1 −23.14 −39.30 −5.03 −45.67 p < 0.05 a–f 
+R5 1.34 −7.72 −11.16 −27.95 p < 0.05 a–f 
+R10 11.41 16.83 62.03 −10.82 p < 0.05 a–f 
+R15 20.89 29.56 88.47 −16.69 p < 0.05 a–f 
+R20 −1.75 31.86 127.31 −2.09 p < 0.05 a–f 
+R25 −3.26 32.35 115.90 −8.57 p < 0.05 a–f 
+R30 −4.07 28.41 147.36 −34.50 p < 0.05 a–f 
+* The values are obtained from ratio of stabilizat ion (S) and one of the following reperfusion points 
+(R1–R30), by using calculation 100 − ([value] Rx − [value] S) × 100 = [value]%. Statistical analysis 
+was performed using ANOVA and Tukey post hoc test as follows: a = sAet vs. sAnT; b = sAeT vs. 
+rAeT; c = aAet vs. rAnT; d = sAnT vs. rAeT ; e = sAnT vs. rAnT; f = rAeT vs. rAnT. 
+Figure 2. Values of minimum rate of development of left ventricular pressure ( A): CTRL, sAeT,
+and sAnT groups; and ( B): CTRL, rAeT, and rAnT. Results are presented as mean standard error
+of mean.
+Table 2. Comparison of changing dp/dt min in all experimental groups with CTRL *.
+Group sAeT sAnT rAeT rAnT p-Value
+R1  23.14  39.30  5.03  45.67 p< 0.05a–f
+R5 1.34  7.72  11.16  27.95 p< 0.05a–f
+R10 11.41 16.83 62.03  10.82 p< 0.05a–f
+R15 20.89 29.56 88.47  16.69 p< 0.05a–f
+R20  1.75 31.86 127.31  2.09 p< 0.05a–f
+R25  3.26 32.35 115.90  8.57 p< 0.05a–f
+R30  4.07 28.41 147.36  34.50 p< 0.05a–f
+* The values are obtained from ratio of stabilization (S) and one of the following reperfusion points (R1–R30),
+by using calculation 100  ([value] Rx  [value] S) 100 = [value]%. Statistical analysis was performed using
+ANOVA and Tukey post hoc test as follows: a = sAet vs. sAnT; b = sAeT vs. rAeT; c = aAet vs. rAnT; d = sAnT
+vs. rAeT; e = sAnT vs. rAnT; f = rAeT vs. rAnT.
+Medicina 2023 ,59, 1995 8 of 16
+Medicina 2023 , 59, x FOR PEER REVIEW 8 of 16 
+ 
+ Systolic left ventricular pressure was signi ﬁcantly increased during the anaerobic 
+protocol with swimming and during the anaero bic protocol with running. Both protocols, 
+aerobic and anaerobic, induced an elevation in SLVP in both types of training (Figure 3 and Table 3). 
+(A) 
+(B) 
+Figure 3. Values of systolic left ventricular pressure in ( A): CTRL, sAeT, and sAnT groups; and ( B): 
+CTRL, rAeT, and rAnT. Results are presente d as mean ± standard error of mean. 
+Table 3. Comparison of changing SLVP in all experimental groups with CTRL *. 
+Group sAeT sAnT rAeT rAnT p-Value 
+R1 12.23 18.26 107.15 −19.61 p < 0.05 a–f 
+R5 3.66 2.68 4.87 −1.66 p > 0.05 
+R10 4.75 19.73 43.67 12.52 p > 0.05 
+R15 39.11 22.75 62.49 −0.54 p < 0.05 a–f 
+R20 −14.81 24.50 72.93 9.91 p < 0.05 a–f 
+R25 −18.12 24.05 72.93 −11.90 p < 0.05 a–f 
+R30 −19.11 19.38 80.38 −20.30 p < 0.05 a–e 
+* The values are obtained from ratio of stabilizat ion (S) and one of the following reperfusion points 
+(R1–R30), by using calculation 100 − ([value] Rx − [value] S) × 100 = [value]%. Statistical analysis 
+Figure 3. Values of systolic left ventricular pressure in ( A): CTRL, sAeT, and sAnT groups; and
+(B): CTRL, rAeT, and rAnT. Results are presented as mean standard error of mean.
+Systolic left ventricular pressure was signiﬁcantly increased during the anaerobic
+protocol with swimming and during the anaerobic protocol with running. Both protocols,
+aerobic and anaerobic, induced an elevation in SLVP in both types of training (Figure 3 and
+Table 3).
+Table 3. Comparison of changing SLVP in all experimental groups with CTRL *.
+Group sAeT sAnT rAeT rAnT p-Value
+R1 12.23 18.26 107.15  19.61 p< 0.05a–f
+R5 3.66 2.68 4.87  1.66 p> 0.05
+R10 4.75 19.73 43.67 12.52 p> 0.05
+R15 39.11 22.75 62.49  0.54 p< 0.05a–f
+R20  14.81 24.50 72.93 9.91 p< 0.05a–f
+R25  18.12 24.05 72.93  11.90 p< 0.05a–f
+R30  19.11 19.38 80.38  20.30 p< 0.05a–e
+* The values are obtained from ratio of stabilization (S) and one of the following reperfusion points (R1–R30),
+by using calculation 100  ([value] Rx  [value] S) 100 = [value]%. Statistical analysis was performed using
+ANOVA and Tukey post hoc test as follows: a = sAet vs. sAnT; b = sAeT vs. rAeT; c = aAet vs. rAnT; d = sAnT
+vs. rAeT; e = sAnT vs. rAnT; f = rAeT vs. rAnT.
+Medicina 2023 ,59, 1995 9 of 16
+Medicina 2023 , 59, x FOR PEER REVIEW 9 of 16 
+ 
+ was performed using ANOVA and Tukey post hoc test as follows: a = sAet vs. sAnT; b = sAeT vs. 
+rAeT; c = aAet vs. rAnT; d = sAnT vs. rAeT ; e = sAnT vs. rAnT; f = rAeT vs. rAnT. 
+DLVP was similarly signi ﬁcantly increased in the anae robic protocols of swimming 
+and running, and also increased contractility an d left ventricular pressure during training 
+in comparison to the sedentary (control) conditions (Figure 4 and Table 4). 
+(A) 
+(B) 
+Figure 4. Values of diastolic left ventricular pressure in ( A): CTRL, sAeT, and sAnT groups; and ( B): 
+CTRL, rAeT, and rAnT. Results are presente d as mean ± standard error of mean.  
+Table 4. Comparison of changing DLVP in all experimental groups with CTRL *. 
+Group aAeT sAnT rAeT rAnT p-Value 
+R1 −59.31 8.14 160.87 −23.88 p < 0.05 a–f 
+R5 −46.90 5.16 137.50 6.34 p < 0.05 a–d 
+R10 381.38 −4.47 141.85 28.90 p < 0.05 a–f 
+R15 −62.76 −6.77 154.35 9.55 p < 0.05 a–f 
+R20 −66.90 −11.35 139.67 16.91 p < 0.05 a–f 
+R25 −48.28 −13.88 100.54 −5.64 p < 0.05 a–f 
+R30 −47.59 −18.92 113.04 −12.61 p < 0.05 a–f 
+* The values are obtained from ratio of stabilizat ion (S) and one of the following reperfusion points 
+(R1–R30), by using calculation 100 − ([value] Rx − [value] S) × 100 = [value]%. Statistical analysis 
+Figure 4. Values of diastolic left ventricular pressure in ( A): CTRL, sAeT, and sAnT groups; and
+(B): CTRL, rAeT, and rAnT. Results are presented as mean standard error of mean.
+DLVP was similarly signiﬁcantly increased in the anaerobic protocols of swimming
+and running, and also increased contractility and left ventricular pressure during training
+in comparison to the sedentary (control) conditions (Figure 4 and Table 4).
+Table 4. Comparison of changing DLVP in all experimental groups with CTRL *.
+Group aAeT sAnT rAeT rAnT p-Value
+R1  59.31 8.14 160.87  23.88 p< 0.05a–f
+R5  46.90 5.16 137.50 6.34 p< 0.05a–d
+R10 381.38  4.47 141.85 28.90 p< 0.05a–f
+R15  62.76  6.77 154.35 9.55 p< 0.05a–f
+R20  66.90  11.35 139.67 16.91 p< 0.05a–f
+R25  48.28  13.88 100.54  5.64 p< 0.05a–f
+R30  47.59  18.92 113.04  12.61 p< 0.05a–f
+* The values are obtained from ratio of stabilization (S) and one of the following reperfusion points (R1–R30),
+by using calculation 100  ([value] Rx  [value] S) 100 = [value]%. Statistical analysis was performed using
+ANOVA and Tukey post hoc test as follows: a = sAet vs. sAnT; b = sAeT vs. rAeT; c = aAet vs. rAnT; d = sAnT
+vs. rAeT; e = sAnT vs. rAnT; f = rAeT vs. rAnT.
+Medicina 2023 ,59, 1995 10 of 16
+Medicina 2023 , 59, x FOR PEER REVIEW 10 of 16 
+ 
+ was performed using ANOVA and Tukey post hoc test as follows: a = sAet vs. sAnT; b = sAeT vs. 
+rAeT; c = aAet vs. rAnT; d = sAnT vs. rAeT ; e = sAnT vs. rAnT; f = rAeT vs. rAnT. 
+Very interestingly, heart rate was signi ﬁcantly reduced in both  swimming training 
+groups after a period of ischemia. On the ot her hand, the anaerobic running protocol in-
+duced a signi ﬁcantly decreased heart rate in comparison with the aerobic running and 
+sedentary groups (Figure 5, Table 5). 
+(A) 
+(B) 
+Figure 5. Values of heart rate (HR) in ( A): CTRL, sAeT, and sAnT groups; and ( B): CTRL, rAeT, and 
+rAnT. Results are presented as me an ± standard error of mean. 
+Table 5. Comparison of changing HR in all experimental groups with CTRL *. 
+Group aAeT sAnT rAeT rAnT p-Value 
+R1 −9.13 −12.47 −23.55 −52.97 p < 0.05 d,e,f 
+R5 −5.03 −6.32 16.24 −7.75 p < 0.05 e 
+R10 0.47 −15.07 4.51 −28.41 p < 0.05 a–f 
+R15 −8.74 −18.20 0.20 −17.09 p < 0.05 a–f 
+R20 −0.46 −20.83 1.12 −1.22 p < 0.05 a 
+R25 0.47 −18.53 4.01 1.88 p < 0.05 a,b,e 
+Figure 5. Values of heart rate (HR) in ( A): CTRL, sAeT, and sAnT groups; and ( B): CTRL, rAeT, and
+rAnT. Results are presented as mean standard error of mean.
+Very interestingly, heart rate was signiﬁcantly reduced in both swimming training
+groups after a period of ischemia. On the other hand, the anaerobic running protocol
+induced a signiﬁcantly decreased heart rate in comparison with the aerobic running and
+sedentary groups (Figure 5, Table 5).
+Table 5. Comparison of changing HR in all experimental groups with CTRL *.
+Group aAeT sAnT rAeT rAnT p-Value
+R1  9.13  12.47  23.55  52.97 p< 0.05d,e,f
+R5  5.03  6.32 16.24  7.75 p< 0.05e
+R10 0.47  15.07 4.51  28.41 p< 0.05a–f
+R15  8.74  18.20 0.20  17.09 p< 0.05a–f
+R20  0.46  20.83 1.12  1.22 p< 0.05a
+R25 0.47  18.53 4.01 1.88 p< 0.05a,b,e
+R30 1.67  12.47 2.31 7.84 p< 0.05a,b,e
+* The values are obtained from ratio of stabilization (S) and one of the following reperfusion points (R1–R30),
+by using calculation 100  ([value] Rx  [value] S) 100 = [value]%. Statistical analysis was performed using
+ANOVA and Tukey post hoc test as follows: a = sAet vs. sAnT; b = sAeT vs. rAeT; c = aAet vs. rAnT; d = sAnT
+vs. rAeT; e = sAnT vs. rAnT; f = rAeT vs. rAnT.
+Medicina 2023 ,59, 1995 11 of 16
+Medicina 2023 , 59, x FOR PEER REVIEW 11 of 16 
+ 
+ R30 1.67 −12.47 2.31 7.84 p < 0.05 a,b,e 
+* The values are obtained from ratio of stabilizat ion (S) and one of the following reperfusion points 
+(R1–R30), by using calculation 100 − ([value] Rx − [value] S) × 100 = [value]%. Statistical analysis 
+was performed using ANOVA and Tukey post hoc test as follows: a = sAet vs. sAnT; b = sAeT vs. 
+rAeT; c = aAet vs. rAnT; d = sAnT vs. rAeT ; e = sAnT vs. rAnT; f = rAeT vs. rAnT. 
+Finally, for the parameter of coronary circulation/coronary ﬂow, we measured ﬂow-
+metrically and manually for each point. We observed that the anaerobic swimming train-ing induced a decreased heart rate in the R period in comparison with the aerobic and 
+control groups. On the contrary, running both  the aerobic and anaerobic training induced 
+a signi ﬁcantly decreased heart rate during the R period in comparison with the CTRL 
+group (Figure 6, Table 6). 
+ 
+(A) 
+ 
+(B) 
+Figure 6. Values of coronary ﬂow (CF) in ( A): CTRL, sAeT, and sAnT groups; and ( B): CTRL, rAeT,
+and rAnT. Results are presented as mean standard error of mean.
+Finally, for the parameter of coronary circulation/coronary ﬂow, we measured ﬂow-
+metrically and manually for each point. We observed that the anaerobic swimming training
+induced a decreased heart rate in the R period in comparison with the aerobic and control
+groups. On the contrary, running both the aerobic and anaerobic training induced a sig-
+niﬁcantly decreased heart rate during the R period in comparison with the CTRL group
+(Figure 6, Table 6).
+Medicina 2023 ,59, 1995 12 of 16
+Table 6. Comparison of changing coronary ﬂow (CF) in all experimental groups with CTRL *.
+Group aAeT sAnT rAeT rAnT p-Value
+R1  8.33  14.89 14.29  12.07 p< 0.05b,e
+R5 10.00  4.26 11.43  6.90 p< 0.05b,e
+R10 16.67  4.26  30.00 0.00 p< 0.05b,e
+R15 20.00  12.77  28.57 3.45 p< 0.05b,e
+R20  6.67  10.64  35.71 3.45 p< 0.05b,d
+R25  8.33  10.64  28.54 3.41 p< 0.05b,d
+R30  6.67  4.26  28.57 3.39 p< 0.05b,d
+* The values are obtained from ratio of stabilization (S) and one of the following reperfusion points (R1–R30),
+by using calculation 100  ([value] Rx  [value] S) 100 = [value]%. Statistical analysis was performed using
+ANOVA and Tukey post hoc test as follows: b = sAeT vs. rAeT; d = sAnT vs. rAeT; e = sAnT vs. rAnT.
+4. Discussion
+This experimentally designed study, using in vivo and ex vivo conditions, was aimed
+at examining the inﬂuence of different training modalities, such as swimming and running,
+as physiological preconditioning methods on rat heart ischemia/reperfusion injury. In
+addition, this preclinical research provided an answer to questions about how different
+intensities and types of physical training (aerobic/anaerobic or swimming/running) could
+improve function or reduce heart dysfunction after myocardial ischemia.
+Our preclinical research was conducted on 60 male adult non-obese Wistar albino rats
+which are conﬁrmed to be good and reliable models for testing the exercise protocols on
+the cardiovascular system.
+Animal models of acute and chronic exercise are commonly used in research. Often
+the acute exercise test is used in various combinations, such as genetic, pharmacological,
+and other manipulations. All the combined protocols could provide a signiﬁcant result in
+the cardiovascular response to exercise and detect changes in cardiovascular function that
+may not be evident at rest [ 25,31]. On the other hand, chronic exercise conditioning models
+are used to study the cardiac phenotypic response to regular exercise protocols and may
+provide information on novel pathways mediating cardiovascular health [ 31].Although
+most of the benefits of exercise on the cardiovascular system are known, the exact mechanism
+by which aerobic and anaerobic training could improve myocardial function is still unclear. In
+this sense, our training models, both swimming and running in a chronic way , represent the
+gold standard in evaluating the effects of exercises on the cardiovascular system.
+4.1. Swimming vs. Running: The Effects on Heart Function and Cardiovascular Health
+This unsurpassed question about the comparison of swimming and running in terms
+of beneﬁts is actually still current. It is most important to ﬁnd the right type of physical
+activity that will achieve the best ﬁtness goals and promote health. Currently, the most
+popular aerobic physical activities are running and swimming. Whatever the personal
+goals, both of them promote conditioning, losing weight, improving cardiovascular health,
+burning calories, gaining muscle, and improving bone density [ 32]. In addition, swimming
+could burn more calories in comparison with running the same distance. Swimming
+is a complete body workout, which results in burning more calories compared to other
+activities. Also, the risk of injury is different, and swimming is the type of training that
+people with problems with joint function can undertake because it has a low impact on
+joints. With running, most injuries can be prevented, but most of the problems come from
+frequent pain and soft tissue injuries.
+On a molecular level, aerobic metabolism generates more adenosine three phosphate
+(ATP) and relies more on oxygen, while anaerobic metabolism does not need oxygen but
+creates two ATP molecules per one molecule of glucose. In addition, both types of activity
+need to produce cellular energy [32].
+In our study, we conﬁrmed the differences between the effects of the type of activity on
+changing the myocardial contractility after a long period (8 weeks) of preconditioning. For
+estimating the main course of cardiac contractility, the most important are the parameters
+Medicina 2023 ,59, 1995 13 of 16
+of maximum and minimum rate of development of left ventricular pressure and systolic
+pressure (dp/dt max, dp/dt min, and SLVP).
+In Figures 1–6 the dynamics of the parameters of myocardial function measured in
+ex vivo conditions are shown. The main parameters of heart contractility, dp/dt max,
+and dp/dt min are signiﬁcantly changed in comparison with the CTRL values. In the
+beginning of the reperfusion period (R1–R15), the dp/dt max was increased in the sAnT
+group, but also later increased in the sAeT group in comparison with the CTRL (Figure 1A).
+On the other hand, the dp/dt max when using the running protocol was signiﬁcantly
+decreased in the rAnT group in comparison with the aerobic running and sedentary groups
+of animals (Figure 1B). From Table 1 we can observe that in most of the measured points,
+the changes to the dp/dt max with the swimming and running protocols were altered
+in comparison with the control conditions (Table 1). Further, the second parameter of
+heart contractility, named as dp/dt min, was also signiﬁcantly altered during the different
+types and intensities of training. That means that during swimming, the dp/dt min in the
+R period was similarly increased in both groups (sAeT and sAnT) and during running,
+the aerobic protocol induced more increased contractility (Figure 2 and Table 2). Systolic
+left ventricular pressure was signiﬁcantly increased during the anaerobic protocol for
+swimming, and during the anaerobic protocol for running. Both protocols, aerobic and
+anaerobic, induced an elevation of SLVP in both types of training (Figure 3 and Table 3).
+Deﬁnitely, the aerobic modality of training when both swimming and running have shown
+the ability of improving cardiac function and reducing reperfusion injury after global
+ischemia in an animal model. The differences in the effects of anaerobic and aerobic activity
+in our results can be explained by the well-known fact that in cells, aerobic respiration
+occurs within the mitochondria and anaerobic respiration occurs in the cytoplasm of a
+cell [ 33,34]. This evidence is also in accordance with previous studies, which conﬁrmed
+the heart hypertrophy induced by physical activity. After a century of experimental and
+clinical investigations, exercise-induced cardiac hypertrophy is a result of training improved
+contractility and that is an expected adaptation of regular physical training [35–37].
+Baptista et al. evaluated the effects of treadmill running and swimming in rats [ 38].
+Their study was performed on the normal Wister rat to evaluate the effects of two distinct
+moderate/long-term aerobic training protocols, treadmill running and the swimming, on
+several important parameters related to cardiovascular (CV) physiological adaptations,
+namely: lipid proﬁle, hemorheological measures, lipid peroxidation, peripheral seroton-
+ergic system (SS) modulation, and sympathetic nervous system (SNS) activation. In both
+groups of training, an HDL-c increment versus the sedentary control was demonstrated.
+There was a noticeable increase in ADP-induced platelet aggregation in the exercised rats,
+together with higher PDW and MPV values. They concluded that treadmill running was
+more inﬂuential than swimming when concerned with peripheral SS modulation, while
+swimming was more important on SNS activation, thus recommending a judicious choice
+of the protocol to be tested in works which make use of rat models of exercise to study
+physiological or pathophysiological conditions [ 39]. Similar to these conclusions, our re-
+sults conﬁrmed that running induced more intensive improvement in cardiac contractility
+in comparison with the swimming.
+The mechanism for inducing these adaptations remains unknown, but it could be
+due to the hypoxic environment when swimming [ 37,39]. In contrast, endurance running
+programs involving rodents (as well as other species) suggest relatively little change in
+the biochemical and functional properties of the contractile system [ 39]. In addition to
+that, a great advantage of this modality is that the exercise training requires only minimal
+investigator intervention and does not require aversive stimuli (e.g., electric shocks or air
+jets) to motivate the animals to run in the wheels.
+4.2. Aerobic vs. Anaerobic Exercise: The Effects on Heart Function and Cardiovascular Health
+Both aerobic and anaerobic exercise are important for optimal health. As previously
+mentioned, aerobic metabolism, known as “cardio”, generates more adenosine three phos-
+Medicina 2023 ,59, 1995 14 of 16
+phate (ATP) and relies more on oxygen, while anaerobic metabolism does not need oxygen
+but creates two ATP molecules per one molecule of glucose [ 32]. The optimization of the
+physiological mechanisms of exercise and their subsequent impact on cardiovascular health
+remains a subject of ongoing uncertainty, both in animal models and clinical practice.. Good
+models of exercise testing are animal studies. In most cases, animal-based cardiovascular
+exercise modalities include treadmill running, swimming, and voluntary wheel running
+with a series of intensities, times, and durations [ 38–41]. Those using animals include small
+rodents (e.g., mice and rats) and large animals (e.g., rabbits, dogs, goats, sheep, pigs, and
+horses). Depending on the research goal, each experimental protocol should also describe
+whether its respective exercise treatment can produce the anticipated acute or chronic
+cardiovascular adaptive response [38,40].
+Kent et al. [ 42] presented multiple lines of cardiovascular discovery using exercise
+models that were initiated in animals as the fundamental step for designing and testing
+explicit hypotheses in humans. One of those types is our study.
+In our study, we evaluated the differences in the aerobic and anaerobic physical
+training in both modalities, swimming and running, in relation to the preconditioning
+of heart function. We conﬁrmed that the anaerobic running protocol strongly induces an
+increased contractility in rat hearts (increasing the dp/dt max and dp/dt min), while the
+aerobic swimming protocol was more powerful in comparison with the aerobic running
+(Figures 1–6). Our report is a good way to present an overall picture of scientiﬁc research
+studies using animal models with a focus on the different training modalities that we
+examined. One thing is certain, the tested groups exhibit varying exercise capacities and
+maximum oxygen uptake, leading to divergent results in cardiac contractility.. Geenen
+and colleagues compared aerobic training to anaerobic training and found that multiple
+training-induced cardiovascular and hormonal adaptations produced in the rat differed
+signiﬁcantly [ 39,42]. Anaerobic training (HIIT) increased maximal exercise performance
+and reduced the blood lactate responses more compared with free-wheel or aerobic running.
+These differential cardiovascular, skeletal muscle, and metabolic training responses across
+the three exercise modalities should be considered carefully, especially in comparison to
+the aerobic protocols of swimming and running.
+Very interestingly, heart rate was signiﬁcantly reduced in both swimming training
+groups after the ischemia period. On the other hand, the anaerobic running protocol caused
+a signiﬁcant decrease in heart rate compared to the aerobic running and sedentary groups
+(Figure 5, Table 5). Finally, with the coronary circulation parameter—coronary ﬂow—we
+measured the ﬂow metrically and for each point manually. We observed that the anaerobic
+swimming training caused a decrease in heart rate in the R period compared to the aerobic
+and control groups. On the contrary, running both aerobically and anaerobically caused a
+significant decrease in heart rate during the R period compared to the CTRL group (Figure 6,
+Table 6).
+These interesting results (that anaerobic running training decreased heart rate and
+anaerobic swimming training reduced coronary ﬂow) occur due to all the previously
+mentioned differences in the physiological heart response to aerobic/anaerobic physical
+training [37–41,43].
+5. Conclusions
+All data from this experimental study support many training effects: improved con-
+tractility, resting heart rate, and increased physical work capacity and exercise tolerance.
+Anaerobic running physical training induces greater heart preconditioning to reperfusion
+injury in comparison with anaerobic swimming training. The physiological response with
+aerobic swimming physical training is more valuable for improving exercise tolerance
+and coronary circulation. Future directions for testing the preconditions strategies will be
+focused on testing the effects of adjuvant antioxidant agents in combination with different
+physical training protocols.
+Medicina 2023 ,59, 1995 15 of 16
+Author Contributions: M.G., K.M., M.N., M.V . and N.V .C.: conceptualization, methodology, software,
+and validation; T.N.T., B.P ., L.S., L.E.Y., V .P .F. and M.J.: formal analysis, investigation, resources, data
+curation, writing—original draft preparation, writing—review and editing, and visualization; V .Z.,
+V .J. and S.B.: supervision, project administration, and funding acquisition. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This study was supported by a fund from the Faculty of Medical Sciences, University of
+Kragujevac, Junior Project 15/20.
+Institutional Review Board Statement: The study was conducted in accordance with the ethi-
+cal standards of Good Laboratory Practice. The study was approved by the Ethics Committee
+for the Welfare of experimental animals, Faculty of Medical Sciences, University of Kragujevac,
+(No. 01-10540/3, date of approval 3 October 2022).
+Informed Consent Statement: Not applicable.
+Data Availability Statement: All data collected during the study are available on written request
+immediately after publication, with no end date by editorial staff, medical staff, or participants who
+participated in research.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Balakumar, P .; Maung-U, K.; Jagadeesh, G. Prevalence and prevention of cardiovascular disease and diabetes mellitus. Pharmacol.
+Res. 2016 ,113, 600–609. [CrossRef]
+2. Nowbar, A.N.; Gitto, M.; Howard, J.P .; Francis, D.P .; Al-Lamee, R. Mortality From Ischemic Heart Disease. Circ. Cardiovasc. Qual.
+Outcomes 2019 ,12, e005375. [CrossRef] [PubMed]
+3. Patterson, S.W.; Starling, E.H. On the mechanical factors which determine the output of the ventricles. J. Physiol. 1914 ,48, 357–379.
+[CrossRef] [PubMed]
+4. Alizadeh Pahavani, H.; Rajabi, H.; Nabiuni, M.; Motamedi, P .; Khaledi, N.; Tayanloo, A. The Effect of Aerobic Exercise with
+Medium and High Intensity on the Gene Expression of Bax (BCL2 Associated X) and Bcl-2 (B-Cell Lymphoma 2) Markers in Rat
+Myocard After Ischemic-Reperfusion. Sport Physiol. 2020 ,12, 31–44.
+5. Von Harsdorf, R.; Li, P .F.; Dietz, R. Signaling pathways in reactive oxygen species-induced cardiomyocyte apoptosis. Circulation
+1999 ,99, 2934–2941. [CrossRef]
+6. Dong, Y.; Chen, H.; Gao, J.; Liu, Y.; Li, J.; Wang, J. Molecular machinery and interplay of apoptosis and autophagy in coronary
+heart disease. J. Mol. Cell Cardiol. 2019 ,136, 27–41. [CrossRef] [PubMed]
+7. Xia, P .; Liu, Y.; Cheng, Z. Signaling Pathways in Cardiac Myocyte Apoptosis. BioMed Res. Int. 2016 ,2016 , 9583268. [CrossRef]
+8. Ishida, T.; Yarimizu, K.; Gute, D.C.; Korthuis, R.J. Mechanisms of ischemic preconditioning. Shock 1997 ,8, 86–94. [CrossRef]
+9. Gross, E.R.; Gross, G.J. Ischemic Preconditioning And Myocardial Infarction: An Update and Perspective. Drug Discov. Today Dis.
+Mech. 2007 ,4, 165–174. [CrossRef]
+10. Wang, H.; Xie, Y.; Guan, L.; Elkin, K.; Xiao, J. Targets identiﬁed from exercised heart: Killing multiple birds with one stone. Npj
+Regen. Med. 2021 ,6, 23. [CrossRef]
+11. Wu, M.Y.; Yiang, G.T.; Liao, W.T.; Tsai, A.P .; Cheng, Y.L.; Cheng, P .W.; Li, C.Y.; Li, C.J. Current Mechanistic Concepts in Ischemia
+and Reperfusion Injury. Cell Physiol. Biochem. 2018 ,46, 1650–1667. [CrossRef] [PubMed]
+12. Li, W.A.; Ding, Y. Cardiac preconditioning and cardiovascular diseases. Heart Mind 2017 ,1, 17–21. [CrossRef]
+13. Huang, C.-Y .; Yang, A.-L.; Lin, Y .-M.; Wu, F.-N.; Lin, J.A.; Chan, Y .-S.; Tsai, F.-J.; Tsai, C.-H.; Kuo, C.-H.; Lee, S.-D.; et al. Anti-apoptotic
+and pro-survival effects of exercise training on hypertensive hearts. J. Appl. Physiol. 2012 ,112, 883–891. [CrossRef] [PubMed]
+14. Zhao, D.; Sun, Y.; Tan, Y.; Zhang, Z.; Hou, Z.; Gao, C.; Feng, P .; Zhang, X.; Yi, W.; Gao, F. Short-Duration Swimming Exercise after
+Myocardial Infarction Attenuates Cardiac Dysfunction and Regulates Mitochondrial Quality Control in Aged Mice. Oxid. Med.
+Cell. Longev. 2018 ,2018 , 4079041. [CrossRef] [PubMed]
+15. Wilmore, J.H. Aerobic exercise and endurance: Improving fitness for health benefits. Phys. Sportsmed. 2003 ,31, 45–51. [CrossRef]
+[PubMed]
+16. Khot, U.N.; Khot, M.B.; Bajzer, C.T.; Sapp, S.K.; Ohman, E.M.; Brener, S.J.; Ellis, S.G.; Lincoff, A.M.; Topol, E.J. Prevalence of
+conventional risk factors in patients with coronary heart disease. JAMA 2003 ,290, 898–904. [CrossRef]
+17. Gul, M.; Demircan, B.; Taysi, S.; Oztasan, N.; Gumustekin, K.; Siktar, E.; Polat, M.F.; Akar, S.; Akcay, F.; Dane, S. Effects of
+endurance training and acute exhaustive exercise on antioxidant defense mechanisms in rat heart. Comp. Biochem. Physiol. A Mol.
+Integr. Physiol. 2006 ,143, 239–245. [CrossRef]
+18. Bowles, D.K.; Farrar, R.P .; Starnes, J.W. Exercise training improves cardiac function after ischemia in the isolated, working rat
+heart. Am. J. Physiol. 1992 ,263, H804–H809. [CrossRef]
+19. Liu, J.; Yeo, H.C.; Overvik-Douki, E.; Hagen, T.; Doniger, S.J.; Chyu, D.W.; Brooks, G.A.; Ames, B.N. Chronically and acutely
+exercised rats: Biomarkers of oxidative stress and endogenous antioxidants. J. Appl. Physiol. 2002 ,92, 34–43. [CrossRef]
+Medicina 2023 ,59, 1995 16 of 16
+20. Yilmaz, N. Relationship between paraoxonase and homocysteine: Crossroads of oxidative diseases. Arch. Med. Sci. 2012 ,
+8, 138–153. [CrossRef]
+21. Augustyniak, A.; Skrzydlewska, E. Zdolno´ sci antyoksydacyjne w starzejacym sie organizmie [Antioxidative abilities during
+aging]. Postepy Hig. Med. Dosw. 2004 ,58, 194–201.
+22. Lubkowska, A.; Doł˛ egowska, B.; Szyguła, Z. Whole-body cryostimulation–potential beneﬁcial treatment for improving antioxi-
+dant capacity in healthy men–signiﬁcance of the number of sessions. PLoS ONE 2012 ,7, e46352. [CrossRef]
+23. Freimann, S.; Scheinowitz, M.; Yekutieli, D.; Feinberg, M.S.; Eldar, M.; Kessler-Icekson, G. Prior exercise training improves the
+outcome of acute myocardial infarction in the rat. Heart structure, function, and gene expression. J. Am. Coll. Cardiol. 2005 ,
+45, 931–938. [CrossRef]
+24. Plecevic, S.; Jakovljevic, B.; Savic, M.; Zivkovic, V .; Nikolic, T.; Jeremic, J.; Milosavljevic, I.; Srejovic, I.; Tasic, N.; Djuric, D.; et al.
+Comparison of short-term and medium-term swimming training on cardiodynamics and coronary ﬂow in high salt-induced
+hypertensive and normotensive rats. Mol. Cell Biochem. 2018 ,447, 33–45. [CrossRef]
+25. Döring, H.J. The isolated perfused heart according to Langendorff technique--function--application. Physiol. Bohemoslov. 1990 ,
+39, 481–504. [PubMed]
+26. Available online: https://www.oecd.org/chemicalsafety/testing/good-laboratory-practiceglp.htm (accessed on 21 October 2023).
+27. Godoy, G.; Travassos, P .B.; Antunes, M.M.; Iwanaga, C.C.; S á-Nakanishi, A.B.; Curi, R.; Comar, J.F.; Bazotte, R.B. Strenuous
+swimming raises blood non-enzymatic antioxidant capacity in rats. Braz. J. Med. Biol. Res. 2022 ,55, e11891. [CrossRef]
+28. Prokic, V .; Plecevic, S.; Bradic, J.; Petkovic, A.; Srejovic, I.; Bolevich, S.; Jeremic, J.; Bolevich, S.; Jakovljevic, V .; Zivkovic, V . The
+impact of nine weeks swimming exercise on heart function in hypertensive and normotensive rats: Role of cardiac oxidative
+stress. J. Sports Med. Phys. Fit. 2019 ,59, 2075–2083. [CrossRef] [PubMed]
+29. Nikolic, T.; Zivkovic, V .; Jevdjevic, M.; Djuric, M.; Srejovic, I.; Djuric, D.; Jeremic, N.; Djuric, D.; Bolevich, S.; Jakovljevic, V . The
+effects of chronic administration of nandrolone decanoate on redox status in exercised rats. Mol. Cell Biochem. 2016 ,411, 95–105.
+[CrossRef] [PubMed]
+30. Rankovic, M.; Jakovljevic, V .; Bradic, J.; Jakovljevic, B.; Zivkovic, V .; Srejovic, I.; Bolevich, S.; Milosavljevic, I.; Jeremic, J.; Ravic, M.; et al.
+Effects of High Intensity Interval vs. Endurance Training on Cardiac Parameters in Ischemia/Reperfusion of Male Rats: Focus.
+on Oxidative Stress. Front. Physiol. 2021 ,12, 534127. [CrossRef] [PubMed]
+31. Zimmer, H.G. The Isolated Perfused Heart and Its Pioneers. News Physiol. Sci. 1998 ,13, 203–210. [CrossRef]
+32. Hastings, M.H.; Herrera, J.J.; Guseh, J.S.; Atlason, B.; Houstis, N.E.; Kadir, A.A.; Li, H.; Shefﬁeld, C.; Singh, A.P .; Roh, J.D.; et al.
+Animal Models of Exercise From Rodents to Pythons. Circ. Res. 2022 ,130, 1994–2014. [CrossRef] [PubMed]
+33. Serra, L.; Petrosini, L.; Mandolesi, L.; Bonarota, S.; Balsamo, F.; Bozzali, M.; Caltagirone, C.; Gelfo, F. Walking, Running, Swimming:
+An Analysis of the Effects of Land and Water Aerobic Exercises on Cognitive Functions and Neural Substrates. Int. J. Environ. Res.
+Public Health 2022 ,19, 16310. [CrossRef] [PubMed]
+34. Borlaug, B.A.; Olson, T.P .; Lam, C.S.; Flood, K.S.; Lerman, A.; Johnson, B.D.; Redﬁeld, M.M. Global cardiovascular reserve
+dysfunction in heart failure with preserved ejection fraction. J. Am. Coll. Cardiol. 2010 ,56, 845–854. [CrossRef] [PubMed]
+35. Pugliese, N.R.; De Biase, N.; Conte, L.; Gargani, L.; Mazzola, M.; Fabiani, I.; Natali, A.; Dini, F.L.; Frumento, P .; Rosada, J.; et al.
+Cardiac reserve and exercise capacity: Insights from combined cardiopulmonary and exercise echocardiography stress testing.
+J. Am. Soc. Echocardiogr. 2021 ,34, 38–50. [CrossRef]
+36. Portier, H.; Benaitreau, D.; Pallu, S. Does Physical Exercise Always Improve Bone Quality in Rats? Life2020 ,10, 217. [CrossRef]
+37. Zhou, Q.; Deng, J.; Yao, J.; Song, J.; Meng, D.; Zhu, Y.; Xu, M.; Liang, Y.; Xu, J.; Sluijter, J.P .; et al. Exercise downregulates HIPK2
+and HIPK2 inhibition protects against myocardial infarction. EBioMedicine 2021 ,74, 103713. [CrossRef]
+38. Baptista, S.; Piloto, N.; Reis, F.; Teixeira-de-Lemos, E.; Garrido, A.P .; Dias, A.; Lourenço, M.; Palmeiro, A.; Ferrer-Antunes, C.;
+Teixeira, F. Treadmill running and swimming imposes distinct cardiovascular physiological adaptations in the rat: Focus on
+serotonergic and sympathetic nervous systems modulation. Acta Physiol. Hung. 2008 ,95, 365–381. [CrossRef]
+39. Geenen, D.; Buttrick, P .; Scheuer, J. Cardiovascular and hormonal responses to swimming and running in the rat. J. Appl. Physiol.
+1988 ,65, 116–123. [CrossRef]
+40. Thu, V .T.; Kim, H.K.; Han, J. Acute and Chronic Exercise in Animal Models. Adv. Exp. Med. Biol. 2017 ,999, 55–71.
+41. Kelly, S.A.; Rezende, E.L.; Chappell, M.A.; Gomes, F.R.; Kolb, E.M.; Malisch, J.L.; Rhodes, J.S.; Mitchell, G.S.; Garland, T., Jr.
+Exercise training effects on hypoxic and hypercapnic ventilatory responses in mice selected for increased voluntary wheel running.
+Exp. Physiol. 2014 ,99, 403–413. [CrossRef]
+42. Kent, J.A.; Ørtenblad, N.; Hogan, M.C.; Poole, D.C.; Musch, T.I. No muscle is an island: Integrative perspectives on muscle
+fatigue. Med. Sci. Sports Exerc. 2016 ,48, 2281–2293. [CrossRef] [PubMed]
+43. Börzsei, D.; Szab ó, R.; Hoffmann, A.; Harmath, A.; Sebesty én, J.; Osman, J.; Juh ász, B.; Priksz, D.; Varga, C.; P ósa, A. Multiple
+Applications of Different Exercise Modalities with Rodents. Oxid. Med. Cell. Longev. 2021 ,2021 , 3898710. [CrossRef] [PubMed]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

@@ -1,0 +1,631 @@
+Journal of Athletic Training 2023;58(2):185–192
+doi: 10.4085/1062-6050-0658.21
+/C211by the National Athletic Trainers’ Association, Inc
+www.natajournals.orgInjury Epidemiology
+Intrinsic Risk Factors for Noncontact Musculoskeletal
+Injury in Collegiate Swimmers: A Prospective Cohort
+Study
+Travis R. Pollen, PhD*; Meghan Warren, PhD, MPH, PT‡;
+David Ebaugh, PhD, PT§; Jennifer A. Taylor, PhD, MPH†;Sheri P. Silfies, PhD, PT||
+*Department of Physical Therapy and Rehabilitation Sciences and †Department of Environmental and Occupational
+Health, Dornsife School of Public Health, Drexel University, Philadelphia, PA; ‡Department of Physical Therapy andAthletic Training, Northern Arizona University, Flagstaff; §Department of Physical Therapy, University of Delaware,Newark; ||Department of Exercise Science, University of South Carolina, Columbia. Dr Warren is now at Patient-Centered Outcomes Research Institute, Washington, DC.
+Context: Shoulder pain is pervasive in swimmers of all
+ages. However, given the limited number of prospective studies,
+injury risk factors in swimmers remain uncertain.
+Objective: To determine the extent to which the risk factors
+of previous injury, poor movement competency, erroneous
+freestyle swimming technique, and low perceived susceptibilityto sport injury were associated with noncontact musculoskeletal
+injury in collegiate swimmers.
+Design: Prospective cohort study.
+Setting: College natatorium.
+Patients or Other Participants: Thirty-seven National
+College Athletic Association Division III swimmers (21 females,
+16 males; median age ¼19 years [interquartile range ¼3 years],
+height ¼175610 cm; mass ¼70.0610.9 kg).
+Main Outcome Measure(s): Participants completed pre-
+season questionnaires on their previous injuries and perceivedsusceptibility to sport injury. At the beginning of the season, they
+completed the Movement System Screening Tool and the
+Freestyle Swimming Technique Assessment. Logistic regres-sion was used to calculate odds ratios (ORs) with 95% CIs for
+the association between each risk factor and injury.
+Results: Eleven of the 37 participants (29.7%) sustained an
+injury. Univariate analyses identified 2 risk factors: previous
+injury (OR ¼8.89 [95% CI ¼1.78, 44.48]) and crossover hand
+positions during the freestyle entry phase (OR ¼8.50 [95% CI ¼
+1.50, 48.05]). After adjusting for previous injury, we found that a
+higher perceived percentage chance of injury (1 item from the
+Perceived Susceptibility to Sport Injury) decreased the injuryodds (adjusted OR ¼0.11 [95% CI ¼0.02, 0.82]). Poor
+movement competency was not associated with injury ( P..05).
+Conclusions: Previous injury, a crossover hand-entry
+position in freestyle, and a low perceived percentage chanceof injury were associated with increased injury odds. Ascertain-
+ing injury histories and assessing for crossover positions may
+help identify swimmers with an elevated injury risk and informinjury-prevention strategies.
+Key Words: athletic injuries, shoulder pain, freestyle swim-
+ming
+Key Points
+/C15Swimmers who exhibited a crossover hand position during the hand-entry phase of the freestyle stroke had 8.5
+times higher odds of injury.
+/C15After adjusting for previous injury, we observed that the odds of injury increased almost 9-fold for every 1-pointdecrease in the perceived percentage chance of injury.
+/C15Poor movement competency as measured using the Movement System Screening Tool was not a risk factor forinjury.
+As many as 9 in 10 competitive swimmers aged 13
+to 25 years report shoulder pain.1This high
+prevalence is plausible given the high training
+loads and repetitive stress of the sport.1For example, at the
+collegiate level, swimmers can train 6 to 7 sessions per
+week for a total of .23 km.2Given the predominant
+overuse mechanism of injury at the collegiate level,3,4many
+swimming injuries may be preventable. To reduce the
+incidence of swimming injuries, we must identify risk
+factors.5The current evidence for risk factors in swimmerslacks certainty because of a paucity of prospective studies.6
+Authors2,7of 2 prospective studies identiﬁed previous
+injury as a risk factor for future pain or injury, but authors8
+of 1 study found no relationship between previous andfuture shoulder pain. In several prospective investigations,researchers
+7–12found associations between various mea-
+sures of shoulder strength, endurance, or range of motion
+(ROM) and injury across age groups.
+Many potential risk factors for injury have not been
+examined prospectively in swimmers. For example, poor
+Journal of Athletic Training 185Downloaded from http://meridian.allenpress.com/jat/article-pdf/58/2/185/3206580/i1938-162x-58-2-185.pdf by guest on 12 August 2024
+
+movement competency (ie, the inability to execute key
+sporting movements) has been identiﬁed as a risk factoracross sports.
+13–15Although swimmers have participated in
+these multisport samples,13–15no researchers have assessed
+the relationship between movement competency and injury
+in swimmers alone. In addition, despite the widespread
+belief that poor swimming technique increases injuryrisk,
+16–18the authors12of only 1 peer-reviewed prospective
+study have investigated this relationship. Finally, despite
+the well-documented role that psychosocial factors play in
+injury,19–21no prospective study of swimmers has been
+conducted to assess a psychosocial measure.
+Additional prospective studies are needed to better
+understand risk factors for swimming injuries, particularly
+in collegiate swimmers, who have been the subject of only
+2 prospective studies.2,10Many researchers have restricted
+their investigations to shoulder injuries.7–12However, at the
+collegiate level, most injuries (an estimated 65% to 70%)
+affect body regions other than the shoulders.3,4Therefore,
+we conducted a prospective study of collegiate swimmers
+to determine the extent to which 4 intrinsic risk factors
+were associated with noncontact musculoskeletal injury
+throughout the body. These risk factors were previous
+injury, poor movement competency, erroneous freestyleswimming technique, and low perceived susceptibility to
+injury. We hypothesized that each risk factor would be
+associated with increased odds of injury.
+METHODS
+Participants
+A total of 41 National College Athletic Association
+(NCAA) Division III swimmers from 1 men’s team and 1women’s team took part in this prospective cohort study.
+We recruited participants during a preseason team meeting
+and included them in the study if they were /C2118 years old
+and medically cleared to engage in sport. We excluded
+those who could not speak English or provide consent. This
+study was conducted in parallel with another study
+involving the same participants in which we investigatedthe relationship between workload and injury.
+22We
+calculated the sample size for this study based on the need
+for a minimum of 10 injuries to perform logistic
+regression.23Given the injury incidence for the team from
+the previous season (27%), the calculation yielded aminimum of 37 participants. All participants provided
+informed consent, and the Drexel University Institutional
+Review Board approved this study (1806006428A001).
+Procedures
+During the preseason, participants completed a question-
+naire on their injury history and the Perceived Susceptibil-ity to Sport Injury (PSSI) instrument via the Research
+Electronic Data Capture web application (REDCap;
+Vanderbilt University). Excerpts of the injury history
+questionnaire and the PSSI questionnaire are provided in
+Supplemental Figures 1 and 2, respectively. The injury
+history questionnaire asked participants to describe all
+injuries they had sustained in the past 5 years for 11 bodyregions from head to feet. Although the injury history
+questionnaire has not been validated, the lead author
+(T.R.P.) created it with input from coauthors (M.W. andJ.A.T.) with expertise in injury epidemiology. In the
+preseason questionnaire, participants also answered 4questions on the PSSI.
+24,25On 5-point Likert-type scales,
+they rated their (1) chance of injury (belief), (2)susceptibility to injury (feeling), (3) percentage chance ofinjury (numeric), and (4) chance of injury compared withteammates (comparative). They also answered a questionabout their perceived ability to reduce risk (preventability).The sum of the responses to the ﬁrst 4 questions yielded atotal score for the PSSI out of 20.
+24In a previous study of
+collegiate student-athletes, Gnacinski et al25conﬁrmed the
+factorial validity of the PSSI total score.
+During the ﬁrst week of the season, participants
+completed the Movement System Screening Tool (MSST),
+a recently developed movement competency assessment.26
+The original version of the MSST consisted of 16
+component tests (MSST16). For the present study, weexcluded 2 of the component tests, namely, the side bridgewith active hip abduction and clinical core control test,because of poor construct validity and poor known-groupvalidity, respectively.
+26,27We also modiﬁed the names of
+some MSST16 test items for the 14-item version of theMSST (MSST14) to reﬂect the names commonly used inthe literature. In this study, participants completed theMSST14 in groups of 8 to 11 in circuit fashion. Ninephysical therapists (including D.E. and S.P.S.), 4 doctoralstudents, and 1 undergraduate student with various degreesof experience each rated 1 component test of the MSST14.Raters underwent 1 training session with the lead author forthe test they administered. During data collection, the leadauthor periodically audited each rater to ensure dataﬁdelity. For the MSST16, interrater reliability was
+moderate to perfect for the component scores and excellent
+for the total score (intraclass correlation coefﬁcient [ICC](2,1)¼0.94; 95% CI ¼0.91, 0.96).
+26Although we did not
+assess the reliability of our raters, previous researchers28–30
+investigating movement competency reported minimaldifferences in reliability among raters with various levelsof experience. We administered and scored the MSST14 asdescribed earlier.
+26We scored 7 of the component tests
+qualitatively on a 4-point (range ¼0–3 points) ordinal scale.
+We scored the other 7 tests on continuous scales (eg,distance, ROM, time, and number of repetitions) andconverted the scores to a 4-point (range ¼0–3 points)
+ordinal scale based on performance relative to normativedata.
+26Higher scores denoted better performance, and a
+score of zero denoted pain during a test, regardless ofperformance. Nine of the 14 tests were bilateral, yielding amaximum total score of 69 points.
+26The MSST14 testing
+required 1 hour per group.
+Over the ﬁrst month of the season, we conducted the
+Freestyle Swimming Technique Assessment (FSTA) duringnormal swim practice (Figure 1).
+31The FSTA detects the
+presence of 7 errors in freestyle technique that may exposethe shoulder to provocative positions.
+16,18We adapted the
+FSTA for real-time, poolside use based on previouslydescribed methods involving above- and underwatercameras.
+16,18The test-retest reliability of the individual
+errors and total score have been reported as moderate (ICC[3,1]¼0.68; 95% CI ¼0.43, 0.83).
+31In this study, we
+modiﬁed the interpretation of the arm recovery errorcompared with our earlier examination of reliability.
+31
+Given that we focused on injury risk in this study, we
+186 Volume 58 /C15Number 2 /C15February 2023Downloaded from http://meridian.allenpress.com/jat/article-pdf/58/2/185/3206580/i1938-162x-58-2-185.pdf by guest on 12 August 2024
+
+considered a high-elbow recovery to be an error. A high-
+elbow recovery has the potential to put the glenohumeral
+joint into a position of end-range internal rotation (Figure
+1), whereas a straight-arm recovery (wrist higher thanelbow) tends to avoid this error.
+16To minimize observer
+effects, participants were not aware of when they were
+being assessed. The lead author, a doctoral student in healthand rehabilitation sciences and a former collegiate
+swimmer with 7 years of swimming experience, served as
+the rater. Six of the 7 errors were bilateral, resulting in a
+maximum total error score of 13.
+Throughout the season, the swim coach reported injuries
+every 2 weeks. We deﬁned an injury as any noncontact
+musculoskeletal pain that resulted from team activities and
+prevented the swimmer from participating in a competitionor at least 50% of 1 practice as prescribed. Because
+swimmers often continue training despite pain,
+17we
+deﬁned injury this way to include pain that substantially
+interfered with participation. This deﬁnition is comparable
+with the deﬁnition of interfering shoulder pain in a previousprospective study,
+7only with a precise interference
+threshold (50%). Injured participants (based on the
+coaches’ report) veriﬁed the injury, mechanism, andseverity via REDCap. In addition, at the midpoint and
+end of the season, participants described any injuries they
+had not reported earlier. Although electronic medical
+records are the norm for NCAA injury surveillance,
+32the
+college’s athletic trainers discouraged querying theirrecords because of the potential for underreporting. The
+variables collected during the 2018–2019 season are
+summarized in Figure 2.
+Data and Statistical Analysis
+We assessed differences in demographics between
+swimmers who did and those who did not sustain an injury
+using the Fisher exact test (sex and training group), Mann-
+Whitney Utest (age, months per year swum, and weekly
+training volume), and independent-samples ttest (height,
+body mass, body mass index, and swimming experience).
+We investigated 4 risk factors: previous injury and total
+scores on the MSST14, FSTA, and PSSI. We used
+univariate logistic regression to assess the associationsbetween the 4 risk factors (independent variables) and
+noncontact musculoskeletal injury (binary dependent var-iable). To ensure the relevance and severity of previous
+injuries, we considered only musculoskeletal injuries from
+the 2 years before the study, regardless of injurymechanism, that either caused in-season time loss oroccurred during the off-season. We included earlier injuriesfrom non–swimming-related activities because of theirpotential to affect swimming (eg, a previous anteriorcruciate ligament tear affecting the breaststroke kick). Weincluded off-season injuries to be conservative because theseverity of those injuries could not be characterized basedon time loss.
+To identify a subset of items that could be used to
+determine injury risk, we also conducted univariate logisticregression to assess the associations between each MSST14
+component test, FSTA error, and PSSI question and injury.
+For bilateral MSST14 component tests, the lower of thescores for the left and right sides of the body constituted thecomponent test score. We used odds ratios (ORs) with 95%CIs to compare low scores (0 or 1) with high scores (2 or 3).For FSTA errors, scores represented the number of sides onwhich the error was present (ie, 0, 1, or 2). We used ORs tocompare an error on either or both sides (score ¼1o r2 )
+with no error (score ¼0). We treated PSSI responses (range
+¼1–5) as ordinal data. To assess for confounding, we
+calculated a point-biserial correlation coefﬁcient ( r
+pb)t o
+determine the correlation between previous injury and PSSImeasures. For PSSI measures that were correlated withprevious injury, we used multiple logistic regression toassess the possibility that prior injury confounded theassociation between PSSI and injury (based on a change incrude to adjusted OR of at least 10%). Additionally, wecalculated the sensitivity and speciﬁcity of dichotomizedrisk factors that were statistically signiﬁcant. The mean 6
+SD was used to describe normally distributed data, and the
+median (interquartile range [IQR]) was used to describe
+data that were not normally distributed. We used SPSS(version 24.0; IBM Corp) for all statistical analyses. The a
+level was set at .05.
+RESULTS
+Before the halfway point of the season, 4 participants
+withdrew from the team (reasons not disclosed to theresearchers), leaving a sample size of 37. The swim coach
+reported injuries every 2 weeks. Participants returned 95%
+(140/148) of the 4 in-season injury questionnaires we sentvia REDCap. Of the 37 participants, 11 (29.7%) sustainedan injury. We found no differences in demographics,training groups, months per year swum, weekly trainingvolume,
+22or swimming experience between swimmers who
+did and those who did not sustain an injury (Table 1). Seveninjuries were to the shoulder (3 right, 4 left), 3 were to theFigure 2. Overview of the risk factors and outcomes assessed
+over the course of the season.
+Figure 1. Errors assessed in the Freestyle Swimming Technique
+Assessment.
+Journal of Athletic Training 187Downloaded from http://meridian.allenpress.com/jat/article-pdf/58/2/185/3206580/i1938-162x-58-2-185.pdf by guest on 12 August 2024
+
+back or sacroiliac joint, and 1 was to the knee. The
+participants self-reported overuse mechanisms for all but 1
+injury (a sacroiliac joint strain that occurred while
+stretching). The median number of affected participation
+days was 2 (range ¼1 day to 2 weeks).
+Injury History
+On the injury history questionnaire, 14 individuals
+described a musculoskeletal injury in the previous 2 years
+(11 in-season, 3 off-season). Of those 14, 8 sustained an
+injury in the current season (3 to the same body region, 5 to
+other regions). The odds of injury in the current season
+were 8.89 times higher (95% CI ¼1.78, 44.48) in those with
+an earlier injury than in those with no earlier injury. The
+sensitivity and speciﬁcity of previous injury for injury
+prediction were 0.73 (95% CI ¼0.39, 0.94) and 0.77 (95%
+CI¼0.56, 0.91), respectively.
+Movement System Screening Tool
+On the MSST14, the mean 6SD score was 48 68 for
+participants who sustained an injury compared with 45 66
+for injury-free participants. Neither the MSST14 total
+scores (OR ¼1.06 [95% CI ¼0.95, 1.18]) nor the
+component tests were associated with injury ( P..05;
+Table 2). Given that the ﬁndings at the component level
+were not signiﬁcant, we could not identify a subset of
+component MSST tests for injury-risk appraisal.
+Freestyle Swimming Technique Assessment
+On the FSTA, the mean 6SD score was 4 61 for
+individuals who sustained an injury compared with 3 62
+for injury-free individuals. The FSTA total scores were not
+associated with injury (OR ¼1.26 [95% CI ¼0.79, 2.01]).
+However, swimmers who exhibited a crossover hand
+position during the hand-entry phase of the freestyle stroke
+(n¼9; 4 unilateral, 5 bilateral) on 1 or both sides had
+higher odds of injury (OR ¼8.50 [95% CI ¼1.50, 48.05])than swimmers whose hands entered the water lateral to
+their midline. The sensitivity and speciﬁcity of thecrossover hand position for injury prediction were 0.82(95% CI ¼0.48, 0.97) and 0.65 (95% CI ¼0.44, 0.83],
+respectively. None of the other FSTA errors wereassociated with injury ( P..05; Table 3).
+Perceived Susceptibility to Sport Injury
+The mean 6SD PSSI score was 11 63 for participants
+who sustained an injury compared with 12 63 for injury-
+free participants. Neither the PSSI total score (OR ¼0.94
+[95% CI ¼0.74, 1.19]) nor any of the individual PSSI item
+scores were associated with injury in univariate models ( P
+..05; Table 4). However, we observed correlations
+between previous injury and PSSI total score ( rpb¼0.34, P
+¼.03) and previous injury and PSSI score ( rpb¼0.42, P¼
+.01). After adjusting for previous injury, we still found no
+association between the PSSI total score and injury
+(adjusted OR ¼0.75 [95% CI ¼0.54, 1.06]). Nonetheless,
+in the adjusted model, swimmers with higher numericPSSI scores had decreased odds of injury (adjusted OR ¼
+0.11 [95% CI ¼0.02, 0.82]). Expressed in the reciprocal,
+in the adjusted model, swimmers with lower numeric PSSI
+scores had increased odds of injury (adjusted OR ¼8.80
+[95% CI ¼1.21, 63.71]).Table 1. Participant Characteristics
+VariableStudent-Athletes
+PValueUninjured
+(n¼26)Injured
+(n¼11)
+Sex, No. .29a
+Male 13 3
+Female 13 8
+Training group ..99a
+Sprint 14 6
+Mid-distance 5 2
+Distance 7 3
+Median (interquartile range)
+Age, y 19 (3) 19 (3) .91b
+Time swimming, mo/y 10 (3) 10 (4) .93b
+Training volume, km/wk 24.4 (4) 23.7 (2) .66b
+Mean6SD
+Height, cm 175 611 173 69 .60c
+Body mass, kg 70.2 610.0 69.4 613.5 .85c
+Body mass index 22.8 62.2 22.9 62.8 .85c
+Swimming experience, y 10 631 2 62 .12c
+aFisher exact test.
+bMann-Whitney Utest.
+cIndependent-samples ttest.Table 2. Associations Between the 14-Item Movement System
+Screening Tool Total Score and Component Tests and Noncontact
+Musculoskeletal Injury
+Risk Factor ScoreOdds Ratio
+(95% CI)
+Total score 0–69 1.06 (0.95, 1.18)
+Active straight-leg raise 0, 1 0.33 (0.04, 3.16)
+2, 3 Referent
+Unilateral hip-bridge endurance 0, 1 1.14 (0.28, 4.70)
+2, 3 Referent
+Rotary stabilityaNA NA
+Trunk flexion and extension mobility 0, 1 0.51 (0.11, 2.38)
+2, 3 Referent
+Shoulder mobility 0, 1 1.55 (0.35, 6.98)
+2, 3 Referent
+Glenohumeral internal rotation deficit 0, 1 0.71 (0.17, 2.94)
+2, 3 Referent
+Scapular dyskinesis 0, 1 2.06 (0.38, 11.31)
+2, 3 Referent
+Hurdle stepaNA NA
+Closed kinetic chain upper extremity
+stability test0, 1 1.57 (0.38, 6.62)
+2, 3 Referent
+Deep squatb0, 1 1.02 (0.21, 4.97)2, 3 Referent
+Double-legged lowering test 0, 1 0.71 (0.17, 2.94)
+2, 3 Referent
+Step-down 0, 1 0.11 (0.01, 1.18)
+2, 3 Referent
+Single-legged hop for distance
+b0, 1 0.44 (0.11, 1.85)
+2, 3 Referent
+Y-Balance test: anterior reachb0, 1 0.42 (0.04, 4.09)2, 3 Referent
+Abbreviation: NA, not applicable.
+aInsufficient variability in scores to compute (see Supplementary
+Table 1 for score frequencies).
+bThe name of the instrument26item was modified for the Movement
+System Screening Tool 14 to reflect the name commonly used in
+the literature.
+188 Volume 58 /C15Number 2 /C15February 2023Downloaded from http://meridian.allenpress.com/jat/article-pdf/58/2/185/3206580/i1938-162x-58-2-185.pdf by guest on 12 August 2024
+
+DISCUSSION
+The purpose of our study was to determine the extent to
+which prior injury, poor movement competency, erroneousfreestyle technique, and low PSSI score were associated
+with noncontact musculoskeletal injury in collegiate
+swimmers. Compared with epidemiologic data on colle-giate swimmers, the injuries recorded (to the shoulder, backor sacroiliac joint, and knee) align with national estimates
+of the most frequently injured body regions.
+3,4Our
+hypothesis regarding the risk factors for these injurieswas partially supported. Swimmers with a previous injuryhad almost 9-times higher odds of an injury. Although the
+total scores on the MSST14, FSTA, and PSSI were not
+associated with injury, swimmers who exhibited a cross-over hand position during the hand-entry phase of thefreestyle stroke had 8.5-times higher odds of injury. In
+addition, after adjusting for earlier injury, we noted that a
+lower perceived percentage chance of injury was associatedwith increased odds of injury.
+Injury History
+Our observation that previous injury was a risk factor for
+injury conﬁrms the results of 2 prior prospective studies:
+one in Division I collegiate swimmers and the other in club
+swimmers.2,7This ﬁnding has both simple and complex
+ramiﬁcations. Identifying athletes with an earlier injury is
+straightforward. In this study, we used a comprehensive
+injury history questionnaire. For collegiate swimmers,preseason meetings with student-athletes or injury-surveil-lance records (where comprehensive) could also provide
+this information. The challenge lies in determining how to
+manage swimmers with previous injuries. For example,coaches and sports medicine teams can ensure fullrehabilitation of those injuries,
+33,34prescribe targeted
+prevention exercises for the swimmers,5and closely
+monitor training and competition workloads.22Movement System Screening Tool
+Poor movement competency based on the MSST14 was
+not a risk factor for injury. In a cross-sectional study of the
+MSST16, researchers26determined that 40 athletes with
+nontraumatic shoulder injuries scored a mean 6SE of 5.8 6
+1.2 points lower on the MSST16 than 40 matched pairs.However, using that cross-sectional design, it was notpossible to identify whether the observed deﬁcits were acause or result of the injuries. In addition, although the cross-sectional study sample involved 8 swimmers, it also includedathletes from .12 other sports.
+26Unlike their land-based
+counterparts, swimmers perform most of their trainingimmersed in water, in a non–weight-bearing horizontal bodyposition, and rely on their upper extremities for propulsion.In this aquatic environment, swimmers undergo uniquebiomechanical, physiological, and perceptual demands.From a speciﬁcity standpoint, movement competency onland may contribute little to the injury risk in swimmers.
+As related to the shoulder, the authors of prospective
+studies of swimmers demonstrated relationships betweeninjury and limited extension ROM
+10and strength,8external-
+rotation ROM7and strength ratio (with respect to internal
+rotation),11and horizontal abduction ROM9and endur-
+ance.12Conversely, we found no associations between
+injury and any of the shoulder-related MSST componenttests (shoulder mobility, glenohumeral internal-rotationdeﬁcit, scapular dyskinesis, and the closed chain upperextremity stability test).
+26These conﬂicting results could
+reﬂect differences in the tests as well as the ages of studyparticipants. All of the earlier studies included swimmersyounger than college age.
+Freestyle Swimming Technique Assessment
+Although movement competency on land was not a risk
+factor for injury, 1 error in freestyle stroke technique didincrease the odds of injury, namely, a crossover hand entry.The crossover hand entry is similar to the provocation
+position in the Neer test for shoulder impingement. Of the
+11 swimmers who sustained injuries, 9 exhibited thistechnique error. However, 9 participants swam with acrossover hand entry and did not sustain an injury. Thus,this technique error appears to be more sensitive thanspeciﬁc for predicting injury, which is a desirable propertyfor a screening test. The observed variability in injuryresponse could be because of structural and functionaldifferences in swimmers’ shoulders.
+16The morphology of
+some swimmers’ shoulders may permit pain-free move-ment through this ROM, whereas for others, the extremerepetition irritates the subacromial structures.
+The relationship between a crossover hand entry and
+injury in our investigation appears to conﬂict with priorTable 3. Associations Between the Freestyle Swimming
+Technique Assessment Total Score and Individual Errors and
+Noncontact Musculoskeletal Injury
+Risk Factor Score Odds Ratio (95% CI)
+Total score 0–13 1.26 (0.79, 2.01)
+Recovery phase
+Arm recovery 1, 2 1.82 (0.18, 18.41)
+0 Referent
+Shoulder roll 1, 2 1.14 (0.28, 4.70)
+0 Referent
+Hand-entry phase
+Hand position 1, 2 8.50 (1.50, 48.05)a
+0 Referent
+Hand orientation 1, 2 0.60 (0.13, 2.81)
+0 Referent
+Pull-through phase
+Elbow positionbNA NA
+Hand path 1, 2 0.27 (0.03, 2.53)
+0 Referent
+Throughout stroke: head orientationaNA NA
+Abbreviation: NA, not applicable
+aP,.05.
+bInsufficient variability in scores to compute (see the Supplemental
+Table 2 for error prevalence).Table 4. Associations Between Perceived Susceptibility to Sport
+Injury Total Score and Individual Questions and Noncontact
+Musculoskeletal Injury
+Risk Factor Score Odds Ratio (95% CI)
+Total scorea1–20 0.94 (0.74, 1.19)
+Belief 1–5 0.48 (0.19, 1.22)
+Feeling 1–5 0.87 (0.39, 1.92)
+Numeric 1–5 0.73 (0.29, 1.86)Comparative 1–5 1.19 (0.63, 2.27)Preventability 1–5 2.07 (0.77, 5.56)
+aSum of the belief, feeling, numeric, and comparative scores.
+Journal of Athletic Training 189Downloaded from http://meridian.allenpress.com/jat/article-pdf/58/2/185/3206580/i1938-162x-58-2-185.pdf by guest on 12 August 2024
+
+results.12In that research, swimmers who made a hand-
+entry error had unexpectedly lower odds of injury (OR ¼
+0.37 [95% CI ¼0.16, 0.91]) than swimmers who did not
+make the error.12Yet in addition to the crossover hand-
+entry position, the authors considered a lateral entryposition to be erroneous.
+12In contrast, we did not consider
+a lateral entry position erroneous. A lateral entry may be
+suboptimal from a performance standpoint. Still, unlike themedial crossover, the lateral entry does not put the shoulderin the provocative end-range position that has beenimplicated in swimmer’s shoulder.
+1This difference in
+rating systems between studies may account for theconﬂicting ﬁndings. Despite the high prevalence of other
+freestyle technique errors, none were associated with injury
+in this or the earlier investigation.
+12These ﬁndings include
+techniques that coaches and researchers have long consid-ered risky, such as a thumb-ﬁrst hand entry and a cross-under pull-through.
+18Thus, apart from the hand position at
+entry, regarding injury risk, a variety of freestyle techniques
+may be acceptable. Coaches should evaluate technique on
+an individual basis relative to each swimmer’s uniquemusculoskeletal proﬁle.
+16
+Perceived Susceptibility to Sport Injury
+We are the ﬁrst to prospectively examine the association
+between the numeric PSSI score and injury. After we
+adjusted for previous injury, for every 1-point decrease in
+PSSI score, the odds of injury increased almost 9-fold. Ourﬁnding aligns with the Health Belief Model, which positsthat if athletes perceive their injury risk to be low, they maybe less likely to engage in injury-prevention activities, whichactually increases their risk.
+24The authors of 2 earlier studies
+evaluated similar constructs with mixed results. In 1 study,35
+youth soccer players with a lower perceived risk of injury
+(based on the Perceived Risk of Injury in Sports Scale) hadhigher odds of injury. However, in the other,
+36cadet
+candidates with a greater self-reported concern for injury(on a 3-point scale) had higher odds of injury. Theheterogeneity of ﬁndings may be attributable to differences
+in measurement instruments or populations studied or failure
+to control for prior injury, which has been shown to increasethe PSSI score.
+24
+Limitations and Recommendations for Future
+Research
+We based injury history and injury over the course of the
+season on the reports of student-athletes and coaches, notelectronic medical records. We chose this approach to capture
+all episodes of interfering pain, including those that affected
+the participants’ ability to train and compete but did not causethem to seek medical attention. Self-report does introduce thepotential for bias, which we mitigated by limiting the injuryhistory to the past 2 years and cross-referencing the injuryreports of coaches and student-athletes.
+Additionally, our sample was limited to student-athletes
+from 1 men’s and 1 women’s NCAA Division III team and1 season. As such, our results may not be generalizable to
+swimmers at other competitive levels or swimmers
+pursuing substantially different workloads. Furthermore,this sample size prevented us from assessing the possibleinteraction of risk factors in a multifactorial model. It alsoresulted in wide CIs surrounding the ORs. Therefore,readers should interpret the magnitudes of the observed
+associations with caution. Moreover, based on the small
+sample size, a type II error may have obscured theassociations between some risk factors and injury. Forexample, our study was underpowered to detect associa-tions with injury for the scapular dyskinesis test (acomponent test of the MSST) and the PSSI preventabilityquestion, which both had ORs of .2.0 (Tables 2 and 4,
+respectively). Nevertheless, we detected associations be-
+tween crossover hand entry and numeric PSSI score andinjury. These associations represent novel ﬁndings in anunderstudied athlete population.
+To reduce the risk of type II error and further improve our
+understanding of risk factors for injury in swimmers,additional larger-scale studies on multiple teams or acrossmultiple seasons (or both) are needed. Future interventionstudies are also warranted to assess the effects of (1) tertiaryprevention exercises plus education for swimmers with
+previous injuries (to make them more aware of their
+increased risk) and (2) modiﬁcation of the crossover hand-entry position in freestyle.
+CONCLUSIONS
+We reafﬁrmed prior injury as a risk factor for noncontact
+musculoskeletal injury in competitive swimmers. We also
+identiﬁed another risk factor that heretofore had been
+largely theoretical, namely, a crossover hand positionduring the entry phase of the freestyle stroke. Contrary toour hypothesis, no other characteristic of freestyle tech-nique was associated with injury, and neither the MSST14nor any component test thereof was associated with injury.Although limited by a small sample size, given the lack of
+association between the MSST14 total and component test
+scores and injury, our data do not support using theMSST14 to appraise swimmers’ injury risk. Finally, afterwe adjusted for previous injury, a low numeric PSSI scorewas a risk factor for injury. Coaches and sports medicinepractitioners should focus on gathering thorough injuryhistories on their swimmers. Swimmers with earlier injuries
+may beneﬁt from tertiary prevention exercises as well as
+education on prior injury as a risk factor for reinjury or newinjury. Coaches should also continually audit swimmers’freestyle technique for the crossover hand-entry position.To appraise the injury risk comprehensively, coachesshould consider these intrinsic risk factors in conjunction
+with extrinsic risk factors, including workloads.
+22
+ACKNOWLEDGMENTS
+We thank the student-athletes and coaches who made this study
+possible.
+REFERENCES
+1. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite
+swimmers: primarily due to swim-volume-induced supraspinatus
+tendinopathy. Br J Sports Med . 2010;44(2):105–113. doi:10.1136/
+bjsm.2008.047282
+2. Chase KI, Caine DJ, Goodwin BJ, Whitehead JR, Romanick MA. A
+prospective study of injury affecting competitive collegiate
+swimmers. Res Sport Med . 2013;21(2):111–123. doi:10.1080/
+15438627.2012.757224
+3. Boltz AJ, Robison HJ, Morris SN, D’Alonzo BA, Collins CL,
+Chandran A. Epidemiology of injuries in National Collegiate
+190 Volume 58 /C15Number 2 /C15February 2023Downloaded from http://meridian.allenpress.com/jat/article-pdf/58/2/185/3206580/i1938-162x-58-2-185.pdf by guest on 12 August 2024
+
+Athletic Association men’s swimming and diving: 2014–2015
+through 2018–2019. J Athl Train . 2021;56(7):719–726. doi:10.
+4085/1062-6050-703-20
+4. Chandran A, Morris SN, D’Alonzo BA, Boltz AJ, Robison HJ,
+Collins CL. Epidemiology of injuries in National Collegiate
+Athletic Association women’s swimming and diving: 2014–2015through 2018–2019. J Athl Train . 2021;56(7):711–718. doi:10.
+4085/1062-6050-724-20
+5. Finch C. A new framework for research leading to sports injury
+prevention. J Sci Med Sport . 2006;9(1–2):3–10. doi:10.1016/j.
+jsams.2006.02.009
+6. Schlueter KR, Pintar JA, Wayman KJ, Hartel LJ, Briggs MS.
+Clinical evaluation techniques for injury risk assessment in eliteswimmers: a systematic review. Sports Health . 2021;13(1):57–64.
+doi:10.1177/1941738120920518
+7. Walker H, Gabbe B, Wajswelner H, Blanch P, Bennell K. Shoulder
+pain in swimmers: a 12-month prospective cohort study of incidenceand risk factors. Phys Ther Sport . 2012;13(4):243–249. doi:10.1016/
+j.ptsp.2012.01.001
+8. McLaine SJ, Bird ML, Ginn KA, Hartley T, Fell JW. Shoulder
+extension strength: a potential risk factor for shoulder pain in youngswimmers? J Sci Med Sport . 2019;22(5):516–520. doi:10.1016/j.
+jsams.2018.11.008
+9. Cejudo A, Sa ´nchez-Castillo S, Sainz de Baranda P, Ga ´mez JC,
+Santonja-Medina F. Low range of shoulders horizontal abductionpredisposes for shoulder pain in competitive young swimmers.
+Front Psychol . 2019;10:478. doi:10.3389/fpsyg.2019.00478
+10. Greipp JF. Swimmer’s shoulder: the inﬂuence of ﬂexibility and
+weight training. Phys Sportsmed . 1985;13(8):92–105. doi:10.1080/
+00913847.1985.11708859
+11. Drigny J, Gauthier A, Reboursi `ere E, Guermont H, Gremeaux V,
+Edouard P. Shoulder muscle imbalance as a risk for shoulder injury
+in elite adolescent swimmers: a prospective study. J Hum Kinet .
+2020;75:103–113. doi:10.2478/hukin-2020-0041
+12. Feijen S, Struyf T, Kuppens K, Tate A, Struyf F. Prediction of
+shoulder pain in youth competitive swimmers: the development and
+internal validation of a prognostic prediction model. Am J Sports
+Med. 2021;49(1):154–161. doi:10.1177/0363546520969913
+13. Garrison M, Westrick R, Johnson MR, Benenson J. Association
+between the Functional Movement Screen and injury developmentin college athletes. Int J Sports Phys Ther . 2015;10(1):21–28.
+14. Chimera NJ, Smith CA, Warren M. Injury history, sex, and
+performance on the Functional Movement Screen and Y Balance
+Test. J Athl Train . 2015;50(5):475–485. doi:10.4085/1062-6050-49.
+6.02
+15. Smith CA, Chimera NJ, Warren M. Association of Y balance test
+reach asymmetry and injury in Division I athletes. Med Sci Sports
+Exerc . 2015;47(1):136–141. doi:10.1249/MSS.0000000000000380
+16. Yanai T, Hay JG. Shoulder impingement in front-crawl swimming,
+II: analysis of stroking technique. Med Sci Sports Exerc .
+2000;32(1):30–40. doi:10.1097/00005768-200001000-00006
+17. Hibberd EE, Myers JB. Practice habits and attitudes and behaviors
+concerning shoulder pain in high school competitive clubswimmers. Clin J Sport Med . 2013;23(6):450–455. doi:10.1097/
+JSM.0b013e31829aa8ff
+18. Virag B, Hibberd EE, Oyama S, Padua DA, Myers JB. Prevalence
+of freestyle biomechanical errors in elite competitive swimmers.Sports Health . 2014;6(3):218–224. doi:10.1177/1941738114527056
+19. Williams JM, Andersen MB. Psychosocial antecedents of sport
+injury: review and critique of the stress and injury model. J Appl
+Sport Psychol . 1998;10(1):5–25. doi:10.1080/10413209808406375
+20. Wiese-Bjornstal D. Psychology and socioculture affect injury risk,
+response, and recovery in high-intensity athletes: a consensus
+statement. Scand J Med Sci Sports . 2010;20(suppl 2):103–111.
+doi:10.1111/j.1600-0838.2010.01195.x21. Ivarsson A, Johnson U, Andersen MB, Tranaeus U, Stenling A,
+Lindwall M. Psychosocial factors and sports injuries: meta-analyses
+for prediction and prevention. Sports Med
+. 2017;47(2):353–365.
+doi:10.1007/s40279-016-0578-x
+22. Pollen TR, Ebaugh D, Warren M, Milner CE, Taylor JA, Silﬁes SP.
+The relationships between workload and non-contact musculoskel-
+etal injury in college swimmers: a prospective cohort study. J Athl
+Train . 2022;57(5)470–477. doi:10.4085/1062-6050-0135.21
+23. Peduzzi P, Concato J, Kemper E, Holford TR, Feinstein AR. A
+simulation study of the number of events per variable in logistic
+regression analysis. J Clin Epidemiol . 1996;49(12):1373–1379.
+doi:10.1016/s0895-4356(96)00236-3
+24. Deroche T, Stephan Y, Brewer BW, Le Scanff C. Predictors of
+perceived susceptibility to sport-related injury. Pers Individ Dif .
+2007;43(8):2218–2228. doi:10.1016/j.paid.2007.06.031
+25. Gnacinski SL, Arvinen-Barrow M, Brewer BW, Meyer BB.
+Factorial validity and measurement invariance of the Perceived
+Susceptibility to Sport Injury scale. Scand J Med Sci Sports .
+2017;27(7):754–761. doi:10.1111/sms.12681
+26. Butowicz CM, Pontillo M, Ebaugh D, Silﬁes SP. Comprehensive
+Movement System Screening Tool (MSST) for athletes: develop-ment and measurement properties. Braz J Phys Ther .
+2020;24(6):512–523. doi:10.1016/j.bjpt.2019.10.002
+27. Pollen T, Folkins E, Mohring J, Noehren B, Ebaugh D, Silﬁes S.
+Construct validity of three tests of core neuromuscular control. Med
+Sci Sports Exerc . 2018;50(5S):572. doi:10.1249/01.mss.
+0000536973.96790.17
+28. Gulgin H, Hoogenboom B. The Functional Movement Screening
+(FMS): an inter-rater reliability study between raters of variedexperience. Int J Sports Phys Ther . 2014;9(1):14–20.
+29. Minick KI, Kiesel KB, Burton L, Taylor A, Plisky P, Butler RJ.
+Interrater reliability of the functional movement screen. J Strength
+Cond Res . 2010;24(2):479–486. doi:10.1519/JSC.
+0b013e3181c09c04
+30. Smith CA, Chimera NJ, Wright NJ, Warren M. Interrater and
+intrarater reliability of the Functional Movement Screen. JS t r e n g t h
+Cond Res . 2013;27(4):982–987. doi:10.1519/JSC.0b013e3182606df2
+31. Pollen TR, Ebaugh D, Mohring J, Hutchinson D, Silﬁes SP. Is real-
+time poolside assessment of upper limb errors in front crawl
+swimming technique reliable and equivalent to video analysis? J
+Sport Rehabil . 2022;32(2):183–189. doi:10.1123/jsr.2021-0435
+32. Kerr ZY, Dompier TP, Snook EM, et al. National Collegiate
+Athletic Association Injury Surveillance System: review of methods
+for 2004–2005 through 2013–2014 data collection. J Athl Train .
+2014;49(4):552–560. doi:10.4085/1062-6050-49.3.58
+33. Maestroni L, Read P, Bishop C, Turner A. Strength and power
+training in rehabilitation: underpinning principles and practical
+strategies to return athletes to high performance. Sports Med .
+2020;50(2):239–252. doi:10.1007/s40279-019-01195-6
+34. Wilkerson GB, Colston MA, Baker CS. A sport ﬁtness index for
+assessment of sport-related injury risk. Clin J Sport Med .
+2016;26(5):423–428. doi:10.1097/JSM.0000000000000280
+35. Kontos AP. Perceived risk, risk taking, estimation of ability and
+injury among adolescent sport participants. J Pediatr Psychol .
+2004;29(6):447–455. doi:10.1093/jpepsy/jsh048
+36. Terry AC, Thelen MD, Crowell M, Goss DL. The musculoskeletal
+readiness screening tool - athlete concern for injury & prior injuryassociated with future injury. Int J Sports Phys Ther .
+2018;13(4):595–603. doi:10.26603/ijspt20180595
+Supplemental Figure 1. Found at DOI: https://doi.org/10.
+4085/1062-6050-0658.21.S1
+Supplemental Figure 2. Found at DOI: https://doi.org/10.
+4085/1062-6050-0658.21.S2
+Journal of Athletic Training 191Downloaded from http://meridian.allenpress.com/jat/article-pdf/58/2/185/3206580/i1938-162x-58-2-185.pdf by guest on 12 August 2024
+
+Supplemental Table 1. Found at DOI: https://doi.org/10.
+4085/1062-6050-0658.21.S3Supplemental Table 2. Found at DOI: https://doi.org/10.
+4085/1062-6050-0658.21.41
+Address correspondence to Travis Pollen, PhD, Physical Therapy and Rehabilitation Sciences, College of Nursing and Health
+Professions, Drexel University, 1601 Cherry Street, Philadelphia, PA 19102. Address e-mail to travis.pollen@jefferson.edu .
+192 Volume 58 /C15Number 2 /C15February 2023Downloaded from http://meridian.allenpress.com/jat/article-pdf/58/2/185/3206580/i1938-162x-58-2-185.pdf by guest on 12 August 2024
+

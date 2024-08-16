@@ -1,0 +1,685 @@
+ANNALS OF “DUNAREA DE JOS” UNIVERSITY OF GALATI 
+FASCICLE XV ISSN – 1454 – 9832 7 2012  
+ 
+ 160 THE ROLE OF RISK MANAGEMENT IN DECREASING THE 
+NUMBER OF LAWSUITS OVER SWIMMING POOLS 
+ 
+Izadi BEHZAD,1  Mohammadi SARDAR 1, Nasim SALEHI 2 
+1University of Kurdistan, Sanandaj, IRAN 
+1Department of Physical Education and Sport Science,  University of Kurdistan,  
+Sanandaj, IRAN 
+2Young researches club, science and research branch,  Islamic Azad University, Kurdistan, 
+Iran  
+ 
+Abstract 
+The purpose of this research is to study the risk m anagement practices in order to 
+decrease the number of lawsuits over public and pri vate swimming pools  in Tehran. 
+The statistical population of the research included  310 managers of  public and 
+private swimming pools, of which 119 were selected as statistical samples by means 
+of random sampling. The research method was descrip tive and survey, and in 
+measurement form. 2 questionnaires were used: one r elating to demographic data 
+and general information, and the other to risk mana gement practices, and their 
+validity was determined by alpha kronbach method. T he required information was 
+collected by personal interviews during the time ac ting of managers in pools 
+gathered and the data was analyzed by using person correlation coefficient. The 
+result of this study indicated that: significant re lationship existed between incidents 
+of accidents/injuries and lawsuits over swimming po ols in Tehran. Significant 
+relationship existed between risk management practi ces and accidents/injuries and 
+lawsuits. Significant relationship existed between risk management practice and 
+lawsuits and lawsuits.   
+Keywords : Risk management, accidents/injuries, lawsuits, po ols 
+ 
+INTRODUCTION 
+A new era for sports began in the 1960s 
+when a New Jersey court awarded a gymnast more 
+than $1 million in a negligence suit and a Californ ia 
+court awarded a football player over $300000. Prior  to 
+1960, injuries sustained during participation in 
+intercollegiate sports were considered part of the 
+game; assuming the risk of injury was part of the p lay. 
+The 1982 verdict in the landmark Thompson v. Seattle 
+public school District  cases attracted much attention: 
+$6.2 million was awarded to a high school football 
+player who sustained a neck injury from lowering hi s 
+head to ward off tacklers, yet was not warned of th e 
+inherent danger of his action. The need for ways to  
+predict and manage exposure brought sports safety 
+and risk management consultants into the field of 
+recreation, as well as athletics (Girvan & Girvan, 
+1993). 
+Most aquatic center environments and 
+hazards are highly dynamic, changing day to day, an d 
+even minute to minute. Consequently, risk 
+management in aquatics must be regarded as an 
+ongoing process, requiring a considerable time 
+commitment by trained staff and a focus on a regime n 
+involving continuous monitoring and evaluation. All  
+aquatic activities, including instruction, competit ion, 
+recreation and fitness require supervision by a tea cher 
+or coach and a certified lifeguard. Safe aquatic supervision includes eight basic components: (1) 
+Knowledge of Standard of Care, (2) Supervisory 
+Competency, (3) Planning, (4) Participant Abilities , 
+(5) Safe Environment, (6) Warnings and Instructions , 
+(7) Emergency Management, and (8) Lifeguard 
+Support. These eight components of aquatics 
+supervision represent the minimum standards for an 
+aquatic facility and program supervision. 
+Fletemeyer (2003) stated that aquatic liability is 
+approaching a paradigm shift and thus requires that  
+aquatic professionals have a certain level of 
+understanding to practice and implement the basic 
+principles of aquatic risk management. He also said  
+that the needs for aquatic risk management were 
+threats of negligence litigation, a trend for court s to 
+impose verdicts favoring the plaintiff, the need to  
+better educate the public about aquatic safety, a h igh 
+level of awareness by the public about the dangers 
+associated with aquatic environments, and stronger 
+emphasis on preventative practices rather than on 
+reactionary measures. 
+Most litigation involving aquatics emanates 
+from the injury of a participant, the injured plain tiff 
+alleging negligence on the part of the institution.  
+Negligence, in such cases, is conduct that falls be low 
+the standard established by the law for the protect ion 
+of others against unreasonable risk or harm. In ord er 
+for negligence to exist, four elements must be pres ent: 
+ANNALS OF “DUNAREA DE JOS” UNIVERSITY OF GALATI 
+FASCICLE XV ISSN – 1454 – 9832 7 2012  
+ 
+ 161 (1) the defendant must owe the plaintiff a legal du ty 
+of care, (2) the defendant must breach that duty, ( 3) 
+the defendant’s breach of duty must be the proximat e 
+cause of the plaintiff’s injury, and (4) the plaint iff 
+must incur actual loss or damages. If the defendant  
+institution can demonstrate that even one of the 
+elements does not exist, there can be no negligence . 
+Fletemeyer (2003) provided seven steps for increasi ng 
+safety in aquatic risk management: step 1”” 
+identifying goals and objectives; step 2”” organizi ng 
+an assessment team; step 3”” identifying and 
+measuring risks; step 4”” providing effective warni ng; 
+step 5”” training staff; step 6””record keeping ; a nd 
+step 7”” conducting performance and safety audits. 
+Many hazards related to aquatic environment are not  
+easily recognizable. The above seven steps really 
+highlight the implementation of safety in aquatics.  If 
+aquatic directors can follow all seven steps and ar e 
+also willing to apply these seven steps in their aq uatic 
+centers, it will not be difficult to see major 
+improvements and a reduction in the accident rate i n 
+the aquatic centers (Hsiao, 2005). 
+Risk management has been defined as a 
+scientific approach to dealing with pure risks by 
+anticipating possible accidental losses and designi ng 
+and implementing procedures that minimize the 
+occurrence of losses or the financial impact of the  
+losses that do occur. The concept of risk managemen t 
+in recreation and sport began in the mid 1970s. The  
+focus of risk management in recreation is on limiti ng 
+exposure to danger, harm, or hazards to the facilit y. 
+The most prevalent danger or harm that a facility 
+manager would attempt to minimize is injuries to 
+patrons at the facility that create the possibility  of 
+lawsuits (Styles, 2002). 
+Risk management was born of necessity – 
+human, legal, and political. As early as the late 
+1800’s, the American labor movement started to 
+address the dangers of mining and factory work. Law s 
+were passed and strikes were called as a result of 
+existing mine and factory safety problems. While 
+there are still dangers, the combination of federal  and 
+state safety inspections, labor demands, protective  
+equipment, and safety laws have resulted in safer 
+conditions in modern mining operations and factorie s. 
+The owners and operators of mines and factories now  
+are faced with expensive litigation if an accident 
+occurs. The earliest organizations to practice risk  
+management were insurance companies whose 
+techniques have been modified and applied by a 
+variety of organizations including hospitals, publi c 
+schools, and universities. 
+Appenzeller (1998) stated that risk management 
+has been associated with business and especially th e 
+insurance industry for many years. Loss control, 
+exposure to loss, pre” and post” loss objectives, r isk 
+management strategies, and risk management 
+techniques were common terms in both the business 
+and insurance industries prior to the 1970s. In the  mid”1970s and especially in the 1980s and the 1990s , 
+risk management became a familiar expression of a 
+program designed to meet the sport litigation crisi s 
+head”on. In the 21st century, risk management will 
+become a close companion to the sport business 
+industry in its attempt to reduce losses and exposu res, 
+while increasing the desire to make the sport busin ess 
+industry safer (Lhotsky, 2006). 
+Risk management in sporting environments 
+is not a new idea. A number of authors identified t he 
+need for adopting risk management, safety practices  
+and policies, but few have moved beyond traditional  
+occupational health and safety approaches. Risk 
+management strategies have been used in a wide 
+range of sports (Otago & Brown, 2003). 
+Sharp (1990) listed three compelling reasons 
+to institute risk management programs in the physic al 
+education/athletic setting. The first reason is the  
+American public has assumed a litigious posture 
+relative to athletics. The climate is extremely 
+litigation oriented and lawyers seem to always be i n 
+search of a “deep pocket” to cover costs of injury,  
+regardless of who is at fault. The second reason of ten 
+cited concerns the judicial attitude toward liabili ty and 
+sports. Liability has been expanded to cover those 
+who administer these sport and recreation programs.  
+The usual defense of assumption of risk has been 
+severely eroded over the past few years by judicial  
+interpretation. The third factor is the trend towar d 
+abrogation of government immunity. By providing a 
+safe, honest, and efficient environment, a business  can 
+reduce legal liability and enhance the positive 
+reputation of the business. Effective risk manageme nt 
+should identify as many liabilities and risk factor s as 
+possible, present alternative solutions, and make c ost”
+effective recommendations (Lhotsky, 2006). 
+The importance of risk management as to the 
+key liability and risk management trends into the 2 1 
+century. Some of the future trends forecasted were as 
+follows:  
+1” Liability issues will continue to manifest 
+themselves as problems that require sound risk 
+management plans.  
+2” Education in risk management strategies will 
+continue to be in demand by sport/recreation 
+managers in order to provide safer programs.  
+3” Risk management will continue to be a key 
+element in the design of new recreational sport 
+facilities.  
+4” Professional preparation in liability and risk 
+management will become more important for students 
+pursuing careers in sport management.  
+5” Risk management planning will take on 
+increased important to recreational sports programs .  
+6” More recreational sports programs/agencies will 
+develop comprehensive risk management plans. 
+7” Increase in willingness of participants to engage 
+in litigation to resolve issues related to particip ation in 
+recreational sports.  
+ANNALS OF “DUNAREA DE JOS” UNIVERSITY OF GALATI 
+FASCICLE XV ISSN – 1454 – 9832 7 2012  
+ 
+ 162 8” There will be an increase demand for employee 
+certification in specialized activity programs.  
+9” There will be continued growth in recreational 
+facilities.  
+10” High”risk activities will become more popular in 
+the years to come (Styles, 2002). 
+Although the management of liability risks 
+for public agencies is of recent origin, the practi ce has 
+been used in the private sector for many years. The  
+earliest organizations to practice risk management 
+were insurance companies whose techniques have 
+been modified and applied by hospitals, public 
+schools, and universities. These groups dealt prima rily 
+with financial risk management. However, the 
+management of financial risks alone would not be 
+sufficient for the unique needs of the sport, physi cal 
+education and leisure industries. Therefore, the sp ort 
+industry must focus on not only financial risk 
+management but also programmatic risk management. 
+For example, a loss in the insurance industry is 
+financial, but a loss in the sport industry must al so 
+encompass the possibility or risk that a participan t 
+would suffer harm. It is acknowledged that a 
+participant or employee injury could result in a 
+financial loss to the agency or organization, but t he 
+overriding reason for risk control should be moral 
+responsibility as related to the injury of another,  as 
+well as the legal duty to provide a safe environmen t 
+for participation (Aaron, 2004). 
+Because of the increase in the volume of use and th e 
+types of activities performed, these facilities hav e a 
+wide variety of exposure to lawsuits in their daily  
+operations (Mulrooney & Farmer, 1995). There was a 
+time when litigation was not a major issue for 
+recreational sport injuries because it was accepted  that 
+participants assumed the risks of participating in a 
+physical activity. However, in todays society, laws uits 
+against recreation businesses are common, as there 
+has been an increase in litigation regarding injuri es 
+sustained in recreational activity and competition 
+(Burnstein, 1994; Cotton, 2001a).  
+The focus of risk management in recreation 
+is on limiting exposure to danger, harm, or hazards  to 
+the facility. The most prevalent danger or harm tha t a 
+facility manager would attempt to minimize is injur ies 
+to patrons at the facility that create the possibil ity of 
+lawsuits. Hence the goals of risk management are to  
+enable organizations to offer the activities and 
+services that they deem desirable in a safe 
+environment and to reduce the possibility of a laws uit 
+and monetary losses while operating a recreation 
+facility. Based on the theory and practice of risk 
+management from the insurance industry, sport and 
+recreation professionals have identified the follow ing 
+elements as being essential for success of the risk  
+management practices: risk identification; risk 
+assessment; risk treatment; and risk implementation  
+and standard operating procedures (Styles, 2002).   Those who manage physical education, 
+athletic, and recreation programs have a number of 
+legal duties that they are expected to carry out. 
+Among these is an obligation to take reasonable 
+precautions to ensure safe programs and facilities.  
+According to Hronek and Spengler (2002, p. 273), 
+“the law recognizes a duty owed by coaches, 
+recreation managers, and their staff to provide saf e 
+facilities for both participants and spectators”. 
+Physical educations and sports facilities that are 
+poorly planned, designed, or constructed may lead t o 
+many problems for program leaders in those faciliti es. 
+A poorly designed facility may limit the programs t hat 
+can be offered; make the facility harder to operate , 
+maintain, and supervise; and significantly increase  the 
+participant’s exposure to hazardous conditions. The se 
+factors can lead to a greater likelihood of injury and 
+can increase the organizations exposure to claims o f 
+negligence (Seidler, 2006).  
+It has important risk management 
+applications for physical educators and sport 
+managers. Physical educators and sport managers 
+must be protective in protecting their participants  
+from unreasonable risk of harm they should schedule  
+regular inspections of fields and other playing 
+surfaces before participant use. In addition, equip ment 
+should be checked regularly to detect any damage or  
+wear that would make the equipment unreasonably 
+dangerous for participant use (Carroll & 
+Connaughton, 2006) 
+ 
+METHODOLOGY 
+The statistical population of the research 
+included 310 managers of public and private 
+swimming pools, of which 119 were selected as 
+statistical samples by means of random sampling. Th e 
+research method was descriptive and survey, and in 
+measurement form. 2 questionnaires were used, one 
+relating to demographic data and general informatio n 
+and the other to risk management practices and thei r 
+validity was determined by alpha kronbach method 
+(./85). The required information was collected by 
+personal interviews during the time acting of 
+managers in pools gathered and the data was analyze d 
+by using person correlation coefficient. The study was 
+designed to investigate the risk management status,  
+and associated legal concerns in aquatic centers in  
+Tehran. Data were obtained through a 45”item 
+questionnaire administered to 119 directors of aqua tic 
+facilities in Tehran.  
+ 
+RESULTS 
+Table 1 shows that the population was 
+primarily male and only 27 or 22.7% of the 119 
+participants were women. 
+ 
+ 
+ 
+ 
+ANNALS OF “DUNAREA DE JOS” UNIVERSITY OF GALATI 
+FASCICLE XV ISSN – 1454 – 9832 7 2012  
+ 
+ 163 Table 1. Gender of respondents  
+Gender of respondents  (N = 119) 
+Male 92 
+Female 27 
+Table 2 presents activities most often found 
+in the pools in Tehran were recreational (offered b y 
+117 institutions) and basic swimming classes (offer ed 
+by 79 institutions). Risk management plans existed in 
+only 52 (43.7%) of the facilities. Nearly 42% of th e 
+institutions reported three or more accidents/injur ies 
+per year. 
+The majority of the incidents occurred in the 
+locker room or the pool deck. Only 5% or 7 incident s 
+occurred in the water (Table 2). Despite the fact t hat 
+nearly half of the institutions had accidents, only  
+22.6% had been sued (Tables 3 and 4). 
+ 
+Table 2. General information: activities and risk 
+management plan  
+Activities offered by the  
+swimming pool N 
+Recreational 
+Scuba diving class 
+Water aerobic class 
+Basic swimming class 
+Water polo 
+Lifeguard training course 
+CPR certificated course 
+Hydrotherapy 117 
+5 
+38 
+79 
+12 
+35 
+17 
+22 
+Risk management plan N 
+Yes 
+No 52 
+67 
+ 
+Table 3. General information: accidents/injuries 
+frequency 
+Number of accidents/injuries 
+in the last 12 months Percent  
+(N = 119) 0 
+1 
+2 
+3 
+4 
+5 
+6 or more  45.4 
+15.1 
+8.4 
+8.4 
+6.7 
+2.5 
+13.4 
+Location of highest number of 
+reported accidents/incidents Percent  
+(N = 119) 
+Diving board 
+Locker room 
+Pool deck 
+Jacuzzi 
+Sauna  35.3 
+23.5 
+25.1 
+10.1 
+10.9 
+ 
+Table 4. General information: litigation status  
+Past Lawsuits Percent  
+(N = 119) 
+No 
+Yes  77.3 
+22.7 
+Number of times the 
+institution has been 
+sued Percent  
+(N = 119) 
+0 
+1 
+2 
+3 or more  77.3 
+14.3 
+5 
+3.4 
+Results of this study show that significant relatio nship 
+existed between incidents of accidents/injuries and  
+lawsuits in swimming pools in Tehran (Table 5). 
+From other results of this study is significant 
+relationship existed between risk management 
+practice and accidents/injuries and lawsuits (Table  5). 
+Also significant relationship existed between risk 
+management practice and lawsuits and lawsuits (Tabl e 
+5).  
+ 
+ 
+Table 5. Pearson correlation coefficient between the acciden ts/injuries and lawsuits and risk management  
+Variable Accidents/Injuries Lawsuits Risk managemen t practice 
+AccidentsIinjuries 1 ./437(**) 
+./000 ”./269(**) 
+./003 
+Lawsuits ./437(**) 
+./000 1 ”./234(**) 
+./010 
+Risk management 
+practice ”./269(**) 
+./003 ”./234(**) 
+./010 1 
+ 
+DISCUSSION AND CONCLUSION 
+Risk is a peril or the possibility of exposure 
+or harm. Risk management has been defined as 
+controlling the financial and personal injury losse s 
+from sudden, unforeseen, unusual accidents and 
+intentional torts. Appenzeller (1998) stated that r isks 
+are inherent in sport and even the safest programs can 
+never avoid accidents and injuries. The law expects  
+that sport managers develop risk management and loss programs to ensure a safe environment for all 
+who participate in sports.  
+The safety of facility event attendees, 
+patrons, spectators and event participants is of 
+primary concern to the facility manager (Madden, 
+1998). If a facility manager does not keep the faci lity 
+safe, injuries to attendees, patrons, spectators, a nd 
+event participants are bound to occur. Although the re 
+are many areas of law that are important to a facil ity 
+ANNALS OF “DUNAREA DE JOS” UNIVERSITY OF GALATI 
+FASCICLE XV ISSN – 1454 – 9832 7 2012  
+ 
+ 164 manager, the greatest numbers of lawsuits brought 
+against a provider (school, municipality, private 
+enterprise, or non”profit association) are based in  
+negligence liability (van der Smissen, 2001). 
+While lawsuits cannot be prevented they can 
+be minimized when employees understand negligence 
+principles and practice good management (Kaiser, 
+1986). Therefore, it is essential that a facility m anager 
+today understand the elements of negligence (van de r 
+Smissen, 2001). The following will briefly examine 
+negligence liability and some law topics related to  
+negligence. 
+Negligence can be defined as carelessly 
+performing a duty or carelessly failing to perform a 
+duty that results in injury to a participant or dam age to 
+property (Seidler, 1999). In order to be found guil ty of 
+negligence, four elements need to exist: duty, brea ch, 
+cause, and harm. There are several elements of 
+negligence. Each of the four negligence elements ha s 
+to be present for a person to recover under a 
+negligence claim. The four elements are: 
+1. owing someone a duty; 
+2. breaching that duty; 
+3. the breach of that duty was the proximate cause of 
+the person’s injury; 
+4. the person was actually injured (van der Smissen , 
+1990). 
+The increase in lawsuits in the leisure and 
+recreational area is due to several reasons: increa sed 
+participation in recreation; an increase in year ro und 
+activities; new technology and more sophisticated 
+equipment; and increased accessibility to legal 
+services (Baley & Mathews, 1984). 
+The increase in litigation in recreational 
+settings creates a need for recreational profession als 
+to reduce risk that may lead to injuries and financ ial 
+losses. Risk management and its application is form  
+of loss control and has been identified by 
+professionals in the recreational industry as a nee d 
+within the organizational structure of a recreation al 
+facility (Giles & Gonsoulin, 1991). The most 
+prevalent danger that a recreational facility manag er 
+needs to minimize is the number of injuries to patr ons, 
+and the concomitant lawsuits. Therefore, the obviou s 
+goal of risk management is to reduce to possible 
+monetary losses when running a facility (Mulrooney 
+& Ammon, 1995).  
+Risk management has been identified as the 
+‘best buy’ in sports injury prevention and an integ ral 
+part of best”practice sport and leisure management 
+systems (Donaldson et al, 2009). Risk management is  
+a procedure to reduce potential legal liability. It  is a 
+proactive system which attempts to address potentia l 
+problem areas before they actually lead to reactive ly 
+defending legal proceedings. The aim is a safer 
+environment and “legally safer” operational 
+procedures. Education of all people involved, their  
+acceptance of the importance of risk management, an d 
+open communication of ideas is vital to a risk management plan’s success. While the law now 
+affects the conduct of sports greater than ever bef ore, 
+don’t see this as a negative, but as a positive rea son to 
+take the initiative to implement safe practices and  risk 
+management programs. There can be a great sense of 
+achievement in knowing that you are satisfying your  
+legal, moral and ethical duties by providing good, safe 
+and effective sporting services. It really is all a bout 
+good business. 
+ 
+REFERENCES 
+1.  Aaron, T. C. 2004. Factors affecting the performanc e 
+levels of risk management behaviors of Florida high  
+school athletic directors. Doctoral Thesis, The Flo rida 
+State University College of education.  
+2.  Carroll, M. S. & Connaughton, D. P. 2006. Proper 
+Maintenance of Athletic Fields and Legal Liability.  
+Journal of Physical Education, Recreation & Dance; 
+May/Jun 2006; 77, 5; Research Library pp: 10. 
+3.  Girvan, G & Girvan, J. T. 1993. Risk management 
+practices in athletics7A content analysis. Journal of 
+Physical Education, Recreation & Dance; 64, 4; Rese arch 
+Library, pp: 26. 
+4.  Hsiao, R. 2005. Analysis of risk management practic es and 
+litigation status in aquatic centers. Doctoral diss ertation, 
+Florida State University College of Education, Copy right 
+by ProQuest Information and Learning Company. 
+5.  Lhotsky, G. J. 2006. An Analysis of risk management  at 
+NCAA Division I7A Football Stadiums. Doctoral 
+dissertation, Florida State University College of 
+Education, Copyright by ProQuest Information and 
+Learning Company. 
+6.  Otago, L. & Brown, L. 2003. Risk management models in 
+netball. Journal of Science and Medicine in Sport 6  (2): 
+2167225. 
+7.  Seidler, T. L. 2006. Planning and Designing Safe Fa cilities. 
+Journal of Physical Education, Recreation & Dance; 
+May/Jun 2006; 77, 5; Research Library p. 32. 
+8.  Styles, A.E. 2002.The development of risk managemen t 
+recommendations and guidelines for a university 
+recreational facility. Doctoral dissertation, Kent State 
+University of Ohio, Copyright by ProQuest Informati on 
+and Learning Company. 
+9.   Madden, T. D. 1998. Risk management and facility 
+insurance. In T. D. Madden (Ed.), Public assembly f acility 
+law (pp. 1997230). Irving, TX: International Associ ation of 
+Assembly Managers 
+10.  Van der Smissen, B. 2001. Elements of negligence. I n D. 
+Cotton, J. T. Wolohan, & T. J. Wilde (Ed.), Law for  
+recreation and sport managers (pp. 37745), Dubuque,  IA: 
+Kendall/Hunt Publishing Company. 
+11.  Donaldson, A & Borys, D & Finch, C & Middleton, M. 
+2009. Developing an instrument to assess the Sports  Injury 
+Risk Management Systems (SIRMS) of community sports  
+clubs. Abstracts / Journal of Science and Medicine in 
+Sport 12S, S1–S83 (S41).  
+12.  Kaiser, R. A. 1986. Liability and law in recreation , parks, 
+and sports. Englewood Cliffs, NJ: Prentice7Hall. 
+13.  Seidler, T. L. 1999. Planning facilities for safety  and risk 
+management. In T. H. Sawyer (Ed.), Facilities plann ing 
+for physical activity and sport (pp. 65773), Dubuqu e, IA: 
+Kendall/Hunt Publishing Company. 
+14.  Van der Smissen, B. 1990. Legal liability and risk 
+management for public and private entities. Cincinn ati: 
+Anderson Publishing Company. 
+15.  Burnstein, I. M. 1994. Liability for injuries suffe red in the 
+course of recreational sports: application of the n egligence 
+standard. University of Detroit Mercy Law Review, 7 1, 
+99371023. 
+16.  Cotton, D. J. 2001a. Defenses against liability. In  D. J. 
+Cotton, J. Wolohan, & T. J. Wilde (Eds), law for 
+ANNALS OF “DUNAREA DE JOS” UNIVERSITY OF GALATI 
+FASCICLE XV ISSN – 1454 – 9832 7 2012  
+ 
+ 165 recreation and sport managers (PP. 59774). Dubuque,  IA: 
+Kendall/Hunt. 
+17.  Mulrooney, A & Farmer, P. 1995. The management of 
+sport: its foundation and application (second ed.).  St. 
+Louis: B. Mosby. 
+18.  Baley, J. A & Mathews, D. L. 1984. Law and liabilit y in 
+athletics, physical education, and recreation. Newt on, MA: 
+Allyn and Bacon.  
+19.  Giles, M & Gonsoulin, S. 1991. Risk management with  
+teeth. National Intramural Recreation Sports Associ ation 
+journal, 15(3), 376. 
+20.  Mulrooney, A & Ammon, R. Jr. 1995. Risk management 
+practices and their impact on insurance premiums an d 
+loss reserves. Journal of legal aspects of sport, 5 (3), 57767.  
+ 
+LE RÔLE DE LA GESTION DES RISQUES DANS 
+LA REDUCTION DE POURSUITES 
+JUDICIAIRES DE PISCINES 
+ 
+Résumé 
+Le but de cette recherche est d'étudier des pratiqu es 
+de gestion des risques en baisse de poursuites dans  
+les piscines publiques et privées à Téhéran. La 
+population statistique de la recherche comprenait 3 10 
+gestionnaires de piscines publiques et privées, don t 
+119 ont été sélectionnés comme échantillons statistiques par le biais d'un échantillonnage 
+aléatoire. La méthode de recherche était descriptiv e 
+et d'enquête, et sous forme de mesure. 2 
+questionnaires ont été utilisés, sur les données 
+démographiques relatives à l'information générale e t 
+l'autre à des pratiques de gestion des risques et l eur 
+validité a été déterminée par alpha kronbach 
+méthode. Les informations requises ont été recueill ies 
+par des entrevues personnelles pendant le temps des  
+gestionnaires agissant dans les piscines se sont ré unis 
+et les données ont été analysées en utilisant le 
+coefficient de corrélation personne. Le résultat de  
+cette étude indiquent que: relation significative 
+existait entre les incidents d'accidents et de bles sures 
+et de poursuites dans les piscines à Téhéran. Relat ion 
+significative existait entre la pratique de gestion  des 
+risques et des accidents / blessures et des poursui tes 
+judiciaires. Relation significative existait entre la 
+pratique de gestion des risques et des poursuites 
+judiciaires et de poursuites. 
+MotsQclés:  gestion des risques, accidents et blessures, 
+les poursuites judiciaires, Piscines 
+ 
+THE PLACE OF GYMNASTICS IN PRIMARY EDUCATION. 
+GENERAL CONSIDERATIONS AND METHODOLOGICAL ASPECTS 
+ 
+LaurenŃıu7Gabrıel TALAGHIR 1, Ihsan SARI 2 
+ 
+Faculty of Physical Education and Sports, “Dunarea de Jos” University of Galati, ROMANIA 
+2University School of Physical Education and Sport, Sakarya, TURKEY 
+ 
+Abstract: 
+Education is a long process that addresses theoreti cal and practical aspects. These 
+will contribute to form future adults for the real life. Physical education is an 
+important discipline in the process of education an d the basis is set in primary 
+school. The aim of our article is to present the im portance of gymnastics as a 
+compulsory subject in the curriculum and its role i n the organizing and disciplining 
+of students at this age. In the same time, the auth ors want to present the effect of 
+practical activities on the psychological evolution  of students and the possibility to 
+realise good behavior using means from basic gymnas tics. 
+Keywords : physical education, school gymnastics, curriculum  
+  
+INTRODUCTION 
+The development of the young generation 
+was always a concern of society as a whole, aiming to 
+improve the relationship between the social command  
+and the educational product at a rational level. 
+From this perspective, the physical education 
+discipline has evolved in recent years in the schoo l 
+environment, being currently the appanage of 
+specialist teachers at all levels of education. 
+The approach to physical education in the 
+primary stage with specialized staff was and still is a 
+current concern for theorists and practitioners in the 
+field. Physical education as part of the educational 
+process is thus seen as a catalyst in the developme nt 
+of students in this level of education, helping to 
+balance the intellectual demands with the psycho”
+motor and ludic ones, a very important aspect for 
+organizing activities teaching with students aged 
+between 6 and 10 years. 
+By observing the general objectives of  
+physical education, the organization of the lesson,  in 
+terms of content elements, shall take into 
+consideration the action methodology for learning, 
+consolidating and improving the motor skills and 
+abilities specific to certain sports branches too 
+(Iconomescu, 2010). 

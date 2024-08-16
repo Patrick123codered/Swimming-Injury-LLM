@@ -1,0 +1,345 @@
+463Spine injuries in gymnasts and swimmers
+An epidemiologic investigation
+JACK D. GOLDSTEIN,* MD, PAUL E. BERGER,*&dagger; MD, GARY E. WINDLER,* MD, AND
+DOUGLAS W. JACKSON,*&Dagger;, MD
+From the *Southern California Center for Sports Medicine, and the &dagger;Memorial Magnetic
+Resonance Center, Long Beach, California
+ABSTRACT
+Three groups of top level female gymnasts of preelite,
+elite, national and Olympic caliber were studied without
+regard to back pain or injury. These athletes were
+compared to a similar group of national caliber female
+swimmers. Magnetic resonance imaging scans of each
+participant were used to document disk or bony abnor-
+malities. The relationship between magnetic resonance
+imaging findings and age, height, weight, previous in-
+juries, back symptoms, and hours of training per week
+each year was examined.
+Nine percent of preelite (1/11), 43% of elite (6/14),
+and 63% of Olympic level (5/8) gymnasts had spine
+abnormalities; 15.8% of all swimmers had spine abnor-
+malities. Average hours of training per week and age
+were found to be associated with abnormalities seen
+on magnetic resonance imaging. Increased intensity
+and length of training correlated with previous data that
+suggests the female gymnast is prone to spine injuries.
+In one large review of female gymnasts, 12.2% of injuries
+incurred were to the spine.6 The incidence of spondylolysis
+has also been reported to be much higher in gymnasts than
+in the general population.’-&dquo; Axial loading and shear force
+experienced by the disks, the annulus fibrosus, and the
+posterior elements is felt to be very high in these athletes
+and contributes to these injuries.’ In addition, loading is
+repetitive with extensive daily training, increasing suscep-
+tibility to pars interarticularis fatigue fracture/,8, 15, 17,18 end
+plate changes,6 and disk degeneration.&dquo; Although age-re-
+lated changes can account for degenerative spine abnormal-
+ities,11 it is not known how the extra demands incurred bythe gymnast impact upon or accelerate degenerative
+changes. This study examined factors that could be causal
+in the increased incidence of spine problems in these ath-
+letes. Age and hours per week of training correlated with
+lumbar spine changes seen on magnetic resonance imaging
+(MRI).
+MATERIALS AND METHODS
+Female gymnasts of preelite, elite, national, and Olympic
+levels were compared to swimmers of similar age and level
+of competition. No attempt was made to preselect partici-
+pants based on a history of back pain or prior injury; all
+were from local gymnastic and swim clubs. No gymnast or
+swimmer who presented initially with back symptoms was
+included in the study.
+Demographic data was collected from all participants.
+This included: age, weight, height, years of training, hours
+of training per week each year, history of scoliosis, previous
+spine injury, time off related to back complaints, physician
+involvement for prior back injury, and current back symp-
+toms.
+Magnetic resonance studies were performed with 1.5 Tesla
+and 0.5 Tesla Siemens Magnatom scanners (Siemens, Iselin,
+NJ). Patients were studied in the sagittal plane using a
+repetition time of 2.0 seconds and an echo time of 28 and 70
+milliseconds from the level of T-12 to S-1. The same imaging
+parameters were used in the transverse axial plane from L-
+3 to S-1. Two patients also had imaging of the thoracic spine
+using the same parameters. High resolution surface coils
+were used and all examinations were judged to be of good to
+excellent quality. Images were interpreted by a radiologist
+specializing in MRI, with special interest in the spine, who
+had no knowledge of the patient history.
+Statistics
+Results were tabulated on an IBM personal computer (IBM,
+Armonk, NY) using the BMDP statistical software (1988;$ Address correspondence and repnnt requests to Douglas W Jackson,
+MD, Southern California Center for Sports Medicine, 2760 Atlantic Avenue,
+Long Beach, CA 90806
+
+464
+BMDP Statistical Software Inc., Los Angeles, CA). Statis-
+tical analysis was performed using univariate analysis to
+isolate pertinent variables with regard to positive or negative
+MRI results. Positive MRI changes were defined as degen-
+erative or other disk changes and spondylolysis or spondy-
+lolisthesis (Figs. 1 through 7). Univariate statistics included
+Student’s t-test and Fischer’s exact test. Stepwise discrimi-
+nate analysis was then performed to determine which set of
+variables could best predict positive and negative MRI re-
+sults in the combined study population. All tests were
+against a two-sided alternative hypothesis, and a P value of
+0.05 or less was considered significant.
+Figure 1. A 19-year-old elite gymnast with symptomatic de-
+generative L4-5 disk with central herniation. A, sagittal lumbar
+MRI showing L4-5 disk degeneration and herniation. B, trans-
+verse MRI of L4-5 disk showing central herniation.Figure 2. An 18-year-old elite gymnast with symptomatic L-5
+unilateral pars interarticularis fracture. A, lateral plain roent-
+genogram of the lumbosacral spine. B, transverse MRI of
+L-5 showing old right L-5 pars interarticularis fracture.
+RESULTS
+Eleven preelite, 14 elite, and 8 national/Olympic level gym-
+nasts were included in the study. There were also 8 swim-
+mers at the AA or AAA level and 11 national level swimmers.
+A tabulation of MRI results and demographics are seen in
+Table 1.
+Preelite gymnasts had an average age of 11.8 years, a
+mean body mass index (BMI) of 16.8, and trained an average
+of 18.2 hours per week in their most current year. Elite
+gymnasts had an average age of 16.6, a BMI of 19.3, and
+trained 23.2 hours per week in their most current year. Older
+national/Olympic gymnasts had an average age of 25.7, a
+
+465
+Figure 3. An 18-year-old elite gymnast with symptomatic
+Grade 2 spondylolisthesis. A, lateral plain roentgenogram of
+the lumbosacral spine showing slip and rounded sacrum. B,Figure 4. A 16-year-old elite gymnast with symptomatic mul-
+tiple disk degeneration and central and anterior disk hernia-
+tions. A, sagittal MRI of thoracolumbar spine. B, close-up of
+thoracolumbar junction.
+BMI of 20.9, and trained an average of 22.1 hours per week
+in their most current year.
+The AA and AAA swimmers had an average age of 14.6,
+a mean BMI of 19.8, and trained 11.3 hours per week in the
+current year. &dquo;Q&dquo; and national ranked swimmers had a mean
+age of 18.6, a mean BMI of 21.3, and trained 16.4 hours per
+week in their most current year.
+Because no single variable was an adequate predictor of
+positive or negative MRI result, and because several vari-
+ables were clearly interrelated, stepwise discriminate analy-
+sis was used to test known significant variables simultane-
+ously (Table 2). Variables of sport, competition level, and
+sagittal MRI showing same lesion. C, transverse scan show-
+ing spondylolysis at L-5.
+
+466
+Figure 5. A 15-year-old elite gymnast with a degenerative
+L-5 disk with anterior herniation. A, sagittal MRI. B, transverse
+MRI showing herniation.
+average hours of training per week were found to contribute
+to a small amount of variance. These were excluded from
+the analysis without a loss of predictive power. Analysis of
+the remaining two variables, age and last hours of training
+per week, showed a predictive value of 83.3% for MRI-
+positive gymnasts and 73.3% for MRI-negative gymnasts.
+The overall predictive value using age and last hours per
+week of training was 80.4% (Table 3). The average number
+of hours of training per week in the last year was also
+correlated with MRI results. Eighty percent of athletes with
+positive MRI results trained 15 hours or more per week.
+Using this training level as a threshold, 57% of athletes
+training 15 hours or more per week had a positive spineFigure 6. A 27-year-old elite gymnast with L-5 bilateral pars
+interarticularis fracture and L4-5 facet hypertrophy without
+foraminal narrowing.
+Figure 7. A 27-year-old national level gymnast with L4-5
+degeneration.
+MRI, while 87% of athletes training less than 15 hours per
+week had a negative spine MRI. No statistical statement
+could be made regarding the rate of injury of swimmers
+relative to gymnasts because gymnasts trained a signifi-
+cantly greater number of hours per week than swimmers.
+Swimmers therefore did not reach the threshold number of
+hours of training per week to allow comparison.
+DISCUSSION
+Gymnastics is known to produce high loading of the
+spiné 9,18 and this has been shown to result in a higher rate
+of fatigue fracture of the pars interarticularis than is ex-
+pected for the general population. 10 Schmorl and Junghaus13
+described age-related changes of the disk and annulus in
+hundreds of cadaveric spines of differing ages. Until the
+advent of MRI these changes could not be well visualized in
+vivo.
+MRI has been shown to be highly sensitive and specific
+
+467
+TABLE 1
+Demographics
+° The amount of hours training at peak of career.
+TABLE 2
+Univariate analysis&dquo; a
+° P values of independent variables relative to MRI result.
+TABLE 3
+Classification matrix&dquo;
+&dquo; Prediction based on variables: age and last hours of training per
+week.
+for disk lesions that required myelography and/or CT scan-
+ning to diagnose previously.4,7 11 Additionally, more subtle
+changes of the disks that represent early degenerative
+changes can be clearly seen. 11,12,20 Damage to the annulus
+can also be demonstrated by MRp9, 20, 21 and the neural
+elements are more clearly delineated by MRI than by other
+techniques. Osseous abnormalities, including posterior ele-
+ment fractures, may be visualized on MRI. Although no
+comparative study has been performed comparing MRI with
+CT in the evaluation of pars interarticularis fractures, it is
+likely that CT may be more sensitive, especially with non-
+displaced lesions. In cases where the clinical suspicion of
+spondylolysis is high and plain roentgenograms are negative,
+radionuclide bone scanning using 99mTc single-photon emis-
+sion computed tomography is a very sensitive test. 1
+Concern over assessing the potential damaging effects to
+the spine of competitive gymnasts prompted this MRI study.The clinician caring for young gymnasts is often confronted
+with difficulty in making a specific diagnosis. Reviewing the
+symptoms of all of the gymnasts with positive MRI results
+showed that 73% of these women had ongoing symptoms
+referable to the spine. Only 14% of MRI-negative athletes
+had symptoms of low back pain. Most of these had only
+mild, intermittent, and activity-related symptoms. Symp-
+toms were 73% sensitive and 91 % specific in predicting MRI
+results. It is clear there is a high correlation between devel-
+oping degenerative change and lumbar symptoms. Persistent
+symptoms may be helpful in screening gymnasts with path-
+ologic changes.
+The long-term consequences of these MRI changes are
+unclear at this time. Many of the degenerative disk changes
+seen are indistinguishable from those encountered normally
+with advancing age.~~ 16 How this will translate to future
+symptoms is unknown. Examination of the older gymnast
+group suggests that intermittent backache could be one
+sequela of early degenerative changes.
+The physician caring for high level gymnasts with per-
+sistent lumbar complaints will find MRI assessment of the
+lumbar spine an excellent addition to the existing diagnostic
+test. Although expensive, MRI is free of ionizing radiation
+and provides information that may aid in establishing the
+extent of early changes. When one is dealing with the
+preelite and elite athlete, appropriate restrictions are often
+assisted by specific diagnostic studies.
+The high association between exposure to repetitive axial
+loading and the development of chronic degenerative spine
+problems raises several issues. The rate of spine injury might
+be decreased by requiring more substantially cushioned
+landing mats for gymnasts, even during competition. Also,
+since this study suggests that spine changes are &dquo;dose-
+related,&dquo; a limitation in the number of hours of training per
+week might reduce the incidence of spine injury in gymnasts.
+This would admittedly be difficult to enforce in the inter-
+national gymnastic community. The penalty to the young
+female gymnast should be in points from the judge and not
+in injury to her spine.
+These young women at the preelite, elite, national, and
+Olympic level represent only a very small percentage of the
+overall participants in this sport. We do not have enough
+information to suggest that an MRI of the lumbar spine be
+performed on each young female gymnast. The senior author
+(DWJ) prefers to have this done on the preelite young
+
+468
+gymnasts that he will follow through their career. It is free
+of ionizing radiation and can be repeated as necessary in
+young female gymnasts to determine healing or in assessing
+new injuries. In the vast majority of gymnasts below preelite
+level, and with less significant complaints, symptoms are
+the main indicator of altered training and treatment regi-
+mens.
+The senior author (DWJ) prefers the CT scan over the
+MRI to evaluate select pars interarticularis and facet inju-
+ries. However, because of the radiation exposure with CT
+and technetium scanning, they are used very selectively.
+Newer techniques and equipment are increasing MRI ca-
+pabilities in demonstrating the posterior elements.
+ACKNOWLEDGMENTS
+The authors thank Klaus Barth and the swim coaches of
+Long Beach State University, California; Wendy Dorches-
+ter, statistical assistant Perinatal Research, Memorial Med-
+ical Center Long Beach, California; and Don Peters, SCATS
+Gymnastics, Huntington Beach, California.
+REFERENCES
+1 Collier BD, Johnson RP, Carrera GF, et al Painful spondylolysis or spon-
+dylolisthesis studied by radiography and single-photon emission computed
+tomography Radiology 154 207-211, 1985
+2 Cyron BM, Hutton WC The fatigue strength of the lumbar neural arch in
+spondylolysis J Bone Joint Surg 60B. 234-238, 1978
+3 DeCandido P, Reinig JW, Dwyer AJ, et al Magnetic resonance assessment
+of the distribution of lumbar spine disc degenerative changes J Spinal
+Disorders 1 9-15, 1988
+4 Edelman RR, Shoukimas GM, Stark DD, et al High-resolution surface-coil
+imaging of lumbar disk disease AJR 144 1123-1129, 1985
+5 Farfan HF, Osteria V, Lamy C: The mechanical etiology of spondylolysis
+and spondylolisthesis. Clin Orthop 117 40-55, 1976
+6 Garnck JG, Requa RK Epidemiology of women’s gymnastics injuries Am
+J Sports Med 8: 261-264, 1980
+7 Gibson MJ, Szypryt EP, Buckley JH, et al: Magnetic resonance imaging of
+adolescent disc herniation J Bone Joint Surg 69B: 699-703, 1987
+8 Jackson DW, Wiltse LL, Cirincoine RJ Spondylolysis in the female gym-
+nast Clin Orthop 117: 68-73, 1976
+9 Jackson DW, Wiltse LL, Dingeman RD, et al Stress reactions involving
+the pars interarticularis in young athletes Am J Sports Med 9 304-312,
+1981
+10 Libson E, Bloom RA, Dinan G Symptomatic and asymptomatic spondy-
+lolysis and spondylolisthesis in young adults Int Orthop 6 259-261, 1982
+11 Masaryk TJ, Ross JS, Modic MT, et al. High-resolution MR imaging of
+sequestered lumbar intervertebral disks AJR 150. 1155-1162, 1988
+12 Ross JS, Perez-Reyes N, Masaryk TJ, et al: Thoracic disk herniation. MR
+imaging Radiology 165 511-515, 1987
+13 Schmorl G, Junghaus H The Human Spine in Health Disease New York,
+Grune & Stratton, 1959
+14 Spencer CW, Jackson DW: Back injuries in the athlete Clin Sports Med
+2 191-215, 1983
+15 Taillard WF Etiology of spondylolisthesis. Clin Orthop 117. 30-39, 1976
+16 Weinreb JC, Wolbarsht LB, Cohen JM, et al: Prevalence of lumbosacralintervertebral disk abnormalities on MR images in pregnant and asympto-
+matic nonpregnant women Radiology 170 125-128, 1989
+17 Wiltse LL, Newman PH, Mcnab I Classification of spondylolisis and spon-
+dylolisthesis Clin Orthop 117 23-29, 1976
+18 Wiltse LL, Widell EH, Jackson DW Fatigue fracture The basic lesion in
+isthemic spondylolisthesis J Bone Joint Surg 57A 17-22, 1975
+19 Yu S, Haughton VM, Ho PSP, et al Progressive and regressive changes
+in the nuclear pulposus Part II The adult Radiology 169 93-97, 1988
+20 Yu S, Haughton VM, Sether LA, et al Anulus fibrosus in bulging interver-
+tebral disks Radiology 169 761-763, 1988
+21. Yu S, Sether LA, Ho PSP, et al Tears of the anulus fibrous Correlation
+between MR and pathologic findings in cadavers AJNR 9 367-370, 1988
+DISCUSSION
+Lyle J. Micheli, MD, Boston, Massachusetts: The Ameri-
+can public is now asking sports medicine not only to treat
+their sports injuries, but also to advise them on sports and
+exercise selection for themselves and their children. Too
+often these questions reveal our profound ignorance of the
+host factors and environmental factors that contribute to
+injury or affect performance. What is the best sport for my
+child? How much do they train? These are questions we
+hear now in our offices. I can assure you that if orthopaedic
+sports medicine does not provide scientific answers to some
+of these questions, other groups will step forward who will
+provide answers, perhaps with much less scientific basis.
+Scientific study of overtraining is in its infancy. Such
+studies as have been done have looked only at performance,
+not safety; have involved endurance sports such as distance
+running or swimming; and have used metabolic markers, not
+anatomic ones. The present study uses the noninvasive,
+nonradiation imaging technique, MRI to assess spinal in-
+jury, comparing the incidence of degenerative spinal changes
+in young gymnasts and swimmers. This data tells us that 15
+hours of gymnastics training per week may be the upper
+limit for back safety, even in elite level gymnasts. The
+amount of safe training per week may be less in the com-
+munity gymnast.
+The study may not have been able to answer more of the
+questions posed because of a relatively small number of
+subjects. A large portion of symptomatic back injuries seen
+in gymnasts are overuse injuries of the bony posterior ele-
+ments of the spine. The sensitivity and specificity of MRI
+in detecting these lesions of the pedicles, pars intraarticu-
+laris, or facets has not yet been demonstrated. My own
+clinical experience suggests that the MRI is not the best
+technique for detecting this type of injury.
+I congratulate the authors on a well-conceived and impor-
+tant study. I look forward to future studies that will provide
+safety limits for the young gymnast’s wrists, the young
+swimmer’s shoulders, and the young runner’s knees.
+

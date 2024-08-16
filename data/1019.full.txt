@@ -1,0 +1,1196 @@
+   1 of 10
+Pozzi F , et al. Br J Sports Med 2020;54:1019–1027. doi:10.1136/bjsports-2019-100698Preseason shoulder range of motion screening and 
+in-
+ season risk of shoulder and elbow injuries in 
+overhead athletes:
+ systematic review and meta-
+ 
+analysis
+Federico Pozzi     ,1,2 Hillary A Plummer     ,3 Ellen Shanley,4 Charles A Thigpen     ,4 
+Chase Bauer,5 Melissa L Wilson     ,6 Lori A Michener2 Review
+To cite: Pozzi F , 
+Plummer HA, Shanley E, et al. Br J Sports Med 2020;54:1019–1027. ►Additional material is 
+published online only. To view, please visit the journal online (http://
+ 
+dx.
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1136/
+ 
+bjsports-
+ 
+2019-
+ 
+100698).
+1Department of Physical 
+Therapy, University of Florida, Gainesville, Florida, USA
+2Division of Biokinesiology and 
+Physical Therapy, University of Southern California, Los Angeles, California, USA
+3Andrews Research & Education 
+Foundation, Gulf Breeze, Florida, USA
+4ATI Physical Therapy, Greenville, 
+South Carolina, USA
+5Western University of Health 
+Sciences, Pomona, California, USA
+6Department of Preventive 
+Medicine, University of Southern California, Los Angeles, California, USA
+Correspondence to
+Dr Federico Pozzi, Department of Physical Therapy, University of Florida, Gainesville, FL 32611, USA; 
+ 
+fpozzi@
+ 
+phhp.
+ 
+ufl.
+ 
+edu
+Accepted 16 December 2019Published Online First 14 January 2020
+© Author(s) (or their employer(s)) 2020. Re-
+ use 
+permitted under CC BY
+. 
+Published by BMJ.
+AbsTRACT
+Objective
+ T
+o characterise whether preseason screening 
+of shoulder range of motion (ROM) is associated with the 
+risk of shoulder and elbow injuries in overhead athletes.Design
+ Systematic review and meta-
+ analysis
+.
+Data sources
+ Six electronic databases up to 22 
+September 2018.Eligibility criteria
+ Inclusion criteria were (1) overhead 
+athletes from Olympic or college sports
+, (2) preseason 
+measures of shoulder ROM, (3) tracked in-
+ season injuries 
+at the shoulder and elbow,
+ and (4) prospective cohort 
+design. Exclusion criteria were (1) included contact injuries, (2) lower extremity, spine and hand injuries, and (3) full report not published in English.Results
+ Fifteen studies were identified,
+ and they 
+included 3314 overhead athletes (baseball (74.6%), softball (3.1%), handball (16.1%), tennis (2.0%), volleyball (2.0%) and swimming (2.2%)). Female athletes are unrepresented (12% of the overall sample). Study quality ranged from 11 to 18 points on a modified Downs and Black checklist (maximum score 21, better quality). In one study, swimmers with low (<93°) or high (>100°) shoulder external rotation were at higher risk of injuries. Using data pooled from three studies of professional baseball pitchers, we showed in the meta-
+ 
+analysis that shoulder external rotation insufficiency (throwing arm <5° greater than the non-
+ throwing 
+arm) w
+as associated with injury (odds ratio=1.90, 95% 
+confidence interval 1.24 to 2.92, p<0.01).Conclusion
+ Preseason screening of shoulder external 
+rotation ROM may identify professional baseball pitchers and swimmers at risk of injury.
+ Shoulder ROM screening 
+may not be effective to identify handball, softball, volleyball and tennis players at risk of injuries. The results of this systematic review and meta-
+ analysis should be 
+interpreted with caution due to the limited number of studies and their high degree of heterogeneity.PRO
+s
+PERO registration number
+ CRD42017072895.
+In
+TROD
+u
+CTIO
+n
+Overuse shoulder and elbow injuries are common 
+across different overhead athletes regardless of age, sex and level of playing.
+1–5 Evaluating potential 
+environmental-
+ specific 
+(extrinsic) and individual-
+ 
+specific 
+(intrinsic) risk factors for shoulder and elbow 
+injuries in overhead athletes is a research priority. Extrinsic risk factors include sport specialisation, training intensity, number of games per week, and number of pitches or throws per game and over a 
+year.
+6–10 Extrinsic factors may contribute to overuse 
+injuries due to repetitive load on the shoulder and elbow without adequate time to recover. Intrinsic non-
+ modifiable 
+risk factors include age, height, sex 
+and previous injury.6 7 Impairments of joint range 
+of motion (ROM) except when attributable to humeral torsion,
+11–17 strength18 19 and neuromus-
+cular control20 are intrinsic modifiable risk factors 
+because their effect may be modifiable through targeted injury prevention programmes.
+21
+Changes or side-  to-  side differences of shoulder 
+ROM 
+result from the repetitive demands of over -
+head sport,22–24 but they may also be a risk factor 
+for injury. In Keller’s systematic review, injured overhead athletes (baseball, handball and tennis) had deficits of shoulder internal rotation, external rotation and total rotation ROM.
+16 Limitations 
+included studies with cross-
+ sectional 
+and retrospec-
+tive designs, so it is impossible to determine whether the deficits in ROM were present before the injury or were an adaptation to the injury.
+16 Using 
+prospective cohort studies, Bullock et al’s17 meta-  
+analysis showed 
+that high school baseball players 
+who sustained an in-
+ season shoulder and elbow 
+injuries have less preseason shoulder internal rota
+-
+tion (absolute value: 44°, side-
+ to-
+ side difference: 
+5°) and total rotation (absolute value 160°, side-
+ to-
+ 
+side difference: 8°) ROM compared with players who did not sustain 
+an injury during the season. 
+However, the authors did not report the magni-tude of risk of in-
+ season injuries 
+with an odds or 
+risk ratio for the players with the defined preseason ROM values.
+17 Understanding the strength of the 
+association between risk factors (preseason ROM) and outcomes (injury) is critical to evaluate the ability of preseason ROM to predict risk of injury in overhead athletes, and to design screening and prevention programmes.
+21
+The purpose of this systematic review and meta-  
+analysis was to summarise the available 
+evidence, 
+to evaluate the quality of research methods and to characterise the association of preseason shoulder ROM with future risk of shoulder and elbow inju-ries in prospective cohorts of overhead athletes. We hypothesised that preseason ROM measures of shoulder internal rotation, external rotation, hori-zontal adduction, shoulder flexion and total rota-tion have the potential to identify overhead athletes at risk of shoulder and elbow injuries. on August 12, 2024 by guest. Protected by copyright. http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2019-100698 on 14 January 2020. Downloaded from 
+2 of 10
+Pozzi F , et al. Br J Sports Med 2020;54:1019–1027. doi:10.1136/bjsports-2019-100698Review
+METhODs
+This review was performed according to the Preferred Reporting 
+Items for Systematic Reviews and Meta-
+ Analyses guidelines.25 
+The review protocol was registered on PROSPERO.
+Data source and search
+The following databases were queried for existing evidence (from their inception to September 2018): MEDLINE, Scopus, Embase, Cochrane Library, Cumulative Index to Nursing and Allied Health Literature and SPORTdiscus (via Ebsco). A full-
+ 
+time librarian from the Norris 
+Medical Library of the Univer -
+sity of Southern California developed and conducted the search strategy for each database. The search strategies used to query MEDLINE and Cochrane Library are reported in online supple-mentary appendix A and were adapted for the other databases. Three senior authors with expertise in upper extremity injury in overhead athletes (ES, CAT and LAM) reviewed the list of the included studies to identify studies that were not found through the systematic search of the databases. Further, the reference list of the included studies was hand searched for additional missing studies.
+study selection
+Identified articles were imported in Endnote (Clarivate Analytics, Philadelphia, USA) to screen for duplicates. Afterward, they were exported into Covidence (Covidence systematic review soft-ware, Veritas Health Innovation, Melbourne, Australia; available at www.
+ covidence.
+ org) for screening and 
+full-
+ text 
+selection. The 
+following inclusion criteria were used to determine eligibility: (1) inclusion of overhead athletes from Olympic or National Collegiate Athletic Association sanctioned collegiate sports (wide participation), (2) use of preseason measures of ROM; (3) tracked injuries at the shoulder and/or elbow throughout the season, and (4) use of a prospective cohort design. Exclusion criteria included the following: (1) sport does not require over -
+head repetitive activities; (2) inclusion of contact injuries; (3) lower extremity, spine and hand injuries; and (4) full report not published in English. Studies that assessed humeral retrotorsion were excluded from this review because this physical impairment is not modifiable.
+26 27 Studies that assessed the effectiveness of 
+specific interventions to reduce the risk of shoulder and elbow injuries were excluded from this review.
+T wo authors (FP and HAP) independently screened the title 
+and abstract to identify relevant studies for the full-
+ text review
+. A 
+subsample of 100 studies were randomly selected to calculate the agreement between the two reviewers (Cohen’s kappa=0.88, indicating high level of agreement). During both the title and abstract screening and the full-
+ text 
+review, disagreements 
+between the two authors were first discussed. If consensus was not achieved, a third author (LAM) was consulted to make the final decision regarding inclusion or exclusion.
+Assessment of methodological quality
+T wo authors (PF and HAP) independently scored the method -
+ological quality of each included study using a modified version of the Downs and Black Checklist.
+28 The Cochrane Handbook 
+recommends the use of this checklist to appraise non-
+ randomised 
+studies.29 The original Down and Black Checklist contains 
+27 yes/no questions distributed over five sections: reporting, external validity, internal validity (bias and selection bias) and power. Previous systematic reviews that investigated injury risk factors in athletes recommended modifying the Downs and Black Checklist because 6 out of the original 27 questions do not apply to prospective cohort studies.
+20 30 Further, the score 
+of question number 27 (Did the study have sufficient power to detect a clinically important effect where the probability value for a difference being due to chance is less than 5%?) was converted into a dichotomous output (yes=1, the study met the a priori sample target; no=0, the study did not report or did not meet the a priori sample target). The modified checklist used in this study had a maximum score of 21 points, which indicated higher methodological quality. For each article, the raw score and the percentage score [(raw score/21 possible points)×100] was reported. During the assessment of methodological quality, disagreements between the two authors were first discussed. If consensus was not achieved, a third author (LAM) was consulted to make the final decision regarding specific scores.
+Data extraction
+One author (FP) extracted the data, which was checked for consistency by a second author (HAP). The following informa-tion was obtained: (1) author, (2) year of publication, (3) sport, (4) study population, (4) sample size, (5) sex, (6) age, (7) partic-ipants reporting discomfort or injury at baseline evaluation, (8) participants lost to follow-
+ up, 
+(9) number of participants 
+included in the analysis, (10) number of seasons, (11) injury definition, (12) injury tracking, (13) number of injuries and (14) number of injured participants.
+Outcome measures
+Injury
+An injury was defined as any shoulder-  related or elbow-  related 
+complaint incurred due to competition or 
+training.31 Injuries to 
+the shoulder and elbow had to be tracked during the season by 
+healthcare personnel, in-
+ season player interview 
+or self-
+ reported 
+questionnaires.
+Range of motion
+ROM testing procedures, the direction of ROM testing and the side tested were recorded. ROM measurements included two types of variables: (1) absolute ROM of the throwing arm and (2) ROM of the throwing arm expressed as a function of the ROM of the non-
+ throwing 
+arm. The latter often includes 
+a specific ROM cut-
+ off to define the absence or presence of a 
+specific ROM deficit. 
+The type of ROM measure and the cut-
+ off 
+used to identify ROM deficit were extracted for the analysis.
+Data analysis
+Only ROM variables that were included as predictors in at least three studies were considered for the meta-
+ analysis. 
+For 
+the studies included in the meta-
+ analysis, 
+odds or risk ratios, 
+confidence intervals and p values were extracted. A random-
+ 
+effect 
+meta-
+ analysis 
+was conducted using the method of Mantel-
+ 
+Haenszel stratified by the direction of ROM and the type of measurement (absolute and deficit). The primary outcome was shoulder and elbow 
+injuries. For all ROM measurements, except 
+for shoulder internal rotation difference, the summarised effect estimate was the odds ratios. For shoulder internal rotation difference, Shanley et al
+12 reported the risk ratio as effect esti-
+mate, while Wilk et al32 33 reported the odds ratio. In order to 
+synthesise the data between these studies12 32 33 and to provide an 
+overall estimate, crude odds ratios were converted to crude risk ratios using the formula
+ RR=OR/[
+1−R0+(
+R0X OR)]
+   on August 12, 2024 by guest. Protected by copyright. http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2019-100698 on 14 January 2020. Downloaded from 
+3 of 10
+Pozzi F , et al. Br J Sports Med 2020;54:1019–1027. doi:10.1136/bjsports-2019-100698Review
+Figure 1  Preferred Reporting Items for Systematic Reviews and 
+Meta-
+ Analyses flow diagram.25 Superscript numbers indicate the 
+corresponding reference. ROM, range of motion.
+where RR is the risk ratio; OR is the odds ratio; and R0 is 
+equal to the risk of a positive outcome in the unexposed group. 
+Summary effect estimates and 95% confidence intervals were reported.
+I
+2 statistic assessed the heterogeneity of each ROM meta-  
+analysis. F
+unnel plot and Egger’s test evaluated publication bias 
+and the possibility of a small study effect.
+REsulT s
+s
+tudy selection
+The database search was completed on 22 September 2018. The search identified 10
+ 539 studies (
+figure
+ 
+1): 2855 duplicates 
+were removed; 7684 studies were screened; and 93 studies were reviewed in full text. Fifteen studies
+11–15 32–41 met the inclusion 
+and exclusion criteria and were included.
+study characteristics
+Table  1  summarises the characteristics of the included studies. 
+A total of 3314 (female=385) athletes of overhead sports were included in this review, specifically, baseball (n=2471, female=27), softball (n=103, all female), handball (n=535, female=161), tennis (n=65, female=25), volleyball (n=66, female=32) and swimming (n=74, female=37). Six studies included samples of both female and male athletes,
+12–14 34 39 40 
+but only one considered sex as a covariate in the analysis.39 One 
+study12 included a cohort of baseball and softball players but 
+reported independent analyses for each sport. One study35 
+included a cohort of youth and adolescent baseball pitchers but reported independent analyses for each age group. A group of authors reported data from the same cohort in two different manuscripts, one that analysed risk factors for shoulder
+32 and 
+one for elbow injuries.33 Most of the studies followed up athletes 
+for one competitive season. Nine studies tracked injuries across multiple seasons (range of two to eight seasons).11 32 33 35 37 38 40 41 
+Athletes were re-
+ evaluated 
+at the beginning of each season in 
+seven studies,11 32 33 35 37 38 41 while one considered injuries occur -
+ring over a 2-
+ year span.40 After accounting for athletes evaluated 
+for multiple seasons and lost to follow-
+ up, the total included 
+sample 
+was 3750, specifically baseball (n=3026), softball 
+(n=103), handball (n=428), tennis (n=55), volleyball (n=64) and swimming (n=74).
+Injury definition varied across studies (table
+ 
+1). The cumu-
+lative shoulder and elbow injury rate in the overall sample of overhead athletes was 17% (666/3750). Divided by sport, the cumulative shoulder and elbow injury rate was 14% (431/3026) for baseball,
+11 12 32–38 41 9% (9/103) for softball,12 43% (182/428) 
+for handball,15 39 44% (24/55) for tennis,40 4% (3/64) for volley -
+ball14 and 23% (17/74) for swimming.13
+Risk of bias
+The average score on the modified Downs and Black Check-list was 14.9%±2.1% (range 11–18, online supplementary appendix B). Six studies achieved a score of at least 16, which is greater than 75%.
+11 13 15 34 36 39
+ROM measurements
+Shoulder ROM directions included flexion, internal and external rotation, and horizontal adduction. Shoulder flexion ROM was measured using a standard goniometer with partic-ipants supine, and this methodology was consistent across studies.
+11 32 33 40 Shoulder internal and external rotation ROMs 
+were measured either with a goniometer11 12 14 32 33 38 or a digital 
+inclinometer13 15 35–37 39 41 with participants supine with shoulder 
+abducted at 90° and elbow flexed at 90°. Horizontal adduc-tion ROM was measured with either a goniometer
+11 12 34 or a 
+digital inclinometer35 37 41 with participants supine, according 
+to the procedure described by Laudner et al.42 Further, nine 
+studies11 12 15 32–34 36–39 41 calculated the total rotation of motion 
+by summing internal and external ROMs.
+Preseason screening and in-season shoulder and elbow 
+injuries
+Methodological differences prevented including the results 
+of eight studies in the meta-
+ analysis.13 14 34 37 38 40 41 43 Three 
+studies32 33 38 from the same group of investigators had overlap-
+ping data collection time frames: three competitive seasons, from 2005 to 2008,
+38 and eight competitive seasons, from 2005 to 
+2012.32 33 Only the data from the eight competitive seasons were 
+included in the meta-
+ analysis.32 33 Softball players were excluded 
+from the internal rotation deficit meta-
+ analysis 
+because none of 
+the nine softball players with at least 20° of shoulder internal rota-tion deficit sustained an injury.
+12 Table  2  summarises the results 
+excluded from the meta-
+ analysis. 
+Shanley et al35 used a receiver 
+operating characteristics curve to calculate the preseason cut-
+ off 
+of shoulder ROM 
+deficit with the highest sensitivity for risk of 
+shoulder and elbow injuries. In adolescent baseball pitchers, a shoulder internal rotation deficit of at least 13° and a shoulder horizontal adduction deficit of at least 15° were associated with a 5.8 and 4.1 greater risks of shoulder and elbow injuries.
+35 The 
+same analysis did not produce any significant results in youth baseball pitchers.
+35 Shanley et al12 reported that high school 
+baseball players with deficit of shoulder internal rotation ROM greater than 25° are at higher risk (risk ratio=4.8) of injury. In contrast, T yler et al
+37 reported that high school pitchers with no 
+internal rotation deficit (side-
+ to-
+ side difference of less than 0°) 
+are at higher risk of shoulder and elbow 
+injuries (risk ratio=4.9)  on August 12, 2024 by guest. Protected by copyright. http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2019-100698 on 14 January 2020. Downloaded from 
+4 of 10
+Pozzi F , et al. Br J Sports Med 2020;54:1019–1027. doi:10.1136/bjsports-2019-100698Review
+Table 1  Study characteristics
+sport P opulation s ample s ex Age*Discomfort or injury at 
+baselinel
+ost to 
+follow-  upIncluded in the analysis
+s easons Injury definition Injury tracking InjuriesInjured players
+Andersson et al
+39† Handball Upper division 329 168 M
+161 FNR 155 past SH pain156 SH problem last 7 days46 substantial SH problem last 7 days92 267 1 Overuse SH injury (OSTRC score >40) OSTRC questionnaire (six times during the 
+season)74 74
+Clarsen et al
+15† Handball Professional 206 M 24.0 (4.0) 154 past SH pain
+65 SH pain at baseline23 unable to play due to SH pain42 161 1 Overuse SH injury‡ (OSTRC score >40) OSTRC questionnaire (15 times during the 
+season)108 108
+Camp et al
+11† Baseball Professional 
+pitchers81 M 27.9 (4.5) NR 4 132 (51 tested multiple seasons)6 SH or EL injury that caused missing at least 
+one practice or gameAthletic trainer or physician 25 SH28 EL50
+Oyama et al
+41Baseball High school players 832 M 16.5 (1.2) NR NR 832 (tested 
+multiple season NR)3 SH or EL injury that caused missing/limited 
+exposure in at least one practice or gameWeekly email completed by athletic trainer 25 SH
+14 EL2 Both41
+Sakata et al
+34Baseball Youth players 593 326 M
+27 F9.6 (1.2) 176 previous SH or EL pain 
+(excluded from analysis)64 353 1 Medial EL pain during throwing with 
+abnormal sonography or pain during clinical assessmentDiaries to record elbow or shoulder pain daily78 78
+Shanley et al
+35Baseball Youth pitchers 47 M 9.9 (1.2) Exclusion criteria NR 115 (tested 
+multiple season NR)3 SH or EL injury that caused missing at least 
+one practice or gameTeam athletic trainer or study physical therapist evaluated reported complaint9 SH10 EL33
+Adolescent pitchers68 14.9 (1.2) 8 SH8 EL
+Shanley et al
+12† Baseball High school players 143 M 15.8 (1.3) Exclusion criteria NR 143 1 SH and EL injury reported by the player to 
+the coach or athletic trainerAthletic Healthcare System Daily Injury Report form and Simtrack mobility system16 SH11 EL18 baseball
+Softball 103 F 15.6 (1.2) 103 9 softball
+Shitara et al
+36† Baseball High school 
+pitchers132 M 16.3 (0.6) 41 past SH pain
+57 past EL pain17 current SH pain25 current EL pain27 105 1 SH or EL injury that caused missing at 
+least 8 daysInjuries reported at medical check-
+  ups 21 21
+T
+yler et al37Baseball High school 
+pitchers101 M NR NR NR 166 (42 tested 
+multiple seasons)4 SH or EL injury that caused missing at least 
+one practice or gameInjuries recorded by athletic trainer or physical therapist of each team.19 SH9 EL28
+Wilk et al
+33† Baseball Professional 
+pitchers296 M 24.7 (4.1) NR 8 505 (126 tested multiple seasons)8 EL injury requiring placement on the 
+disabled listAthletic trainers or internet databases 49 38
+Wilk et al
+38Baseball Professional 
+pitchers122 M 25.6 (4.1) None NR 170 (38 tested 
+multiple seasons)3 SH injury causing limited participation or 
+unable to playHead athletic trainer and team physician 33 30
+Wilk et al32† Baseball Professional 
+pitchers296 M 24.7 (4.1) None 8 505 (126 tested multiple seasons)8 SH injury requiring placement on the 
+disabled listAthletic trainers or internet databases 75 51
+Hjelm et al
+40Tennis Junior 65 40 M
+25 F15.5 (2.5) Exclusion criteria 10 55 2 SH or EL injury that caused missing at least 
+one practice or gamePlayers contacted the investigator if they had an injury24 24
+Forthomme et al
+14Volleyball Professional 66 34 M
+32 F24.0 (5.0) 32 history of SH pain in dominant 
+shoulder2 64 1 SH pain that caused absence from sport 
+between 1 and 3 weeksWeekly questionnaire about shoulder pain 3 3
+Walker et al13Swimmers Competitive 74 37 M
+37 F15.0 (3.0) Exclusion criteria 1 74 1 SH pain that interfered with competition or 
+training and lasts at least 2 weeksWeekly diary about injury status 17 17
+*Reported as mean (SD).†Included in the meta-
+ analysis
+.
+‡The authors acknowledged the inclusion of injuries that were acute flare-
+ ups of chronic problems
+, and long-
+ term problems initially caused by an acute trauma or purely caused by an acute trauma.
+EL,
+ elbow; F , female; M, male;NR, not reported; OSTRC, Oslo Sports Trauma Research Centre Overuse Injury Questionnaire; SH, shoulder. on August 12, 2024 by guest. Protected by copyright. http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2019-100698 on 14 January 2020. Downloaded from 
+5 of 10
+Pozzi F , et al. Br J Sports Med 2020;54:1019–1027. doi:10.1136/bjsports-2019-100698Review
+Table 2  Summary of the results from the study that were not included in the meta-  analysis
+shoulder flexion s houlder internal rotation s houlder external rotation s houlder total rotations
+houlder horizontal 
+adduction
+Absolute Deficit* Absolute Deficit* Absolute Deficit* Absolute Deficit* Absolute Deficit*
+Oyama et al41… … NS† NS† NS† NS† NS† NS† NS† NS†
+Sakata et al34… … NI NI NI NI NS¶ … NI NI
+Shanley et al35
+  Adolescent … … … >13°:  5.8‡(1.6, 20.9) … NS¶ … NS¶ … >15°: 
+4.1‡(1.2, 
+13.9)
+ 
+ 
+Youth … … … NS¶ … NS¶ … NS¶ … NS¶
+Shanley et al12
+  Baseball … … … ≥25°:  4.8** (2.1, 11.3) … … … NS … NS¶
+ 
+ 
+Softball … … … NS … … … NS … NS¶
+Tyler et al37… … … <0°: 4.9†† (1.0 to 23.3) … NS¶ … NS¶ … NS¶
+Wilk et al38… … … NS … … … >5°: 2.5§ 
+(1.1, 5.3)… …
+Hjelm et al40NI NI NI NI NI NI … … … …
+Forthomme et al14… … NS¶ … NS¶ … … … … …
+Walker et al13… … … … <93°: 24.9‡‡ (2.3, 262.6)>100°: 23.0‡‡ (2.2, 236.8)… … … … …
+*Range of motion of the throwing arm expressed as a function of the non-  throwing arm.
+†Analysis compared risk ratio in three groups:
+ below normal, normal and above normal (mean±1 SD used for group definition).
+‡Analysis based on the area under the curve of a receiving operating characteristic curve. The odds ratio of the angle cut-
+ off that maximized sensitivity w
+as reported because the 
+authors believed that the cost of participating in a prevention programme is lower than the potential lack of identification of adolescent pitchers at risk of injury.§Odds ratio¶Specific effect estimates were not reported in the results.**Risk ratio.††Risk ratio for high school pitchers with below-
+ normal internal rotation loss (<0°) compared with pitchers with above-
+ normal internal rotation loss (≥20°).
+‡‡Unadjusted odd ratios
+. Odd ratios adjusted for swim distance (km): <93°: 32.5 (2.7, 389.6) p=0.02 and >100°: 35.4 (2.8, 441.9) p=0.02.
+NI, not included in the multivariate predictive analysis; NS, not a significant predictor (odds or risk ratios not reported).
+compared with pitchers with a loss of internal rotation of at least 
+20°. Walker et al13 reported that swimmers with low (<93°) and 
+high (>100°) absolute shoulder external rotations are at risk of a shoulder injury (odds ratios=24.9
+ and 
+23.0, respectively) 
+compared with swimmers with shoulder external rotation within 93° and 100°. The odds ratios increased to 32.5 (external rota-tion <93°) and 35.4 (external rotation >100°) when the statis-tical model included swimming training distance. Prospective studies in softball,
+12 tennis40 and volleyball14 players showed 
+that preseason shoulder ROM is not associated with in-
+ season 
+shoulder and elbow injuries.
+Meta-
+ analyses included data from 
+prospective cohorts of base-
+ball and handball players.11 12 15 32 33 36 39 T wo studies reported 
+effect estimates that were adjusted based on baseline charac-teristics (detailed information reported in figure
+ 
+2).15 39 Inde-
+pendent meta-
+ analysis 
+evaluated absolute shoulder ROM of 
+external rotation,15 36 39 internal rotation15 36 39 and total rota-
+tion.15 36 39 Other studies measured the absolute value of internal 
+and external rotations,13 14 40 41 as well as total rotation,34 41 but 
+the methodological differences13 41 in the predictive analysis or 
+incomplete results reporting14 40 prevented from including these 
+studies in the respective meta-
+ analysis. Only one study measured 
+the absolute 
+value of shoulder flexion and shoulder hori-
+zontal adduction.11 The results of the meta-  analyses indicated 
+that absolute shoulder ROM is not associated with shoulder and elbow injuries (figure
+ 
+2). A large degree of heterogeneity 
+between studies was found for the absolute value of absolute shoulder internal rotation (I
+2=71.9%, p=0.03) and total rota-
+tion (I2=62.1%, p=0.07) ROMs.Independent meta- analyses evaluated shoulder 
+flexion,11 32 33 external rotation11 32 33 and internal rotation 
+ROM differences.12 32 33 Other studies measured external rota-
+tion differences34 36 37 41 and internal rotation differences,34–37 41 
+but methodological disparities in the predictive analysis,37 41 
+exclusion from multivariate predictive analysis34 and different 
+angle cutoffs used to define ROM deficits35 36 prevented from 
+including these studies in the respective meta-
+ analyses. 
+Shoulder 
+total rotation and horizontal adduction ROM differences were 
+measured in seven12 32 33 36–38 41 and four11 12 34 35 studies, respec-
+tively. However, the methodological differences in the predic-tive analysis,
+37 41 the different cut-  offs used to define shoulder 
+total rotation or horizontal adduction deficit,11 12 32 33 35 36 38 
+and exclusion from multivariate predictive analysis,34 prevented 
+combining the data in meta-
+ analyses. 
+Three side-
+ to-
+ side 
+ROM 
+cut-
+ offs were 
+consistently used across studies to define specific 
+ROM deficits: (1) shoulder flexion: non-
+ throwing arm–throwing 
+arm >5°11 32 33; (2) shoulder external rotation: throwing arm–
+non-
+ throwing 
+arm >5°11 32 33 and (3) shoulder internal rotation: 
+non-
+ throwing arm–throwing arm >20°.12 32 33 The results of the 
+meta-
+ analyses indicated that the presence of a 5° insufficiency of 
+shoulder external rotation between the throwing and the non-
+ 
+throwing arms (ie, 
+external rotation in the throwing arm was <5° 
+greater than the non-
+ throwing arm) is 
+significantly associated 
+with in-
+ season shoulder and elbow injuries (odds ratio=1.90, 
+95% confidence 
+interval 1.24 to 2.92, p<0.01; figure
+ 2
+). The 
+effect estimates of the meta-
+ analysis for external rotation 
+insuffi-
+ciency did not have substantial heterogeneity (I2=0%, p=0.50).  on August 12, 2024 by guest. Protected by copyright. http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2019-100698 on 14 January 2020. Downloaded from 
+6 of 10
+Pozzi F , et al. Br J Sports Med 2020;54:1019–1027. doi:10.1136/bjsports-2019-100698Review
+Figure 2  F orest plot indicating the meta-  analysis results for all preseason ROM screening and subsequent risk of shoulder and elbow injuries . The 
+summarised effect estimate was the odds ratios for absolute external, internal and total rotation and external and flexion deficit. The summarised 
+effect estimate for internal rotation deficit was the risk ratio. a, adjusted for history of shoulder surgery. b, adjusted for sex and history of shoulder pain during the last season. c, adjusted for sex and shoulder pain at baseline. d, adjusted for player position (back player) and history of shoulder surgery. e, authors reported poor inter-
+ rater and intrarater reliabilities of ROM measurements
+. CI, confidence interval; OR, odds ratio; ROM, range of 
+motion; RR, risk ratio.
+In contrast, a large degree of heterogeneity between studies was 
+found for shoulder flexion difference (I2=71.4%, p=0.03).
+Overall, the funnel plot was fairly symmetrical and contained 
+within the borders of the funnel, indicating limited publication bias (figure
+ 
+3). However, there is some evidence of publication 
+bias for external rotation ROM deficit. The funnel plot posi-tive asymmetry suggests that negative or null studies are missing from the published literature. Last, there was no evidence of small study bias (p=0.35).
+DIsCussIOn
+This systematic review summarised the available evidence, eval-uated methodological quality and analysed whether preseason screening of shoulder ROM is associated with the risk of shoulder and elbow injuries in overhead athletes. Overall, we identified 15 prospective cohort studies,
+11–15 32–41 with the majority focusing on baseball. Limited evidence was available 
+for other overhead sports, such as handball, softball, volleyball, swimming and tennis. Female athletes are under-
+ represented, 
+accounting for 12% of the overall sample (34% after removing studies 
+on baseball, which is a male-
+ predominant sports). Only 
+one pros
+pective cohort study of a female-
+ predominant 
+sport of 
+softball12 was identified for this review. Our overall hypothesis 
+that preseason shoulder ROM across all overhead athletes identi-fies those at risk for upper extremity injuries was not confirmed. Summarising the evidence for the meta-
+ analysis was challenging 
+due 
+to the methodological differences between studies. The 
+meta-
+ analysis 
+included three shoulder absolute ROM variables 
+(external, internal and total rotations) and three shoulder ROM deficit (flexion, internal rotation and external rotation). The results of the meta-
+ analysis indicated that professional baseball 
+pitchers were at higher risk of shoulder and elbow injuries when  on August 12, 2024 by guest. Protected by copyright. http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2019-100698 on 14 January 2020. Downloaded from 
+7 of 10
+Pozzi F , et al. Br J Sports Med 2020;54:1019–1027. doi:10.1136/bjsports-2019-100698Review
+Figure 3  Overall , the plot indicates that all reported studies lie within the 95% confidence limits, suggesting limited reporting bias. The proximity of 
+most studies to the solid black line indicates the null results observed in the bulk of included studies. Some asymmetry is noted, especially for external 
+rotation deficit, indicating likely reporting bias for this exposure.
+the throwing arm external rotation was not at least 5° greater 
+than the non-
+ throwing 
+arm. Therefore, screening shoulder 
+external rotation ROM may be valuable in professional baseball pitchers.
+Risk of bias
+Four studies failed to outline the inclusion and exclusion criteria used to select their sample.
+32 33 37 41 The number of the athletes 
+who were lost to follow-
+ up 
+was clearly described in three 
+studies,13 34 39 and five studies reported both the number of 
+athletes that were approached and the number of athletes who agreed to participate.
+15 34 36 39 40 Therefore, some of the included 
+studies may suffer from selection bias. The investigator respon -
+sible for preseason measurements was blinded for hand domi-nance in three studies,
+12 35 36 exposing the remaining studies to 
+potential investigator bias. Only five studies adjusted the analysis for potential confounders.
+11 13 15 32 39 Three studies calculated 
+the required sample size a priori12 34 36: two studies met their 
+target sample size34 36; one study recruited 82% of the estimated 
+sample due to limited time to perform preseason screening.12 
+Therefore, the majority of the studies may lack sufficient sample size. Three studies did not report the investigator reliability in collecting shoulder ROM.
+11 34 37 Andersson et al39 reported poor 
+inter-
+ rater and intrarater reliabil
+ities for their ROM measure-
+ments, which are a critical threat to internal validity that can bias their results.
+baseball
+The risk of shoulder or elbow injuries increased almost twofold if the throwing shoulder of professional baseball pitchers did not have at least 5° greater external rotation compared with the non-
+ throwing shoulder
+. It is well accepted that the throwing arm of overhead athletes displays greater external rotation ROM 
+compared with the non-
+ throwing arm.44 45 Greater shoulder 
+external rotation increases the amount of motion available to develop ball velocity.
+46–48 Professional baseball pitchers with less 
+throwing arm external rotation may employ other strategies, such as dropping their arm slot or allowing their arm to lag behind, to maintain throwing performance, which may place them at higher risk of injury.
+49 50 The fact that less throwing arm shoulder 
+external rotation was associated with shoulder or elbow injury in two independent cohorts of professional baseball pitchers further corroborates the value of screening external rotation ROM in this population.
+11 21 32 The ultimate goal of athlete screening is 
+to reduce their risk of injury by intervening on modifiable risk factors.
+21 Therefore, randomised clinical trials that compare the 
+efficacy of the screening and intervention programme compared with usual training and prevention programmes only are neces-sary to fully understand the value of screening for shoulder external rotation deficit in professional baseball pitchers.
+In contrast, younger baseball pitchers and position players (age 
+7–18 years) do not consistently display differences in shoulder external rotation in the throwing arm compared with the non-
+ 
+throwing 
+arm.51 Although not included in the meta-  analysis, 
+four studies34 36 37 41 failed to find a positive association between 
+shoulder external rotation difference and subsequent risk of shoulder or elbow injuries in cohorts of junior and high-
+ school 
+baseball 
+players. Bullock et al17 found no absolute differences of 
+preseason shoulder external rotation ROM between a group of high school baseball players who suffered an in-
+ season shoulder 
+or elbow injury and a 
+group who did not. Adaptation of shoulder 
+external rotation ROM may occur over several years of playing and with increased level of performance, which may explain the findings in younger cohorts. on August 12, 2024 by guest. Protected by copyright. http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2019-100698 on 14 January 2020. Downloaded from 
+8 of 10
+Pozzi F , et al. Br J Sports Med 2020;54:1019–1027. doi:10.1136/bjsports-2019-100698Review
+The current meta-  analysis indicates that a shoulder internal 
+rotation difference 
+of at least 20° between the throwing and the 
+non-
+ throwing arms is 
+not associated with future shoulder and 
+elbow injuries. The heterogeneity of the studies included in the 
+meta-
+ analysis, 
+which combined professional baseball pitchers32 33 
+and high school baseball players (position players included),12 
+must be considered when interpreting these results. Shoulder internal rotation may not be an important risk factor for profes-sional baseball pitchers.
+11 32 33 In contrast, a recent meta-  analysis 
+showed that a 
+preseason side-
+ to-
+ side difference 
+of at least 5° of 
+shoulder internal rotation characterised high school baseball players that sustained an in-
+ season 
+injury.17 Screening for 5° side-  
+to-
+ side difference 
+in shoulder internal rotation may generate a 
+high number of false positives, considering that previous studies found that only greater internal rotation difference (favouring the non-
+ throwing 
+arm) carried a higher risk of shoulder and 
+elbow injuries (at least of 13°, adolescent pitchers, and at least 25°, high school baseball players; table
+ 2
+).12 35 Additionally, one 
+study found that high school baseball pitchers with no shoulder internal rotation deficit in their throwing arm have a higher inci-dence and a higher risk of shoulder and elbow injuries compared with those with at least 20° of shoulder internal rotation differ -
+ences between the throwing and non-
+ throwing 
+arms.37 Thus, 
+unwarranted stretching, which arbitrarily increases the internal rotation on the throwing arm, may also be deleterious for high school baseball players.
+A shoulder flexion deficit of at least 5° in the throwing arm 
+is not associated with shoulder and elbow injuries in a homog-enous sample of professional baseball pitchers. It is important to note that the anatomical location of the injury was different between the studies included in this meta-
+ analysis. 
+T wo studies 
+considered only elbow injuries,11 33 while one considered only 
+shoulder injuries.32 Based on the reported OR (figure  2), it is 
+unclear 
+why shoulder flexion ROM deficit in the throwing 
+arm would be associated with risk of injury at the elbow, but not at the shoulder. Reduced shoulder flexion may be related to altered latissimus dorsi muscle flexibility. A shoulder flexion deficit of 5° in the throwing arm may result in a lower arm slot during throwing, which has been shown to increase elbow joint stress.
+52 53 Future studies should investigate this potential 
+association.
+Bullock et al17 showed that, when measured at preseason, 
+high school baseball players that sustained in-
+ season shoulder 
+and 
+elbow injuries had at least 8° lower horizontal adduction 
+ROM compared with players who did not get injured.17 When 
+included in risk analysis, Shanley et al35 found that high school 
+baseball pitchers with a difference of horizontal adduction of at least 15° between the throwing and non-
+ throwing 
+arms were at 
+four times greater risks of shoulder and elbow injuries. Similar findings were not reported in one cohort of professional baseball pitchers,
+11 or in studies including cohorts that combined high 
+school baseball pitchers and position players.12 34 Taken together, 
+these findings may indicate that players’ age and position should be considered when screening horizontal adduction ROM.
+Other overhead sports
+The evidence available for other overhead sports was limited to two prospective cohorts from the same group of researchers for handball, and one prospective cohort each for softball, volley -
+ball, tennis and swimming.
+The two studies
+15 39 that screened absolute shoulder ROM 
+of the throwing arm in handball players found opposite results. Clarsen et al
+15 reported a small positive association between shoulder total rotation ROM and injury and no association for internal rotation ROM. In contrast, Andersson et al
+39 reported 
+a small positive association between shoulder internal rotation ROM and injury and no association for total rotation ROM. Caution is warranted when interpreting the results from Andersson et al
+39 due to the poor inter-  rater and intrarater 
+reliability of the ROM measurements. These studies also have some methodological differences that may, in part, explain these contradictory results. Clarsen et al
+15 included only male hand-
+ball players, while Andersson et al39 included both male and 
+female. Each study used different confounders to adjust their analysis. Although both studies used the same definition of overuse injury consistent with a non-
+ contact injury mechanism, 
+Clarsen et al15 acknowledged the inclusion of injuries that were 
+acute flare-
+ ups of chronic problems, long-
+ term problems 
+initially 
+caused an acute trauma or purely caused by an acute trauma. The inclusion of acute injuries may also explain the higher injury rate (52%) reported by Clarsen et al
+15 compared with the study of 
+Andersson et al39 (22%).
+While swimmers have different biomechanical demands 
+compared with throwing sports, shoulder pain and injuries are common due to the high repetitions of overhead motion and training volume.
+2 Based on the results of one study,13 swimmers 
+with external rotation ROM in the low and high tertiles are at higher risk of shoulder and elbow injuries compared with swim-mers whose shoulder external rotation ROM is within 93° and 100° (middle tertile). These results are independent of swimming training distance (table
+ 2
+).13 This ideal external rotation ROM 
+may be protective against shoulder injury, but confirmation of this finding in a second independent cohort of swimmers is needed before making strong recommendations for the use of shoulder ROM screening in this population.
+21
+Absolute shoulder ROM or shoulder ROM deficits were not 
+associated with shoulder or elbow injury in high school softball players,
+12 shoulder pain in professional volleyball players14 or 
+upper extremity injury in tennis players.40
+limitations
+We acknowledge several limitations. Few prospective studies were identified for sports such as handball, softball, tennis, volleyball and swimming. The small number of studies included in each ROM meta-
+ analysis 
+(3 out of 15, 20%) is a significant 
+limitation. With few studies, coverage of the overall effect size is of concern, and one cannot be certain that one large study is not determining the overall effect. Statistical power is limited when the number of studies is low. Lastly, the small number of studies prevented subgrouping within in each meta-
+ analysis.
+There 
+was a high degree of heterogeneity among studies 
+for age (youth to adults), position in baseball (pitchers only to combined cohort of pitchers and field players), competition level (competitive to professional athletes) and injury definition (overuse questionnaires, league managed disable lists, combina-tion of symptoms and sonographic findings, symptom duration, and missing time from sport performance, from one game/prac-tice, up to 3 weeks). Combining studies with substantial hetero-geneity can mask true differences between studies. It can also lead to combining valid studies with biassed research, producing a biassed overall estimate.
+In-
+ season injuries often occur several weeks or months 
+after 
+screening (preseason), and it is possible that the association between screening findings and injuries weakens over time. This is an inherent limitation of all the studies included in this system -
+atic review, as none of the studies reported the time elapsed  on August 12, 2024 by guest. Protected by copyright. http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2019-100698 on 14 January 2020. Downloaded from 
+9 of 10
+Pozzi F , et al. Br J Sports Med 2020;54:1019–1027. doi:10.1136/bjsports-2019-100698Review
+between screening and injury. Future studies should investigate 
+whether more frequent in-
+ season screenings of factors theorised 
+to relate to injury risk provide 
+better identification of overhead 
+athletes at risk of injury. Most of the included studies did not account for previous injury or exposure (ie, frequency of sport-
+ 
+related activities) in the analysis. This is an important 
+limitation 
+as these factors have been linked to injury and can be poten-tial confounders. The aetiology of injury is multifactorial, and shoulder ROM represents only one risk factor for shoulder and elbow injuries. Thus, the results of this systematic review and meta-
+ analysis should be interpreted with caution.
+COnClusIOn
+Absolute shoulder ROM or shoulder ROM differences do not appear to be consistent risk factors for shoulder and elbow inju-ries across different overhead athletes. Age, competition level and position should be considered when screening the shoulder ROM of baseball player. Professional baseball pitchers whose external rotation ROM in the throwing arm was not at least 5° greater than their non-
+ throwing arm were 
+twice as likely to 
+sustain in-
+ season 
+shoulder or elbow injuries. Similar findings 
+were not observed in adolescent or high school baseball pitchers. Limited evidence suggested that swimmers with abnormally low or high external rotation are at higher risk of shoulder inju-ries. Limited evidence suggested that ROM screening may not be effective to identify handball, softball, volleyball and tennis players at risk of shoulder and elbow injuries.
+What is already known
+ ►The repetitive demands of overhead sport lead to side-  to-  
+side changes in shoulder range of motion (ROM),
+ such as 
+increased external rotation and decreased external rotation. 
+However, injured overhead athletes have impairment of shoulder ROM compared with non-
+ injured overhead athletes
+.
+What are the new findings
+ ►Professional baseball pitchers whose external rotation ROM in the throwing arm is not at least 5° greater than the non-
+ throwing arm were twice as lik
+ely to sustain in-
+ season 
+shoulder or elbow injuries
+ ►Limited evidence: swimmers with external rotation of less than 93° or greater than 100° may be at higher risk of shoulder injuries than swimmers whose ROM is between those limits.
+ ►Limited evidence: ROM screening may not be effective to identify handball, softball, volleyball and tennis players at risk of shoulder and elbow injuries.
+Twitter Federico Pozzi @FedPT1, Charles A Thigpen @chuck-thigpen and Lori A 
+Michener @LoriM_PT
+Acknowledgements
+ W
+e acknowledge Robert Edward Johnson, University of 
+Southern California, for developing and conducting the systematic search of the 
+databases.
+Collaborators
+ Robert Edw
+ard Johnson.
+Contributors
+ FP
+, HAP and LAM: conception and design of the work, acquisition, 
+analysis and interpretation of data; drafting of the manuscript and revision; and final 
+approval. ES and CAT: design of the work and interpretation of data, manuscript revision and final approval. CB: acquisition and interpretation of data, manuscript revision and final approval. MLW: analysis and interpretation of data, manuscript revision and final approval.
+Funding
+ FP received salary to complete this work from the Career Development 
+Aw
+ard sponsored by tge Academy of Orthopaedic Physical Therapy; and the Rehabilitation Research Career Development Program sponsored by the National 
+Institute of Health (K12 HD055929). This publication was supported by grants UL1TR001855 and UL1TR000130 from the National Center for Advancing Translational Science of the U.S. National Institutes of Health. The content is solely the responsibility of the authors anddoes not necessarily represent the official views of the National Institutes of Health.
+Competing interests
+ None declared.
+P
+atient consent for publication
+ Not required.
+Pr
+ovenance and peer review
+ Not commissioned;
+ externally peer reviewed.
+Open access
+ T
+his is an open access article distributed in accordance with the 
+Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits 
+others to copy, redistribute, remix, transform and build upon this work for any purpose, provided the original work is properly cited, a link to the licence is given, and indication of whether changes were made. See: https://
+ creativecommons
+.
+ org/
+ 
+licenses/
+ 
+by/
+ 
+4.
+ 
+0/.
+ORCID iDsFederico Pozzi http://
+ 
+orcid.
+ 
+org/
+ 
+0000-
+ 
+0002-
+ 
+6384-
+ 
+9605
+Hillary A Plummer https://
+ 
+orcid.
+ 
+org/
+ 
+0000-
+ 
+0003-
+ 
+3282-
+ 
+2538
+Charles A Thigpen https://
+ 
+orcid.
+ 
+org/
+ 
+0000-
+ 
+0003-
+ 
+2487-
+ 
+1399
+Melissa L Wilson https://
+ 
+orcid.
+ 
+org/
+ 
+0000-
+ 
+0001-
+ 
+7785-
+ 
+4221
+Refe Rences
+ 1 V alovich McLeod TC, Decoster LC, Loud KJ, et al. National athletic trainers’ 
+association position statement: prevention of pediatric overuse injuries. J Athl Train 
+2011;46:206–20.
+ 2
+ T
+ate A, Turner GN, Knab SE, et al. Risk factors associated with shoulder pain and 
+disability across the lifespan of competitive swimmers. J Athl Train 2012;47:149–58 http://www.
+ 
+ncbi.
+ 
+nlm.
+ 
+nih.
+ 
+gov/
+ 
+pubmed/
+ 
+22488280
+ 3
+ Myklebust G
+, Hasslan L, Bahr R, et al. High prevalence of shoulder pain among elite 
+Norwegian female handball players. Scand J Med Sci Sports 2013;23:288–94.
+ 4
+ V
+erhagen EALMet al. A one season prospective cohort study of volleyball injuries. Br J 
+Sports Med 2004;38:477–81.
+ 5
+ Pluim BM
+et al. Tennis injuries: occurrence, aetiology, and prevention. Br J Sports Med 
+2006;40:415–23.
+ 6
+ Giroto N
+, Hespanhol Junior LC, Gomes MRC, et al. Incidence and risk factors of 
+injuries in Brazilian elite handball players: a prospective cohort study. Scand J Med Sci Sports 2017;27:195–202.
+ 7
+ Norton R,
+ Honstad C, Joshi R, et al. Risk factors for elbow and shoulder 
+injuries in adolescent baseball players: a systematic review. Am J Sports Med 2018;363546518760573.
+ 8
+ P
+asulka J, Jayanthi N, McCann A, et al. Specialization patterns across various youth 
+sports and relationship to injury risk. Phys Sportsmed 2017;45:344–52.
+ 9
+ J
+ayanthi N, Pinkham C, Dugas L, et al. Sports specialization in young athletes: 
+evidence-
+ 
+based recommendations. Sports Health 2013;5:251–7.
+ 10
+ Olsen SJ
+, Fleisig GS, Dun S, et al. Risk factors for shoulder and elbow injuries in 
+adolescent baseball pitchers. Am J Sports Med 2006;34:905–12.
+ 11
+ Camp CL,
+ Zajac JM, Pearson DB, et al. Decreased shoulder external rotation and 
+flexion are greater predictors of injury than internal rotation deficits: analysis of 132 Pitcher-
+ Seasons in professional baseball
+. Arthroscopy 2017;33:1629–36.
+ 12
+ Shanley E,
+ Rauh MJ, Michener LA, et al. Shoulder range of motion measures as risk 
+factors for shoulder and elbow injuries in high school softball and baseball players. Am J Sports Med 2011;39:1997–2006.
+ 13
+ W
+alker H, Gabbe B, Wajswelner H, et al. Shoulder pain in swimmers: a 
+12-
+ month prospective cohort study of incidence and risk factors
+. Phys Ther Sport 
+2012;13:243–9.
+ 14
+ F
+orthomme B, Wieczorek V , Frisch A, et al. Shoulder pain among high-
+ level volleyball 
+players and preseason features
+. Med Sci Sports Exerc 2013;45:1852–60.
+ 15
+ Clarsen B
+, Bahr R, Andersson SH, et al. Reduced glenohumeral rotation, external 
+rotation weakness and scapular dyskinesis are risk factors for shoulder injuries among elite male handball players: a prospective cohort study. Br J Sports Med 2014;48:1327–33.
+ 16
+ K
+eller RA, De Giacomo AF , Neumann JA, et al. Glenohumeral internal rotation 
+deficit and risk of upper extremity injury in overhead athletes: a meta-
+ analysis and 
+systematic review.
+ Sports Health 2018;10:125–32.
+ 17
+ Bullock GS
+, Faherty MS, Ledbetter L, et al. Shoulder range of motion and baseball arm 
+injuries: a systematic review and meta-
+ analysis
+. J Athl Train 2018;53:1190–9.
+ 18
+ Byr
+am IR, Bushnell BD, Dugger K, et al. Preseason shoulder strength measurements in 
+professional baseball pitchers: identifying players at risk for injury. Am J Sports Med 2010;38:1375–82.
+ 19
+ Edouard P
+, Degache F , Oullion R, et al. Shoulder strength imbalances as injury risk in 
+handball. Int J Sports Med 2013;34:654–60.
+ 20
+ Hick
+ey D, Solvig V , Cavalheri V , et al. Scapular dyskinesis increases the risk of future 
+shoulder pain by 43% in asymptomatic athletes: a systematic review and meta-
+ 
+analysis
+. Br J Sports Med 2018;52:102–10. on August 12, 2024 by guest. Protected by copyright. http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2019-100698 on 14 January 2020. Downloaded from 
+10 of 10
+Pozzi F , et al. Br J Sports Med 2020;54:1019–1027. doi:10.1136/bjsports-2019-100698Review
+ 21 Bahr R.  Why screening tests to predict injury do not work-  and probably never will …: 
+a critical review. Br J Sports Med 2016;50:776–80.
+ 22
+ Shanley E,
+ Thigpen CA, Clark JC, et al. Changes in passive range of motion and 
+development of glenohumeral internal rotation deficit (GIRD) in the professional 
+pitching shoulder between spring training in two consecutive years. J Shoulder Elbow Surg 2012;21:1605–12.
+ 23
+ F
+reehill MT, Ebel BG, Archer KR, et al. Glenohumeral range of motion in major League 
+pitchers: changes over the playing season. Sports Health 2011;3:97–104.
+ 24
+ Fieseler G
+, Jungermann P , Koke A, et al. Glenohumeral range of motion (rOM) and 
+isometric strength of professional team handball athletes, part III: changes over the playing season. Arch Orthop Trauma Surg 2015;135:1691–700.
+ 25
+ Moher D
+, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews 
+and meta-
+ analyses:
+ the PRISMA statement. PLoS Med 2009;6:e1000097.
+ 26
+ Noonan 
+TJ, Thigpen CA, Bailey LB, et al. Humeral torsion as a risk factor for shoulder 
+and elbow injury in professional baseball Pitchers. Am J Sports Med 2016;44:2214–9.
+ 27
+ P
+olster JM, Bullen J, Obuchowski NA, et al. Relationship between humeral torsion and 
+injury in professional baseball pitchers. Am J Sports Med 2013;41:2015–21.
+ 28
+ Downs SH,
+ Black N. The feasibility of creating a checklist for the assessment of the 
+methodological quality both of randomised and non-
+ r
+andomised studies of health 
+care interventions. J Epidemiol Community Health 1998;52:377–84.
+ 29
+ Higgins J
+, Green S, eds. Cochrane handbook for systematic reviews of interventions. 
+The Cochrane Collaboration, 2011. www.
+ handbook.
+ cochr
+ane.
+ org
+ 30
+ Whittak
+er JL, Small C, Maffey L, et al. Risk factors for groin injury in sport: an updated 
+systematic review. Br J Sports Med 2015;49:803–9.
+ 31
+ Fuller CW
+, Bahr R, Dick RW, et al. A framework for recording recurrences, reinjuries, 
+and exacerbations in injury surveillance. Clin J Sport Med 2007;17:197–200.
+ 32
+ Wilk KE,
+ Macrina LC, Fleisig GS, et al. Deficits in Glenohumeral passive range of 
+motion increase risk of shoulder injury in professional baseball Pitchers: a prospective study. Am J Sports Med 2015;43:2379–85.
+ 33
+ Wilk KE,
+ Macrina LC, Fleisig GS, et al. Deficits in Glenohumeral passive range of 
+motion increase risk of elbow injury in professional baseball Pitchers. Am J Sports Med 2014;42:2075–81.
+ 34
+ Sakata J
+, Nakamura E, Suzukawa M, et al. Physical risk factors for a medial elbow 
+injury in junior baseball players: a prospective cohort study of 353 players. Am J Sports Med 2017;45:135–43.
+ 35
+ Shanley E,
+ Kissenberth MJ, Thigpen CA, et al. Preseason shoulder range of motion 
+screening as a predictor of injury among youth and adolescent baseball pitchers. J Shoulder Elbow Surg 2015;24:1005–13.
+ 36
+ Shitar
+a H, Kobayashi T, Yamamoto A, et al. Prospective multifactorial analysis of 
+preseason risk factors for shoulder and elbow injuries in high school baseball pitchers. Knee Surg Sports Traumatol Arthrosc 2017;25:3303–10.
+ 37
+ T
+yler TF , Mullaney MJ, Mirabella MR, et al. Risk factors for shoulder and elbow injuries 
+in high school baseball Pitchers: the role of Preseason strength and range of motion. Am J Sports Med 2014;42:1993–9. 38  Wilk KE,  Macrina LC, Fleisig GS, et al. Correlation of glenohumeral internal rotation 
+deficit and total rotational motion to shoulder injuries in professional baseball pitchers. Am J Sports Med 2011;39:329–35.
+ 39
+ Andersson SH,
+ Bahr R, Clarsen B, et al. Risk factors for overuse shoulder injuries 
+in a mixed-
+ sex cohort of 329 elite handball players:
+ previous findings could not be 
+confirmed. Br J Sports Med 2017.
+ 40
+ Hjelm N
+, Werner S, Renstrom P . Injury risk factors in junior tennis players: a 
+prospective 2-
+ year study.
+ Scand J Med Sci Sports 2012;22:40–8.
+ 41
+ Oy
+ama S, Hibberd EE, Myers JB. Preseason screening of shoulder range of motion and 
+humeral retrotorsion does not predict injury in high school baseball players. J Shoulder Elbow Surg 2017;26:1182–9.
+ 42
+ Laudner KG
+, Stanek JM, Meister K. Assessing posterior shoulder contracture: the 
+reliability and validity of measuring glenohumeral joint horizontal adduction. J Athl Train 2006;41:375–80.
+ 43
+ Myers JB
+, Oyama S, Hibberd EE. Scapular dysfunction in high school baseball players 
+sustaining throwing-
+ related upper extremity injury:
+ a prospective study. J Shoulder 
+Elbow Surg 2013;22:1154–9.
+ 44
+ Sueyoshi T
+, Nakatani T, Tsuruta T, et al. Upper extremity range of motion and Pitching 
+profile of baseball Pitchers in Japan. Orthop J Sports Med 2017;5.
+ 45
+ Hurd 
+WJ, Kaplan KM, ElAttrache NS, et al. A profile of glenohumeral internal 
+and external rotation motion in the uninjured high school baseball pitcher, part I: motion. J Athl Train 2011;46:282–8 http://www.
+ 
+ncbi.
+ 
+nlm.
+ 
+nih.
+ 
+gov/
+ 
+pubmed/  
+21669098
+ 46
+ Escamilla R,
+ Fleisig G, Barrentine S, et al. Kinematic and kinetic comparisons between 
+American and Korean professional baseball pitchers. Sport Biomech 2002;1:213–28.
+ 47
+ Seroyer ST
+, Nho SJ, Bach BR, et al. The kinetic chain in overhand pitching: its 
+potential role for performance enhancement and injury prevention. Sports Health 2010;2:135–46.
+ 48
+ Miy
+ashita K, Urabe Y , Kobayashi H, et al. Relationship between maximum shoulder 
+external rotation angle during throwing and physical variables. J Sports Sci Med 2008;7:47–53 http://www.
+ 
+ncbi.
+ 
+nlm.
+ 
+nih.
+ 
+gov/
+ 
+pubmed/
+ 
+24150133
+ 49
+ Laughlin 
+WA, Fleisig GS, Scillia AJ, et al. Deficiencies in pitching biomechanics in 
+baseball players with a history of superior labrum anterior-
+ posterior repair
+. Am J 
+Sports Med 2014;42:2837–41.
+ 50
+ Chalmers PN
+, Wimmer MA, Verma NN, et al. The relationship between Pitching 
+mechanics and injury: a review of current concepts. Sports Health 2017;9:216–21.
+ 51
+ Picha KJ
+, Harding JL, Bliven KCH. Glenohumeral and hip Range-
+ of-
+ Motion and 
+strength measures in youth baseball athletes
+. J Athl Train 2016;51:466–73.
+ 52
+ Camp CL,
+ Tubbs TG, Fleisig GS, et al. The relationship of throwing arm mechanics and 
+elbow varus torque: Within-
+ Subject v
+ariation for professional baseball Pitchers across 
+82,000 throws. Am J Sports Med 2017;45:3030–5.
+ 53
+ W
+erner SL, Murray TA, Hawkins RJ, et al. Relationship between throwing mechanics 
+and elbow valgus in professional baseball pitchers. J Shoulder Elbow Surg 2002;11:151–5. on August 12, 2024 by guest. Protected by copyright. http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2019-100698 on 14 January 2020. Downloaded from 

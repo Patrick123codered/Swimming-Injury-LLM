@@ -1,0 +1,619 @@
+RESEA RCH ARTICL E
+Theswimming testiseffective forevaluating
+spasticity after contusive spinal cord injury
+Youngjae Ryu1,2,Toru Ogata2*,Motoshi Nagao2,Taku Kitamura2,Kazuhito Morioka2,3,
+Yoshinori Ichihara2,Toru Doi2,Yasuhiro Sawada2,Masami Akai2,4,Ryohei Nishimura1,
+Naoki Fujita1
+1Department ofVeterinary Surgery, Graduate School ofAgricu ltural andLifeSciences, The University of
+Tokyo, Tokyo, Japan, 2Department ofRehabilita tionfortheMovement Functions ,Research Institute,
+National Rehabili tation Center, Saitama, Japan, 3Department ofNeurosurgery ,Brain andSpinal Injury
+Center, University ofCalifornia, San Francisc o,California, United States ofAmerica, 4Graduate School,
+Interna tional University ofHealth andWelfare ,Tokyo, Japan
+*toogata- tky@umin .ac.jp
+Abstract
+Spasticity isafrequent chronic complication inindividuals with spinal cord injury (SCI). How-
+ever, theseverity ofspasticity varies inpatients with SCI. Therefore, anevaluation method
+isneeded todetermine theseverity ofspasticity. Weused acontusive SCImodel thatissuit-
+able forclinical translation. Inthisstudy, weexamined thefeasibility oftheswimming test
+andanEMG forevaluating spasticity inacontusive SCIratmodel. Sprague-Dawley rats
+received aninjury atthe8ththoracic vertebra. Swimming tests were performed 3to6weeks
+after SCIinduction. Weplaced theSCI ratsintospasticity-strong orspasticity-weak groups
+based onthefrequency ofspastic behavior during theswimming test. Subsequently, we
+recorded theHoffman reflex (H-reflex) andexamined theimmunoreactivit yofserotonin (5-
+HT)anditsreceptor (5-HT 2A)inthespinal tissues oftheSCI rats. The spasticity-s trong
+group hadsignificantly decreased rate-dependent depression oftheH-reflex compared to
+thespasticity-weak group. The area of5-HT 2Areceptor immunoreactivity was significantly
+increased inthespasticity-strong group. Thus, both electrophysiologica landhistological
+evaluations indicate thatthespasticity-strong group presented with amore severe upper
+motor neuron syndrome. Wealso observed thegroups intheir cages for20hours. Our
+results suggest thattheswimming testprovides anaccurate evaluation ofspasticity inthis
+contusive SCImodel. Webelieve thattheswimming testisaneffective method forevaluat-
+ingspastic behaviors anddeveloping treatments targeting spasticity after SCI.
+Introduction
+Spasticity isacommon complication after traumatic spinal cord injury (SCI). Traumatic dis-
+connection between theupper and lower motor neurons isknown toresult inhyperexcitability
+ofspinal circuits and subsequent spastic symptoms, including muscle spasms, muscular hyper-
+tonia, and clonus [1±5]. Spasticity frequently impairs voluntary motor control, and itsseverity
+varies among individuals with SCI. Skold etal.(1999) reported that approximately 65±80% of
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 1/15a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+OPEN ACCESS
+Citation: RyuY,Ogata T,Nagao M,Kitamura T,
+Morioka K,Ichihara Y,etal.(2017) Theswimming
+testiseffective forevaluating spasticity after
+contusive spinal cord injury. PLoS ONE12(2):
+e0171937. doi:10.137 1/journal .pone.017193 7
+Editor: Michael GFehlings, University ofToronto,
+CANADA
+Received: June 29,2016
+Accepted: January 28,2017
+Published: February 9,2017
+Copyright: ©2017 Ryuetal.Thisisanopen
+access article distributed under theterms ofthe
+Creative Commons Attribution License, which
+permits unrestricte duse,distribu tion,and
+reproduction inanymedium, provided theoriginal
+author andsource arecredited.
+Data Availabilit yStatement: Allrelevant dataare
+within thepaper anditsSupport ingInformation
+files.
+Funding: Thisstudy wassupported byKAKENHI
+(24300197, 15H03048) from theMinistry of
+Education, Culture, Sports, Science and
+Technology ofJapan (MEXT).
+Competing interests :Theauthors have declared
+thatnocompeting interests exist.
+patients with SCIpresent with muscle spasticity, whereas others have reported that 50±60% of
+patients complain ofspastic symptoms that interfere with voluntary motion [2,6,7].Although
+aseries ofpharmacological treatments, such asGABA agonists, have been used clinically,
+there arestillmany patients with unsolved spastic symptoms. Toimprove upon and develop
+new spasticity-targeted therapeutic interventions, theunderlying mechanisms ofspasticity and
+voluntary motor control need tobeelucidated.
+The pathophysiology ofspasticity hasbeen well studied inrodent models mainly using
+complete spinal cord transection models, wherein supraspinal input iscompletely discon-
+nected beyond thelesion [8,9].These studies have provided insights into spasticity mecha-
+nisms, including exaggerated spinal reflexes, alternations insynapses, and changes inthe
+expression ofmotor neuron receptors after SCI[10±16]. However, inflammatory tissue reac-
+tions and thespared neural network, which exerts acritical influence onthespinal circuitry
+after injury, differ greatly between thecomplete spinalized model and thecontusive model
+with incomplete paralysis [17±19]. Considering that most patients with spasticity have atrau-
+matic contusive spinal cord injury, using anincomplete contusive rodent model ismore
+appropriate forclinical translation than theuseofacomplete model. Although several studies
+onspasticity using contusive injury animal models have shown increased muscle resistance
+and spinal hyperreflexia after SCI[20±22], individual variation inspastic symptoms remains
+anobstacle forthedetailed analysis ofmolecular mechanisms underlying spasticity. Therefore,
+methods need tobedeveloped toevaluate spasticity inacontusive SCImodel toenable further
+quantification and analysis ofspasticity.
+The swimming testisawell-established approach forevaluating behavior after SCI[23, 24].
+Gonzenbach etal.(2010) reported muscle spasms inanincomplete transection SCIratmodel
+during swimming. However, toourknowledge, there arenocriteria forevaluating spastic
+behavior inacontusive SCImodel. Wetherefore attempted touseaswimming testforthe
+screening and quantification ofspasticity, aswell astodetermining itsvalidity inacontusive
+SCIratmodel. Inparticular, wesought todetermine whether aswimming testcanbeeffec-
+tively used toquantify spastic behaviors and todetermine theseverity ofspasticity inacontu-
+sive SCIratmodel. These findings areexpected tohelp inthedesign offuture experiments and
+representative models used toimprove ourunderstanding ofthemechanisms underlying the
+development ofspasticity following SCI.
+Materials and methods
+Experimental animals, surgery, andpost-operative care
+Ten-week-old female Sprague-Dawley rats(n=60,200±300 g,Charles River Japan) were used
+inthisexperiment. Fifty ratsreceived thecontusive injury, and 10were used asuninjured con-
+trols. The ratswere anesthetized using pentobarbital sodium (50mg/kg, intraperitoneal [I.P.],
+Kyoritsu Seiyaku Corporation, Tokyo, Japan) and received a250-kilodyne (kd) contusive
+injury from anInfinite Horizon impactor device (Precision Systems and Instrumentation, VA,
+USA) atthe8ththoracic level. After surgery, theinjured ratswere treated with asingle shot of
+antibiotic (Baytril, 5mg/kg, SC,Bayer). Manual bladder expression wasconducted twice per
+dayuntil theinjured ratsspontaneously urinated. The housing room wasunder a12-hour/
+12-hour light/dark cycle and thetemperature wasmaintained at23ÊC. Food and water were
+suppliedadlibituf. Uninjured ratswere used ascontrols. Allanimal experiments were
+approved bytheethical committee oftheNational Rehabilitation Center forPersons with
+Disabilities.
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 2/15
+Swimming tests
+Swimming tests were performed inarectangular Plexiglas chamber (150×14.5×40cm) filled
+with tapwater toadepth ofapproximately 20±23 cm.The water temperature wasmaintained
+at23ÊC, which isconsidered tobeanoptimal temperature fortheratswimming test[25]. The
+swimming direction oftheratswascontrolled from thelefttotheright side ofthechamber
+using aramp and anisland attached totheleftside ofthechamber (Fig 1A). Assessment of
+swimming wasconducted atapoint 100cmfrom thestarting and ending points. Swimming
+from thestart point totheend point wasregarded asasingle runoftheswimming test. We
+performed theswimming testover 5runs 3weeks after SCIand over 10runs each 4,5,and 6
+weeks after SCI. IftheSCIratshadatleast oneclonus phase oraspastic phase inasingle run
+during thetest, they were classified asaªspasticity-positiveº rat(orcecitnciaorcelrsu-asd-ha--
+tiehha-n-,-nnthnResults-netirs). Even iftheanimals hadmultiple ormixed phases during a
+run, therunwasconsidered tobeaªspasticity-positiveº runbecause itwasdifficult toinde-
+pendently determine thespecific episodes. Ifboth spastic and clonus phases were observed
+during arun, therunwasclassified asaclonus phase run. Importantly, behaviors related to
+defecating orurinating during swimming were excluded. Allswimming tests were videotaped
+using aSony Handycam HDR-CX700 camera at60frames persecond.
+EMG telemetry implantation andrecording
+Weimplanted anEMG telemetry device (model: F40-EET, DSI/Receiver model: RPC-1, DSI,
+MN, USA) toobtain EMG data while theratsmoved freely. The EMG telemetry device was
+inserted between 3and 4weeks after theSCI. The device wasimplanted atthesame ageinthe
+uninjured animals. The rats(n=15)were anesthetized using pentobarbital sodium (50mg/kg,
+I.P.). After anesthesia, thebody oftheEMG telemetry device wasinserted subcutaneously into
+theneck region and fixed using sutures. The EMG wires were ledviasubcutaneous injection
+and implanted intramuscularly into thelefttibial anterialis (TA) muscle, which acts asan
+ankle flexor, and theleftmedial gastrocnemius (MG) muscle, which hastheopposite action as
+anankle extensor. The wires were tightly fixed using 6±0nylon sutures. EMG recording was
+performed atleast 3days after surgery. After EMG implantation, theratswere treated with a
+single shot ofantibiotic (Baytril, 5mg/kg, SC). The EMG signal (sampled at1,000 Hz) wasdig-
+itized and filtered using ahigh-pass filter (30Hz). EMG recordings were synchronized with a
+video recording using alight cuetrigger. Spike2 software (CED, Cambridge, England) was
+used fortheEMG recording and analysis. AllEMG recordings were obtained inanelectro-
+magnetic-shielded room.
+Twenty-hour cage observation
+Cage observations were conducted 4weeks after SCIfrom 16:00 onthefirst dayto12:00 on
+thefollowing day. Each rat(n=10)with animplanted EMG telemetry device wasindividually
+housed inalarge plastic cage (40×25×18cm) under dim light. Video wascaptured using a
+web camera during simultaneous EMG recording. EMG recording wassynchronized tothe
+video recording using alight-cue trigger. Forquantitative evaluation, wecounted thenumbers
+ofclonus and spasm episodes during the20-hour cage observations, which were confirmed
+with using EMG recordings (see Results section). Behaviors during defecation orurination
+were excluded. The same ratsthat were used forthecage observations were used fortheEMG
+recordings onatreadmill (Robomedica, Inc., CA, USA) with body weight support 4weeks
+after SCItoexamine muscle activity during voluntary motion. EMG recordings during 10
+cycles ofwalking gaits onatreadmill were obtained atarate of7.5m/minute.
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 3/15
+Fig1.Types and occurren cefrequenci esofspastic behavior sduring theswimm ingtest. (A)
+Configura tionoftheEMG recording device during theswimming test. (B)Sequential captured images and
+correspo nding recorded muscle activity oftheleftTA(blue) andtheleftMG(orange) muscle during the
+swimming testshowing each type ofspasticity (the clonus phase andspastic phase). The black
+boxrepresents amagnified image oftherecorded EMG. The redbarontherecorded EMG ofthespastic
+phase indicates co-contracti onoftheTAandMGmuscles. The green baronthebottom image correspo nds
+tothenormal reciprocal stroke phase. White arrows indicate thelocation ofthehind paw oftheratduring the
+clonus phase. Note thatallEMG figures were normalized tothepeak amplitude sofTAmuscle activity. (C)
+Mean amplitude ofmuscle activity during spastic behavio rs(SCI spastic ity;black bar) compared with the
+mean amplitude ofmuscle activity during normal reciproc alstrokes (SCI normal stroke; white bar) ofSCIrats
+anduninjured rats(Uninjured; hatched bar) at4weeks after SCI. (D)The number oftheSCIratswith each
+occurren cefrequenc yofspastic behavio rsduring swimming testat4weeks after theinjury. (E)Percent ageof
+thespastic ity-strong ratsfrom 3to6weeks after SCI. Injured ratswere classi fiedasªspasticity -strongº ifthey
+showed theoccurrence freque ncyover 40% during theswimming test. (F)Averag epercentage ofthespared
+area oftheepicenter oftheinjury measured bytheGFAP (+)area after SCIinthespasticity-s trong group and
+-weak group. **:p<0.01 Abbreviat ions: WT, water temperatu re;TA,tibialis anterior; MG, medial
+gastrocne mius; n.s,notsignificant.
+doi:10.13 71/journal.pone .0171937.g001
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 4/15
+Hoffmann reflex (H-reflex) recording
+Under chloral hydrate anesthesia (2.5 g/kg, Sigma) delivered viaintraperitoneal injection, we
+measured theHoffmann reflex (H-reflex). After anesthesia, theleftorright hindlimb was
+incised toexpose thedistal tibial nerve. The Bipolar cuff washooked onto thedistal tibial
+nerve atankle level and apair ofrecording electrodes wasinserted into thesame side ofthe
+plantar muscle ofhind limb subcutaneously. The distance between therecording electrodes
+was3mm and thetipofelectrodes wasexposed toalength ofabout 1.5mm. Aground elec-
+trode wasattached tothesurface ofthetail.Todetermine therate-dependent depression
+(RDD) oftheHreflex, thetibial nerve wasstimulated at0.2,0.5,1,2,and 5Hzusing astimula-
+tor(1±2 Vofintensity, Nihon Kohden, Japan). The EMG signal (sampled at5,000 Hz) was
+passed toanamplifier (NEC Biotop 6R12, Nihon Kohden) and band-pass filtered (5±3,000
+Hz). Ateach stimulation frequency, 20serial stimulations were performed and thefirst 5
+waves were discarded. The amplitudes oftheMwave and theHwave were calculated byaver-
+aging 15waves ofeach waveform measured using peak-to-peak values. The rate-dependent
+changes ateach stimulation frequency were calculated asapercent oftheresponse at0.2Hz.
+Spike2 (CED) wasused forsignal analysis.
+Tissue processing andimmunohistochemistry
+Sixweeks after SCI, theratswere deeply anesthetized using sodium pentobarbital, perfused
+with PBS, and fixed using a4%PFA solution delivered transcardially. The cervical region and
+thelumbar region (C1±C3 ofthecervical enlargement and L4±L6 ofthelumbar enlargement,
+respectively), and theepicenter oftheSCIwere removed and post-fixed ina4%PFA solution
+foranadditional 24hours at4ÊC. The tissues were cuttransversely into 20-μm-thick sections
+onacryostat (Leica CM3050S, Leica Microsystems). The tissue sections were incubated with
+diluted primary antibodies (goat-anti choline acetyltransferase, 1:100, Millipore; rabbit-anti
+serotonin 2Areceptor, 1:200, Calbiochem; rabbit-anti NeuN, 1:500, Millipore; goat-anti sero-
+tonin, 1:500, Abcam; mouse-anti glial fibrillary acidic protein [GFAP], 1:500, Millipore) over-
+night. The next day, thesections were incubated with fluorescent secondary antibodies (Alexa
+Fluor 488and 568foreach species-of primary antibody, 1:200, Life Technologies) and DAPI
+(1:1,000, Sigma) for2hours. Allimages were acquired using aBZ-9000 HSAll-in-one Fluores-
+cence Microscope (Keyence BZ-9000).
+Quantification anddata analyses
+The area ofimmunoreactivity (IR) wasmeasured using Image Jsoftware (National Institutes
+ofHealth, USA). Serotonin 2Areceptor (5-HT 2A)levels were measured according tothemeth-
+odsdescribed byKong etal.(2011). Inbrief, wesetthresholds forand binarized each image.
+Next, wecalculated the5-HT 2Areceptor-labeled area corresponding totheChAT (choline
+acetyltransferase)-labeled areas ofthesoma and proximal dendrites ofthespinal motor neu-
+rons located intheventral horn. Quantification ofthearea ofserotonin (5-HT) staining was
+limited totheventral horn ofthespinal cord. Images oftheventral horn obtained at20× mag-
+nification were analyzed for5-HT immunoreactivity. Five sections (each section wasseparated
+byover 300μm) were used forimage analyses ofthe5-HT 2Areceptor and 5-HT fibers.
+The spared area oftheepicenter oftheinjury wascalculated bymeasuring theGFAP(+)
+area ineach spinal section outline area. EMG recordings were obtained and analyzed using
+MATLAB software (Mathworks). EMGs obtained over 1second during spastic behaviors were
+used todetermine themean amplitude ofmuscle activity. Video analyses and motion captur-
+ingwere performed using Vegas Prosoftware (Sony).
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 5/15
+Statistical analyses
+Weused SPSS software (IBM SPSS, Inc.) forallstatistical analyses. Allerror bars arestandard
+errors [SEs]. Statistical significance wassetath<0.05.
+Results
+Spastic behaviors during swimming: clonus phase andspastic phase
+After themid-thoracic SCI, theinjured ratswere almost entirely dependent ontheir forelimbs
+during swimming. However, they occasionally used their hindlimbs innormal reciprocal
+strokes butwith aslower cycle (<2Hz) compared touninjured rats(4±5 Hz). During thenor-
+mal strokes, theinjured ratshadclear reciprocal muscular activations intheir hindlimbs,
+although some portions oftheEMG pattern were overlapping (Fig 1B). Wedefined normal
+and reciprocal activation ofthehindlimbs astheªnormal stroke phaseº forEMG comparisons.
+After atleast 3week ofSCI, theinjured ratshadtypical symptoms ofspasticity during swim-
+ming. These symptoms were referred toastheªclonus phaseº ortheªspastic phaseº. The clo-
+nusphase presented asrapid (5±8 Hz) jerking movements ofeither oneorboth legs during
+swimming (S1Video). During thisphase, simultaneously recorded EMGs showed reciprocal,
+high intensity bursts ofTAand MG muscle activity (Fig 1Band 1C). Itisnotable that theclo-
+nusphase wasoften observed immediately after theratsstretched orcontracted their hin-
+dlimbs. The spastic phase typically presented asaventro-flexed trunk posture with stretched
+hind limbs during swimming (Fig 1Band S2Video). Acommon feature ofthespastic phase
+wastheextended hindlimb posture, which wasrepresented byco-contraction patterns ofhigh
+bursts oftheTAand MG muscle activity. The spastic behaviors, which were divided into the
+clonus phase and thespastic phase, were observed either simultaneously orindependently
+within asingle swimming runand were easily verified during theswimming test. Given that
+some ofthecommon spastic symptoms observed after SCIinclude hyperreflexia, clonus,
+hypertonus ofthemuscles, and muscular spasm inboth human patients and animal models
+[4,26], wepostulated that theclonus phase and thespastic phase observed during swimming
+represent thespastic symptoms ofcontusive SCIrats. The mean amplitude ofmuscle activity
+during thespastic phase inSCIratswassignificantly higher than that during thenormal stroke
+phase ofboth SCIand uninjured rats(s=4foruninjured rats,s=5forSCIrats, one-way
+ANOVA with Tukey'shr-t-hre test; Fig1C). Insummary, thesymptoms ofspasticity inthe
+contusive SCIratmodel were observed during theswimming test.
+The swimming testcanbeused toclassify SCI ratsaccording to
+frequency ofspastic behaviors
+Intheswimming experiment, wecalculated thefrequency ofspastic behavior. The histogram
+oftheoccurrence frequency indicates theexistence oftwogroups based onspastic behavior
+(s=50SCIrats; Fig1D). Because thegroups were apparently divided based on40% frequency,
+weused acut-off of40% (i.e., 4ormore ªspasticity-positiveº runs among the10swimming
+runs) asthecriterion forgrouping SCIratsinto theªspasticity-strong group.º The other SCI
+ratswere grouped into theªspasticity-weak groupº.
+Three weeks after SCI, over 50% oftheSCIratswere placed inthespasticity-strong group.
+However, some oftheSCIratsinthespasticity-weak group were subsequently classified inthe
+spasticity-strong group 4weeks after SCI. The percentage ofratsinthespasticity-strong group
+reached aplateau 4to5weeks after SCI(s=36tested SCIrats, Fig1E). The spared tissue area
+oftheepicenter oftheinjured site, which wasmeasured bystaining forGFAP 6weeks after
+SCI, wasnotsignificantly different between thetwogroups (s=5pergroup, Student's t-test;
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 6/15
+Fig1F). These results indicate that theSCIratscanbegrouped according toseverity based on
+theoccurrence frequency ofspastic behaviors, including theclonus phase and thespastic
+phase, during theswimming test.
+Spasticity during theswimming testwas consistent andreproducible
+Todetermine whether theoccurrence ofspastic behaviors and theamplitude ofmuscle activity
+ofeach ratchange over time, weperformed theswimming tests weekly from 4to6weeks after
+SCI. Inthespasticity-strong group, theoccurrence frequency ofclonus and spastic phases dur-
+ingthe10swimming runs wasnotsignificantly different from 3weeks to6weeks after SCI
+(s=10,one-way ANOVA with Tukey'shr-t-hre test; Fig2A). Furthermore, themean ampli-
+tude ofmuscle activity during spasticity didnotdiffer significantly between testperiods inthe
+spasticity-strong group (s=6,Kruskal-Wallis H-test; Fig2B). These results suggest that the
+occurrence frequency ofspastic behaviors and theamplitude ofmuscle activity tend tobecon-
+sistent during thetime course, atleast over ourobservation period.
+The spasticity-strong group hadmore hyperexcitability ofthespinal
+reflex circuit
+Toexamine differences inthehyperexcitability ofthemonosynaptic lumbar spinal circuit
+between thespasticity-strong and spasticity-weak groups, theRDD oftheH-reflex, which is
+classically used forevaluating spasticity, wasobtained 6weeks after SCI(Fig 3A). Incontrol
+animals, theRDD oftheM-wave wasnotchanged bythestimulation frequency applied and
+wasnotsignificantly different between theuninjured group, thespasticity-strong group, and
+thespasticity-weak groups (s=7±8pergroup, two-way ANOVA with Bonferroni's hr-t-hre
+correction; Fig3B). The RDD oftheH-wave forallSCIrats, including both spasticity-strong
+and spasticity-weak groups, wassignificantly lessdepressed than that ofuninjured ratsatstim-
+ulation frequencies of2Hzand 5Hz,respectively (s=7foruninjured rats,s=15forSCIrats,
+two-way ANOVA with Bonferroni's hr-t-hre correction; Fig3C). The RDD ofthespasticity-
+strong group wassignificantly more decreased than that ofthespasticity-weak group atthe
+stimulation frequency of5Hz.Furthermore, only thespasticity-strong group hadstatistically
+significant differences atstimulation frequencies of1Hz,2Hz,and 5Hzcompared tothe
+uninjured group (n=7±8pergroup, two-way ANOVA with Bonferroni's hr-t-hre correction;
+Fig3D). These results suggest that thespasticity-strong group ofSCIratshadmore hyperexcit-
+ability ofthelumbar circuit than thespasticity-weak group, which isconsistent with theresults
+ofthebehavioral screening performed during theswimming test.
+The spasticity-strong group hasmore up-regulated serotonin receptor
+expression inspinal motor neurons
+Todetermine other factors that might influence thevariation between thespasticity groups,
+weexamined serotonin (5-HT) fibers and 5-HT 2Areceptors inboth pre(cervical) and lower
+(lumbar) regions based onareport byKong etal.(2011), who showed that expression ofthe
+serotonin 2Areceptor wasrobustly increased after spinal cord transection inaratmodel. Con-
+sistent with previous results, theIRofthe5-HT 2Areceptor wasgreatly upregulated inthe
+region below theepicenter ofthespinal cord after SCI(Fig 4A). Furthermore, expression of
+the5-HT 2Areceptor inthelumbar motor neurons ofthespasticity-strong group wassignifi-
+cantly more upregulated compared tothat ofthespasticity-weak group (s=5±6pergroup,
+one-way ANOVA with Bonferroni's hr-t-hre correction; Fig4B). Conversely, thepositive area
+ofthe5-HT fibers intheventral horn ofthelumbar spinal cord wassignificantly reduced after
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 7/15
+SCIwhen compared tothat oftheuninjured rats. The 5-HT-positive area inthespasticity-
+strong group wasalso decreased when compared tothat ofthespasticity-weak group. How-
+ever, thisdifference wasnotstatistically significant (s=5±6pergroup, one-way ANOVA with
+Bonferroni's hr-t-hre correction; Fig4Cand 4D). The IRareas of5-HT 2Areceptors and 5-HT
+fibers intheventral horn ofthecervical spinal cord didnotshow anysignificant differences
+between groups (s=5±6pergroup, one-way ANOVA with Bonferroni's hr-t-hre correction;
+Fig4Cand 4D). Plots ofreserved 5-HT fibers and expression patterns ofthe5-HT 2Areceptor
+ineach animal suggest thepresence ofastrong relationship between thereserved 5-HT fiber
+area and 5-HT 2Areceptor density inthelumbar spinal cord (r2=0.602, p=0.001, logarithmic
+regression analysis; Fig4E). The plot inFig4Ealso shows that uninjured ratshave high 5-HT/
+5-HT 2ARratios, while spasticity-strong ratshave low5-HT/5-HT 2ARratios and spasticity-
+weak ratshave intermediate ratios. These results indicate that thealtered 5-HT/5-HT 2ARratio
+inthelumbar spinal cord may correlate with thefrequency ofspastic behaviors observed in
+theswimming test.
+Types andoccurrence ofspastic behaviors during the20-hour
+observation period confirm theresults oftheswimming test
+Toexamine thecorrelation between spastic symptoms observed intheswimming test(Fig 1)
+and spastic behaviors under free-moving conditions ontheground, weconducted EMG
+recordings ofthesame SCIrats, which were tested and grouped using theswimming test, over
+20hours. The recordings were synchronized with video capture during normal behavior ina
+housing cage. Four weeks after SCI, theSCIratshadanepisodic EMG pattern corresponding
+toaclonus orspasm episode inacage situation (Fig 5A). Clonus during cage observations
+occurred episodically and wasspontaneously accompanied bylong-term (over 3seconds
+based ontheEMG recordings) reciprocal bursts ofTAand MG muscle activity and abnormal
+motions, such aswhirling ofthetail(S3Video). Spasms during thecage observations also
+occurred spontaneously with hyper-stretched limbs orhyper-contracted limbs, even when the
+Fig2.The occurren cefrequencies ofspastic behavior sand correspo nding amplitude sofmuscle
+activity during thetest period. (A)The occurren cefrequenc yandpercentag eofeach type ofspasticity
+(clonus, black bars; spastic, grey bars; total, white bars) observed inthespasticity -strong group during the
+swimming tests from 4to6weeks after SCI. (B)The mean amplitude ofmuscle activity ofspastic behavio rsin
+thespastic ity-strong group during theswimming testfrom 4to6weeks after SCIrecorded from theleftTA
+muscle (blue) andtheleftMGmuscle (orange). Mean amplitude sofmuscle activity at4weeks were
+considere dtobe100%. Abbreviation s:TA,tibialis anterior; MG, medial gastrocne mius; n.s,notsignificant.
+doi:10.13 71/journal.pone .0171937.g002
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 8/15
+ratswere apparently sleeping orresting (S4Video). The EMG patterns ofthespasms during
+cage observations were represented bysimultaneous and extensive bursts ofTAand MG mus-
+cleactivities. Since themuscle activities obtained during continuous gaits intheinjured rats
+could notbeassessed under normal cage conditions, weobtained abaseline amplitude forthe
+gaitonthetreadmill. The mean amplitude ofspastic muscle activity during thecage observa-
+tions wassignificantly higher than that observed over 10gaitcycles onabody weight-sup-
+ported treadmill inthesame rats(s=5,Student's t-test; Fig5B). The spasticity-strong group,
+which wasassigned based ontheresults oftheswimming test, hadsignificantly more spasm
+and clonus episodes than thespasticity-weak group during the20-hour observation period
+(s=5pergroup, Student's t-test; Fig5C). Although wealso observed some specific types of
+spasms, such asextensor (MG)-related spasms orflexor (TA)-related spasms, these were not
+analyzed. Uninjured ratsdidnothave anyspasm orclonus episodes during the20-hour obser-
+vation period (s=3).The average counted number ofspasm and clonus episodes peaked in
+theearly morning (08:00±09:00) and early evening (17:00±19:00) (s=5pergroup; Fig5D),
+which isconsistent with other reports regarding thespastic symptoms ofratsand humans [25,
+27]. These results indicate that thespasticity-strong group ofSCIratshadmore severe spastic-
+itysymptom than thespasticity-weak group during cage observation aswell asduring the
+swimming test.
+Fig3.Rate-dep endent depression (RDD) oftheH-wave intheSCIgroups, reflecting excitabi lityofthe
+spinal reflex. (A)Representa tiveHoffmann (H)reflex waveform sofuninjured, spasticity -strong, and-weak
+groups were shown. Different colors indicate different stimulat ionfrequency :0.2Hz(blue), 0.5Hz(Green), 1
+Hz(Black), 2Hz(orange), and5Hz(red). (B)RDD oftheM-wave. The mean amplitude at0.2-Hz stimulation
+was settothebaseline amplitude as100%. Uninjured (pink), spasticity-st rong group (solid line), -weak group
+(dashed line). (C)RDD ofH-wave intheuninjured (pink) andtotal SCIgroup (black; includes spastic ity-strong
+and-weak rats). (D)Comparison oftheRDD values oftheH-wave between groups. The RDD ofthe
+spasticit y-strong group (solid black line), -weak group (dashed line), anduninjured rats(pink line). **:
+p<0.01, ***: p0.001.
+doi:10.13 71/journal.pone .0171937.g003
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 9/15
+Discussion
+Weobserved spastic behaviors during aswimming testincontusive SCIrats. The spastic
+behavior consisted ofclonus and spastic phases. These behaviors were easily reproducible and
+detectable, and could bereadily quantified based onoccurrence frequency. Inaddition, the
+swimming testcould discriminate SCIratswith different severities ofspasticity. Weused this
+testtoclassify theratsinto thespasticity-strong group and thespasticity-weak group based on
+theoccurrence frequency ofthespastic behaviors. Weconfirmed thefeasibility ofthisgroup-
+ingusing theH-reflex test, immunohistochemistry fortheserotonin receptor, and the20-hour
+cage observations. Allmeasures consistently showed that thespasticity-strong group, which
+Fig4.Immunoh istochemi stry and quantific ation of5-HT and itsreceptor inSCIgroups and uninju red
+rats. (A)Robust up-regula tionofthe5-HT 2Areceptor atthelumbar motor neurons ofthespasticit y-strong
+group compared with the-weak group anduninjured group (scale bars: 50μm). (B)Quantification ofthe
+5-HT 2Areceptor -positive (+)area within spinal motor neurons labeled asChAT positive (+)atboth thecervical
+region andthelumbar region. (C)The 5-HT fibers were almost completely lostafter 250-kd contusive SCI, but
+were more reduced atthespasticity-s trong group (scale bars: 50μm). (D)Quantif ication ofthearea of5-HT
+fibers atboth thecervical andthelumbar ventral horn region. Values were normalized consideri ngthevalue
+foruninjured ratsas100%. (E)Plots ofthequantifi cation of5-HT 2Areceptor expression and5-HT fibers atthe
+cervical andlumbar region, respectively inuninjured (yellow), spastic ity-strong group (purple), and-weak
+group (pink). **:p<0.01, ***: p<0.001 Abbreviation s:5-HT, 5-Hydroxy tryptopha n;ChAT, Choline
+acetyltrans ferase; n.s,notsignificant.
+doi:10.13 71/journal.pone .0171937.g004
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 10/15
+wasassigned based ontheswimming test, hadmore severe changes related toupper motor
+neuron syndrome compared tothespasticity-weak group. Furthermore, thepercentage ofSCI
+ratsthat were placed inthespasticity-strong group and thetime course ofspasticity after SCI
+arelargely consistent with theresults ofaprevious study using anincomplete transection rat
+model [25]. Therefore, theswimming testresults reflect theseverity ofupper motor neuron
+syndrome, atleast tosome extent.
+While weobserved variations inseverity among thespasticity-strong and spasticity-weak
+groups intheswimming test, weassume that ourdivision into thetwogroups isreliable based
+ontheresults ofmultiple other modalities. Considering that incomplete SCIresults invarious
+degrees ofspasticity (2,6,7),itisimportant toobtain homogenous experimental groups for
+SCIresearch. Wethus suggest that theswimming testisauseful screening tool forincomplete
+SCImodels.
+Fig5.EMG results and occurren cefrequenci esofspastic behavior sduring the20-hour cage
+observation .(A)Recorded EMG results fortheclonus andspasm inSCIratduring 20-hour cage observatio ns
+obtained from theleftTAmuscle (blue) andtheleftMGmuscle (orange). The redbarindicates co-contracti onof
+theTAandMGmuscle activities. Note thatallEMG figures were normalize dtothepeak amplitudes ofTAmuscle
+activity. (B)Mean amplitude ofmuscle activity during spastic behaviors compared with themean amplitude of
+muscle activity during 10gaitcycles onBWST 4weeks after SCI. (C)The occurren ceofeach type ofspastic
+behaviors during 20-hour cage observatio nsinthespasticity -strong group (solid bars) and-weak group (open
+bars) at4weeks after SCI. (D)The occurrenc eofspastic behavio rsinthespasticity -strong group (solid line) and
+-weak group (dashed line) shown byeach recorded hour. The shaded area shows thedefault dark time (18:00 to
+6:00) ofthehousing room. The yellow bars indicate thepeak time points forthecounted spastic behavio rs.*:
+p<0.05, **:p<0.01 Abbreviation s:TA,tibialis anterior; MG, medial gastrocne mius; BWST, body weight
+supported Treadmil l.
+doi:10.1371 /journal.pone. 0171937.g005
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 11/15
+Wetested thehyperexcitability ofthelumbar spinal circuit using theH-reflex test, which is
+astandard method ofmeasuring hyperreflexia inboth humans and animal models [15, 17,28,
+29]. Wefound that thespasticity-strong group hadlower RDDs intheH-reflex, aswell as
+increased expression ofthe5-HT 2Areceptor inthelumbar spinal motor neurons compared
+with thespasticity-weak group. Overexpression ofthe5-HT receptor causes supersensitivity to
+serotonin, which isrelated tospasticity [30]. Therefore, weexpected that such supersensitivity
+toserotonin, caused bytheoverexpression ofserotonin receptors, may betheprimary reason
+forthereduced RDD inthespasticity-strong group.
+Supersensitivity ofserotonin and up-regulation ofserotonin receptors below theinjury site
+after SCIhave previously been reported toberelated tothehyperexcitability ofspinal motor
+neurons and consequent spasticity [13, 14,16,31±33]. Itisknown that several types of5-HT 2
+receptors, such as5-HT 2A,5-HT 2B,and 5-HT 2C,areclosely related tothehyperexcitability of
+motor neurons after SCI[14]. However, immunohistochemical studies have clearly shown
+robust elevation ofthe5-HT 2Areceptor after SCIand reported theupregulation ofmRNA for
+thisreceptor [34, 35]. Therefore, weselected the5-HT 2Areceptor asarepresentative serotonin
+receptor that ismainly expressed inspinal motor neurons forthepresent immunohistochem-
+istry analysis [34, 36]. Our results indicate acorrelation between thedegree ofserotonin super-
+sensitivity and theseverity ofspasticity given thesame severity ofSCI.
+During the20-hour cage observations, wenoted some spasticity-related behaviors inthe
+ªspasticity-weakº rats. Nevertheless, thetotal occurrence ofspasm and clonus episodes wassig-
+nificantly lower inthisgroup than inthespasticity-strong group. Therefore, ourresults suggest
+that theseverity ofspasticity inacontusive SCIratmodel may bereflected bytheoccurrence
+frequency ofspastic behaviors.
+Our assessment using behavioral features may notdirectly reflect velocity-dependent mus-
+clerigidity, which istheclassical criterion forspasticity [37]. Itshould benoted that there are
+other established assays that useankle-rotation evoked EMG responses (21, 22). Nevertheless,
+according toourEMG and H-reflex results, thebehavioral patterns oftheSCIratsduring the
+swimming testcorrespond well topatterns ofspastic symptoms observed inhuman patients
+with respect to1)muscle spasms, 2)clonus, 3)co-contraction ofthemuscles, and 4)hyperto-
+niaand hyperreflexia. Therefore, theswimming testisable toshow direct manifestations of
+clinically relevant symptoms ofspasticity and may beuseful forsubsequent behavioral assess-
+ments. This testprovides anadvantage inprospective design bydefining homogenous
+samples.
+Our study hasseveral limitations. First, thecorrelation ofspastic behavior frequency
+during theswimming testand theHreflex testwas notperfectly matched. Despite this limi-
+tation, webelieve that theswimming testisuseful forscreening incomplete SCI rats to
+obtain more homogenous experimental groups. Second, spastic behaviors during theswim-
+ming testmay notbeable tobeused todiscriminate between voluntary attempts and invol-
+untary movements. However, wefound that those behaviors were unique, which allowed us
+todistinguish between thespasticity-strong and spasticity-weak groups. Furthermore, the
+behavioral assessment hastheadvantages ofease and repeatability forlongitudinal
+experiments.
+Insummary, ourresults show that quantification and screening ofspasticity incontusive
+SCI rats ispossible bymeasuring theoccurrence frequency ofspastic behaviors during a
+swimming test. Our results may help todiscriminate spasticity-weak rats from spasticity-
+strong rats after SCI. Taken together, ourfindings suggest that theswimming testisaneffec-
+tivemethod forevaluating symptoms ofspasticity and developing treatments targeting spas-
+ticity after SCI.
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 12/15
+Supporting information
+S1Video. Clonus phases during swimming test.
+(MP4)
+S2Video. Spastic phases during swimming test.
+(MP4)
+S3Video. Clonus during 20hour cage observation.
+(MP4)
+S4Video. Spasms during 20hour cage observation.
+(MP4)
+Acknowledgmen ts
+Wethank T.Tazoe and K.Nakanishi forhelpful comments and support.
+Author Contributions
+Conceptualization: YRTO.
+Formal analysis: RNYSTO.
+Funding acquisition: TO.
+Investigation: YRYITD.
+Methodology: YRTKKM.
+Project administration: TO.
+Resources: MN.
+Supervision: MA RNTO.
+Validation: NFTO.
+Writing ±original draft: YR.
+Writing ±review &editing: YSTONF.
+References
+1. Pandyan AD,Gregoric M,Barnes MP, Wood D,Van Wijck F,Burridge J,etal.Spasticity: clinical per-
+ceptions, neurological realities andmeaningfu lmeasurem ent.Disabil Rehabil. 2005; 27(1±2):2± 6.
+Epub 2005/04/ 01.PMID: 15799140
+2. Skold C,Levi R,Seiger A.Spasticity after traumatic spinal cord injury: nature, severity, andlocation.
+Arch Phys Med Rehabil. 1999; 80(12):154 8±57. Epub 1999/12/22. PMID: 10597805
+3. Little JW, Micklese nP,Umlauf R,Britell C.Lower extremity manifestatio nsofspasticity inchronic spinal
+cord injury. AmJPhys Med Rehabil. 1989; 68(1):32±6 .PMID: 2917056
+4. Roy RR, Edgerton VR.Neurobi ological perspective ofspasticit yasoccurs after aspinal cord injury. Exp
+Neurol. 2012; 235(1):116 ±22. doi:10.1016 /j.expneurol.2 012.01.017 PMID: 223423 16
+5. Elbasiouny SM, Moroz D,Bakr MM, Mushahwa rVK.Manageme ntofspasticity after spinal cord injury:
+current technique sandfuture directions. Neurore habil Neural Repair. 2010; 24(1):23±3 3.doi:10.1177 /
+15459683093 43213 PMID: 19723923
+6. D'Amico JM,Condliffe EG, Martins KJ,Bennett DJ,Gorassini MA. Recove ryofneuronal andnetwork
+excitability after spinal cord injury andimplication sforspastic ity.Front Integr Neurosci. 2014; 8:36. doi:
+10.3389/ fnint.2014.0003 6PMID: 24860447
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 13/15
+7. vanCooten IP,Snoek GJ,Nene AV,deGroot S,Post MW. Functiona lhindrance duetospasticity in
+individuals with spinal cord injury during inpatient rehabilitatio nand1year thereafter. Spinal Cord.
+2015.
+8. Bennett DJ,Goras siniM,Fouad K,Sanelli L,Han Y,Cheng J.Spasticity inratswith sacral spinal cord
+injury. JNeurotraum a.1999; 16(1):69±8 4.doi:10.1089 /neu.1999. 16.69 PMID: 9989467
+9. Thompson FJ,Parmer R,Reier PJ,Wang DC, Bose P.Scientific basis ofspastic ity:insights from alab-
+oratory model. JChild Neurol. 2001; 16(1):2±9. PMID: 11225952
+10. Bennett DJ,Sanelli L,Cooke CL,Harvey PJ,Gorassini MA. Spastic long-las tingreflexes intheawake
+ratafter sacral spinal cord injury. JNeurophysio l.2004; 91(5):224 7±58. Epub 2004/04/08. doi:10.1152/
+jn.00946.2 003PMID: 15069102
+11. Kapitza S,Zorner B,Weinmann O,Bolliger M,FilliL,Dietz V,etal.Tailspasms inratspinal cord injury:
+changes ininterneuro nalconnectivity .Exp Neurol. 2012; 236(1):179 ±89. Epub 2012/05 /10.doi:10.
+1016/j.exp neurol.2012 .04.023 PMID: 22569103
+12. Kitzman P.Alteration inaxial motoneur onal morphology inthespinal cord injured spastic rat.Exp Neu-
+rol.2005; 192(1):100 ±8.doi:10.1016/j.ex pneurol.200 4.10.021 PMID: 15698623
+13. LiY,Harvey PJ,LiX,Bennett DJ.Spastic long-lasting reflexes ofthechronic spinal ratstudied invitro. J
+Neuroph ysiol. 2004; 91(5):2236 ±46. doi:10.1152 /jn.01010.2003 PMID: 15069101
+14. Murray KC,Stephens MJ,Ballou EW, Heckman CJ,Bennett DJ.Motoneur onexcitability andmuscle
+spasms areregulat edby5-HT2B and5-HT2C receptor activity .JNeuroph ysiol. 2011; 105(2):731 ±48.
+doi:10.1152 /jn.00774.2010 PMID: 20980537
+15. Boulenguez P,Liabeuf S,Bos R,Bras H,Jean-Xavier C,Brocard C,etal.Down-regu lation ofthepotas-
+sium-chlor idecotranspo rterKCC2 contributes tospasticity after spinal cord injury. NatMed. 2010; 16
+(3):302±7. Epub 2010/03 /02.doi:10.1038/ nm.2107 PMID: 20190766
+16. Murray KC,Nakae A,Stephe nsMJ,Rank M,D'Amic oJ,Harvey PJ,etal.Recove ryofmotoneuro nand
+locomotor function after spinal cord injury depend sonconstitutiv eactivity in5-HT2C receptor s.Nat
+Med. 2010; 16(6):694± 700. doi:10.1038 /nm.2160 PMID: 20512126
+17. LeeJK,Emch GS, Johnson CS,Wrathall JR.Effect ofspinal cord injury severity onalterations oftheH-
+reflex. Exp Neurol. 2005; 196(2):430 ±40. doi:10.1016 /j.expneurol.20 05.08.01 8PMID: 16185689
+18. Courtine G,Song B,Roy RR, Zhong H,Herrmann JE,AoY,etal.Recove ryofsupraspin alcontrol of
+stepping viaindirect propriospin alrelay connect ions after spinal cord injury. NatMed. 2008; 14(1):69±
+74.doi:10.1038 /nm1682 PMID: 18157143
+19. Singh A,Balasubram anian S,Murray M,Lemay M,Houle J.Role ofspared pathways inlocomotor
+recovery after body-weig ht-supported treadmil ltraining incontused rats. JNeurotraum a.2011; 28
+(12):2405± 16.doi:10.1089 /neu.2010. 1660 PMID: 21568686
+20. Bose P,Parmer R,Thompson FJ.Velocity- dependent ankle torque inratsafter contusion injury ofthe
+midthora cicspinal cord: time course. JNeurotraum a.2002; 19(10):123 1±49. doi:10.1089/
+08977150260 338029 PMID: 12427331
+21. Thompson FJ,Parmer R,Reier PJ.Alteration inrate modulation ofreflexes tolumbar motoneurons
+after midthora cicspinal cord injury intherat.I.Contusion injury. JNeurotra uma. 1998; 15(7):495± 508.
+doi:10.1089 /neu.1998.15. 495PMID: 9674553
+22. Corleto JA,Bravo-He rnandez M,Kamizato K,Kakinohana O,Santucci C,Navarro MR, etal.Thoracic 9
+Spinal Transection -Induced Model ofMuscle Spasticity intheRat: ASystematic Electro physiologic al
+andHistopatho logical Character ization. PLoS One. 2015; 10(12):e01 44642. doi:10.1371/ journal.pon e.
+0144642 PMID: 26713446
+23. Magnuson DS,Smith RR, Brown EH,Enzmann G,Angeli C,Quesada PM, etal.Swimm ingasamodel
+oftask-spec ificlocomotor retraining after spinal cord injury intherat.Neurorehabil Neural Repair. 2009;
+23(6):535± 45.doi:10.1177 /15459683083 31147 PMID: 19270266
+24. Smith RR, Burke DA,Baldini AD,Shum-Siu A,Baltzley R,Bunger M,etal.The Louisville Swim Scale: a
+novel assessmen tofhindlimb function following spinal cord injury inadult rats. JNeurotra uma. 2006; 23
+(11):1654± 70.doi:10.1089 /neu.2006. 23.1654 PMID: 1711591 1
+25. Gonzenbac hRR, Gasser P,Zorner B,Hochreuten erE,Dietz V,Schwab ME. Nogo-A antibodies and
+training reduce muscle spasms inspinal cord-injure drats. Ann Neurol. 2010; 68(1):48±5 7.Epub 2010/
+06/29. doi:10.1002/ana.22 009PMID: 20582944
+26. Trompetto C,Marinelli L,Mori L,Pelosin E,Curra A,Molfetta L,etal.Pathop hysiology ofspasticity :
+implication sforneuroreha bilitation. Biomed Res Int.2014; 2014:354906. doi:10.1155 /2014/3549 06
+PMID: 255309 60
+27. Skold C.Spasticity inspinal cord injury: self- andclinically rated intrinsic fluctuation sandinterven tion-
+induced changes. Arch Phys Med Rehabil. 2000; 81(2):144± 9.PMID: 106687 66
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 14/15
+28. Grey MJ,Klinge K,Crone C,Lorentze nJ,Biering-S orensen F,Ravnbo rgM,etal.Post-activat ion
+depressio nofsoleus stretch reflexes inhealthy andspastic humans. Exp Brain Res. 2008; 185(2):189 ±
+97.doi:10.1007 /s00221-007- 1142-6 PMID: 179326 63
+29. Reese NB,Skinner RD, Mitchell D,Yates C,Barnes CN, Kiser TS,etal.Restoration offrequen cy-
+dependent depressio noftheH-reflex bypassive exercise inspinal rats. Spinal Cord. 2006; 44(1):28±
+34.doi:10.1038 /sj.sc.3101810 PMID: 16044168
+30. Harvey PJ,LiX,LiY,Bennett DJ.5-HT2 receptor activation facilitates apersistent sodium current and
+repetitive firing inspinal motoneurons ofratswith andwithout chronic spinal cord injury. JNeurophysio l.
+2006; 96(3):1158 ±70. doi:10.1152/jn.01 088.2005 PMID: 1670771 4
+31. LiY,Gorassini MA, Bennett DJ.Role ofpersistent sodium andcalcium currents inmotoneuron firing
+andspasticity inchronic spinal rats. JNeuroph ysiol. 2004; 91(2):767± 83.doi:10.1152/jn.007 88.2003
+PMID: 147621 49
+32. LeeJK,Johnson CS,Wrathall JR.Up-regu lation of5-HT2 receptors isinvolved intheincreased H-
+reflex amplitude after contusive spinal cord injury. Exp Neurol. 2007; 203(2):50 2±11. doi:10.1016/j.
+expneurol. 2006.09.003 PMID: 170598 18
+33. Schmidt BJ,Jordan LM.The roleofserotonin inreflex modulatio nandlocomotor rhythm production in
+themamma lianspinal cord. Brain Res Bull. 2000; 53(5):689± 710. PMID: 11165804
+34. Kong XY,Wienecke J,Chen M,Hultborn H,Zhang M.The time course ofserotonin 2Areceptor expres-
+sion after spinal transection ofrats: animmuno histochemical study. Neurosc ience. 2011; 177:114 ±26.
+doi:10.1016 /j.neuroscien ce.2010.12. 062PMID: 21211552
+35. Navarrett S,Collier L,Cardozo C,Dracheva S.Alterations ofserotoni n2Cand2Areceptor sinresponse
+toT10 spinal cord transection inrats. Neurosc iLett. 2012; 506(1):74± 8.doi:10.1016/j.neul et.2011.1 0.
+052PMID: 220569 18
+36. Doly S,Madeira A,Fischer J,Brisorguei lMJ,Daval G,Bernard R,etal.The 5-HT2A receptor iswidely
+distribute dintheratspinal cord andmainly localized attheplasma membrane ofpostsyna pticneurons.
+JComp Neurol. 2004; 472(4):496 ±511. doi:10.1002/c ne.20082 PMID: 150651 22
+37. Lance JW. The control ofmuscle tone, reflexes, andmovement: Robert Wartenb ergLecture. Neurol-
+ogy. 1980; 30(12):130 3±13. PMID: 719281 1
+Swimming testforspasticity
+PLOS ONE |DOI:10.137 1/journal.po ne.0171 937 February 9,2017 15/15

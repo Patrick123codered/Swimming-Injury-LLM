@@ -1,0 +1,791 @@
+Original research
+Shoulder pain in swimmers: A 12-month prospective cohort study of incidence
+and risk factors
+Helen Walkera, Belinda Gabbeb, Henry Wajswelnerc, Peter Blanchd, Kim Bennella,*
+aCentre for Health Exercise and Sports Medicine, Department of Physiotherapy, The University of Melbourne, Parkville, Victoria 3010, Australia
+bSchool of Public Health and Preventive Medicine, Monash University, Victoria, Australia
+cDMA Clinical Pilates, Victoria, Australia
+dDepartment of Physical Therapies, Australian Institute of Sport, Australian Capital Territory, Australia
+article info
+Article history:
+Received 15 June 2011
+Received in revised form
+15 November 2011
+Accepted 12 January 2012
+Keywords:
+Shoulder
+Pain
+Range of motion
+Laxity
+Swimmingabstract
+Objective: To investigate shoulder pain incidence rates and selected risk factors for shoulder pain in
+competitive swimmers.
+Design: 12-month prospective cohort study.
+Setting: Five swimming clubs in Melbourne, Australia.
+Participants: 74 (37 M, 37 F) competitive swimmers ranging in age from 11 to 27 years and performing at
+leastﬁve swim sessions per week.
+Assessment of risk factors: Swimmers completed a baseline questionnaire regarding demographics,
+anthropometric features, swimming characteristics and training and injury history. Active shoulder
+internal (IR) and external rotation (ER) range of motion and passive joint laxity were measured.
+Main outcome measurements: Shoulder pain was self-reported over 12 months with signi ﬁcant inter-
+fering shoulder pain (SIP) de ﬁned as pain interfering (causing cessation or modi ﬁcation) with training or
+competition, or progression in training. A signi ﬁcant shoulder injury (SSI) was any SIP episode lasting for
+at least 2 weeks.
+Results: 28/74 (38%) participants reported SIP while 17/74 (23%) reported SSI. Exposure-adjusted inci-
+dence rates were 0.3 injuries and 0.2 injuries per 1000 swim km for SIP and SSI, respectively. Swimmers
+with both high and low ER range were at 8.1 (1.5, 42.0) and 12.5 (2.5, 62.4) times greater risk of
+sustaining a subsequent SIP, respectively and 35.4 (2.8, 441.4) and 32.5 (2.7, 389.6) times greater risk of
+sustaining a SSI, respectively than those with mid-range ER. Similarly swimmers with a history of
+shoulder pain were 4.1 (95% CI: 1.3, 13.3) and 11.3 (95% CI: 2.6, 48. 4) times more likely to sustain a SIP
+and SSI, respectively.
+Conclusion: Shoulder pain is common in competitive swimmers. Preventative programs should be
+particularly directed at those swimmers identi ﬁed as being at risk of shoulder pain.
+/C2112012 Elsevier Ltd. All rights reserved.
+1. Introduction
+Shoulder pain/injury is the most common musculoskeletal
+problem experienced by competitive swimmers ( McMaster, 1999;
+Mountjoy et al., 2010; Weldon & Richardson, 2001 ). Of the rela-
+tively few studies investigating shoulder injury incidence in this
+sporting population, reported rates vary widely depending on the
+speciﬁc injury de ﬁnition employed ( Chalmers & Morrison, 2003 ).Given its prevalence, numerous risk factors for shoulder injury in
+swimmers are proposed in the literature including glenohumeral
+joint range of motion and laxity, scapular dyskinesis, rotator cuff
+strength imbalances, gender, competitive swimming level, stroke,
+swim distance and hand paddle usage during swim training ( Bak,
+2010; Blanch, 2004; McMaster, Roberts, & Stoddard, 1998;
+McMaster & Troup, 1993; Richardson, Jobe, & Collins, 1980; Sein
+et al., 2010; Weldon & Richardson, 2001; Wolf, Ebinger, Lawler, &
+Britton, 2009 ). However, these have received limited prospective
+investigation ( Gaunt & Mafulli, 2011 ).
+Biomechanical three dimensional analysis of freestyle swim-
+ming supports the notion that adequate rotational shoulder range
+of motion is required to swim with correct technique and avoid
+shoulder impingement ( Yanai & Hay, 2000; Yanai, Hay, & Miller,*Corresponding author. Tel.: þ61 3 8344 4135; fax: þ61 3 8344 4188.
+E-mail addresses: heljastrav@bigpond.com (H. Walker), belinda.gabbe@
+med.monash.edu.au (B. Gabbe), waj5@me.com (H. Wajswelner), p.blanch@
+ausport.gov.au (P. Blanch), k.bennell@unimelb.edu.au (K. Bennell).
+Contents lists available at SciVerse ScienceDirect
+Physical Therapy in Sport
+journal homepage: www.elsevier.com/ptsp
+1466-853X/$ esee front matter /C2112012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.ptsp.2012.01.001Physical Therapy in Sport 13 (2012) 243 e249
+2000 ). However, cross-sectional studies investigating associations
+between shoulder injury in swimmers and shoulder internal (IR)
+and external (ER) rotation range of motion and glenohumeral joint
+laxity report mixed ﬁndings ( Allegrucci, Whitney, & Irrgang, 1994;
+Bak & Magnusson, 1997; Beach, Whitney, & Dickoff-Hoffman, 1992;
+McMaster et al., 1998; Ozcaldiran, 2002; Rupp, Berninger, & Hopf,
+1995; Sein et al., 2010; Zemek & Magee, 1996 ). Inferences regarding
+the role of joint laxity and range of motion in the aetiology of
+shoulder injury are dif ﬁcult to draw from these studies as it is
+unclear whether de ﬁcits are pre-existing or sequelae of injury.
+This study sought to (i) investigate shoulder injury incidence
+and exposure-adjusted injury rates and (ii) identify the predictive
+value of several risk factors for these injuries, with a particular
+focus on shoulder IR and ER range of motion and glenohumeral
+joint laxity, in competitive swimmers.
+2. Methods
+2.1. Setting and study design
+A prospective cohort study was conducted involving competi-
+tive swimmers in Melbourne, Australia.
+2.2. Participants
+A sample of convenience was recruited. Swimmers from ﬁve
+competitive swimming clubs in Melbourne, Australia who
+competed at state, national or international level, performed at
+leastﬁve swim sessions per week and intended to continue this
+training level during the following 12 months were eligible to
+participate in this study. Swimmers were excluded if they had
+a history of shoulder surgery or dislocation, were suffering shoulder
+pain on the day of testing or had any other injury that would
+interfere with the test procedures. The study was approved by the
+institutional Human Research Ethics Committee and all partici-
+pants or their parents/guardians provided written informed
+consent.
+2.3. Procedures
+Swimmers completed a baseline questionnaire regarding
+demographics, anthropometric features, swimming characteristics
+and training and injury history. Shoulder range of motion and laxity
+testing was conducted in a standardised order by the same sports
+physiotherapist (HW). Active shoulder IR and ER range of motion at
+90/C14abduction was measured with a Dualer Inclinometer (J-Tech
+Medical, Salt Lake City) in supine with manual scapular stabilisa-
+tion ( Boon & Smith, 2000 ). Anterior-to-posterior glenohumeral
+translation was measured in prone at 90/C14shoulder abduction using
+a modiﬁed KT1000 arthrometer (MED-metric Corporation, San
+Diego) ( Pizzari, Kolt, & Remedios, 1999 ). Glenohumeral joint
+translation in millimetres was recorded at 89 N of applied force as
+this was an appropriate pre-set level on the device for shoulder
+testing.
+In a separate study, the intra-examiner reliability (ICC 2,3) stan-
+dard error of measurement (SEM) and minimal detectable change at
+the 90% con ﬁdence level (MDC 90¼1.65*SEM*O2) of shoulder range of
+motion ( n¼17) and laxity testing ( n¼14) was examined in
+a subgroup of competitive swimmers ranging in age from 12 to 24
+years ( Table 1 )(Haley & Fragala-Pinkham, 2006; Portney & Watkins,
+2009 ). The results indicate good to excellent reliability for all
+measures with SEM of 2/C14or less and MDC 90of 5/C14or less.
+The potential risk factors studied are detailed in Table 2 .
+Swimmers were instructed regarding the shoulder injury de ﬁ-
+nition and underwent 12 months injury surveillance followingbaseline measurement. Swimmers were asked to complete, and
+submit, a weekly diary to report shoulder injury status. When diary
+forms were not submitted, swimmers were contacted directly each
+fortnight via SMS (short message service for mobile phones),
+telephone or email to ascertain shoulder injury status. Episodes of
+shoulder pain meeting the injury de ﬁnition were self-reported
+using standardised injury report and severity forms. Injury
+severity was indicated by symptom duration (weeks) and the
+number of modi ﬁed or missed training sessions. In most instances,
+injury report and severity forms were collected within two to four
+weeks of occurrence. Swim coaches supplied copies of swim
+training records from which weekly exposure in kilometres and the
+number of sessions completed were derived.
+The shoulder injury de ﬁnition used was based on previous
+research and de ﬁned a priori as signi ﬁcant interfering shoulder
+pain (SIP) that interfered with training or competition, or
+progression in training and caused cessation or modi ﬁcation of
+training or racing ( McMaster et al., 1998; McMaster & Troup, 1993 ).
+In addition, a signi ﬁcant shoulder injury (SSI) was de ﬁned as any
+SIP episode lasting for at least two weeks. The use of two injury
+outcomes in this study allowed for the investigation of potential
+risk factors for both short- and longer-duration injury episodes.
+2.4. Data analysis
+Data were analysed using SPSS 11.0 for Windows. Range of
+motion and laxity data were categorised according to tertiles (low,
+middle, high) to examine potential non-linear relationships with
+shoulder injury, with the middle category the reference for anal-
+yses. Each variable was examined for side and gender differences
+and the signi ﬁcant differences for shoulder IR and laxity betweenTable 1
+Reliability of shoulder tests.
+Shoulder tests ICC 2,3 (95% CI) SEM
+(/C14)MDC 90
+(/C14)
+Internal range of motion Right 0.96 (0.90,0.99) 2 5
+Left 0.90 (0.72,0.97) 2 5
+External range of motion Right 0.95 (0.85,0.98) 2 5
+Left 0.94 (0.83,0.98) 2 5
+Shoulder translation Right 0.94 (0.81,0.98) 1 2
+Left 0.70 (0.34,0.93) 2 5
+ICC¼intraclass correlation coef ﬁcient.
+SEM¼standard error of measurement.
+MDC 90¼minimal detectable change.
+Table 2
+Variables examined for association with shoulder injury.
+Category Variable
+Shoulder range
+of motionInternal rotation at 90/C14abduction (/C14)
+External rotation at 90/C14abduction (/C14)
+Glenohumeral
+laxityPosterior to anterior translation at 89 N applied
+force (mm)
+Injury history History of signi ﬁcant shoulder pain in 12 months
+prior to study (yes/no)
+Demographics Height (cm)
+Weight (kg)
+Age (years)
+Handedness (left/right)
+Competitive
+characteristicsCompetitive level (state/national/international)
+Competitive swim distance (sprint/middle/long distance)
+Age commenced competitive swimming (years)
+Preferred stroke event (freestyle/butter ﬂy/backstroke/
+breaststroke/individual medley)
+Training in past
+yearTotal yearly swimming distance (km)
+Frequency of use of hand paddles (times/week)
+Proportion of freestyle performed at swim training (%)H. Walker et al. / Physical Therapy in Sport 13 (2012) 243 e249 244
+males and females were accounted for by gender-speci ﬁc catego-
+risations for these tests.
+Preliminary bivariate logistic regression analyses identi ﬁed
+those variables associated with SSI or SIP, and variables with p
+values<0.15 were retained for the multivariate analyses. The
+independent predictors of shoulder injury (SSI and SIP) were
+determined using backward stepwise binary logistic regression.
+The goodness of ﬁt (Hosmer and Lemeshow test), adjusted odds
+ratios and 95% con ﬁdence intervals (CI) were calculated from the
+ﬁnal logistic regression model.
+3. Results
+3.1. Cohort characteristics and shoulder injury incidence rates
+Seventyﬁve swimmers were recruited. One participant with-
+drew and was excluded from the analysis. As such, the study cohort
+comprised 37 female and 37 male swimmers ranging in age from 11
+to 27 years. Nine swimmers ceased swimming and one moved
+interstate, nonetheless their data were retained as analyses
+included adjustment for swim training exposure. Table 3 detail
+swimmers ’training, shoulder range of motion, laxity and demo-
+graphic characteristics.
+Compliance with completing the injury diary was low with only
+12 swimmers submitting the diary for the 12 months. However,
+injury surveillance via fortnightly direct contact through SMS,email or telephone was very successful. Hence the overall injury
+surveillance rate was 87%. Swim squad averages were used to
+calculate individual training exposure data for 63 (85%) partici-
+pants. Individual training mileage and attendance information was
+only available for 11 (15%) participants. Training data were
+unavailable for 122 (14%) of the 888 potential injury surveillance
+months. The average of each swimmer ’s available monthly swim
+kilometres was substituted for missing training data where
+required ( Engels & Diehr, 2003; Tabachnick & Fidel, 1989 ). Overall,
+19,043 swim training sessions and 91,838 km of swimming were
+calculated for the cohort during the surveillance period.
+During the 12-month study, 28/74 (38%) participants reported
+SIP while 17/74 (23%) reported SSI. The exposure-adjusted inci-
+dence rates were 0.3 injuries per 1000 swim kilometres for SIP and
+0.2 injuries per 1000 swim kilometres for SSI. More than one
+shoulder injury episode was reported by nine (32%) swimmers. The
+majority of SSI (74%) and SIP episodes (68%) reported were new
+injuries. Most injuries (90%) were sustained during swim training,
+speciﬁcally during the main set (74%) whilst performing the
+propulsive pull through phase of the freestyle stroke. Only ﬁve
+percent of injuries were reported during competition or after swim
+training. The duration of the worst shoulder injury episode was
+4/C62 weeks for both SSI and SIP. The number of modi ﬁed or missed
+swim sessions for the worst injury episode was 15 /C621 for SIP and
+22/C624 for SSI. The mean /C6SD age of injured swimmers was 15 /C63
+years with shoulder injuries evenly distributed by side and gender.
+3.2. Independent predictors of shoulder injury
+Preliminary bivariate analyses results were the same whether
+adjusted or unadjusted for swim training kilometres. There was
+a signiﬁcant association between a positive 12-month shoulder
+pain history and both injury outcomes (SIP: p¼0.045; SSI:
+p¼0.006), whereas ER range was signi ﬁcantly associated with SIP
+(p¼0.015) and met the multivariate model inclusion criteria
+(p<0.15) for SSI ( p¼0.07). These two variables were retained for
+the multivariate analysis to identify independent predictors of
+shoulder injury ( Table 4 ). None of the other examined variables was
+associated with shoulder injury.
+The signi ﬁcant independent predictors of shoulder injury,
+adjusted for swim training exposure, were ER range of motion (SIP:
+p¼0.008, SSI: p¼0.02) and previous shoulder injury history (SIP:
+p¼0.02; SSI: p¼0.001). The adjusted odds ratios indicated that
+swimmers in both the low and high ER range of motion groups
+were at elevated risk of developing a shoulder injury than those in
+the mid-range group. Similarly swimmers with a history of
+shoulder pain were 4.1 (95% CI: 1.3, 13.3) and 11.3 (95% CI: 2.6, 48. 4)
+times more likely to sustain a subsequent shoulder injury for SIP
+and SSI respectively. Swim training distance was not a signi ﬁcant
+predictor of shoulder injury (SIP: p¼0.07; SSI: p¼0.1). Both ER
+(SIP: p¼0.008, SSI: p¼0.02) and previous shoulder history (SIP:
+p¼0.02; SSI: p¼0.001) were signi ﬁcant predictors when analyses
+were not adjusted for swim training exposure (km).
+4. Discussion
+This study utilised a prospective cohort design to investigate
+shoulder injury incidence and selected risk factors for shoulder
+injury in Australian competitive swimmers. Our ﬁndings of
+shoulder injury incidence rates ranging from 23% to 38% con ﬁrm
+the notion that shoulder injuries in competitive swimming are
+common ( Mountjoy et al., 2010; Richardson et al., 1980 ). Prior
+retrospective surveys report SIP incidence rates of 29% e49% over
+a 12 month period ( Burchﬁeld, Coﬁeld, & Co ﬁeld, 1994; Hall,
+Stewart, & Rogers, 1995 ) and 62% over a swim career ( McMasterTable 3
+Participant characteristics given as the mean /C6standard deviation or the number
+(percentage).
+Characteristics Female
+N¼37Male
+N¼37Total
+N¼74
+Age (years) 15 /C631 6 /C631 5/C63
+Age started swim competition (years) 10 /C621 1 /C631 0/C63
+Height (cm) 166 /C66 175 /C614 170 /C612
+Hand dominance
+Right 34 (91%) 32 (86%) 65 (88%)
+Left 2 (6%) 4 (11%) 7 (9%)
+Equal 1 (3%) 1 (3%) 2 (3%)
+Competitive level
+International 4 (11%) 8 (21%) 12 (16%)
+National 11 (30%) 14 (39%) 25 (35%)
+State 22 (59%) 15 (40%) 37 (49%)
+Preferred event by stroke
+Freestyle 11 (30%) 11 (30%) 22 (30%)
+Butterﬂy 8 (21%) 6 (16%) 14 (19%)
+Backstroke 5 (13%) 9 (24%) 14 (19%)
+Breaststroke 9 (24%) 7 (19%) 16 (21%)
+Individual Medley 4 (12%) 4 (11%) 8 (11%)
+Competition distance
+Sprint (50 m,100 m) 4 (12%) 7 (18%) 11 (16%)
+Middle (200 m,400 m) 0 (0%) 0 (0%) 0 (0%)
+Distance (800 m,1500 m) 0 (0%) 1 (3%) 1 (1%)
+Sprint and Middle 26 (67%) 23 (61%) 49 (65%)
+Middle and Distance 3 (9%) 2 (5%) 5 (7%)
+All distances 4 (12%) 4 (13%) 8 (12%)
+Swimming sessions/week (n) 8 /C628 /C628 /C62
+Average swimming distance/week (km) 43 /C615 46 /C615 44 /C615
+Average swimming distance/session (km) 6 /C615 /C616 /C61
+% Training time by stroke
+Freestyle 56% 60% 58%
+Butterﬂy 14% 15% 15%
+Backstroke 18% 18% 18%
+Breaststroke 12% 9% 10%
+Land sessions/week (n) 3 /C633 /C623 /C63
+Internal rotation range eLeft (/C14)5 6/C685 2 /C685 4/C68
+Internal rotation range eRight (/C14)5 5/C695 2 /C685 3/C68
+External rotation range eLeft (/C14)9 7/C699 5 /C699 6/C69
+External rotation range eRight (/C14)9 7/C689 7 /C689 7/C68
+LaxityeLeft (mm) 31 /C642 8 /C632 9/C64
+LaxityeRight (mm) 31 /C642 7 /C642 9/C64H. Walker et al. / Physical Therapy in Sport 13 (2012) 243 e249 245
+& Troup, 1993 ). Prevalence rates reported for SIP range from 20% to
+38% ( Capaci, Ozcaldiran, & Durmaz, 2002 ;McMaster & Troup,1993 ).
+Surveys using injury de ﬁnitions other than SIP report shoulder
+injury incidence of 42% e62% ( Stocker, Pink, & Jobe, 1995 ). Our
+ﬁndings are most consistent with previously reported SIP preva-
+lence rates, highlighting the need for consistency of injury de ﬁni-
+tion to allow for valid comparison between studies ( Brooks & Fuller,
+2006 ).
+In our study, shoulder injury rates ranged from 0.2 to 0.3 injuries
+per 1000 km of swimming depending on the de ﬁnition used. The
+incidence of all swimming injuries has been reported as 0.9 injuries
+per 1000 swim hours ( Bak, Bue, & Olsson, 1989 ), 3.78 to 4 injuries
+per exposures ( Wolf et al., 2009 ) and 21.8 injuries per 1000 female
+swimmers ( Mountjoy et al., 2010 ). In practical terms, a squad of 20
+swimmers that trains 50 km each week may sustain ﬁve SIP and
+three SSI events during a 16-week training phase. Thus shoulder
+injuries are a liability for swimming programs and attention to
+preventative strategies are needed ( McMaster, 1999; Mountjoy
+et al., 2010 ).
+Recurrence of shoulder injuries in swimming is frequent ( Bak
+et al., 1989 ). This study con ﬁrms the signi ﬁcant independent
+association between a positive past history of shoulder injury and
+subsequent shoulder injury risk, concurring with research from
+other sports ( Emery, 2003 ). The reason for this relationship is
+unclear but may relate to pre-existing risk factors or insuf ﬁcient
+rehabilitation of shoulder injuries. While history of shoulder injury
+is a non-modi ﬁable risk factor, it can be used as a marker to identify
+swimmers at risk of injury in whom preventative efforts should be
+particularly directed.
+Measurement of shoulder rotational range of motion and laxity
+in an abducted position is a recommended component of clinical
+examination for overhand athletes ( Blanch, 2004; McQuade &
+Murthi, 2004; Reinhold & Gill, 2009 ), despite the controversy in
+the literature regarding the underlying mechanisms for alterations
+in shoulder joint motion or laxity, particularly the respective roles
+of capsular tightness, muscle stiffness and humeral torsion ( Huxel
+et al., 2008; McQuade & Murthi, 2004; Torres & Gomes, 2009;
+Whiteley, Ginn, Nicholson, & Adams, 2009 ).
+In this study, swimmers with high ( /C21100/C14) or low (<93/C14)
+shoulder ER range of motion were at increased risk of developing
+a shoulder injury than those with mid-range motion, irrespective of
+whether the results were adjusted for swim training exposure. This
+supports the hypothesis that there is an ideal range of ﬂexibility
+needed to swim without developing a shoulder injury ( Blanch,2004 ). Previous cross-sectional studies investigating the relation-
+ship between rotational range of motion and shoulder pain in
+swimmers are con ﬂicting with results showing either no signi ﬁcant
+correlation between either IR and ER and SIP ( Bak & Fauno, 1997;
+Beach et al., 1992 ) or signiﬁcantly greater total rotational range of
+motion in swimmers with shoulder pain, compared with controls
+(Ozcaldiran, 2002 ). Another report demonstrated a trend towards
+reduced IR in swimmers with shoulder injuries ( Bak & Magnusson,
+1997 ). Differences in cohort characteristics, injury de ﬁnitions and
+study design most likely explain the disparate results.
+Despite the statistically signi ﬁcantﬁndings for ER as a risk factor
+for shoulder injury in this study the application of these ﬁndings to
+the clinical setting requires consideration. The intra-tester reli-
+ability of range of motion measurement was good to excellent (ICC:
+0.90e0.96) with SEM and MDC 90for all rotation tests of 2 and 5/C14,
+respectively. The minimal detectable change of ER testing was
+smaller than the range of scores delineating mid-range ER (7/C14),
+low-range (21/C14) and high-range (14/C14) indicating that, in this
+research context, the range of scores was detectable by the
+measurement method employed ( Haley & Fragala-Pinkham, 2006;
+Kolber, Vega, Widmayer, & Cheng, 2011; Portney & Watkins, 2009 ).
+Biomechanical analyses of freestyle swimming have indicated
+that shoulder impingement may occur when swimmers exceed
+their available shoulder range of motion during the freestyle stroke,
+dependent on the swim technique employed ( Yanai & Hay, 2000;
+Yanai et al., 2000 ). Swimmers impinge their shoulders most
+frequently during the recovery phase of the freestyle stroke ( Yanai
+& Hay, 2000 ) wherein the shoulder abducts and externally rotates,
+passing through the clinically de ﬁned ‘painful arc ’of impingement
+(Neer, 1983 ). Cadaveric studies suggest that suf ﬁcient ER is required
+to prevent internal impingement of the humeral head with the
+superior glenoid during abduction ( Edelson & Teitz, 2000 ) and
+limited ER range of motion has been associated with the develop-
+ment of subacromial impingement syndrome ( Kim & McFarland,
+2004; Lin, Lim, & Yang, 2006; Michener, McClure, & Karduna,
+2003 ). There is suf ﬁcient evidence from animal and human
+studies that overuse loading of the shoulder, during the swimming
+stroke action, precipitates rotator cuff tendon thickening and ten-
+dinopathy ( Bey, Song, Wehrli, & Soslowsky, 2002; Carpenter,
+Flanagan, Thomopoulos, Yian, & Soslowsky, 1998; Lee, Nakajima,
+Luo, Zobitz, Chang, & An, 2000; Mihata, Lee, McGarry, Abe, & Lee,
+2004; Murrell, 2002; Reilly, Amis, Wallace, & Emery, 2003a;
+Reilly, Amis, Wallace, & Emery, 2003b; Sein et al., 2010;
+Soslowsky et al., 2002; Soslowsky et al., 2000 ). These changesTable 4
+Independent predictors of shoulder injury.
+Variable Categories n % of total participants
+in injured group n(%)Adjusted for swim km Unadjusted for swim km
+OR (95% CI) pvalue OR (95% CI) pvalue
+Signiﬁcant shoulder injury (SSI)
+ER Middle (reference) 25 1/74 (1%) e 0.02a0.02a
+Low<93/C1425 8/74 (11%) 32.5 (2.7, 389.6) 24.9 (2.3, 262.6)
+High/C21100/C1424 8/74 (11%) 35.4 (2.8, 441.9) 23.0 (2.2, 236.8)
+Past HistorybNo (reference) 48 6/74 (8%) e
+Yes 26 11/74 (7%) 11.3 (2.6, 48.4) 0.001a10.0 (2.5, 39.2) 0.001a
+Swim km 74 1.0 (1.0, 1.0) 0.11
+Signiﬁcant interfering shoulder pain (SIP)
+ER Middle (reference) 23 3/74 (4%) 0.008a0.009a
+Low<93/C1427 15/74 (20%) 12.5 (2.5, 62.4) 11.1 (2.4, 51.6)
+High/C21100/C1424 10/74 (14%) 8.1 (1.5, 42.0) 5.9 (1.3, 28.05)
+Past HistorybNo (reference) 48 14/74 (19%)
+Yes 26 14/74 (19%) 4.1 (1.3, 13.3) 0.02a0.02a
+Swim km 74 1.0 (1.0, 1.0) 0.07
+ER¼external rotation range of motion; km ¼kilometres.
+asigniﬁcant at p<0.05.
+bhistory of shoulder injury in past 12 months.H. Walker et al. / Physical Therapy in Sport 13 (2012) 243 e249 246
+may affect the potential for extrinsic tendon impingement in
+swimmers ’shoulders ( Sein et al., 2010 ). It is possible that swim-
+mers with limited ER who performed their stroke at the end of their
+available range were at increased risk of impingement during arm
+recovery, particularly in the presence of overuse-related tendon
+thickening.
+Swimmers in this study with greater ER motion ( /C21100/C14) were
+also at increased risk of sustaining a shoulder injury. It is possible
+that the high ER range of motion observed in some swimmers
+reﬂects detrimental changes to the shoulder passive restraints
+and, potentially, its neuromuscular control. In healthy individuals,
+less subscapularis activity is observed in response to ER pertur-
+bations with the shoulder in maximal ER compared with neutral
+ER, whilst joint stiffness remains unchanged for both positions,
+indicating that structures other than the rotator cuff are providing
+stability ( Huxel et al., 2008 ). Application of a non-destructive ER
+stretching protocol to cadaveric inferior glenohumeral ligaments
+results in signi ﬁcant increases in ligament length ( Pollock et al.,
+2000 ) and ER range ( Mihata et al., 2004 ) as well as subtle
+increases in anterior translation ( Mihata et al., 2004 ). In vivo, such
+repetitive microtrauma to the shoulder stabilising structures may
+result in subtle anterior shoulder instability, secondary impinge-
+ment of the rotator cuff and biceps tendons ( Belling Sorensen &
+Jorgensen, 2000 ), as well as altered glenohumeral kinematics
+(Huffman, Tibone, McGarry, Phipps, Lee, & Lee, 2006 ). Increased ER
+range is also associated with reduced kinaesthetic sense in the
+dominant shoulders of overhead athletes, attributable to micro-
+traumatic damage to the shoulder joint capsule and receptors
+(Allegrucci, Whitney, Lephart, Irrgang, & Fu, 1995 ) and this altered
+proprioceptive input may affect the stabilising function of
+the shoulder musculature ( Nyland, Caborn, & Johnson, 1998 ).
+Certainly, altered neuromuscular control has been identi ﬁed as an
+important factor in the aetiology of secondary impingement in
+swimmers ( Blanch, 2004 ). A further consideration is that twisting
+and lengthening of the anterior portion of the supraspinatus
+tendon has been observed in cadavers during ER ( Nakajima,
+Hughes, & An, 2004 ). These authors suggest that axial rotation
+may impair tendon perfusion under tension, thereby providing
+a rationale for studies citing external rotation as a risk factor for
+rotator cuff injury ( Nakajima et al., 2004 ). Theoretically, swimmers
+with increased ER range may be susceptible to greater intrinsic
+tendon injury.
+Loss of IR range of motion due to tightness of the posterior
+capsule is frequently cited as a risk factor for shoulder injury in
+overhead athletes ( Levine, Brandon, Stein, Gardner, Bigliani, &
+Ahmad, 2006; Myers, Laudner, Pasquale, Bradley, & Lephart,
+2006; Warner, Micheli, Arslanian, Kennedy, & Kennedy, 1990 ),
+however there was no association between IR range and swimming
+shoulder injuries in this study. Most likely, insuf ﬁcient less eccen-
+tric loading of the rotator cuff and posterior capsule occurs during
+swimming than in other overhead sports such as throwing or
+tennis, to cause the loss of IR associated with injury. Alternatively,
+IR may not be useful for injury prediction given that it can vary
+considerably diurnally in swimmers ( Blanch, 2004 ) and in an
+associated study on the current cohort, right sided internal rotation
+was the least stable variable in non-injured swimmers over a six
+month period.
+There was no association between joint laxity measured at
+baseline and subsequent shoulder injury. These ﬁndings are in
+contrast to previous reports whereby shoulder hyperlaxity was
+reported to be a factor in the aetiology of shoulder injury in
+competitive swimmers ( Bak, 2010; Bak & Fauno, 1997; McMaster
+et al., 1998; Zemek & Magee, 1996 ). A signi ﬁcant correlation
+between current interfering shoulder pain and joint laxity was
+reported in competitive swimmers where glenohumeral laxity wasassessed using clinical laxity tests and apprehension ratings
+(McMaster et al., 1998 ). However, the use of subjective apprehen-
+sion rating in a composite score for joint translation has been
+questioned ( Blanch, 2004 ) and there is debate surrounding the
+reliability of clinical laxity testing at the shoulder ( Bahk, Keyurapan,
+Tasaki, Sauers, & McFarland, 2007; Levy, Lintner, Kenter, & Speer,
+1999 ). Furthermore, there is debate in the literature as to
+whether joint laxity or muscle stiffness is being tested ( Huxel et al.,
+2008; McQuade & Murthi, 2004 ). One study reported a signi ﬁcant
+difference in quantitatively measured shoulder joint translation
+between swimmers and controls, however the applied forces were
+not standardised ( Tibone, Lee, Csintalan, Dettling, & McMahon,
+2002 ). Conversely, another study reported no difference in trans-
+lation between swimmers and controls or with respect to shoulder
+pain history when tested at a higher level of force, 150 N ( Borsa,
+Scibek, Jacobson, & Meister, 2005 ). An important consideration is
+the direction of shoulder laxity testing utilised in the current study,
+being anterior-to-posterior translation. Laxity testing in other
+directions or more extreme ranges of shoulder ER may yield
+different results and further research is warranted. Nevertheless,
+theﬁnding of this study that shoulder laxity was not associated
+with shoulder injury is not surprising given that considerable
+shoulder capsule laxity may be present without symptomatic
+shoulder instability ( McFarland, Garzon-Muvdi, Jia, Desai, &
+Petersen, 2010; McFarland, Kim, Park, Neira, & Gutierrez, 2003;
+Richards, 2003 ).
+Exposure to repetitive overhead arm motion during training is
+cited as a contributing factor in the development of shoulder pain
+in competitive swimmers ( Ciullo & Stevens, 1989; Sein et al., 2010;
+Weldon & Richardson, 2001 ), however, this study did not
+demonstrate an association between shoulder injury and training
+mileage. In contrast, a prior cross-sectional study reported that
+swimmers completing >35 km per week of swim training were
+four times more likely to have supraspinatus tendinopathy ( Sein
+et al., 2010 ). In this study, a considerable portion of swim
+training exposure data (85%) was derived from squad averages,
+which limits its usefulness given that swim coaches ’reports of
+mileage have low validity compared with direct observation of
+training by researchers ( Stewart & Hopkins, 2000 ). A limitation of
+many longitudinal studies is participant drop out and missing data
+(Twisk & de Vente, 2002 ). Training data were missing for 14% of the
+injury surveillance period and was imputed by averaging the
+available training data of these participants. This method is
+deemed to be one of the best methods for treatment of missing
+data in a longitudinal study ( Engels & Diehr, 2003 ). Furthermore,
+similar results were obtained when the results were not adjusted
+for swim training kilometres. Another consideration is that
+training exposure was examined as a continuous variable in the
+current study, precluding identi ﬁcation of a non-linear relation-
+ship with shoulder injury. Given these limitations, the role of
+overuse loading in the aetiology of swimming-related shoulder
+pain should not be discounted.
+There are a number of considerations when interpreting our
+results. In comparison with prospective research in other sports
+a small cohort was investigated ( Emery, 2003 ). Swimmers with
+a previous shoulder injury are more likely to volunteer, increasing
+the likelihood of overestimation of injury incidence and risk factor
+association. Injuries were self-reported, hence, individual differ-
+ences in pain tolerance and recall may have impacted reporting
+(Hanita, 2000 ). Furthermore not all injuries may have been re-
+ported. Swimmers did not undergo diagnostic examination and it is
+possible that some injuries were attributable to structures other
+than the shoulder. Finally, the contribution to the understanding of
+the aetiology of shoulder injury in swimming is limited to the
+speciﬁc risk factors investigated.H. Walker et al. / Physical Therapy in Sport 13 (2012) 243 e249 247
+5. Conclusions
+The incidence of shoulder pain reported in this study for
+Australian competitive swimmers is comparable to published
+injury rates and provides a benchmark for the future evaluation of
+preventive programs. Of the examined potential risk factors, only
+previous history of shoulder pain, and high or low shoulder ER
+range of motion were signi ﬁcantly associated with shoulder injury.
+Theseﬁndings can be applied practically to identify swimmers who
+may be at increased risk of developing shoulder pain and who may
+beneﬁt from prevention strategies.
+Conﬂict of interest
+None declared.
+Ethical approval
+Ethical approval was granted for this project by the University of
+Melbourne Human Research Ethics Committee.
+Funding
+Belinda Gabbe was supported by a National Health and Medical
+Research Council of Australia Career Development Award and Kim
+Bennell was partly supported by an Australian Research Council
+Future Fellowship during the preparation of this manuscript.
+Acknowledgements
+The authors would like to thank the coaches and swimmers for
+participating in this study and Dr Tania Pizzari for her help with the
+reliability study data collection and KT1000 training.
+References
+Allegrucci, M., Whitney, S. L., & Irrgang, J. J. (1994). Clinical implications of
+secondary impingement of the shoulder in freestyle swimmers. Journal of
+Orthopaedic & Sports Physical Therapy, 20 , 307e318.
+Allegrucci, M., Whitney, S. L., Lephart, S. M., Irrgang, J. J., & Fu, F. H. (1995). Shoulder
+kinesthesia in healthy unilateral athletes participating in upper extremity
+sports. Journal of Orthopaedic & Sports Physical Therapy, 21 , 220e226.
+Bahk, M., Keyurapan, E., Tasaki, A., Sauers, E. L., & McFarland, E. G. (2007). Laxity
+testing of the shoulder: a review. American Journal of Sports Medicine, 35 ,
+131e144.
+Bak, K. (2010). The practical management of swimmer ’s painful shoulder: etiology,
+diagnosis, and treatment. Clinical Journal of Sport Medicine, 20 , 386e390.
+Bak, K., Bue, P., & Olsson, G. (1989). Injury patterns in Danish competitive swim-
+ming. Ugeskrift for Laeger, 151 , 2982e2984.
+Bak, K., & Fauno, P. (1997). Clinical ﬁndings in competitive swimmers with shoulder
+pain. American Journal of Sports Medicine, 25 , 254e260.
+Bak, K., & Magnusson, S. P. (1997). Shoulder strength and range of motion in
+symptomatic and pain-free elite swimmers. American Journal of Sports Medicine,
+25, 454e459.
+Beach, M. L., Whitney, S. L., & Dickoff-Hoffman, S. (1992). Relationship of shoulder
+ﬂexibility, strength, and endurance to shoulder pain in competitive swimmers.
+Journal of Orthopaedic & Sports Physical Therapy, 16 , 262e268.
+Belling Sorensen, A. K., & Jorgensen, U. (2000). Secondary impingement in the
+shoulder. An improved terminology in impingement. Scandinavian Journal of
+Medicine and Science in Sports, 10 , 266e278.
+Bey, M. J., Song, H. K., Wehrli, F. W., & Soslowsky, L. J. (2002). Intratendinous strain
+ﬁelds of the intact supraspinatus tendon: the effect of glenohumeral joint
+position and tendon region. Journal of Orthopaedic Research, 20 , 869e874.
+Blanch, P. (2004). Conservative management of shoulder pain in swimming. Phys-
+ical Therapy in Sport, 5 ,1 0 9e124.
+Boon, A. J., & Smith, J. (2000). Manual scapular stabilization: its effect on shoulder
+rotational range of motion. Archives of Physical Medicine and Rehabilitation, 81 ,
+978e983.
+Borsa, P. A., Scibek, J. S., Jacobson, J. A., & Meister, K. (2005). Sonographic stress
+measurement of glenohumeral joint laxity in collegiate swimmers and age-
+matched controls. American Journal of Sports Medicine, 33 ,1 0 7 7e1084.
+Brooks, J. H., & Fuller, C. W. (2006). The in ﬂuence of methodological issues on the
+results and conclusions from epidemiological studies of sports injuries: illus-
+trative examples. Sports Medicine, 36 , 459e472.
+Burchﬁeld, D. M., Co ﬁeld,S. S., & Coﬁeld, R. H. (1994). Shoulder pain in competitive
+age group swimmers. In M. Miyashita, Y. Mutoh, & A. B. Richardson (Eds.),
+Medicine and science in aquatic sports medicine and sports science (pp. 216e225).
+Basel: Karger.Capaci, K., Ozcaldiran, B., & Durmaz, B. (2002). Musculoskeletal pain in elite
+competitive swimmers. Pain Clinic, 14 , 229e234.
+Carpenter, J. E., Flanagan, C. L., Thomopoulos, S., Yian, E. H., & Soslowsky, L. J. (1998).
+The effects of overuse combined with intrinsic or extrinsic alterations in an
+animal model of rotator cuff tendinosis. American Journal of Sports Medicine, 26 ,
+801e807.
+Chalmers, D., & Morrison, L. (2003). Epidemiology of non-submersion injuries in
+aquatic sporting and recreational activities. Sports Medicine, 33 ,7 4 5e770.
+Ciullo, J. V., & Stevens, G. G. (1989). The prevention and treatment of injuries to the
+shoulder in swimming. Sports Medicine, 7 ,1 8 2e204.
+Edelson, G., & Teitz, C. (2000). Internal impingement in the shoulder. Journal of
+Shoulder and Elbow Surgery, 9 , 308e315.
+Emery, C. A. (2003). Risk factors for injury in child and adolescent sport:
+a systematic review of the literature. Clinical Journal of Sport Medicine, 13 ,
+256e268.
+Engels, J. M., & Diehr, P. (2003). Imputation of missing longitudinal data:
+a comparison of methods. Journal of Clinical Epidemiology, 56 , 968e976.
+Gaunt, T., & Mafulli, N. (2011). Soothing suffering swimmers: a systematic review
+of the epidemiology, diagnosis, treatment and rehabilitation of musculoskel-
+etal injuries in competitive swimmers. British Medical Bulletin , 4 September,
+1e44.
+Haley, S. M., & Fragala-Pinkham, M. A. (2006). Interpreting change scores of tests
+and measures used in physical therapy. Physical Therapy, 86 ,7 3 5e743.
+Hall, J. A., Stewart, A. V., & Rogers, G. R. (1995). Interfering shoulder pain: incidence
+and management in a group of provincial swimmers. South African Journal of
+Physiotherapy , November, 63 e65.
+Hanita, M. (2000). Self-report measures of patient utility: should we trust them?
+Journal of Clinical Epidemiology, 53 , 469e476.
+Huffman, G. R., Tibone, J. E., McGarry, M. H., Phipps, B. M., Lee, Y. S., & Lee, T. Q.
+(2006). Path of glenohumeral articulation throughout the rotational range of
+motion in a thrower ’s shoulder model. American Journal of Sports Medicine, 34 ,
+1662e1669.
+Huxel, K. C., Swanik, C. B., Swanik, K. A., Bartolozzi, A. R., Hillstrom, H. J., Sitler, M. R.,
+et al. (2008). Stiffness regulation and muscle-recruitment strategies of the
+shoulder in response to external rotation perturbations. Journal of Bone & Joint
+Surgery, 90 ,1 5 4e162.
+Kim, T. K., & McFarland, E. G. (2004). Internal impingement of the shoulder in
+ﬂexion. Clinical Orthopaedics and Related Research ,1 1 2e119.
+Kolber, M. J., Vega, F., Jr., Widmayer, K., & Cheng, M. S. (2011). The reliability and
+minimal detectable change of shoulder mobility measurements using a digital
+inclinometer. Physiotherapy: Theory and Practice, 27 ,1 7 6e184.
+Lee, S. B., Nakajima, T., Luo, Z. P., Zobitz, M. E., Chang, Y. W., & An, K. N. (2000). The
+bursal and articular sides of the supraspinatus tendon have a different
+compressive stiffness. Clinical Biomechanics (Bristol, Avon), 15 ,2 4 1e247.
+Levine, W. N., Brandon, M. L., Stein, B. S., Gardner, T. R., Bigliani, L. U., & Ahmad, C. S.
+(2006). Shoulder adaptive changes in youth baseball players. Journal of Shoulder
+and Elbow Surgery, 15 , 562e566.
+Levy, A. S., Lintner, S., Kenter, K., & Speer, K. P. (1999). Intra- and interobserver
+reproducibility of the shoulder laxity examination. American Journal of Sports
+Medicine, 27 , 460e463.
+Lin, J. J., Lim, H. K., & Yang, J. L. (2006). Effect of shoulder tightness on glenohumeral
+translation, scapular kinematics, and scapulohumeral rhythm in subjects with
+stiff shoulders. Journal of Orthopaedic Research, 24 , 1044e1051.
+McFarland, E. G., Garzon-Muvdi, J., Jia, X., Desai, P., & Petersen, S. A. (2010). Clinical
+and diagnostic tests for shoulder disorders: a critical review. British Journal of
+Sports Medicine, 44 , 328e332.
+McFarland, E. G., Kim, T. K., Park, H. B., Neira, C. A., & Gutierrez, M. I. (2003). The
+effect of variation in de ﬁnition on the diagnosis of multidirectional instability of
+the shoulder. Journal of Bone & Joint Surgery, 85-A ,2 1 3 8e2144.
+McMaster, W. C. (1999). Shoulder injuries in competitive swimmers. Clinical Journal
+of Sport Medicine, 18 , 349e359, vii.
+McMaster, W. C., Roberts, A., & Stoddard, T. (1998). A correlation between shoulder
+laxity and interfering pain in competitive swimmers. American Journal of Sports
+Medicine, 26 ,8 3e86.
+McMaster, W. C., & Troup, J. (1993). A survey of interfering shoulder pai n in
+United States competitive swimmers. American Journal of Sports Medicine, 21 ,
+67e70.
+McQuade, K. J., & Murthi, A. M. (2004). Anterior glenohumeral force/translation
+behavior with and without rotator cuff contraction during clinical stability
+testing. Clinical Biomechanics, 19 ,1 0e15.
+Michener, L. A., McClure, P. W., & Karduna, A. R. (2003). Anatomical and biome-
+chanical mechanisms of subacromial impingement syndrome. Clinical Biome-
+chanics (Bristol, Avon), 18 , 369e379.
+Mihata, T., Lee, Y., McGarry, M. H., Abe, M., & Lee, T. Q. (2004). Excessive humeral
+external rotation results in increased shoulder laxity. American Journal of Sports
+Medicine, 32 ,1 2 7 8e1285.
+Mountjoy, M., Junge, A., Alonso, J. M., Engebretsen, L., Dragan, I., Gerrard, D., et al.
+(2010). Sports injuries and illnesses in the 2009 FINA World Championships
+(Aquatics). British Journal of Sports Medicine, 44 , 522e527.
+Murrell, G. A. (2002). Understanding tendinopathies. British Journal of Sports
+Medicine, 36 , 392e393.
+Myers, J. B., Laudner, K. G., Pasquale, M. R., Bradley, J. P., & Lephart, S. M. (2006).
+Glenohumeral range of motion de ﬁcits and posterior shoulder tightness in
+throwers with pathologic internal impingement. American Journal of Sports
+Medicine, 34 , 385e391.H. Walker et al. / Physical Therapy in Sport 13 (2012) 243 e249 248
+Nakajima, T., Hughes, R. E., & An, K. N. (2004). Effects of glenohumeral rotations and
+translations on supraspinatus tendon morphology. Clinical Biomechanics (Bris-
+tol, Avon), 19 ,5 7 9e585.
+Neer, C. S., 2nd (1983). Impingement lesions. Clinical Orthopaedics and Related
+Research ,7 0e77.
+Nyland, J. A., Caborn, D. N., & Johnson, D. L. (1998). The human glenohumeral joint.
+A proprioceptive and stability alliance. Knee Surgery, Sports Traumatology,
+Arthroscopy, 6 ,5 0e61.
+Ozcaldiran, B. (2002). A relation between static ﬂexibility and shoulder pain in
+competitive age group swimmers. The Pain Clinic, 14 ,1 5 9e163.
+Pizzari, T., Kolt, G. S., & Remedios, L. (1999). Measurement of anterior-to-posterior
+translation of the glenohumeral joint using the KT-1000. Journal of Ortho-
+paedic & Sports Physical Therapy, 29 , 602e608.
+Pollock, R. G., Wang, V. M., Bucchieri, J. S., Cohen, N. P., Huang, C. Y., Pawluk, R. J., et al.
+(2000). Effects of repetitive subfailure strains on the mechanical behavior of the
+inferior glenohumeral ligament. Journal of Shoulder and Elbow Surgery, 9 ,4 2 7e435.
+Portney, L. G., & Watkins, M. P. (2009). Foundations of clinical research. Applications
+to practice (3rd ed.). Upper Saddle River, NJ: Pearson Prentice Hall.
+Reilly, P., Amis, A. A., Wallace, A. L., & Emery, R. J. (2003a). Mechanical factors in the
+initiation and propagation of tears of the rotator cuff. Quanti ﬁcation of strains
+of the supraspinatus tendon in vitro. Journal of Bone and Joint Surgery, 85 ,
+594e599.
+Reilly, P., Amis, A. A., Wallace, A. L., & Emery, R. J. (2003b). Supraspinatus tears:
+propagation and strain alteration. Journal of Shoulder and Elbow Surgery, 12 ,
+134e138.
+Reinhold, M. M., & Gill, T. J. (2009). Current concepts in the evaluation and treat-
+ment of the shoulder in overhead-throwing athletes, part 1: physical charac-
+teristics and clinical examination. Sport Health, 2 ,3 9e52.
+Richards, R. R. (2003). The diagnostic de ﬁnition of multidirectional instability of the
+shoulder: searching for direction. Journal of Bone & Joint Surgery, 85-A ,2 1 4 5e2146.
+Richardson, A. B., Jobe, F. W., & Collins, H. R. (1980). The shoulder in competitive
+swimming. American Journal of Sports Medicine, 8 ,1 5 9e163.
+Rupp, S., Berninger, K., & Hopf, T. (1995). Shoulder problems in high level swim-
+merseimpingement, anterior instability, muscular imbalance? International
+Journal of Sports Medicine, 16 ,5 5 7e562.
+Sein, M. L., Walton, J., Linklater, J., Appleyard, R., Kirkbride, B., Kuah, D., et al. (2010).
+Shoulder pain in elite swimmers: primarily due to swim-volume-induced
+supraspinatus tendinopathy. British Journal of Sports Medicine, 44 ,1 0 5e113.
+Soslowsky, L. J., Thomopoulos, S., Esmail, A., Flanagan, C. L., Iannotti, J. P.,
+Williamson, J. D., 3rd, et al. (2002). Rotator cuff tendinosis in an animal model:role of extrinsic and overuse factors. Annals of Biomedical Engineering, 30 ,
+1057e1063.
+Soslowsky, L. J., Thomopoulos, S., Tun, S., Flanagan, C. L., Keefer, C. C., Mastaw, J.,
+et al. (2000). Neer Award 1999. Overuse activity injures the supraspinatus
+tendon in an animal model: a histologic and biomechanical study. Journal of
+Shoulder and Elbow Surgery, 9 ,7 9e84.
+Stewart, A. M., & Hopkins, W. G. (2000). Seasonal training and performance of
+competitive swimmers. Journal of Sports Sciences, 18 ,8 7 3e884.
+Stocker, D., Pink, M., & Jobe, F. W. (1995). Comparison of shoulder injury in colle-
+giate- and master ’s-level swimmers. Clinical Journal of Sport Medicine, 5 ,4e8.
+Tabachnick, B. G., & Fidel, L. S. (1989). Using multivariate statistics (2nd ed.). New
+York: Harper-Collins.
+Tibone, J. E., Lee, T. Q., Csintalan, R. P., Dettling, J., & McMahon, P. J. (2002). Quan-
+titative assessment of glenohumeral translation. Clinical Orthopaedics and
+Related Research, 100 ,9 3e97.
+Torres, R. R., & Gomes, J. L. (2009). Measurement of glenohumeral internal rotation
+in asymptomatic tennis players and swimmers. American Journal of Sports
+Medicine, 37 ,1 0 1 7e1023.
+Twisk, J., & de Vente, W. (2002). Attrition in longitudinal studies: how to deal with
+missing data. Journal of Clinical Epidemiology, 55 , 329e337.
+Warner, J. J., Micheli, L. J., Arslanian, L. E., Kennedy, J., & Kennedy, R. (1990). Patterns
+ofﬂexibility, laxity, and strength in normal shoulders and shoulders with
+instability and impingement. American Journal of Sports Medicine, 18 , 366e375.
+Weldon, E. J., 3rd, & Richardson, A. B. (2001). Upper extremity overuse injuries in
+swimming. A discussion of swimmer ’s shoulder. Clinical Journal of Sport Medi-
+cine, 20 , 423e438.
+Whiteley, R. J., Ginn, K. A., Nicholson, L. L., & Adams, R. D. (2009). Sports partici-
+pation and humeral torsion. Journal of Orthopaedic & Sports Physical Therapy, 39 ,
+256e263.
+Wolf, B. R., Ebinger, A. E., Lawler, M. P., & Britton, C. L. (2009). Injury patterns in
+division I collegiate swimming. American Journal of Sports Medicine, 37 ,
+2037e2042.
+Yanai, T., & Hay, J. G. (2000). Shoulder impingement in front-crawl swimming: II.
+Analysis of stroking technique. Medicine & Science in Sports & Exercise, 32 ,
+30e40.
+Yanai, T., Hay, J. G., & Miller, G. F. (2000). Shoulder impingement in front-crawl
+swimming: I. A method to identify impingement. Medicine & Science in Sports
+& Exercise, 32 ,2 1e29.
+Zemek, M. J., & Magee, D. J. (1996). Comparison of glenohumeral joint laxity in elite
+and recreational swimmers. Clinical Journal of Sport Medicine, 6 ,40e47.H. Walker et al. / Physical Therapy in Sport 13 (2012) 243 e249 249
+Reproducedwithpermissionofthecopyrightowner.Furtherreproductionprohibitedwithoutpermission.

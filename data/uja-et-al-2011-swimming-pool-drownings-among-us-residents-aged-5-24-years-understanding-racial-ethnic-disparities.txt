@@ -1,0 +1,320 @@
+American Journal of Public Health |April 2006, Vol 96, No. 4 728 |Research and Practice |Peer Reviewed |Saluja et al.RESEARCH AND PRACTICE 
+Objective . We examined circumstances surrounding swimming pool drownings
+among US residents aged 5 to 24 years to understand why Black males and otherracial/ethnic groups have high drowning rates.
+Methods . We obtained data about drowning deaths in the United States
+(1995–1998) from death certificates, medical examiner reports, and newspaperclippings collected by the US Consumer Product Safety Commission.
+Results . During the study period, 678 US residents aged 5 to 24 years drowned
+in pools. Seventy-five percent were male, 47% were Black, 33% were White, and12% were Hispanic. Drowning rates were highest among Black males, and thisincreased risk persisted after we controlled for income. The majority of Black vic-tims (51%) drowned in public pools, the majority of White victims (55%) drownedin residential pools, and the majority of Hispanic victims (35%) drowned in neigh-borhood pools (e.g., an apartment complex pool). Foreign-born males also hadan increased risk for drowning compared with American-born males.
+Conclusions . Targeted interventions are needed to reduce the incidence of swim-
+ming pool drownings across racial/ethnic groups, particularly adult supervision atpublic pools. ( Am J Public Health. 2006;96:728–733. doi:10.2105/AJPH.2004.057067)Swimming Pool Drownings Among US Residents 
+Aged 5–24 Years: Understanding Racial/Ethnic Disparities
+|Gitanjali Saluja, PhD, Ruth A. Brenner, MD, MPH, Ann C. Trumble, PhD, Gordon S. Smith, MB, ChB, MPH, Tom Schroeder, MS,
+and Christopher Cox, PhD
+Drowning is a leading cause of death among
+US youths. In 2002, 1158 youths younger than
+20 years died as a result of an unintentional
+non–boat-related drowning.1Additionally,
+more than 300 youths aged 20 to 24 yearsdrowned that year.
+1Children aged 1 to 4 years
+and males aged 15 to 24 years have the high-est risk for drowning. Among males aged 10 to19 years, Black males have much higher rates
+of drowning compared with White males.
+2–4
+Previous research has shown that the cir-
+cumstances surrounding drowning events varywith regard to victim characteristics. Childrenaged 1 to 4 years are most likely to drown inswimming pools, whereas older children andadolescents are most likely to drown in naturalfreshwater sites.
+5Our earlier research found
+that among Black males aged 5 to 19 years,37.2% of drowning deaths with known location
+of drowning were in swimming pools, whileonly 10% of similar drownings among Whitemales occurred in pools.
+5Although rates are
+higher among Black youths, studies have notadjusted for income or provided details aboutdrowning circumstances, such as where drown-ings occur. All drowning deaths are potentiallypreventable, and pool drownings among olderchildren are especially so because pools lackthe intrinsic risks associated with natural bodiesof water (e.g., currents, riptides, and poor visi-bility), and lifeguards and early rescue are ac-cepted prevention strategies.
+We examined the circumstances surround-
+ing swimming pool drownings among US resi-dents aged 5 to 24 years to elucidate factorsthat place some racial/ethnic groups at higherrisk than other groups and to provide guid-ance for developing prevention strategies. Al-though the goal of our study was to investi-gate the differences in drowning circumstancesbetween Black and White males, we sus-pected that there were  differences among
+other groups as well. Therefore, we exam-ined rates and circumstances of swimmingpool drownings among other racial/ethnicgroups and foreign-born versus American-
+born youths. Finally, we examined the jointeffects of race/ethnicity and income to deter-mine whether they are independently associ-ated with risk for drowning.
+METHODS
+Data Sources
+Death certificates provide details that are
+not routinely coded or available in nationaldata sets. We obtained data from the US Con-sumer Product Safety Commission (CPSC) be-cause each year the commission purchasescopies of death certificates for drowning vic-tims from each of the 50 states and 2 majorhealth jurisdictions (Washington, DC, andNew York City). These include drownings thatoccur in homes, sports/recreation venues,streets, public buildings, and residential insti-tutions (including neighborhood and apart-ment pools). The CPSC does not collect infor-mation on drownings that occur at farms,mines/quarries, industrial locations, or otherspecified and unspecified locations.
+The CPSC also collects copies of medical
+examiner reports and newspaper articlesrelated to drowning events. These are re-
+ferred to as Injury and Potential Injury Inci-dents ( IPII) files. Although these files are not
+available for every death, they frequentlycontain detailed information that is not in-cluded on death certificates. We obtaineddata from computerized files that containedabstracted death certificate information andfrom copies of corresponding death certifi-cates. We also obtained supplemental datafrom computerized files containing abstractedIPII information and from copies of IPII files.
+We reviewed documents for all cases when
+the External Cause of Injury Code (E-code ascoded by the International Classifications of
+Diseases, Ninth Revision
+6) on the death certifi-
+cate was E910.0 – E910.9 (unintentionaldrowning/submersion) and when the CPSC-assigned product code indicated a whirlpool/hot tub, wading pool, diving/diving board,above-ground swimming pool, built-in swim-ming pool, or swimming pool not specified.
+Procedures
+We reviewed copies of death certificates
+for 738 potentially eligible swimming pooldrowning deaths among US residents aged 5
+April 2006, Vol 96, No. 4 |American Journal of Public Health Saluja et al. |Peer Reviewed |Research and Practice |729RESEARCH AND PRACTICE 
+TABLE 1—Characteristics of US Swimming
+Pool Drowning Victims: 1995–1998
+Number (%)
+Gender
+Males 507 (75)Females 171 (25)
+Age, y
+5–9 267 (39)10–14 160 (24)15–19 157 (23)20–24 94 (14)
+Race/ethnicity
+White, non-Hispanic 222 (33)Black, non-Hispanic 316 (47)Hispanic 81 (12)Native American 18 (3)Other 41 (6)
+Income
+Low 313 (49)Middle 185 (29)High 140 (22)
+Total 638a(94)
+aIncome group percentages do not sum to 100
+because information was missing for 40 cases.
+to 24 years. We excluded 36 cases (5%) that
+had been mistakenly included (e.g., drown-ings at locations such as a lake or river,deaths due to blunt head trauma caused bydiving, or electrocution). Of the remaining702 cases, we excluded 24 (3%) that were
+not US residents. The remaining 678 casesdrowned in swimming pools in the UnitedStates between 1995 and 1998.
+Wematched cases in the death certificate
+files with IPIIfiles by date of death, state in
+which the death occurred, and age and genderof the victim. Of the 678 eligible cases, match-ingIPIIfiles were available for 198 (29%)
+cases. After matching all files, we extracteddata on each case. In addition to precodeddata (age, race, and gender), we extracted datafrom death certificates on the location ofdrowning (e.g., residential pool or public pool),the time of drowning, the race/ethnicity of thevictim, and other contributing factors (e.g., dis-abilities, health conditions, and swimming abil-ity). We used IPIIfiles to supplement data not
+included on death certificates. For example, ifthe time of drowning was listed as unknownon the death certificate, the IPIIfile some-
+times included this information.
+Although the race of the victim was in-
+cluded as a specific precoded field on deathcertificates, we observed that the manner inwhich it was coded masked some demo-graphic variation. For example, those whowere of Mexican or other Latino origin were
+usually coded as White. Thus, we more spe-cifically coded for place of birth and ethnicity.To determine ethnicity, we used data on
+death certificates about place of birth, nation-ality, and country of origin. If a death certifi-cate stated that a case was born in the UnitedStates and was of Mexican origin, we codedthat case as Mexican American. If a case wasborn in Mexico, we coded them as Mexican.We further coded cases as Hispanic, regard-
+less of their race, if they originated from aSpanish-speaking country.
+Analysis
+To estimate the completeness of ascertain-
+ment, we compared the CPSC data with datareported by the National Center for Health
+Statistics for the same years. On the basis ofthese comparisons, we estimated that theCPSC received death certificates for morethan 90% of all drowning deaths in our age
+group (5–24 years) and for more than 90%of all swimming pool drownings.
+We calculated proportional distributions of
+drowning victim variables (age, gender, race/ethnicity, and nativity) and drowning eventcircumstances (location of swimming pool andtime of drowning). To adjust rates by income,we estimated an income level for each case
+by matching the victim’s residential zip code
+with census data on median household in-come for that zip code. Each victim was putinto 1 of 3 household income categories: low(<$35400), middle ($35400–$48000), orhigh (>$48000). These categories were de-rived from calculations of tertiles for the me-dian incomes of all US zip codes weighted bynumber of households. Thus, these categoriesrepresent the distribution of US household
+incomes, with one third of households repre-sented in each tertile.
+Drowning rates were calculated by age,
+race/ethnicity, gender, and nativity. Rates
+are reported as deaths per 100000 amongindividuals aged 5 to 24 years. Numeratorswere derived from 1995–1998 CPSC data,
+and denominators were derived from USCensus Bureau population data for the cor-responding years.
+7Denominators for race
+and nativity were not mutually exclusive(e.g., foreign-born and American-born indi-viduals also were classified as Black orWhite); thus, we did not make direct com-parisons between these groups.
+We calculated rate ratios to examine the
+effects of race and ethnicity. We used Poissondistribution to determine confidence intervalsfor rate ratios, and we used a Poisson regres-sion analysis to determine the association be-tween race, age, gender, and income and therisk for drowning. Number of drowningdeaths was used as the dependent variable,with the population data for the correspon-ding group used as an offset.
+8A multiple re-
+gression model was constructed to determinethe independent effect of age, gender, race,and income group. Because of small numbers,we did not include Hispanic victims in these
+models. Interaction terms entered into themodel included interactions between age andincome and age and race. Calculations wereperformed with SAS software, version 8 (SASInstitute Inc, Cary, NC).RESULTS
+Between 1995 and 1998, 678 US resi-
+dents aged 5 to 24 years drowned in swim-ming pools. The highest proportion of drown-ings was among children aged 5 to 9 years(39%), and the lowest was among those aged20 to 24 years (14%) (Table 1). The majority
+of drowning victims (75%) were male, 33%were White non-Hispanic, 47% were Black
+non-Hispanic, and 12% were Hispanic (in-cludes Black and White individuals). Most(85%) of the drowning victims were born inthe United States, and all were US residents.Zip code of residence was available for 94%of cases. We used zip codes to estimate fami-lies’ income levels; thus, we had income infor-mation for 94% of cases. Among these 638households, 49% were classified as low in-come, 29% as middle income, and 22% ashigh income (Table 1).
+Drowning Circumstances
+The location of the pool was recorded for
+77% of the drowning cases. Of these, 37%occurred in public pools, 35% occurred in
+American Journal of Public Health |April 2006, Vol 96, No. 4 730 |Research and Practice |Peer Reviewed |Saluja et al.RESEARCH AND PRACTICE 
+TABLE 2—US Swimming Pool Drownings by Type of Pool and Race/Ethnicity Among Victims
+Aged 5–24 Years: 1995–1998
+Number (%)
+Type of Pool Population TotalaBlack, Non-Hispanic White, Non-Hispanic Hispanic
+Residential 186 (35) 54 (23) 98 (55) 21 (35)
+Home 114 (61) 31 65 9Neighbor’s pool 20 (11) 8 10 2Friend’s pool 10 (5) 4 4 1Relative’s pool 7 (4) 2 5 0Grandparent’s pool 3 (2) 0 2 1Unspecified 32 (17) 9 12 8Neighborhood pools 109 (21) 53 (22) 19 (11) 21 (35)Housing community 13 (12) 5 3 4Apartment community 96 (88) 48 16 17Public pools 192 (37) 122 (51) 44 (25) 14 (23)Hotel/motel 104 (54) 74 16 7Public pool (camp, church, city) 67 (35) 39 18 5Club pool (YMCA, etc.) 21 (11) 9 10 2School pool 13 (2) 3 (1) 4 (2) 2 (3)Private, unspecified 5 (1) 5 (2) 0 0Other pool 3 (1) 0 2 (1) 1 (2)Whirlpool 17 (3) 2 (1) 12 (7) 1 (2)
+Totalb525 239 179 60
+aPopulation total does not reflect the sum of the other columns, because those categories were not mutually exclusive and
+do not include cases who were classified under other racial/ethnic groups.
+bTotal denotes total that were specified; it does not include 153 pools where location was not specified.
+residential pools, and 21% occurred in neigh-
+borhood pools (Table 2). Hotel/motel pools ac-counted for 54% of the public pool drownings.The majority of residential pool drownings(61%) took place at victims’ homes; however,22% took place at the homes of neighbors,friends, and relatives (other residential loca-tions were unspecified). Of the 486 drowningsfor which the time of submersion was docu-mented, 373 (77%) occurred between thehours of 12:00 noon and 8:59
+PM,with the
+highest proportion occurring between 3:00 PM
+and 5:59 PM.Sixty-three (13%) occurred be-
+tween 9:00 PMand 6:00 AM.
+The most common pool location varied
+with the age of the victim. Among childrenaged 5 to 9 years, the highest proportion(50%) drowned in residential pools, 26%drowned in public pools, and 20% drownedin neighborhood pools. Among victims aged10 to 14 years, 50% drowned in public pools,
+31% drowned in residential pools, and 11%
+drowned in neighborhood pools. This patternheld true among victims aged 15 to 19 years
+(47%, 24%, and 20%, respectively). Forty-two percent of victims aged 20 to 24 yearsdrowned in neighborhood pools, 25%drowned in public pools, and 22% drownedin residential pools.
+Black and Hispanic Drowning Victims
+Black non-Hispanic males had higher
+swimming pool drowning rates comparedwith White non-Hispanic males of compara-ble age, with risk ratios ranging from 5.5 to12.1 (Table 3). Although the same patterns
+were seen among females, rates and rate ra-
+tios were lower. Hispanic males had higherrates of pool drownings compared with White
+non-Hispanic males, but they had lower ratescompared with Black non-Hispanic males ofcomparable age. The drowning rates amongHispanic females were similar to those ofWhite non-Hispanic females.
+The distribution of locations where victims
+drowned varied by race/ethnicity. More Blacknon-Hispanic victims drowned in public pools
+(51%) compared with White non-Hispanic(25%) and Hispanic victims (23%). The ma-jority of drownings among Black non-Hispanicvictims occurred in hotel/motel pools. In con-trast, White non-Hispanic victims were morelikely to drown in residential pools (55%)compared with Black non-Hispanic victims(23%) and Hispanic victims (35%). Hispanicvictims were more likely to drown in neigh-borhood pools (35%). Separate analysesfound that there was little variation by racein the time of day during which drowningoccurred (data not shown).
+Poisson regression analysis showed that
+race (P<.0001) but not income ( P=.60) was
+an independent predictor of drowning ratesin models that included age, gender, race, andincome. However, when race was removedfrom this model, income was significantly as-sociated with higher drowning rates amongthe low-income groups ( P<.0001). This
+shows that in addition to being partially re-flective of income, the effects of race have ad-ditional explanatory power. Additional inde-pendent predictors were age ( P<.0001) and
+gender ( P<.0001). Neither of the interactions
+with age was significant.
+Foreign-Born Drowning Victims
+The drowning rates among foreign-born
+victims were higher than among American-born victims (Table 4). This was true for bothmales and females and across age categories.It is notable that the classification of race andnativity were not mutually exclusive. Accord-ing to the race categories listed on death cer-tificates, the majority of foreign-born victims(59%) were classified as White, 14% wereclassified as Black, and the remaining victimswere classified in other categories. Foreign-
+born males aged 5 to 9 years had a particu-larly high risk for drowning (1.6/100000)compared with American-born males of com-parable age. Among American-born victims,the largest proportion were Black (52%), andamong foreign-born drowning victims, thelargest proportion were Latino (43%).
+Special Circumstances
+Overall, 28 of the victims drowned in 14
+double-drowning incidents, i.e., 2 individualsdrowned together. In most of these cases, 2
+April 2006, Vol 96, No. 4 |American Journal of Public Health Saluja et al. |Peer Reviewed |Research and Practice |731RESEARCH AND PRACTICE 
+TABLE 4—US Swimming Pool Drowning Rates Among American-Born and Foreign-Born
+Victims, by Age and Gender: 1995–1998 (Rates per 100000 Population)
+Women and Girls Men and Boys
+American Foreign Rate Ratio American Foreign Rate Ratio 
+Age, y Born Born (95% CI) Born Born (95% CI)
+5–9 0.20 0.50 2.5 (1.0, 6.1) 0.42 1.58 3.7 (2.2, 6.3)
+10–14 0.12 0.23 1.9 (0.7, 5.4) 0.27 0.72 2.7 (1.5, 4.8)15–19 0.07 0.12 1.7 (0.5, 5.5) 0.29 0.76 2.6 (1.6, 4.1)
+20–24 0.03 0.11 3.4 (1.1, 11.0) 0.16 0.77 5.0 (3.1, 7.8)
+Note. CI = confidence interval. Rate ratios were based on a comparison with American-born victims.
+TABLE 3—US Swimming Pool Drowning Rates Among Blacks, Whites, and Hispanics, by Age
+and Gender: 1995–1998 (Rates/100000 Population)
+WhiteaBlackaRate Ratio (95% CI) Hispanic Rate Ratio (95% CI)
+Women and girls
+Age, y
+5–9 0.13 0.66 5.1 (3.2, 8.2) 0.11 0.8 (0.4, 2.0)10–14 0.11 0.27 2.5 (1.3, 4.8) .04 0.4 (0.1, 1.6)15–19 0.04 0.18 4.5 (1.9, 10.7) .06 1.5 (0.4, 5.5)20–24 0.03 0.02 0.6 (0.1, 4.6) .06 1.8 (0.5, 6.9)
+Men and boys
+Age, y
+5–9 0.25 1.36 5.5 (4.0, 7.6) 0.36 1.5 (0.9, 2.4)10–14 0.12 1.08 8.9 (5.8, 13.6) 0.23 1.9 (1.0, 3.7)15–19 0.11 1.39 12.1 (8.0, 18.5) 0.26 2.3 (1.2, 4.3)
+20–24 0.07 0.63 8.4 (4.7, 15.1) 0.39 5.2 (2.7, 9.8)
+Note. CI = confidence interval. Rate ratios were based on a comparison with White victims.
+aDoes not include Hispanics (Black non-Hispanic and White non-Hispanic).
+children of similar ages drowned together;
+however, in some cases, a child drowned witha much older person, perhaps in a failed res-cue attempt. At least 6 of these events oc-curred in hotel/motel pools.
+Health conditions and substance use data
+were not consistently reported. However, 26
+(4%) victims had a documented seizure disor-der, 22 (3%) had a documented developmen-tal and/or physical disability (e.g., autism,mental retardation, or quadriplegia), andseven (1%) had documented alcohol or othersubstance use.
+DISCUSSION
+Previous research has focused on high
+rates of swimming pool drowning among
+young children9,1 0; however, our study is the
+first to focus on pool drownings among olderchildren and young adults. Black males aged5 to 24 years had much higher risks fordrowning in swimming pools than White orHispanic males. This risk was independent ofincome. Black victims were more likely todrown in public pools, Hispanic victimswere more likely to drown in neighborhood/
+apartment pools, and White victims weremore likely to drown in residential pools.Black victims drowned in hotel/motel poolsmore often than they drowned in any othertype of pool. Foreign-born males also had anincreased risk for drowning compared with
+American-born males of comparable age.
+Previous research has highlighted the dis-
+crepancy in swimming pool drowning ratesbetween Black and White victims, but this re-search did not fully explore the types of poolin which victims drowned
+5and whether ra-
+cial differences were simply a surrogate forsocioeconomic differences. Our study con-firms previous findings and adds importantnew information about pool type, which hasimportant implications for developing preven-tion strategies. Among female victims, thoseclassified as Black had significantly greaterpool drowning rates. Among male victims, therates and the disparities were even greater,
+with rate ratios ranging from 5.5 to 12.1. Fur-thermore, our multivariate analyses suggestthat income is only partially responsible for
+the discrepancy in drowning rates betweenBlack and White victims. Lower-income fami-lies may have an increased risk because theyhave fewer opportunities to participate inswimming lessons and thus lack swimmingskills and experience in the water. However,the persistence of racial differences after weadjusted for income suggests that cultural fac-tors also may be important when examiningdrowning risks. These factors need to be de-fined, understood, and targeted towarddrowning prevention efforts.
+An important finding from our study was
+that swimming pool drowning rates weremuch higher among Black males and that alarge number of these deaths occurred dur-ing the day in public pools rather than dur-ing higher-risk situations (e.g., swimming atnight or in private pools, which are lesslikely to be guarded).
+Previous research on swimming ability has
+shown marked differences among racialgroups, with Blacks reporting more limitedswimming ability than Whites.
+11Other re-
+search has suggested that these racial differ-ences might be the result of differences inaccessibility to swimming lessons.
+12Factors
+that contribute to pool drowning deaths inaddition to swimming ability include super-vision of the pool and the speed at whichthe submerged victim is removed from thewater and resuscitated.
+4,5,8,1 2–1 4When we re-
+viewed the case files, there was no documen-tation about how quickly efforts were madeto rescue the drowning victims; however,quicker resuscitation efforts are more likelyat guarded pools. Hotel/motel pools repre-sent a particular hazard, because many do
+American Journal of Public Health |April 2006, Vol 96, No. 4 732 |Research and Practice |Peer Reviewed |Saluja et al.RESEARCH AND PRACTICE 
+not have lifeguards and thus are often the
+site where Black victims drown.
+Because most individuals of Hispanic origin
+are coded as White on their death certificates,previous studies have not examined drowningrates by Hispanic ethnicity. In our study, His-
+panic females did not differ significantly fromWhite females with regard to drowning rates;however, drowning rates among Hispanicmales aged 15 to 24 years were 2 to 5 timesgreater than among White males of compara-ble age. These findings are consistent withother studies that found Hispanic males wereat increased risk for drowning compared withWhite non-Hispanic males, although thesestudies did not focus on swimming pools.
+13 ,14
+Research on other injuries also has found
+Hispanic children had an increased risk com-pared with White children.
+15
+Foreign-born children in our study experi-
+enced unexpectedly high rates of drowning,particularly among males aged 5 to 9 years.To our knowledge, this is the first study that
+examined drowning rates among foreign-bornversus American-born victims. One could
+speculate that these children and their care-givers were unaware of the risks presented byswimming pools, because foreign-born chil-dren may be less likely to have opportunitiesto participate in swimming lessons. Interest-ingly, research on mortality rates amongforeign-born individuals has shown a de-creased rate of overall mortality for manycauses, including unintentional injuries.
+16 ,17
+These studies did not focus specifically ondrowning, and one reason for the elevateddrowning rate in our study was the largenumber of Hispanic victims, a group whoseexperience may not be comparable to foreign-born residents as a whole.
+Although some drowning cases were likely
+to be missing from our data set, this is thelargest and most complete national databaseon US swimming pool drownings. We esti-mate that we have captured at least 90% ofdrowning deaths and that the cases are rep-resentative of all drownings. Furthermore,
+because of our access to the death certifi-cates, we were able to extract informationthat allowed us to code ethnicity, nativity,and the type of pool in which the drowningoccurred. However, because death certifi-cates were our primary data source, otherpotential contributing factors were not con-
+sistently reported (e.g., substance use). Also,lack of exposure data allowed us to onlymake a general estimate on the risk fordrowning. More information on how muchtime children in different ethnic groupsspend in pools is necessary to calculate a truedetermination of risk. Finally, because weused a proxy indicator of income, we wereunable to adjust for individual income to de-termine the extent to which income as aproxy for socioeconomic status mediated theassociation between race and drowning.
+Our findings highlight several important
+areas for drowning prevention. First, many ofthe swimming pool drownings occurred inpools that are accessible to the public. Al-though studies about the effectiveness of life-guards at swimming pools are lacking, studieshave shown that lifeguards are effective atpreventing death from drowning in open bod-ies of water.
+18 ,19It is reasonable to assume that
+lifeguards may be even more effective in amore controlled environment, such as a swim-ming pool. However, many hotel/motel poolsdo not have lifeguards. When it is not possi-ble for lifeguards to be present, guidelines forprevention of drowning in public pools shouldbe followed, specifically a requirement foradult supervision.
+20Hotel/motel pools repre-
+sent a particular hazard for Black victims,who comprised 71% of these drownings; it isunknown how many of these drownings mayhave occurred while on vacation among thosewho did not usually have access to pools.Theoretically, most pool drowning deaths canbe prevented if victims are removed from thewater immediately after submersion and re-
+suscitated when necessary.
+4,1 8,21
+Second, the American Academy of Pedi-
+atrics recommends that all children aged 6years and older should learn to swim.
+4The
+drowning victims in our study were aged 5years or older; therefore, most of the children
+in our study were of an age at which theycould have been taught to swim. One argu-ment for not advocating swimming lessonsfor all children is that more proficient swim-mers might take greater risks (e.g., swimmingat remote locations). However, the drowningsin our study occurred in relatively controlledcircumstances, and most occurred duringthe day. Therefore, these drownings do notappear to reflect high-risk scenarios; however,
+it is likely that in the relatively controlled en-vironment of a swimming pool, increasedswimming ability would be protective.
+Finally, our study identified 2 groups who
+appear to be at particularly increased risk fordrowning: Black males aged 5 to 19 yearsand foreign-born males aged 5 to 9 years.The American Academy of Pediatrics has out-lined a number of strategies for preventingdrownings among children of different ages.
+21
+Emphasis on these strategies may be particu-larly relevant for these 2 groups, particularlysupervision at high-risk public pools wheremany of these deaths occur. Further investiga-tion into the circumstances surroundingdrowning deaths is an important step towardunderstanding reasons for the discrepanciesin drowning by race and nativity.
+About the Authors
+At the time of the study, Gitanjali Saluja, Ruth A. Brenner,
+Ann C. Trumble, and Christopher Cox were with the Na-
+tional Institute of Child Health and Human Development,National Institutes of Health, Bethesda, Md. Gordon S.Smith was with the Liberty Mutual Research Institute forSafety, Hopkinton, Mass. Tom Schroeder was with the USConsumer Product Safety Commission, Bethesda.
+Requests for reprints should be sent to Gitanjali Saluja,
+PhD, NICHD/NIH/DHHS, Division of Epidemiology,Statistics and Prevention Research, 6100 Executive Blvd,Rm 7B03 MSC 7510, Bethesda, MD 2 0892-7510
+(email: salujag@mail.nih.gov).
+This article was accepted February 17, 2005.
+Contributors
+G. Saluja acquired and coded the data, oversaw data
+analysis, and drafted the article. R.A. Brenner originatedthe study and study design, supervised data analysis,and wrote/edited sections of the article. A.C. Trumblemanaged and analyzed the data and assisted with writ-ing sections of the manuscript. G.S. Smith originatedthe study, provided methodological guidance, and con-tributed to writing/editing the article. T. Schroeder ac-quired the data, assisted with data analysis, providedinput on study design, and edited sections of the paper.C. Cox provided statistical expertise, oversaw data anal-ysis and assisted with writing sections of the article.
+Human Participant Protection
+This study was declared exempt from review by theNational Institutes of Health office of human subjectsresearch.
+References
+1.Centers for Disease Control and Prevention. Com-
+pressed mortality file, CDC WONDER website. Avail-able at: http://wonder.cdc.gov. Accessed July 14, 2004.
+2. Baker SP, O’Neill B, Ginsburg MJ, Li G. The Injury
+Fact Book. New York, NY: Oxford University Press;
+1992.
+April 2006, Vol 96, No. 4 |American Journal of Public Health Saluja et al. |Peer Reviewed |Research and Practice |733RESEARCH AND PRACTICE 
+3. Brenner RA, Smith GS, Overpeck MD. Divergent
+trends in childhood drowning rates, US 1971–1988.JAMA. 1994;271:1606–1608.
+4. Brenner RA and the American Academy of Pedi-
+atrics Committee on Injury, Violence, and Poison Pre-vention. Prevention of drowning in infants, children,
+and adolescents. Pediatrics. 2003;112:440–445.
+5. Brenner RA, Trumble AC, Smith GS, Kessler EP,
+Overpeck MD. Where children drown, United States,1995. Pediatrics. 2001;108:85–89.
+6. International Classification of Diseases, Ninth Revi-
+sion.Geneva, Switzerland: World Health Organization;
+1980.
+7.US Census Bureau. Population estimates. Available
+at: http://www.census.gov/popest. Accessed July 1,2003.
+8. McCullagh P, Nelder JA. Generalized Linear Mod-
+els.2nd ed. London, UK: Chapman and Hall; 1989.
+9. Blum C, Shield J. Toddler drowning in domestic
+swimming pools. Inj Prev. 2000;6:288–290.
+10.Fergusson DM, Horwood LJ, Shannon FT. Domes-
+tic swimming pool accidents to pre-school children.N Z Med J. 1983;96:725–727.
+11.Gilchrist J, Sacks JJ, Branche CM. Self-reported
+swimming ability in US adults, 1994. Public Health Rep.
+2000;115:110–111.
+12.Mael FA. Racial variations in drowing: cultural or
+biological? In: Fletemeyer JR, Freas SJ, eds. Drowning:New Perspectives in Intervention and Prevention. BocaRaton, Fla: CRC Press;1999:43–57.
+13.Warneke CL, Cooper SP. Child and adolescent
+drownings in Harris County, Texas. Am J Public Health.
+1994;84:593–598.
+14.Agocs MM, Trent RB, Russell DM. Activities asso-
+ciated with drownings in Imperial County, CA, 1980–90:implications for prevention. Public Health Rep. 1994;
+109:290–295.
+15.Baker SP, Braver ER, Chen LH, Pantula JF,
+Massie D. Motor vehicle occupant deaths among His-panic and Black children and teenagers. Arch Pediatr
+Adolesc Med. 1998;152:1209–1212.
+16.Singh GK, Siahpush M. All-cause and cause-
+specific mortality of immigrants and native born in theUnited States. Am J Public Health. 2001;91:392–399.
+17.Singh GK, Siahpush M. Ethnic-immigrant differen-
+tials in health behaviors, morbidity, and cause-specificmortality in the United States: an analysis of two na-tional data bases. Hum Biol. 2002;74:83–109.
+18.United States Lifesaving Association. 1999 na-
+tional lifesaving statistics. Available at: http://www.usla.org/publicinfo/stats.shtml. Accessed July 1, 2003.
+19.Branche CM, Stewart D, eds. Lifeguard Effective-
+ness: A Report of the Working Group. Atlanta, Ga: Cen-
+ters for Disease Control and Prevention, National Centerfor Injury Prevention and Control; 2001.
+20.Dworkin GM. Hotel pool and spa safety begins
+with PRM (prevention, recognition, management).Available at: http://www.lifesaving.com/issues/articles/
+36pool_spa_safety.html. Accessed July 1, 2003.
+21.American Academy of Pediatrics Committee on
+Injury, Violence, and Poison Prevention. Prevention ofdrowning in infants, children and adolescents. Pedi-
+atrics. 2003;112:437–439.This volume demonstrates the great 
+diversity in the types of problems being
+faced around the world and the kinds of solutions being evaluated in the area of maternal and infant health. An excellentresource for classroom use!ISBN 0-87553-026-5
+2002 ❚288 pages ❚softcover
+$19.95 APHA Members$26.95 Nonmembers
+Plus shipping and handling
+Topics in Maternal 
+and Infant Health:
+Selections from the 
+American Journal of Public Health
+ORDER TODAY!
+American Public Health Association
+Publication Sales
+Web: www.apha.org
+E-mail: APHA@pbd.com
+Tel:888-320-APHA
+FAX: 888-361-APHAMCH05J6

@@ -1,0 +1,425 @@
+ORIGINAL ARTICLE
+The short-term effect of swimming
+training load on shoulder rotational
+range of motion, shoulder joint position
+sense and pectoralis minor length
+Emma Higson1, Lee Herrington2, Carl Butler3and Ian Horsley4
+Abstract
+Background: Shoulder pain or injury is the most common issue facing elite competitive swimmers and the most frequent
+reason for missed or modified training. Literature suggests that highly repetitive upper limb loading leads to inappropriateadaptations within the shoulder complex. The most likely maladaptations to occur are variations in shoulder rotational
+range of motion, reduction in joint position sense and shortened pectoralis minor length. This has yet to have been
+confirmed in experimental studies. The aim of this study was to investigate the short-term effects of swimming training loadupon internal and external rotation range of motion, joint position sense and pectoralis minor length.Method: Sixteen elite swimmers training in the British Swimming World Class programme participated. Measures of
+internal and external range of motion, joint position sense error score and pectoralis minor length were taken beforeand after a typical 2 h swimming session.Results: Following swimming training shoulder external rotation range of motion and pectoralis minor length reduced
+significantly ( /C03.4
+/C14,p¼<0.001 and /C00.7 cm, p ¼<0.001, respectively), joint position sense error increased significantly
+(þ2.0/C14error angle, p ¼<0.001). Internal rotation range of motion demonstrated no significant change ( /C00.6, p¼0.53).
+Discussion: This study determined that elite level swimming training results in short-term maladaptive changes in
+shoulder performance that could potentially predispose them to injury.
+Keywords
+shoulder pain, shoulder injury, swimmers, range of motion, joint position sense, pectoralis minor
+Date received: 8th January 2018; revised: 21st March 2018; accepted: 22nd March 2018
+Introduction
+Shoulder pain or injury is by far the most commoninjury issue faced by elite level swimmers and themost frequent reason for missed or modiﬁed training.
+1,2
+Seventy-ﬁve per cent of elite level swimmers have beenfound to report a history of shoulder pain throughout
+their swimming career.
+1With elite swimmers complet-
+ing over 10,000 m per day and performing over 30,000shoulder rotations per week, the high incidence ofshoulder pain is of no surprise.
+3The most common
+reason for shoulder pain in this population is thoughtto be a result of impingement of the soft tissue struc-tures that cross the subacromial space.
+2Rodeo et al.4
+found signs of subacromial impingement in 84% of the
+USA 2008 Olympic swimming team using ultrasound.Subacromial impingement is either a result of structural
+adaptation or dysfunctional movement patterning ofthe shoulder complex.
+5The shoulder is an extremely
+mobile joint, allowing function through a large rangeof motion (ROM). Coordinated contractions of themuscular system surrounding the joint (rotator cuﬀ
+1English Institute of Sport, Loughborough, UK
+2Centre for Health, Sport and Rehabilitation Sciences, University of
+Salford, Salford, UK
+3Spire Nottingham Hospital, Nottingham, UK
+4English Institute of Sport, Manchester, UK
+Corresponding author:
+Lee Herrington, Directorate of Sport, Exercise and Physiotherapy,Allerton Building, University of Salford, Salford, M6 6PU, UK.Email: L.C.Herrington@Salford.ac.ukShoulder & Elbow
+2018, Vol. 10(4) 285–291
+!The Author(s) 2018
+Article reuse guidelines:sagepub.com/journals-permissionsDOI: 10.1177/1758573218773539journals.sagepub.com/home/sel
+and scapular stabiliser muscles) maintain a centred
+humeral head position upon the glenoid fossa, thusavoiding subacromial impingement.
+6During swimming
+training the shoulder is placed under highly repetitiveoverhead loading. It is this repetitive load that isthought to cause adaptations to the joint complex.
+7
+Dysfunctional movement patterns occur as a result,causing incorrect or excess movement of the humeralhead that leads to pain or injury.
+8
+In elite swimmers the factors that lead to the devel-
+opment of shoulder pain have received limited investi-gation with inconsistent results.
+9,10This appears to be
+due to a lack of high quality longitudinal retrospectivestudies that adequately show cause and eﬀect relation-
+ships for the shoulder pain. However, emerging themes
+suggest maladaptive changes caused by the high swim-ming training load increase the risk of developingshoulder pain.
+11It is important for practitioners work-
+ing with swimmers to have in-depth understanding ofthese adaptations so that preventative strategies can beput in place. Research to date lacks understanding ofthe acute impact of swimming training load upon the
+shoulder complex. It is assumed based on research from
+various other overhead sports that the adaptationsmost likely to occur from swimming training loadinclude changes to rotational ROM, joint positionsense (JPS) and pectoralis minor length (PML).
+12
+Suboptimal rotational ROM has frequently been
+regarded as a risk factor for shoulder symptoms inswimmers.
+10,13However, there is conﬂicting informa-
+tion regarding whether hypomobility or hypermobility
+places swimmers more at risk.13Beach et al.13found
+that reduced internal rotation (IR) ROM was acommon long-term adaptation in swimmers, which inother sports has been found to increase the likelihoodof developing impingement symptoms.
+14–16Variation
+in the range of external rotation (ER) has been lesscommonly discussed in swimmers. However, a reduc-
+tion in ER has been found to increase risk of shoulder
+pain in other overhead sports.
+17Only one study has
+looked into the eﬀect of acute swimming load uponshoulder rotational ROM. Matthews et al.
+11found
+that ER ROM signiﬁcantly reduced following a fati-guing swimming load; however, IR ROM was notaﬀected. Literature from various other overheadsports has found contradictory results in which post
+fatigue IR ROM signiﬁcantly decreased whereas ER
+ROM remained the same.
+16,18This highlights a lack
+of consistency in the understanding of how swimmingload could aﬀect rotational ROM.
+In order to avoid injury, optimal proprioception is
+required at the shoulder joint.
+19During functional
+movement the shoulder relies heavily on its dynamicstabilisers to prevent unwanted movement of the hum-
+eral head and provide stability throughout its fullROM. The dynamic stabilisers use proprioceptive feed-
+back loops through a combination of kinaesthesia(movement sense) and JPS.
+20Once fatigued JPS has
+been found to reduce, thus impeding proprioception.6,7
+This leaves the shoulder vulnerable to functionalinstability, translation of the humeral head and thus
+injury. Matthews et al.
+11is the only study to have inves-
+tigated the eﬀect of acute swimming load upon JPS;they found a signiﬁcant decrease in JPS following thefatiguing swimming set. Further evidence is needed tosupport the conclusions drawn because of the relativelysmall sample size.
+A shortened PML has been found to increase
+the risk of impingement in those exposed to repetitive
+shoulder overhead motion.
+18It is suggested that due to
+the dominance of the internal rotator and adductormuscles during the swimming stroke a forward shoul-der posture can develop. Overtime this can cause theanterior shoulder structures, predominantly the pector-alis minor, to become shortened.
+21The shortened PML
+is understood to prevent adequate posterior tilt of thescapular during elevation of the upper limb motion; this
+leads to reduced subacromial space and impingement.
+To the researchers’ knowledge there have been no pub-lished studies investigating the eﬀect of acute swimmingload or any other overhead activity upon PML.
+Based on current literature it could be that swim-
+ming training load causes immediate adaptations inshoulder rotational ROM, JPS and PML thus increas-ing the risk of shoulder injury. However, this has yet to
+be conﬁrmed with high quality experimental research.
+It is important for practitioners working with eliteswimmers to have in-depth understanding of the adap-tations that can occur as a result of the swimming train-ing load. This enables aﬀective preventative strategiesto be put in place. The aim of this study was to explorethe acute eﬀect of swimming training load upon: (1)shoulder rotational ROM, (2) JPS error and (3) PML,
+amongst elite level swimmers. The null hypothesis was
+that no signiﬁcant change would occur between pre-and post-swimming load for all of the measurementsinvestigated.
+Methods
+Participants
+Sixteen elite level swimmers were recruited from
+a Swimming World-Class Programme NationalCentre. Nine males and seven females were invited totake part in the study and their characteristics areshown in Table 1. The inclusion criteria included onlythose swimming within the World-Class SwimmingProgramme between the ages of 17 and 25. The exclu-
+sion criteria were swimmers with current shoulder286 Shoulder & Elbow 10(4)
+injury or pain preventing them from full training, those
+with a history of shoulder surgery or swimmers who
+tested positive with a Hawkins–Kennedy test. This
+study did not exclude all participants with a historyof shoulder pain or injury because of the high preva-lence in this population potentially limiting the samplesize. All swimmers that met the criteria gave writtenconsent to take part. All procedures performed invol-ving human participants were in accordance with theethical standards of the institutional research commit-
+tee and with the 1964 Helsinki declaration and its later
+amendments or comparable ethical standards.Institutional ethical approval was given from the uni-versity ethics board.
+Procedures
+All testing was conducted at the same training centre.
+The same researcher (EH) recorded all the measure-
+ments. For each swimmer, measurements were rec-orded before and after a typical 2 h swimming session.The measurements were taken in the same order priorto and after the session: right IR, ER, JPS and thenPML, then repeated for the left. The baseline measure-ments were recorded following a standardised 30 minland-based warm up, within 3 min of the start of the
+swimming session. Following the swimming session the
+second set of measurements were taken within 3 min,ensuring any immediate adaptations were recorded.Due to the single clinician availability it would havebeen impossible to test all 16 athletes in one session,therefore testing was conducted over six weeks. All datawere collected from the same session each week(Tuesday afternoon). This ensured time of day and pos-
+ition in training week remained the same for all the
+swimmers. All measurements were taken outside oftaper or competition weeks, due to variation in trainingon these weeks.
+IR and ER
+Rotational ROM was measured using a digital inclin-
+ometer (The Saunders Group Inc., Chaska, MN).Participants positioned in supine with the shoulder
+abducted to 90/C14and elbow ﬂexed to 90/C14with the fore-
+arm and wrist in neutral (palm of hand facing caud-ally). They were positioned so that approximately threequarters of the upper limb was supported on the plinth,preventing shoulder extension. The inclinometer was
+zeroed at 90
+/C14(neutral) on a level surface between par-
+ticipants and then placed on the forearm, proximal tothe ulna styloid (dorsal surface for IR and ventral sur-face for ER). For IR a hand was placed upon the hum-eral head to avoid anterior displacement. Theresearcher instructed participants to internally rotateuntil the arm naturally stopped with resistance at endrange. This position was held for 2 s and the reading
+recorded. The arm was then returned to neutral for two
+further trials. For ER, from the neutral position theparticipant was asked to externally rotate and readingswere taken in the same manner but without manualstabilisation, with 90
+/C14shoulder abduction maintained
+throughout testing.
+JPS
+For JPS testing participants attempted to reproducea4 5
+/C14ER angle. Participants were positioned as
+described for ROM measurement. The iPhone 7 app‘get my ROM’ digital inclinometer was used to measurethe angles; the iPhone securely attached to partici-pants forearms using a strap with the screen facingthe tester. The participant was instructed to close
+their eyes throughout testing. The arm was passively
+rotated to 45
+/C14ER and held in this position for 3 s.
+The participant was asked to remember this position.Following the return to neutral the participant wasasked to actively return the arm back to the angleshown. The amount of degrees away from 45
+/C14was rec-
+orded. This method was repeated twice more and anaverage taken.
+PML
+PML was measured using a similar technique to thatwas described in the study completed by Mackenzieet al.
+22Participants were positioned in supine; a
+pillow placed under their head, without impactingupon the shoulder position. Both arms relaxed by
+their sides, elbows were extended with the palm of the
+hand against their thighs. The medial border of theanterior aspect of the coracoid process was palpatedand then the fourth rib (anterior-inferior edge, at junc-tion between the rib and sternum). The measurementwas taken with a tape measure (accuracy of 1 mm)between these points. The tape measure was removedbefore two further measurements were then repeated
+and the average taken.Table 1. Participant characteristics.
+Male
+(n¼9)Female
+(n¼7)T otal
+(n¼16)
+Age (years) 20 /C62.3 20 /C61.0 20 /C61.8
+Height (cm) 186 /C66.5 173 /C66.3 180 /C69.3
+Weight (kg) 77.7 /C67.0 61.8 /C64.8 71 /C69.0
+Mean/C6standard deviation.Higson et al. 287
+Statistical analysis
+The data were recorded with Microsoft Oﬃce Excel
+2011 and analysed using SPSS Mac version 23 (SPSSInc., Chicago, IL, USA). Prior to statistical analysis avisual evaluation of the histograms and results fromShapiro–Wilk test for normality demonstrated that
+the data from each measurement were of normal distri-
+bution. Paired t-tests were conducted on the data todetermine if there were any signiﬁcant diﬀerencesbetween pre- and post-swimming training measure-ments and Cohen’s deﬀect sizes were calculated and
+interpreted with 0.2 and below being a small eﬀectsize; 0.5 being a medium eﬀect size; 0.8 and abovebeing a large eﬀect size. The critical alpha level was
+set at 0.05.
+Reliability of measurements
+To evaluate reliability of each measurement, the intra-
+rater reliability was investigated upon 15 elite swimmersin a pilot study. Each measurement was taken beforeand after a 10 min rest period on the same swimmers.Reliability analysis was conducted to compare before
+and after measurements. The results of this study areshown in Table 2, presented are the intraclass correl-ation coeﬃcient, standard error of measurement (SEM)and minimal detectable change (MDC
+95) values for
+each measurements. These show good to excellent reli-
+ability for all the measurement taken.
+Results
+All of the 16 swimmers recruited met the inclusion
+criteria and were included in the study. A total of32 shoulders were tested for each measurement.The results for the comparison between pre- and post-
+measurements are shown in Table 3.
+IR and ER
+The paired t-test demonstrated that there was a signiﬁ-
+cant decrease in ER ROM following the swimmingtraining load (p ¼<0.001) with a small to medium
+eﬀect size. The value of the change in ER ROM did
+exceed the SEM for the measurement but not the
+MDC
+95. There was no signiﬁcant diﬀerence found
+between pre- and post-measurements for IR ROM(p¼0.528).
+JPS
+The pared t-test showed a statistically signiﬁcant
+increase in mean JPS error following the swimming
+training load (p <¼0.001) with a large eﬀect size.
+On average the JPS error increased by approximately2
+/C14following the training session and this value
+exceeded the MDC 95.
+PML
+For PML, the pared t-test revealed a statistically sig-niﬁcant decrease following the training session
+Table 3. Mean results, with standard deviation from pre-swim and post-swim.
+Clinical measures Pre-swim Post-swimMean
+differencePercentage
+differenceEffect
+size t-test
+Internal rotation (/C14) 60.0 /C67.4 59.3 /C68.8 /C00.6 /C01.2 0.1 0.528
+External rotation (/C14) 97.2 /C69.9 93.8 /C69.6 /C03.4 /C03.5 0.34 <0.001
+JPS error (/C14) 1.8 /C61.0 3.8 /C61.1 þ2.0 þ111.0 2.11 <0.001
+PML (cm) 17.8 /C62.1 17.1 /C62.2 /C00.7 /C04.0 0.33 <0.001
+Mean/C6standard deviation.Table 2. Intraclass correlation coefficient values with (95% CI),
+SEM and MDC values for each of the clinical tests.
+Clinical measuresICC
+(95% CI) SEM MDC 95
+Internal rotation (/C14) 0.94 1.5 4.2
+External rotation (/C14) 0.96 1.9 5.2
+JPS error (/C14) 0.89 0.7 1.8
+PML (cm) 0.94 0.6 1.5
+CI: confidence interval: ICC: intraclass correlation coefficient; MDC: min-
+imal detectable change; SEM: standard error of measurement.SEM: SD (pooled) /C2ˇ(1/C0ICC), MDC (at 95% confidence intervals):
+SEM/C21.962ˇ2.288 Shoulder & Elbow 10(4)
+(p¼>0.001) with a small to medium eﬀect size. The
+value of the change in PML did exceed the SEM forthe measurement but not the MDC
+95.
+Discussion
+The aim of this study was to determine the immediateeﬀect of swimming training load upon rotational ROM,JPS and PML. The results demonstrate statistically sig-niﬁcant diﬀerences between pre- and post-swimmingfor ER ROM, JPS error and PML. Therefore, thenull hypothesis for these three clinical measures wasrejected. No signiﬁcant diﬀerences were found in IRROM in keeping with the null hypothesis for that
+parameter.
+Rotational ROM
+This study demonstrates that following a swimming
+training session there was no signiﬁcant change in IRROM from baseline measurements. These results areconsistent with a similar study by Matthews et al.,
+11
+in which no signiﬁcant diﬀerences were found in IRROM following a controlled swimming load. Thisstudy found statistically signiﬁcant reduction in ERROM following swimming. These results are also con-sistent with those from Matthews et al.,
+11in which ER
+ROM signiﬁcantly reduced after a fatigue inducingswimming set. The reduction of 3.4
+/C14of ER ROM
+found post-swimming is considered a ‘small’ eﬀect
+size. Whereas in Matthews et al.11the eﬀect size was
+found to be ‘moderate to large’. The larger eﬀect sizeobtained by Matthews et al.
+11could have been due to
+all swimmers completing the same, high intensity train-ing session with blood lactate levels monitored to con-ﬁrm fatigue. From the results of this study we can beconﬁdent that the change of /C03.4 was of statistical sig-
+niﬁcance (p ¼<0.001); however, due to lack of relevant
+literature, the clinical impact of this change is not
+known. Clinical relevance of change to rotationalROM has only been investigated upon baseball pitch-ers. Wilk et al.
+23indicated that a reduction of >5/C14of
+ERþIR ROM was enough to increase risk of shoulder
+injury; however, clinical signiﬁcance of reduction in ERalone was not mentioned. Another consideration is thatthe change of /C03.4 did not reach the MDC
+95value of
+5.2/C14, thus we cannot be 95% conﬁdent that the change
+was not the result of measurement error.
+Reduced ER ROM which occurred might be as a
+result of speciﬁc biomechanics of the swimmingstroke. Greater hypertrophic changes occur in the inter-nal rotator and adductor muscles compared to theexternal rotators and abductors, due to the largerforce production required from these muscle groups
+to propel the body through water.
+21As a result,imbalances occur in the shoulder muscles.
+Electromyography studies have shown IR to ERstrength ratios in competitive swimmers at 1.89:1 com-pared to 1.35:1 in non-swimmers.
+21If this imbalance is
+present it is feasible to suggest that due to the contrac-tion from the stronger IR muscles, the humerus is held
+more in an internally rotated position. Additionally as
+the external rotators fatigue during a session, it is pro-posed that the inability to overcome IR torque increases.
+In a retrospective longitudinal study, Walker et al.
+24
+found that those swimmers who had reduced ER(<93
+/C14) were at greater risk of shoulder pain over the
+12 months of the study. These results are consistentwith those from other overhead sports in which reduced
+ER has been shown to increase shoulder injury risk by
+2.3/C2.
+23Cadaver studies have also demonstrated that if
+ER ROM is reduced, shoulder impingement is morelikely on full upper limb elevation.
+16This highlights
+possible implications of reduced ER. It is therefore sug-gested that preventative land-based training pro-grammes provide exercises speciﬁcally aimed atdeveloping ER strength and fatigue resistance, counter-
+acting the imbalances between IR and ER. As lack of
+endurance rather than peak torque has been found toplace swimmers at greater risk of shoulder pain, speciﬁcprotocols that develop muscular endurance areadvised.
+13Alongside this programme stretching exer-
+cises performed pre- and post-swimming sessionsshould be considered to ensure that full ER ROM ismaintained or restored.
+JPS
+Following the swimming session a signiﬁcant increase inJPS error was found, with the increase of 2.0
+/C14post-swim
+being considered a ‘large’ eﬀect. With the MDC 95value
+of 1.8/C14, we can be 95% conﬁdent that þ2.0/C14is true
+change and not resulting from measurement error. In a
+similar investigation, Matthews et al.11also found an
+increase in JPS error following swimming load.However, statistical signiﬁcance was only reached inright shoulders. For the purpose of this study rightand left shoulders were analysed together. It was sug-gested that the variance between left and right found inMatthews et al.
+11could be due to the dominant arm
+acting mainly for propulsion, whereas the non-dominant
+arm provides the control. Results from this study are
+also supported by those studies that have investigatedJPS pre- and post-fatigue. Carpenter et al.
+25found that
+following fatiguing rotational eﬀort, shoulder JPS errorincreased by 73%. This same increase in JPS error wasfound in two other studies post-fatigue.
+6Though these
+studies support results from this investigation, it must beconsidered that the fatiguing tasks conducted were not
+overhead functional actions.Higson et al. 289
+Elite swimmers have been shown to have increased
+shoulder laxity when compared with recreationalswimmers.
+26This increase in shoulder laxity has been
+identiﬁed in the literature to correlate with a higherinjury risk.
+2McMaster and Troup1indicated that
+there is a threshold to which clinical laxity is beneﬁcial
+to performance, before it causes instability during the
+swimming stroke.26Due to this increased laxity and the
+nature of the overhead load in swimming, functionaldynamic stability is imperative. This maintains acentred humeral head in order to avoid impingement.
+27
+What is implied from this study is that due to the reduc-tion in JPS during swimming the mechanoreceptors ofthe joint may provide incorrect joint position feedback.
+This could impede the ability of the dynamic stabilisers
+to provide accurate compensatory contraction to avoidexcessive translation of the humeral head. This neuro-muscular deﬁcit places the shoulder at increased riskof injury.
+27
+In order to manage this reduction in JPS, preventative
+programmes with the aim of increasing shoulder pro-prioception are suggested. Speciﬁcally, Lephart et al.
+17
+recommend the integration of exercises developing bothJPS and kinaesthesia, alongside neuromuscular controland dynamic joint stabilisation critical to the overheadathlete. They propose positional sense practice todevelop cognitive level processing, upper limb weight-bearing exercise to stimulate muscular co-contractionfor dynamic stabilisation and plyometric exercises tostimulate reﬂexive activity. Additionally, more recently
+Salles et al.
+28conducted a randomised controlled trial,
+providing evidence that high intensity upper limbstrength-training programmes led to a signiﬁcantincrease in JPS. They recommended multiple joint exer-cises involving the large muscles of the shoulder.
+PML
+To the researchers’ knowledge this is the ﬁrst study tohave investigated the acute eﬀect of swimming load uponPML. The study demonstrates a signiﬁcant decreasein PML following swimming load, but the decrease inmean PML of 0.7 cm could be considered a ‘small’ eﬀect.The need for further experimental studies is indicated. Itis suggested that those future studies use more precisePML measurement methods than those used in this
+study. Such as the method using callipers by Rondeau
+et al.,
+29which demonstrated lower measurement error
+values (SEM 0.3 cm rather than SEM of 0.55). This issuggested to be due to the small scope of change inPML, therefore a method with smaller measurementerror is more likely to detect these minimal changes.
+Tate et al.
+3and Harrington et al .30provide evidence
+from cross-sectional studies showing that swimmers
+who have shortened PML had a stronger associationwith shoulder pain than those without. Due to their
+study designs, cause and eﬀect relationships betweenpain and PML cannot be conﬁdently determined.However, it has been frequently documented in the lit-erature that due to the pectoralis minor’s attachment tothe anterior scapular, a shortened PML prevents opti-
+mal movement patterning of the scapular. A lack of
+scapular posterior tilting during elevation causes thesubacromial space to be narrowed and thus impinge-ment is more likely.
+31Though the results from this
+study are not yet supported by other literature, if fur-ther research provides consistent outcomes, it would besuggestive that preventative programmes and speciﬁcpost-training stretching regimes would be appropriate.
+Limitations of the study
+This study has a number of limitations. The sample sizewas small. However, using only elite swimmers meansthat results are generalisable to the elite population.Another limitation from testing this population is thatwe were unable to implement a controlled swimming
+session due to strict training plans. This allowed uncon-
+trollable variables from diﬀerences in training sessions.As clinical measures were taken directly following theswimming, what cannot be elicited from this study isthe longevity of these adaptations. Clinically it wouldbe beneﬁcial to understand how long these adaptationslast for, monitoring for possible increase in risk for thenext swimming or land training session. It is suggested
+that future studies monitor the adaptations over a
+longer time frame to understand whether the eﬀectsare transient or progressive. Similarly the eﬀect ofswimming particular strokes on outcome would alsoneed investigating.
+Conclusion
+The results from this study provide a greater understand-ing of the direct eﬀect of swimming load upon the shouldercomplex. This information can help practitioners and coa-ches working with elite swimmers to implement preventionmethods to avoid or reduce these adaptations. From thecurrent available evidence and results from this study, it issuggested that prevention exercise programmes shouldinclude ROM maintenance, ER strengthening aiming to
+enhance endurance capacity, JPS and proprioception
+development, and stretches aimed at maintaining PML.Further research is required to understand the longevityof the adaptations of swimming load and whether preven-tion programmes are capable of signiﬁcantly reducing orcounteracting these eﬀects. This would enable better plan-ning of training schedules and prehabilitation with the aimto reduce the prevalence of shoulder pain and injury
+amongst swimmers.290 Shoulder & Elbow 10(4)
+Declaration of Conflicting Interests
+The author(s) declared no potential conﬂicts of interest with
+respect to the research, authorship, and/or publication of thisarticle.
+Funding
+The author(s) received no ﬁnancial support for the research,authorship, and/or publication of this article.
+Ethical Review and Patient Consent
+The study was approval by an institutional ethics andresearch governance review board and all participants give
+written consent to participate.
+References
+1. McMaster W and Troup J. A survey of interfering shoul-
+der pain in United States competitive swimmers. Am J
+Sports Med 1988; 21: 67–70.
+2. Sein M, Walton J, Linklater J, et al. Shoulder pain in elite
+swimmers: primarily due to swim-volume-induced supras-pinatus tendinopathy. Brit J Sports Med 2008; 44: 105–113.
+3. Tate A, Turner G and Knab S. Risk factors associated
+with shoulder pain and disability across the lifespan ofcompetitive swimmers. J Athl Train 2012; 47: 149–158.
+4. Rodeo S, Nguyen J, Cavanaugh J, et al. Clinical and
+ultrasonographic evaluation of the shoulders of eliteswimmers. Am J Sports Med 2016; 44: 3214–3221.
+5. Michener L, McClure P and Karduna. A. Anatomical
+and biomechanical mechanisms of subacromial impinge-ment syndrome. Clin Biomech 2003; 18: 369–379.
+6. Cools A, Witvrouw E, De Clercq G, et al. Scapular
+muscle recruitment pattern: electromyographic responseof the trapezius muscle to sudden shoulder movementbefore and after a fatiguing exercise. J Orthop Sports
+Phys Ther 2002; 32: 221–229.
+7. Blanch P. Conservative management of shoulder pain in
+swimming. Phys Ther Sport 2004; 5: 109–124.
+8. Belling Sorensen AK and Jørgensen U. Secondary impinge-
+ment in the shoulder, an improved terminology in impinge-ment. Scand J Med Sci Sports 2000; 10: 266–278.
+9. Allegrucci M, Whitney S and Irrgang J. Clinical implica-
+tions of secondary impingement of the shoulder in freestyle
+swimmers. JO r t h o pS p o r t sP h y sT h e r 1994; 20: 307–318.
+10. Bak K and Magnusson P. Shoulder strength and range of
+motion in symptomatic and pain free elite swimmers.Am J Sports Med 1997; 25: 454–459.
+11. Matthews M, Green D, Matthews H, et al. The effects of
+swimming fatigue on shoulder strength, range of motion,joint control, and performance in swimmers. Phys Ther
+Sport 2017; 23: 118–122.
+12. Cools A, Johansson F, Cambier D, et al. Descriptive pro-
+file of scapulothoracic position, strength and flexibilityvariables in adolescent elite tennis players. Brit J Sports
+Med 2010; 44: 678–684.
+13. Beach M, Whitney S and Dickoff-Hoffman S.
+Relationship of shoulder flexibility, strength, and endur-
+ance to shoulder pain competitive swimmers. J Orthop
+Sports Phys Ther 1992; 16: 262–268.14. Marcondes F, Jesus J, Bryk F, et al. Posterior shoulder
+tightness and rotator cuff strength assessments in painfulshoulders of amateur tennis players. Braz J Phys Ther
+2013; 17: 185–194.
+15. Manske R, Wilk K, Davies G, et al. Glenohumeral
+motion deficits: friend or foe? Int J Sports Phys Ther
+2013; 8: 537–553.
+16. Kibler W, Sciascia A and Thomas S. Glenohumeral
+internal rotation deficit: pathogenesis and responseto acute throwing. Sports Med Arthrosc Rev 2012; 20: 34–38.
+17. Lephart S, Pincivero D, Giraldo J, et al. The role of pro-
+prioception in the management and rehabilitation of ath-letic injuries. Am J Sports Med 1997; 25: 130–137.
+18. Moore-Reed S, Kibler B, Myers N, et al. Acute changes
+in passive glenohumeral rotation following tennis playexposure in elite female players. Int J Sports Phys Ther
+2016; 11: 230–236.
+19. Green C, Comfort P and Herrington L. Shoulder joint
+position sense in injured and non-injured judo athletes.Int J Athl Ther Train 2013; 18: 29–33.
+20. Riemann B and Lephart S. The sensorimotor system, part
+I: the physiologic basis of functional joint stability. J Athl
+Train 2002; 37: 71–79.
+21. Kluemper M. Effect of stretching and strengthening
+shoulder muscles on forward shoulder posture in com-petitive swimmers. J Sport Rehabil 2006; 15: 58–70.
+22. Mackenzie T, Herrington L, Funk L, et al. Sport
+specific adaptation in resting length of pectoralisminor in professional male golfers. J Athl Enhance
+2015; 4: 1–5.
+23. Wilk K, Macrina L, Fleisig G, et al. Correlation of gle-
+nohumeral internal rotation deficit and total rotationalmotion to shoulder injuries in professional baseball pitch-
+ers.Am J Sports Med 2011; 39: 329–335.
+24. Walker H, Gabbe B, Wajswelner H, et al. Shoulder pain
+in swimmers: a 12-month prospective cohort study of
+incidence and risk factors. Phys Ther Sport 2012; 13:
+243–249.
+25. Carpenter J, Blasier R and Pellizzon G. The effects of
+muscle fatigue of shoulder joint position sense. Am J
+Sports Med 1998; 26: 262–265.
+26. Zemek M and Magee D. Comparison of glenohumeral
+joint laxity in elite and recreational swimmers. Clin J
+Sports Med 1996; 6: 40–47.
+27. Myers J and Lephart S. The role of the sensorimotor system
+in the athletic shoulder. J Athl Train 2000; 35: 351–363.
+28. Salles J, Velasques B, Cossich V, et al. Strength training
+and shoulder proprioception. J Athl Train 2015; 50:
+277–280.
+29. Rondeau M, Padua D, Thigpen C, et al. Precision and
+validity of a clinical method for pectoral minor lengthassessment in overhead-throwing athletes. Athl Train
+Sports Health Care 2011; 4: 67–72.
+30. Harrington S, Meisel C and Tate A. A cross-sectional
+study examining shoulder pain and disability in division1 female swimmers. J Sports Rehabil 2014; 23: 65–75.
+31. Borstad J and Ludewig P. The effect of long versus short
+pectoralis minor resting length on scapular kinematics inhealthy individuals. J Orthop Sports Phys Ther 2005; 35:
+227–238.Higson et al. 291

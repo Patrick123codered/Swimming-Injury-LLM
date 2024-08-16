@@ -1,0 +1,327 @@
+RESEARCH ON SPORTS BIOMECHANICS IN THE REPAIR
+OF SWIMMING MUSCLE INJURY
+WEIRAN CHEN *,**, XIUHONG LI†,††, DAN WANG‡,‡‡, YUE DONG§,§§,
+XIANGYI YAO¶,¶¶and XIAOQIAN WANG||,||||
+*School of Physical Education
+Shandong University, Jinan 250100, China
+†School of Physical Education, Harbin Institute of Technology
+Weihai 264209, China
+‡School of Physical Education, Beijing Sport University
+Beijing 100084, China
+§School of Physical Education, Beijing Sport University
+Beijing 100084, China
+¶School of Medicine, Huaqiao University
+Quanzhou 362021, China
+||School of Physical Education
+Yunnan Minzu University
+Kunming 650000, China
+**1279766087cwr@sina.com
+††Luckyxiuxiu@sohu.com
+‡‡996717023@qq.com
+§§1582801828@qq.com
+¶¶yaoxiangyi11@sina.com
+||||najing19981108@sina.com
+Received 8 March 2022
+Accepted 8 April 2022
+Published 27 June 2022
+This paper studies the biomechanics of muscles after swimming. This paper uses exercise biome-
+chanics and deep learning models to process surface EMG signals after muscle injury. In this way, the
+relationship between the EMG signal and muscle strength after muscle injury after swimming can
+be obtained. Studies have found a proportional relationship b etween muscle strength and the
+strength of EMG signals during muscle injury r ecovery after swimming. The conclusions of this
+study can provide us with some clinical exper ience in the recovery of muscle damage during
+physical exercise.
+Keywords : Exercise biomechanics; exercise muscle injury; swimming exercise; muscle strength.
+††Corresponding author.
+This is an Open Access article published by World Scienti¯c Publishing Company. It is distributed under
+the terms of the Creative Commons Attribution 4.0 (CC BY) License which permits use, distribution and
+reproduction in any medium, provided the original work is properly cited.OPEN ACCESS
+Journal of Mechanics in Medicine and BiologyVol. 23, No. 3 (2023) 2240018 (9 pages)
+°cThe Author(s)
+DOI: 10.1142/S0219519422400188
+2240018-1
+J. Mech. Med. Biol. 2023.23. Downloaded from www.worldscientific.com
+by 184.191.123.101 on 08/12/24. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+1. Introduction
+Chinese elite swimmers' primary type of injury is muscle and ligament strain. Due to
+the technical characteristics of di®erent swimming styles, there are di®erences in the
+injury site. The occurrence of sports injuries is a combination of multiple factors.
+It mainly includes training, physical ¯tness, psychological, and other factors.
+Surface electromyography (sEMG) has the advantage of being noninvasive.
+It is considered to be the most promising means of estimating muscle strength.
+It is well known that sEMG is produced by muscle contraction. Muscle contraction
+activity is often accompanied by muscle force. So, there must be a link between
+sEMG and muscle strength. Usually, muscle strength is one of the essential indicators
+re°ecting the level of muscle health.1Healthy muscle contractions produce corre-
+sponding forces. Injured, tired muscles have l ess muscle force. Muscle strength provides a
+reliable basis for diagnosis and rehabilitation treatment in clinical application.
+Foreign scholars have done a lot of research on the muscle force model. It is
+more typical such as the HILL model, but the HILL model does not describe
+the chemical –mechanical energy conversion in the potential-to-force conversion
+process. The mechanism description is insu±cient. The current approach to studying
+muscle force models is often to simulate the signaling of neurons with electrical
+stimulation. The method obtains the force through the force measuring equipment and
+then analyzes the muscle force model2/C0/C0/C0content such as linear, Wiener, and Cascade.
+But general muscle force models are task-speci¯c. The properties of the model are task-
+speci¯c. These studies are inconclusive about how similar electrical stimulation signals
+are to neuronal signals or the e®ects of electrical stimulation signals on muscles.
+The reliability of the muscle force model needs further study.
+Current methods to study muscle force are still limited to the relationship
+between sEMG and macroscopic pressure parameters such as root mean square
+(RMS), integral electromyography (IEMG), mean power frequency (MPF), median
+frequency (MF), and other time –frequency domain parameters. In academia, the
+relationship between sEMG and force is less described from the perspective of motor
+units. This paper explores the relationship between muscle force and sEMG from a
+motor unit perspective.
+2. Research Methods
+We ¯rst perform the sEMG experimental acquisition test. Second, the sEMG is
+decomposed using the gradient-optimized convolution kernel compensation (GCKC)
+method.3Then the MU waveform was extracted using the spike triggering technique
+(STA). Finally, we use the least-squares ¯tting method to establish the relationship
+between muscle force and motor unit amplitude.
+2.1. sEMG signal decomposition
+The sEMG signal was decomposed using the GCKC method. The GCKC
+process improves the Convolution Kernel Compensation (CKC) method. HoloberW. Chen et al.
+2240018-2
+J. Mech. Med. Biol. 2023.23. Downloaded from www.worldscientific.com
+by 184.191.123.101 on 08/12/24. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+¯rst proposed the CKC method. The following equation can express the mathe-
+matical model of EMG signal convolution kernel compensation:
+XðnÞ¼HsðnÞþeðnÞ: ð1Þ
+XðnÞis the multi-channel detection signal vector after convolution. eðnÞis a zero-
+mean white noise vector N.sðnÞis an extended form of the source sequence
+sðnÞ¼½s1ðnÞ;... ;sNðnÞ/C138T.His the mixing matrix, which consists of channel
+responses (convolution kernels) of length Psamples of hij¼½hijð0Þ;... ;hijðP/C01Þ/C138
+length.
+If the jsignal source emits at time n0, then the estimate of the ¯ring sequence of
+thejsignal source can be expressed as
+sj
+n0ðnÞ¼XTðn0ÞC/C01
+XXXðnÞ: ð2Þ
+XTðn0Þis the transpose of the ¯ring sequence at time n0.C/C01
+XXis the correlation
+matrix of the detected signal with noise. The signal decomposition is performed by
+calculating the pulse ¯ring sequence of a signal source by the above formula.4The
+purpose of replacing Xðn0Þin Eq. ( 2) with an average value is to improve the
+calculation quality of sj
+n0ðnÞ. The GCKC method can process convolutionally mixed
+motion unit source signals. This method does not need to calculate the unknown
+mixing matrix and directly calculates the source signal, and it is an up-and-comingmethod for decomposing sEMG. The core idea of GCKC utilizes the principle of
+similarity to a certain extent between the ¯ring moments of the same motor unit.
+This method decomposes the sEMG by convolution kernel compensation without
+solving the matrix. GCKC has achieved good results in the application.
+2.2. MU waveform extraction
+This paper uses the gradient CKC method to decompose the sEMG signal. Then we
+used the spike-triggered averaging technique STA to extract the MU waveforms of
+the array EMG signals, respectively. In this paper, the release time obtained by
+decomposition is used as the trigger event.
+5Investigate methods for estimating
+muscle forces from MU amplitudes based on waveform amplitudes and frequencies.
+2.3. Muscle force-¯tting
+This paper uses the least-squares method to estimate the magnitude of muscle force
+based on the amplitude of the MU waveform. It is assumed that the estimated value
+of muscle force ^Fand the amplitude of MU waveform satisfy the following linear
+relationship:
+^F¼axþb; ð3Þ
+where a;bis a constant. We estimate the error ~Fbased on muscle force
+~F¼X
+ðF/C0^FÞ2: ð4ÞResearch on Sports Biomechanics in the Repair of Swimming Muscle Injury
+2240018-3
+J. Mech. Med. Biol. 2023.23. Downloaded from www.worldscientific.com
+by 184.191.123.101 on 08/12/24. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+Minimize the muscle force error denoted as ~F, ¯nd@~F
+@a¼0;@~F
+@b¼0to get the
+parameter a;b
+a¼X
+ðFi/C0/C22FÞðxi/C0/C22xÞX
+ðxi/C0/C22xÞ2
+b¼/C22F/C0a/C22x: ð5Þ
+In this paper, the parameter a;bis used to estimate muscle force.
+3. Surface EMG Signal Acquisition
+3.1. Subjects
+We recruited ¯ve subjects for muscle strength experiments. The subjects were in
+good health. The average age was 29.4 years old (25 to 36). A total of 3 males and
+two females were recruited. Before the experiment, subjects signed an informed letter
+about ethics.
+3.2. Experimental equipment
+Experiments were recorded using a combinable 128-channel REFA device. We only
+used 64 channels to acquire sEMG signals during recording. Set the bandpass ¯lter
+frequency to 10 Hz to 500Hz, and the acquisition frequency to 2048 Hz. A reference
+electrode was placed on the subject's wrist during acquisition. The force measuring
+equipment adopts self-developed equipment. We use a six-degree-of-freedom torque
+sensor to collect the torque signal and input it to the computer.6This paper uses
+virtual instrument technology to develop a human –computer interaction interface
+program. We display force magnitude and target force in real-time on the computer.
+The electrode spacing is 8.5 mm, and the electrode diameter is 5 mm.
+3.3. Experimental procedure
+Before the experiment, the subjects' skin was removed with medical abrasive cream
+and sandpaper to remove the stratum corneum on the skin of the biceps brachii. At
+the same time, use alcohol to disinfect the skin. We evenly coated the electrode arraywith conductive paste and attached it to the biceps.
+7At this point, we ¯xed it with
+tape and ensured that the electrodes were in complete contact with the skin.
+The subjects were seated in a ¯xed chair during the test. First, the issue pushed
+the handle three times with the maximum force. Hold for 2s each time, using leading
+force each time. We took the average of 3 maximal points as the subject's maximal
+contractile force (MVC). Then each subject did four groups of experiments: 5%
+MVC, 10% MVC, 15% MVC, and 20% MVC. Do isometric contractions of the biceps
+and hold each set for 30 seconds. The subject's arm was forced while the eye observed
+the magnitude of the force displayed in real-time on the computer monitor. Since the
+monitor also shows the size of the target force, the subjects must try their best to
+keep the real-time pressure consistent with the target force during the experiment.8W. Chen et al.
+2240018-4
+J. Mech. Med. Biol. 2023.23. Downloaded from www.worldscientific.com
+by 184.191.123.101 on 08/12/24. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+The subjects rested for 2 to 3 min between each experiment. This keeps the biceps
+working without fatigue. This experiment needs to ensure the sameness of the motor
+units for each release, so we ask the subject's arm to keep the arm position, angle, and
+posture unchanged during the whole process.
+4. Results and Analysis
+The paper guarantees the reliability of the decomposition results of the GCKC
+algorithm, so the maximum shrinkage force is selected as 20% MVC. This is because
+the GCKC decomposition can achieve better results under the condition of a smaller
+shrinkage force.
+The practice has proved that the more electrodes there are, the more MUs can be
+decomposed. The force used by the subjects here reached 20% MVC. We use 128
+electrodes to collect signals, and the upper and lower parts of the electrode array willundergo signi¯cant shape changes, resulting in poor contact of many electrodes. The
+64 electrodes can be placed just on the muscle belly, and the deformation of the
+muscle is relatively small at this time.
+9This does not a®ect the electrode contact.
+The distribution of the number of MUs obtained by decomposing the ¯ve subjects
+A, B, C, D, and E at 5%, 10%, 15%, and 20% MVC is shown in Table 1. The number
+of MUs is obtained while extracting the release time from the GCKC algorithm. That
+is, the release time of one MU corresponds to one MU. It can be seen from Table 1
+that with the increase of muscle strength, the recruitment number of MU increases.
+The results are consistent with previous studies.
+Figure 1shows the distribution of ¯ring timing obtained by decomposing the
+sEMG signal (Image referenced from 7 Wheels of Motion: Oscillatory Potentials inthe Motor Cortex). We used the GCKC method to obtain the timing of the motor
+unit ¯ring from the 64-channel SEMG signal. In Fig. 1, the abscissa is the release
+time, and the ordinate is the release amplitude.
+10We need to adjust the distribution
+time manually. If the distribution interval is too small, we need to delete it, and if it is
+too large, we need to increase it. This is because the motor unit ¯ring interval is in the
+range of [20 ms, 200 ms]. It can be seen from the ¯gure that the distribution time of
+MU is relatively regular. Figure 2is the MU waveform extracted by the spike-
+triggered averaging technique STA. We used a 64-electrode array to obtain 64
+waveforms. The STA implementation method is as follows: (i) We take the distri-bution time obtained by decomposition as the center. We take the ¯rst 30 ms, the
+Table 1. Number of Mus.
+Subjects 5% MVC 10% MVC 15% MVC 20% MVC
+A2 3 5 5
+B3 4 6 5
+C2 6 6 5D3 6 7 9E3 4 4 7Research on Sports Biomechanics in the Repair of Swimming Muscle Injury
+2240018-5
+J. Mech. Med. Biol. 2023.23. Downloaded from www.worldscientific.com
+by 184.191.123.101 on 08/12/24. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+middle 36 ms, and the last 30 ms as the MU waveform extraction length. This is
+based on experience. Because 96 ms can display a complete waveform, a complete
+waveform can also be obtained by appropriately changing the display length. This
+article only needs to get the waveform amplitude. (ii) The MU waveform is obtained
+by removing the average value of the entire waveform.
+Figure 3is a ¯tting curve of the sum of all MU waveform amplitudes at 5% MVC,
+10% MVC, and 15% MVC for ¯ve subjects. We get the number of MUs under various
+muscle contractions from Table 1. We stack the individual MU amplitude extrac-
+tions together to obtain the sum of all MU amplitudes under that muscle forcecontraction. It can be seen from Fig. 3that the magnitude of MU increases with
+increasing force. We can obtain the parameters of each line by ¯tting the line.
+11This
+allows us to estimate muscle strength at 20% MVC. The relevant result in the fourth
+column in Table 2is the estimated muscle strength of 20% MVC according to the
+parameters of each straight line. It can be seen that with the increase of muscle force,
+the magnitude and sum of MU are increasing. The two are linear.
+Studies have shown that in the case of muscle fatigue, the muscle motor unit will
+reduce the ¯ring frequency and increase the force output. Figure 4is the distribution
+of the average ¯ring frequency of 5%, 10%, 15% and 20% MVC motor units in 5
+Fig. 1. Distribution of MU release time.
+Fig. 2. Extracted MU waveform.W. Chen et al.
+2240018-6
+J. Mech. Med. Biol. 2023.23. Downloaded from www.worldscientific.com
+by 184.191.123.101 on 08/12/24. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+subjects. The straight line in Fig. 4is the result after ¯tting.12It can be seen from the
+¯gure that with the increase of muscle strength, the average frequency is not regular.
+This may be related to the smaller muscle strength studied in this paper. MU is in a
+non-fatigue state. Therefore, muscle motor unit ¯ring frequency is inconsistent with
+the change law of muscle motor unit ¯ring frequency when fatigued.
+Fig. 3. Amplitude ¯tting.
+Table 2. Relevant results.
+Parameter Parameter Fitting Experiment Fitting
+Subjects a b results results errors (%)
+A 1647.3 21.3 340.73 339.39 3.64
+B 947.2 19.47 209.01 344.04 39.24
+C 2432.9 44.9 461.44 449.44 2.17D 637.4 34 162.49 199.1 19.39E 1931.4 /C014.3 340.96 424.79 17.39
+Fig. 4. Average ¯ring frequency.Research on Sports Biomechanics in the Repair of Swimming Muscle Injury
+2240018-7
+J. Mech. Med. Biol. 2023.23. Downloaded from www.worldscientific.com
+by 184.191.123.101 on 08/12/24. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+Table 2shows the ¯tting results of muscle force using the least-squares method.
+We ¯t a straight line to the three data sets of 5% MVC, 10% MVC, and 15% MVC.
+We take the value at 20% MVC of the straight line and calculate the ¯tting error
+with the test result. It can be seen that only the data appropriate error of B is close to
+40%. The correct mistakes of the other four persons are all below 20%. The experi-
+mental results are acceptable. The appropriate error of subject B may be the in°u-
+ence of muscle isometric error and muscle force posture during the experiment.Because the subjects will pause and rest during the testing of 5% MVC, 10% MVC,
+15% MVC, and 20% MVC. In this way, changes in arm posture and angle a®ect the
+accuracy of the test. Therefore, subjects must maintain the same stance and pitch
+during the trial.
+Although sEMG can only record part of the MU close to the muscle surface, each
+experiment records the MU in almost the same area. So, the sEMG we get every time
+can re°ect the change of force. Since the more signi¯cant the contractile force, the
+lower the ratio identi¯ed by the decomposition algorithm, the method in this paper
+validates the case where the muscle force is relatively small. Greater muscle strength
+is for further study.
+5. Conclusion
+From the perspective of motor units, this paper studies the changing law of motor
+units' amplitude, number, and ¯ring frequency when muscle force changes. The
+magnitude and number of motor units increased with muscle force. The ¯ring fre-
+quency of MU did not show a certain regularity in the non-fatigue condition. Since it
+is di±cult for the subjects to keep the real-time muscle force utterly consistent withthe target muscle force during the experiment, the result leads to an inevitable error
+in the relevant results. However, the test results as a whole can still re°ect the
+expected e®ect. In this paper, the study of sEMG from a macroscopic perspective to a
+muscle motor unit perspective is helpful for an in-depth analysis of the relationship
+between muscle force and sEMG. This provides a new idea for the estimation of
+muscle force.
+References
+1. Costa T, Murara P, Vancini RL, de Lira CAB, Andrade MS, In°uence of biological
+maturity on the muscular strength of young male and female swimmers, J Human
+Kinetics 78(1):67 –77, 2021.
+2. Chang WCW, Yen CC, Cheng CP, Wu YT, Hsu MC, Chinese herbal decoction (Danggui
+Buxue Tang) supplementation augments physical performance and facilitates physio-
+logical adaptations in swimming rats, Pharma Biol 58(1):545 –552, 2020.
+3. Huang X, Hegazy AM, Zhang X, Swimming exercise as potential measure to improve °esh
+quality of cultivable ¯sh:A review, Aquaculture Res 52(12):5978 –5989, 2021.
+4. de Souza VL, Stutz ETG, de SF Pehrson ME, Coelho GC, Netto CC, de Maria CAB, Ilex
+paraguariensis A. St.-Hil.(Yerba Mate) di®erently regulates the lipid mobilization andW. Chen et al.
+2240018-8
+J. Mech. Med. Biol. 2023.23. Downloaded from www.worldscientific.com
+by 184.191.123.101 on 08/12/24. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+irisin and lactate levels in sedentary and chronic swimming mice, Eur J Med Health Sci
+3(6):58 –63, 2021.
+5. Moayeri A, Darvishi M, Hamidabadi HG, Mojaverrostami, S, Potential role of human
+chorionic gonadotropin supplementation in spermatogenesis in rats subjected to forcedswimming exercise, Folia Med 63(5):710 –719, 2021.
+6. Nogueira JE, Amorim MR, Pinto AP, da Rocha AL, da Silva AS, Branco LG, Molecular
+hydrogen downregulates acute exhaustive exercise-induced skeletal muscle damage, Can
+J Physiol Pharmacol 99(8):812 –820, 2021.
+7. Yildirim ECE, Dedeoglu Z, Kaya M, Uner AG, The e®ect of swimming training on
+adrenomedullin levels, oxidative stress variables, and gastrocnemius muscle contractile
+properties in hypertensive rats, Clin Exp Hypertension 43(2):131 –137, 2021.
+8. Hvas M, Folkedal O, Oppedal F, Heart rates of Atlantic salmon Salmo salar during a
+critical swim speed test and subsequent recovery, J Fish Biol 98(1):102 –111, 2021.
+9. Matias CN, Bicho M, Laires MJ, Monteiro CP, Athletes have more susceptibility to
+oxidative stress:Truth or myth? A study in swimmers, Sci Sports 35(1):20 –28, 2020.
+10. Nogueira JE, Branco, LG, Recent advances in molecular hydrogen research reducing
+exercise-induced oxidative stress and in°ammation, Curr Pharma Des 27(5):731 –736,
+2021.
+11. Wang F, E®ects of low water temperature on free radical metabolism in swimming mice,
+Revista Cient /C19{¯ca de la Facultad de Ciencias Veterinarias 30(3):1221 –1229, 2020.
+12. Sun H, Ca2 þ-ATPase activity in muscle tissue of exhausted swimming and recovery
+animals, Revista Cient /C19{¯ca de la Facultad de Ciencias Veterinarias 30(1):436 –445, 2020.Research on Sports Biomechanics in the Repair of Swimming Muscle Injury
+2240018-9
+J. Mech. Med. Biol. 2023.23. Downloaded from www.worldscientific.com
+by 184.191.123.101 on 08/12/24. Re-use and distribution is strictly not permitted, except for Open Access articles.
+

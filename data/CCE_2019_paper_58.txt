@@ -1,0 +1,260 @@
+2019 16th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE) 
+Mexico City, Mexico.  September 11-13, 2019 
+978-1-7281-4840-3/19/$31.00 ©2019 IEEE Design and implementation of motion analysis system 
+in swimming 
+ 
+Diana Laura Infante Ramírez  
+Biomedical Eng Dep 
+Guadalajaras University 
+Guadalajara, Mexico 
+diana.infante@alumnos.udg.mx  
+Marlene Alejandra Domínguez Sucres 
+Biomedical Eng Dep 
+Guadalajaras University 
+Guadalajara, Mexico ale-dgz@hotmail.com 
+ 
+Sarahí Soledad Franco Pérez 
+Biomedical Eng Dep 
+Guadalajaras University 
+Guadalajara, Mexico 
+sarai_francop@hotmail.com 
+Ilse Valeria Gómez Zavala 
+Biomedical Eng Dep Guadalajaras University 
+Guadalajara, Mexico 
+ilse-gz@hotmail.com  
+Norma Ramírez Hernández 
+Computer Science Department 
+Guadalajaras University 
+Guadalajara, Mexico 
+Norma.rhernandez@academicos.udg.mx
+ 
+ 
+Abstract — Among the most common injuries during 
+swimming are shoulder and back injuries due to poor technique. 
+This is a consequence of the amount of force applied to the shoulder joint in order to be capable of dragging the whole arm outside the water and an exaggerated undulation motion of the 
+body when submerging of bringing oneself up to start another arm 
+stroke. The purpose of this prototype is to register, analyze and visualize X and Y angles with reference to the gravitational pull in the following body segments: forearm, arm, breast and lower 
+back. With this it is possible to generate a reference with which 
+injuries can be prevented during swimming. This prototype a motion analysis protocol by means of sensors that record in real time and suggest changes to avoid injuries, portable, compact and 
+low-cost design with acceptable results.  
+Keywords— swimming, swimming techniques, sports injuries, 
+bio signals processing 
+I. INTRODUCTION  
+Swimming is within the three disciplines that make up the 
+triathlon, and is the least impact. However, due to its constant 
+repetitive movements it can be much more harmful than we initially believe. Like other sports, swimming has a series of common injuries among those who practice it. Although they are usually milder injuries than those of other disciplines, if they are not treated properly they can become a real problem. The shoulders and knees are the parts most affected by the most common swimming injuries [1, 2, 3]. In the greater case, the injuries in the shoulder are given by a deficiency in the technique due to the amount of force that is exerted on the articulation to be able to remove the whole arm of the water. With this project it is sought to register, analyze and visualize the angles between the forearm, the arm and the trunk to help avoid injuries. 
+Although this sport can help strengthen a large majority of 
+muscles, poor technique may result in wear or joint dislocation, damage to joints, etc. The best we can do to prevent this injury 
+is a good correction technique. This results in a less amount of stress for our joint, this project will focus mainly Butterfly Swimming Technique because that is the style that causes lesions and joint wear.  
+A. Butterfly Swimming Technique 
+The butterfly swimming technique is a variation breaststroke 
+in which both arms are brought forward together over the water and then back while underwater. It is notable for being the most demanding in the amount of force required and the complexity of the technique stroke. This style requires the body to perform upward and downward wave movements while keeping it in a 
+horizontal position. In water, the swimmer adopts two extreme 
+positions: the hip and upper legs and trunk and submerged heads; Submerged hip and legs and head and upper trunk [4, 5, 6]. (Figure 1.a and 1.f). 
+  The technique is mainly divided into two phases, aquatic 
+and air phases. 
+ 
+Fig. 1.  Phases of Butterfly Swimming Technique. 1.a) First extreme position. 
+Entrance to the water. 1.b) Check the water after stretching arms. 1.c) Pull 
+out. 1.d) Average position between the end of pull and push start. 1.e) Push. 1.f) Second extreme position. 1.g) output drive with lateral arms. 
+1.h) water inlet arms). 
+• Aquatic phase  
+o Input. The hands enter the water and then stretched to 
+make a downward and backward. Elbow ends in high 
+
+position. Just before this movement the second kick is 
+performed. 
+o Pull out. Hands go back. It is an intermediate 
+phase between the grip and the push. Hands are very close to each other under the body, reaching draw an "8". 
+o Propulsion. It matches the first kick and breath. 
+Swimmer palms are back. The kick must be strong, but without pulling the body down. For breathing, the neck is s lightly flexed, allowing the 
+chin be touching the water. The chest should not come out of the water. At the end of the stroke the palm is oriented upwards before being removed to initiate the aerial recovery 
+• Air phase. Water enters the head with the neck flexed water 
+passage opening with the front. The arms are stretched 
+pulling water laterally palms open outward. At the end the second kick is given, which is the strongest and helps to close the impulse forward of the body 
+ 
+B. Common injuries 
+The most common injuries in this technique, are listed below 
+[6, 3, 7, 8] 
+• Swimmer's shoulder. It occurs mainly when exerting a force 
+at the start of the stroke by different factors from reduced internal rotation force or simply bad technique. 
+• Knee. When the breaststroke is  swollen, the legs extend 
+rapidly and rotate outward, subjecting the inner part of the knee to a great deal of stress. 
+• Low back pain. Due to the undulation that has to be done in 
+the middle area of the body. The wave motion of the body can generate a stretching of muscles or ligaments or microscopic tears. To avoid it, exercises are performed that strengthen the lumbar area and stretches that prepare it for wave motion 
+This is a proposal for the de velopment and implementation 
+of a biomedical device with a friendly interface and support for the improvement of swimming technique and thus avoid possible injury. 
+C. Hardware 
+• Accelerometer. An accelerometer measures acceleration in 
+G forces ms2 or (g). Its operation is based on electromechanical principles detecting acceleration forces static or dynamic. These forces include gravity in static matter and vibrations and dynamic movement in question. The acceleration is determined through the change of capacitance of internal capacitive plates due to the movement and the force of gravity acting through said plates. It is then that the orientation of the sensor can be deduced according to the capacitance of the plates. 
+• Gyroscope. It is a device that measures the rotation in the 
+middle of the angular velocity. Its operation is based on the rotation of a wheel, which measures the revolutions per second (rps) or degrees per second (s). With this unit the angular velocity of a single axis is determined. If it aligns 
+with other axes of rotation you can obtain a 3-axis gyroscope.  
+The sensor chosen was the MPU 6050 GY-521 3 Axis Gyro 
+Accelerometer Sensor Module Arduino, see Fig.2. The MPU-6050 sensor module contains an accelerometer and a gyro in a single chip. It is very accurate, as it contains 16-bits analog to digital conversion hardware for each channel. Therefore it captures the x, y, and z channel at the same time. The sensor uses the I2C-bus to interface with the Arduino Nano.  
+ 
+Fig. 2.  Schematic conection 
+Given the values of linear acceleration and angular velocity 
+in the X, Y and Z can calculate effectively angles X and Y with respect to the force of gravity is applied. 
+ܽ௫௣ൌ݊ܽݐ ିଵሺି௔ೣ
+஺ோ/ඥሺܽ௬/ܴܣሻଶ൅ሺܽ௭/ܴܣሻଶሻൈଵ଼଴
+గ       eq.1 
+ܽ௬௣ൌ݊ܽݐ ିଵሺ௔೤
+஺ோ/ඥሺܽ௫/ܴܣሻଶ൅ሺܽ௭/ܴܣሻଶሻൈଵ଼଴
+గ       eq.2  
+Linear acceleration of X and Y axis based on acceleration 
+obtained respectively. Where: 
+ܽ௫௣, is the acceleration calculated on the X axis, 
+ܽ௬௣, is the acceleration calculated on the Y axis, 
+ܴܣ = 16384.0 is the constant relationship between the data 
+yielded linear acceleration and the actual value, 
+ܽ௫, is the value of acceleration on the x axis, 
+ܽ௬ , is the acceleration value on the Y axis and 
+ܽ௭ , is acceleration value Z axis. 
+݃௫௣ൌ௚ೣ
+ீோ      eq.3  
+݃௬௣ൌ௚೤
+ீோ      eq.4  
+With eq. 3 and 4, real values of angular velocity are obtained. 
+Where: 
+݃௫௣, angular velocity on the X axis, 
+݃௬௣, angular velocity on the Y axis, 
+ܴܩ = 131.0, constant of relation between the data of angular 
+speed and the real value. 
+A complementary filter is applied to have a more accurate 
+reading, and avoid small cumulative errors over time and prevent the signal from being altered. 
+࢞̂ൌ0 . 9 8ሺ࢞̂࢕࢏࢜ࢋ࢘࢖൅ࢍ࢖࢞൅࢚ሻ൅ሺ૙.૙૛ൈࢇ࢖࢞ሻ      eq.5 
+
+ŷ ൌ 0.98ሺ ŷ࢕࢏࢜ࢋ࢘࢖൅ࢍ࢖࢟൅࢚ሻ൅ሺ૙.૙૛ൈࢇ࢖࢟ሻ      eq.6 
+Complementary filter is applied where: 
+࢞̂ From angle in x with respect to the horizon, 
+ŷ From angle in and with respect to the horizon, 
+࢞̂࢕࢏࢜ࢋ࢘࢖  Previous calculated value of x with respect to the 
+horizon, 
+ŷ࢕࢏࢜ࢋ࢘࢖  Previous calculated value of y with respect to the 
+horizon, and 
+t time between the taking of  ࢞̂࢕࢏࢜ࢋ࢘࢖  and ࢞̂. 
+II. METHODOLOGY  
+This paper presents the desi gn and implementation of the 
+methodology of evaluation and correction butterfly swimming technique, see Fig. 3.  
+Data recording was carried out first outside the pool and then 
+inside it with normal swimmers practice routines, the device designed was "electrically isolated" for operation inside the pool. Each subject was registered  for five consecutive days, all 
+in the same conditions. The angl es between the sections of each 
+of the stereotactic points shown in Fig. 4 were recorded. 
+The implementation of a graphic interface, has as main 
+objective to support the coach (or caregiver) in therapy and 
+rehabilitation in real time, providing feedback to the patient (and / or user), with this they prevent injury by early detection of non-natural or forced movements. 
+ 
+ 
+Fig. 3.  Flow diagram of signal processing of biosensors. 
+ 
+A. Control subjects 
+10 Male subjects in an age range of 20 years ± 5, regular 
+practicing swimmers from the Olympic pool of the University of Guadalajara, based at the University Center of Exact Sciences and Engineering [9] B. Biosignal registration 
+The aim is to develop a graphic interface that processes the 
+angles of the main segments of the body during swimming in order to facilitate the detection of hyperextensions and the technique to reduce the risk of injury. Biosensors through strategically placed (see Fig. 4 an d Table 1), the registration is 
+made for further processing. 
+Biosignal processing is selective to each sensor during 
+swimming practice in order to facilitate detection of hyperextension and thereby reduce the risk of injury by an analysis of data, as shown in Fig.5. 
+ 
+ 
+Sensor Placed 
+Breastbone Breastbone is at the center of the 
+breastbone 
+Arm Above the humerus mid-length of the 
+bone and on the side of the corresponding side  
+Forearm halfway between the wrist and elbow 
+flexion over the radius of each arm 
+Back In the lower back, ideally between 
+the lumbar 4 and 5 
+Thigh On the femur halfway between the 
+hip joint and the kn ee in the anterior 
+part. 
+foot instep On the tibia, midway between knee 
+and ankle anteriorly. 
+Fig. 4.  Stereotactic position registration of biosignals. 
+ 
+ 
+Fig. 5.  Risk analysis according to the technique used. 
+Start 
+Communication and 
+Serial - Bluetooth 
+Communication and 
+Serial - Bluetooth 
+Accelerometer 
+& Gyroscope 
+Processing signals 
+All sensor 
+User Interface and 
+reports 
+C. Algorithm implementation  
+To register data (Arduino and user interface), we use MatLab 
+language. The advantage of MATLAB is, we can see the results of I/O operations quickly (without compiling). 
+ 
+III. R
+ESULTS AND CONCLUSIONS  
+Technical skill is one of the main determinants of success 
+among competitive swimmers. Unfortunately, the biomechanical differences that make one swimmer more profitable than another (or have injuries) are not easy to identify. 
+A submersible, light, hydrodynamic and inexpensive 
+equipment which allowed to measure the angles of the main body segments during swimming in order to facilitate detection 
+and hyperextension and the technique for reducing the risk of injury was developed. See Figure 6. 
+In Figure 6, we can observe and start the stroke, but around 
+the sample 30 (point a) is stopped and the stroke is resumed from the sample 70, stabilize the image from the sample 120 (point b). It can be seen as the angles of the left arm span a wider range of movement of the right arm. From these data it can be concluded that a non-uniform movement is being generated 
+between the arms, although the phases of the stroke coincide. 
+ 
+ 
+Fig. 6.  Left arm (red), Right arm (blue). Point a) Pause during motion capture. 
+Point a) Stability of stroke with anomalies. 
+The main lesions are observed in a group of male and female 
+swimmers between 15 and 25 years old. It is found that the most common injuries due to poor technique, or effort. The position of the main segments of the body is monitored in real time such 
+Sternum, Lumbar column, Humerus (left and right), Ulna (left and right). 
+They are located in the poin ts previously listed that 
+communicate the information through Bluetooth, they are sent to the user interface to be processed in real time and plot them. 
+The user interface are configurable, the user can modify the 
+alerts to give a personalized practice and keep the record per patient, to validate the progress in the training sessions and these are evaluated objectively and not subjectively. 
+  
+ 
+R
+EFERENCES  
+. 
+ 
+[1] M. L. e. a. Sein, "Shoulder pain in elite swimmers: 
+primarily due to swim-volume-induced supraspinatus tendinopathy.," 
+British journal of sports medicine, 2010, 
+vol. 44, no. 2, pp. 105-113, 2010.  
+[2] A. e. a. Tate, "Risk factors associated with shoulder pain 
+and disability across the lifespan of competitive 
+swimmers," Journal of athletic training, vol. 47, no. 2, 
+pp. 149-158, 2012.  
+[3] T. R. Johnston, "Shoulder injuries and conditions in 
+swimmers," Endurance Sports Medicine, vol. 1, no. 1, pp. 
+127-138, 2016.  
+[4] E. Nicol, "The biomechanics of freestyle and butterfly 
+turn technique in elite swimmers," Sports biomechanics, 
+vol. 1, no. 1, pp. 1-14, 2019.  
+[5] K. Miriam, "Butterfly swimming technique variations 
+during an exhaustive swim exercise," in 11th 
+INTERNATIONAL CONFERENCE O N 
+KINANTHROPOLOGY , 2017.  
+[6] A. AVERIANOVA, "Rotational kinematics of pelvis and 
+upper trunk at butterfly stroke: Can fins affect the dynamics of the system?," Journal of biomechanics, vol. 
+49, no. 3, pp. 423-428, 2016.  
+[7] A. V. Vasiliadis, "Swimmers Are At Risk For Stress 
+Fractures? A Systematic Review," 
+International Journal 
+of Kinesiology and Sports Science, vol. 6, no. 3, pp. 25-
+31, 2018.  
+[8] J. Bailón-Cerezo, "Shoulder Pain Prevalence in 
+Competitive Swimmers: A Pilot Study," Revista 
+Internacional de Medicina y Ciencias de la Actividad 
+Física y del Deporte, vol. 1, no. 1, p. 62, 2016.  
+[9] U. d. Guadalajara, "Swimming pool," [Online]. 
+Available: http://udg.mx/es/servicios/universitarios/alberca-ol-mpica. 
+[10] Arduino. [Online]. Available: https://www.arduino.cc/. 
+[Accessed 1 5 2019]. 
+ 
+ 
+ 
+ 
+ 
+

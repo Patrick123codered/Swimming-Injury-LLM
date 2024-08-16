@@ -1,0 +1,255 @@
+Wilderness and Environmental Medicine, 14,255 260 (2003)
+COLLECTIVE REVIEW
+Injuries Associated With Whitewater Rafting
+and Kayaking
+David C. Fiore, MD
+From the University of Nevada School of Medicine, Department of Family and Community Medicine, Reno, NV.
+Whitewater rafting and kayaking are growing exponentially in popularity, with almost 10 million
+rafters and 2 to 3 million kayakers, yet little has been published concerning the safety or hazards of
+these activities. This article reviews the demographics of such injuries and the types of injuries com-monly encountered. Fortunately, fatalities are uncommon in these activities, with rafting and kayakingfatalities occurring at a rate of 0.55 and 2.9 per 100 000 user days, respectively. Injury rates forkayaking and rafting are 3 to 6 and 0.26 to 2.1 per 100 000 boating days, respectively. Acute injuriesin kayaking are usually due to the transferred force of the water on the upper extremity, most oftenthe shoulder, or the impact on an object while ‘‘swimming.’’ Acute rafting injuries are more oftendue to contact with another rafter’s paddle or other equipment; the next most common injury is therafter hitting an object while ‘‘swimming.’’ Chronic injuries are very uncommon in rafting but accountfor 25% to 40% of all kayaking injuries and are most often either shoulder or wrist complaints.
+Key words: injury, sports, wilderness, kayak, raft
+Introduction
+Whitewater kayaking, rafting, and canoeing are fast be-
+coming some of the most popular new ‘‘adventuresports,’’ with images of kayaking and rafting used inadvertising for everything from soft drinks to automo-biles. As the popularity of whitewater boating continuesto increase, physicians may expect to see more patientswho are injured by this activity. Although, to my knowl-edge, no prospective studies of whitewater boaters havebeen performed to assess true injury rates, there havebeen a number of retrospective studies as well as casereports of fatalities that allow us to develop an under-standing of some of the risks involved in whitewaterboating.
+Background and demographics
+The difﬁculty of a whitewater rapid is graded on a scale
+from I to VI, with class I water being the easiest (es-sentially moving ﬂatwater) and class VI the most difﬁ-cult (which is rarely, if ever, run, and then only with a
+Corresponding author: David C. Fiore, MD, University of Nevada
+School of Medicine, Department of Family and Community Medicine,
+Reno, NV 89557 (e-mail: ﬁore@unr.edu).
+Reprints not available from the author.high risk of death) (Table 1). There is a move aﬂoat,
+however, to create an ‘‘open-ended’’ class IV (ie, class5.x), as in rock climbing. As boat, especially kayak, con-struction has advanced, previously unrunnable rivers andrapids are increasingly challenged and successfully run.Additionally, kayak construction has evolved along withthe new sport of ‘‘play’’ or ‘‘rodeo’’ boating, in whichparticipants intentionally go into a hydraulic (hole) andperform both vertical and horizontal maneuvers. In2002, the Teva Tour hosted 14 National Whitewater Ro-deo Competitions, in addition to countless local com-petitions.
+Rafting participants far outnumber kayakers, but this
+is largely because participants in commercial raftingtrips go no more than once or twice a year, thus exposingmore people to rafting. Recent estimates place the num-
+ber of rafting participants at 9.8 million, with more than3 million participants considered ‘‘enthusiasts’’ (ie, thosewho have rafted more than twice in the past year).
+1Ac-
+cording to the Outdoor Industry Association, in 2000,there were 6.5 million kayakers, with the number of kay-akers growing ‘‘explosively.’’ Of the 6.5 million kay-akers, between 1.4 and 2.8 million are whitewater kay-akers, with a growth of almost 15% annually.
+1,2Kay-
+akers are almost 70% male, whereas the male:femaleratio of rafters is somewhat more reﬂective of the US
+256 Fiore
+Table 1. River difﬁculty rating
+River
+class Explanation
+Class I Easy—waves small; passages clear; no serious
+obstacles
+Class II Medium—rapids of moderate difﬁculty with
+passages clear
+Class III Difﬁcult—rapids are longer and rougher than
+those of class II. Many larger, irregular
+waves with rock and other features that re-quire maneuvering. Scouting recommended
+Class IV Very difﬁcult—rapids are generally longer,
+steeper, and more heavily obstructed thanclass III rapids. Powerful and irregularwaves, requiring precise maneuvering. Scout-ing required if the rapid is not known
+Class V Extremely difﬁcult—long, difﬁcult, and violent
+rapids; often multiple rapids with very littleinterruption. Extremely congested and ob-structed river with large drops and steep orcongested routes. Scouting mandatory butdifﬁcult. Risk of death is signiﬁcant
+Class VI Extreme and expedition—often considered
+‘‘unrunnable.’’ Extremely dangerous and dif-ﬁcult. For groups of extremely skilled boat-ers only. Once such a rapid has been repeat-edly run, it is usually reclassiﬁed as a Class5.x. Risk to swimmers and boaters is ex-tremely high.Table 2. Fatality rates
+ActivityFatality rate
+per million
+participant days Reference
+KayakingRaftingTrekkingSkydivingScuba divingAlpine skiingDriving*8.7–2.24.5–8.7
+5–15
+8.73.10.57
+15233,4
+2627282829
+*Assumes 1 day of driving is 100 miles.
+population at 55% male and 45% female. Participants in
+both sports are overwhelmingly white (90% or more).The demographics of injured kayakers and rafters reﬂectthe population that participates in these sports.
+Fatalities
+Death is obviously the most feared consequence of a
+whitewater mishap. Fortunately, deaths are relativelyrare in these sports. A report from American Whitewater
+in 2000 by Laura Wittmann,
+3based on data from 30
+managed rivers from 1994 to 1998, calculated the fatal-ity rate of all whitewater participants (rafters, canoeists,and kayakers) at 0.87 per 100 000 user days. Data fromWest Virginia from 1984 to 1999 showed only 11 fatal-ities in approximately 2 million commercial rafters, fora fatality rate of 0.55 per 100 000 rafter days.
+4Exam-
+ining only whitewater kayakers and using a very con-servative estimate of the total number of whitewaterkayakers in 1998 (700 000), Wittmann
+3calculated the
+fatality rate per 100 000 participants to be 2.9. The fa-tality rates of other outdoor sports are listed in Table 2for comparison.
+Charlie Walbridge has examined whitewater fatalities
+as far back as the early 1970s and, along with J. Tinsley,has published 5 anthologies on the topic.
+5–9His reports
+focus on individual events as a way of helping othersavoid similar situations. He notes that the number ofwhitewater fatalities has increased in recent years, butthis may merely reﬂect the growth that these sports areexperiencing. He also documents and comments on thefact that there are 2 distinct types of whitewater fatali-ties. The ﬁrst, which has been an issue for many years,is the inexperienced rafter, canoeist, and, less frequently,kayaker who gets caught in a situation above his or hercapability. The second most common type of whitewaterfatality involves highly accomplished boaters, usuallykayakers, attempting extremely dangerous whitewater.Unfortunately, it appears that the latter type of fatalityhas been on the rise for the past few years.
+Typical of this type of fatality, as detailed in the
+following discussion, is the case of Witt Mills, an ac-complished kayaker from Oregon. While visiting fam-ily and friends in North Carolina, he joined a stronggroup of kayakers on the class V ‘‘Narrows’’ sectionof the Green River. According to a description pub-lished by Mr Walbridge in American Whitewater, Mr
+Mills missed a key left-to-right ‘‘boof’’ (ﬂat jump offa small drop) and pinned his boat vertically. Despitecourageous and well-coordinated rescue attempts, hewas not rescued and, in fact, the would-be rescuerscould not retrieve the body until after the dam-con-trolled release of water to the river was completed (seehttp://www.americanwhitewater.org/safety/archive/id/669/).
+Drownings such as these are particularly troubling for
+several reasons. First, they almost always involve ayoung, healthy, active individual whose life is suddenly
+257 Whitewater Injuries
+cut short. The personal and family tragedy is obviously
+overwhelming. Second, as in the Mills case, there is of-ten not an easily identiﬁable and correctable ‘‘error.’’Rock and mountain climbers have long accepted the no-tion of ‘‘inherent risk’’ in their sports. Perhaps white-water boaters also accept the inherent risk of their sport,but it is unclear whether this concept is accepted by theAmerican population at large (as witnessed by wilder-ness and adventure activity liability lawsuits and at-tempts to limit access on the basis of risk).
+Injuries
+Whitewater injuries generally fall into 4 main categories
+on the basis of the etiology of injury: 1) trauma fromstriking an object—in the river or on another partici-pant’s equipment; 2) traumatic stress from the interactionof the paddler’s positioning and equipment and the forceof the water; 3) overuse injuries; and 4) submersion andenvironmental injuries.
+10–13
+The analysis and comparison of studies on whitewater
+injuries are somewhat limited by the different method-ologies of the studies. Although all the studies locatedwere retrospective, they varied on the deﬁnition of in-juries, method of data collection, and type of boatinginvolved.
+Kayak injuries
+INJURY RATESAs mentioned, because of the retrospective nature of the
+previously cited studies, it is not possible to calculatetrue injury rates. However, a general sense of injury fre-quencies can be obtained by looking at the studies byFiore and Houston
+10and Schoen and Stano.11For ex-
+ample, Schoen and Stano reported 4.5 injuries per 1000kayaking days, with 1.9 injuries per 1000 days whenmedical intervention was sought. Fiore found there werebetween 3.6 and 5.9 injuries per 1000 kayaking days,with half of the injured kayakers seeking medical care(D.C.F ., unpublished data, 2001). A New Zealand studyof accidents in the adventure tourism industry had amuch lower injury rate of 14 per ‘‘million participationhours.’’
+14If each kayaking day is assumed to be 8 hours,
+then the corresponding rate of injuries is only 0.1 per1000 kayaking days. However, this study did not sepa-rate ﬂatwater (lake and sea) kayaking from whitewaterkayaking.
+ACUTE INJURIES: MECHANISM AND TYPE
+To my knowledge, 3 survey studies on whitewater kay-
+aking injuries have been published, the ﬁrst in 1987 andthe other 2 in 2001 and 2002. Blisters were the mostcommon minor injury, reported by 30% of respondentsin the 1987 study by Kizer
+12and reported by more than
+90% in the 2002 study by Schoen and Stano.11Other
+than blisters, acute injuries were most commonly due tostriking an object in the river or the force of the wateron the kayaker’s equipment (as in an overextended pad-dle brace). All 3 studies found the upper extremity, es-pecially the shoulder, to be the most commonly injuredpart of the body.
+10–12Shoulder dislocations, occurring
+in 5% to 15% of injured kayakers, accounted for the vastmajority of all dislocations and were the most signiﬁcantinjury to the upper extremity.
+10–12Shoulder injuries are
+so common—and feared—among kayakers that theAmerican Whitewater safety card (a plastic card meantto be carried in the boat) includes information on howto treat a shoulder dislocation while on the river. Theprimary cause for this injury in kayaking is impropertechnique. Paddlers often abduct and externally rotate atthe shoulder while paddling downriver or while playing.Maneuvers that are particularly risky include high-brac-ing (preventing themselves from capsizing by sculling[pushing/sliding] their paddle on the water), ‘‘eskimorolling,’’ and many rodeo moves. In an effort to preventshoulder dislocations, most instructors emphasize theimportance of limiting shoulder exposure by keeping thearms tucked in close to the body. To my knowledge, nostudies have yet been performed to examine the effec-tiveness of these efforts.
+The face, head, and neck region are the next most
+frequently injured areas of the body. Unfortunately,these studies did not separate injuries to the face vs thehead or neck. Obviously, closed head injuries would bea major concern because of the likelihood of drowning.Because these studies used retrospective surveys, it isunlikely that any signiﬁcant closed head injuries weresustained by responders. In the author’s experience,however, facial trauma is fairly common, and some kay-akers have begun wearing face guards on their helmets.
+CHRONIC KAYAK INJURIES
+Chronic injuries, typically of the upper extremity, are
+fairly common in kayakers, accounting for 25% to 40%of all injuries.
+10,11The overwhelming majority of these
+injuries are to the upper extremity, most often the shoul-der or wrist. The shoulder is vulnerable to overuse in-juries due to improper technique, especially while surf-ing or playing in hydraulics or ‘‘holes.’’ Kayakers mayalso develop a de Quervain tenosynovitis, related to theconstant wrist ﬂexion and extension as the paddler al-ternates the blade in the water.
+15,16Newer paddles with
+reduced blade offset and bent-shaft paddles have been
+258 Fiore
+developed to alleviate this strain, but no studies have
+been performed to document improvement. Another fair-ly common complaint among kayakers is low backstrain.
+11,16Schoen and Stano11noted that back injuries
+accounted for slightly less than 15% of injuries. Theyalso noted that the new style of ‘‘play boating’’ mayaccount for an increase in chronic back strain.
+INJURY SEVERITY
+Fortunately, very few kayaking-related injuries are se-
+vere. Fiore and Houston
+10found that although 51% of
+the injured kayakers sought medical attention, less than5% reported less than a good recovery. Schoen andStano
+11had similar ﬁndings, with 47% of acutely injured
+kayakers and 36% of chronically injured kayakers seek-ing medical care. Chronic injuries were associated withthe most prolonged symptoms in both of these stud-ies.
+10,11Obviously, because of the retrospective nature
+of these studies, serious injuries that led to the partici-pant no longer kayaking were missed.
+Rafting injuries
+INJURY RATESThe best data on injury risks in whitewater rafting come
+from the West Virginia data compiled by Whisman andHollenhorst
+17and Whisman,18in which they found in-
+jury rates of 0.26 to 0.44 per 1000 rafter days. Unfor-tunately, as Whisman mentions, ‘‘The accuracy of injuryincidence rates in commercial rafting is questionable be-cause of suspected over-reporting of minor injuries thatmay not meet the reporting criteria, and by veriﬁcationcomplexities that preclude the determination of howmany possibly reportable injuries go unreported.’’
+18The
+New Zealand adventure tourism study calculated an in-jury rate of 537 per million participant hours.
+14If we
+again assume that an average day on a river is 8 hours,this translates into an injury rate slightly less than 1 per1000 days, which is on par with the injury rate for white-water kayaking as noted above.
+ACUTE INJURY: MECHANISM AND TYPE
+Rafters share the same risk of submersion and ‘‘swim-
+ming’’ hazards as kayakers, but because of differencesin equipment, rafters have unique injury risks. Whismanand Hollenhorst
+17analyzed injury reports from com-
+mercial rafters on 4 West Virginia rivers from 1995 to1997. They found that slightly more than half (51%) ofthe injuries occurred while the boater was in the raft,often the result of being struck by a paddle or otherrafting equipment. The second most common cause ofinjury was the rafter being thrown from the raft andstriking an object while ‘‘swimming’’ in the river (40%);next most common were injuries onshore, accounting for8% of all injuries. Similar injury proﬁles were reportedby the Arkansas Headwaters Recreation Area in 1997.
+19
+Compared to kayaking, many more raft injuries were tothe face (33%) and to the knee (15%), with the shouldertrailing at only 6%.
+19Lacerations are also more common
+among rafters, occurring in one third of injured raftersin the West Virginia rivers study.
+17
+CHRONIC INJURIES
+Chronic injuries appear to be much less common in raft-
+ers than in kayakers. Only 13% of rafting injuries havebeen found to be chronic, compared to 25% to 40% ofkayaking injuries (D.C.F ., unpublished data, 2001). Themost obvious explanation for this is that there are manymore occasional, commercial rafters than there are kay-akers. Unfortunately, the only study addressing the in-juries suffered by whitewater raft guides was a case re-port of an outbreak of staphylococcal skin infections.
+20
+INJURY SEVERITY
+There are very few data available to determine the se-
+verity of rafting injuries. Of the injured rafters reportedin the West Virginia study, 60% were able to continuetheir trip down the river on the raft.
+17
+MISCELLANEOUS RISKS
+Kayakers and rafters are at risk for infectious diseases
+such as giardiasis, reported in as many as 14% of par-ticipants.
+13,17Other, less common illnesses may relate to
+the locale of the whitewater trip, with cases of schisto-somiasis, leptospirosis, and hemlock poisoning havingbeen reported on rafting trips.
+21–23Other well-recog-
+nized risks run from the mundane but frequent sunburnto potentially fatal hypothermia due to cold water im-mersion.
+13,24
+Conclusion
+Whitewater rafting and kayaking are exciting sports that
+are currently undergoing phenomenal growth. Althoughrisk is inherent in all ‘‘adventure’’ sports, the fatality riskof whitewater boating (29 per million kayaking days,5.5–8.7 per million rafting days) is on par with other‘‘adventure’’ sports (Table 2).
+25–28Deaths from these
+sports are always tragic and premature, and the deathrate in kayaking may be climbing, especially at the ‘‘ex-
+259 Whitewater Injuries
+treme’’ edge of the sport. For comparison, however, in
+2001, the highway fatality rate in the United States was1.52 per million miles traveled.
+29If we very conserva-
+tively estimate that the average distance traveled to kay-ak or raft is 50 miles (100 miles round-trip), that wouldmean the average whitewater boater has a fatality riskof dying on the highway of 152 per million trips, sig-niﬁcantly higher than the risk of dying on the river!
+Because of different methods of tabulating injuries,
+comparisons of injury rates between sports are problem-atic. Injury rates in kayaking and rafting, in the rangeof 2 to 6 per 1000 activity days, are similar to those inmountain bike racing (4 per 1000 starts).
+The injuries that do occur in rafting and kayaking ap-
+pear to result from different mechanisms, with most raftinjuries suffered by contact with equipment on the raftbut most kayaking injuries suffered because of 1) contactwith objects in the river, or 2) the stress of the river onthe kayaker’s equipment (and transmitted to his or herbody). Likewise, we found different injury types in the2 sports, with facial injuries, especially lacerations,much more prevalent in rafting and shoulder injuriesmore common in kayaking.
+Efforts to reduce the number of injuries in whitewater
+rafting and kayaking will likely need to focus on differ-ent approaches. Because the overwhelming majority ofrafter days are by commercial rafters and because manystates and localities regulate commercial rafting, requir-ing outﬁtters to limit the number of rafters in each boatand requiring rafters to wear helmets, possibly with facemasks, may be 2 feasible approaches.
+Because kayaking, on the other hand, is a much more
+individualistic sport, it would be futile to attempt to leg-islate approaches to limit injuries. Rather, injury preven-tion in kayaking will probably have to focus more onequipment changes and education. Some potential equip-ment modiﬁcations that may reduce injuries includebent-shaft and reduced blade offset paddles and the useof face masks. Educational efforts will need to be tai-lored to the skill level of the boaters being targeted. Forthe large number of occasional boaters, education aboutriver safety may be effective. The skilled ‘‘extreme’’kayaker, however, is unlikely to need, or respond to, gen-eral river safety education. Educational efforts to limitinjuries and death in these athletes will likely need tobuild on a better understanding of risk-taking behaviorin elite athletes.
+Future directions of study include assessments of ini-
+tiatives to lower injury and fatality rates. These studieswould most likely need to take a variety of formats in-volving disparate ﬁelds. For example, studies of equip-ment changes could incorporate bioengineering data aswell as ongoing outcomes data, while efforts to educatethe public about risks would need to incorporate assis-
+tance from the public health and safety ﬁelds. Lastly,efforts to alter risk-taking behaviors would likely beneﬁtfrom collaboration with colleagues in psychology.
+References
+1. Outdoor Industry Association. Outdoor Recreation Partic-
+ipation Study for the United States. 3rd ed. Boulder, CO:
+Outdoor Industry Association; 2000.
+2. Cordell H, Teasly J, Super G. Outdoor Recreation in the
+United States: Results From the National Survey on Rec-
+reation and the Environment. Washington, DC: US Forest
+Service; 1997.
+3. Wittmann L. Kayaking is safer than you might think (re-
+ally!). American Whitewater. September–October 2000:
+100–101.
+4. Mason M. West Virginia whitewater stays the course for
+30 years. Charleston Gazette. August 2, 1998:1c, 5c.
+5. Walbridge C, ed. The Best of the River Safety Task Force
+ONewsletter. Lorton, VA: American Canoe Association;
+1983.
+6. Walbridge C, ed. American Canoe Association: River
+Safety Report 1982–1985. Lorton, VA: American Canoe
+Association; 1986.
+7. Walbridge C, ed. American Canoe Association: River
+Safety Report 1986–1991. Newington, VA: American Ca-
+noe Association; 1992.
+8. Walbridge C, ed. American Canoe Association: River
+Safety Report 1992–95. Newington, VA: American Canoe
+Association; 1996.
+9. Walbridge C, Tinsley J. River Safety Anthology 1996–
+1999. Birmingham, AL: Menasha Ridge Press; 2000.
+10. Fiore DC, Houston JD. Injuries in whitewater kayaking.
+Br J Sports Med. 2001;35:235–241.
+11. Schoen RG, Stano MJ. Year 2000 whitewater injury sur-
+vey. Wilderness Environ Med. 2002;13:119–124.
+12. Kizer K. Medical aspects of white-water kayaking. Phys
+Sports Med. 1987;15:128–137.
+13. Kizer K. Medical problems in whitewater sports. Clin
+Sports Med. 1987;6:663–669.
+14. Bentley TA, Page SJ, Laird IS. Safety in New Zealand’s
+adventure tourism industry: the client accident experience
+of adventure tourism operators. J Travel Med. 2000;7:
+239–245.
+15. Shepard RJ. Science and medicine of canoeing and kay-
+aking. Sports Med. 1987;4:19–33.
+16. Burrell C, Burrell R. Injuries in whitewater paddling. Phys
+Sports Med. 1982;10:119–124.
+17. Whisman SA, Hollenhorst SJ. Injuries in commercial whi-
+tewater rafting. Clin J Sport Med. 1999;9:18–23.
+18. Whisman SA. Injuries in commercial whitewater rafting
+1998 annual report. West Virginia Division of Natural Re-sources. Available at: http://www.aceraft.com/mediapg/medapg29.html. Accessed December 2, 2001.
+19. Arkansas Headwaters Recreation Area End of the Season
+260 Fiore
+Report 1997. Boulder, CO: Bureau of Land Management
+and Colorado State Parks; 1998.
+20. Decker MD, Lybarger JA, Vaughn WK, Hutcheson RH
+Jr,Schaffner W . An outbreak of staphylococcal skin infec-
+tions among river rafting guides. Am J Epidemiol. 1986;
+124:969–976.
+21. CDC. Outbreak of leptospirosis among white-water raf-
+ters—Costa Rica, 1996. MMWR Morb Mortal Wkly Rep.
+1997;46:577–579.
+22. Istre GR, Fontaine RE, Tarr J, Hopkins RS. Acute schis-
+tosomiasis among Americans rafting the Omo River, Ethi-opia. JAMA. 1984;251:508–510.
+23. Landers D, Seppi K, Blauer W . Seizures and death on a
+White River ﬂoat trip. West J Med. 1984;142:637–640.
+24. Baker S, Atha J. Canoeists’ disorientation following cold
+water immersion. Br J Sports Med. 1981;15:111–115.25. Kronisch RL, Chow TK, Simon LM, Wong PF . Acute in-
+juries in off-road bicycle racing. Am J Sports Med. 1996;
+24:88–93.
+26. Shlim DR, Houston R. Helicopter rescues and deaths
+among trekkers in Nepal. JAMA. 1989;261:1017–1019.
+27. US Parachute Association. Skydiving stats. Available
+at: http://www.uspa.org/PageOneLinks/Stats.Releases/Statistics.htm. Accessed December 3, 2001.
+28. NSAA facts about skiing/snowboarding safety (October
+26, 2000). Available at: http://www.nsaa.org/safety/facts /H14062about.asp. Accessed December 3, 2001.
+29. USDOT releases 2001 highway fatality statistics; deaths
+among children down to lowest in history [press release].August 7, 2002. Available at: http://www.nhtsa.dot.gov/nhtsa/announce/press/pressdisplay.cfm?year /H110052002&
+ﬁlename /H11005pr55–02.html. Accessed August 22, 2002.

@@ -1,0 +1,852 @@
+ 
+    Research Bank
+Journal article
+Classifying motor coordination impairment in Para swimmers 
+with brain injury
+Hogarth, Luke, Payton, Carl, Nicholson, Vaughan, Spathis, 
+Jemima, Tweedy, Sean, Connick, Mark, Beckman, Emma, van de 
+Vilet, Peter and Burkett, Brendan
+This is the accepted manuscript version. For the publisher's version please see:
+Hogarth, L., Payton, C., Nicholson, V., Spathis, J., Tweedy, S., Connick, M., Beckman, 
+E., van de Vilet, P. and Burkett, B. (2019). Classifying motor coordination impairment in 
+Para swimmers with brain injury. Journal of Science and Medicine in Sport, 22(5), pp. 
+526-531. https://doi.org/10.1016/j.jsams.2018.11.015
+This work © 2019 is licensed under Creative Commons Attribution-NonCommercial-
+NoDerivatives 4.0 International.
+1 
+ 
+Title: Classifying motor coordination impairment in Para swimmers with brain injury  1 
+ 2 
+Author list and affiliations:  3 
+Luke Hogarth a, Carl Payton b, Vaughan Nicholson c, Jemima Spathis d, Sean Tweedy e, 4 
+Mark Connick e, Emma Beckman e, Peter Van de Vliet f, Brendan Burkett a 5 
+ 6 
+a School of Health and Sport Sciences, University of the Sunshine Coast, Sippy Downs, 7 
+Australia.  8 
+b Musculoskeletal Science & Sports Medicine Research Centre, Manchester Metropolitan 9 
+University, Crewe, United Kingdom.  10 
+c School of Physiotherapy, Australian Catholic University, Brisbane, Australia.  11 
+d School of Exercise Science, Australian Catholic University, Brisbane, Australia.  12 
+e School of Human Movement and Nutrition Sciences, University of Queensland, St Lucia, 13 
+Queensland, Australia.  14 
+f Medical and Scientific Department, International Paralympic Committee, Bonn, Germany.  15 
+ 16 
+Abstract word count:   238 17 
+Text-only word count:  3069 18 
+Tables and  figures:   3 19 
+Supplementary files:   1 20 
+ 21 
+Corresponding Author:  22 
+Luke Hogarth  23 
+School of Health and Sport S ciences, University of the Sunshine Coast, Sippy Downs, 24 
+Queensland, Australia 25 
+Postal address: Locked Bag 4, Maroochydore DC QLD 4558  26 
+Telephone: +61 7 5456 5065 27 
+Email: lhogarth@usc.edu.au  28 
+1 
+ 
+Abstract  1 
+Objectives: The International Paralympic Committee has mandated that International Sport 2 
+Federations develop sport -specific classification systems that are evidence- based. This study 3 
+examined the predictive and convergent validity of instrumented tapping tasks to classify motor 4 
+coordination impairments in Para swimming.  5 
+Design: Cross -sectional.  6 
+Method: Thirty non -disabled participants and twenty -one Para swimmers with brain injury 7 
+completed several instrumented tapping tasks as an assessment of upper and lower limb 8 
+motor coordination. Para swimmers also completed a maximal freestyle swim to obtain a 9 
+performance measure. The predictive and convergent validity of instrumented tapping tasks 10 
+was examined by establishing differences in test measures between participants with and 11 
+without brain injury and defining the strength of association between test measures and 12 
+maximal freestyle swim speed in Para swim mers, respectively.  13 
+Results: Random forest successfully classified 96% of participants with and without brain injury 14 
+using test measures derived from instrumented tapping tasks. Most test measures had 15 
+moderate to high correlations (r = 0.54 to 0.72; p < 0 .01) with maximal freestyle swim speed 16 
+and collectively explained up to 72% of the variance in maximal freestyle swim performance in 17 
+Para swimmers with brain injury.  18 
+Conclusions: The results of this study evidence the predictive and convergent validity of 19 
+instrumented tapping tasks to classify motor coordination impairments in Para swimmers with 20 
+brain injury. These tests can be included in revised Para swimming classification to improve 21 
+the objectivity and transparency in determining athlete eligibility and sport class for these Para 22 
+athletes.  23 
+ 24 
+Keywords: Paralympic; Sports for Persons with Disabilities; Swimming;  Freestyle; 25 
+Classification; Cerebral Palsy .   26 
+2 
+ 
+Introduction  27 
+Swimming is one of the inaugural Paralympic sporting events and includes athletes with 28 
+physical, visual and intellectual impairment. Distinguishing Paralympic events from their 29 
+Olympic counterparts are classification systems that are used to minimise the impact of 30 
+impairment on the competition outcome. Para swimming has used a functional class ification 31 
+system to classify athletes with physical impairment since the 1992 Barcelona Paralympic 32 
+games. The effectiveness and fairness of the system has since been questioned.1-3 This has 33 
+prompted World Para Swimming, the international federation that go verns the sport, to 34 
+establish international research projects to provide the scientific evidence that underpins a new 35 
+classification system in Para swimming.  36 
+Some of the most challenging cases in Para swimming classification are those athletes with 37 
+congenital or acquired brain injury (e.g. cerebral palsy). These athletes have injury to the 38 
+pyramidal or extrapyramidal tracts of the brain that causes altered efferent output and effects 39 
+neuromuscular function.4 The clinical features presented by athletes with brain injury include 40 
+decreased central motor output, hypertonia, incoordination and coactivation of agonist and 41 
+antagonist muscle groups, although the distribution and severity of these features varies 42 
+considerably depending on the aetiology of brain injury.4 Research has provided some 43 
+understanding of how these clinical features impact on sport and exercise performance,5-7 with 44 
+performance deficits being attributed to losses in strength,8 9 joint range of motion10 and motor 45 
+coordination.11 46 
+Motor coordinat ion, which is defined as the ability to produce skilled movement fluidly, rapidly 47 
+and accurately is affected in Para athletes with brain injury.4 10 It is yet to be reported how swim 48 
+performance is affected by motor coordination impairment. Swimming speed is fundamentally 49 
+dependent on stroke length and stroke rate, increasing either one of these determinants whilst 50 
+maintaining the other will increase swim speed.12 13 Motor coordination impairment could limit 51 
+stroke length and stroke rate in several ways. For instance, injury to the basal ganglia causes 52 
+decreased central motor output and control of antagonist muscles that might affect hand 53 
+3 
+ 
+speeds during the above and underwater stroke phases and limit stroke rate;14 and injury to 54 
+the cerebellum can affect int er-limb coordination and postural control causing inefficient stroke 55 
+patterns.15  56 
+The assessment of motor coordination in current Para swimming classification lacks many of 57 
+the key measurement properties required for evidence- based classification.16 Para s wimmers 58 
+with hypertonia, ataxia and athetosis may undertake several dry -land tests that assess their 59 
+ability to ‘coordinate’ their limbs during repetitive single- joint swimming actions (e.g. shoulder 60 
+flexion and extension) that are performed at a steady pace and of increasing speed.17 Para 61 
+swimmers are given a score from 0 to 5 for each joint based on subjective assessment of the 62 
+movement, such as “…moderate range of movement, moderate spasticity with time restricting 63 
+movement and/or moderate coordination problems…” for a score of 3.17 While the classifiers 64 
+conducting these tests are experts and this is current best practice, these tests are not suitable 65 
+for evidence- based classification as they have a high dependence on clinical judgment  and 66 
+provide only or dinal -scale measures that are limited when quantifying the relationship between 67 
+impairment and performance.16  68 
+Previous research has developed instrumented tapping tasks that might provide valid methods 69 
+of assessing motor coordination impairment for Para s port classification.10 18 Reciprocal and 70 
+discrete tapping tasks that are specific to running, throwing and wheelchair sports have been 71 
+shown to be reliable in non- disabled participants, and provide ratio- scale measures that 72 
+discriminate between Para athlet es and non -disabled participants.10 18 Further, the difficulty of 73 
+tapping tasks can be manipulated to detect intentional misrepresentation of abilities by 74 
+evaluating conformity with Fitts’ law.19 Despite these promising results, there is limited 75 
+evidence t o suggest that they have a meaningful association with sport performance and no 76 
+such work has been undertaken in swimming.10 11   77 
+The aims of this study were to: (i) examine the predictive validity of instrumented tapping tasks 78 
+to discriminate between part icipants with and without brain injury, and (ii) establish the 79 
+convergent validity of instrumented tapping tasks by defining their strength of association with 80 
+4 
+ 
+swim performance in Para swimmers with brain injury. If tests are found to discriminate 81 
+between participants with and without brain injury and explain activity limitation in swimming, 82 
+then they will likely have utility in a revised Para swimming classification system.  83 
+ 84 
+Methods  85 
+Data were collected from 51 participants including Para swimmers with congenital or acquired 86 
+brain injury and non- disabled participants (Table 1). Para swimmers had received national or 87 
+international classification and were undertaking planned training regimes at the time of testing. 88 
+Non-disabled participants were between the ages of 18 and 35 years of age and were 89 
+undertaking planned exercise, training or competition at least twice a week for a minimum of 90 
+80 minutes. All participants gave written informed consent under approved ethical guidelines 91 
+from institutional human res earch ethics committees ( 100517ESSHJ and A16892).  92 
+Participants completed a questionnaire regarding demographics, their typical training regime 93 
+(mode, frequency and duration of training), and training activity on the day of testing. Para 94 
+swimmers also prov ided information pertaining to their training experience, competition 95 
+standard attained, current sport class, and type of physical impairment. These data were 96 
+verified against information obtained from classification records listed in the IPC Sports Data 97 
+Management System ( https://db.ipc -services.org/sdms ). Participant’s stature and body mass 98 
+were recorded prior to testing. Stature was estimated from sitting height recorded from a 99 
+custom -built chair for Para swimmers with no or poor locomotor ability.17 100 
+Motor coordination was assessed with novel tapping tasks using custom -made wireless 101 
+tapping pads (Ergotest, Porsgrunn, Norway). The tapping pads, which consisted of resistive 102 
+touch panels that provided a 0.195 m x 0.10 m target, were connected to a personal computer 103 
+via Bluetooth connection with a Muscle Lab data synchronisation unit (Ergotest, Porsgrunn, 104 
+Norway). The tapping pads were positioned with a 0.195 m distance between their centres. 105 
+Participants comple ted four motor coordination tests: (i) bilateral upper limb tapping, (ii) 106 
+5 
+ 
+dominant and non- dominant upper limb tapping, (iii) bilateral lower limb tapping and (iv) 107 
+dominant and non -dominant lower limb tapping. The test protocols are outlined in 108 
+Supplementary Material Appendix 1. Tests involved the participants completing as many 109 
+cycles as possible within 15 s test duration. Participants were instructed to tap as rapidly and 110 
+accurately as possible between the two pads. They commenced the tests on their own t ime 111 
+and an audio signal was used to notify participants of the end of the test. Following a minimum 112 
+of one practice trial, participants completed three trials for each test. Participants were given 113 
+at least 45 s rest between consecutive trials.  Trials were deemed successful if above 90% 114 
+accuracy was achieved. All trials were recorded using a tripod mounted video camera to verify 115 
+the number and accuracy of contacts. The best trial, indicated by the lowest mean movement 116 
+time (MMT), was used for analysis. Three Para swimmers with diplegic cerebral palsy were 117 
+unable to complete the lower limb tapping tasks due to severe spasticity in the lower limbs. To 118 
+provide a ratio- scale score, these participants were given a score representing one complete 119 
+cycle (15 000 ms)  for these tests.  120 
+Para swimmers’ maximal clean swim speed was assessed over a 10 m calibrated test zone 121 
+for their preferred freestyle swim stroke. Clean swim speed was determined using standard 122 
+two-dimensional video analysis procedures. Output from a 50 H z video camera (Sony HDR 123 
+HC9, Sony Corporation, Japan) placed perpendicular to the swimmers’ direction of travel was 124 
+captured using commercial software (Dartfish TeamPro version 7.0, Dartfish UK). Participants 125 
+were instructed to reach maximal swim speed pr ior to the start of the 10 m test zone and 126 
+sustain maximal swim speed until 5 m past the end of the test zone. They performed two 127 
+maximal effort trials separated by a minimum of 3 minutes’ rest and the fastest time to cover 128 
+the 10 m test zone was used to c ompute their maximal clean swim speed.  129 
+Statistical analyses were conducted using R version 3.4.1 (R Core Team, 2017). Test 130 
+measures were log -transformed for analysis . The Shapiro- Wilk test indicated most 131 
+variables had non- uniform distribution and so non- parametric techniques were used for 132 
+analysis.  Wilcoxon rank tests were used to identify differences between non- disabled 133 
+6 
+ 
+participants and Para swimmers. Cliff’s delta (d) was calculated with 95% confidence intervals 134 
+to indicate the magnitude of group differ ences.  The magnitudes of d scores were evaluated 135 
+as negligible (<0.147), small (0.147- 0.33), medium (0.33- 0.474), or large (>0.474).20 Male 136 
+and female participants were pooled for analysis as there was no effect of sex found in the 137 
+non-disabled participant  group. Random forest algorithm was used to further examine the 138 
+predictive validity of motor coordination tests in discriminating between participants with and 139 
+without brain injury. Random forest is a non- linear machine learning technique that uses an 140 
+ensemble learning method for classification and regression. Details on the random forest 141 
+analysis are shown in Supplementary Material Appendix 3.  142 
+Spearman correlation coefficients were calculated to assess the strength of association 143 
+between log -transformed t est measures and Para swimmers’ maximal freestyle swim speeds. 144 
+An alpha value of 0.05 was used to indicate a significant association. The strength of 145 
+correlations was interpreted as negligible (0.0 -0.2), low (0.21 -0.40), moderate (0.41- 0.60), high 146 
+(0.61 -0.80) and very high (>0.80).21 Test measures that were found to have a significant 147 
+association with freestyle swim speed were included in ensemble partial least squares 148 
+regression as dependent variables. Details on model training, internal cross validation and 149 
+feature selection methods used in partial least squares regression are shown in 150 
+Supplementary Material Appendix 4.  151 
+ 152 
+Results  153 
+The results of instrumented tapping tasks in non- disabled participants and Para swimmers with 154 
+brain injury are shown in Supplementary Material Appendix 2. Test measures were found to 155 
+be reliable in a subsample of 15 non -disabled participants (Supplementary Material Table S2). 156 
+Wilcoxon rank tests showed significant differences (p <  0.01) in all test measures between 157 
+Para swi mmers and non -disabled participants (Figure 1), with larger differences reported for 158 
+non-dominant limb tapping (d = 0.93 to 0.99) compared with dominant limb tapping (d = 0.78 159 
+7 
+ 
+to 0.82). Random forest algorithm, that included test measures as predictor vari ables, 160 
+successfully classified 96% of participants with and without brain injury (out -of-bag [OOB] error 161 
+estimate = 3.92%). The rank importance of predictor variables, and ratio of votes assigned for 162 
+individual cases are shown in Supplementary Material Appendix 3.  163 
+All test measures had significant correlations with maximal freestyle swim speed, except for 164 
+bilateral upper limb tapping, upper limb symmetry score, and lower limb symmetry score 165 
+(Figure 2). Supplementary Material Appendix 4 shows the prediction accuracy and error, 166 
+internal cross validation, and importance of predictor variables for partial least squares 167 
+regression. Dominant upper limb tapping, nondominant upper limb tapping, and bilateral lower 168 
+limb tapping were the most important predictors of maximal freestyle swim speed and showed 169 
+the best prediction accuracy ( R2 = 0.724, RMSE = 0.184) and stability (cv R2 = 0.675, cvRMSE 170 
+= 0.199) when included in partial least squares regression.  171 
+ 172 
+Discussion  173 
+Para athletes with congenital or acquired brain injury present some of the most challenging 174 
+cases in Para swimming classification. The development of valid tests of strength, range of 175 
+motion and motor coordination is a key research objectiv e that is required to guide an 176 
+evidence- based classification system for these Para athletes.22 23 This study found 177 
+instrumented tapping tasks to be valid tests of motor coordination impairment that can be 178 
+included in a revised Para swimming classification system.  179 
+Eligibility in Para sport is determined by the type of impairment and whether the severity of 180 
+impairment conforms with the minimum eligibility criteria.16 Para swimmers with brain injury 181 
+have one or a combination of hypertonia, ataxia and athetosi s, all of which can result in loss 182 
+of motor coordination that might affect swimming performance. The instrumented tapping tasks 183 
+presented in this study were able to differentiate between participants with and without brain 184 
+injury (Figure 1). This result shows that the Para swimmers in this study did in fact have 185 
+8 
+ 
+impaired motor coordination, and that the instrumented tapping tasks provide useful 186 
+assessments to infer the extent of motor coordination impairment resulting from brain injury.  187 
+In support of the above, test measures successfully classified 96% of participants with and 188 
+without brain injury using random forest algorithm (Supplementary Material Appendix 3). The 189 
+ensemble learning method used during random forest allows the probability of classification to 190 
+be attained, which could be useful for determining athlete eligibility. For example, two Para 191 
+swimmers were incorrectly classified as non- disabled participants by random forest algorithm, 192 
+suggesting they have similar motor coordination to non -disabled participants. On further 193 
+inspection it is apparent that there was a degree of uncertainty in the classification assigned 194 
+by the random forest model as approximately 35% of the votes were allocated to the priori 195 
+case for both Para swimmers (i.e. the Para sw immers were assigned to the correct class 35% 196 
+of the time). These Para swimmers had mild or moderate hemiplegic cerebral palsy, and 197 
+although they might have achieved similar scores to non- disabled participants in some tapping 198 
+tasks, it is evident that they  have some loss of motor coordination in their non- dominant limbs 199 
+when comparing their upper (0.64 and 0.79) and lower limb (0.71 and 0.89) symmetry scores 200 
+with non- disabled participants (upper limb = 0.88±0.05 and lower limb = 0.94±0.07). These 201 
+findings h ighlight the potential of using ratio- scale measures to improve the objectivity and 202 
+transparency of athlete eligibility in Para swimming, particularly as most test measures were 203 
+related to freestyle swimming performance (Figure 2). Classification models that are trained in 204 
+Para swimming cohorts with more homogenous  impairment location and distribution (e.g. 205 
+hemiplegic versus diplegic) might improve the accuracy of these models to better guide athlete 206 
+eligibility.  207 
+An important measurement property of impairm ent tests used in classification is that they 208 
+explain activity limitation in the sport of interest.16 All motor coordination test measures, except 209 
+for bilateral upper limb tapping  and symmetry scores, were found to have moderate to large 210 
+correlations with maximal freestyle swim speed (Figure 2). These test measures also explained 211 
+72.4% of the variance in swim performance when included in partial least squares regression. 212 
+9 
+ 
+These results evidence the convergent validity of the instrumented tapping tasks in Par a 213 
+swimming classification.  214 
+In agreement with previous research,23 24 motor coordination tests relevant to the upper limbs 215 
+were found to be more important predictors of freestyle swim speed than lower limb test 216 
+performance (Supplementary Material Figure S4 ). Indeed, the upper limbs contribute most of 217 
+the propulsive force during freestyle swimming,25 and motor coordination impairment of the 218 
+upper limbs might impact on hand speeds during the above and underwater stroke phases 219 
+and inter -arm coordination associ ated with propulsion and propelling efficiency.14 15 26 It is 220 
+interesting that lower limb tapping tasks had moderate to high correlations (r = -0.57 to -0.62, 221 
+p < 0.01) with maximal swim speed contrasting with no or low correlations (r = 0.27 to 0.44) 222 
+that have been reported previously for lower limb strength tests in a similar cohort of Para 223 
+swimmers.23 This infers that lower limb coordination is more important than lower limb strength 224 
+in freestyle swimming. Although the lower limbs contribute less to propulsion than the upper 225 
+limbs in freestyle, leg -to-arm coordination might impact on the propulsion and propelling 226 
+efficiency of the upper limbs,26 27 or motor coordination impairment in the lower limbs could be 227 
+collinear with reduced range of motion that causes a poor streamline position and increased 228 
+form drag.22 28  229 
+Despite the more similar action of the bilateral upper limb tapping task to freestyle swimming 230 
+than unilateral tasks, this test was found to have no association with freestyle swim speed 231 
+(Figure  2a). This might be explained by different strategies that were used by participants 232 
+during this test; although they were instructed to maintain extended arms to encourage 233 
+movement at the shoulder joint, participants adopted tapping strategies that involved 234 
+movements at the shoulder, wrist and/or finger joints. Further, the larger correlation found for 235 
+dominant upper limb tapping compared with nondominant upper limb tapping suggests that 236 
+Para swimmers with a relatively unaffected dominant limb might be able to compensate more 237 
+effectively for the activity limitation caused by the more affected limb. Similar findings have 238 
+10 
+ 
+been reported for strength and range of motion impairment in swimming,23 cycling,29 and 239 
+running.9 10  240 
+The results of this study support the use of instrumented tapping tasks to derive valid 241 
+classification structures for Para swimmers with brain injury. Further research that 242 
+establishes the relationship between motor coordination tests and performance in the 243 
+other swim strokes will confirm their utility in Para swimming classification.  Cluster 244 
+analysis of test measures can derive classes of Para swimmers with similar location, severity 245 
+and/or distribution of motor coordination impairment,30 31 or an independent measure of 246 
+estimated activity limitation that is derived from test measures can be used to assign 247 
+classification.24 However, it is likely that strength and range of motion impairment also explain 248 
+activity limitation in Para swimmers with brain injury.22 23 In the only other study to establish the 249 
+impact of physical impairment on Para swimming performance, measures of limb length were 250 
+found to explain 80% of the variance in 100 m freestyle performance in Para swimmers with 251 
+limb deficiency.24 It is intere sting then that motor coordination test measures were found to 252 
+account for 72% of the variance in swim performance in this study, despite the absence of 253 
+measures related to strength and range of motion that are affected by brain injury. This could 254 
+be explained by the fact that most Para swimmers had hypertonia, and severity of motor 255 
+coordination impairment might be collinear with strength and range of motion impairment within 256 
+this group.32 Indeed, partial least squares regression considerably underestimated  swim 257 
+performance ( -0.44 m∙s-1) for one Para swimmer with athetosis who would predominately be 258 
+affected by motor coordination impairment. This suggests that motor coordination, strength 259 
+and range of motion tests should be used concurrently to guide classif ication of P ara swimmers 260 
+with brain injury. Further resear ch in a larger cohort  of Para swimmers , including those 261 
+with dyskinesia (i.e. athetosis and dystonia) and ataxia,  is required to establish the 262 
+impact  these impairments have on swimming performance.   263 
+ 264 
+Conclusion  265 
+11 
+ 
+The development of valid tests of impairment is one of the key challenges in guiding the 266 
+development of evidence- based classification systems in Para sport. This study showed 267 
+instrumented tapping tasks that were reliable in non- disabled partic ipants, were able to 268 
+discriminate between participants with and without brain injury and explained most of the 269 
+variance in maximal freestyle swim performance in Para swimmers with brain injury. These 270 
+results evidence the predictive and convergent validity of instrumented tapping tasks to classify 271 
+motor coordination impairments in Para swimmers with brain injury. Future research that 272 
+establishes the relative impact of strength, range of motion and motor coordination on Para 273 
+swimming performance is required t o help guide evidence- based classification structures for 274 
+these Para athletes.  275 
+ 276 
+Practical implications  277 
+• Instrumented tapping tasks can be used to infer loss of motor coordination resulting from 278 
+brain injury and determine athlete eligibility in Para swimming.  279 
+• These tapping tasks provide an objective estimate of activity limitation in Para swimming 280 
+resulting from motor coordination impairment and can be used to assign sport class.  281 
+• A revised Para swimming classification system due to be implemented following the 2020 282 
+Tokyo Paralympic games can include these tapping tasks to improve the objectivity and 283 
+transparency of athlete classification.  284 
+  285 
+12 
+ 
+References  286 
+1. Burkett B, Payton C, Van de Vliet P, et al. Performance characteristics of Para swimmers: 287 
+How effective is the swimming classification system? Phys Med Rehabil Clin N Am  288 
+2018;29(2):333 -46. doi: 10.1016/j.pmr.2018.01.011 289 
+2. Wu SK, Williams T. Paralympic swimming performance, impairment, and the functional 290 
+classification system. Adapt Phys Act Q  1999;16(3):251- 70. doi:  291 
+10.1123/apaq.16.3.251  292 
+3. Daly DJ, Vanlandewijck Y. Some criteria for evaluating the "fairness" of swimming 293 
+classification. Adapt Phys Act Q  1999;16(3):271 -89. doi: DOI 10.1123/apaq.16.3.271  294 
+4. Runci man P, Derman W. Athletes with br ain injury: Pathophysiologic and medical 295 
+challenges. Phys Med Rehabil Clin N Am  2018;29(2):267- 81. doi: 296 
+10.1016/j.pmr.2018.01.004 297 
+5. Reina R, Iturricastillo A,  Sabido R, et al. Vertical and horizontal jump capacity in international 298 
+cerebral palsy football players. Int J Sports Physiol Perform  2018;13(5):597- 603. doi: 299 
+10.1123/ijspp.2017 -0321  300 
+6. Runciman P, Derman W, Ferreira S, et al. A descriptive comparison of sprint cycling 301 
+performance and neuromuscular characteristics in able- bodied athletes and 302 
+paralympic athletes with cerebral palsy. Am J Phys Med Rehabil  2015;94(1):28 -37. doi: 303 
+10.1097/PHM.0000000000000136 304 
+7. Bezodis IN, Cowburn J, Brazil A, et al. A biomechanical comparison of initial sprint 305 
+acceleration performance and technique in an elite athlete wi th cerebral palsy and able- 306 
+bodied sprinters. Sports Biomech 2018:1 -12. doi: 10.1080/14763141.2018.1459819 307 
+8. Antunes D, Rossato M, Kons RL, et al. Neuromuscular features in sprinters with cerebral 308 
+palsy: case studies based on paralympic classification. J E xerc Rehabil  309 
+2017;13(6):716 -21. doi: 10.12965/jer.1735112.556 310 
+9. Beckman EM, Connick MJ, Tweedy SM. How much does lower body strength impact 311 
+Paralympic running performance? Eur J Sport Sci  2016;16(6):669- 76. doi: 312 
+10.1080/17461391.2015.1132775 313 
+13 
+ 
+10. Connick M J, Be ckman E, Spathis J, et al. How much do range of movement and 314 
+coordination affect Paralympic sprint performance? Med Sci Sports Exerc  315 
+2015;47(10):2216 -23. doi: 10.1249/MSS.0000000000000643 316 
+11. Roldan A, Sabi do R, Barbado D, et al. Manual dexterity and intralimb coordination 317 
+assessment to distinguish different levels of impairment in boccia players with cerebral 318 
+palsy. Front Neurol  2017;8:582. doi: 10.3389/fneur.2017.00582  319 
+12. Pelayo P, Alber ty M, Sidney M, et al. Aerobic potential, stroke parameters, and coordination 320 
+in swimming front -crawl p erformance. Int J Sport s Physiol  Perform  2007;2(4):347- 59. 321 
+doi: 10.1123/ijspp.2.4.347 322 
+13. Barbosa TM, Bragada JA, Reis VM, et al. Energetics and biomechanics as determining 323 
+factors of swimming performance: updating t he state of the art. J Sci Med Sport  324 
+2010;13(2):262 -9. doi: 10.1016/j.jsams.2009.01.003 325 
+14. Samson M, Monnet T, Bernard A, et al. Kinematic hand parameters in front crawl at 326 
+different paces of swimming. J Biomech 2015;48(14):3743- 50. doi: 327 
+10.1016/j.jbiomec h.2015.07.034  328 
+15. Satkunskiene D, Schega L, Kunze K, et al. Coordination in arm movements during crawl 329 
+stroke in elite swimmers with a loco -motor disability. Hum Mov Sci  2005;24(1):54- 65. 330 
+doi: 10.1016/j.humov.2005.04.001  331 
+16. Tweedy SM, Vanlandewijck YC. International Paralympic Committee position stand-- 332 
+background and scientific principles of classification in Paralympic sport. Br J Sports 333 
+Med 2011;45(4):259 -69. doi: 10.1136/bjsm.2009.065060 334 
+17. International Paralympic Co mmittee . World Para Swimming Classification Rules and 335 
+Regulations: International Paralympic Committee 2018.  Available at: 336 
+https://www.paralympic.org/swimming/rules -and-regulations . Accessed 29 October 337 
+2018.  338 
+18. Connick MJ, Beckman E, Deuble R, et al. Developing tests of impaired coordination for 339 
+Paralympic classification: normative values and test –retest reliability. Sports 340 
+Engineering 2016;19(3):147- 54. doi: 10.1007/s12283- 016-0199 -5 341 
+14 
+ 
+19. Deuble RL, Connick MJ, Beckman EM, et al. Using Fitts' law to d etect intentional 342 
+misrepresentation. J Mot Behav  2016;48(2):164 -71. doi: 343 
+10.1080/00222895.2015.1058744 344 
+20. Romano J, D. Kromrey J. Appropriate s tatistics f or ordinal level data: Should we really be 345 
+using t -test and Cohen's d for evaluating group dif ferences on the NSSE and other 346 
+surveys?  Annual meeting of the Florida Association of Institutional Research 2006.  347 
+21. Mukaka MM. Statistics c orner:  A guide to appropriate use of c orrelation coeff icient in 348 
+medical research. Malawi Med J  2012;24(3):69 -71. 349 
+22. Nicholson VP, Spathis JG, Hogarth LW, et al. Establishing the reliability of a novel battery 350 
+of range of motion tests to enable evidence- based classification in Para Swimming. 351 
+Phys Ther Sport  2018;32:34- 41. doi: 10.1016/j.ptsp.2018.04.021  352 
+23. Hogarth L, Nicholson V, Spathis J, et al. A battery of strength tests for evidence- based 353 
+classification in Para swimming. J Sports Sci  2018:1- 10. doi: 354 
+10.1080/02640414.2018.1504606 355 
+24. Hogarth L, Payton C, Van de Vliet P, et al. A novel method to guide classification of para 356 
+swimmers with limb deficiency. Scand J Med Sci Sports  2018;28:2397- 2406.  doi: 357 
+10.1111/sms.13229  358 
+25. Morouco PG, Marinho DA , Izquierdo M, et al. Relative contribution of arms and legs in 30 359 
+s fully t ethered front crawl s wimming. Biomed Res Int  2015;2015:563206. doi: 360 
+10.1155/2015/563206  361 
+26. Seifert L, Komar J, Barbosa T, et al. Coordination pattern variability provides functional 362 
+adaptations to constraints in swimming performance. Sports Me d 2014;44(10):1333- 363 
+45. doi: 10.1007/s40279 -014-0210- x 364 
+27. Osborough C, Daly D, Payton C. Effect of swim speed on leg- to-arm coordination in 365 
+unilateral arm amputee front crawl swimmers. J Sports Sci  2015;33(14):1523- 31. doi: 366 
+10.1080/02640414.2014.996181 367 
+15 
+ 
+28. Oh YT, Burkett B, Osborough C, et al. London 2012 Paralympic swimming: passive drag 368 
+and the classification system. Br J Sports Med  2013;47(13):838- 43. doi: 369 
+10.1136/bjsports -2013- 092192 370 
+29. de Groot S, Dallmeijer AJ, Bessems PJ, et al. Comparison of muscle strength, sprint power 371 
+and aerobic capacity in adults with and without cerebral palsy. J Rehabil Med 372 
+2012;44(11):932 -8. doi: 10.2340/16501977 -1037  373 
+30. Altmann VC, Groen BE, Hart AL, et al. Classifying trunk strength impairment according to 374 
+the activity limitation caused in wheelchair rugby performance. Scand J Med Sci Sports  375 
+2018;28(2):649 -57. doi: 10.1111/sms.12921  376 
+31. Connick MJ, Beckman E, Vanlandewijck Y, et al. Cluster analysis of novel isometric 377 
+strength measures produces a valid and evidence- based classification structure for 378 
+wheelchair track racing. Br J Sports Med  2018;52(17):1123- 29. doi: 10.1136/bjsports - 379 
+2017- 097558  380 
+32. Delgado MR, Albright AL. Movement disorders in children: definitions, classifications, and 381 
+grading systems. J Child Neurol  2003;18 Suppl 1:S1- 8. doi: 382 
+10.1177/0883073803018001S0301  383 
+16 
+ 
+Tables  384 
+Table 1. Characteristics of non -disabled participants and Para swimmers with brain injury.  385 
+  Para swimmers with brain 
+injury  Non-disabled participants  
+ Males  n = 16  n = 15  
+ Females  n = 5  n = 15  
+    
+Age (yrs)  Males  28.2 (6.8)  23.5 (4.1)  
+ Females  20.0 (4.5)  23.3 (4.5)  
+    
+Body mass (kg)  Males  68.7 (9.9)  79.8 (11.4)  
+ Females  59.0 (11.3)  68.1 (9.7)  
+    
+Stature (cm)  Males  171.2 (11.7)  182.7 (7.7)  
+ Females  160.9 (10.0)  171.4 (7.0)  
+    
+Reported exercise 
+frequency (n/week)   Median = 7  
+Range = 2 to 15  Median = 6  
+Range = 3 to 14  
+Accumulated 
+exercise duration 
+(min/week)   Median = 525  
+Range = 180 to 1200  Median = 360  
+Range = 150 to 1200  
+Reported activities   Competitive swimming (n=21)  
+Resistance training (n=15)  
+ Resistance training (n=17)  
+Recreational fitnessa (n=13)  
+Competitive sportb (n=12)  
+Recreational sportc (n=8)  
+Pilates and Yoga (n=4)  
+    
+Competitive standard   Internationald (n=7)  
+National (n=14)   
+Competitive swim 
+experience (yrs)   Median = 9.5  
+Range = 3 to 26   
+S Class   S3 (n=1)  
+S4 (n=5)  
+S5 (n=1)  
+S6 (n=6)  
+S7 (n=2)  
+S8 (n=4)  
+S9 (n=2)   
+Medical conditions   Diplegic, spastic (n=8)  
+Hemiplegic, spastic (n=7)  
+Quadriplegic, spastic (n=3)  
+Quadriplegic, mixed (n=1)  
+Quadriplegic, Athetoid (n=1)  
+Other (n=1)   
+S Class = para swimmers’ current class for freestyle, backstroke and butterfly swimming 386 
+events. a Reported recreational fitness activities  included moderate to high- intensity aerobic 387 
+exercise, and group fitness classes. b Reported competitive sports training or competition 388 
+included athletics, rugby, Australian rules football (AFL) , football, powerlifting and 389 
+swimming. c Reported recreational  sport competition included football, badminton, netball, 390 
+jujitsu, dance and surfing. d Para swimmers were classified as international standard if they 391 
+had competed at a Paralympic or World Championship event.   392 
+17 
+ 
+Figure legends  393 
+ 394 
+Figure 1. Test measures for instrumented tapping tasks in non- disabled participants and 395 
+Para swimmers with brain injury. Data are Cliff’s delta with 95% confidence interval and p 396 
+values derived from Wilcoxon rank tests showing differences between non- disabled 397 
+participants and Para sw immers for (A) bilateral upper limb tapping, (B) dominant upper limb 398 
+tapping, (C) non- dominant upper limb tapping,  (D) upper limb symmetry score,  (E) bilateral 399 
+lower limb tapping, (F) dom inant lower limb tapping, (G ) non -dominant upper limb tapping , 400 
+and (H) lower limb symmetry score.  Data are reported for male (dark points) and female 401 
+(white points) participants, and outlying participants ( crosses)  that could not complete the 402 
+lower limb tapping tasks due to severe spasticity.  403 
+ 404 
+Figure 2. Strength of association between motor coordination test measures and maximal 405 
+freestyle swim speed in Para swimmers with brain injury. Data are Spearman correlation 406 
+coefficients for (A) bilateral upper limb tapping, (B) dominant upper limb tapping, (C) non - 407 
+dominant upper limb  tapping,  (D) upper limb symmetry score,  (E) bilateral lower limb 408 
+tapping, (F) dom inant lower limb tapping, (G ) non -dominant upper limb tapping , and (H) 409 
+lower limb symmetry score.  Data are reported for male (dark points) and female (white 410 
+points) Para swim mers, and outlying participants (crosses) that have been removed from 411 
+analysis due to severe lower limb spasticity.  412 
+ 413 
+
+
+ 
+ 
+Classifying motor coordination impairment in Para swimmers with brain injury  
+ 
+ 
+Supplementary  Material  
+Contents  
+Supplementary Material Appendix 1  ...................................................................................................... 2 
+Supplementary Material Appendix 2  ...................................................................................................... 3 
+Test measures in Para swimmers and non -disabled participants  ...................................................... 3 
+Test reliability in non -disabled participants  ........................................................................................ 3 
+Methods  .......................................................................................................................................... 3 
+Results  ............................................................................................................................................. 3 
+Supplementary Material  Appendix 3  ...................................................................................................... 4 
+Random forest classification of participants with and without brain injury  ...................................... 4 
+Methods  .......................................................................................................................................... 4 
+Results  ............................................................................................................................................. 4 
+Supplementary Material Appendix 4  ...................................................................................................... 6 
+Partial least squares regression to predict maximal freestyle swim speed in Para swimmers with 
+brain injury  .......................................................................................................................................... 6 
+Methods  .......................................................................................................................................... 6 
+Results  ............................................................................................................................................. 6 
+Supplementary Material Appendix 5  ...................................................................................................... 9 
+References  .......................................................................................................................................... 9 
+ 
+ 
+ 
+2 
+ 
+Supplementary Material Appendix 1  
+ 
+Table S1. Test description  of instrumented tapping tasks.  
+Test  Description   
+Bilateral upper 
+limb tapping  Participants were seated in an upright position with a back -rest for 
+support. The mid- line of the participant was positioned in line with the 
+middle of the two tapping pads that were secured to a table in front of 
+the participant. The Participant extended their arms with their hands in a 
+fist and their index finger extended, and the two pads were secured to the 
+table so that the left and right index finger were positioned in the centre 
+of the tapping pads. With their arms extended, participants were 
+instruc ted to alternate tapping between the two pads using their left and 
+right index fingers as quickly and as accurately as possible. The target area 
+of tapping pads was 0.195 m x 0.10 m and were positioned with a 0.195 m 
+distance between centres ( Index of difficulty = 0.96) . 
+  
+ 
+Unilateral 
+upper limb 
+tapping  Participants were seated in an upright position with a back -rest for 
+support. The mid- line of the participant was positioned in line with the 
+middle of the two tapping pads that were secured to a table in front of 
+the participant. The Participant extended their arms with their hands in a 
+fist and their index finger extended, and the two pads were secured to the 
+table so that the left and right index finger were positioned in the centre 
+of the tapping pads. With the tested arm extended, participants were 
+instructed to alternate tapping between the two pads using their index 
+finger as quickly and as accurately as possible. The non- tested arm was 
+rested on the participants thigh.  The target area of tapping pads  was 
+0.195 m x 0.10 m and were positioned with a 0.195 m distance between centres (Index of difficulty = 0.96).  
+  
+ 
+Bilateral lower 
+limb tapping  Participants were seated in an upright position with a back -rest for 
+support. The mid- line of the participant was positioned in line with the 
+middle of the two tapping pads that were secured to a footrest with a 30 ° 
+incline in front of the participant. The Participant extended their legs at 
+the knee and ankle, and the two pads were secured to the footrest so that 
+the left and right big toe were positioned in the centre of the tapping 
+pads. With their legs extended, participants were instructed to alternate 
+tapping between the two pads using their left and right big toe as quickly 
+and as accurately as possible. The target area of tapping pads was 0.195 
+m x 0.10 m and were positioned with a 0.195 m distance between centres 
+(Index of difficulty = 0.96).  
+  
+ 
+ 
+Unilateral lower 
+limb tapping  Participants were seated in an upright position with a back -rest for 
+support. The  mid-line of the participant was positioned in line with the 
+middle of the two tapping pads that were secured to a footrest with a 30° 
+incline in front of the participant. The Participant extended their legs at 
+the knee and ankle, and the two pads were sec ured to the footrest so that 
+the left and right big toe were positioned in the centre of the tapping pads. With their tested leg extended, participants were instructed to 
+alternate tapping between the two pads using their big toe as quickly and 
+as accurate ly as possible. The non- tested leg was relaxed with the foot 
+positioned outside of the tapping pads on a stable surface.
+ The target 
+area of tapping pads was 0.195 m x 0.10 m and were positioned with a 
+0.195 m distance between centres (Index of difficulty =  0.96).  
+  
+ 
+  
+
+3 
+ 
+Supplementary Material Appendix 2  
+ 
+Test measures in Para swimmers and non -disabled participants  
+Table S2. T est measures in non -disabled participants and Para swimmers with brain injury.  
+ Para swimmers with brain injury   Non -disabled participants  
+ Combined 
+(n=21)  Males 
+(n=16)  Females 
+(n=5)   Combined 
+(n=30)  Males 
+(n=15)  Females 
+(n=15)  
+Bilateral upper limb tapping (ms)  237 (98)  245 (93)  210 (119)   102 (13)  101 (14)  104 (13)  
+Dominant upper limb tapping (ms)  302 (111)  311 (121)  272 (74)   187 (13)  192 (28)  183 (16)  
+Non -dominant upper limb tapping (ms)  404 (102)  406 (111)  398 (76)   213 (22)  216 (28)  211 (24)  
+Upper limb symmetry score  0.74 (0.15)  0.76 (0.15)  0.69 (0.18)   0.88 (0.06)  0.89 (0.04)  0.87 (0.07)  
+Bilateral lower limb tapping ( ms) 627 (457)  647 (443)  564 (548)   149 (24)  153 (29)  146 (19)  
+Dominant lower limb tapping (ms)  744 (469)  755 (479)  712 (487)   285 (48)  291 (57)  279 (39)  
+Non -dominant lower limb tapping (ms)  815 (447)  826 (454)  778 (473)   302 (46)  305 (53)  300 (40)  
+Lower  limb symmetry score  0.88 (0.11)  0.88 (0.11)  0.89 (0.10)   0.96 (0.07)  0.95 (0.08)  0.93 (0.06)  
+Data are mean (standard deviation) of the raw test measures. Lower tapping times (ms ) represent faster tapping speeds. Upper 
+and lower limb symmetry scores are the ratio of dominant limb tapping to non- dominant limb tapping, with a score closer to 1 
+indicating more symmetrical motor coordination between limbs.  
+ 
+Reliability of test measur es in non- disabled participants  
+Methods 
+Fifteen non -disabled participants repeated the  test battery within a week to examine the test- retest reliability of 
+instrumented tapping tasks . Reliability assessments were calculated using Ho pkins’ reliability spreadsheet .1 Paired 
+sample t -tests were conducted to identify any systematic change in test measures between repeated trials. Intra -class 
+correlation coefficients (ICC) method 3,1, standard error of measurement (SEM) scores expressed in the original units of m easurement, and coefficient of variation (CV) scores were calculated to provide an abso lute assessment of 
+reliability .
+1 
+Results  
+Reliability assessments indicated most test measures to be reliable in non -disabled participants (Table S3). Dominant 
+lower limb  tapping showed a decrease between repeated trials ( -15±20 ms) although reliability assessments showed 
+this test to have high absolute reliability (SEM = 14 ms, CV = 4.6 %) and reproducibility (ICC = 0.93). This test measure 
+may prove to be more reliable if thorough familiarisation protocols are used prior to testing . Upper and lower limb 
+symmetry scores showed lower ICC values (ICC = 0.42 -0.54) than other test measures in non -disabled participants, 
+although SEM (0.04) and CV (4.0 -4.1 %) scores indicate the se test measures might be more reliable in Para swimmers 
+with brain injury that have larger variance in limb symmetry (Table S2).   
+Table S3 . Reliability of instrumented tapping tasks in non -disabled participants.  
+ Trial 1  
+Mean (SD)  Trial 2  
+Mean (SD)  ∆ T2 – T1 
+Mean (SD)  SEM  CV 
+(%) ICC 
+(95% CI)  
+Bilateral upper limb tapping  100 (14)  103 (13)  3 (8)  5 5.4 0.85 (0.67 -0.94)  
+Dominant upper limb tapping  185 (24)  182 (22)  -4 (11)  8 4.2 0.91 (0.78 -0.96)  
+Non -dominant upper limb tapping  209 (27)  206 (23)  -3 (15)  11 5.2 0.85 (0.66 -0.94)  
+Upper  limb symmetry score  0.89 (0.04)  0.88 (0.05)  -0.01 (0.05)  0.04  4.1 0.42 (0.01 -0.71)  
+Bilateral lower limb tapping  148 (27)  141 (23)  -5 (11)  8 5.4 0.93 (0.83 -0.97)  
+Dominant lower limb tapping  281 (50)  266 (35) * -15 (20)  14 4.6 0.93 (0.83 -0.97)  
+Non -dominant upper limb tapping  301 (50)  291 (44)  -10 (22)  16 5.4 0.91 (0.78 -0.96)  
+Lower limb symmetry score  0.93 (0.05)  0.92 (0.05)  -0.02 (0.05)  0.04  4.0 0.54 (0.15 -0.79)  
+SEM = standard error of measurement, CV = coefficient of variation, ICC = intraclass correlation coefficient, CI = confidence 
+interval. Indicates a significant change from trial 1 (p  < 0.05).   
+4 
+ 
+Supplementary Material Appendix 3  
+ 
+Random forest classificatio n of participants with and without brain injury  
+Methods 
+Random forest algorithm was used to establish the predictive validity of test measures in classifying participants with 
+and without brain injury. Random forest is a non -linear machine learning technique that uses an ensemble learning 
+method for classification and regression.2 The ‘randomForest’ package in R was used for analysis.2 Random forest 
+included all test measures to predict participants with and without b rain injury using an ensemble of 100 decision 
+trees. The number of trees included in random forest was determined using random forest generalisation error that allows the out -of-bag (OOB) error conv ergence along the number of tree s in the forest to be exam ined.
+2 
+ The importance of predictor variables to classification was determined using the mean decrease in accuracy score 
+calculated during the OOB error calculation.
+2 The mean decrease in accuracy score describes the decrease in prediction 
+accuracy in rand om forest that occurs when a single variable is excluded from the model. So, variables with larger 
+mean decrease in accuracy scores are more important to prediction than other variables with lower scores. A feature 
+selection method was also used to determi ne which variables could be excluded from random forest to improve the 
+stability and parsimony of the model. The ‘ggRandomForests’ package was used to calculate the minimal depth and rank importance of predictor variables.
+3 This involved calculating the distribution of minimal depth of variables and 
+assumes variables with high impact on the prediction are those that most frequently split nodes nearest to the trunks of the trees. 
+4 
+ 
+Results  
+The OOB error rate for the random forest was 3.92%. There were two P ara swimmers with brain injury that were 
+incorrectly classified as non -disabled participants. The ratio of votes assigned to participants’ prior classification are 
+shown in Figure S1. There were 33% and 35% of votes assigned to the prior classification of the Para swimmers that 
+were incorrectly classified as non -disabled participants.  
+ 
+ 
+  
+Figure S1.  Ratio of votes to the classifications assigned by random forest algorithm. Ratio of votes (y) are shown for individual 
+participants (x).  
+ 
+Variable importance scores are shown in Figure S2. Mean decrease in accuracy and minimal depth sores indicated 
+non-dominant upper limb tapping, bilateral lower limb tapping, bilateral upper limb tapping and non -dominant lower 
+limb tapping to be the most important variables in  prediction of participants with and without brain injury. The 
+variables showed equal rank of importance when examining the mean decrease in accuracy and minimal depth scores 
+(Figure S3).  
+ 
+
+5 
+ 
+ 
+ 
+ 
+Figure S2. (A) Decrease in accuracy scores in rank order and ( B) minimal depth scores in rank order showing the importance of 
+test measures to prediction of participants with and without brain injury. The vertical dashed line in panel B indicates the 
+maximal minimal depth for important variables.  
+ 
+ 
+ 
+Figure S3. Comparison of minimal depth and mean decrease in accuracy rankings. This figure indicates variables had the same 
+rank of importance for both methods of variable importance. The horizontal dashed line indicates the maximal minimal depth 
+for important variab les. 
+     
+
+6 
+ 
+Supplementary Material Appendix 4  
+ 
+Partial least squares regression to predict maximal freestyle swim speed in Para swimmers with brain injury  
+Methods 
+The relationship between motor coordination impairment and maximal freestyle swim speed in Para  swimmers with 
+brain injury was established using ensemble partial least squares regression. The partial least squares method 
+transforms the data to reduce both predictor and response variables to x - and y -components.5 The derived x-
+components are then use d to predict the response using regression analysis. The advantage of partial least squares 
+regression is that while predictor variables may be colinear, the derived x -components will be independent of one 
+another while also keeping most of the variance ex plained in the dataset. The method also has the advantage of being 
+a dimension reduction technique , which has advantages w hen analysing datasets with many  predictor variables or 
+small sample sizes .  
+The ‘enpls’ package in R was used to conduct partial leas t squares regression on 100 Monte Carlo experiments with a 
+sampling ratio of 0.8.6 The ensemble learning method might improve the prediction accuracy and stability of partial 
+least squares regression by exploiting the statistical distribution of variable c oefficients and prediction errors. Motor 
+coordination test measures that were found to have significant correlations (p  < 0.05) with maximal freestyle swim 
+speed were included in analysis -  bilateral upper limb tapping was excluded. A maximum of 2 componen ts were 
+included in partial least squares regression and K -fold cross validation was used to examine the internal stability of the 
+model.  
+A systematic approach was used for training, selecting important predictor variables, and improving the accuracy and stability of the model (Figure S4). This involved removing individual cases from analysis and step -wise removal of least 
+important predictor variables. The vector of regression coefficients across multiple Monte Carlo experiments were 
+used to indicate impo rtance of predictor variables.
+6 The variable importance score was calculated as the mean of the 
+variable coefficient divided by the standard deviation of the variable coefficient. A larger importance score indicates 
+are larger and more consistent regressio n coefficient. The entire participant cohort was included as a new test set in 
+the optimised partial least squares regression model to establish the prediction accuracy and stability (Figure S5).  
+ 
+Results  
+The systematic approach used to improve the predict ion accuracy and stability of the partial least squares regression 
+model is shown in Figure S4. The first partial least squares regression included all participants and test measures that 
+had a significant correlation with freestyle swim speed (Figure S4A) . This model explained 72 % of the variance in 
+maximal freestyle swim speed (R2 = 0.719, RMSE = 0.185) although internal cross -validation indicated slight overfitting 
+of the data (cvR2 = 0.646, cvRMSE = 0.208). The three test measures related to lower limb  tapping were unexpectedly 
+found to be the most important predictors of maximal freestyle swim speed (Figure S4A). This could be explained by 
+the inclusion of three participants with severe diplegic spasticity that were unable to complete the lower limb tapping 
+tasks and were given a score reflecting one complete cycle for these test measures.  
+To determine the importance of predictor variables a second partial least squares regression was conducted only 
+including participants that had completed all the inc luded tapping tasks (Figure S4B). The importance of predictor 
+variables ranked highest to lowest was dominant upper limb tapping, non -dominant upper limb tapping, bilateral 
+lower limb tapping, non -dominant lower limb tapping, and dominant lower limb tappin g. A step -wise removal of the 
+least important predictor variable was done for a third (Figure S4C) and fourth (Figure S4D) partial least squares regression to improve the parsimony of the model. This resulted in improved prediction accuracy (R
+2 = 0.618 vs.  0.605) 
+and stability (cvR2 = 0.517 vs. 0.465) of partial least squares regression.  
+The entire cohort of Para swimmers were included in a fifth partial least squares regression as a test set to derive predictions of the response using the regression coeff icients from the optimised partial least squares (Figure S5). This 
+model that included dominant upper limb tapping, non -dominant upper limb tapping, and bilateral lower limb tapping 
+showed slight improvements in prediction accuracy and error (R
+2 = 0.724, R MSE = 0.184) and stability (cvR2 = 0.675, 
+cvRMSE = 0.199) compared with the first partial least squares regression that included all test measures (Figure S4A).  
+7 
+ 
+Figure S4.  Prediction accuracy and error (left), internal cross -validation (middle), and variable importance scores (right)  in partial 
+least squares regressions. The accuracy and stability of the partial least squares regression was improved by removing indivi dual 
+cases (A) and variables with least importance (C and D) during model training.  
+  
+R2 = 0.719  
+RMSE = 0.185  
+R2 = 0.605  
+RMSE = 0.198  
+R2 = 0.606  
+RMSE = 0.198  
+R2 = 0.618  
+RMSE = 0.195  
+cvR2 = 0.646  
+cvRMSE = 0.208  
+cvR2 = 0.465  
+cvRMSE = 0.231  
+cvR2 = 0.497  
+cvRMSE = 0.224  
+cvR2 = 0.517  
+cvRMSE = 0.219  
+8 
+ 
+ 
+ 
+ 
+Figure S5. (A) Prediction and accuracy, and (B) internal cross validation of the optimised partial least squares regression that 
+included dominant upper limb tapping, non- dominant upper limb tapping, and bilateral lower limb t apping as dependent 
+variables.    
+R2 = 0.724  
+RMSE = 0.184  cvR2 = 0.675  
+cvRMSE = 0.199  
+9 
+ 
+Supplementary Material Appendix 5  
+ 
+References  
+1. Hopkins WG. Spreadsheets for analysis of validity and reliability. Sportscience  2015;19:36- 42. 
+2. Liaw A, Wiener M. Classification and Regression by randomForest. R News  2002;2(3):18- 22. 
+3. Ehrlinger J. ggRandomForests: Visually Exploring Random Forests, 2016.  
+4. Ishwaran H, Kogalur UB, Gorodeski EZ, et al. High -Dimensional Variable Selection for Su rvival Data. J Am Stat Assoc  
+2010;105(489):205- 17. doi: 10.1198/jasa.2009.tm08622  
+5. Mevik BH, Wehrens R. The pls package: Principal component and partial least squares regression in R. J Stat Softw  
+2007;18(2):1 -23. 
+6. Cao DS, Deng ZK, Zhu MF, et al. Ensem ble partial least squares regression for descriptor selection, outlier 
+detection, applicability domain assessment, and ensemble modeling in QSAR/QSPR modeling. J Chemometr  
+2017;31(11):e2922.  
+  

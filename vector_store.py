@@ -4,10 +4,10 @@ from typing import List
 
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
-from local_loader import get_document_text
-from remote_loader import download_file
+#from local_loader import get_document_text
+#from remote_loader import download_file
 from splitter import split_documents
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from time import sleep
 
 EMBED_DELAY = 0.05  # 50 milliseconds

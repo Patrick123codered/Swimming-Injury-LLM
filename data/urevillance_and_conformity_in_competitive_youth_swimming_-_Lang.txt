@@ -1,0 +1,718 @@
+ 
+ 
+PLEASE SCROLL DOWN FOR ARTICLE 
+This article was downloaded by: [Lang, Melanie] 
+On: 29 June 2010 
+Access details: Access Details: [subscription number 918793047] 
+Publisher Routledge 
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 37-
+41 Mortimer Street, London W1T 3JH, UK
+Sport, Education and Society
+Publication details, including instructions for authors and subscription information:
+http://www.informaworld.com/smpp/title~content=t713445505
+Surveillance and conformity in competitive youth swimming
+Melanie Langa
+a York Saint John University, York, UK
+Online publication date: 21 January 2010
+To cite this Article Lang, Melanie(2010) 'Surveillance and conformity in competitive youth swimming', Sport, Education
+and Society, 15: 1, 19 — 37
+To link to this Article: DOI: 10.1080/13573320903461152
+URL: http://dx.doi.org/10.1080/13573320903461152
+Full terms and conditions of use: http://www.informaworld.com/terms-and-conditions-of-access.pdf
+This article may be used for research, teaching and private study purposes. Any substantial or
+systematic reproduction, re-distribution, re-selling, loan or sub-licensing, systematic supply or
+distribution in any form to anyone is expressly forbidden.
+The publisher does not give any warranty express or implied or make any representation that the contents
+will be complete or accurate or up to date. The accuracy of any instructions, formulae and drug doses
+should be independently verified with primary sources. The publisher shall not be liable for any loss,
+actions, claims, proceedings, demand or costs or damages whatsoever or howsoever caused arising directly
+or indirectly in connection with or arising out of the use of this material.
+RESEARCH NOTE
+Surveillance and conformity
+in competitive youth swimming
+Melanie Lang*
+Y ork Saint John University, Y ork, UK
+Underpinned by a Foucauldian analysis of sporting practices, this paper identifies the disciplinary
+mechanism of surveillance at work in competitive youth swimming. It highlights the ways in whichswimmers and their coaches are subject to and apply this mechanism to produce embodied
+conformity to normative behaviour and obedient, docile bodies. The data were drawn from a wider
+ethnographic study of 17 competitive squads and 13 coaches at three competitive swimming clubsin England. Data from participant observations of squad training sessions and semi-structured
+interviews with swimming coaches indicate that the pressure of being under constant surveillance
+leads athletes to submit to intensive training protocols and coaches to perform according to normsdictated by discourses of child safety. For athletes, submitting to these normalised training
+protocols increases risk of short and long-term injury and psychological harm. Meanwhile, working
+in a climate where discourses of child safety position every act of child /C1adult touch as suspicious
+leaves coaches feeling resentful, angry and constrained and denies them and their swimmers one of
+the most fulfilling, rewarding relationships available: that between a coach and an athlete.
+Keywords: Surveillance; Panopticon; Y outh sport; Discipline; Discourses of child safety
+Introduction
+This paper identifies the disciplinary mechanism of surveillance at work in
+competitive youth swimming. It uncovers the ways in which the bodies of swimmers
+and their coaches are subject to and apply this controlling mechanism to produce
+obedient, docile bodies (Foucault, 1977). It illustrates the usefulness of Foucauldian
+theory to explain two findings from a wider study into good practice in competitive
+youth swimming *the obedience of swimmers and coaching hierarchies. The paper
+begins by contextualising competitive youth swimming in England through a
+discussion of the Long-Term Athlete Development (LTAD) plan. This is followed
+by a discussion of Foucault’s understanding of the body within the technologies of
+dominance and an overview of the study from which the findings presented here
+*Carnegie Faculty of Health and Life Sciences, York Saint John University, Lord Mayor’s Walk,
+York YO31 7EX, UK. Email: M.Lang@leedsmet.ac.uk
+ISSN 1357-3322 (print)/ISSN 1470-1243 online/10/010019-19 #2010 Taylor & Francis
+DOI: 10.1080/13573320903461152Sport, Education and Society
+V ol. 15, No. 1, February 2010, pp. 19 /C137
+Downloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+emerged. Examples are offered of how surveillance sculpts swimmers ’and coaches ’
+bodies and the significance of this for competitive youth swimming.
+Competitive youth swimming in England
+With London hosting the 2012 Olympics, the pressure on British athletes to succeed
+has intensified. This pressure is particularly acute among British swimmers, whohave a poor international record (Lord, 2000; MacKay, 2000; Fraser, 2004; Green &
+Houlihan, 2006). Most swimmers aiming for a place on the 2012 team are school-
+aged*75% of swimmers on a squad identified as potential 2012 team members are
+aged 16 or under, the youngest being 12 years old (British Swimming, 2008). Eliteswimmers begin training earlier than in other sports, at an average of eight years and
+six months (English Sports Council (ESC), 1998). In many cases, young swimmers
+train year-round, for longer periods and covering greater distances than in othersports. Swimmers as young as 14 have been reported training 40-plus miles weekly
+(Leonard, 2006) *the aerobic equivalent of running 160 miles (Jones, 1999). The
+Amateur Swimming Association (ASA) supports this intense training regimen foryoung swimmers though its LTAD plan, ‘The Swimmer Pathway ’(ASA, 2003).
+Long-term athlete development in swimming
+The LTAD plan borrows training protocols from countries with a record of
+international success to create a framework for developing elite athletes from youthto senior level (Balyi, 1990). To this end, the plan cautions against using adult
+models of training with children and stresses a long-term approach (Balyi &
+Hamilton, 2004). Similarly, ‘The Swimmer Pathway ’emphasises long-term plan-
+ning, recommending that girls aged 11 and boys aged 12 train 14 /C127 hours weekly
+for around 32 miles in the pool *distances comparable to those for adult competitors
+only a decade ago (Raglin & Wilson, 1999). By comparison, England Netball ’s
+LTAD plan recommends 4 ½hours of netball training weekly for 11-year olds
+(Pankhurst & England Netball, 2005).
+Little critical attention has been paid to the frequency and intensity of training
+required of young athletes under the plan, despite growing evidence that frequent,
+intensive training of youth athletes can inhibit bone growth (Booth & Gould, 1975),
+cause physical and mental ‘burnout ’(Hollander et al., 1995) and increase potential
+for injury and dropout (Wolstencroft, 2002; Salguero et al., 2003). Crucially, no
+correlation has been found between beginning systematic training at an early age and
+the guarantee of future success (Hemery, 1988; Baxter-Jones & Helms, 1996;Starosta, 1996).
+This is not to suggest that youth participation in elite sport is intrinsically negative.
+Rather, the concern is the lack of recognition among the ASA and other swimmingstakeholders that the perversions of elite swimming can reverse the positive benefits
+of sports participation for young athletes (David, 1999). It is recognised, however,20 M. LangDownloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+that sports participation is not a forced activity; athletes seemingly submit to such
+intense training voluntarily. An understanding of why athletes conform to the intense
+normative training practices found in competitive youth swimming is necessary if we
+are to develop the potential of all young swimmers without putting them at risk of
+physical and psychological harm.
+Child protection in swimming
+The ASA ’s child protection strategy provides a framework of good practice for coaches
+working with young swimmers. The strategy was introduced after Olympic coach Paul
+Hickson was imprisoned in 1995 for rape and indecent assault of teenage athletes
+under his care. The negative media coverage surrounding the case turned the issue of
+child sexual abuse within sport into a cause ce ´le`bre. To restore trust, the ASA positioned
+itself at the vanguard of safeguarding children in sport, introducing one of the first
+NGB child protection policies and coach education courses on safeguarding children.
+Since then, numerous examples of child abuse and exploitation in youth sport have
+surfaced (Ryan, 1995; Kirby et al., 2000; Fasting et al., 2004; Gervis & Dunn, 2004)
+and social anxiety about child abuse in sport and wider society has become a moral
+panic (Brackenridge, 2001). In this climate, where safety from such abuse defines
+every act of child /C1adult touch as suspicious (Jones, 2004), increasing attention is
+being paid to how adults, including coaches, interact with youngsters. Most scholarly
+attention in sport has focused on coaching transgressions from athletes ’viewpoint.
+Research on the impact of this intensified attention on coaches is limited, but it has
+been suggested that coaches feel unable to perform their duties fully out of a fear they
+will be falsely accused of abuse (Bringer, 2002).
+Foucault’s retheorising of power
+Athletes are assumed to submit to intensive training regimens because they are goal
+driven. That athletes undergo such training voluntarily appears to support this
+assumption (Johns & Johns, 2000). However, critical analysis of sports culture
+indicates that various control mechanisms work to produce compliant athletes ‘that
+monitor, guard and discipline themselves ’(Eskes et al., 1998, p. 319). A key objective
+of sport is to produce an efficient, machine-like and obedient body. The centrality of
+the body within sport resonates with the importance placed on the body by Foucault.
+Foucault (1977) theorised that the body is a subject of technologies of power.
+Opposing conventional conceptualisations of power as a ‘thing ’possessed by certain
+individuals or groups and wielded over others, Foucault argues that individuals are
+enmeshed in a web of power created by discourse, which operates within the daily
+exchanges between individuals, groups and institutions. As such, power is bound
+to the production of knowledge and the ability to define what is accepted as ‘truth ’.
+For Foucault, then, the body is created by and exists in discourse, making it a central
+site for the workings of power.Surveillance and conformity in competitive youth swimming 21Downloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+Foucault was particularly interested in power that was capable of controlling,
+judging and normalising, what he termed ‘disciplinary power ’(Foucault, 1977).
+Foucault argued that pre-modern societies controlled individuals by arresting
+and public punishing a minority of criminals in an attempt to frighten the entire
+population. In contrast, modern societies control individuals through disciplinarypower that, while less violent, is more invasive and controlling (Westlund, 1999;
+Danaher et al., 2000) and functions at the level of the body:
+In thinking of the mechanisms of power, I am thinking rather of its capillary form of
+existence, the point where power reaches into the very grain of individuals, touches
+their bodies and inserts itself into their action and attitudes, their discourses,
+learning processes and everyday lives. (Foucault, 1977, p. 39)
+Foucault argued that disciplinary processes produce a disciplined and docile body
+‘that may be subjected, used, transformed, and improved ’(Foucault, 1977, p. 136).
+Modern sport is a site where individuals and their bodies are subjected to controlling
+mechanisms and, in turn, discipline themselves into productive, docile bodies *the
+embodiment of a successful performer (Heikkala, 1993).
+Surveillance as a technique of power
+Disciplinary power is exercised through technologies of dominance, which include
+techniques of exclusion, classification, distribution, individualisation, totalisation,regulation, normalisation and surveillance. In particular, sports scholars have applied
+the technology of surveillance to explore how athletic bodies become compliant and
+productive (Aycock, 1992; Carlisle Duncan, 1994; Markula, 1995; Chapman, 1997;Maguire & Mansfield, 1998). Attention to youth sport is limited, aside from analyses
+of physical education lessons (Hargreaves, 1986, 1987; Kirk, 1998; Martino &
+Beckett, 2004; Webb et al., 2004; Webb & Macdonald, 2007). One aim of this
+research is to close this knowledge gap.
+One of Foucault ’s most important insights regarding power is that it is more
+effective when hidden from view (Danaher et al., 2000). To illustrate this, Foucault
+(1977) cites Bentham ’s design for the Panopticon. A circular prison with a lit central
+tower from which a supervisor can view inside every cell, the Panopticon allowed
+inmates to be observed but prevented them from seeing the observer or even beingcertain they were under observation. Bentham recognised this innovative design
+ensured inmates ‘not only suspect [they are being observed] but be assured that
+whatever they do is known even though that should not be the case ’(Miller, 1988,
+p. 43). Similarly, Foucault recognised that subjects who are watched or who maybe
+watched internalise ‘the gaze ’and regulate their behaviours towards an accepted
+standard. The consequence of institutional authority being rendered invisible is self-surveillance ‘to induce in the inmate a state of conscious and permanent visibility
+that assures the automatic functioning of power ’(Foucault, 1977, p. 201). It is the
+internalisation of this panoptic gaze that renders surveillance such an effectivedisciplinary technique (Gilbert, 1995; Webb et al., 2004).22 M. LangDownloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+Technologies of the self
+Foucault ’s emphasis on how discursive practices control individuals has led to
+criticism that his conceptualisation of disciplinary power fails to account forindividual agency (McNay, 1992; Bevir, 1999). Foucault (1985, 1988) discusses
+this possibility through the ‘technologies of the self ’. Foucault argues that wherever
+circuits of power exist, opportunities for resistance also exist, allowing for thepossibility that power can be productive and transformative as well as disciplinary:
+...in relations, what ever they are ...power is always present. One must observe
+that there cannot be relations of power unless the subjects are free ...That means
+in the relations of power, there is necessarily the possibility of resistance for if therewere no possibility of resistance ...there would be no relations of power. (Foucault,
+1988, pp. 11 /C112)
+It is this understanding of power as both a constraining and potentially transforma-
+tory force that makes Foucault ’s conceptualisation of power a useful lens through
+which to understand competitive youth swimming. Foucault defines technologies of
+the self as practices that:
+...permit individuals to effect by their own means or with the help of others a
+certain number of operations on their own bodies and souls, thoughts, conduct,
+and way of being, so as to transform themselves. (Foucault, 1988, p. 18)
+Technologies of the self, then, are ‘about the role of the self within power
+relations *how an individual makes sense of the limitations set for him/her within
+power relations ’(Markula & Pringle, 2006, p. 146), and provide a useful framework
+through which to understand how individuals engage in resisting practices within theweb of power relations in which they exist.
+The study
+The findings presented here derive from a wider study that explored coaches ’
+perceptions of good practice within competitive youth swimming. An ethnographicapproach was considered most appropriate to capture the depth and breadth of data
+that this focus required and enable a more thorough exploration of the discursive
+resources that coaches have access to and are shaped by. The research methods wereparticipant observations followed by semi-structured interviews and the research was
+approved by the author ’s university ethical advisory committee.
+To build trust, the head coaches of three ASA-affiliated swimming clubs were
+approached first to discuss access. The clubs were placed at different levels of the
+elite-development ladder and categorised as elite, sub-elite or low level according to
+their position in The National Speedo League competition, England ’s largest inter-
+club swimming event (National Speedo Swimming League, 2005). Once the head
+coach ’s consent had been negotiated, access was arranged with assistant coaches and
+poolside helpers and the club chair gave overall approval for the author to workwithin the club. Letters informing athletes and their parents about the research wereSurveillance and conformity in competitive youth swimming 23Downloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+posted on club notice boards and the researcher was introduced to swimmers and
+observing parents before the field work. Observations lasted between seven and nineweeks at each club, until sufficient data had been gathered to inform my interviewquestions and ‘theoretical saturation ’(Glaser & Strauss, 1967) had been reached.
+Most observations were of pool sessions, although land-based training andcompetitions also were observed if scheduled.
+All six coaches at the elite club, Central Seals, were observed plus five coaches at
+sub-elite club North Eels and two at ‘low-level ’club South Dolphins. One regular
+poolside helper at North Eels also was observed. Table 1 outlines the clubs andpoolside staff that participated.
+Participants were approached to take part in interviews towards the end of the field
+work, when regular close contact had enabled rapport to be developed. This alsohelped determine the questions for interviews. Eleven coaches and the poolsidehelper were interviewed at the pool using a guided schedule. One coach at NorthEels declined to participate and another left before interviews were scheduled.Participants were between 22 and 60 years old and were guaranteed anonymity;pseudonyms are used throughout this paper. Interviews were semi-structured and
+lasted between 50 minutes and two hours. The questions sought the perspective of
+coaching staff regards the club and squad structure, the coach ’s role, athlete
+development, coach /C1athlete professional relationships, good practice when working
+with youth swimmers and child protection issues.
+Verbal ‘notes ’recorded during observations were expanded after each session
+to avoid conspicuous writing from the observation point on poolside. Using aconstructivist Grounded Theory approach, these notes, together with interviewtranscripts, were coded according to emergent themes, which were repeatedlyexamined for similarities, differences and patterns. Data analysis was ongoing andbegan while I was engaged in data generation and member checking was used toensure quality research (Lincoln & Guba, 1985).
+Table 1. Clubs and participants in observations and interviews
+Premier One Two
+Division in
+Speedo League Central seals Interview? North Eels Interview?South
+Dolphins Interview?
+Club level Elite Sub elite ‘Low’
+Head coach Andrew Yes Amanda Yes Jim YesAssistant
+coachesSteven Yes Keith Yes Kevin Yes
+John Yes Dave Yes /C1/C1
+Mike Yes Frank No /C1/C1
+Chris Yes Helen No /C1/C1
+Jenny Yes /C1/C1/C1 /C1
+Poolside
+helpers/C1/C1 Sheila Yes /C1/C124 M. LangDownloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+Conformity among swimmers
+Swimming training protocols at the clubs formed part of a disciplinary regime that
+attempted to enforce swimmers ’embodied conformity to normative behaviour
+through the technique of surveillance, resulting in (re)forming swimmers into
+obedient, docile bodies. Chambliss (1989) identifies discipline as a key differencebetween elite and non-elite swimmers. Well-disciplined athletes were a central focus
+in this study, with coaches noting the importance of athletes complying with their
+demands:
+[I]t’s got to be good discipline. I get a lot of new kids so the first thing you need to
+do is to make sure they ’ve got discipline ...that they understand what ’s expected of
+them and that they do what I tell them. (Mike)
+One of the biggest things is sort of like discipline to do what they ’re told ...I really
+want them to be concentrating on what they ’re doing and trying to put into practice
+what I say. (Kevin)
+Swimmers are exposed to a discourse of physical preparation that attributes certain
+meanings to their preparation, including that they must comply with strict training
+regimes and controlled lifestyles to achieve success:
+The training sessions are to develop the technique, aerobic capacity and anaerobic,
+erm, it is to train them for competition ...We hope to teach them correct technique
+and the proper rules of the sport and hopefully, if they train hard enough, get them
+better swimmers. (Amanda)
+When [Olympic medallist] Peter George joined the club he came with a bit of a
+reputation of, rightly or wrongly, a bit of a party animal and I had to address that
+head on ...and I said to him ‘you can come but under these circumstances, under
+these rules ’...and it was agreed that [in] Olympic year [that] nobody would drink.
+(Andrew)
+This discourse reveals the disciplinary power evidenced by compliance of the
+athletes. The swimming body is disciplined by discourses and practices suggesting
+how a swimmer ‘should ’train*in these examples by working hard on aerobic sets,
+mastering ‘correct ’swimming technique and avoiding alcohol. In addition, elite
+swimmers from each club were used to demonstrate ‘correct ’swimming technique to
+swimmers from lower squads. The provision of prescribed and proscribed training
+regimes, coupled with the practise of highlighting the club ’s elite swimmers ’abilities,
+worked as a regulatory power that:
+...define[s] how one may have a hold over others ’bodies, not only so that they may
+do as one wishes, but so that they may operate as one wishes, with the techniques,
+the speed, and the efficiency that one determines. (Foucault, 1991, p. 182)
+Surveillance also was employed to enforce athletes ’conformity to training regimes.
+The pool operated as a Panopticon, monitored by the swimming equivalent of
+Bentham ’s prison guard *the coach. At North Eels and South Dolphins coaches
+monitored swimmers by pacing along the poolside while external surveillance alsooperated through authority figures such as lifeguards, poolside helpers and parents,Surveillance and conformity in competitive youth swimming 25Downloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+with numerous individuals monitoring the poolside during training sessions.
+Similarly, at Central Seals the architecture of the pool and the coaches ’behaviour
+allowed swimmers to be constantly observed:
+Fieldnotes, 30 April 2007: The poolside [at Central Seals] is constructed like a
+goldfish bowl. Windows along two sides of the pool allow people from the streetoutside to peer in and a lifeguard is on permanent watch in a high chair. Thecoaches stand on a raised platform along the side of the pool and stride up and
+down alongside swimmers, stopwatches in hand.
+Hierarchical lane systems were used, with weaker swimmers located in lanes closer to
+the coach ’s normalising gaze:
+There ’s one swimmer in particular who I would say perhaps shouldn ’t really be in
+Intermediates [squad] so I would definitely keep him in the first lane so I couldobserve him up and down easier. (Sheila)
+The keeping of registers was another disciplinary tool used to ensure athletes ’
+conformity. All clubs maintained attendance records and swimmers in the top threesquads at Central Seals were required to keep log books that were submitted tothe coach monthly. Swimmers who transgressed from normalised training regimes
+were punished. Swimmers in Central Seals ’top squad were required to attend
+10 weekly sessions to retain their place in the squad and one swimmer was bannedfrom the squad during the field work for failure to adhere to this regime:
+Fieldnotes, 3 May 2007: One swimmer, John, arrived 10 minutes late for the start
+of the session. Andrew shouted him over. ‘He’s lazy, never comes enough. He ’s
+supposed to be training full time but never makes all the sessions, ’he explained to
+me. After a few minutes chatting with Andrew, John collected his bag and left thepool. ‘If he can ’t be bothered to come, I can ’t be bothered to coach him, ’Andrew
+said.
+Log books enforced normalised behaviour. Athletes, knowing their log book must be
+submitted to the coach for inspection, internalised the panoptic gaze by attending therequired minimum number of sessions per week. Failure to do so would not only be
+noticed by the coach but would be obvious from the empty pages of their own book.
+Coaches also monitored athletes ’behaviour outside of training sessions. At Central
+Seals, coaches monitored swimmers ’diet:
+Some of the kids were a bit podgy [when I first came to the club] so I banned all
+junk food and told them that if I ever saw them with any rubbish, I ’d take it off them
+for myself. (Steven)
+We tell [the swimmers] that if they eat sweets or chocolates or crisps and the coach
+sees you we ’ll take them off you and we ’ll eat them, so we tell them that ’s what ’s
+going to happen and they know we ’re watching to catch them out. (Chris)
+Monthly weigh-ins also formed part of the coaches ’repertoire of body-controlling
+practices. Athletes in the top three competitive squads at Central Seals were weighedand their sitting and standing heights measured. Mirrors provided another way forcoaches to monitor swimmers. At Central Seals and North Eels, athletes performed26 M. LangDownloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+stretching exercises in a room with full-length mirrors hung on three of its four walls.
+The mirrors allowed the athletes not only to be monitored by the coach but also tomonitor themselves and those around them (Aycock, 1992), permitting the critical
+eye of the coach, other athletes and the subject to judge the degree of adherence to
+the training regime.
+Video cameras were used to similar disciplinary effect. At Central Seals, coaches
+videotaped swimmers monthly and distributed copies of the video to the relevantswimmer for self analysis.
+1Similarly, at North Eels, swimmers were recorded using
+underwater cameras. Keith explained the impact of filming on swimmers:
+When we got the underwater camera out the first time, we just took photos of
+everyone and ...they could see, because you can play it back and they can all look
+at it and say ‘ah right, yep I know what you ’re saying now. ’The camera makes it
+easier for swimmers to see themselves and change what they ’re doing. (Keith)
+Advances in technology mean swimmers ’bodies are no longer hidden from view
+when underwater. The effect of being filmed parallels the effect of training in amirrored room: Swimmers are enabled, even encouraged, to monitor their bodies
+and the bodies of their peers for transgressions from ‘correct ’swimming technique,
+resulting in careful self-surveillance. This self surveillance is the result of theanonymity of a normalising gaze that is ‘everywhere and always alert ...func-
+tion[ing] permanently and largely in silence ’(Foucault, 1991, p. 192), a gaze that
+engages athletes in a disciplinary practice to perform idealised swimming technique.
+The possibility of constant surveillance ensures athletes internalise the panoptic
+gaze and continue to strive towards achieving ‘perfect ’swimming technique even in
+the coach ’s absence. In this sense, the disciplinary control of the body has also begun
+to control the mind. Relentless surveillance has induced in the athletes ‘a state of
+conscious and permanent visibility that assures the automatic functioning of power ’
+(Foucault, 1977, p. 201). Indeed, with up to 60 swimmers in the pool at any onetime, coaches cannot monitor every athlete ’s adherence to normalised training
+standards. The effects of internalising surveillance render this unnecessary:
+If the culture of the squad is good, then they ’ll see everybody else having a recording
+board to record their times and a heart rate monitor and doing all that. They ’ll see
+that and ...they’ll want to do it so they get a bit of peer pressure to conform ...
+because you don ’t want to be the kid that turns round in a lane when nobody else
+does. (Andrew)
+The regulatory practices described above resulted in a ‘constant coercion, super-
+vising the processes of activity rather than its result end ’(Foucault, 1977, p. 137) and
+led to swimmers ’conformity to the standards expected of competitive swimming
+culture, such as regular attendance, arriving early on poolside and maintainingtechnical excellence. Conformity to these regulatory practices was common.
+Swimmers in the top squads knew the standards expected of them:
+Fieldnotes, 17 September 2007: The swimmers in the top squads are extremely
+disciplined, always arriving 5 /C110 minutes early on poolside and begin their warm-
+up stretching exercises unprompted. They start the sets without being prompted,Surveillance and conformity in competitive youth swimming 27Downloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+set off 10 seconds apart unprompted using the poolside clock and take the required
+rest*almost to the second! They don ’t even ask permission to go to the toilet until
+the end of sets.
+However, not all swimmers obeyed these standards, especially at North Eels and
+South Dolphins:
+Field notes, 30 January 2008: In the lower squads, swimmers pull themselves along
+on the lane ropes during backstroke sets, push off the pool bottom rather than thewall and take rests to fix ‘broken ’goggles. Kevin shouted several times at swimmers
+in his group for ‘cheating ’and asked if I ’d‘keep an eye ’on them. ‘You’ve got to have
+eyes in the back of your head sometimes, ’he explained.
+Through these technologies of the self (Foucault, 1985, 1988), swimmers exercised
+autonomy to resist normalised training protocols and transform their competitiveswimming experience *to the obvious annoyance of their coaches.
+Coaching hierarchies
+Another theme that emerged was the existence of hierarchies among coaches. Even
+small swimming clubs have several coaches: a head coach who usually worksexclusively with the top squad and several assistant coaches who work with othersquads. Occasionally, clubs also have poolside helpers. In this study, the head coach ’s
+position of authority was reinforced through surveillance. Assistant coaches andpoolside helpers expressed awareness the head coach was monitoring their sessions:
+Andrew keeps an eye on how we ’re doing ’cos it ’s important that we bring through
+good swimmers for him. He gives me advice on how to help improve my swimmersand keeps an eye on how I ’m doing. (Jenny)
+Andrew will often have a look at [the swimmers in my squad] and what I ’m doing
+and say ‘why don ’t you try this, that or the other with him because he ’s not quite
+getting it right. ’(Chris)
+Every Monday, the coaching staff have every coach get up and do demonstrations
+and Andrew speaks to them about how good their demonstrations are. (Steven)
+Like all coaches, Andrew is viewed as a ‘knowledge giver ’(Johns & Johns, 2000). As
+an Olympic coach with the highest professional qualification, he has at his disposalmore ‘tools’*more technical knowledge, expertise, status and resources *than other
+coaches at Central Seals. Through practising surveillance on the other coaches,Andrew deploys these tools to discipline the other coaches by ‘taking charge ’over the
+coaching process, including the coaches themselves, exhibiting what Barth (1998,
+p. 254) calls a ‘pervasive and reasoned compulsion to normalise individuals ’.
+On occasion, the head coach also felt the panoptic gaze *from the external
+authority of the ASA. During the field work at Central Seals, ASA officials attendedthe club to audit its Aquamark
+2status. As Andrew noted:
+There were all these people on poolside with clipboards, ticking boxes you know. It
+was awful, very off-putting. (Andrew)28 M. LangDownloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+The Aquamark audit is a panoptic process. It prompted the club ’s staff to adopt
+normalised behaviours. Foucault noted that surveillance functions so effectively as atechnique of power because it ‘fixes ...arrests or regulates movements ’(Foucault,
+1991, p. 208), proscribing and prescribing certain behaviours according to somesocial norm. The presence of the Aquamark auditors prompted Central Seals ’staff to
+exhibit what Perryman (2006) calls panoptic performativity by changing theirbehaviours to align with accepted social norms:
+Fieldnotes, 25 June 2007: Andrew told me the club had its Aquamark status taken
+away last year because the club allows its swimming teachers into the water withswimmers and the ASA assessors didn ’t like this. While the assessors are here now
+though, the teachers and coaches are all working from poolside and there ’s no one
+in the pool as usual.
+Coaching in a climate of fear
+Surveillance was also employed by coaches to ensure appropriate behaviour was
+maintained. Coaches took responsibility for monitoring the behaviour of those lowerin the hierarchy:
+When I ’m supervising the squad I keep an eye out and I try and advise the less
+experienced coaches, you know, if I see them doing things that I think is probablynot suitable. (Chris)
+If I see the coach of a lower squad, erm, shouting ...we used to have one or two
+coaches who did shout at the kids, and, erm, I went to see those kids after to makesure that they weren ’t upset about it all, and I ’d watch coaches for that. (Keith)
+Several high-profile cases of child sexual abuse within sport have led Brackenridge
+(2001) to argue we live in an era in which social anxiety about child sexual abuse hasbecome a moral panic. Researchers in the field of primary school education arguethis climate has created an environment in which safety from sexual abuse definesevery act of adult /C1child touch as suspicious, resulting in all adults who work with
+children being positioned as suspicious and child-related settings becoming no-touchzones (Jones, 2004; McWilliam, 2001, 2003; McWilliam & Jones, 2005; Piper et al.,
+2006). In a climate so focused on the potential of adults to harm children sexually,
+coaches, like other adults in loco parentis , have become objects of distrust.
+For the coaches, the risk of being accused of abuse has become a ‘regime of truth ’
+(Foucault, 1977, p. 131) that defines ‘correct ’social conduct when working with
+children. The coaches constantly worked to reduce this risk by practising surveillanceon coaches lower in the coaching hierarchy. The discourse of fear in which abusivetouch is conflated with caring touch, making all touch ‘suspicious ’, was evident
+among all the coaches. However, true to the disembodied nature of the panopticgaze, none was specific about where this observation emanated from:
+My bugbear is that the way it is now, we ’reallseen as under suspicion ...I hate that
+and I don ’t want my staff to feel like they ’re being put under suspicion. (Andrew)Surveillance and conformity in competitive youth swimming 29Downloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+We don ’t want anything misinterpreted. It has got to be all soabove board. We have
+to be very careful about what we do and how it ’ll be seen ...Sometimes it ’s like
+we’realways under suspicion. (Amanda)
+I get swimmers [who] come to me and hug me, you know, and up to a few year[s]
+ago I ’d hug them back. Now I am aware that I shouldn ’t because people might see it
+wrong. (Jim)
+The objects of power *in this case, the coaches *know they are visible and maybe
+being observed, even though the institutional authority itself is invisible: ‘surveillance
+is permanent in its effects, even if it is discontinuous in its action ’(Foucault, 1977,
+p. 201). Aware of this relentless observability, the coaches internalise the behaviours
+considered normative in a youth swimming context *standards drawn in this case
+from child safety discourses *and behave accordingly. They monitor their own
+behaviour and practise surveillance on other coaches to ensure these standardsare met.
+Most coaches engaged with dominant discourses of child safety that position men
+as more risky subjects than women:
+I think ...parents will look and think ‘oh that ’s a woman, they ’re motherly figures,
+and so they ’re alright ’but when it ’s a male it ’s‘oh, look where that hand is there ’
+and, you know, ‘why are they doing that? ’(Amanda)
+I think it does make a difference being a man because you ’re a bit, erm, more under
+suspicion ...and people might question why you do it. (Kevin)
+I think everybody assumes abuse is a male thing ...Iamconscious of that. (Jim)
+Jones (2004) found primary school teachers of both sexes went to great lengths to
+make themselves visible in their workplace, with male teachers especially avoidingbeing alone with students. In this research, coaches of both sexes discussed takingprecautions to ensure their observability. However, female coaches expressed more
+concern than males about being falsely labelled abusive, perhaps because of the
+unspeakable nature of sexual abuse perpetrated by women (Valios, 2000; Bunting,2007).
+So pervasive is the fear of being falsely accused of abuse that coaches welcomed
+working in a culture of compulsory visibility:
+Some of the older female swimmer might go and give Jim a cuddle. It ’s one of those
+instances that could be interpreted as harmless or the wrong thing to do ...and that
+depends on where it ’s done. If it ’s done on pool where there ’s other people
+watching, then that ’s probably OK, that ’s probably the right place to do it because
+everyone can see what you ’re doing. (Kevin)
+The architecture of swimming pools enables coaches to position themselves as ‘safe’
+through direct observation by others. Coaches work in a goldfish bowl; the openspace of the pool is positioned as the central vantage point in leisure centres,surrounded by public viewing areas. On the poolside, coaches worked in view ofnumerous people *up to eight coaches, poolside helpers and lifeguards worked
+together on poolside and spectators watched from behind glass walls or elevated30 M. LangDownloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+platforms. The swimming pool is ‘the diagram of a power that acts by means of
+general visibility ’(Foucault, 1991, pp. 189 /C1190) and its architecture ‘render[s]
+visible those who are inside it ’(Foucault, 1991, p. 190). This allows exposure to the
+panoptic gaze of numerous others, permitting ‘the critical eye of the coach and the
+other athletes to judge the degree to which [she] had adhered to [her] regime ’(Johns
+& Johns, 2000, p. 227).
+Occasions when public view could not guarantee observability, such as when
+coaches held private meetings with athletes or supervised closed-door land-training
+sessions, were a source of particular anxiety. In such instances, coaches intensified
+the practice of surveillance for their own safety, going to great lengths to ensure theywere perpetually visible.
+Fieldnotes, 24 May 2007: Steven had propped open the door [of the land-work
+room] and positioned his chair in the doorway between the room and the spectator
+area. When I asked why he was sitting there, he said it was so ‘everyone ’could see
+him.
+In ensuring their constant visibility, coaches exposed further hierarchies between
+themselves and other swimming stakeholders:
+We have teachers in the water with the beginner swimmers and people can be quite
+nervous about that because parents would ’ve said ‘oh you ’re holding my child ’,s o
+we make sure we ’re transparent about what we ’re doing and why and always have
+another coach around. (Chris)
+I always make sure that ...if you ’re going to be working one on one with a swimmer
+you have another coach there. Never put yourself in a position really of ...a
+difficult situation. (Steven)
+In the Panopticon of the swimming pool, the safe coach, like the self-disciplined
+subject of Bentham ’s prison (Foucault, 1977), positions himself or herself in others ’
+eyes by ensuring another person is present if they cannot avoid being alone with
+swimmers. Observability has become a normal element of these coaches ’lives. The
+ASA child protection policy also links visibility with safe coaches, advising coaches to,
+‘Avoid one to one situations with a swimmer except in an unavoidable emergency ’,
+‘Make sure you have another adult accompanying you ’and‘Get coaches/club officials
+to work in pairs ’(ASA, 2004, p. 15). A good coach, it seems, is an observable coach.
+However, the coaches in this study did not consider all external observation
+equal. Having another adult, more specifically another coach, present was most
+desirable, although a parent of a swimmer would suffice if no coach was available.
+The presence of another athlete was an insufficient safeguard, however. While it isnaive to suggest that the external gaze is automatically neutral and, therefore, safe, it
+is understandable that coaches prefer to be observed by their peers. Operating within
+the same ‘regime of truth ’(Foucault, 1977, p. 131), a coach ’s understanding of
+‘correct ’social conduct with young people will be more closely aligned with that of
+another coach than with that from someone outside the discipline of coaching
+(Danaher et al., 2000). Meanwhile, that other children are not considered effective
+performers of the safe external gaze perhaps stems from the deep-seated notion thatSurveillance and conformity in competitive youth swimming 31Downloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+children lie about abuse *a legacy of legal discourses that have long defined children
+as untrustworthy (Hudson, 1992; Bridgeman & Monk, 2000; Brackenridge, 2001).
+Coaches desire to have another adult present to ensure they are seen to be
+innocent. The point of another individual ’s gaze is that there is nothing to see (Jones,
+2004). The second individual is there to witness that ‘nothing happened ’. As Jones
+notes, however, the witness is also a potential accuser and could see ‘nothing ’as
+‘something ’, so even when in public view no coach can be immune from accusation
+and‘the spectre of every-[adult]-as-potential abuser ...is always present ’(Jones,
+2004, p. 58). This tension was evident in coaches ’discussions of instances of parental
+complaints. Coaches at North Eels told of a parent accusing a coach of physicallyassaulting a swimmer by putting his hand on the boy ’s head. The coach was too
+afraid to perform his duties for several weeks and the incident had made the other
+coaches cautious of using parents as ‘witnesses ’. Children, it seems, are not the only
+people who may be ‘at risk ’in sporting settings.
+Foucault recognised that the efficacy of surveillance lies in its ability to turn the
+observed subject into the observer. While the coaches practised surveillance on othercoaches, the possibility of being under constant surveillance also prompted them tointernalise this gaze so they became auditors of their own behaviour:
+A lot of the time you have to be very,veryconscious of what you ’re doing. I feel that
+I’m quite a natural coach in terms of my coaching style just occurs and quite often
+I have to stop and think about what I ’m doing. (Steven)
+As a coach I ’ve got to be so careful and we try to drum that into coaches here ...
+I would never ever get in the water without a T -shirt and I ’m always very very
+conscious of where my hands are. (Amanda)
+Child protection is difficult for us. I have to think ‘should I do that? ’all the time.
+(Jim)
+The coaches became and remained the subject of their own surveillance, reflecting the
+gaze back onto themselves, further increasing its power (Tsang, 2000). They behavedas though they were under constant scrutiny and acted accordingly by engaging in
+self-disciplinary practices of monitoring their own behaviour (Jones et al., 2005). The
+coaches policed their own behaviour to ensure any touch could be seen both bythemselves and by anyone watching, thus constituting it as innocent.
+Conclusion
+This paper has identified the ways in which the bodies of swimmers and their coaches
+are subject to and apply the disciplinary mechanism of surveillance to produceembodied conformity to normative behaviour (Foucault, 1977). The pressures of
+being under constant surveillance led athletes and their coaches to internalise the
+panoptic gaze (Foucault, 1977) and regulate their behaviours towards acceptedstandards. For swimmers, exposed to a discourse of physical preparation that equatescompliance with strict training regimes and controlled lifestyles with success, thesestandards included undertaking frequent, intense training sessions, adhering to strict32 M. LangDownloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+discipline and recording their times, stroke and heart rate, session attendance and
+weight. Guided by this discourse of physical preparation, athletes learned to submitto these normalised training protocols and were sculpted into compliant, docilebodies. The consequences of this for competitive swimming are manifold. Frequent,
+intensive training places young athletes at risk of short and long-term injury and
+psychological harm (Micheli, 1990; Donnelly, 1993; Eitzen, 2006). Meanwhile, thepressure to conform to accepted training protocols removes the element of fun thatattracts so many youngsters to sport (Engh, 2002; Eitzen, 2006), resulting in largenumbers of swimmers leaving the sport before they reach 18 (Salguero et al., 2003).
+That these practices, which risk the health, safety and long-term affinity of young
+people with sport, often are the unquestioned norm rather than the exception istroubling. As Shogan (1999) notes, if we are to truly provide young people with apositive environment in which they can enjoy sport and a long-term future within it,we must:
+...encourage an active and ongoing questioning by participants of the ways in
+which sport discipline ‘normalises ’practices that would otherwise be considered
+harmful and that produce athletes capable of and willing to engage in these
+practices. (Shogan, 1999, p. 91)
+The findings also have implications for coaches. Touch is an essential part of
+coaching. Yet the potential for touch to be misinterpreted was powerful enoughamong coaches to prompt them to adopt working practices that they consider to becontrary to their professional knowledge base and to the interests of athletes. The
+discourse that positions adults who work with young people as suspicious placed
+considerable strain on coaches of both sexes, prompting them to perform accordingto the norms dictated by discourses of child safety in order to position themselves assafe. Fearful of being falsely accused of improper behaviour, observability hasbecome a normal element of these coaches ’lives. But the pressures of meeting child-
+safety standards caused anxiety and left coaches feeling resentful and constrained,
+unable to adopt the more holistic role of pastoral carer that they believe is beneficialto athletes. Steven echoed comments made by all the coaches, saying:
+The relationship you have now with your swimmer feels a little bit ...coach/C1
+swimmer rather than mentor/C1swimmer like it used to be. You have to be so many
+things as a coach ...in swimming the funding ’s not there to have a nutritionist, the
+funding ’s not there to have a physio ...a psychologist, so you have to be a
+nutritionist, a physio, a psychologist, a friend, a role model ...but you almost
+sometimes feel like your hands are tied. (Steven)
+An environment in which coaches feel unable to carry out their duties to the best of
+their abilities and are alienated from the young people to whom they dedicate so
+much of their time is neither positive for coaches nor for swimming. Most coaches
+are law-abiding, caring individuals who dedicate vast amounts of time to the sportthey love for little or no remuneration. Yet working in an environment where they areunder constant scrutiny and suspicion could prompt good coaches to leave the sport,while still others could be discouraged from getting involved in the first place.Surveillance and conformity in competitive youth swimming 33Downloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+This could prove disastrous for the future of swimming at all levels. Yet, there is
+perhaps an even sadder consequence *that of denying adults and children one of the
+most fulfilling, rewarding relationships available: that between a coach and an
+athlete.
+Acknowledgements
+Sincere thanks to Anne Flintoff, Karl Spracklen and to the two anonymous reviewers
+for their valuable suggestions on an earlier draft of this paper. Thanks are also due to
+the British Sociological Association for its support with the wider study from whichthis paper is derived.
+Notes
+1. The consent of a parent or guardian was gained before swimmers were videotaped.
+2. Aquamark is the ASA ’s equivalent of the Charter Mark standard for swimming lesson
+programmes.
+References
+Amateur Swimming Association (ASA). (2003) The swimmer pathway: long-term athlete development
+(Loughborough, ASA).
+Amateur Swimming Association (ASA). (2004) W avepower: child welfare in swimming *procedures
+and guidelines (Loughborough, ASA).
+Aycock, A. (1992) The confession of the ﬂesh: disciplinary gaze in casual bodybuilding, Play and
+Culture, 5, 338 /C1357.
+Balyi, I. (1990) Quadrennial and double quadrennial planning of athletic training (Victoria, B.C.,
+Canadian Coaches Association).
+Balyi, I. & Hamilton, A. (2004) Long-term athlete development: trainability in childhood and
+adolescence. Windows of opportunity, optimal trainability (Victoria, National Coaching Institute
+British Columbia & Advances Training and Performance).
+Barth, L. (1998) Michael Foucault, in: R. Stones (Ed.) Key sociological thinkers (London,
+Macmillan), 252 /C1265.
+Baxter-Jones, A. D. G. & Helms, P. J. (1996) Effects of training at a young age: a review of the
+training of young athletes (TOYA) study, Pediatric Exercise Science, 8, 310 /C1327.
+Bevir, M. (1999) Foucault and critique: deploying agency against autonomy, Political Theory, 27,
+65/C184.
+Booth, F. W. & Gould, E. W . (1975) Effects of training and disuse on connective tissue, Exercise
+Sports Science Review, 3, 83/C1112.
+Brackenridge, C. H. (2001) Spoilsports: understanding and preventing sexual exploitation in sport
+(London, Routledge).
+Bridgeman, J. & Monk, D. (2000) Reﬂections on the relationship between feminism and child law,
+in: J. Bridgeman & D. Monk (Eds) Feminist perspectives on child law (London, Cavendish),
+1/C118.
+Bringer, J. (2002) Swimming coaches ’perceptions and the development of role conﬂict and role ambiguity .
+Unpublished Ph.D. thesis, Leisure and Sport Research Unit, Cheltenham and GloucesterCollege of Higher Education.34 M. LangDownloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+British Swimming. (2008) Swimming unveils ‘target squad ’for 2012 games [Internet]. Available
+online at: http://www.britishswimming.org (accessed 18 January 2008).
+Bunting, L. (2007) Dealing with a problem that doesn ’t exist? Professional responses to female-
+perpetrated child sexual abuse, Child Abuse Review, 16, 252 /C1267.
+Carlisle Duncan, M. (1994) The politics of women ’s body images and practices: Foucault, the
+Panopticon and ‘Shape ’magazine, Journal of Sport and Social Issues, 18, 48 /C165.
+Chambliss, D. F. (1989) The mundanity of excellence: an ethnographic report on strati ﬁcation and
+Olympic swimmers, Sociological Theory, 7, 70/C186.
+Chapman, G. E. (1997) Making weight: lightweight rowing, technologies of power and
+technologies of the self, Sociology of Sport Journal, 14, 205 /C1223.
+Danaher, G., Schirato, T. & Webb, J. (2000) Understanding Foucault (London, Sage).
+David, P. (1999) Children ’s rights and sports: young athletes and competitive sports *exploit and
+exploitation, International Journal of Children ’s Rights, 7, 53/C181.
+Donnelly, P. (1993) Problems associated with youth involvement in high-performance sport, in:
+B. R. Cahill & A. J. Pearl (Eds) Intensive participation in children ’s sports (Champaign, IL,
+Human Kinetics), 95 /C1126.
+Eitzen, D. S. (2006) Fair and foul: beyond the myths and paradoxes of sport (3rd edn) (Oxford,
+Rowman & Little ﬁeld).
+Engh, F. (2002) Why Johnny hates sports: why organised youth sports are failing our children and what
+we can do about it (New York, Square One).
+English Sports Council (ESC). (1998) Development of sporting talent 1997: report of ﬁndings
+(London, ESC).
+Eskes, T. B., Carlisle Duncan, M. & Miller, M. (1998) The discourse of empowerment: Foucault,
+Marcuse and women ’sﬁtness texts, Journal of Sport and Social Issues, 22, 317 /C1344.
+Fasting, K., Brackenridge, C. & Sundgot-Borgen, J. (2004) Prevalence of sexual harassment
+among Norwegian female elite athletes in relation to sport type, International Review for the
+Sociology of Sport, 39, 373 /C1386.
+Foucault, M. (1977) Discipline and punish: the birth of the prison (London, Allen Lane).
+Foucault, M. (1985) The use of pleasure: the history of sexuality (vol. 2) (London, Penguin).
+Foucault, M. (1988) Technologies of the self, in: L. H. Martin, H. Gutman & P. H. Hutton (Eds)
+T echnologies of the self: a seminar with Michel Foucault (Amherst, University of Massachusetts
+Press), 16 /C149.
+Foucault, M. (1991) Disciplines and sciences of the individual, in: P. Rabinow (Ed.) The Foucault
+reader: an introduction to Foucault ’s thought (London, Penguin), 169 /C1256.
+Fraser, A. (2004) How the British fared [Internet]. Available online at: http://news.bbc.co.uk/sport1/
+hi/olympics_2004/3610780.stm (accessed 14 April 2008).
+Gervis, M. & Dunn, N. (2004) The emotional abuse of elite child athletes by their coaches, Child
+Abuse Review, 13, 215 /C1223.
+Gilbert, T. (1995) Nursing: empowerment and the problem of power, Journal of Advanced Nursing,
+21, 865 /C1871.
+Glaser, B. & Strauss, A. (1967) The discovery of grounded theory: a strategy for qualitative research
+(Chicago, IL, Aldine).
+Green, M. & Houlihan, B. (2006) Elite sport development: policy learning and political development
+(London, Routledge).
+Hargreaves, J. (1986) Sport, power and culture (Cambridge, Polity Press).
+Hargreaves, J. (1987) Sport, the body and social relations, in: J. Horne, D. Jary & A. Tomlinson
+(Eds) Sport, leisure and social relations (London, Routledge & Kegan Paul), 139 /C1159.
+Heikkala, J. (1993) Discipline and excel: techniques of the self and body and the logic of
+competing, Sociology of Sport Journal, 10, 397 /C1412.
+Hemery, D. (1988) Should a child specialize just in one sport? The pursuit of sporting excellence: a study
+of sport ’s highest achievers (Champaign, IL, Human Kinetics).Surveillance and conformity in competitive youth swimming 35Downloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+Hollander, E. B., Meyers, M. C. & LeUnes, A. (1995) Psychological factors associated with over-
+training: implications for youth sport coaches, Journal of Sport Behaviour, 18, 3/C120.
+Hudson, A. (1992) The child sexual abuse ‘industry ’and gender relations in social work, in:
+M. Langan & L. Day (Eds) W omen, oppression and social work: issues in anti-discriminatory
+practice (London, Routledge), 129 /C1148.
+Johns, D. P. & Johns, J. S. (2000) Surveillance, subjectivism and technologies of power: an analysis
+of the discursive practice of high-performance sport, International Review for the Sociology of
+Sport, 35, 219 /C1234.
+Jones, A. (2004) Social anxiety, sex, surveillance and the ‘safe’teacher, British Journal of the
+Sociology of Education, 25, 53 /C166.
+Jones, J. H. (1999) Swimming overuse injuries, Physical Medicine Rehabilitation Clinic of North
+America, 10, 77 /C194.
+Jones, R. L., Glintmeyer, N. & McKenzie, A. (2005) Slim bodies, eating disorders and the
+coach/C1athlete relationship: a tale of identity creation and disruption, International Review for
+the Sociology of Sport, 40, 377 /C1391.
+Kirby, S. Greaves, L. & Hankivsky, O. (2000) Dome of silence: sexual harassment and abuse in sport
+(London, Zed Books).
+Kirk, D. (1998) Schooling bodies: school practice and public discourse 1880 /C11950 (London, Leicester
+University Press).
+Leonard, J. (2006) Age-group training volumes in the USA, American Swimming Coaches
+Association Newsletter, 4, 1/C12.
+Lincoln, Y. S. & Guba, E. (1985) Naturalistic enquiry (Beverley Hills, CA, Sage).
+Lord, C. (2000) Britain out of their depth, The Times online [Internet]. Available online at: http://
+www.times-olympics.co.uk/archive/swimmings21o.html (accessed 14 April 2008).
+MacKay, D. (2000) Edwards attacks ‘awful ’swimmers [Internet]. Available online at: http://
+www.guardian.co.uk/sydney/story/0,,366970,00.html (accessed 14 April 2008).
+Maguire, J. & Mans ﬁeld, L. (1998) No body ’s perfect: women, aerobics and the body beautiful,
+Sociology of Sport Journal, 15, 109 /C1137.
+Markula, P. (1995) Firm but shapely, ﬁt but sexy, strong but thin: the postmodern aerobicising
+female bodies, Sociology of Sport Journal, 12, 424 /C1453.
+Markula, P. & Pringle, R. (2006) Foucault, sport and exercise: power, knowledge and transforming the
+self(London, Routledge).
+Martino, W. & Beckett, L. (2004) Schooling the gendered body in health and physical education:
+interrogating teachers ’perspectives, Sport, Education and Society, 9, 239 /C1251.
+McNay, L. (1992) Foucault and feminism: power, gender and the self (Boston, MA, Northeastern
+University Press).
+McWilliam, E. (2001) Pleasures proper and improper: a genealogy of teacher/student intimacy, in:
+A. Jones (Ed.) T ouchy subject: teachers touching children (Dunedin, Otago University Press),
+27/C138.
+McWilliam, E. (2003) The vulnerable child as a pedagogical subject, Journal of Curriculum
+Theorizing, 19, 35 /C145.
+McWilliam, E. & Jones, A. (2005) An unprotected species? On teachers as risky subjects, British
+Educational Research Journal, 31, 109 /C1120.
+Micheli, L. J. (1990, October 29) Children and sports, Newsweek , p. 12.
+Miller, P. J. (1988) Factories, monitorial schools and Jeremy Bentham: the origins of the
+‘management syndrome ’in popular education, in: A. Westoby (Ed.) Culture and power in
+educational organisations (Buckingham, Open University Press), 56 /C178.
+National Speedo Swimming League. (2005) National speedo league handbook [Internet]. Available
+online at: www.speedoleague.org.uk (accessed 5 January 2007).
+Pankhurst, A. & England Netball. (2005) Preparing for a life in sport: a guide to good practice for all
+people involved in netball (Leeds, National Coaching Foundation/England Netball).36 M. LangDownloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+
+Perryman, J. (2006) Panoptic performativity and school inspection regimes: disciplinary mechan-
+isms and life under special measures, Journal of Education Policy, 21, 147 /C1161.
+Piper, H., Powell, J. & Smith, H. (2006) Parents, professionals and paranoia: the touching of
+children in a climate of fear, Journal of Social W ork, 6, 151 /C1167.
+Raglin, J. S. & Wilson, G. S. (1999) Overtraining in athletes, in: Y. L. Hanin (Ed.) Emotion in sport
+(Champaign, IL, Human Kinetics), 191 /C1207.
+Ryan. J. (1995) Little girls in pretty boxes: the making and breaking of elite gymnasts and ﬁgure skaters
+(New York, Warner Books).
+Salguero, A., Gonzalz-Boto, R., Tuero, C. & Marquez, S. (2003) Identi ﬁcation of dropout reasons
+in young competitive swimmers, The Journal of Sports Medicine and Physical Fitness, 43,
+530/C1534.
+Shogan, D. (1999) The making of high-performance athletes: discipline, diversity and ethics (Toronto,
+ON, University of Toronto Press).
+Starosta, W . (1996) Selection of children for sport, in: V. Rogozkin & R. Maughan (Eds) Current
+research in sport sciences: an international perspective (London, Plenum), 21 /C125.
+Tsang, T. (2000) Let me tell you a story: a narrative exploration of identity in high-performance
+sport, Sociology of Sport Journal, 17, 44 /C159.
+Valios, N. (2000) Women abuse too, Community Care, 14, March 28 /C129, 14 /C120.
+Webb, L., McCaughtry, N. & Macdonald, D. (2004) Surveillance as a technique of power in
+physical education, Sport, Education and Society, 9, 207 /C1222.
+Webb, L. A. & Macdonald, D. (2007) Techniques of power in physical education and the
+underrepresentation of women in leadership, Journal of T eaching in Physical Education, 26,
+279/C1297.
+Westlund, A. C. (1999) Pre-modern and modern power: Foucault and the case of domestic
+violence, Signs: Journal of W omen in Culture and Society, 24, 1045 /C11066.
+Wolstencroft, E. (2002) T alent identi ﬁcation and development: an academic review (Edinburgh, Sport
+Scotland).Surveillance and conformity in competitive youth swimming 37Downloaded By: [Lang, Melanie] At: 09:08 29 June 2010
+

@@ -1,0 +1,1048 @@
+This article was published in an Elsevier journal. The attached copy
+is furnished to the author for non-commercial research and
+education use, including for instruction at the author’s institution,
+sharing with colleagues and providing to institution administration.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/copyright
+
+Author's personal copy
+Accident Analysis and Prevention 40 (2008) 787–797
+Risk factors and prevention for spinal cord injury from
+diving in swimming pools and natural sites
+in Quebec, Canada: A 44-year study
+Peter Barssa, Hind Djerrarib, Bernard E. Leducc,∗,
+Yves Lepaged, Clermont E. Dionneb
+aDepartment of Epidemiology, Biostatistics, and Occupational Health, McGill University (at time of research),
+Now at Department of Community Medicine, Faculty of Medicine, United Arab Emirates University, Al Ain, United Arab Emirates
+bPopulation Health Research Unit, Universit´ e Laval, Qu´ ebec, Canada
+cDepartment of Physical Medicine and Rehabilitation, Institut de r´ eadaptation de Montr´ eal, Qu´ ebec, Canada
+dDepartment of Mathematics and Statistics, Universit´ e de Montr´ eal, Qu´ ebec, Canada
+Received 27 June 2007; received in revised form 27 August 2007; accepted 12 September 2007
+Abstract
+Background: Diving is the most frequent cause of spinal cord injury (SCI) from recreation and sport in Canada. This study was done to identify
+risk factors for SCI from diving in the province of Quebec.
+Methods: An interview survey was done for a target population of 203 subjects with a SCI from diving treated in the two specialized rehabilitation
+centers in Quebec during 1961–2004. Telephone interviews of consenting individuals were used to collect pertinent personal, equipment, and
+environmental factors for each incident.
+Results: Response was 44% (89/203); 92% were male and 85% <35 years old. Only 37% were aware prior to injury of the risk of SCI from diving,
+and only 33% had received water safety training. Swimming pools were the site of 51% ( n= 45) and natural bodies of water for 49% ( n= 44). 87%
+(n= 39) of pools were single-unit home pools and 57% ( n= 26) above-ground. Depth indicators were absent for 100% of above-ground and 74% of
+in-ground pools. For SCI in in-ground pools, 63% resulted from striking the up-slope between deep and shallow ends. For dives at natural sites, a
+dock or wharf was the most frequent location, 36% ( n= 16). In 52% of pools and 79% of natural sites, depth was <1.4 m (4.6 ft). Signs prohibiting
+diving were absent in 96% of above-ground and 89% of in-ground pools. Alcohol was reported in 47% of SCIs.
+Interpretation: The target for prevention of diving SCI is male youths and young adults. Above-ground pools are too shallow and small for diving.
+Deep ends of many in-ground pools are excessively shallow and short since many SCIs resulted from striking the up-slope. Prevention of SCI from
+diving needs to focus on education of potential victims, pool vendors and manufacturers, and regulations for safety norms in private pools. Water
+safety should highlight diving as a high-risk activity, and emphasize that most home pools and natural sites are unsafe. Safer evidence-based pool
+designs and more effective warnings need to be implemented.
+© 2007 Elsevier Ltd. All rights reserved.
+Keywords: Spinal cord injuries; Diving/injuries; Spinal cord injuries/epidemiology; Spinal cord injuries/aetiology; Spinal cord injuries/prevention and control;
+Swimming pools; Tetraplegia
+1. Introduction
+Spinal cord injury (SCI) has devastating personal and eco-
+nomic consequences for victims, their families, and society.
+∗Corresponding author at: Institut de r ´eadaptation de Montr ´eal, 6300 Dar-
+lington Ave., Montr ´eal, Qu ´ebec, Canada H3S 2J4. Tel.: +1 514 340 2770;
+fax: +1 514 340 2775.
+E-mail address: leduc 51@sympatico.ca (B.E. Leduc).There are estimated to be 132,000 incident cases per year
+globally, an annual rate of 22 per million population ( ICCP,
+2001 ). While global data are not available on the incidence
+of sports-related SCI, in the United States and Europe sport
+accounts for 9–10% of all SCI ( Parliamentary Assembly, 2002;
+NSCISC, 2005 ). In many industrialized countries, including
+the United States, diving is the source of the majority of
+sports-related SCI and is therefore a priority for sports injury
+prevention.
+0001-4575/$ – see front matter © 2007 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.aap.2007.09.017
+Author's personal copy
+788 P . Barss et al. / Accident Analysis and Prevention 40 (2008) 787–797
+The relative importance of diving as a cause of SCI varies
+enormously by country, ranging from 1 to 23%, with lows
+in Japan, Turkey, and South Africa, mid-range in Australia,
+Canada, and the United States, and highs in Poland and Russia
+(ICCP, 2001; Parliamentary Assembly, 2002; NSCISC, 2005,
+2006; Blanksby et al., 1997; Karacan et al., 2000; Kiwerski,
+1993; Djerrari, 2000; O’Connor, 2002; RCIS, 2006; Grifﬁths,
+1980; Aito et al., 2005; DeVivo, 2003 ). While diving is much
+less frequent as a source of SCI than trafﬁc injuries, falls, and
+violence in the United States, it was still the fourth leading cause
+at 7%, with about 770 diving SCIs per year, and the leading
+source for recreation and sport ( NSCISC, 2005, 2006 ). All sports
+injuries combined accounted for 9% of SCI, with nearly 80%
+of this contributed by diving; however, the relative importance
+of diving shows large racial differences in the United States
+(DeVivo, 2003 ). Elsewhere, in the Spinal Unit in Florence, Italy,
+diving injuries similarly comprised 62% of SCI from sports, and
+6% of all SCI ( Aito et al., 2005 ).
+Diving ranked higher as a cause of SCI in Canada, and in
+Australia, than in the United States, where gunshots/violence
+were third at 14% ( Djerrari, 2000; O’Connor, 2002; RCIS,
+2006; Grifﬁths, 1980; NSCISC, 2005, 2006 ). In the province
+of Quebec, Canada, diving ranked third as a cause of SCI during
+1981–1994, accounting for 6% of SCI overall ( Djerrari, 2000 ).
+While population-based incidence rates provide a better indi-
+cator of frequency and burden of SCI from diving and other
+causes than do proportions and ranks, rates are rarely reported.
+Even better would be exposure per swimmer, diver, dives, and
+so forth, together with national information about prevalence
+of pools with different attributes, but such data are currently
+unavailable.
+Incidence and proportions for Quebec province, Canada, and
+a few other countries are shown in Table 1 . In both Quebec and
+Canada, incidence rates were about 10 times higher for males
+than females, and the main risk groups by age were 15–44 years
+(Djerrari, 2000 ). Although the average incidence in Quebec was
+slightly less than for the rest of the country during 1981–1994,
+greater improvement was evident in other provinces. During1991–2000 in Canada, there were 31 head and/or spinal injury
+deaths from diving reported by coroners, an average of about 3
+per year, or 1 per 10 million population ( Barss, 2006 ).
+It is reported that in all dives, velocity at maximum depth
+exceeds that required to dislocate cervical vertebrae, and in
+99% is sufﬁcient to crush them ( Blitvich et al., 2003a,b; Stone,
+2003 ). In some cases of SCI there is neither dislocation nor
+fracture, and only spinal cord contusion is found. Clearly, any
+dive can potentially result in a lifetime of severe disability, or
+death.
+On average, diving SCI are more disabling than SCI from
+trafﬁc or falls as nearly all are cervical and result in tetraple-
+gia rather than paraplegia ( DeVivo and Sekar, 1997; NSCISC,
+2005 ). Hence in countries where diving injuries are an important
+issue, this cause assumes greater prominence as a source of cer-
+vical SCI. To illustrate, in Australia, diving accounted for about
+10% of admissions to spinal units, but for 20% of tetraplegias
+(O’Connor, 2002; RCIS, 2006; Grifﬁths, 1980 ). However, in the
+United States, 88% of SCIs from sports, mainly diving, resulted
+in tetraplegia, compared with road injuries 55%, falls 53%,
+and violence 29% ( NSCISC, 2005 ). Even among tetraplegias,
+severity was greater for sports, with 46% complete tetraplegias
+and 54% incomplete, compared with motor vehicles 40% com-
+plete, and falls 29% complete; only tetraplegias from violence
+were more severe, 52% complete ( NSCISC, 2005 ). Urbaniza-
+tion also affects relative importance of diving as a source of
+cervical SCI; in Poland, diving accounted for 31% of cervical
+SCIs of urban residents and 11% for rural, whereas among rural
+residents, falls from farm horse carts made up 42% ( Kiwerski,
+1993 ).
+External causes of SCI vary by age. Road injuries and sport,
+and in the United States, violence, are frequent among children
+and young adults and falls are among older adults ( NSCISC,
+2005 ). Hence, the combination of young age of most diving SCI
+victims plus severity of SCI means that economic costs of care
+are much greater than for most other causes, not to mention the
+large loss of disability-free life years ( NSCISC, 2005; DeVivo,
+1997 ).
+Table 1
+Incidence and proportion of spinal injuries from diving for Quebec and other populations
+Population Time period Average/incidence/million/year Percent SCI due to
+Diving (%) Falls (%) Trafﬁc (%) Other (%)
+Quebec, Canada ( Djerrari, 2000 ) 1981–1994 2.1 6 30 58 8
+Quebec, Canadaa1999–2003 1.7 5
+Ontario, Canadab(Tator et al., 1981 ) 1981 1.7 10
+Canada ( Djerrari, 2000 ) 1981–1994 2.4
+United States ( NSCISC, 2005, 2006 ) 1973–2004 2.8 7 23 48 23
+Europec(Parliamentary Assembly, 2002 ) 2001 1.0
+Austria ( Schwarz et al., 2001 ) 1991–1998 1.0
+Australia ( O’Connor, 2002; RCIS, 2006 ) 1998–2000 1.2 10
+Turkey ( Karacan et al., 2000 ) 1992 0.15 1 36 49 14
+aUnpublished data, 2004, Ministry of Health and Social Services of Quebec: about 12 cases of cervical SCI/year from diving, 1999–2003, out of 230–250 cases,
+50% cervical, of SCI/year from all causes.
+bIncidence was calculated using estimated numbers of SCIs in source article and 1981 census population.
+cIn Europe, 10% of an estimated 14 per million incident cases per year are from sport; based on US data, we conservatively estimated about 70% of sports SCI
+due to diving.
+Author's personal copy
+P . Barss et al. / Accident Analysis and Prevention 40 (2008) 787–797 789
+To better address SCIs from diving in Quebec and to improve
+prevention programs, we investigated personal, equipment, and
+environmental risk factors among patients with a diving SCI who
+had been treated in either of the two major Quebec rehabilitation
+hospitals.
+2. Methods
+2.1. Study design and time period
+Because diving SCIs are uncommon catastrophic injuries,
+we undertook a retrospective survey for the 44-year period
+(1961–2004) for which ﬁles were available, interviewing vic-
+tims contacted via the two main rehabilitation hospitals. The
+study began in 1996 and was completed with an update during
+2004–2005.
+2.2. Target population
+This included all known survivors of SCI from diving into
+shallow water. After the acute period, most patients are treated in
+either the Institut de r ´eadaptation de Montr ´eal (IRM) or the Insti-
+tut de r ´eadaptation en d ´eﬁcience physique de Qu ´ebec (IRDPQ).
+Quebec is the second most populous province in Canada with a
+population of 7.5 million; at study midpoint it was 6.5 million.
+2.3. Data sources
+Diving SCIs were identiﬁed with MedEcho, the provin-
+cial hospital database, using International Classiﬁcation
+of Diseases, Ninth Revision ( World Health Organization,
+1978 ). This database includes all injured persons hospi-
+talized for >24 h and employs well-trained professional
+coders. Personal, equipment and environmental risk factors
+were obtained by telephone interview. Since patients were
+contacted only by telephone, impairment was not evalu-
+ated with the American Spinal Injury Association (ASIA)
+scale, nor was point of impact or exact level of injury
+assessed.
+2.4. Inclusion criteria
+This study included persons with cervical SCI from diving
+sustained in Quebec with hospital stays of >24 h treated at IRM
+or IRDPQ; hence, deaths prior to transfer or minor injuries were
+excluded. SCIs due to diving are identiﬁed by external cause
+code E883.0, together with nature of injury codes 806.0–806.1
+(cervical spine fracture with SCI), and 952.0 (cervical SCI with-
+out spinal bone injury), or code 344 tetraplegia ( World Health
+Organization, 1978 ). While E883 includes injuries from both
+diving and jumping, it is unlikely that jumping causes cervical
+spine injury, and, in any case, diving was conﬁrmed during inter-
+views. Other diving injuries and deaths prior to hospitalization
+were not assessed.2.5. Sampling and ethical approval
+Following approval by hospital ethics committees, all diving
+SCI admissions during 1961–2004 were selected. Conﬁdential-
+ity guidelines do not allow contact between researchers and
+patients until the hospital obtains informed consent. The medical
+records department sent out our explanatory letters to eligible
+patients; those who consented were interviewed. Four letters
+were sent to each before considering them non-contactable.
+2.6. Data collection instruments
+An interviewer-administered questionnaire with 56 mainly
+structured closed-ended questions covering demographics and
+risk factors was developed, reviewed by external experts in injury
+prevention, and pre-tested. Trained interviewers averaged about
+30 min per subject.
+2.7. Data analysis
+Data were doubly entered and compared for keystroke errors,
+then transferred to SPSS for analysis.
+3. Results
+3.1. Study subjects and response
+During 1961–1994, 171 individuals with cervical SCI from
+diving were identiﬁed by hospitals; 8 were deceased, including
+5 injured during 1961–1970 and 2 in 1971–1980. The aver-
+age number of cases per year during 1961–1994 was 4.8, an
+annual incidence of 0.75 per million population at the two hos-
+pitals. For 1995–2004, the average number per year was 4.0,
+an annual incidence of 0.53 per million. Of the 163 victims
+alive during the ﬁrst part of the study in 1996, 68 (42%) par-
+ticipated, and in 2004–2005, 21 of 40 eligible patients (52%)
+took part. Hence, total subjects were 89 and overall response
+rate excluding the deceased was 44% (89/203). Complete infor-
+mation was available for 87; two questionnaires were lost. By
+year of SCI, the ﬁnal sample included: 5 from 1961–1970, 18
+from 1971–1980, 24 from 1981–1990, 32 from 1991–2000, and
+8 from 2001–2004.
+3.2. Personal risk factors
+Study participants were predominantly male ( Table 2 ). The
+youngest was 12 years old when injured; 85% were <35 and
+95% <45. While 56% had taken swimming training, only 33%
+had training in water safety and only 37% had been aware of
+the risk of SCI associated with head-ﬁrst diving prior to injury.
+Most had been swimming at least weekly during summer. While
+31% had at least some university education, only 13% of parents
+did. As for drugs, alcohol consumption at the time of injury was
+self-reported by 47% and other drugs by 3%.
+Author's personal copy
+790 P . Barss et al. / Accident Analysis and Prevention 40 (2008) 787–797
+Table 2
+Personal risk factors for victims of SCI from diving Quebec, Canada 1961–2004
+(n= 89)
+Risk factor n %
+Male sex 82 92
+Age in years at time of SCI
+0–14 7 8
+15–24 47 52
+25–34 22 25
+35–44 9 10
+≥45 4 5
+Education in years at time of SCI
+SCI victim
+≤6 – primary school or less 1 1
+7–11 – high school or less 36 41
+12–13 – community college 23 26
+14–16 – some university 19 22
+>16 – post-graduate 8 9
+Victim’s parents
+≤62 6 30
+7–11 – high school or less 29 33
+12–13 – community college 17 20
+14–16 – university 7 8
+>16 – post-graduate 4 5
+Training prior to SCI
+Swimming and water safety 29 33
+Swimming only 20 23
+None 38 44
+Knowledge of risk of SCI from diving prior to SCI 33 37
+Frequency of swimming during summer prior to SCI
+Daily 26 30
+Once or twice per week 37 44
+Once or twice per month 16 18
+Once or twice per summer 8 8
+Self-reported consumption of alcohol at time of SCI 42 47
+Self-reported consumption of other drug 3 3
+3.3. Environmental risk factors
+About half of SCIs happened in pools and half in natural
+bodies of water, mainly in rural locations ( Table 3 ). The envi-
+ronment was new for 42% of victims, whose dive was their ﬁrst
+at the site. Darkness was reported in 30% of incidents.
+Table 3
+Environmental risk factors for SCI from diving Quebec, Canada 1961–2004
+(n= 89)
+Risk factor n %
+Type of body of water
+Swimming pool 45 49
+Natural bodies of water 44 51
+Rural location 57 65
+Time of day
+Day 63 70
+Evening/dusk 12 14
+Night/dark 14 16
+First dive at site by SCI victim 37 42Table 4
+Environmental risk factors for SCI from diving in natural sites Quebec, Canada
+1961–2004 ( n= 44)
+Risk factor n %
+Type of body of water
+Lake or pond 28 63
+River 9 20
+Ocean 3 7
+Other 4 9
+Site of dive
+Dock/wharf 16 36
+Shoreline* 9 20
+Boat 5 11
+Diving board 4 9
+Bridge 4 9
+Other 6 14
+Poor visibility of bottom** 30 70
+Depth ≤1.4m at site of dive 34 79
+Note : (*) Includes one person who dove off a cliff; (**) two victims could not
+recall visibility.
+Lakes were the most frequent natural body of water for SCIs,
+and docks or wharfs the most frequent site of dives into natural
+bodies ( Table 4 ). Poor visibility of the bottom was noted in 70%
+of cases. 79% of dives took place in water ≤1.4 m deep.
+3.4. Equipment factors
+Equipment factors were mainly pertinent for pool incidents
+(Table 5 ). Above-ground pools accounted for 57%, and 77% of
+them had a terrace. While 51% of dives originated from the pool
+edge, 16% were from a diving board and 9% from high locations
+such as a roof or second-ﬂoor balcony. Of considerable concern,
+three of the victims reported diving from diving boards where
+pool depth was 2.74 m (9 ft) or deeper. The most frequent site
+of impact was the up-slope between deep and shallow ends.
+Most SCIs occurred in single-unit home pools, and most at one
+owned by friends rather than at home. 76% of pool victims said
+the bottom was visible, which contrasts with low visibility at
+natural sites. In 52%, depth was ≤1.4 m at site of impact. Visible
+indicators prohibiting diving or warning of depth were absent
+from all but a few pools. There were no signiﬁcant trends in the
+proportion of SCIs that occurred in pools during the period of
+the study.
+4. Discussion
+Diving SCIs are an enormous burden for patients and their
+families, and very costly for taxpayers, since most victims suf-
+fer tetraplegia, mainly complete. In the United States, lifetime
+costs for a 25 year-old with high tetraplegia average $US2.8
+million ($C3.1 m), compared with $US1.6 m for a 50 year-old
+(NSCISC, 2005, 2006 ). The greatest costs are incurred in the
+ﬁrst year after injury, averaging $US0.7 m for high tetraplegia.
+During 1999–2004, the average annual number of new cervical
+SCIs from diving was 12 in Quebec (Danielle Forest, Ministry of
+Health of Quebec, unpublished personal communication, 2004).
+Author's personal copy
+P . Barss et al. / Accident Analysis and Prevention 40 (2008) 787–797 791
+Table 5
+Equipment risk factors for SCI from diving in swimming pools Quebec, Canada
+1961–2004 ( n= 45)
+Risk factor n %
+Type of swimming pool
+Above ground 26 57
+With terrace 20 77
+Without terrace 6 33
+In ground 19 43
+Site of dive
+Pool edge 23 51
+Diving board 7 16
+Ladder 4 9
+Roof 2 4
+Other* 9 20
+Site of impact for in-ground pools
+Up-slope of bottom 12 63
+Flat bottom 4 21
+Diving board 1 5
+Security rope with ﬂoats 1 5
+Circular life ring, soft plastic 1 5
+Ownership of pool
+Private
+Single-unit home 39 87
+Apartment 1 2
+Hotel 1 2
+Public 4 9
+Ownership of single-unit home pools
+Friends 24 62
+Self 6 15
+Parents 4 10
+Other 5 13
+Depth ≤1.4 m at site of impact 23 52
+Presence of indicator prohibiting diving
+Above-ground pools** 2 4
+In-ground pools 1 11
+Presence of depth indicator
+Above-ground pools 0 0
+In-ground pools 5 26
+Note : (*) Other included 1 window, 1 second-ﬂoor balcony, 1 guardrail; (**)
+two persons could not remember if indicator was present.
+If injuries remain unchecked, and one assumes expenses approx-
+imate those in the United States, they will cost the province about
+$C300 m per decade.
+Since economic costs and suffering are extremely high for
+diving SCIs, and all should be preventable, even a single case
+must be considered unacceptable. It is essential for researchers
+and policy makers to introduce and evaluate interventions. It is
+justiﬁable to dedicate at least a proportion of the millions that
+such injuries cost annually to research and prevention, provided
+they are evaluated and proven effective. Encouraging measures
+that shift the burden of funding research and prevention of diving
+SCIs at home pools from governments to pool vendors, or to a
+coalition of pool manufacturers and vendors, insurance compa-
+nies, water safety organizations, and government is desirable
+since this consumer product, the pool, is the single greatest
+source of diving SCI in Quebec, and probably elsewhere in
+Canada.Risk factors for injury are frequently studied using various
+injury matrices devised by Haddon ( Haddon, 1980, 1968 ), which
+evolved from the classic epidemiologic triad of host, agent and
+environment. As we use it, the matrix includes personal, equip-
+ment, and environmental factors on one axis and the pre-event,
+event, and post-event phases of an injury incident on the other
+(Barss et al., 1998 ). Since much of Haddon’s work involved
+trafﬁc safety, the equipment element was denoted by the more
+speciﬁc term vehicle factors, or vector, but not by the etiologi-
+cal agent, which is for diving kinetic energy and for drowning
+blockage of energy processes.
+4.1. Equipment and environmental risk factors for diving
+SCI
+In the context of pool safety, equipment can be causal as in
+pools that are too short or shallow for safe diving and protective
+as with longer deeper pools providing safer diving or automati-
+cally closing and latching gates that avert drowning by excluding
+small children. Since it is mainly 1–4 year olds who drown in
+home pools, making pools deeper will probably not change that
+risk – only automatic gates are likely to do so. Barriers may also
+help to alert divers and all pool users that they have entered a
+potentially hazardous zone, and also to avert diving into at least
+certain hazardous natural sites.
+Equipment factors are highly pertinent to prevention of diving
+SCIs, since in Quebec at the time of the research half occurred in
+a consumer product, swimming pools. Current preventive factors
+for pools act mainly in the pre-event phase. A fundamental issue
+is whether most standard pools are safe for diving under any
+conditions, especially for the average recreational user. Current
+designs are generally planned with a view to aesthetics, together
+with limitations of space, depth, and cost, rather than for safety
+to prevent diving SCIs and drownings. Even children undergoing
+diving training at recommended minimum depths achieved head
+velocities capable of causing cervical spine injury to an adult
+(Blanksby et al., 1996, 1997; Blitvich et al., 2003a,b ). Swimming
+pool safety, including prevention of both drownings and diving
+SCIs, is an important issue for Quebec. During 1991–2000 47%
+of 121 pool drownings of 1–4-year-old children in Canada were
+in this province, which has 24% of the country’s population but
+about half of the pools ( Barss, 2006 ).
+In our survey, above-ground pools predominated. Most were
+ﬁtted with an elevated terrace or patio at water level – such sur-
+faces facilitate diving as well as access by toddlers from adjacent
+living spaces of the home. These pools are very hazardous for
+diving because they are too shallow for deep dives and of insuf-
+ﬁcient length for shallow-entry ones; exposure to risk is high
+since they are the most frequent variety in Quebec. Evidently
+there is an alarming lack of awareness among young people
+regarding the danger of such pools. It was astounding that indi-
+viduals dove from sites such as roofs, windows, and second-ﬂoor
+balconies with or without alcohol: such events demonstrate that
+pool users have not learned the hazards of diving headﬁrst. Sim-
+ilar behaviour was also reported from the United States three
+decades ago ( Green et al., 1980 ).
+Author's personal copy
+792 P . Barss et al. / Accident Analysis and Prevention 40 (2008) 787–797
+As several SCIs occurred during dives from a diving board
+in both our series and two earlier studies from the United King-
+dom ( Frankel et al., 1980 ) and the United States ( Green et al.,
+1980 ), evidently boards are installed on pools with deep ends
+that are actually neither sufﬁciently deep nor long for diving.
+The up-slope, “quad wall” or “spinal wall” ( Blanksby et al.,
+1997, 1996; Zader, 1998 ), of so-called hopper pools is the point
+of impact for most diving SCIs. Hence, even for in-ground pools
+it is doubtful that current designs are adequate in depth or length
+for safe diving, especially for adult males. Many men are tall
+and heavy, so the kinetic energy of impact onto a pool up-slope
+is high. On the basis of experimental studies published as early
+as 1975, it was recommended that one should not dive into water
+less than twice one’s height ( Albrand and Walter, 1975 ). If we
+compare the necessary depth for 1.22 metre (4 ft) and 1.83 m
+(6 ft) tall individuals, the difference is 1.22 m. Few, if any, home
+pools meet this requirement of 3.7 m depth for a moderately
+tall adult male. This early research-based recommendation is
+worth remembering during assessment of old and new model
+regulations for depth and length of pools.
+It is also essential to consider depth at the location of maxi-
+mum dive depth since the deepest point in the dive is at a distance
+from the point of entry, and pool depth is more relevant at this
+point than where entry occurs. If the deep end is short, a diving
+board extends over it for a metre, and the diver leaves it at an
+angle, actual depth at entry will be much less than the maximum
+at the deep end.
+Experimental research ( Blitvich et al., 1999 ) showed that in
+dives from the pool deck, the distance covered to maximum
+depth averaged 3.42 m with a maximum of 5.75. Dives from
+competitive blocks at a height of 0.75 m averaged 4.02 m with a
+maximum of 5.96. If we add a metre of diving board extension to
+these maximums, evidently maximum depth could be reached
+at a distance of up to about 7 m (23 ft), from the edge of the
+deep end of a pool, or 6 m from the tip of the diving board. A
+typical design obtained, with difﬁculty, from a vendor for in-
+ground home pools in Quebec showed a total length of only
+8.8 m. Hence, a diver might reach maximum depth at a point up
+to 80% along the length of such a pool.
+It is probably too ambitious for most home pools to be
+designed for both safe diving and swimming. In response to
+a million dollar quad wall SCI jury verdict in 1970, research
+was commissioned in the early 1970s by the United States
+pool industry’s former national trade association, the National
+Pool and Spa Institute (NSPI). The unpublished, indeed sup-
+pressed, results showed that the cheap, “hopper-bottom” pools
+designed to ﬁt an average residential backyard were too small
+for safety ( Zader, 1998 ). The deepest portion constituted as lit-
+tle as 4% of the surface area. Exactly as we suspected from
+the present interview research in Quebec together with obser-
+vation of plans for new in-ground pools being marketed there
+in the late 1990s, the experimental research reported to NSPI
+in 1974 had demonstrated that water between the tip of div-
+ing boards and the quad wall was insufﬁcient to decelerate
+a tall heavy athletic male. After losing a $US8 million set-
+tlement plus interest lawsuit and appeal to a teenager who
+sustained tetraplegia from an SCI in a hopper-bottom poolin 1998, NSPI immediately declared bankruptcy, became the
+International Aquatics Foundation (IAF), and no longer pub-
+lishes norms ( Zader, 1998 ). Hundreds if not thousands of
+diving SCIs in Canada, not to mention the United States,
+could probably have been averted if the NSPI’s research, con-
+ducted at the Massachusetts Institute of Technology’s pool, had
+been immediately published and new safety standards insti-
+gated.
+It is noteworthy that in the city of Toronto in Canada’s largest
+province, Ontario, research showed that during 1948–1973, 11%
+of 358 SCIs were from diving, but that only 1 of 36 diving SCIs
+occurred in a pool, with all others in lakes in this region of cot-
+tage country ( Tator et al., 1981 ). The authors went on to note a
+remarkable trend: during the subsequent years 1974–1979, half
+of the victims of diving SCI in their acute unit had been injured
+in pools. The paper recommended educational programmes and
+warning signs and concluded as follows: “Reckless diving must
+be considered as one of summer’s main hazards.” Other publi-
+cations by the same author in Toronto conﬁrmed the importance
+of diving as the source of 11–12% of all SCIs and 52–70% of
+sport/recreational SCI (sport/recreational cases represented 18%
+of all SCIs), but since most incidents had occurred in lakes, rec-
+ommendations focused on personal factors and warning signs
+rather than pool factors ( Tator and Edmonds, 1979; Tator et
+al., 1993 ). A more recent study, 1997–2001, from another less
+metropolitan region of the province showed only 9% of all SCI
+from sport/recreation ( Pickett et al., 2006 ). The difference could
+be due to a different urban/rural mix or to a wider trend towards
+greater safety in sport.
+In retrospect, it appears likely, but deserves further study, that
+the reason for the sudden change in the epidemiology of diving
+SCI in Toronto was the introduction of a new hazardous product.
+As hopper pools had proliferated across the United States, so did
+quad wall SCIs. NSPI’s attorney, William Ginsburg, helped cre-
+ate a product liability committee to devise a defence for members
+against lawsuits from diving SCI. Prior to their big loss in 1998
+his ﬁrm successfully defended hundreds of diving injury cases
+using the strategy of always blaming the diver ( Zader, 1998 ).
+Indeed, since the incidence of diving injury in Canada and the
+United States has been about double that in Europe in recent
+decades ( Table 1 ), a possible cause of this intercontinental geo-
+graphic variability could have been higher exposure to unsafe
+home pools. Supporting this, there was some improvement in
+diving SCIs in the United States in the late 1990’s compared
+with earlier years ( DeVivo, 2003 ).
+There are unfortunately no model provincial regulations in
+Quebec for in-ground home swimming pools. Only public pools
+must conform to such norms, included in Le r` eglement sur la
+s´ecurit´ e dans les bains publics which governs depth of water
+at the end of the diving board (plummet) and other issues ( GQ,
+2007 ). Depth at plummet is ﬁxed at 2.7 m for a diving board of
+0.5 m or less above the water, 3.0 m for a board more than 0.5 and
+less than 1.0 m above the water, for a half-circle of 3.0 m from
+the end of the board. Such a norm would be expected to reduce
+the risk of striking the up-slope but in view of the evidence cited
+earlier and other norms below a depth greater than 3 m, extending
+5–6 m beyond the plummet, would be more appropriate.
+Author's personal copy
+P . Barss et al. / Accident Analysis and Prevention 40 (2008) 787–797 793
+Model regulations for public or other pools where diving
+is permitted could not be found on the internet for Canadian
+Standards (CSA) or for individual provinces, with the exception
+of British Columbia, which for a board at deck level, requires
+a depth of only 2.4 m (8 ft) at the plummet, 2.7 m (9 ft) at the
+deepest point, and a distance from the plummet to the beginning
+of the upslope of only 2.4 m (8 ft) ( GBC, 2007 ). The F ´ed´eration
+Internationale de Natation – International Swimming Federation
+(FINA) – recommends 3.5 m (11.5 ft) depth at the plummet and
+3.4 m (11.2 ft) depth for at least 5.0 m (16.4 ft) from the plummet
+of a one-metre springboard ( FINA, 2007 ). FINA standards as
+cited in a 1980 paper on SCI ( Frankel et al., 1980 ) were less
+demanding, and required a depth at the plummet for recreational
+diving of only 2.6 m (8.5 ft), with this distance to be maintained
+forward for only 3.0 m (9.8 ft).
+In a study from the United Kingdom in the 1970s ( Frankel et
+al., 1980 ), 35% of SCIs from diving had occurred in pools, of
+which 46% occurred at the shallow end, but 21% at the deep end
+from the diving board. In another study from the United States
+around the same time, 53% of diving SCIs in pools occurred
+in the shallow ends of in-ground pools or into above-ground
+pools, but 15% involved dives from boards ( Green et al., 1980 ).
+The more recent FINA norms are clearly an improvement and
+might have averted such SCIs if applied to all pools with div-
+ing boards, but whether they are adequate for pools used by
+untrained recreational divers merits further study. Nonetheless,
+they do come close to meeting the 1975 experimentally based
+recommendations described above ( Albrand and Walter, 1975 ).
+The absence of norms for residential pools facilitates sale and
+installation of pools that are neither sufﬁciently deep nor with
+adequate distance between the end of the board and the up-slope.
+Hence, in usual short home pools of ≤9 m (30 ft) long, the depth
+where a diver’s head reaches the up-slope will be much shallower
+than at the middle of the deep end; even the deep end is as shallow
+as 2.4 m (8 ft) in some pools. Unless a pool is completely ﬁlled,
+actual water depth will be less than pool depth and the distance
+from the tip of the diving board or pool edge to the surface,
+and therefore acceleration and the resulting kinetic energy to be
+dissipated by the water, will be greater. Since the kinetic energy
+transferred to the cervical spine in striking the head directly
+against a steep up-slope would be considerably greater than a
+glancing blow off a shallow bottom, gradual gradients rather
+than a sudden change could be safer since some untrained pool
+users will inevitably dive in.
+Although it is difﬁcult to imagine it could compensate for
+inadequate pool dimensions, an event-phase protective equip-
+ment factor could be an energy-absorbing surface for the deep
+end and pool up-slope. Energy absorbing surfaces are already
+used in many consumer products such as playground surfaces
+and various parts of automobiles where a head or other body
+part may impact; experimental studies would be necessary to
+determine the effectiveness of such an approach.
+Protective pre-event phase equipment includes signs to indi-
+cate depth and alert users that a pool is unsafe for diving. Such
+signs were uncommon at pools in this study. During a visit to a
+large pool store, we observed a tiny warning sign on the rim of an
+above-ground pool that would have been illegible to someonestanding on a terrace level with its edge. Evaluation of vari-
+ous signs to verify whether typical users such as young males
+unfamiliar with the pool actually noticed and understood them
+during day and night conditions – and modiﬁed their behaviour
+– is essential. Since our results show that the pool bottom is
+usually visible, large ﬂuorescent warnings and depth indicators
+at this site might be obvious to most potential divers. Research
+has shown that typical no-diving signs are seldom noticed and
+even when they are may actually provoke unsafe behaviour
+such as diving into shallow water ( Goldhaber and deTurck,
+1988 ). Hence, research-based guidelines ( Wogalter et al., 2002 )
+should be followed and safety warning signs evaluated objec-
+tively among the appropriate target group of young males. The
+difﬁculty in designing effective signs lends further support to the
+need for pools that are also designed to be as safe as possible,
+on the basis of sound transparent research.
+As for SCIs in natural bodies of water , the main site of dives
+was docks or wharfs, both of which are modiﬁable products.
+Since most dives were into shallow water, barriers should be
+installed at hazardous locations where people might be tempted
+to dive, or dock areas dredged to provide a safer depth. Barriers
+at such locations, and at pools, could be designed in such a
+manner as to alert people that they have moved into an area of
+increased risk. Warning signs might be useful, bearing in mind
+the requirements and limitations of such devices ( Goldhaber and
+deTurck, 1988; Wogalter et al., 2002 ).
+Visibility is an environmental risk factor, and poor visibility
+of the bottom was reported for SCIs from most dives at natural
+sites. For SCIs at both pools and natural sites, 30% occurred at
+dusk or after dark; only a few pools were well-lit. During the
+day, pool bottoms were generally visible, but this did not appear
+to have deterred the victims. It could be that prominent depth
+markers on the bottom and sides of pools are necessary for valid
+perception of depth, even when the bottom is visible. The impact
+of colours used for pool bottoms on depth perception needs to
+be assessed. Guidelines for colour, size, and placement of depth
+markers and for lighting of pools are included in regulations for
+public pools in Quebec ( GQ, 2007 ), and might be useful for
+home pools if they are evidence-based.
+4.2. Personal risk factors for diving SCI
+As for personal or host factors, in our study, as in others,
+males 15–44-years-old were the main risk group ( NSCISC,
+2005, 2006; Djerrari, 2000; O’Connor, 2002; RCIS, 2006;
+Grifﬁths, 1980; Aito et al., 2005 ). Most modiﬁable host factors
+pertain to the pre-event phase. Although most victims were fre-
+quent swimmers, few reported that they were aware of the hazard
+of diving headﬁrst. This suggests that although half had received
+swimming and one-third water-safety training, it was inadequate
+for prevention of diving SCIs. Alcohol is a risk factor for many
+injuries, and diving SCIs are no exception, with consumption
+prior to the incident reported by half; similar results have been
+found elsewhere ( Blanksby et al., 1997 ). An experimental study
+showed progressive deterioration in performance of recreational
+divers beginning at 40 mg% blood alcohol ( Perrine et al., 1994 ),
+half the legal limit for driving a car in Canada. Divers were
+Author's personal copy
+794 P . Barss et al. / Accident Analysis and Prevention 40 (2008) 787–797
+unaware of their poor performance and increased risk of injury.
+Furthermore, a positive correlation between severity of SCI and
+blood alcohol level has been reported ( Forchheimer et al., 2005 ).
+While feet-ﬁrst entry is to be preferred, and should be strongly
+recommended in home pools, many recreational swimmers do
+want to and will dive in certain situations. Hence, training in the
+safest diving techniques should be covered. A study of recre-
+ational swimmers found that in 18% of dives, the swimmer
+pulled his/her arms backward in a breaststroke motion leaving
+head and neck unprotected ( Blitvich, 2006 ). Variables of a dive
+that affect risk include depth of dive, ﬂight distance, angle of
+entry, and velocity at maximum depth ( Blitvich et al., 1999 ).
+Variables of technique include locking hands together to pre-
+vent them being forced apart by water pressure, locking arms
+together against the head to lock the head , and steering-up skills
+to minimize depth and distance at depth. A study of diving train-
+ing in Australia showed that six 10-min sessions were sufﬁcient
+to provide recreational swimmers with skills to make shallow
+dives and to lock the arms onto the head; skills were retained at
+least 20 months ( Blitvich et al., 2000, 2003a,b ).
+4.3. Limitations
+Some limitations of this study should be noted. Despite up
+to four efforts to contact all patients, our response rate was
+relatively low at 44% of victims believed alive. This may, how-
+ever, reﬂect the retrospective study period necessary to recruit
+sufﬁcient patients for meaningful study. Furthermore, limiting
+the study to two rehabilitation hospitals could have excluded
+some subjects treated at general or paediatric facilities. Indeed,the incidence at the two hospitals was much less than reported
+by MedEcho, as Table 1 evidences. There may have been a bias
+in type of individuals lost to follow-up, including more severe
+injuries or older individuals. We did verify trends in the propor-
+tion of pools involved and did not detect signiﬁcant change in this
+variable during the study period. In addition, long recall periods
+may have affected validity of some responses: participants might
+have underreported alcohol, and we did not assess diving related
+injuries or fatalities other than hospitalization for cervical SCI.
+We had originally planned to compare pools where diving SCI
+occurred with control pools, and victims with control divers, but
+were unable to do this; it could be useful for future studies. Bet-
+ter exposure measures such as estimates of the number of dives
+per year into pools of different depths and the numbers of pools
+of different depths might also prove worthwhile. It would have
+been useful to inquire about factors such as whether victims
+had their arms out in front of them, locked or loose and whether
+water safety and swimming training had included details about
+key elements of diving safety. Since SCI represents only about
+20% of all diving/jumping into water injuries in Quebec and
+elsewhere in Canada, investigation of other injuries would also
+be beneﬁcial ( Djerrari, 2000 ). Unfortunately, external cause
+codes in ICD 9 and ICD 10 classify diving and jumping together,
+complicating analysis ( World Health Organization, 1978, 1992 )
+4.4. Recommendations
+Table 6 summarises recommendations for prevention of SCI
+from diving, and is followed by more detailed consideration.
+Table 6
+Recommended interventions to prevent SCI from diving
+Equipment risk factors
+Model consumer protection regulations for home and other swimming pools:
+•Establish province-wide, nation-wide, and international research-based norms of diving safety design parameters for low-risk home, public pools, and other
+pools.
+•Prohibit sale of diving boards for usual home pools, and any other pools that do not meet research-based criteria and norms of low-risk pools for diving.
+•Discourage sale/use/purchase of home pools that have a deep end combined with an up-slope.
+•Ensure that vendors are required to be properly trained and to train purchasers in pool safety, including the hazards of head-ﬁrst entry.
+•Implement codes to include warning signs prohibiting diving, that are highly visible and proven to be effective among young males in all lighting conditions.
+•Include depth indicators in codes, certiﬁed visible in all lighting conditions.
+•Use municipal aerial surveillance with photographs to identify potentially risky pools, followed up with ground surveillance by inspectors, for both diving
+SCIs and automatic gates to prevent child drowning
+Personal risk factors
+•Implement research-based comprehensive swimming and water safety, including diving safety, programmes for all children and youth.
+•Incorporate water safety into swimming programs, including the hazards of headﬁrst entry and limitations of most pools, to ensure water competence
+(Brenner et al., 2006 ).
+•Reach high-risk individuals, including male youth, by mandatory comprehensive evidence-based training in water competence by health curriculum or
+physical education at schools.
+•Encourage feet-ﬁrst entry into pools and natural sites.
+•Discourage diving in home pools and other pools that do not meet criteria of low-risk diving.
+Teach three key elements to those who insist on diving:
+•Diving environment must be known to be reasonably safe, i.e., certiﬁed on the basis of safety criteria as low-risk for diving by experts.
+•Diving should be undertaken only by individuals trained in safer diving skills.
+•Alcohol must be completely avoided by all divers, since diving skills and awareness of risk deteriorate at even low blood alcohol levels.
+Environmental risk factors
+•Mandate pool lighting that ensures the entire bottom of pool is clearly visible.
+•Ensure water sufﬁciently clear so that bottom is visible.
+Author's personal copy
+P . Barss et al. / Accident Analysis and Prevention 40 (2008) 787–797 795
+The best chance for success in reaching the greatest num-
+ber of persons is probably via comprehensive evidence-based
+swimming and water safety programmes. Programmes such as
+those provided by organizations like Red Cross would preferably
+reach all young people in communities across the country and
+incorporate training not easily forgotten. All organizations that
+provide diving safety teaching must ensure that training materi-
+als and instructors are regularly updated on the basis of the best
+available research evidence.
+To reach high-risk individuals schools could be required to
+include water safety and swimming training in their health or
+physical education curriculum. All swimming programs should
+incorporate water safety to ensure water competence (Brenner
+et al., 2006 ), including teaching the hazards of headﬁrst div-
+ing. Regular publicity is also needed to emphasize that diving
+is an activity with a high potential for injury. Training of new
+pool owners in pool safety, including drowning prevention and
+whether diving safely is feasible in their new pools, should
+be obligatory. Vendors should perhaps also be responsible for
+ensuring that the purchasers have received effective training
+prior to handing over a new pool installation to them.
+For swimmers who insist upon diving, at least three key ele-
+ments for low-risk diving need to be taught. First, the diving
+environment must be known to be reasonably safe, i.e. assessed
+as meeting up-to-date safety design parameters. Few if any home
+pools meet this requirement, nor do many hotel pools and nat-
+ural sites. Second, since diving is a high-risk activity, it should
+only be undertaken by individuals with training in safer diving
+skills . Third , because diving skills and awareness of risk dete-
+riorate measurably even at low blood alcohol concentrations,
+all including the experienced must avoid diving after alcohol
+consumption.
+As for pools, historically, most private in-ground pools were,
+and probably still are, built in Quebec and elsewhere according
+to unofﬁcial norms 2.4 m (8 ft) deep suggested by the now-
+bankrupt American National Spa and Pool Institute (NSPI). Yet,
+a few years ago these “norms” were judged unsafe in a US court,
+as noted in Section 4.1(Zader, 1998 ). A working study was
+done in Quebec in 2006 to evaluate the possibility of designing
+norms for “safe” pools equipped with a diving board, l’´Etude
+de faisabilit´ e sur l’´ elaboration d’une norme pour les piscines
+r´esidentielles ´ equip´ ees d’un tremplin (Rousseau and Langlais,
+2006 ). It was conducted by the Bureau de normalisation du
+Qu´ebec (BNQ) at the request of the Soci ´et´e de sauvetage, the
+Ministry of Health and Social Services, and the Ministry of Edu-
+cation, Leisure and Sport. The report is considered a working
+document.
+Nevertheless, since few home pools meet safety norms for
+public pools, since there are many more home than public
+pools and their use is largely unsupervised, and since the con-
+sequences of a catastrophic diving SCI are the same wherever it
+occurs, it may be safer to simply prohibit ﬁtting of diving boards
+and strongly discourage diving for home pools. An exception
+could be made for home pools that meet or exceed international
+safety design requirements for low-risk diving public pools,
+such as those of FINA ( FINA, 2007 ). Furthermore, since many
+SCIs occur at a pronounced up-slope and some individuals willinevitably dive into home pools, hopper-type pools should be
+banned and only pools with a gradual up-slope accepted. This
+could also help avoid drownings among waders who are non-
+swimmers. Similar considerations should apply to hotel and
+other pools.
+All the foregoing leads us to suggest adoption of province-
+wide, nation-wide, and indeed international norms for private
+pools similar to existing ones for public pools, provided
+the norms for public pools are evidence-based. Such norms,
+as has been the case for automatic pool gates to prevent
+child drownings, may be resisted by pool vendors. Due to
+costs of deeper and longer excavations and to space limita-
+tions, vendors tend to lobby for shallow in-ground pools with
+short deep ends. Nevertheless, many now-standard safety mea-
+sures for other hazards were initially resisted by industry:
+examples include automatic protection for vehicle occupants,
+such as airbags, seatbelts, and intrusion-resistant frames.
+Some municipalities in Australia now use aerial surveil-
+lance with photographs to identify pools, followed up by
+inspectors who verify the presence of the appropriate safety
+gates and fences to protect small children from drowning.
+Municipal surveillance of pools should be comprehensive
+for both diving SCIs and drowning. Hence sound provin-
+cial and federal norms of consumer protection, together
+with municipal regulations and enforcement, are urgently
+required for this hazardous product. While norms should
+be developed to protect untrained recreational divers, they
+should be complemented by universal water safety training as
+key elements of population-based prevention of water-related
+injuries.
+Competing and conﬂict of interest
+None declared.
+Contributors : Peter Barss planned the initial study and the
+protocol to obtain initial funding, supervised Hind Djerrari for
+her M.Sc. research, and prepared the ﬁnal version of this paper
+in collaboration with other authors. Ms. Djerrari helped with
+collecting and analyzing data and some interviews as part of
+her thesis in Community Health in the Department of Social
+and Preventive Medicine of Laval University. Clermont Dionne,
+Quebec Health Research Fund scholar, was a co-supervisor of
+Ms. Djerrari’s MSc and reviewed the ﬁnal version of the paper.
+Bernard Leduc collaborated with writing up the study, helped
+obtain part of the funding, and facilitated collaboration with
+hospitals. Yves Lepage helped with data analysis for part of the
+study.
+Acknowledgements
+We thank especially study participants for sharing details
+of their injuries and Dr. Pierre Proulx, formerly of the Insti-
+tut de r ´eadaptation de Montr ´eal, for suggesting the research and
+helping to obtain initial funding. M. Andr ´e Sen ´ecal and his foun-
+dation were very supportive. Isabelle Masson and Dr. Alison
+Macpherson did administrative coordination and epidemio-
+logic assistance, medical records departments helped locate and
+Author's personal copy
+796 P . Barss et al. / Accident Analysis and Prevention 40 (2008) 787–797
+communicate with patients, Anna Cockerton helped with inter-
+viewing, and Sophie Lapointe with data entry. Funding was by
+Fondation pour la recherche sur la moelle ´epini `ere and Fonda-
+tion de l’Institut de r ´eadaptation de Montr ´eal. Administrative
+support was provided for part of the study by Direction de la
+sant´e publique de Montr ´eal-Centre, Minist `ere de la sant ´ee td e s
+services sociaux, and by the Research Institute, Montreal Gen-
+eral Hospital of McGill University Health Centre. Terri Everest
+reviewed the English of the ﬁnal drafts. Dr. Peter Barss had full
+access to all of the data in the study and takes responsibility for
+the integrity of the data and the accuracy of the data analysis.
+References
+Aito, S., D’Andrea, M., Werhagen, L., 2005. Spinal cord injuries due to diving
+accidents. Spinal Cord 43, 109–116.
+Albrand, O.W., Walter, J., 1975. Underwater curves in relation to injuries from
+diving. Surg. Neurol. 4, 461.
+Barss, P., 2006. Drowning and Other Water-Related Injury Fatalities in
+Canada: An Analysis of the Circumstances and Trends of Water-
+Related Fatalities in Canada in 1991–2000. The Canadian Red Cross
+Society (also published in French), Ottawa, ON, p. 23. Available at:
+http://www.redcross.ca/cmslib/general/drowrep2006overview en.pdf .
+Barss, P., Smith, G.S., Baker, S.P., Mohan, D., 1998. Injury Prevention: An
+International Perspective. Epidemiology, Surveillance, & Policy. Oxford
+University Press, New York, 12–25.
+Blanksby, B.A., Wearne, F.K., Elliott, B.C., 1996. Safe depths
+for teaching children to dive. Aust. J. Sci. Med. Sport 28,
+79–85.
+Blanksby, B.A., Wearne, F.K., Elliott, B.C., Blitvich, J.D., 1997. Aetiology and
+occurrence of diving injuries. A review of diving safety. Sports Med. 23,
+228–246.
+Blitvich, J., 2006. Section 5.17 Spinal Injuries: Prevention, Immobilisation and
+Extrication from the Aquatic Environment – 5.17.1 Prevention of Spinal
+Injuries. In: Bierens, J. (Ed.), Handbook on Drowning. Springer-Verlag,
+Heidelberg, pp. 289–291.
+Blitvich, J.D., McElroy, G.K., Blanksby, B.A., Douglas, G.A., 1999. Character-
+istics of ‘low risk’ and ‘high risk’ dives by young adults: risk reduction in
+spinal cord injury. Spinal Cord 37, 553–559.
+Blitvich, J.D., McElroy, G.K., Blanksby, B.A., 2000. Risk reduction in diving
+spinal cord injury: teaching safe diving skills. J. Sci. Med. Sport 3, 120–
+131.
+Blitvich, J.D., McElroy, G.K., Blanksby, B.A., Parker, H.E., 2003a. Long-term
+retention of safe diving skills. J. Sci. Med. Sport 6, 348–354.
+Blitvich, J.D., McElroy, G.K., Blanksby, B.A., 2003b. Retention of safe diving
+skills. J. Sci. Med. Sport 6, 155–165.
+Brenner, R., Moran, K., Stallman, R., Gilchrist, J., McVan, J., Swimming Abili-
+ties, 2006. Water safety education, and drowning prevention. In: Bierens,
+J.J.L.M. (Ed.), Handbook on Drowning. Prevention Rescue Treatment.
+Springer-Verlag, Berlin, pp. 112–117.
+DeVivo, M.J., 1997. Causes and costs of spinal cord injury in the United States.
+Spinal Cord 35, 809–813.
+DeVivo, M.J., 2003. Epidemiology of spinal cord injury. In: Lin, V .W.
+(Ed.), Spinal Cord Medicine. Demos Medical Publishing, New York,
+pp. 79–85.
+DeVivo, M.J., Sekar, P., 1997. Prevention of spinal cord injuries that occur in
+swimming pools. Spinal Cord 35, 509–515.
+Djerrari, H., 2000. Circumstances of Spinal Cord Injuries from Diving in
+Qu´ebec, Canada, 1961–1994 [M.Sc. Thesis]. Departement de sante com-
+munautaire, Universit ´e Laval, Quebec, Canada.
+F´ed´eration Internationale de Natation (FINA) – International Swimming Fed-
+eration. Rules and Regulations – Facilities Rules: FR5.3 Dimensions for
+Diving Facilities. Website consulted 22 August 2007. Available at URL:
+http://www.ﬁna.org/rules/english/facilities.php .Forchheimer, M., Cunningham, R.M., Gater, D.R., Maio, R.F., 2005. The rela-
+tionship of blood alcohol concentration to impairment severity in spinal cord
+injury. J. Spinal Cord Med. 28, 303–307.
+Frankel, H.L., Montero, F.A., Penny, P.T., 1980. Spinal cord injuries due to
+diving. Paraplegia 18, 118–122.
+Government of British Columbia. Health Act Swimming Pool, Spray Pool,
+and Wading Pool Regulations, B.C. Reg. 289/72, O.C. 4190/72 (includes
+amendments up to B.C. Reg. 451/2003), Part 4 Pool Construction: Item
+21 Requirements for Diving, p. 8, and Appendix C, pp. 1–2. Website
+consulted 21 August 2007. Available at URL: http://www.qp.gov.bc.ca/
+statreg/reg/H/Health/Health289 72/289 72.htm#section21 .
+Goldhaber, G.M., deTurck, M.A., 1988. Effectiveness of warning signs: gender
+and familiarity effects. J. Products Liability 11, 271–284.
+Gouvernement du Qu ´ebec. R `eglement sur la s ´ecurit ´e dans les bains publics –
+Loi sur la s ´ecurit ´e dans les ´ediﬁces publics (L.R.Q., c. S-3, a. 39) Derni `ere
+version disponible, incluant la Gazette ofﬁcielle du 25 juillet 2007, consulted
+23 August, 2007, Section 2 Piscines, articles 11, 12, 15, 21, available at URL:
+http://www2.publicationsduquebec.gouv.qc.ca/dynamicSearch/telecharge.
+php?type=2&ﬁle=/S 3/S3R3.html .
+Green, B.A., Gabrielsen, M.A., Hall, W.J., O’Heir, J., 1980. Analysis of swim-
+ming pool accidents resulting in spinal cord injury. Paraplegia 18, 94–
+100.
+Grifﬁths, E.R., 1980. Spinal injuries from swimming and diving treated in
+the spinal department of Royal Perth Rehabilitation Hospital: 1956–1978.
+Paraplegia 18, 105–117.
+Haddon, W., 1968. The changing approach to the epidemiology, prevention, and
+amelioration of trauma: the transition to approaches etiologically rather than
+descriptively based. Am. J. Publ. Health 58, 1431–1438.
+Haddon, W., 1980. Advances in the epidemiology of injuries as a basis for public
+policy. Publ. Health Rep. 95, 241–411.
+International Campaign for cures of spinal cord injury paralysis. Global
+Summary of Spinal Cord Injury, Incidence and Economic Impact.
+ICCP March 2001 (Revised July 2004) Available at: http://www.
+campaignforcure.org/globalsum.htm .
+Karacan, ˙I, Koyuncu, H., Pekel, ¨O., S ¨umb¨ulo˘glu, G., Kırnap, M., Dursun, H.,
+Kalkan, H., Cengiz, A., Yalınkılic ¸, A., ¨Unalan, H.I., Nas, K., Orkun, S.,
+Tekeo ˘g,˙I., 2000. Traumatic spinal cord injuries in Turkey: a nation-wide
+epidemiological study. Spinal Cord 38, 697–701.
+Kiwerski, J.E., 1993. The causes, sequelae and attempts at prevention of cervical
+spine injuries in Poland. Paraplegia 31, 527–533.
+National Spinal Cord Injury Statistical Center. Annual Statistical Report for
+the Model Spinal Cord Injury Care Systems, 2005. Birmingham, Univer-
+sity of Alabama, p. 69, 71, 132 (pages change with updates). Available at:
+http://images.main.uab.edu/spinalcord/pdfﬁles/facts05.pdf .
+National Spinal Cord Injury Statistical Center. Facts and ﬁgures at a
+glance – June, 2006. Birmingham, University of Alabama. Available at:
+http://www.spinalcord.uab.edu/show.asp?durki=21446 .
+O’Connor, P., 2002. Spinal Cord Injury, Australia, 1999–2000. Australian
+Institute of Health and Welfare, Injury Research and Statistics Series,
+Number 10, AIHW cat no. INJCAT 40. Canberra, Australia. Available at:
+http://www.nisu.ﬂinders.edu.au/pubs/reports/2001/injcat40.php .
+Parliamentary Assembly, Council of Europe, 2002. Towards concerted efforts
+for treating and curing spinal cord injury [Report]. Social, Health
+and Family Affairs Committee. Rapporteur: M Ouzk ´y. Available at:
+http://assembly.coe.int/Documents/WorkingDocs/doc02/EDOC9401.htm .
+Perrine, M.W., Mundt, J.C., Weiner, R.I., 1994. When alcohol and water don’t
+mix: diving under the inﬂuence. J. Stud. Alcohol 55, 517–524.
+Pickett, G.E., Campos-Benitez, M., Keller, J.L., Duggal, N., 2006. Epidemiology
+of spinal cord injury in Canada. Spine 31, 799–805.
+Research Centre for Injury Studies, 2006. Bulletin 22 – Factors Associated
+with the SCI Event, 1998–1999. Flinders University. Adelaide, Australia.
+Available at: http://www.nisu.ﬂinders.edu.au/pubs/bulletin22/bulletin22-
+Factors.html .
+Rousseau, J., Langlais, D., 2006. ´Etude de faisabilit ´e sur l’ ´elaboration d’une
+norme pour les piscines r ´esidentielles ´equip ´ees d’un tremplin. Bureau de
+normalisation du Qu ´ebec, Qu ´ebec, Canada, pp. 1–45.
+Schwarz, N., Sim, E., Nestinger, K., 2001. Injuries of the thoracic vertebrae in
+head-ﬁrst dive into water. Unfallchirurg 104, 300–302.
+Author's personal copy
+P . Barss et al. / Accident Analysis and Prevention 40 (2008) 787–797 797
+Stone, R.S., 2003. A rationale for rating pools with diving boards.
+(Arthur D. Little Study No. 4). Cambridge, MA: Arthur D. Little Inc.,
+1981. Cited in: Blitvich, J.D., McElroy, G.K., Blanksby, B.A., Parker,
+H.E. Long-term retention of safe diving skills. J. Sci. Med. Sport 6,
+348–354.
+Tator, C.H., Edmonds, V .E., 1979. Acute spinal cord injury: analysis of epidemi-
+ologic factors. Can. J. Surg. 22, 575–578.
+Tator, C.H., Edmonds, V .E., New, M.L., 1981. Diving: a frequent and potentially
+preventable cause of spinal cord injury. CMAJ 124, 1323–1324.
+Tator, C.H., Duncan, E.G., Edmonds, V .E., Lapczak, L.I., Andrews, D.F., 1993.
+Changes in epidemiology of acute spinal cord injury from 1947 to 1981.
+Surg. Neurol. 40, 207–215.Wogalter, M.S., Conzola, V .C., Smith-Jackson, T.L., 2002. Research-based
+guidelines for warning design and evaluation. Appl. Ergonom. 33, 219–230.
+World Health Organization, 1978. Manual of the International Classiﬁcation
+of Diseases, Injuries, and Causes of Death. Ninth Revision, vols. I and II.
+WHO, Geneva.
+World Health Organization, 1992. International Statistical Classiﬁcation of Dis-
+eases and Related Health Problems. Tenth Revision, vol. I. WHO, Geneva,
+p. 1060.
+Zader, F. Industry Trade Association Hits Bottom. Washington State
+Trial Lawyers Association. Trial News , November 1998, p. 1–8.
+Available at: http://www.pypﬁrm.com/pypwebpdfs/Ind%20Trade%20Assn
+%20Hits%20Bottom.pdf .

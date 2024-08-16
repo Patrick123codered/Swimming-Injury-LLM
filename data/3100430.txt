@@ -1,0 +1,926 @@
+Prevention of spinal cord injuries that occur in swimming pools
+Michael J DeVivo and Padmini Sekar
+Department of Rehabilitation Medicine, University of Alabama at Birmingham, Birmingham, Alabama, USA
+The purpose of this study was to determine the usual circumstances surrounding spinal cord
+injuries that occur in swimming pools so that appropriate primary prevention programs
+targeted at high risk persons, activities, and environments could be developed and initiated. A
+sample of 341 persons enrolled in the National Spinal Cord Injury Statistical Center database
+since 1973 whose injury was the result of a swimming pool mishap was identiﬁed. Medical
+records were reviewed retrospectively and a survey questionnaire was administered by
+telephone to 196 persons (57.5%) who were located and agreed to participate. Average age at
+time of injury was 24 years, 86% of injured persons were men, 95% were white, 70% were
+never married, 32% had less than a high school education, and only 7% were college
+graduates. Almost all injuries (87%) occurred in private/residential pools. Most injuries (57%)
+occurred when diving into less than 4 feet of water, while an additional 38% occurred at water
+depths between 4 and 8 feet. Depth indicators were not present in 75% of cases. There were
+no warning signs posted in 87% of cases. There was no lifeguard on duty in 94% of cases.
+There was self-reported alcohol involvement in 49% of cases, but drugs were involved in only
+2% of cases. Almost half of all injuries (46%) occurred during parties. In 44% of cases, the
+injury occurred during the person’s ﬁrst visit to that particular pool. Ordinary dives accounted
+for 70% of cases, followed by unusual dives (17%), unintentional pushes (6%), and other
+circumstances (7%). Almost all injuries (88%) occurred between 1 pm and 1 am with the
+most frequent time of day being 6 pm, and 82% occurred during June, July or August. Over
+half (51%) of all injuries occurred on Saturday or Sunday. These results provide important
+clues to the development of a successful primary prevention program.
+Keywords: spinal cord injury; epidemiology; swimming pool; prevention
+Introduction
+Since 1973, diving mishaps have accounted for 8.5% of
+spinal cord injuries (SCI) in the United States.1This
+makes diving mishaps the fourth leading cause of SCI
+in the United States behind only motor vehicle crashes,
+gunshot wounds, and falls.1Diving mishaps are also
+among the leading causes of SCI in other countries. In
+decreasing order, diving mishaps have accounted for
+23.5% of SCI in Novosibirsk, Russia,214% in
+Brisbane, Australia,311.9% in Toronto, Canada,4
+10.5% in Perth, Australia,57% in Romania,66% in
+Denmark,75.1% in Heidelberg, Germany,83.8% in the
+Rhone-Alpes region of France,92.5% in Portugal,10
+but only 1.3% in Japan.11,12Although the percentage
+of total SCI was not reported, diving mishaps cause
+19.8% of all cervical SCI in Poland.13
+Several previous investigators have documented the
+demographic and epidemiologic proﬁle of persons who
+sustain an SCI as a result of a diving mishap.5,8,13 – 23
+These injuries almost always occur among males
+between 15 and 25 years of age. The neurologicallevel of injury is almost always in the C4 – C6 range,
+and the injury is usually neurologically complete.
+However, there is a paucity of recent information on
+the circumstances surrounding these injuries that
+might lead to the development of e/C128ective interven-
+tions aimed at their prevention. Therefore, this study
+was designed to ﬁll that void.
+Methods
+The National Spinal Cord Injury Statistical Center
+(NSCISC) database was used to identify possible study
+subjects. A complete listing of eligibility criteria for
+enrollment in this database has been published
+previously.24The main criteria are that the person
+must have been treated at a federally designated model
+regional SCI center since 1973 and that treatment must
+have occurred within 60 days of injury (within 365 days
+of injury for persons injured before October 1986). It
+has been estimated that among all persons in the
+United States each year who get SCI and survive long
+enough to be hospitalized, approximately 15% are
+enrolled in this database.1In general, it has been Correspondence: MJ DeVivoSpinal Cord (1997) 35, 509 ± 515
+ã1997 International Medical Society of Paraplegia All rights reserved 1362 ± 4393/97 $12.00
+shown that persons enrolled in this database are
+representative of all new cases of SCI that occur in
+the United States each year with the exception that
+neurologically complete injuries are somewhat over-
+represented. Nonwhites and males may also be slightly
+overrepresented.1
+The NSCISC database contains information on
+demographic and injury characteristics of each
+person, acute care and rehabilitation information and
+follow-up information that is collected annually. The
+etiology of injury variable has a code for diving
+mishaps, but does not distinguish between injuries
+occurring in swimming pools and natural aquatic
+environments. Therefore, all persons ( n=1106) en-
+rolled in the NSCISC database since 1973 by one of
+the 13 currently active model SCI centers whose injury
+was the result of a diving mishap and who had not
+been reported as deceased at the time of their most
+recent annual follow-up were identiﬁed. The medical
+records of these individuals were reviewed to ascertain
+whether the injury occurred in a swimming pool.
+Attempts were then made to contact by phone all
+persons who were found to have been injured in a
+swimming pool and all persons for whom the location
+of injury could not be determined from medical
+records. A survey questionnaire was then adminis-
+tered by phone to all persons who were successfully
+contacted, who were injured in swimming pools, and
+who agreed to participate.
+Of the original 1106 diving injuries, 631 (57.1%)
+occurred in natural aquatic environments, 341 (30.8%)
+occurred in swimming pools and 134 (12.1%) occurred
+in unknown locations among persons whose where-
+abouts were unknown or who could not be contacted by
+phone. Of the 341 injuries that occurred in swimming
+pools, 196 (57.5%) completed surveys were obtained.
+The survey contained 21 questions with possible
+responses in either a yes/no or multiple choice format
+and took approximately 10 min to complete. Addi-
+tional information on the date of injury, as well as
+demographic and injury characteristics that was already
+included in the NSCISC database was also used.
+Data were analyzed using descriptive statistics such
+as frequencies and percentages, cross-tabulations,
+means and standard deviations. To facilitate the
+interpretation of percentages, although the frequency
+of unknown responses for each item is listed, these
+unknown responses were excluded from the calculation
+of percentages under the assumption that unknown
+responses would be distributed in the same propor-
+tions as those that were known.
+Results
+Demographic characteristics of the persons who
+responded to the questionnaire appear in Table 1.
+Average age at the time of injury was 24 years (median
+age=22, range=11 – 56), 86% of injured persons were
+men, 95% were white, 70% were never married, 32%
+had less than a high school education, and only 7%
+were college graduates. Over half (53.2%) the injuredpersons were employed at the time of injury, 34.4%
+were students and 11.7% were unemployed. By
+comparison, when all persons enrolled in the NSCISC
+database regardless of cause of injury are considered,
+the mean age at the time of injury is 31, 82% are men,
+70% are white, 54% were never married, 59.6% were
+employed, 18.5% were students, 14.3% were unem-
+ployed, 41% have less than a high school education
+and 8% were college graduates.1Therefore, persons
+whose SCI is the result of a diving mishap are younger,
+more likely to be white males, less well educated and
+more likely to never have been married (perhaps
+because of their younger age) than other persons with
+SCI.
+More injuries occurred in below ground swimming
+pools (64%) than in above ground swimming pools
+(36%). Additional circumstances surrounding these
+injuries appear in Table 2. Almost all injuries (86.7%)
+occurred in private residential pools. Most injuries
+( 5 7 . 2 % )o c c u r r e dw h e nd i v i n gi n t ol e s st h a n4f e e to f
+water, while an additional 38.0% occurred at water
+depths between 4 and 8 feet. Depth indicators were
+not present in 74.9% of cases. There were no warning
+signs posted in 87.4% of cases. There was no lifeguard
+Table 1 Characteristics of persons who sustain spinal cord
+injuries in swimming pool mishaps
+Characteristics n%
+Gender
+Male
+Female
+Race/Ethnicity
+White
+African-American
+Hispanic
+Asian
+Marital Status
+Single
+Married
+Divorced
+Unknown
+Education Level
+8th grade or less
+9th – 11th grade
+High school graduate
+Associate degree
+College degree
+Masters degree
+Unknown
+Occupational Status at Injury
+Employed
+Student
+Retired
+Unemployed
+Unknown
+Year of Injury
+1973 – 1978
+1979 – 1984
+1985 – 1989
+1990 – 1994169
+27
+187
+6
+2
+1
+108
+38
+8
+42
+9
+39
+86
+4
+10
+1
+47
+82
+53
+1
+18
+42
+12
+57
+70
+5786.2
+13.8
+95.4
+3.1
+1.0
+0.5
+70.1
+24.7
+5.2
+–
+6.0
+26.2
+57.7
+2.7
+6.7
+0.7
+–
+53.2
+34.4
+0.7
+11.7
+–
+6.1
+29.1
+35.7
+29.1Swimming pool-related SCI
+MJ DeVivo and P Sekar
+510
+on duty in 93.8% of cases. No diving device was used
+in 76.8% of cases. There was self-reported alcohol
+involvement in 48.9% of cases, but drugs wereinvolved in only 2.2% of cases. Almost half (46.1%)
+of all injuries occurred during parties. In fact, other
+people are virtually always present at the time of the
+injury (97.4%) perhaps because these injuries would
+usually result in death unless someone else was there
+to provide assistance. In 44.0% of cases, the injury
+occurred during the person’s ﬁrst visit to that
+particular pool, and in 27.8% of cases, the injury
+resulted from the person’s ﬁrst dive into that pool.
+Ordinary dives accounted for 69.7% of injuries,
+followed by unusual dives (16.8%), unintentional
+pushes (6.0%) and other circumstances (7.0%). Only
+one injury (0.5%) was caused intentionally.
+Almost all injuries (88%) occurred between 1 pm and
+1 am with the most frequent time of day being 6 pm
+(Figure 1). Over half (52.1%) of all injuries occurred
+during daylight hours, while 10.8% occurred during
+twilight (dusk) and 37.1% occurred in darkness (Table
+2). Artiﬁcial lighting was generally not present (52.8%)
+or turned o/C128 (17.4%). When artiﬁcial lighting was
+turned on, it was inadequate for the situation ( n=24)
+almost as often as it was adequate ( n=29) (Table 2).
+Almost all injuries (82%) occurred during the
+summer months of June, July and August when
+outdoor temperatures are warmer and daylight lasts
+longer (Figure 2). In contrast, when all spinal cord
+injuries in the NSCISC database regardless of cause
+are considered, only 33% occurred during these 3
+months.1
+Over half (51%) of SCI resulting from diving
+mishaps occurred on Saturday or Sunday, with an
+Table 2 Continued
+Circumstance n%
+Intentionality
+Pushed (intent to harm)
+Pushed (unintentional/play)
+Ordinary dive
+Unusual dive
+Other
+Unknown
+Pool Ownership
+Public
+Country/Swimming club
+Private/residential
+Other
+Unknown
+Pool Familiarity
+Own pool
+First visit
+Second visit
+Third or more visit
+Unknown
+Party
+No
+Yes
+Unknown
+Other persons present
+No
+Yes1
+11
+129
+31
+13
+11
+16
+8
+169
+2
+1
+14
+85
+8
+86
+3
+104
+89
+3
+5
+1910.5
+6.0
+69.7
+16.8
+7.0
+–
+8.2
+4.1
+86.7
+1.0
+–
+7.3
+44.0
+4.1
+44.6
+–
+53.9
+46.1
+–
+2.6
+97.4Table 2 Circumstances surrounding spinal cord injuries that
+occur in swimming pools
+Circumstance n%
+Water depth
+Shallow (0 – 4 feet)
+Intermediate (4.1 – 8 feet)
+Deep (>8 feet)
+Unknown
+Type of warning signs posted
+None
+No diving
+Shallow water
+Other
+Unknown
+Understood posted signs
+No
+Yes
+No signs
+Unknown
+Presence of depth indicators
+Not present
+Present
+Unknown
+Lifeguard on duty
+No
+Yes
+Unknown
+Daylight status
+Daylight
+Twilight (dusk)
+Darkness
+Dawn
+Unknown
+Artificial lighting
+None
+Turned off
+Turned on/adequate
+Turned on/inadequate
+Unknown
+Alcohol involvement
+No
+Yes
+Unknown
+Drug involvement
+No
+Yes
+Unknown
+Previously dove into this pool
+No
+1 – 5 times
+More than 5 times
+Unknown
+Diving device
+None
+High diving board
+Low diving board
+Competition blocks
+Ladder or steps
+Other
+Unknown107
+71
+9
+9
+160
+13
+4
+6
+13
+2
+21
+160
+13
+128
+43
+25
+182
+12
+2
+101
+21
+72
+0
+2
+94
+31
+29
+24
+18
+95
+91
+10
+181
+4
+11
+52
+18
+117
+9
+142
+3
+16
+9
+8
+7
+1157.2
+38.0
+4.8
+–
+87.4
+7.1
+2.2
+3.3
+–
+1.1
+11.5
+87.4
+–
+74.9
+25.1
+–
+93.8
+6.2
+–
+52.1
+10.8
+37.1
+0.0
+–
+52.8
+17.4
+16.3
+13.5
+–
+51.1
+48.9
+–
+97.8
+2.2
+–
+27.8
+9.6
+62.6
+–
+76.8
+1.6
+8.6
+4.9
+4.3
+3.8
+–Swimming pool-related SCI
+MJ DeVivo and P Sekar
+511
+additional 14% on Friday (Figure 3). By comparison,
+only 38.6% of all injuries regardless of cause that are
+included in the NSCISC database occurred on
+Saturday or Sunday.1
+The consequences of SCI resulting from diving
+mishaps appear in Table 3. All injuries were in the
+cervical region of the spine, with 50.5% resulting inneurologically complete tetraplegia at the time of
+discharge from rehabilitation. Injury at the C5 level
+was most common (35.1%), followed by C6 (26.8%)
+a n dC 4( 1 7 . 0 % ) .O n l y3 . 9 %w e r ed i s c h a r g e da s
+ventilator-dependent. Unlike motor vehicle crashes
+and other causes of SCI, other associated injuries
+such as head injuries, nonvertebral broken bones and
+Figure 1 Occurrence of SCI in swimming pools by time of
+day
+Figure 2 Occurrence of SCI in swimming pools by month
+Figure 3 Occurence of SCI in swimming pools by day of
+weekTable 3 Consequences of spinal cord injuries that occur in
+swimming pools
+Consequence n%
+Injury level at discharge
+C1
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+Recovered
+Injury completeness at discharge
+Complete
+Incomplete-sensory sparing
+Incomplete-motor nonfunctional
+Incomplete-motor functional
+Recovered
+Unknown
+Ventilator-dependent at discharge
+No
+Yes
+Unknown
+Non-vertebral fracture
+No
+Yes
+Unknown
+Head injury
+No
+Yes
+Unknown
+Loss of consciousness
+No
+Yes
+Unknown
+Pneumothorax
+No
+Yes
+Unknown
+Place of residence at discharge
+Private home
+Other hospital/nursing home
+Group living/other
+Unknown
+Sponsor of care
+Private insurance
+Medicaid
+Department of vocational rehabilitation
+Workers Compensation
+Medicare
+Indigent
+Unknown2
+1
+6
+33
+68
+52
+24
+6
+2
+99
+36
+13
+30
+2
+16
+148
+6
+42
+150
+3
+43
+66
+2
+128
+137
+14
+45
+69
+3
+124
+149
+2
+2
+43
+110
+36
+11
+2
+1
+2
+341.0
+0.5
+3.1
+17.0
+35.1
+26.8
+12.4
+3.1
+1.0
+55.0
+20.0
+7.2
+16.7
+1.1
+–
+96.1
+3.9
+–
+98.0
+2.0
+–
+97.1
+2.9
+–
+90.7
+9.3
+–
+95.8
+4.2
+–
+97.4
+1.3
+1.3
+–
+67.9
+22.2
+6.8
+1.2
+0.6
+1.2
+–Swimming pool-related SCI
+MJ DeVivo and P Sekar
+512
+traumatic pneumothorax were infrequent occurrences
+among persons injured in diving mishaps.
+Average inpatient length of stay for initial acute
+care and rehabilitation was 141 days ( +77 days), while
+the average hospital charges for acute care and
+rehabilitation in 1994 dollars were $192,414
+(+$151,686). Although most persons (67.9%) had
+private health insurance to cover these expenses, many
+other persons rely on public funding programs such as
+Medicaid (22.2%) and state departments of vocational
+rehabilitation (6.8%). Almost all persons were
+discharged from rehabilitation to a private residence
+in the community, with only one person being
+discharged to a nursing home and only one person
+being discharged to another hospital.
+Discussion
+The mechanism of SCI resulting from diving into water
+has been a subject of debate in the literature. The usual
+type of injury found in most studies appears to result
+from compression, suggesting that injuries occur when
+the person’s head hits the bottom of the pool.13,14,17,25
+However, Kewalramani et al found diving injuries
+resulted in only 20% burst fractures and 80% wedge or
+teardrop fractures, indicating ﬂexion type injuries that
+they believe occur on impact with the water rather than
+the bottom of the pool.18,19In the current study,
+information on the mechanism of injury was not
+collected. This issue requires further study, because
+identiﬁcation of the most appropriate prevention
+strategies depends in part on knowing exactly how
+these injuries occur.
+The circumstances surrounding spinal cord injuries
+occurring in swimming pools do not appear to have
+changed during the past two decades. In a study of
+injuries occurring prior to 1976, Green et al found that
+72% of spinal cord injuries occurring in swimming
+pools took place in shallow water (less than 5 feet).22
+Moreover, depth indicators were not present in 49%
+of cases, no person responsible for the pool area was
+present in 75% of cases, 64% of injured persons had
+little or no familiarity with that particular pool, there
+were no warning signs in 63% of cases, there was
+inadequate lighting in 13% of cases, and only 18% of
+cases involved the use of a diving board.22All of these
+ﬁndings are relatively consistent with those of the
+current study.
+These results provide important clues to the
+development of a successful primary prevention
+program for spinal cord injuries that occur in
+swimming pools. The most appropriate target popula-
+tion for such a program would appear to be younger
+aged white males with high school education or less
+who quite often are still students. These demographic
+ﬁndings are consistent with several other studies of
+SCI resulting from diving mishaps.14,16,18,22
+Educational interventions might be coordinated
+with local school systems to increase awareness of
+the potential risks and safety precautions to minimizethose risks. The educational message might focus on
+becoming familiar with the pool and making sure the
+depth of the pool is known before diving, avoiding
+alcohol when using swimming pools, not using pools
+during darkness, teaching proper diving technique,
+being careful about trying unusual types of dives, and
+not using the pool alone. The consequences of SCI
+resulting from diving mishaps could also be part of the
+education message.
+Pool owners also have a responsibility to provide
+the safest possible environment for persons who use
+the pool. Educational programs for pool owners
+should focus on the need for adequate fencing to
+keep people away from the pool at inappropriate
+hours, providing adequate lighting during hours when
+the pool is to be used, having adequately trained
+supervision or a lifeguard present, particularly during
+parties, and having visible and understandable depth
+indicators located strategically around the pool.
+Additional prevention strategies were outlined by
+Kewalramani and Kraus 20 years ago.18These ideas
+included softening the bottom of swimming pools,
+muscle strengthening exercises to reduce susceptibility
+to injury and training in techniques to prevent
+aggravation of existing spinal cord damage during
+drowning rescue procedures. Reducing the height of
+diving boards was also suggested;18however, this
+latter strategy may be less e/C128ective than others because
+only 1.6% of injuries in the current study and 6.9% of
+injuries reported by Green et al22involved the high
+diving board.
+Several limitations of this study should be noted.
+First, because this is a study requiring a phone
+interview several years after the injury occurred, some
+bias in the identiﬁcation of the target population for
+future prevention programs might have occurred as a
+result of di/C128erential mortality. Persons who were
+excluded from the study because they were deceased
+were probably more likely to be slightly older, male,
+nonwhite, ventilator-dependent, have neurologically
+complete injuries, and be injured during the 1970’s
+than persons who were included in the study.
+However, there is no reason to believe the circum-
+stances surrounding the injuries of persons who are
+now deceased would be any di/C128erent from those of
+persons who were included in the study unless certain
+trends have occurred during the past two decades.
+Even if a slight bias occurred from di/C128erential
+exclusion of older data, it is the newer data that are
+most relevant to current and future prevention e/C128orts.
+Moreover, the fact that demographic and injury
+severity characteristics of persons included in this
+study are consistent with those of previous studies
+suggests that any bias involving these characteristics
+should be relatively small.1 3–1 6
+To the extent that alcohol and illicit drug use at the
+time of the injury is related to subsequent use, the
+e/C128ect of these items on the occurrence of SCI in
+swimming pool mishaps might be slightly under-
+estimated by the exclusion of deceased persons. Also,Swimming pool-related SCI
+MJ DeVivo and P Sekar
+513
+if certain injury circumstances typically produce more
+severe injuries, then the frequency of those circum-
+stances might be underestimated.
+There is no reason to believe the persons who could
+not be located who were still alive would answer the
+questions di/C128erently than persons who were success-
+fully contacted. There were very few refusals among
+persons actually contacted.
+The high number of unknowns for certain demo-
+graphic characteristics occurred because one of the
+data sets in the NSCISC database does not contain
+those items. The high number of unknowns for
+associated injuries occurred because those items were
+not added to the database until 1986. It is not
+anticipated that any bias is caused by these unknown
+responses.
+The validity of self-reported alcohol and drug
+involvement might also be questioned. In this study,
+blood alcohol data were available in the medical
+records of only 10 persons. All 10 tested positive and
+all 10 independently admitted that alcohol was inolved
+in their injury. A notation in the medical record that
+alcohol was suspected but the test was not done
+occurred in an additional 27 instances. Again, all 27 of
+these persons independently reported that alcohol was
+involved in their injury. There was no evidence in the
+medical records that anyone who said that alcohol was
+not involved was not truthful. Therefore, in this study,
+the self-reported use of alcohol at the time of injury
+appears to be a valid measure of actual alcohol use.
+Since this was one of the more sensitive questions
+asked during the interview, it would appear that
+responses to other questions should also be valid,
+although the possibility of bias resulting from selective
+recall of persons being interviewed cannot be totally
+excluded, particularly when the injury occurred many
+years ago.
+This study was not designed to estimate either the
+incidence of SCI occurring in swimming pools or
+whether any trends have occurred in the frequency of
+these injuries over time. However, several population-
+based studies suggest that the overall incidence of SCI
+in the United States is approximately 10,000 new cases
+per year.2 6–2 8If the NSCISC database is representa-
+tive of these injuries with respect to their causes, then
+it can be estimated that approximately 850 new spinal
+cord injuries occur each year as a result of a diving
+mishap.1Results of this study suggest that approxi-
+mately 300 of those injuries will occur in swimming
+pools. This ﬁgure does not include persons who drown
+in swimming pools as a result of sustaining a SCI.
+Increased frequencies of SCI for certain demo-
+graphic groups should not be interpreted to mean that
+those persons are at higher risk for obtaining these
+injuries. To make such inferences, one must have
+information about the degree of exposure to possible
+injury (use of swimming pools, number of dives, etc.)
+that was not collected in this study.
+In addition to the physical, social, and emotional
+consequences of SCI resulting from diving mishaps,the economic sequences of these injuries are stagger-
+ing. In present value 1992 dollars using a 2% discount
+rate, it has been estimated that total direct medical
+expenses and indirect costs resulting from lost wages
+and fringe beneﬁts over the remaining lifetime of a
+person with SCI injured at age 25 average $3,396,669
+for persons with injury levels at C4 or above, and
+$2,320,824 for persons with injury levels between C5
+and C8.29These are the injury levels associated with
+diving mishaps. Therefore, it would appear that
+primary prevention programs can be highly cost-
+e/C128ective if just a single SCI can be prevented. This
+study has provided the necessary information to
+initiate such programs.
+Acknowledgements
+Appreciation is expressed to the data collectors at each
+model SCI system, the persons who consented to be
+interviewed, and Mr Lester Kowalski of the National
+Swimming Pool Foundation who helped identify and
+formulate the questions included in the survey. This study
+was supported in part by a grant from the National
+Swimming Pool Foundation, San Antonio, Texas, and in
+part by model spinal cord injury care system grants from
+the National Institute on Disability and Rehabilitation
+Research, United States Department of Education,
+Washington, DC.
+References
+1 Go BK, DeVivo MJ, Richards JS. The epidemiology of spinal
+cord injury. In: Stover SL, DeLisa JA, Whiteneck GG, editors.
+Spinal Cord Injury: Clinical Outcomes from the Model Systems .
+Aspen Publishers, Inc., Gaithersburg, Maryland, 1995: pp 21 –
+55.
+2 Silberstein B, Rabinovich S. Epidemiology of spinal cord injuries
+in Novosibirsk, Russia. Paraplegia 1995; 33:322 – 325.
+3 Sutton NG. Injuries of the Spinal Cord: The Management of
+Paraplegia and Tetraplegia. Butterworth, London, 1973: p 185.
+4T a t o rC H et al. Changes in epidemiology of acute spinal cord
+injury from 1947 to 1981. Surg Neurol 1993; 40:207 – 215.
+5 Griths ER. Spinal injuries from swimming and diving treated in
+the spinal department of Royal Perth Rehabilitation Hospital:
+1956-1978. Paraplegia 1980; 18:109 – 117.
+6 Soopramanien A. Epidemiology of spinal injuries in Romania.
+Paraplegia 1994; 32:715 – 722.
+7 Biering-Sorensen F, Pedersen V, Clausen S. Epidemiology of
+spinal cord lesions in Denmark. Paraplegia 1990; 28:105 – 118.
+8 Steinbruck K, Paeslack V. Analysis of 139 spinal cord injuries
+due to accidents in water sports. Paraplegia 1980; 18:86 – 93.
+9M i n a i r e P et al. Epidemiology of spinal cord injury in the Rhone-
+Alpes region, France, 1970 – 75. Paraplegia 1978; 16:76 – 87.
+10 Gaspar VG, Silva RME. Spinal cord lesions due to water sports
+and occupations: our experience in 20 years. Paraplegia 1980; 18:
+106 – 108.
+11 Shingu H, Ikata T, Katoh S, Akatsu T. Spinal cord injuries in
+Japan: a nationwide epidemiological survey in 1990. Paraplegia
+1994; 32:3–8 .
+12 Shingu H et al. A nationwide epidemiological survey of spinal
+cord injuries in Japan from January 1990 to December 1992.
+Paraplegia 1995; 33:183 – 188.
+13 Kiwerski JE. The causes, sequelae and attempts at prevention of
+cervical spine injuries in Poland. Paraplegia 1993; 31:527 – 533.Swimming pool-related SCI
+MJ DeVivo and P Sekar
+514
+14 Damjan H, Turk PR. Prevention of spinal injuries from diving in
+Slovenia. Paraplegia 1995; 33:246 – 249.
+15 Noguchi T. A survey of spinal cord injuries resulting from sport.
+Paraplegia 1994; 32:170 – 173.
+16 Kraus JF. Epidemiological aspects of acute spinal cord injury: a
+review of incidence, prevalence, causes, and outcome. In: Becker
+DP, Povlishock JT, editors. Central Nervous System Trauma
+Status Report - 1985 . National Institute of Neurological and
+Communicative Disorders and Stroke, Bethesda, Maryland.
+1985; pp 313 – 322.
+17 Burke DC. Spinal cord injuries from water sports. M e dJA u s t
+1972; 2:1190 – 1194.
+18 Kewalramani LS, Kraus JF. Acute spinal cord lesion from
+diving: epidemiological and clinical features. West J Med 1977;
+126: 353 – 361.
+19 Kewalramani LS, Taylor RG. Injuries to the cervical spine from
+diving accidents. J Trauma 1975; 15:130 – 142.
+20 Ratanaubol U, Huang CT. Spinal cord injury due to diving
+accident: eight years of review at Spain Rehabilitation Center. J
+Med Assoc State Ala 1982; 52:58 – 59.
+21 Frankel HL, Montero FA, Penny PT. Spinal cord injuries due to
+diving. Paraplegia 1980; 18:118 – 122.
+22 Green BA, Gabrielsen MA, Hall WJ, O’Heir J. Analysis of
+swimming pool accidents resulting in spinal cord injury.
+Paraplegia 1980; 18:94 – 100.23 Katoh S, Shingu H, Ikata T, Iwatsubo E. Sports-related spinal
+cord injury in Japan (From the nationwide spinal cord injury
+registry between 1990 and 1992). Spinal Cord 1996; 34:416 – 421.
+24 DeVivo MJ, Richards JS, Stover SL, Go BK. Spinal cord injury:
+rehabilitation adds life to years. West J Med 1991; 154:602 – 606.
+25 Kiwerski J. Cervical spine injuries caused by diving into water.
+Paraplegia 1980; 18:101 – 105.
+26 Price C, Makintubee S, Herndon W, Istre GR. Epidemiology of
+traumatic spinal cord injury and acute hospitalization and
+rehabilitation charges for spinal cord injuries in Oklahoma,
+1988-1990. Am J Epidemiol 1994; 139: 37 – 47.
+27 Gerhart KA. Spinal cord injury outcomes in a population-based
+sample. J Trauma 1991; 31:1529 – 1535.
+28 Acton PA et al. Traumatic spinal cord injury in Arkansas, 1980
+to 1989. Arch Phys Med Rehabil 1993; 74:1035 – 1040.
+29 DeVivo MJ, Whiteneck GG, Charles ED Jr. The economic
+impact of spinal cord injury. In: Stover SL, DeLisa JA,
+Whiteneck GG, editors. Spinal Cord Injury: Clinical Outcomes
+from the Model Systems. Aspen Publishers, Inc., Gaithersburg,
+Maryland, 1995: pp 234 – 271.Swimming pool-related SCI
+MJ DeVivo and P Sekar
+515

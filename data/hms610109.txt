@@ -1,0 +1,431 @@
+A Cross Sectional Study Examining Shoulder Pain and Disability
+in Division I Female Swimmers
+Shana Harrington, PT, PhD, SCS, MTC ,
+Assistant Professor, Department of Clinical & Applied Movement Sciences, University of North
+Florida, 1 UNF Drive, Jacksonville, FL 32224, Office : 904-620-1431, Fax: 904-620-2848
+Corinne Meisel, DPT , and
+Sports Physical Therapy Resident, DiSepio Institute for Rural Health and Wellness, Saint Francis
+University, P.O. Box 600, Loretto, PA 15940, Office: 814-472-3936, Fax: 814-472-3905
+Angela Tate, PT, PhD
+Associate Faculty – Arcadia University, Clinic Director – Willow Grove Physical Therapy, 1001
+Easton Rd, 101 Manor, Willow Grove, PA 19090, Office: 215-659-7759, Fax: 215-659-6658
+Shana Harrington: s.harrington@unf.edu; Corinne Meisel: corinnemeisel@hotmail.com; Angela Tate: tatea@arcadia.edu
+Abstract
+Introduction— The prevalence of shoulder pain in the competitive swimming population has
+been reported as high as 91%. Female collegiate swimmers have a reported shoulder injury rate 3×
+greater than their male counterparts. There has been little information on how to best prevent
+shoulder pain in this population. The purpose of this study is to examine if differences exist in
+shoulder range of motion, upper extremity strength, core endurance, and pectoralis minor length in
+NCAA Division I female swimmers with and without shoulder pain and disability.
+Methods— NCAA Division I females (n=37) currently swimming completed a brief survey that
+included the pain subscale of the Penn Shoulder Score (PSS) and the Sports/Performing Arts
+Module of the Disabilities of the Arm, Shoulder, and Hand (DASH) Outcome Measure. Passive
+range of motion for shoulder internal rotation (IR) and external rotation (ER) at 90° abduction was
+measured using a digital inclinometer. Strength was measured using a hand held dynamometer for
+scapular depression and adduction, scapular adduction, IR, and ER. Core endurance was assessed
+using the side bridge and prone bridge tests. Pectoralis minor muscle length was assessed in both a
+resting and stretched position using the PALM palpation meter. All measures were taken on the
+dominant and nondominant arms.
+Results— Participants were classified as positive for pain and disability if the following 2 criteria
+were met: 1) the DASH sports module score was greater than 6/20 points and 2) the PSS strenuous
+pain score was ≥4/10. If these criteria were not met, participants were classified as negative for
+pain and disability. Significant differences were found between the two groups on the dominant
+side for pectoralis muscle length at rest (p=0.003) and stretch (p=0.029).
+Correspondence to: Shana Harrington, s.harrington@unf.edu .
+NIH Public Access
+Author Manuscript
+J Sport Rehabil . Author manuscript; available in PMC 2014 August 27.
+Published in final edited form as:
+J Sport Rehabil . 2014 February ; 23(1): 65–75. doi:10.1123/jsr.2012-0123.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Conclusions— The results provide preliminary evidence regarding an association between a
+decrease in pectoralis minor length and shoulder pain and disability in Division I female
+swimmers.
+Keywords
+Swimming; shoulder pain; female
+The prevalence of shoulder pain in the competitive swimming population has been reported
+as high as 91%.1 One study found that 69% of National Collegiate Athletic Association
+(NCAA) Division I Swimmers experienced shoulder pain.2 This shoulder pain can be so
+severe that it may lead to functional impairments and even cessation of swimming
+participation.3 The reported injury rate in collegiate swimmers ranges from 2.12 – 3.78 per
+1,000 per athlete exposure and 35–44% of those injuries were to the shoulder/ upper arm.4,5
+This indicates swimming has an overall lower risk of injury compared to other sports, but a
+high risk for shoulder injury. In addition, one study found that competitive swimmers with a
+history of shoulder pain were 4.1 times more likely to have a future shoulder injury.6
+Females are of particular interest when it comes to examining shoulder pain and disability in
+overhead competitive sports for three main reasons. First, in a study conducted by Sallis and
+colleagues, collegiate female swimmers were found to have a significant increase in reported
+shoulder injuries when compared to males (21.05 per 100 swimmers compared to 6.55).7
+Second, research has found that females demonstrate more generalized glenohumeral joint
+hypermobility than men.4,8 Hypermobility has been described as a potential risk factor for
+injuries during sporting activities.9,10 Finally, participation in female collegiate swimming
+has doubled over the last 20 years, indicating a steady rise in popularity.11 Currently, there
+are over 500 collegiate female swim teams in the United States (U.S.) and swimming ranks
+seventh overall in female sport participation.11
+Unfortunately, even with the high shoulder injury rate in competitive swimming, a clear
+understanding of how to prevent and treat shoulder pain in collegiate female swimmers is
+lacking. Several studies have investigated risk factors for shoulder pain in
+swimmers2,3,6,12–15 two of which limited their investigation to the collegiate population.2,14
+Since subacromial impingement is the most common underlying condition responsible for
+swimmer’s should pain and injury, various physical characteristics that are associated with
+subacromial impingement have been compared between swimmers with and without
+shoulder pain and injury. These factors include: scapular kinematics, internal and external
+rotation strength, ER/IR strength ratio, joint laxity, yardage, flexibility, shoulder range of
+motion, and types of training.2,3,6,12–16 However, the results from the previous studies have
+been inconsistent. Beach and colleagues found no significant correlations between shoulder
+flexibility, strength ratios, and shoulder pain in 28 NCAA Division I swimmers and four
+club swimmers.2 Based on data collected in a survey, Stocker and colleagues concluded that
+collegiate and master’s swimmers did not subjectively report an association between
+shoulder pain and shoulder flexibility.14 The authors went on to postulate that pain was
+perceived to increase with swim training intensity with a possible relationship between
+muscle fatigue and shoulder pain.14 It is important to note that these studies were conductedHarrington et al. Page 2
+J Sport Rehabil . Author manuscript; available in PMC 2014 August 27.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+over 18 years ago and both on land and in water collegiate swim training has changed
+drastically during this time. Additionally, the results of these studies should be interpreted
+cautiously due to methodological variability.
+Due to these limitations and gaps in the research, the investigators sought to explore
+relationships between different physical measures and shoulder pain. Bak recently discussed
+the etiology of swimmer’s shoulder related to intrinsic and extrinsic factors.16 Intrinsic
+factors included: joint hypermobility, scapular dyskinesis, glenohumeral internal rotation
+deficit, rotator cuff imbalance, lack of flexibility/ stiffness, posture, core stability, and
+increased thoracic kyphosis.16 A recent study conducted by Tate and colleagues examined
+several of these risk factors associated with shoulder pain and disability across the lifespan
+of female competitive swimmers and found potentially modifiable variables that could be
+used as a basis to test the effectiveness of a shoulder injury prevention program in the age
+groups studied. However, collegiate swimmers were not included in the study and despite
+the high incidence of shoulder pain in female collegiate swimmers, there is a lack of recent
+research on factors associated with shoulder pain and disability in female Division I
+swimmers.3.
+Due to the high rate of shoulder pain and disability in this cohort, it is important to discern
+the clinical impairments that exist in collegiate swimmers with pain and disability in order to
+assist with creating injury prevention and rehabilitation programs. Therefore, the purpose of
+this study is to examine if differences exist in shoulder Range of motion (ROM), upper
+extremity strength, core endurance, and pectoralis minor length in NCAA Division I female
+swimmers with and without shoulder pain and disability. Based on the findings of Tate et al
+and Bak, we hypothesize that female collegiate swimmers who report significant shoulder
+pain and disability will demonstrate increased shoulder ROM, decreased upper extremity
+strength, decreased core endurance and decreased pectoralis minor length when compared to
+those swimmers who do not report significant shoulder pain and disability.
+METHODS
+Design
+A cross-sectional design was used.
+Participants
+The participants consisted of females from 2 NCAA Division I swim programs (n=37,
+age=19.5±1.19) who were at least 18 years old, currently participating in full team practices,
+and had no history of shoulder surgery in the past 12 months. Recruitment occurred through
+emails sent to NCAA Division I swim coaches who would be conducting winter training in
+the state of XXX. See Table 1 for demographics.
+Procedures
+Participants reported for a single testing session lasting 40 minutes located at a designated
+area near the swimming pool. All participants read and signed an informed consent form
+approved by the XXX Institutional Review Board. Participants completed a brief surveyHarrington et al. Page 3
+J Sport Rehabil . Author manuscript; available in PMC 2014 August 27.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+titled “Sports and Symptom Survey Form” used by Tate et al to capture basic demographic
+information about the swimmer, sport participation, and pain or shoulder symptoms.3
+(Appendix A). This survey included a subscale of the Penn Shoulder Score.17 Pain was rated
+at rest, with normal activities (eating, dressing, bathing), and with strenuous activities
+(sports, reaching, lifting) on a numeric rating scale of 0 (no pain) to 10 (worst possible pain).
+Shoulder function during swimming was assessed using the Sports/Performing Arts Module
+of the Disabilities of the Arm, Shoulder, and Hand Outcome Measure (DASH).18 The
+DASH sports module asks participants to rate 4 items (physical ability with sports
+technique, participation, satisfaction, and frequency) using a 5-point scale, with 1 signifying
+no difficulty and 5 signifying unable over the past week. Next, shoulder passive shoulder
+ROM, shoulder strength, core endurance, and pectoralis minor muscle length was measured
+by the same licensed physical therapist.
+Bilateral shoulder passive ROM was measured in degrees using a digital inclinometer (The
+Saunders Group, Inc., Chaska, MN) in the following order: supine external rotation (ER) at
+90° of abduction and supine internal rotation (IR) at 90° of abduction per Norkin.19 Two
+trials of passive ROM were performed and the average was used for data analysis. Intra-
+tester reliability was previously established for passive ROM (ICC 3,1 0.92 & 1.0, SEM =
+0.67 & 1.54 degrees).
+Bilateral shoulder peak muscle force in kilograms was measured by means of a maximal
+voluntary isometric contraction (MVIC) using a hand held dynamometer (Lafayette
+Instrument®, Lafayette, IN) and was normalized to each participant’s body mass. Strength
+was assessed using methods described by Daniels and Worthingham for bilateral shoulder
+IR, shoulder ER, scapular depression and adduction and scapular adduction in a randomized
+order to minimize the effects of fatigue.20 Thirty seconds rest occurred between each trial
+and a 1 minute rest period occurred between each testing position. Each measurement was
+taken twice and the average was used for data analysis. Intra-tester reliability was previously
+established during pilot testing for all shoulder girdle strength measures (ICC 3,1=0.72–0.99,
+SEM=0.80–1.35% MVIC).
+Core endurance was assessed with the side bridge test21 (Figure 1) and the prone bridge
+test22 (Figure 2) used previously by Tate and colleagues.3 Participants were asked to hold
+each test for as long as they could and duration was recorded in seconds. In order to assure
+proper technique for the core endurance tests, a 12 inch ruler was held by the tester
+vertically from the mat to the lowest portion of the hip. If the hip lowered, the participant
+was provided verbal instructions to try and resume the correct straight position. If the hip
+dropped a second time, the test was ended. Participants performed 1 trial of each core
+endurance position in a randomized order: prone, dominant side, nondominant side.
+Reliability of core stability related measures has been previously reported (ICC 2,1=0.74 &
+0.96, SEM=8.32 & 10.29 seconds).23
+Bilateral pectoralis minor muscle length was assessed in both a resting and stretched
+position using the PALM palpation meter (Performance Attainment Associates, St. Paul,
+MN). Pectoralis minor length was obtained by placing the PALM’s caliper tips on the
+medial coracoid process and the 4th intercostals space adjacent to the sternum.24 TestingHarrington et al. Page 4
+J Sport Rehabil . Author manuscript; available in PMC 2014 August 27.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+positions of rest (Figure 3) and stretch (Figure 4) were selected based on previously reported
+methodology.3 Normalized pectoralis minor length at rest and stretch was obtained by
+dividing the pectoral length by the participant’s height and multiplying by 100. This
+normalization has been previously used by Borstad et al. and termed pectoralis minor
+index.25 Reliability and validity of the PALM to measure pectoralis minor length have been
+previously established (ICC 3,1=0.98 & 0.99, SEM=0.32 & 0.29 cm).24
+Statistical Analysis
+Participants were divided into groups based the Penn Shoulder Score strenuous numeric
+rating score and a total score for swimming disability using the DASH sports module (range,
+4–20, with 4 indicating no swimming disability).3 Participants were classified as positive for
+pain and disability (+) if the following 2 criteria were met: 1) the DASH sports module score
+was greater than 6/20 points and 2) the Penn Shoulder Score strenuous numeric rating score
+was ≥4/10. Additionally, our groups were further categorized by whether the combination of
+pain and disability occurred on the dominant or nondominant arm. If these criteria were not
+met, participants were classified as negative. The cutoff markers were created in order to
+compare those with no or minimal shoulder pain and disability with those incurring
+substantial shoulder pain and disability. We utilized the same cutoff as Tate and colleagues
+for the DASH Sports module , as a score of 6 or more requires at least mild difficulty in 3 of
+the 4 areas surveyed.3 However, we used a different cutoff for pain because the swimmers in
+our study had higher levels of pain during strenuous activity (swimming).3 Additionally, of
+the 37 participants in our study, only 8 participants (21%) reported no pain (0/10) on either
+their dominant or nondominant shoulder with strenuous activity, whereas in Tate’s cohort a
+greater percentage of swimmers had no reported pain (0/10) on the dominant (39%) or
+nondominant (47%) shoulder.3 For the other 29 participants in our study, the responses for
+pain with strenuous activity varied from 1/10 to 9/10. Due to the low number of swimmers
+reporting 0/10 pain with strenuous activity and the high prevalence of pain in competitive
+swimmers, a cut-off needed to be created that emphasized a clear distinction between those
+with and without significant shoulder pain and disability. The Penn Shoulder Score
+strenuous numeric rating score has been shown to have a standard error of measurement
+(SEM) of 1.0 and a minimal detectable change (MDC) of 1.4.26 Therefore, a score of ≥4/10
+on the Penn Shoulder Score for pain with strenuous activity was selected to represent
+significant pain as it is well above the standard error of measurement, but includes 70% of
+the response options (4/10 – 10/10). The following 2 comparisons were made: 1) + or − for
+pain and disability on the dominant arm and 2) + or − for pain and disability on the
+nondominant arm. Means and standard deviations were calculated per group for all variables
+of ROM, shoulder strength, core endurance, and pectoralis minor length.
+Based on previous literature and variables the authors were most interested in (pectoralis
+minor length and IR ROM), it was estimated that 9–16 participants (Effect Size = 0.71 and
+0.94) (positive for pain and disability and negative for pain and disability) were required in
+each group for this study to obtain a power of 0.80.3 A one-way analysis of variance
+(ANOVA) was conducted to determine if differences existed between the groups on the
+dominant extremity (+ for pain and disability or − for pain and disability) on each of the
+dependent variables of ROM, shoulder strength, core endurance, and pectoralis minorHarrington et al. Page 5
+J Sport Rehabil . Author manuscript; available in PMC 2014 August 27.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+length. The same analysis was conducted on each dependent variable between the groups on
+the nondominant extremity (+ for pain and disability or − for pain and disability). SPSS®
+statistical software (version 19.0, SPSS Inc., Chicago, IL) was used to analyze all data.
+Statistical significance levels for all comparisons was set a priori of alpha = 0.05.
+RESULTS
+A total of 37 Division 1 female swimmers participated in this study. The number of
+participants grouped as + was 12 for dominant arm and 14 for nondominant arm, 8 of which
+were + on both the dominant and nondominant arms. Participant demographics can be seen
+in Table 2. The ANOVA revealed a statistically significant difference between groups (+ or
+−) on the dominant arm for pectoralis minor length at rest (F 1,35 = 10.265, p = 0.003) and
+stretch (F 1,35 = 5.164, p = 0.029) with significantly decreased muscle length at both rest and
+stretch for those + participants as shown in Table 3. No other statistically significant
+measures were found for the other dependent variables on either the dominant or
+nondominant arms. (Table 4)
+DISCUSSION
+This purpose of this study was to determine if differences exist in shoulder ROM, upper
+extremity strength, core endurance, and pectoralis minor length in Division 1 female
+swimmers with and without shoulder pain and disability. Our results were in partial
+agreement with our hypotheses and indicate that NCAA Division I female swimmers who
+reported shoulder pain and disability demonstrated decreased resting and stretched pectoralis
+minor length on their dominant arm when compared to those female swimmers who did not
+report significant shoulder pain and disability on their dominant arm. However, our results
+did not indicate a difference between strength or ROM between the two groups. This is in
+agreement with a study conducted by Beach and colleagues who also did not find a
+correlation between pain and shoulder ROM or strength in NCAA Division I swimmers.2 It
+is important to note that all participants were currently competing at the NCAA Division I
+level during data collection, which on average required 18.8 hours of swimming each week.
+It is possible that individuals with impaired strength and ROM are not be able to tolerate the
+intense demands of such rigorous practice and hence do not compete at this elite level, but
+prospective studies would be needed to determine this.
+Shortened pectoralis minor length has been associated with altered scapular kinematics. A
+change in scapular resting position has been hypothesized to decrease subacromial space due
+to increased anterior tilt and internal rotation of the scapula.25 Most studies have not
+examined muscle length as a factor which can contribute to shoulder pain, but instead
+focused on overall shoulder ROM. Our observations were in partial agreement with the
+study conducted by Tate et al, which demonstrated that resting length of the pectoralis minor
+was significantly reduced in thigh school swimmers who had pain and disability. Although
+the Tate et al study did not include a cohort of female Division I athletes.3
+While we are not aware of a reported clinical meaningful difference using the PALM to
+measure pectoralis minor length, the significant differences found in the present study on theHarrington et al. Page 6
+J Sport Rehabil . Author manuscript; available in PMC 2014 August 27.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+dominant arm (0.68cm for stretch and 0.53cm for rest) are greater than the reported
+measurement error of 0.32cm.24 Our findings of significant differences in pectoralis muscle
+length at rest and stretch on the dominant arm indicates that muscle length may play a key
+role in contributing to shoulder pain and disability in Division 1 female swimmers.25
+Borstad et al. reported that individuals with shortened pectoralis minor length are at a greater
+risk for shoulder impingement with increased exposure to elevation, force, and repetition.25
+Collegiate swimmers are exposed to each of these factors repeatedly throughout each
+practice and competition. Since competitive swimmers are unable to alter their exposure to
+shoulder elevation, force, and repetition, increasing pectoralis minor length may be an
+important modifiable variable that could potentially increase the subacromial space and
+possibly decrease risk of shoulder pain in swimmers. To date, there is limited research on
+pectoralis minor stretching interventions in swimmers with shoulder pain and disability
+using a valid and reliable clinical tool.
+The term “Swimmer’s shoulder” was first coined by Neer and Welsh in 1977 to describe
+secondary shoulder impingement in swimmers who breathe to one side.27 Secondary
+impingement is used to describe shoulder pain resulting from overuse and is typically
+reversible. Allegruci and colleagues further defined secondary impingement in swimmers as
+resulting from either “disruption of static stabilizers…or fatigue and weakness of the
+dynamic stabilizers”.28 Unfortunately, this definition does not consider the impingement
+occurring from tightening or shortening of dynamic stabilizers. This agonist-antagonist
+muscle imbalance between tight pectoral muscles and elongated weak scapular muscles has
+been addressed in several swimming intervention studies aimed to reduce the postural
+abnormalities found in swimmers.29–31 Although these studies incorporated stretching of the
+pectorals and scapular strengthening, none of these studies measured pectoralis minor
+muscle length directly with a validated technique or used an entirely female subject pool so
+direct comparisons to our study is not possible.
+While these studies incorporated pectoral stretching in an intervention program designed to
+alter posture and scapular kinematics in elite swimmers, the results have been varied.29–31
+Hibberd et al found no significant scapular kinematic differences amongst the intervention
+and control groups. Although neither the Kluemper nor Lynch studies assessed pectoral
+length using the same method as in our study, both reported favorable improvements in
+forward shoulder translation and shoulder posture after the interventions. The latter study
+also reported that 79% of their intervention group had improvement in shoulder pain after
+the intervention program.31 Results also showed a decrease in forward shoulder translation
+without differences in scapular muscle strength.31 Forward shoulder translation, a
+component of posture, is believed to be caused by a muscular imbalance between a
+lengthened middle trapezius and a shortened pectoralis minor.31 Therefore it could be
+inferred that the improvement in posture found in the Lynch et al study may be related to
+lengthened pectoral musculature. While a cause and effect relationship cannot be determined
+from their data, reduced pain ratings were also found with a pectoral stretching program.
+Prospective studies using direct pectoral measures may allow better understanding of the
+mechanism(s) responsible for the reduction in shoulder pain.Harrington et al. Page 7
+J Sport Rehabil . Author manuscript; available in PMC 2014 August 27.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+A recent study by Williams and colleagues is the first competitive swimming study to our
+knowledge that considers both scapular kinematics, which has been considered an indirect
+muscle length measurement, and direct muscle length measurement.32 Participants were
+divided into either a control group, intervention group one which received a focused
+pectoralis minor stretch, or intervention group two which received a gross pectoral stretch.32
+There were no significant changes in scapular kinematics, but significant gains in pectoral
+length were found in the group who performed the gross pectoral stretch.32 Based on these
+findings, it may be inferred that changes in pectoralis minor muscle length may not be
+detected when evaluating scapular kinematics, but can be distinguished with direct
+measurements of the muscle length indicating that these two methods of measurement are
+not equivalent. Nevertheless, more research is needed to determine the most effective
+method of increasing pectoralis minor muscle length and its effect on decreasing shoulder
+pain in competitive female swimmers.
+This present study found no significant differences between upper extremity strength, core
+endurance, and shoulder ROM on both the dominant and nondominant arms. We found no
+significant difference on the nondominant arm for resting or stretched pectoralis minor
+muscle length. These non-significant differences could be due to the limitations within this
+study that include a small sample size and utilizing only two Division 1 swim teams. It is
+possible that some swimmers underreported their pain and were not included in the
+appropriate group. As Hibberd and colleagues state “Swimmers have been taught that
+shoulder pain is normal in the sport, and shoulder pain is often unreported until it is
+debilitating”.29 We cannot exclude the fact that other factors that were not measured in this
+study such as joint laxity and stroke technique may contribute to shoulder pain and disability
+in this population. It is important to highlight that there was no preferred breathing pattern in
+any group and it remains unclear why those with pain and disability on the nondominant arm
+did not demonstrate a significant decrease in pectoralis minor length. Since this was a cross-
+sectional study, cause and effect is unable to be determined. Therefore, it is not known if a
+shortened pectoralis minor influenced shoulder pain and disability or whether pectoralis
+tightness emerged as a result of the shoulder pain and disability. In order to determine this
+relationship, future research should utilize a prospective, longitudinal design. Additional
+recommendations include: a larger sample size, a blinded the researcher, and a repeated
+pectoralis minor measure (pre and post pectoral stretching) using a valid, reliable, and
+standardized clinical tool, such as the PALM. This would assist with making more definitive
+conclusions regarding the effect of pectoral muscle length on shoulder pain in competitive
+swimmers.
+CONCLUSION
+This study found that there is a significant difference in dominant arm resting and stretched
+pectoralis minor muscle length between NCAA Division I female swimmers with and
+without shoulder pain and disability. This is the first known study to utilize a validated
+clinical tool to measure pectoralis minor length directly in female Division 1 swimmers with
+shoulder pain and disability. To better evaluate female swimmers with shoulder pain or
+prospectively screen these competitive athletes, rehabilitation professionals should use a
+direct measurement of the pectoralis minor muscle length using a valid and reliable tool,Harrington et al. Page 8
+J Sport Rehabil . Author manuscript; available in PMC 2014 August 27.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+such as the PALM palpation meter. Further research is needed to explore possible
+interventions to lengthen the pectoralis minor muscle.
+References
+1. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite swimmers: primarily due to swim-
+volume-induced supraspinatus tendinopathy. British journal of sports medicine. 2010; 44(2):105–
+113. [PubMed: 18463295]
+2. Beach M, Whitney S, Dickoff-Hoffman S. Relationship of shoulder flexibility, strength, and
+endurance to shoulder pain in competitive swimmers. Journal of Orthopaedic and Sports Physical
+Therapy. 1992; 16:262–262. [PubMed: 18796745]
+3. Tate A, Turner GN, Knab SE, Jorgensen C, Strittmatter A, Michener LA. Risk Factors Associated
+With Shoulder Pain and Disability Across the Lifespan of Competitive Swimmers. Journal of
+Athletic Training. 2012; 47(2):149–158. [PubMed: 22488280]
+4. McFarland EG, Wasik M. Injuries in female collegiate swimmers due to swimming and cross
+training. Clinical journal of sport medicine: official journal of the Canadian Academy of Sport
+Medicine. 1996; 6(3):178. [PubMed: 8792049]
+5. Wolf BR, Ebinger AE, Lawler MP, Britton CL. Injury patterns in Division I collegiate swimming.
+The American Journal of Sports Medicine. 2009; 37(10):2037–2042. [PubMed: 19633232]
+6. Walker H, Gabbe B, Wajswelner H, Blanch P, Bennell K. Shoulder pain in swimmers: A 12-month
+prospective cohort study of incidence and risk factors. Physical Therapy in Sport. 2012
+7. Sallis R, Jones K, Sunshine S, Smith G, Simon L. Comparing sports injuries in men and women.
+International journal of sports medicine. 2001; 22(06):420–423. [PubMed: 11531034]
+8. Borsa PA, Sauers EL, Herling DE. Patterns of glenohumeral joint laxity and stiffness in healthy men
+and women. Medicine and science in sports and exercise. 2000; 32(10):1685. [PubMed: 11039638]
+9. Kocher MS, Waters PM, Micheli LJ. Upper extremity injuries in the paediatric athlete. Sports
+Medicine. 2000; 30(2):117–135. [PubMed: 10966151]
+10. Warner JJP, Micheli LJ, Arslanian LE, Kennedy J, Kennedy R. Patterns of flexibility, laxity, and
+strength in normal shoulders and shoulders with instability and impingement. The American
+Journal of Sports Medicine. 1990; 18(4):366–375. [PubMed: 2403184]
+11. National Collegiate Athletic Association. NCAA sports sponsorship and participation rates report
+1981–82–2011–12. Indianapolis: Author; 2012.
+12. Bak K, Magnusson SP. Shoulder strength and range of motion in symptomatic and pain-free elite
+swimmers. The American Journal of Sports Medicine. 1997; 25(4):454–459. [PubMed: 9240978]
+13. McMaster WC, Troup J. A survey of interfering shoulder pain in United States competitive
+swimmers. The American Journal of Sports Medicine. 1993; 21(1):67–70. [PubMed: 8427371]
+14. Stocker D, Pink M, Jobe FW. Comparison of shoulder injury in collegiate-and master’s-level
+swimmers. Clinical Journal of Sport Medicine. 1995; 5(1):4–8. [PubMed: 7614080]
+15. Su K, Johnson MP, Gracely EJ, Karduna AR. Scapular rotation in swimmers with and without
+impingement syndrome: practice effects. MEDICINE AND SCIENCE IN SPORTS AND
+EXERCISE. 2004; 36(7):1117–1123. [PubMed: 15235314]
+16. Bak K. The Practical Management of Swimmer’s Painful Shoulder: Etiology, Diagnosis, and
+Treatment. Clinical Journal of Sport Medicine. 2010; 20(5):386–390. [PubMed: 20818199]
+17. Leggin BG, Michener LA, Shaffer MA, Brenneman SK, Iannotti JP, Williams GR Jr. The Penn
+shoulder score: reliability and validity. J Orthop Sports Phys Ther Mar. 2006; 36(3):138–151.
+18. Hudak PL, Amadio PC, Bombardier C. Development of an upper extremity outcome measure: the
+DASH (disabilities of the arm, shoulder and hand) [corrected]. The Upper Extremity Collaborative
+Group (UECG). Am J Ind Med Jun. 1996; 29(6):602–608.
+19. Norkin, W. Measurement Of Joint Motion: A Guide To Goniometry (MEASUREMENT OF
+JOINT MOTION: A GDE TO GONIOMETRY) Autho. 2009.
+20. Daniels, L.; Worthingham, C.; Hislop, HJ.; Montgomery, J. Daniels and Worthingham’s Muscle
+Testing: Techniques of Manual Examination. WB Saunders; 2007.Harrington et al. Page 9
+J Sport Rehabil . Author manuscript; available in PMC 2014 August 27.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+21. McGill SM, Childs A, Liebenson C. Endurance times for low back stabilization exercises: clinical
+targets for testing and training from a normal database. Archives of Physical Medicine and
+Rehabilitation. 1999; 80(8):941–944. [PubMed: 10453772]
+22. Schellenberg KL, Lang JM, Chan KM, Burnham RS. A clinical tool for office assessment of
+lumbar spine stabilization endurance: prone and supine bridge maneuvers. American journal of
+physical medicine & rehabilitation. 2007; 86(5):380–386. [PubMed: 17303961]
+23. Waldhelm A, Li L. Endurance tests are the most reliable core stability related measurements.
+Journal of Sport and Health Science. 2012
+24. Rondeau MW, Padua DA, Thigpen CA, Harrington SE. Precision and Validity of a Clinical
+Method for Pectoral Minor Length Assessment in Overhead-Throwing Athletes. Athletic Training
+& Sports Health Care. 2012; 4(2):67–72.
+25. Borstad JD, Ludewig PM. The effect of long versus short pectoralis minor resting length on
+scapular kinematics in healthy individuals. The Journal of orthopaedic and sports physical therapy.
+2005; 35(4):227. [PubMed: 15901124]
+26. Leggin BG, Michener LA, Shaffer MA, Brenneman SK, Iannotti J, Williams G Jr. The Penn
+shoulder score: reliability and validity. The Journal of orthopaedic and sports physical therapy.
+2006; 36(3):138. [PubMed: 16596890]
+27. Neer C 2nd, Welsh R. The shoulder in sports. The Orthopedic clinics of North America. 1977;
+8(3):583. [PubMed: 329174]
+28. Allegrucci M, Whitney S, Irrgang J. Clinical implications of secondary impingement of the
+shoulder in freestyle swimmers. The Journal of orthopaedic and sports physical therapy. 1994;
+20(6):307. [PubMed: 7849751]
+29. Hibberd EE, Oyama S, Spang JT, Prentice W, Myers JB. Effect of a 6-Week Strengthening
+Program on Shoulder and Scapular-Stabilizer Strength and Scapular Kinematics in Division I
+Collegiate Swimmers. Journal of sport rehabilitation. 2012; 21(3):253. [PubMed: 22387875]
+30. Kluemper M, Uhl T, Hazelrigg H. Effect of stretching and strengthening shoulder muscles on
+forward shoulder posture in competitive swimmers. Journal of sport rehabilitation. 2006; 15(1):58.
+31. Lynch SS, Thigpen CA, Mihalik JP, Prentice WE, Padua D. The effects of an exercise intervention
+on forward head and rounded shoulder postures in elite swimmers. British journal of sports
+medicine. 2010; 44(5):376–381. [PubMed: 20371564]
+32. Williams JG, Laudner KG, McLoda T. The Acute Effects of Two Passive Stretch Manuevers on
+Pectoralis Minor Length and Scapular Kinematics Among Collegiate Swimmers. International
+Journal of Sports Physical Therapy. 2013; 8(1):25. [PubMed: 23439770]Harrington et al. Page 10
+J Sport Rehabil . Author manuscript; available in PMC 2014 August 27.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript

@@ -1,0 +1,871 @@
+Original Research
+Characterizing Health Events and Return
+to Sport in Collegiate Swimmers
+Rishi Trikha,* MD, Grant G. Schroeder,†BS, Danielle E. Greig,* MD,
+and Thomas J. Kremen Jr,*‡MD
+Investigation performed at the University of California, Los Angeles, Los Angeles, California, USA
+Background: There is limited literature characterizing the incidence, variety, and effects of injuries and illnesses observed in elite
+swimmers.
+Purpose: To describe the epidemiology of injuries and illnesses affecting elite intercollegiate competitive swimmers.
+Study Design: Descriptive epidemiology study.
+Methods: This retrospective study utilized a deidentified injury and illness database of National Collegiate Athletic Association
+Division I swimmers in the Pacific Coast Conference from the academic years 2016 to 2017 and 2019 to 2020. A health event was
+defined as an illness or musculoskeletal injury that was identified by an athletic trainer or team physician. Musculoskeletal injuries
+and nonmusculoskeletal injuries and illnesses were stratified by body location. Injuries were further characterized as career-
+ending, season-ending, missed time but the athlete returned to sport in the same season, or those that did not cause missed
+time. Relative risk (RR) was used to compare the percentage of athletes affected between women and men, with statistical sig-
+nificance being defined by a 95% CI not including 1.
+Results: Included were 641 collegiate swimmers (301 male, 340 female). There were 1030 health events among 277 women and
+173 men, with 635 (61.7%) occurring in women and 395 (38.3%) in men. There were 540 musculoskeletal injuries reported, most of
+which involved the shoulder (n ¼126; 23.3%), spine (n ¼95; 17.6%), foot/ankle/lower leg (n ¼81; 15.0%), knee/thigh (n ¼67; 12.4%),
+and hand/wrist/forearm (n ¼52; 9.6%). A total of 490 nonmusculoskeletal health events were reported and included events such as
+respiratory tract infections (n ¼119; 24.3%), unspecified medical illness (n ¼93; 19.0%), concussions (n ¼58; 11.8%), ear infections
+(n¼25; 5.1%), and gastrointestinal illnesses (n ¼24; 4.9%). Compared with male swimmers, female swimmers were at a higher risk
+of sustaining both musculoskeletal injury (RR, 1.5; 95% CI, 1.22-1.83) and nonmusculoskeletal injury/illness (RR, 1.32; 95% CI, 1.04-
+1.68). There were 58 documented concussions, with 8 (13.8%) being season-ending, but not career-ending and 14 (24.1%) being
+career-ending. Women had a higher rate of concussion (9.1% vs 4.3% for men; RR, 2.11; 95% CI, 1.13-3.96).
+Conclusion: This retrospective study identified the most common injuries and illnesses observed among elite collegiate swim-
+mers. Awareness of the incidence and outcome of injuries and illnesses that affect competitive swimmers may allow for more
+targeted analyses and injury prevention strategies.
+Keywords: illness; injuries; return to sport; swimming
+Swimming is a unique low-impact sport involving prone
+positioning and hydrodynam ic resistance that requires
+high levels of energy expenditure as well as cardiovascular
+training.11,17Thus, the injury patterns of this sport can be
+distinct from most other collegiate sports. Elite swimmers
+train an average of 2 to 4 hours a day and perform repeti-
+tive upper and lower extremity movements at high-
+intensity levels.14,17,26As a result, the observed injury
+patterns are thought to be largely the result of overuse and
+tend to occur in a training environment rather than in
+competition.10,17,22,30Despite the 12,980 women competing
+on 560 National Collegiate Athletic Association (NCAA)swimming teams and the 9799 men competing on 444
+teams during the 2018 to 2019 academic year nationwide,
+the epidemiology of injury patterns and illnesses that affect
+elite swimmers and how they affect return to sport is
+largely uncharacterized.12
+Given the repetitive nature of overhead exercises associ-
+ated with swimming, an overwhelming majority of the cur-
+rent literature has focused on assessments of joint laxity,
+muscle imbalances, and other biomechanical derangements
+of the shoulder.5,32This is perhaps because shoulder inju-
+ries are widely reported to be the predominant injury pat-
+tern observed in this patient population. NCAA swimmers
+have been reported to have low baseline shoulder func-
+tional and performance scores compared with other over-
+head athletes.33,38Furthermore, Olympic swimmers have
+been found to have a high prevalence of rotator cuff andThe Orthopaedic Journal of Sports Medicine, 10(4), 23259671221083588
+DOI: 10.1177/23259671221083588
+ªThe Author(s) 2022
+1This open-access article is published and distributed under the Creative Commons Attribution - NonCommercial - No Derivatives License (https://cr eativecommons.org/
+licenses/by-nc-nd/4.0/), which permits the noncommercial use, distribution, and reproduction of the article in any medium, provided the original author and source are
+credited. You may not alter, transform, or build upon this article without the permission of the Author(s). For article reuse guidelines, please visi t SAGE’s website at
+http://www.sagepub.com/journals-permissions.
+
+biceps tendinopathy.28The complex static and dynamic
+properties of the relatively unconstrained shoulder joint,
+in combination with the unique cyclical biomechanics of
+any given competitive swimming stroke, have been the
+rationale for the observed hyperlaxity, scapular dyskinesis,
+labral damage, subacromial impingement, and glenohum-
+eral rotational instability commonly diagnosed in the com-
+petitive swimmer.21,32,33
+Although the shoulder is the most injured body part
+among competitive swimmers, a variety of other injuries
+have also been reported. Knee injuries have been reported
+to comprise 3.1 %to 17.7 %of injuries observed among com-
+petitive swimmers and are also thought to occur due to
+overuse.9,23,33Furthermore, up to 75 %of breaststroke
+swimmers report medial knee pain during their athletic
+career.23The technical intensity, repetitive propulsive pat-
+tern, and the inherent mechanical imbalance of the knee
+when performing breaststroke probably increase the risk of
+knee pain and injuries.18Lower back injuries are another
+relatively common reported area of injury in competitive
+swimmers, with some studies suggesting an even higher
+incidence of back injuries than shoulder injuries.20,33The
+lumbar spine is subjected to prolonged and repetitive
+hyperextension during all competitive swimming strokes,
+thus placing a tremendous load on the lumbar region,
+which is hypothesized to predispose these athletes to
+chronic lower back injuries.25Data on nonmusculoskeletal
+injuries and illnesses observed among competitive swim-
+mers are generally limited; however, an epidemiologic
+study of all collegiate sports has suggested a low incidence
+of concussions in swimmers.39
+There has been little published epidemiologic data of
+injuries and illness health events among collegiate swim-
+mers compared with athletes in other collegiate sports. As
+studies are often further limited by the lack of return-to-
+sport data, there is an identifiable need for epidemiologic
+studies in this patient population. This study aimed to
+characterize the injuries a nd illnesses observed among
+NCAA Division I male and female competitive swimming
+athletes and to determine which injuries and illnesses
+affect return to sport.
+METHODS
+University men’s and women’s swimming rosters from
+respective websites of institutions making up the Pacific
+Coast Conference (Pac-12) were queried to determine the
+total number of male and female competitive swimmersduring the 2016 to 2017, 2017 to 2018, 2018 to 2019, and
+2019 to 2020 academic years. At hletes who transferred
+institutions within the Pac-12 conference were excluded
+from the analysis. Care was taken to ensure that athletes
+who remained on the team roster for multiple years were
+not included more than once when determining the total
+number of athletes included in this database.
+The study protocol received an exemption from institu-
+tional review board approval. Given our institution’s mem-
+bership in the Pac-12, we were able to acquire retrospective
+injury and illness data for the 2016 to 2017 through 2019 to
+2020 academic years from the Pac-12 Sports Injury
+Research Archive. This data included all male and female
+collegiate swimmers from Pac-12 universities who had a
+documented health event defined as an injury or illness
+as reported by athletic trainers or physicians of respective
+university medical staff. These data were blinded and
+obtained in aggregate such that the data were appropri-
+ately deidentified. Musculoskeletal injuries stratified by
+body part, concussions, physical illnesses, and mental
+health events were included for analysis. Body parts
+included were as follows: shoulder, chest/abdomen, knee/
+thigh, foot/ankle/lower leg, hip/groin/pelvis/buttock,
+elbow/upper arm, head/face/neck (excluding concussions),
+and hand/wrist/forearm. Specific injury or illness diagnoses
+as well as sex differences were also included in the analysis.
+Health events were recorded as occurring in practice, com-
+petition, or in a nonsport setting completely unrelated to
+swimming.
+Whether or not the athlete experienced any time away
+from competition was recorded for each health event. It
+was documented if the athlete did not miss any time from
+sport, if he or she missed time but returned in the same
+season, if one did not return in the same season (season-
+ending), or if one did not return to sport at all (career-
+ending).
+In a separate analysis, the top 2 performing men’s and
+women’s teams each year at their respective NCAA Divi-
+sion I Swimming and Diving Championships during the
+period spanning 2016 to 2020 were compared against the
+remaining teams to determine whether the top 2 perform-
+ing teams showed any difference with regard to injury and/
+or illness patterns.
+All statistical analyses were performed using Microsoft
+Excel Version 16.49 (Microsoft Corp) in consultation with
+the biostatistics core facility at our institution. “Athletes
+affected” was defined as the number of athletes having at
+least 1 of the recorded healt h events during the 4-year
+observation period. “Estimated athlete risk per year” was
+‡Address correspondence to Thomas J. Kremen Jr, MD, 1225 15th Street, Suite 2100, Santa Monica, CA 90404, USA (email: tjkremen@mednet.ucla.edu)
+(Twitter: @ThomasKremenMD).
+*Department of Orthopaedic Surgery, David Geffen School of Medicine at UCLA, Los Angeles, California, USA.
+†David Geffen School of Medicine at UCLA, Los Angeles, California, USA.
+Final revision submitted October 19, 2021; accepted November 30, 2021.
+One or more of the authors has declared the following potential conflict of interest or source of funding: Research support for T.J.K. was provided by t he
+US Department of Veterans Affairs (project 2020-000059). T.J.K. has received education payments from Micromed, consulting fees from Heron Thera-
+peutics, honoraria from Musculoskeletal Transplant Foundation, and hospitality payments from Fidia Pharma, RTI Surgical, and Smith & Nephew. AOSS M
+checks author disclosures against the Open Payments Database (OPD). AOSSM has not conducted an independent investigation on the OPD and disclaims
+any liability or responsibility relating thereto.
+Ethical approval for this study was waived by the University of California, Los Angeles.2Trikha et al The Orthopaedic Journal of Sports Medicine
+used as a surrogate for risk per athlete-year since observa-
+tion periods were not known for each individual athlete due
+to the data being blinded. We estimated that, on average,
+athletes were followed for 2. 3 years, which assumes an
+equal number of freshmen, sophomores, juniors, and
+seniors per year and no athletes transferring/quitting. For
+example, a freshman in 2016 would be followed 4 years, a
+senior in 2016 would be followed 1 year, a freshman in 2017
+would be followed 3 years, and so forth, with 2.3 years being
+the weighted average. Relative risk (RR) was used to com-
+pare the percentage of athletes affected between sexes,
+with statistical significance being defined by a RR 95 %CI
+not including 1 ( P<.05).
+RESULTS
+Between 2016 and 2020, a total of 641 collegiate swimmers
+competed at Pac-12 institutions and were included in our
+analysis, with 301 (47.0 %) being male and 340 (53.0 %)
+being female. Of those 641 athletes, 450 (70.2 %)w e r e
+reported to have a defined health event and were included
+in our analysis. Of these 450 athletes, 173 (38.4 %)w e r e
+male, and 277 (61.6 %) were female. In total, 1030 total
+health events in these 450 athletes were included foranalysis, with 395 (38.3 %) occurring in male swimmers and
+635 (61.7 %) occurring in female swimmers.
+Musculoskeletal injuries accounted for 540 health
+events, including 126 (23.3 %) shoulder injuries, 95
+(17.6%) spine injuries, 81 (15.0 %) foot/ankle/lower leg inju-
+ries, and 67 (12.4 %) knee/thigh injuries. Overall, 17.3 %of
+collegiate swimmers were observed to be affected by a mus-
+culoskeletal injury at any point during an academic year
+during our observation period. These athletes were at a
+6.9%risk of sustaining a shoulder injury, a 5.7 %risk of
+sustaining a spine/back injury, and a 5.1 %risk of sustain-
+ing a foot/ankle/lower leg injury (Table 1). Nonmusculoske-
+letal conditions accounted for 490 recorded health events,
+the most common of which were respiratory tract infections
+(n¼119; 24.3 %), unspecified medical illnesses (n ¼93;
+19.0%), concussions (n ¼58; 11.8 %), ear infections (n ¼
+25; 5.1%), and gastrointestinal illnesses (n ¼24; 4.9%). Col-
+legiate swimmers were at a 5.4 %risk of having a respira-
+tory tract infection, a 3.0 %chance of sustaining a
+concussion, and a 1.4 %chance of having an ear infection
+in a given year (Table 2). Of note, 50.4 %of musculoskeletal
+injury events occurred in practice (n ¼272 events); 13.5 %,
+in the weight room (n ¼73 events); 8.1 %, in a non–sport
+related event (n ¼44 events); and 3.9 %, during competitionTABLE 1
+Musculoskeletal Injuries by Body Part in Collegiate Swimmers, 2016 to 2020a
+Overall (N ¼641 Athletes) Female Athletes (n ¼340) Male Athletes (n ¼301)
+EventsAthletes
+AffectedEstimated
+Athlete
+Risk/y, % EventsAthletes
+AffectedEstimated
+Athlete
+Risk/y, % EventsAthletes
+AffectedEstimated
+Athlete
+Risk/y, %RR
+(95%CI)b
+Shoulder 126 (23.33) 101 (15.76) 6.89 81 (23.41) 65 (19.12) 8.36 45 (23.2) 36 (11.96) 5.23 1.6
+(1.1-2.33)c
+Spine 95 (17.59) 84 (13.1) 5.73 67 (19.36) 56 (16.47) 7.21 28 (14.43) 28 (9.3) 4.07 1.77
+(1.16-2.71)c
+Foot/ankle/
+lower leg81 (15) 75 (11.7) 5.12 55 (15.9) 50 (14.71) 6.43 26 (13.4) 25 (8.31) 3.63 1.77
+(1.12-2.79)c
+Knee/thigh 67 (12.41) 56 (8.74) 3.82 39 (11.27) 33 (9.71) 4.25 28 (14.43) 23 (7.64) 3.34 1.27
+(0.76-2.11)
+Hand/wrist/
+forearm52 (9.63) 50 (7.8) 3.41 28 (8.09) 26 (7.65) 3.35 24 (12.37) 24 (7.97) 3.49 0.96
+(0.56-1.63)
+Groin/hip/
+pelvis/
+buttock46 (8.52) 44 (6.86) 3.00 30 (8.67) 29 (8.53) 3.73 16 (8.25) 15 (4.98) 2.18 1.71
+(0.94-3.13)
+Elbow/upper
+arm26 (4.81) 25 (3.9) 1.71 18 (5.2) 17 (5) 2.19 8 (4.12) 8 (2.66) 1.16 1.88
+(0.82-4.3)
+Chest/
+abdomen26 (4.81) 26 (4.06) 1.77 14 (4.05) 14 (4.12) 1.80 12 (6.19) 12 (3.99) 1.74 1.03
+(0.49-2.2)
+Head/face/
+neckd16 (2.96) 16 (2.5) 1.09 13 (3.76) 13 (3.82) 1.67 3 (1.55) 3 (1) 0.44 3.84
+(1.1-13.33)c
+Unclassified 5 (0.93) 5 (0.78) 0.34 1 (0.29) 1 (0.29) 0.13 4 (2.06) 4 (1.33) 0.58 0.22
+(0.02-1.97)
+Total 540 (100) 253 (39.47) 17.27 346 (100) 159 (46.76) 20.46 194 (100) 94 (31.23) 13.66 1.5
+(1.22-1.83)c
+aData are reported as n ( %) unless otherwise indicated.
+bRelative risk, female vs male.
+cStatistical significance ( P<.05).
+dExcludes concussions.The Orthopaedic Journal of Sports Medicine Injuries and Illness Among Collegiate Swimmers 3
+(n¼21 events); and 24.1 %were not specified (n ¼130
+events). No statistical significance was observed between
+the top 2 performing teams in a given year (referred to as
+“elite”) and the remaining teams for any musculoskeletal
+injury diagnoses (Table 3).A total of 44 athletes sustained 58 documented concus-
+sions, with 12 athletes (27.3 %) sustaining a repeat concus-
+sion and 2 of those athletes sustaining 2 repeat concussions.
+Women had significantly higher rates of concussion (RR,
+2.11; 95 %CI, 1.13-3.96), as 31 (9.1 %) out of 340 femaleTABLE 2
+Nonmusculoskeletal Illnesses in Collegiate Swimmers, 2016 to 2020a
+Overall (N ¼641 Athletes) Female Athletes (n ¼340) Male Athletes (n ¼301)
+EventsAthletes
+AffectedEstimated
+Athlete
+Risk/y, % EventsAthletes
+AffectedEstimated
+Athlete
+Risk/y, % EventsAthletes
+AffectedEstimated
+Athlete
+Risk/y, %RR
+(95%CI)b
+Respiratory tract
+infection119 (24.29) 79 (12.32) 5.39 62 (21.45) 49 (14.41) 6.31 57 (28.36) 30 (9.97) 4.36 1.45
+(0.94-2.22)
+Unspecified
+medical
+illnessc93 (18.98) 52 (8.11) 3.55 45 (15.57) 23 (6.76) 2.96 48 (23.88) 29 (9.63) 4.22 0.7
+(0.42-1.19)
+Concussion 58 (11.84) 44 (6.86) 3.00 43 (14.88) 31 (9.12) 3.99 15 (7.46) 13 (4.32) 1.89 2.11
+(1.13-3.96)d
+Ear infection 25 (5.1) 21 (3.28) 1.43 15 (5.19) 13 (3.82) 1.67 10 (4.98) 8 (2.66) 1.16 1.44
+(0.6-3.42)
+Gastrointestinal
+illness24 (4.9) 24 (3.74) 1.64 15 (5.19) 15 (4.41) 1.93 9 (4.48) 9 (2.99) 1.31 1.48
+(0.66-3.32)
+Influenza 22 (4.49) 21 (3.28) 1.43 11 (3.81) 10 (2.94) 1.29 11 (5.47) 11 (3.65) 1.60 0.8
+(0.35-1.87)
+Sinusitis 17 (3.47) 17 (2.65) 1.16 7 (2.42) 7 (2.06) 0.90 10 (4.98) 10 (3.32) 1.45 0.62
+(0.24-1.61)
+Dermatological
+illness13 (2.65) 13 (2.03) 0.89 9 (3.11) 9 (2.65) 1.16 4 (1.99) 4 (1.33) 0.58 1.99
+(0.62-6.4)
+Eye infection 12 (2.45) 12 (1.87) 0.82 8 (2.77) 8 (2.35) 1.03 4 (1.99) 4 (1.33) 0.58 1.77
+(0.54-5.82)
+Head injury 12 (2.45) 12 (1.87) 0.82 7 (2.42) 7 (2.06) 0.90 5 (2.49) 5 (1.66) 0.73 1.24
+(0.4-3.86)
+Mononucleosis 11 (2.24) 11 (1.72) 0.75 7 (2.42) 7 (2.06) 0.90 4 (1.99) 4 (1.33) 0.58 1.55
+(0.46-5.24)
+Pharyngitis 10 (2.04) 8 (1.25) 0.55 8 (2.77) 6 (1.76) 0.77 2 (1) 2 (0.66) 0.29 2.66
+(0.54-13.06)
+Systemic viral
+infection10 (2.04) 8 (1.25) 0.55 7 (2.42) 5 (1.47) 0.64 3 (1.49) 3 (1) 0.44 1.48
+(0.36-6.12)
+No diagnosis
+provided10 (2.04) 10 (1.56) 0.68 9 (3.11) 9 (2.65) 1.16 1 (0.5) 1 (0.33) 0.15 7.97
+(1.02-62.53)d
+Mental health
+event9 (1.84) 9 (1.4) 0.61 7 (2.42) 7 (2.06) 0.90 2 (1) 2 (0.66) 0.29 3.1
+(0.65-14.8)
+Skin or soft
+tissue
+infection9 (1.84) 8 (1.25) 0.55 7 (2.42) 6 (1.76) 0.77 2 (1) 2 (0.66) 0.29 2.66
+(0.54-13.06)
+Respiratory
+disease8 (1.63) 8 (1.25) 0.55 5 (1.73) 5 (1.47) 0.64 3 (1.49) 3 (1) 0.44 1.48
+(0.36-6.12)
+Headache 7 (1.43) 6 (0.94) 0.41 6 (2.08) 5 (1.47) 0.64 1 (0.5) 1 (0.33) 0.15 4.43
+(0.52-37.68)
+Cardiovascular
+illness6 (1.22) 6 (0.94) 0.41 2 (0.69) 2 (0.59) 0.26 4 (1.99) 4 (1.33) 0.58 0.44
+(0.08-2.4)
+Pneumonia 6 (1.22) 5 (0.78) 0.34 4 (1.38) 3 (0.88) 0.39 2 (1) 2 (0.66) 0.29 1.33
+(0.22-7.89)
+Allergic reaction 5 (1.02) 5 (0.78) 0.34 3 (1.04) 3 (0.88) 0.39 2 (1) 2 (0.66) 0.29 1.33
+(0.22-7.89)
+Bronchitis 4 (0.82) 4 (0.62) 0.27 2 (0.69) 2 (0.59) 0.26 2 (1) 2 (0.66) 0.29 0.89
+(0.13-6.25)
+Total 490 (100) 197 (30.73) 13.45 289 (100) 118 (34.71) 15.18 201 (100) 79 (26.25) 11.48 1.32
+(1.04-1.68)d
+aData are reported as n ( %) unless otherwise indicated.
+bRelative risk, female vs male.
+cDetailed data to determine what kind of medical illness unavailable.
+dStatistical significance ( P<.05).4Trikha et al The Orthopaedic Journal of Sports Medicine
+athletes sustained a concussion as compared with 13 (4.3 %)
+out of 301 male athletes. Women were at a 4.0 %risk of
+sustaining a concussion in a given year, whereas men were
+at only a 1.9 %risk. Out of 58 concussions, 34 (58.6 %)
+resulted in missed time but with a return to sport within the
+same season. Out of 58 concussions observed in this series, 8
+(13.8%) were season-ending injuries, whereas 14 (24.1 %)o u t
+of 58 were career-ending (Table 4). Of the concussions, 11
+(25.6%) out of 43 in women and 3 (20.0 %) out of 15 in men
+were career-ending.The most common diagnoses of the 540 musculoskeletal
+injuries were lumbar strains (n ¼34; 6.3 %), lateral ankle
+sprains (n ¼25; 4.6 %), shoulder impingement (n ¼21;
+3.9%), biceps tendinopathy (n ¼18; 3.3 %), and shoulder
+tendon overuse injuries (n ¼13; 2.4 %) (Table 4). Only 3
+(2.4%) out of 126 of shoulder injuries were season-ending
+compared with 0 out of 67 knee/thigh injuries that were
+season-ending. Only 1 (0.8 %) out of 126 shoulder injuries
+were career-ending compared with 5 (7.5 %) out of 67 of
+knee/thigh injuries that w ere career-ending. Table 5TABLE 3
+Top 5 Musculoskeletal Injuries and Nonmusculoskeletal Illnesses Among Elite Versus Nonelite Athletesa
+EventsAthletes
+AffectedEstimated Athlete
+Risk/y, % EventsAthletes
+AffectedEstimated Athlete
+Risk/y, %
+Female Elite Athletes (n ¼59) Female Nonelite Athletes (n ¼87) RR (95 %CI)b
+Top 5 musculoskeletal
+injuries
+Lumbar strain 7 (3.98) 5 (8.47) 3.71 12 (4.03) 9 (10.34) 4.53 0.82 (0.29-2.32)
+Lateral ankle sprain 7 (3.98) 6 (10.17) 4.45 8 (2.68) 7 (8.05) 3.52 1.26 (0.45-3.57)
+Shoulder internal
+impingement9 (5.11) 7 (11.86) 5.19 10 (3.36) 8 (9.2) 4.02 1.29 (0.49-3.37)
+Biceps tendinopathy 0 (0) 0 (0) 0.00 2 (0.67) 2 (2.3) 1.01 —
+Shoulder tendon
+overuse injury4 (2.27) 3 (5.08) 2.22 4 (1.34) 2 (2.3) 1.01 2.21 (0.38-12.84)
+Top 5 nonmusculoskeletal
+illnesses
+Respiratory tract
+infection8 (4.55) 7 (11.86) 5.19 42 (14.09) 29 (33.33) 14.58 0.36 (0.17-0.76)c
+Unspecified medical
+illnessd40 (22.73) 18 (30.51) 13.35 40 (13.42) 18 (20.69) 9.05 1.47 (0.84-2.59)
+Concussion 10 (5.68) 5 (8.47) 3.71 13 (4.36) 8 (9.2) 4.02 0.92 (0.32-2.68)
+Ear infection 2 (1.14) 2 (3.39) 1.48 6 (2.01) 5 (5.75) 2.51 0.59 (0.12-2.94)
+Gastrointestinal illness 2 (1.14) 2 (3.39) 1.48 8 (2.68) 8 (9.2) 4.02 0.37 (0.08-1.68)
+Male Elite Athletes (n ¼68) Male Nonelite Athletes (n ¼95)
+Top 5 musculoskeletal
+injuries
+Lumbar strain 1 (0.64) 1 (1.47) 0.64 2 (0.75) 2 (2.11) 0.92 0.7 (0.06-7.55)
+Lateral ankle sprain 2 (1.28) 2 (2.94) 1.29 2 (0.75) 2 (2.11) 0.92 1.4 (0.2-9.67)
+Shoulder internal
+impingement4 (2.56) 3 (4.41) 1.93 7 (2.62) 5 (5.26) 2.30 0.84 (0.21-3.39)
+Biceps tendinopathy 1 (0.64) 1 (1.47) 0.64 5 (1.87) 5 (5.26) 2.30 0.28 (0.03-2.34)
+Shoulder tendon
+overuse injury1 (0.64) 1 (1.47) 0.64 2 (0.75) 2 (2.11) 0.92 0.7 (0.06-7.55)
+Top 5 nonmusculoskeletal
+illnesses
+Respiratory tract
+infection9 (5.77) 5 (7.35) 3.22 47 (17.6) 20 (21.05) 9.21 0.35 (0.14-0.88)c
+Unspecified medical
+illnessd40 (25.64) 21 (30.88) 13.51 41 (15.36) 22 (23.16) 10.13 1.33 (0.8-2.22)
+Concussion 2 (1.28) 2 (2.94) 1.29 5 (1.87) 5 (5.26) 2.30 0.56 (0.11-2.8)
+Ear infection 2 (1.28) 2 (2.94) 1.29 7 (2.62) 5 (5.26) 2.30 0.56 (0.11-2.8)
+Gastrointestinal illness 1 (0.64) 1 (1.47) 0.64 3 (1.12) 3 (3.16) 1.38 0.47 (0.05-4.38)
+aData are reported as n ( %) unless otherwise indicated.
+bRelative risk, elite vs nonelite.
+cStatistical significance ( P<.05).
+dDetailed data to determine what kind of medical illness unavailable.The Orthopaedic Journal of Sports Medicine Injuries and Illness Among Collegiate Swimmers 5
+represents the remaining return-to-sport data for the most
+common musculoskeletal injuries stratified by body part.
+DISCUSSION
+The current breadth of literature analyzing injuries and
+return to sport among elite swimmers is limited by number
+of studies, methodological lim itations, and/or sufficient
+sample size; thus, it is generally accepted that there is an
+identifiable current demand for research addressing this
+knowledge gap.10,33,37The current study used a health
+database from the Pac-12 conference to better understand
+the prevalence of injuries and illnesses as well as associated
+return to sport among male and female collegiate swim-
+mers. Although the current study analyzed swimmers from
+the Pac-12 conference, the authors believe these results are
+comparable with all collegiate swimmers.Shoulder injuries accounted for 126 (23.3 %) out of the
+540 total musculoskeletal injuries seen in this study
+(Table 6). Although the shoulder was expectedly the body
+part most commonly affected in musculoskeletal injuries,
+only 1 out of the total of 126 shoulder injuries was career-
+ending. Furthermore, only 3 other shoulder injuries were
+season-ending, indicating that although it is well known
+that shoulder conditions are highly prevalent among
+swimmers and shoulders were the body part most com-
+monly injured in our study, these injuries may not signif-
+icantly affect a swimmer’s ability to return to sport. Out of
+all 126 shoulder injuries, 85 (67.5 %)d i dn o tr e s u l ti na n y
+missed competition time. This is relatively consistent with
+findings from Wolf et al37demonstrating that 32 (58.2 %)
+out of 55 shoulder injuries did not result in any missed
+competition time. As particular attention is paid to the
+shoulder in these athletes, there may be a lower threshold
+to diagnose such conditions, leading to the recognition ofTABLE 4
+Return-to-Sport Data for Most Common Diagnoses for Musculoskeletal Injuries and Nonmusculoskeletal Illnessesa
+Did Not
+Miss TimeMissed Time but
+Returned to Sport
+in the Same SeasonSeason-Ending but Not
+Career-Ending InjuryCareer-
+Ending
+InjuryNot Specified or
+Athlete Left CampusTotal,
+n
+Top 5 musculoskeletal injuries
+Lumbar strain 21 (61.8) 11 (32.4) 2 (5.9) 0 (0) 0 (0) 34
+Lateral ankle sprain 11 (44.0) 12 (48.0) 1 (4.0) 0 (0) 1 (4.0) 25
+Shoulder internal impingement 14 (66.7) 7 (33.3) 0 (0) 0 (0) 0 (0) 21
+Biceps tendinopathy 14 (77.8) 2 (11.1) 1 (5.6) 1 (5.6) 0 (0) 18
+Shoulder tendon overuse injury 8 (61.5) 4 (30.8) 1 (7.7) 0 (0) 0 (0) 13
+Top 5 nonmusculoskeletal illnesses
+Respiratory tract infection 75 (63.0) 41 (34.5) 0 (0) 1 (0.8) 2 (1.7) 119
+Unspecified medical illnessb31 (36.5) 37 (43.5) 1 (1.2) 14 (16.5) 2 (2.4) 85
+Concussion 0 (0) 34 (58.6) 8 (13.8) 14 (24.1) 2 (3.4) 58
+Ear infection 22 (88.0) 3 (12.0) 0 (0) 0 (0) 0 (0) 25
+Gastrointestinal illness 10 (50.0) 10 (50.0) 0 (0) 0 (0) 0 (0) 20
+aData are reported as n ( %) unless otherwise indicated.
+bDetailed data to determine what kind of medical illness unavailable.
+TABLE 5
+Return-to-Sport Data for Most Common Musculoskeletal Injuries, Stratified by Body Parta
+Shoulder SpineFoot/Ankle/
+Lower Leg Knee/ThighHand/Wrist/
+ForearmGroin/Hip/
+Pelvis/Buttock
+Men
+Did not miss time 33 (73.3) 15 (53.6) 18 (69.2) 14 (50.0) 11 (45.8) 11 (68.8)
+Missed time but returned to sport in same season 11 (24.4) 14 (50.0) 7 (26.9) 11 (39.3) 11 (45.8) 5 (31.3)
+Season-ending but not career-ending 1 (2.2) 0 (0) 1 (3.8) 0 (0) 0 (0) 0 (0)
+Career-ending 0 (0) 1 (3.6) 0 (0) 3 (10.7) 2 (8.3) 0 (0)
+Total, n 45 28 26 28 24 16
+Women
+Did not miss time 52 (64.2) 36 (53.7) 35 (63.6) 26 (66.7) 19 (67.9) 11 (36.7)
+Missed time but returned to sport in same season 27 (33.3) 27 (40.3) 18 (32.7) 11 (28.2) 7 (25.0) 16 (53.3)
+Season-ending but not career-ending 2 (2.5) 2 (3.0) 1 (1.8) 0 (0) 0 (0) 1 (3.3)
+Career-ending 1 (1.2) 2 (3.0) 1 (1.8) 2 (5.1) 2 (7.1) 2 (6.7)
+Total, n 81 67 55 39 28 30
+aData are reported as n ( %) unless otherwise indicated.6Trikha et al The Orthopaedic Journal of Sports Medicine
+more minor injuries than otherwise may have been docu-
+mented. This could be the rationale behind the relatively
+high return-to-sport rate observed in our study with
+regard to shoulder injuries.
+Spine/back injuries were also relatively common in our
+population, accounting for 95 (17.6 %) of the 540 musculo-
+skeletal injuries, with lumbar strains being the most com-
+mon musculoskeletal-specific diagnosis. Back injuries are
+understood to be relatively common in swimmers and are
+t h o u g h tt ob ef r o mo v e r u s e .1,13Furthermore, overuse as
+well as excessive hyperextension has been indicated as a
+factor that predisposes swimmers to degenerative disk dis-
+ease, spondylolysis, and spondylolisthesis.24As a result, it
+is not surprising that lumbar spine injuries were commonly
+observed in our series.
+While knee injuries are thought to be the next most com-
+mon body part injured in swimmers, the results of the cur-
+rent study suggested that injuries below the knee (foot/
+ankle/lower leg) accounted for 81 (15.0 %) out of 540 muscu-
+loskeletal injuries and were more common than knee/thigh
+injuries (n ¼67 out of 540; 12.4 %). Matsuura et al20
+observed that an increase in the incidence of knee injuries
+over time corresponded to the introduction of the startingblock between 2008 and 2010; they hypothesized that the
+kick start using these starting blocks may be the rationale
+behind this increase. It is possible that the load applied to
+the structures below the knee during this kickoff may also
+contribute to the relatively high rate of foot/ankle/lower leg
+injuries seen in this study; however, it is worth noting that
+track start starting blocks are used infrequently out of
+competition.
+Several significant sex-based differences were noted in
+our results. Overall, women were at a significantly higher
+risk of sustaining any musculoskeletal injuries (RR, 1.5;
+95%CI, 1.22-1.83) in a given year. Women had an 8.4 %
+risk of sustaining a shoulder injury in a given season,
+which was significantly higher compared with men
+(5.2%)( R R ,1 . 6 ;9 5 %CI, 1.1-2.33). Women were also at a
+significantly higher risk of sustaining a spine/back injury
+(7.2%vs 4.1%in men) (RR, 1.77; 95 %CI, 1.16-2.71) or a
+foot/ankle/lower leg injury (6.4 %vs 3.6%in men) (RR,
+1.77; 95 %CI, 1.12-2.79) (Table 1). It is plausible that
+anatomical differences b etween male and female hip
+structures predispose female swimmers to lower body
+injuries. Furthermore, it has been reported that psychoso-
+cial factors can discourage men from reporting symptomsTABLE 6
+Shoulder Injury Characteristics Observed Among Athletes in This Studya
+Overall (N ¼641) Female Athletes (n ¼340) Male Athletes (n ¼301)
+EventsAthletes
+AffectedEstimated
+Athlete Risk/y,
+% EventsAthletes
+AffectedEstimated
+Athlete Risk/y,
+% EventsAthletes
+AffectedEstimated
+Athlete Risk/y,
+%RR
+(95%CI)b
+Shoulder internal
+impingement21 (3.89) 17 (2.65) 1.16 14 (17.28) 12 (3.53) 1.54 7 (15.56) 5 (1.66) 0.73 2.12
+(0.76-5.96)
+Biceps
+tendinopathy18 (3.33) 18 (2.81) 1.23 12 (14.81) 12 (3.53) 1.54 6 (13.33) 6 (1.99) 0.87 1.77
+(0.67-4.66)
+Shoulder tendon
+overuse injury13 (2.41) 13 (2.03) 0.89 8 (9.88) 8 (2.35) 1.03 5 (11.11) 5 (1.66) 0.73 1.42
+(0.47-4.28)
+Shoulder muscle
+strain10 (1.85) 9 (1.4) 0.61 8 (9.88) 7 (2.06) 0.90 2 (4.44) 2 (0.66) 0.29 3.1
+(0.65-14.8)
+Subacromial
+impingement9 (1.67) 8 (1.25) 0.55 9 (11.11) 8 (2.35) 1.03 0 (0) 0 (0) 0.00 —
+Chronic shoulder
+instability9 (1.67) 9 (1.4) 0.61 6 (7.41) 6 (1.76) 0.77 3 (6.67) 3 (1) 0.44 1.77
+(0.45-7.02)
+Acute shoulder
+sprain/
+subluxation6 (1.11) 6 (0.94) 0.41 2 (2.47) 2 (0.59) 0.26 4 (8.89) 4 (1.33) 0.58 0.44
+(0.08-2.4)
+Shoulder synovitis 5 (0.93) 5 (0.78) 0.34 4 (4.94) 4 (1.18) 0.51 1 (2.22) 1 (0.33) 0.15 3.54
+(0.4-31.51)
+Pectoralis major
+muscle injury4 (0.74) 4 (0.62) 0.27 3 (3.7) 3 (0.88) 0.39 1 (2.22) 1 (0.33) 0.15 2.66
+(0.28-25.4)
+Rotator cuff
+muscle injury4 (0.74) 4 (0.62) 0.27 4 (4.94) 4 (1.18) 0.51 0 (0) 0 (0) 0.00 —
+Shoulder soft
+tissue trauma1 (0.19) 1 (0.16) 0.07 0 (0) 0 (0) 0.00 1 (2.22) 1 (0.33) 0.15 —
+No diagnosis
+provided26 (4.81) 26 (4.06) 1.77 11 (13.58) 11 (3.24) 1.42 15 (33.33) 15 (4.98) 2.18 0.65
+(0.3-1.39)
+Total 126 (23.33) 101 (15.76) 6.89 81 (100) 65 (19.12) 8.36 45 (100) 36 (11.96) 5.23 1.6
+(1.1-2.33)c
+aData are reported as n ( %) unless otherwise indicated.
+bRelative risk, female vs male. The dashes indicate instances where either 0 females and/or 0 males were affected, which would make the
+RR a nonnatural number.
+cStatistical significance ( P<.05).The Orthopaedic Journal of Sports Medicine Injuries and Illness Among Collegiate Swimmers 7
+compared with women, and this could account for the sex
+differences we observed in this study given the relative
+uniformity in significantly higher risk of musculoskeletal
+injury in women.15
+Another interesting finding of the current study was the
+relative high rate of concussion. Concussions affected 44
+(6.9%) of the 641 athletes included in this study (Table 7);
+14 of those athletes had their career ended by these concus-
+sions. The concussion rate in this study is much higher than
+the 1.7 %rate suggested in the limited literature on concus-
+sions in swimmers.37As more attention has been placed on
+the health effects and long-term sequelae of concussions in
+recent years, this difference in concussion rate may be
+attributed to increased recognition of concussion mechan-
+isms and symptoms. This study also found that female
+swimmers were significantly more likely to sustain a con-
+cussion than were male swimmers (RR, 2.11; 95 %CI, 1.13-
+3.96) (see Table 2). This is inconsistent with the limited
+literature on swimming injuries claiming that there may
+not be a difference in concussion rates between male and
+female swimmers.3That being said, several sex comparison
+studies in other sports have demonstrated that female ath-
+letes have higher rates of concussions than their male coun-
+terparts at the high school, collegiate, and professional
+levels have.4,6,7,29,34,39The rationale behind this difference
+is poorly understood; however , possible theories includeneuroanatomical and/or biomechanical differences as well
+as psychosocial factors that may cause male athletes to
+underreport symptoms.4,15,31While this study could not
+comment on mechanisms behind the observed sex differ-
+ences in concussion rates, these results also showed that
+women had a slightly higher incidence of concussion’s being
+career-ending (n ¼11 out of 43; 25.6 %) compared with men
+(n¼3o u to f1 5 ;2 0 . 0 %). A systematic review by Koerte
+et al19suggested that, although no definitive conclusions
+can be made regarding sex differences for sports-related
+concussion outcomes, the majority of evidence suggests
+that women generally have worse clinical and neurologic
+outcomes after sports-related concussion. This may explain
+the higher rates of concussion being career-ending in
+women observed in our study. While contact sports such
+as football and rugby get more attention with regard to
+concussion prevention and management, these results sug-
+gested that concussion prevention programs and treatment
+protocols specific to the sport of competitive swimming
+should be developed.
+Respiratory tract infections were the most common med-
+ical illnesses in our population, accounting for 119 (24.3 %)
+out of 490 of all illnesses. Although respiratory tract infec-
+tions are among the most common illnesses regardless of age
+or sex, swimmers have been shown to be particularly predis-
+posed.27This is thought to be due to intense training in aTABLE 7
+Concussion Characteristics Observed Among Athletes in This Studya
+Overall (N ¼641) Female Athletes (n ¼340) Male Athletes (n ¼301)
+EventsAthletes
+AffectedEstimated
+Athlete Risk/y,
+% EventsAthletes
+AffectedEstimated
+Athlete Risk/y,
+% EventsAthletes
+AffectedEstimated
+Athlete Risk/y,
+%RR
+(95%CI)b
+In-season
+Competition 4 (6.9) 4 (0.62) 0.27 4 (9.3) 4 (1.18) 0.51 0 (0) 0 (0) 0.00 —
+N/A 8 (13.79) 7 (1.09) 0.48 6 (13.95) 5 (1.47) 0.64 2 (13.33) 2 (0.66) 0.29 2.21
+(0.43-11.32)
+Non–sport
+related team
+activity5 (8.62) 5 (0.78) 0.34 4 (9.3) 4 (1.18) 0.51 1 (6.67) 1 (0.33) 0.15 3.54
+(0.4-31.51)
+Practice 19 (32.76) 19 (2.96) 1.30 15 (34.88) 15 (4.41) 1.93 4 (26.67) 4 (1.33) 0.58 3.32
+(1.11-9.89)c
+Weight room 3 (5.17) 3 (0.47) 0.20 1 (2.33) 1 (0.29) 0.13 2 (13.33) 2 (0.66) 0.29 0.44
+(0.04-4.86)
+Off-season
+Competition 0 (0) 0 (0) 0.00 0 (0) 0 (0) 0.00 0 (0) 0 (0) 0.00 —
+N/A 9 (15.52) 9 (1.4) 0.61 7 (16.28) 7 (2.06) 0.90 2 (13.33) 2 (0.66) 0.29 3.1
+(0.65-14.8)
+Non–sport
+related team
+activity4 (6.9) 4 (0.62) 0.27 3 (6.98) 3 (0.88) 0.39 1 (6.67) 1 (0.33) 0.15 2.66
+(0.28-25.4)
+Practice 6 (10.34) 6 (0.94) 0.41 3 (6.98) 3 (0.88) 0.39 3 (20) 3 (1) 0.44 0.89
+(0.18-4.35)
+Weight room 0 (0) 0 (0) 0.00 0 (0) 0 (0) 0.00 0 (0) 0 (0) 0.00 —
+Total 58 (100) 44 (6.86) 3.00 43 (100) 31 (9.12) 3.99 15 (100) 13 (4.32) 1.89 2.11
+(1.13-3.96)c
+aData are reported as n ( %) unless otherwise indicated.
+bRelative risk, female vs male. The dashes indicate instances where either 0 females and/or 0 males were affected, which would make the
+RR a nonnatural number.
+cStatistical significance ( P<.05).8Trikha et al The Orthopaedic Journal of Sports Medicine
+chlorinated environment, vitamin D deficiency being com-
+mon in this population, and/or sustained variations in ven-
+tilation during sport affecting the airway epithelium.2,35
+Interestingly, a review article by Falagas et al8suggested
+that, in general, male patients are likely to be more suscep-
+tible to respiratory tract infections than are female patients
+in all age groups. In the current study, no significant sex
+difference was noted with regard to respiratory tract infec-
+tions (Table 2). With the relative high rates of respiratory
+tract infection in swimmers, routine screening procedures
+for these illnesses should also be a consideration.
+Limitations
+This study had several limitations in addition to the those
+inherent in a retrospective study. We only captured 4 aca-
+demic years’ worth of data (2016-2020) among collegiate
+swimmers; therefore, long-term follow-up data to determine
+how acute injuries/illnesses affect these athletes in the long
+term, including return to sport outside of intercollegiate
+competition, are difficult to ascertain. Using this data set,
+we were unable to definitively identify the reasons for an
+athlete’s not returning to sport after an injury or illness.
+Presumably, a majority of athletes did not return to sport
+solely due to the actual injury or illness; other factors such as
+personal choice or psychosocial factors could certainly also
+be involved. The current study was also not well equipped to
+stratify injuries based on mechanism, acuity, or severity as
+detailed injury, and treatment reports were not available.
+This level of detail would allow for a more comprehensive
+classification of the injuries and illnesses that affect colle-
+giate swimmers. More specific to this data set, 93 (19.0 %)o u t
+of 490 of nonmusculoskeletal illnesses were categorized as
+“unspecified,” as there were no detailed data available. Fur-
+thermore, diagnoses captured in this database could be
+assigned by a variety of members of the medical team,
+including athletic trainers, physical therapists, primary care
+physicians, orthopaedic surgeons, and psychologists. Thus,
+the diagnostic criteria and the diagnostician were undefined
+in this data set across multiple institutions, which presents a
+theoretic confounder that is challenging to quantify. The
+data presented in this study were also not stroke specific,
+which limited more nuanced, biomechanical associations
+with specific injury patterns. For instance, evidence has sug-
+gested that the high angular velocity at the knee associated
+with the breaststroke kick predisposes swimmers to medial
+knee injuries.16,36Another limitation to this study was that
+there were no data with regard to the number of exposures
+(practices, workout sessions, competitions) for each school,
+and it was assumed that the number of exposures between
+teams and genders was relatively comparable. Despite these
+limitations, this study remains 1 of the largest and most
+comprehensive epidemiologic studies characterizing injuries
+and illnesses among high-level competitive swimmers.
+CONCLUSION
+Most current injury prevent ion strategies in swimming
+focus on the shoulder; however, these results suggestedthat swimmers sustain a variety of musculoskeletal inju-
+ries and nonmusculoskeletal health events including con-
+cussions at alarming rates that warrant closer attention.
+Understanding the incidence of the diverse health events
+observed among elite competitive swimming athletes can
+inform clinicians regarding the natural history of common
+injuries and illnesses. This knowledge may help sports
+medicine practitioners better manage the expectation of
+these athletes with regard to return to sport after injury
+and illness, as well as allow for more targeted injury pre-
+vention strategies, that may ultimately serve to prolong the
+career of elite competitive swimmers.
+ACKNOWLEDGMENT
+Special thanks to Jeffrey Gornbein, DrPH, in the UCLA
+Department of Biomathematics for his assistance with the
+statistical analysis for this study. The authors thank the
+Pac-12 Health Analytics Program data custodians, includ-
+ing Kevin Robell, MA, ATC, for their assistance with review
+of the available data elements and for providing the data
+set. In addition, the authors thank the numerous certified
+athletic trainers and other allied health team members for
+their invaluable contributions to this work through the
+input of the health event data points captured in the Pac-
+12 Health Analytics Program database.
+REFERENCES
+1. Atilla H, Akdogan M, Ozturk A, Ertan MB, Kose O. Musculoskeletal
+injuries in master swimmers: a national survey in Turkey. Cureus .
+2020;12(6):e8421.
+2. Bougault V, Boulet LP. Airway dysfunction in swimmers. Br J Sports
+Med. 2012;46(6):402-406.
+3. Cheng J, Ammerman B, Santiago K, et al. Sex-based differences in
+the incidence of sports-related concussion: systematic review and
+meta-analysis. Sports Health . 2019;11(6):486-491.
+4. Covassin T, Swanik CB, Sachs ML. Sex differences and the incidence
+of concussions among collegiate athletes. J Athl Train . 2003;38(3):
+238-244.
+5. Daneshvar DH, Nowinski CJ, McKee AC, Cantu RC. The epidemiology
+of sport-related concussion. Clin Sports Med . 2011;30(1):1-17, vii.
+6. De Martino I, Rodeo SA. The swimmer’s shoulder: multi-directional
+instability. Curr Rev Musculoskelet Med . 2018;11(2):167-171.
+7. Dick R. Is there a gender difference in concussion incidence and out-
+comes? Br J Sports Med . 2009;43:i46-i50.
+8. Falagas ME, Mourtzoukou EG, Vardakas KZ. Sex differences in the
+incidence and severity of respiratory tract infections. Respir Med .
+2007;101(9):1845-1863.
+9. Gaunt T, Maffulli N. Soothing suffering swimmers: a systematic review
+of the epidemiology, diagnosis, treatment and rehabilitation of mus-
+culoskeletal injuries in competitive swimmers. Br Med Bull . 2012;
+103(1):45-88.
+10. Hill L, Collins M, Posthumus M. Risk factors for shoulder pain and
+injury in swimmers: a critical systematic review. Phys Sportsmed .
+2015;43(4):412-420.
+11. Holmer I. Swimming physiology. Ann Physiol Anthropol . 1992;11(3):
+269-276.
+12. Irick E. NCAA Sports Sponsorship and Participation Rates Report
+1981-82 - 2018-19 . NCAA; 2019.
+13. Kaneoka K, Shimizu K, Hangai M, et al. Lumbar intervertebral disk
+degeneration in elite competitive swimmers: a case control study. Am
+J Sports Med . 2007;35(8):1341-1345.The Orthopaedic Journal of Sports Medicine Injuries and Illness Among Collegiate Swimmers 9
+14. Kerr ZY, Baugh CM, Hibberd EE, Snook EM, Hayden R, Dompier TP.
+Epidemiology of National Collegiate Athletic Association men’s and
+women’s swimming and diving injuries from 2009/2010 to 2013/2014.
+Br J Sports Med . 2015;49(7):465-471.
+15. Kerr ZY, Register-Mihalik JK, Kroshus E, Baugh CM, Marshall SW.
+Motivations associated with nondisclosure of self-reported concus-
+sions in former collegiate athletes. Am J Sports Med . 2016;44(1):
+220-225.
+16. Keskinen K, Eriksson E, Komi P. Breaststroke swimmer’s knee: a
+biomechanical and arthroscopic study. Am J Sports Med . 1980;
+8(4):228-231.
+17. Khodaee M, Edelman GT, Spittler J, et al. Medical care for swimmers.
+Sports Med Open . 2015;2:27.
+18. Knobloch K, Yoon U, Kraemer R, Vogt PM. 200-400 m breaststroke
+event dominate among knee overuse injuries in elite swimming ath-
+letes. Article in German. Sportverletz Sportschaden . 2008;22(4):
+213-219.
+19. Koerte IK, Schultz V, Sydnor VJ, et al. Sex-related differences in the
+effects of sports-related concussion: a review. J Neuroimaging . 2020;
+30(4):387-409.
+20. Matsuura Y, Hangai M, Koizumi K, et al. Injury trend analysis in the
+Japan national swim team from 2002 to 2016: effect of the lumbar injury
+prevention project. BMJ Open Sport Exerc Med . 2019;5(1):e000615.
+21. Matzkin E, Suslavich K, Wes D. Swimmer’s shoulder: painful shoulder
+in the competitive swimmer. JA mA c a dO r t h o pS u r g . 2016;24(8):
+527-536.
+22. Mountjoy M, Junge A, Alonso JM, et al. Sports injuries and illnesses in
+the 2009 FINA World Championships (Aquatics). Br J Sports Med .
+2010;44(7):522-527.
+23. Nichols AW. Medical care of the aquatics athlete. Curr Sports Med
+Rep. 2015;14(5):389-396.
+24. Nyska M, Constantini N, Cale-Benzoor M, Back Z, Kahn G, Mann G.
+Spondylolysis as a cause of low back pain in swimmers. Int J Sports
+Med. 2000;21(5):375-379.
+25. Pollard H, Fernandez M. Spinal musculoskeletal injuries associated
+with swimming: a discussion of technique. Australas Chiropr Osteop-
+athy. 2004;12(2):72-80.
+26. Pyne DB, Sharp RL. Physical and energy requirements of competitive
+swimming events. Int J Sport Nutr Exerc Metab . 2014;24(4):351-359.
+27. Robinson K, Kremen T, Olin JT, Wilber R. Pulmonary function evalu-
+ation in elite swimmers: a case series of environmental considera-
+tions. Curr Sports Med Rep . 2019;18(4):109-111.28. Rodeo SA, Nguyen JT, Cavanaugh JT, Patel Y, Adler RS. Clinical and
+ultrasonographic evaluations of the shoulders of elite swimmers. Am J
+Sports Med . 2016;44(12):3214-3221.
+29. Rosenthal JA, Foraker RE, Collins CL, Comstock RD. National high
+school athlete concussion rates from 2005-2006 to 2011-2012. Am J
+Sports Med . 2014;42(7):1710-1715.
+30. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite swimmers:
+primarily due to swim-volume-induced supraspinatus tendinopathy.
+Br J Sports Med . 2010;44(2):105-113.
+31. Strand S, Lechuga D, Zachariah T, Beaulieu K. Relative risk for con-
+cussions in young female soccer players. Appl Neuropsychol Child .
+2015;4(1):58-64.
+32. Struyf F, Tate A, Kuppens K, Feijen S, Michener LA. Musculoskeletal
+dysfunctions associated with swimmers’ shoulder. Br J Sports Med .
+2017;51(10):775-780.
+33. Trinidad A, Gonzalez-Garcia H, Lopez-Valenciano A. An updated
+review of the epidemiology of swimming injuries. PM R . 2021;13(9):
+1005-1020.
+34. Tsushima WT, Siu AM, Ahn HJ, Chang BL, Murata NM. Incidence and
+risk of concussions in youth athletes: comparisons of age, sex, con-
+cussion history, sport, and football position. Arch Clin Neuropsychol .
+2019;34(1):60-69.
+35. Umarov J, Kerimov F, Toychiev A, Davis N, Osipova S. Association of
+the 25(OH) vitamin D status with upper respiratory tract infections
+morbidity in water sports elite athletes. J Sports Med Phys Fitness .
+2019;59(12):2058-2065.
+36. Vizsolyi P, Taunton J, Robertson G, et al. Breaststroker’s knee: an
+analysis of epidemiological and biomechanical factors. Am J Sports
+Med. 1987;15(1):63-71.
+37. Wolf BR, Ebinger AE, Lawler MP, Britton CL. Injury patterns in Divi-
+sion I collegiate swimming. Am J Sports Med . 2009;37(10):
+2037-2042.
+38. Wymore L, Fronek J. Shoulder functional performance status of
+National Collegiate Athletic Association swimmers: baseline Kerlan-
+Jobe Orthopedic Clinic scores. Am J Sports Med . 2015;43(6):
+1513-1517.
+39. Zuckerman SL, Kerr ZY, Yengo- Kahn A, Wasserman E, Covassin
+T, Solomon GS. Epidemiology of sports-related concussion
+in NCAA athletes from 2009-2010 to 2013-2014: incidence,
+recurrence, and mechanisms. Am J Sports Med . 2015;43(11):
+2654-2662.10 Trikha et al The Orthopaedic Journal of Sports Medicine

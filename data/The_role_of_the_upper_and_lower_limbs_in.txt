@@ -1,0 +1,923 @@
+Original research
+The role of the upper and lower limbs in
+front crawl swimming: The thoughts and
+practices of expert high-performance
+swimming coaches
+Kirstin S Morris1,2, David G Jenkins1, Mark A Osborne1,3,
+Steven B Rynne1, Megan E Shephard1,2and Tina L Skinner1
+Abstract
+The perceptions of high-performance swimming coaches regarding the relative contribution of the upper and lower limbs
+are crucial in optimising athletic performance through subsequent prescription of training. Problematically, examination
+of these perspectives is lacking. T o develop knowledge in this area, perceptions regarding the upper and lower limb
+velocity and metabolic contributions and reasoning surrounding whole body, arms-only and legs-only training prescrip-
+tion (referred to as swim, pull and kick, respectively) were garnered from seven male expert swimming coaches. The
+semi-structured interviews were transcribed verbatim by the lead researcher. Thematically analysed through open and
+axial-coding, results revealed that all coaches believed the upper limbs were the primary velocity generators but placed
+great importance on having well-conditioned muscles of the lower limbs. All coaches identified multiple interrelated
+parameters contributing to velocity generation and metabolic cost. In a typical training week, coaches allocate, on
+average, 58% (40–85%), 19% (0–30%) and 22% (10–40%) of the total training volume to swim, pull and kick training,
+respectively. All training prescription was based on anecdotal evidence and personal experience. Considering the vari-
+ability in training allocation reported by these high-performance coaches, sport scientists and developmental coaches are
+encouraged to understand how factors such as the distance specialisation of the swimmers, injury status, stroke tech-
+nique and physiological conditioning status of the upper and lower limb muscles influence the prescription of swim, pull
+and kick training within a typical training season.
+Keywords
+Arms, athletic performance, coaching, front crawl, legs, locomotion, perceptions, training prescription
+Introduction
+Success in high-performance sport involves the collabor-
+ation of a team of discipline-speciﬁc sport science experts
+who work closely with the athlete and coach to achieve
+both short- and long-term goals.1,2In swimming, for
+example, the relative contributions of the upper and
+lower limbs to athletic performance have been examined
+through the sport science sub-disciplines of biomechan-
+ics, physiology and motor control. Given the epistemo-
+logical foundations of sport science, the majority of
+research in this area has understandably been from a
+quantitative perspective.3,4Although there is a continu-
+ing debate over the precise energy cost of the upper
+versus lower limbs during front crawl, there is nonethe-
+less agreement that the lower limb movements require
+more energy than the upper limb movements.5,6DespiteReviewers: Flavio Castro (Universidade Federal do Rio Grande do Sul,
+Brazil)
+Daniel Greenwood (The University of Memphis, United
+States of America)
+Rodrigo Zacca (The University of Porto, Portugal)
+1The University of Queensland, Brisbane, Australia
+2Queensland Academy of Sport, Qld Sport & Athletics Centre,
+Queensland, Australia
+3School of Human Movement and Nutrition Sciences, Swimming
+Australia Limited, Sunnybank, Queensland, Australia
+Corresponding author:
+Kirstin S Morris, Queensland Academy of Sport, Level 1 Western Stand,
+Qld Sport & Athletics Centre, 468 Kessels Road, Nathan, Qld 4111,
+Australia.
+Email: Kirstin.morris@uqconnect.edu.auInternational Journal of Sports Science
+& Coaching
+0(0) 1–10
+!The Author(s) 2019
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/1747954119866358
+journals.sagepub.com/home/spo
+
+the inconsistencies in the reported metabolic demand of
+the upper and lower limbs, it is common practice for
+most swimming coaches incorporate speciﬁc arms-only
+(pull) and legs-only (kick) sets into their training pro-
+grams. The proportion of training that is dedicated to
+pull and kick is not well documented, nor is the reason-
+ing behind these speciﬁc training sets. It is therefore
+unknown whether the percentage of pull and kick train-
+ing independently reﬂects the observations of the quan-
+titative literature or whether other factors, such as the
+personal beliefs of the coaches, contribute.
+As suggested above, the relative contributions of the
+upper and lower limbs to swimming performance and
+their associated metabolic costs have primarily been
+framed in discipline-speciﬁc ways (e.g. physiology) and
+have been investigated using quantitative approaches.5,6
+While valuable, the ﬁndings are subsequently limited
+due to potential diﬃculties in understanding the context
+of a particular phenomenon, thereby limiting the applic-
+ability of the results within various participant groups
+and/or situations. Qualitative research can generate rich
+data permitting diﬀerent subjective views of a particular
+phenomenon that can complement and/or be compared to
+quantitative research ﬁndings.7,8Moreover, research that
+moves beyond discipline-speciﬁc boundaries is more likely
+to reﬂect the realities of high-performance sport, where
+teams of professionals are required to work together for
+shared performance gains. For example, while sport sci-
+entists are considered to be professionals in their own
+right, their ability to function within a broader perform-
+ance team under the inﬂuence of a head coach is para-
+mount.9Consequently, there is considerable potential
+value in sport scientists approaching their work in ways
+that are informed by high levels of discipline-speciﬁc
+knowledge, as well as clear understandings of how coaches
+conceptualise the components of performance.10
+Honed by years of experience and reﬂection, expert
+high-performance swimming coaches have highly specia-
+lised and extensive foundations of declarative (knowing)
+and procedural (doing) knowledge.11,12Through explor-
+ation, this knowledge source presents opportunities to
+enhance understanding of the relative roles of the upper
+and lower limbs to swimming performance.13
+Understanding successful high-performance coaches’
+thoughts regarding the upper and lower limb contribu-
+tions to swimming performance will assist support staﬀ
+to: (i) interpret and convey the ﬁndings of scientiﬁc
+research to the coach, (ii) share this knowledge within
+the scientiﬁc community and (iii) provide direction for
+future applied research. Lower level coaches and sports
+scientists will also have a greater understanding of why
+elite coaches train their swimmers the way they do and
+sport scientists may then be able to provide more targeted,
+evidence-based recommendations on the speciﬁc training
+of the upper and lower limbs based on these practices.The purposes of the present study were to examine the
+relative contributions of the upper and lower limbs to
+velocity and the metabolic demand of front crawl swim-
+ming from the perspectives of expert high-performance
+swimming coaches. The secondary aim was to examine
+how and why coaches prescribe swim, pull and
+kick training and determine what resources and/or
+experiences have shaped their thoughts regarding the
+contributions of the limbs and how to train them.
+Methods
+Participants
+Purposeful sampling14was used to select expert high-
+performance swimming coaches; seven male coaches
+were recruited for the study. While there are signiﬁcant
+issues with judging coach performance based on ath-
+letic outcomes, for the purposes of this research, the
+coaches were considered to be ‘expert’ because they
+had all coached an Olympic Medallist or had been a
+National Head Coach (open water and/or pool swim-
+ming events). All had been coaching national or inter-
+national-level swimmers for 23.7 /C611.7 years and had
+worked, or were currently working, with elite-level
+athletes at the Olympic and/or international level. All
+coaches had experience coaching both male and female
+swimmers, and six of the seven were swimmers prior to
+becoming coaches. Two of the coaches specialised in
+coaching sprinters ( /C20100 m), three focused on mid-
+dle distance (200–400 m) and two focused on coaching
+distance swimmers ( /C21800 m). Signed informed consent
+was obtained from all participants prior to the
+interview commencing; the study was approved by the
+Human Research Ethical Committee of The University
+of Queensland.
+Research design
+A semi-structured interview methodology with eight
+open-ended questions (Table 1) was used to explore
+and elicit expert knowledge.15The interview schedule
+was developed by a team of experts comprising of exer-
+cise physiologists (clinical and sport speciﬁc) and
+university lecturers in sports pedagogy. Given the lar-
+gely exploratory nature of this investigation, semi-
+structured interviews were most appropriate as they
+facilitated in-depth responses and provided ﬂexibility
+for the lead researcher to include additional questions,
+seek further clariﬁcation and elicit speciﬁc examples.14
+As such, although the progressive structure of the inter-
+views was consistent, the ordering of questions varied
+depending on participant responses. The researcher
+conducted a pilot interview with an assistant coach
+from the same high-performance program as one of2 International Journal of Sports Science & Coaching 0(0)
+the participants. The feedback from this interview was
+used to evaluate and improve the interview guide. All
+interviews were conducted by the lead author, who had
+experience as a performance science service provider at
+a national level in swimming. This experience helped to
+establish a rapport with the interviewees and assisted in
+the interpretation of results.14
+Topics discussed included the perceived importance
+of the upper and lower limb actions in front crawl vel-
+ocity generation, the distribution of the total available
+energy to the upper and lower limbs during front crawl
+swimming, potential factors that inﬂuence the velocity
+contributions and energy distribution to the limbs in
+front crawl and the prescription of and reasons for
+whole-body (swim), pull and kick sets in training.
+Interviews lasted between 23 and 48 min (med-
+ian¼25.5 min) with six interviews being conducted
+face-to-face in an environment chosen by the partici-
+pant, and one interview being conducted via the tele-
+phone. Previous research suggests that in qualitative
+research, responses to interview questions are equiva-
+lent whether face-to-face or via telephone.16Interviews
+were recorded and transcribed verbatim by the lead
+author.
+Data analysis
+Adopting a constructivist orientation,14data were ana-
+lysed to determine, from coaches’ perspectives, the
+degree to which the total swimming velocity is produced
+by the upper and lower limbs, and to identify what pro-
+portion of the total available energy is required by the
+limbs to produce this propulsion. Data units, being the
+key responses from the transcribed interviews, were the-
+matically analysed to extract the underlying factors that
+have the potential to inﬂuence these percentages.
+Furthermore, data were analysed to understand how
+and why expert coaches prescribe pull and kick training,
+and identify what factors may inﬂuence the prescription
+of pull and kick training.Prior to initial analysis, the interview transcripts
+were read several times by the lead researcher.
+Sentence-by-sentence open coding17,18was then per-
+formed by the lead author to draw out raw data
+themes from each coach to form the units of data
+for analysis.19The properties of each category and
+the inherent dimensions were also noted so as to
+facilitate the next stage of analysis. Axial coding17,18
+was applied to the data units to identify relationships
+among the themes; themes were continuously revisited
+and redeﬁned throughout this process. This iterative
+process promoted continuous meaning making20and
+allowed for the emergence of novel relationships. This
+ﬁnal aspect was thought to be of great importance
+given the lack of previous empirical investigations in
+this area. To increase the trustworthiness of the ana-
+lysis and subsequent ﬁndings, members of the
+research team came together at various time points
+to develop a triangular consensus.21In keeping with
+qualitative conventions,22exemplar quotations from
+the coaches are presented to characterise the ﬁnal
+themes.
+Results
+Upon review of the interview transcriptions, three
+major themes emerged: ( a) factors aﬀecting velocity
+and metabolic contributions of the upper and lower
+limbs, ( b) factors aﬀecting prescription of swim, pull
+and kick training and ( c) coach knowledge develop-
+ment. In line with the current literature,11each concept
+is described by raw coach quotations, which are
+labelled as C1 to C7 for the participant identiﬁcation
+purposes and continuity of information provided.23
+Factors affecting velocity and metabolic contributions
+of the upper and lower limbs
+Within major theme a, sub-themes emerged from the
+analysis of interview data. Coaches highlightedTable 1. List of interview questions.
+1 As a percentage, what extent do the actions of the upper and lower limbs contribute to swimming velocity in front crawl?
+2 In terms of energy demands, what percentage of the total available energy do the muscles of the upper limbs use compared to
+the lower limbs in front crawl?
+3 If you had to allocate one specific role of the upper and lower limbs, what would you identify as their most important role in
+front crawl swimming?
+4 Please indicate the approximate percentages of your weekly training volume that are dedicated to swim, pull and kick. How
+many hours (or meters) would this equate to?
+5 Would you modify the training percentages allocated to swim, pull and kick based on any particular factors, and if so, what
+would these factors be, and how would you change things?
+6 Why do you prescribe pull sets?
+7 Why do you prescribe kick sets?
+8 How did you come to get your training philosophies and opinions on the roles of the upper and lower limbs?Morris et al. 3
+numerous parameters that had the potential to inﬂu-
+ence contributions of the upper and lower limbs to
+front crawl velocity and the metabolic demands; an
+in-depth analysis of the interview transcriptions
+follows.
+Velocity contributions. Consistent with the ﬁndings of
+empirical research,24,25all coaches perceived the upper
+limbs to be the primary velocity generators, with
+responses indicating the upper limbs contributed
+between 60 and 90% (76.4 /C613.1%; mean /C6SD) of
+the velocity. Six of the interviewed coaches believed
+the upper and lower limb contributions to velocity dif-
+fered among individuals, while C6 believed the velocity
+contribution of 90% from the upper limbs and 10%
+from the lower limbs was the same for all swimmers.
+Of those who thought the contributions diﬀered among
+individuals (n ¼6), all coaches mentioned that the con-
+tributions varied among ‘arm-dominant’ or ‘leg-domi-
+nant’ swimmers, as C1 describes:
+As an average, I would say it would be pretty close to
+60% from the arms and 40% from the legs, but I think
+it’s very diﬀerent for every swimmer; for the arm-domi-
+nant swimmer, like a 2-beat kicker, it could be more
+like 90% from the arms for them but with the leg-domi-
+nant swimmer, or 6-beat kicker, it would be closer to
+the 60%. I think it’s very, very dependent on the type of
+swimmer we’re talking about. (C1)
+There were mixed responses to the issue of potential
+diﬀerences in the velocity contributions of the upper
+and lower limbs between male and female swimmers,
+with some coaches stating that males would have a
+greater contribution from the upper limbs, with
+others noting there were no diﬀerences: ‘Obviously
+the male is physically stronger, so I think the arms
+would probably play a little bit more of a role’ (C1).
+‘I think it’s more individual to the athlete than it is
+diﬀerent to males and females. I think across the
+board, you might ﬁnd a diﬀerence but I couldn’t
+guess what that diﬀerence would be, to be honest’ (C3).
+Coaches also believed the velocity contribution of
+the leg kick was dependent on the event distance:
+As the events lengthen, from sprint to 200–400, the kick
+would be far more important because, as the event
+tends to go to the middle distance range, the stroke
+changes slightly so swimmers will spend a little bit
+more time swimming longer and slightly more towards
+the catch-up position, so I’d say they would be relying
+more on their legs than in sprint. (C2)
+Additional factors inﬂuencing the relative contributions
+of the limbs to velocity included the stroke technique,current state of physiological conditioning, ankle ﬂexi-
+bility and body type. All coaches agreed that the pri-
+mary role of the upper limbs was the production of
+propulsion. While the speciﬁc responses varied for the
+main role of the leg kick, all coaches indicated that the
+leg kick plays a ‘supportive role’ with responses includ-
+ing maintaining body position, providing continuity in
+propulsion, promoting lift and maintaining ‘contact’ or
+‘retractability’ with the water throughout the phases of
+the stroke. C4 describes the integration of the dominant
+and supportive roles of the upper and lower limbs,
+respectively:
+A good kick adds to the leverage of the stroke and the
+balance of the body during the stroke. The legs are
+governed by arm-to-arm timing and the legs come in
+and they support that timing; they don’t dominate or
+adjust the rhythm. You’ve got to release the arms to do
+their job and the kick can allow and provide
+stroke length by supporting balance, improving body
+position and enhancing traction throughout the whole
+stroke. (C4)
+Energy distribution. While coaches all agreed the upper
+limbs were responsible for producing the majority of
+the propulsion, responses varied when discussing the
+energy distribution throughout the body during front
+crawl swimming. C1 did not provide a numerical
+response as he believed there were too many factors
+that would inﬂuence the distribution of energy to the
+upper and lower body during swimming and did not
+want to report a number he was not conﬁdent about.
+From the other six coaches, the amount of energy used
+by the upper body in swimming was 50.8 /C615.6%
+(mean/C6SD response); however, responses varied
+from 35 to 80%. Numerous factors were identiﬁed
+that inﬂuenced the distribution of energy. Having a
+well-established ability to swim the race correctly was
+a commonly mentioned inﬂuencing factor:
+If you’re overusing your legs throughout the ﬁrst part,
+regardless of event distance, it’s going to have an ener-
+getic cost, especially at the end, so you want to save the
+energy used by the legs somewhat within the ﬁrst part
+of the race. However you also can’t let your legs drag; if
+you let your legs drag that’s going to create more resist-
+ance and burn up more energy anyway. You’ve got to
+know how to use them eﬃciently the whole way
+through the race. (C1)
+C7 was the only coach to allocate a percentage of the
+total available energy to the muscles of the core, with
+the percentage allocated to the core being dependent on
+the type of kicking pattern used:4 International Journal of Sports Science & Coaching 0(0)
+For a 2-beat kicker, energy would be probably 55% for
+the arms, with 10% going to the legs for balance and
+35% being used in the core. For a 6-beat kicker, I’d say
+55% on the legs, 35% on the arms and 10% on the
+core. (C7)
+Along with the racing strategy, the racing distance was
+raised as a factor that had potential to inﬂuence the
+energy distribution within the body (also proposed as
+an inﬂuencing factor on the velocity contributions):
+It’s going to depend on what the distance of the race is.
+The longer the distance, the lower the activity of the
+legs, so there’s not as much energy required. I think
+there’d be less percentage (than 50%) consumed by
+the legs in an open water swim compared to a 1500,
+800, 400, 200 and 100m race. I think it’s sort of like a
+linear scale. (C6)
+While all seven coaches believed the energy distribu-
+tion was inﬂuenced by race-related factors, a small
+number of coaches also discussed the impact of body
+composition on energy distribution; however, C4 was
+the only coach to identify any sex diﬀerences with
+respect to the upper and lower limb contributions to
+either energy consumption or velocity: ‘Typically
+females would use less energy in the legs; that’s only
+by virtue of the smaller muscle mass they have com-
+p a r e dt om a l e s ’( C 4 ) .
+When discussing the speciﬁc energy distributions to
+the limbs, there were high levels of uncertainty among
+the coaches, with responses including comments such
+as: ‘Well, I haven’t got a clue really ...’ (C6); ‘Jeez, how
+do you measure that? Hmm, we’re only guessing
+really ...’ (C1); ‘It’s diﬃcult to say what the actual con-
+tribution would be, very diﬃcult’ (C3).
+Factors affecting the prescription of swim, pull and
+kick training
+When discussing the metabolic demands of the upper
+and lower limb muscles, all coaches highlighted the
+need for these muscles to be physiologically condi-
+tioned in order to perform their roles eﬃciently and
+eﬀectively. To identify how much of the weekly training
+volume is required to adequately condition the upper
+and lower limbs, coaches were asked to outline the pro-
+portions of swim, pull and kick training that are
+assigned within a typical week. The mean, standard
+deviations, minimum and maximum percentages of a
+typical training week dedicated by the coaches inter-
+viewed to swim, pull and kick training are shown in
+Table 2. Similar to the observed variations in responses
+to the distribution of energy between the upper and
+lower body, there was a substantial range of responsesto this question. Furthermore, multiple parameters
+were identiﬁed by coaches as potential reasons for
+prescribing percentages of swim, pull and kick
+training that diﬀered from their ‘typical’ training
+distribution.
+In contrast to the other coaches, C3 allocated 0% to
+pull training, as his perception was that all upper body
+work was integrated into the swim work done by his
+swimmers (85%); the remaining 15% of training was
+allocated to kick. The remaining coaches provided mul-
+tiple reasons for including pull training into the weekly
+training volume, including biofeedback of the body
+position in the water, stroke technique, improving the
+propulsive ability of the stroke, maintaining total train-
+ing volume without overusing the lower limbs, individ-
+ual athlete preference and as a progression modiﬁcation
+during skill sets:
+My better pullers are my better freestyle swimmers. I’ve
+got swimmers who are fairly poor pullers and good
+kickers and they are nowhere near as successful on
+the world scene. You can only kick so fast, and the
+kick width can only go so wide; the propulsive phase
+on the stroke has so much more potential so we have to
+capitalise on that. Swimming without the legs gives you
+good feedback about body posture and the feeling of
+the propulsive phases of the stroke. (C2)
+I usually just use pull as a progression tool. For exam-
+ple, three of our sessions each week are just skill and
+swim and there might be a progression there where they
+(the swimmers) have to complete one of the sets as pull
+but using the same stroke count as they used in the
+swim. We also do negative split work with a pull
+buoy. I only usually have it as a skill thing rather
+than a mileage thing. If it (pull mileage) was more
+than 10% of the volume, it would only be speciﬁcally
+because I know one person enjoys pull more than
+the other so they might get a little bit of extra pull
+in the swim-down but it won’t be a designed group
+thing. (C5)
+While there were numerous reasons for prescribing pull
+sets, kick sets are mainly included to physiologically
+(both aerobically and anaerobically) condition the mus-
+cles of the lower limbs:Table 2. Mean, standard deviation (SD), minimum (min), and
+maximum (max) percentages of swim, pull and kick training
+during a typical training week.
+Mean SD Min Max
+Swim 58.3 15.7 40 85
+Pull 19.2 12.0 0 30
+Kick 22.5 10.8 10 40Morris et al. 5
+I think the main reason is, initially, they’ve got to be
+well trained aerobically. There’s a lot of energy
+required for them to function since they’re big muscles;
+the biggest in the body. So initially they need to be
+aerobically trained then anaerobically trained to ﬁt in
+with the power or race-pace phase of the season. (C6)
+Everyone needs to be trained to kick well because of the
+amount of muscle in the legs. Speciﬁc work needs to be
+done to increase the capillary density and minimise the
+risk of early lactate production from a non-productive
+unit. (C4)
+Coaches noted that the physiological conditioning state
+of the lower limb muscles had the potential to inﬂuence
+the velocity contributions, metabolic contributions
+and the ability of the swimmer to complete their race
+using the most eﬀective pacing strategy:
+You can improve the quality of the contribution the
+ﬁtter the legs are. You’ve got to condition the legs
+but you’ve got to make sure they don’t over-do their
+job by dominating the stroke; they have to have the
+ability to compliment the arms. If they (the legs) dom-
+inate, they create a less-eﬃcient stroke pattern. If they
+(the legs) dominate, then that’s a loss. (C4)
+In comparison to the numerous factors inﬂuencing the
+velocity and metabolic contributions of the upper and
+lower limbs, relatively few factors were identiﬁed by
+coaches as inﬂuencing their allocation of swim, pull
+and kick distribution within training. Most (n ¼5) coa-
+ches identiﬁed slight changes in the percentage of time
+allocated to kick training depending on the phase
+within the competitive season; however, the direction
+of these changes was not consistent:
+Early season, I probably do a little less kick but more
+pull than swim. In season, I increase the amount of
+kick, pull generally stays the same so in season I’m
+equally sharing swim and pull. I don’t do a lot of
+kick in taper and if I’m doing any kick it will really
+just be shorter, sharper type things. The kicking per-
+centage certainly drops in taper. (C7)
+I do a bit more kick early season for conditioning pur-
+poses. (C2)
+Swim, pull and kick training distribution was altered
+based on the distance specialisation and injury status of
+the swimmer being coached:
+The percentages would change if I had a 200 m swim-
+mer (compared to 50 m and 100 m swimmers); the pull
+would stay the same but the swim would drop back to
+40% (from 50%) and the kick would increase to 30%
+(from 20%). If I had an 800 m freestyler who was a2-beat kicker, I wouldn’t do that much kick at all,
+just enough to get enough training volume without
+riding the shoulders too hard. If they were a leg-
+dominant freestyler, then you would have to condition
+their kick more because their legs would be in more of a
+dominant role. (C2)
+If your swimmers need to have shoulder reconstruc-
+tions, etc, you naturally end up doing more kick to
+maintain enough ﬁtness while they’re recovering from
+injury. (C2)
+While the actual percentages of swim, pull and kick train-
+ing don’t appear to drastically change throughout the
+competitive season, coaches do report altering the type
+of pull and kick training that is done during the season to
+physiologically condition the upper and lower limb mus-
+cles from both an aerobic and anaerobic perspective:
+I tend to have more general kick and pull (training)
+early on in the 15-week cycle. (Early on), I’d be more
+endurance based on the kick and I’d ﬁnish on more
+speed-endurance and speed work. With pull, there’d
+be more powerful work as we go through. (C6)
+I believe in making sure aerobically they’re good on
+pull and kick and making sure anaerobically they’re
+good at doing pull and kick, so we’re getting the bal-
+ance and making sure all the parameters are looked
+after, and looked after really well. (C1)
+Using diﬀerent variations of pull training equipment,
+coaches are also able to induce strength and power
+adaptations as well as aerobic and anaerobic
+adaptations:
+We do many types of pull work; band only, pull buoy
+and paddles, resistance work with sponges, etc. I do
+band-only work because I think it’s good for upper–
+body connection. It not just inhibits their kick but also
+challenges their balance in the water so I think it helps
+with improving core stabilisation when they’re swim-
+ming. With the sponge, there’s a greater emphasis on
+resistance and building strength so we don’t go great
+distances with it. (C7)
+Coach knowledge development
+To determine the process through which coaches came
+to understand the upper and lower limb contributions
+to front crawl swimming performance, coaches were
+asked what resources and/or experiences shaped their
+perceptions and practices. Unanimously, coaches rated
+experience as the number one factor that had inﬂuenced
+their beliefs regarding the upper and lower limb
+contributions:6 International Journal of Sports Science & Coaching 0(0)
+It’s probably a balance between education and trial and
+error. Seeing athletes use too much kick early in the
+race, not preparing your athletes well enough with
+kick sets and then combining that with going to con-
+ferences and seeing distance programs to be shocked
+that 80% of their program is kick or 40% of their pro-
+gram is pull. I think it’s a combination of education
+and trial and error and study. I suppose it’s also a com-
+bination of remembering what I was like when I was in
+that situation and comparing that to what you’ve stu-
+died and observed. (C4)
+I think I’ve always been under the understanding that
+the upper-body, particularly in freestyle, is creating the
+vast majority of the propulsion. But you forget how
+you know this. I’ve been coaching for 36 years and
+you don’t remember everything, it just becomes a
+part of what you do. It must be learnt at some point
+though, and it’s learnt through individual experience,
+through education, through what you see with other
+coaches, through discussions and from what you’re
+observing in races. (C6)
+Three coaches also noted that discussions with other
+coaches had played a signiﬁcant role in forming their
+understanding of the topic, along with education
+through coaching conferences and reading.
+Discussion
+The primary aim of the present study was to examine
+the thoughts and practices of expert high-performance
+swimming coaches with regards to the contributions of
+the upper and lower limbs to swimming performance. It
+is clear from the interview dialogues that elite swim-
+ming coaches strongly believe the upper limbs are the
+primary velocity generators, yet it is the muscles of the
+lower limbs that require extensive physiological condi-
+tioning for the swimmer to perform their race plan suc-
+cessfully. Indeed, previous experimental research5,6has
+identiﬁed the large metabolic cost incurred by the ﬂut-
+ter kick, leading some researchers to urge swimmers to
+limit their use of the kick.6In contrast, the interviewed
+coaches highlighted the need for swimmers to use their
+kick to maintain an optimal body position and to pro-
+vide continuity in propulsion; eﬀectively enhancing the
+eﬃciency of the overall swimming performance.
+It is clear from the coaches’ responses that a number
+of factors are thought to contribute to the allocation of
+energy to the limbs. Rather than a single factor, it is the
+swimmers’ event distance, body composition and the
+use of the ﬂutter kick (e.g. changes in kick rates and/
+or intensity, or typical kicking pattern) that determine
+the overall energy contribution. The latter factor and
+the event distance were also associated with potential
+changes in stroke technique. Indeed, researchinvestigating the metabolic cost of whole body front
+crawl has identiﬁed the potential for body compos-
+ition,26,27stoke kinematics28,29and inter-limb coordin-
+ation patterns30to inﬂuence the overall metabolic cost,
+resulting in the possibility that these parameters may
+also play a role in determining the relative energetic
+demands of the upper and lower limbs in front crawl.
+In view of the present ﬁndings, future eﬀorts by sport
+scientists to quantify the velocity and metabolic contri-
+butions of the limbs in swimming should consider
+including, at both the individual and group level, meas-
+ures of kick rate, stroke-kick coordination patterns,
+biomechanical analysis of the stroke technique and par-
+ticipant characteristics (i.e. event distance and body
+composition). In keeping with the recommendations
+of previous research on the role of sport science and
+sport scientists in informing coaching work,31,32consid-
+eration of the above factors in future applied research
+will assist swimming coaches interpret and apply
+experimental research. While coaches did not identify
+potential diﬀerences between males and females, min-
+imal experimental research has investigated potential
+diﬀerences in the limb contributions between the
+sexes.33The results from the present study and an
+understanding of the gaps in the current quantitative
+research could be translated into experimental research
+aiming to identify how much of the variation in velocity
+and metabolic cost contributions of the limbs is attrib-
+utable to diﬀerences between the sexes.
+Interviewed coaches highlighted that the percentages
+of swim, pull and kick training were mainly altered
+based on the time of season, the distance specialisation
+of swimmer and/or limitations due to injury.
+Interestingly, no coach used a systematic testing
+approach to identify and/or monitor the needs of the
+individual athletes. As outlined by Savage and Pyne,34
+physiological testing can be utilised at particular time
+points during a training season to assess the aerobic
+and anaerobic capacities and/or power of a swimmer,
+which can identify potential areas for improvement.
+Testing allows for an evidence-based individualised
+approach to training prescription and can be used to
+assess the eﬃcacy of particular training interventions.
+Furthermore, testing provides a valuable tool for the
+detection of potentially talented athletes and, once iden-
+tiﬁed, allows for the prediction of performance based on
+test results.35,36Currently, there is no published desig-
+nated testing protocol to assess the metabolic and vel-
+ocity contributions of the limbs in swimming, nor is
+there benchmark data regarding the limb contributions
+and how these contributions diﬀer among diﬀerent
+groups of swimmers. A range of protocols have been
+used within the swimming literature, including two
+recent studies37,38that have utilised 200 m pull and
+kick time trials to assess the eﬃcacy of speciﬁc pullMorris et al. 7
+and kick training interventions, respectively, along with
+performing _VO 2peak and power output testing on spe-
+ciﬁc swimming ergometry. Additionally, Ribeiro et al.39
+have used maximal 100 m eﬀorts in swim and pull to
+investigate diﬀerences in _VO 2kinetics. While assessment
+tools such as the aforementioned methods exist within
+the literature, testing is currently not being utilised to
+determine the metabolic proﬁles of the upper and
+lower limbs in the applied high-performance setting.
+Thus, it is not surprising to learn that even expert
+high-performance coaches are required to prescribe
+pull and kick training based primarily on their own per-
+sonal coaching experience. Not only would the develop-
+ment of a testing protocol to identify the optimal upper
+and lower limb contributions assist coaches with the
+monitoring and assessment of physiological adaptations
+to training, it may also prove to be a valuable tool in the
+talent identiﬁcation process of the next generation of
+elite front crawl swimmers.
+In the coaches’ quest to be informed on the factors
+contributing to peak performance, resources such as
+journal articles, conference presentations, textbooks
+and even social media can provide valuable information
+to ensure their practices are evidence based. However,
+in keeping with previous research,40,41and as high-
+lighted by the interviewed coaches in the present
+study, previous coaching experience is often heavily
+relied upon, when it comes to the designation of pull
+and kick sets, within the training plan. The vast major-
+ity of coaches rely on past experience or the experience
+of others; practices that may not necessarily be based
+on scientiﬁc evidence. While there is often a push for
+evidence-based practice, it should be noted that scien-
+tiﬁc articles and textbooks do not necessarily have the
+answers to every practical challenge a coach may
+experience in the daily training environment. As such,
+it may not be preferred, but often necessary for high-
+performance coaches to use their experiential know-
+ledge to guide the components of prescription of
+swim, pull and kick training. While experimental
+research is yet to determine the optimal allocation of
+swim, pull and kick training (assuming such a thing
+exists), it is evident that there is substantial variation
+in the allocation of pull and kick training among coa-
+ches, even at the highest level. Future research that
+addresses the practical challenges coaches face is
+required to determine the optimal ratio of swim, pull
+and kick training, considering the distance specialisa-
+tion of the swimmers being coached, the time of the
+season and the injury status of the athletes.
+Developing evidence-based guidelines with respect to
+the prescription of swim, pull and kick within a training
+season may reduce the reported variation among coa-
+ches of all levels of experience. Since the interviewed
+coaches highlighted their willingness to learn fromothers, an opportunity for sports scientists to comple-
+ment the existing practices of expert coaches through
+integration of coach knowledge and scientiﬁc concepts
+is encouraged.
+While the present investigation has provided novel
+insight into the perceptions and practices of expert
+high-performance swimming coaches with respect to
+upper and lower limb contributions and training prac-
+tices, it must be noted that the participant group com-
+prised of only Australian male swim coaches. Although
+purposeful sampling was implemented to gain insight
+into the perceptions of expert high-performance coa-
+ches, a potential bias may have arisen from having
+included only this type of coach due to the desire to
+maintain a competitive advantage. Furthermore, within
+the relatively small sample size (n ¼7), variation in the
+distance specialisation of the coaches potentially con-
+tributed to the observed variation in reported training
+allocation. Similarly, it is possible that cultural diﬀer-
+ences among high-performance coaches from various
+countries may have inﬂuenced the results. For example,
+coaches from diﬀerent cultures may not have the same
+opportunities to share knowledge and experiences with
+one another, or, on the other hand, may be privy to
+regular education seminars and training camps dedi-
+cated to pull and/or kick performance. A ﬁnal limita-
+tion must be noted with respect to the coaches’
+knowledge acquisition; it is possible yet diﬃcult to con-
+ﬁrm that coaches do in fact implement an evidence-
+based practice (as opposed to reporting a reliance on
+anecdotal evidence), despite not recalling the origin of
+their knowledge. Indeed, the reported percentages of
+pull and kick training volume are not measured and
+are instead based on coach recall. As such, the actual
+amount of pull and kick training completed by elite
+swimmers may vary from the reported values; further
+research in this area is warranted. Additionally, future
+research including both male and female coaches from
+various countries and ranging from the development
+coaching level to the elite coaching level could provide
+additional insight into the decision-making processes
+for training prescription among swimming coaches.
+Conclusion
+This study identiﬁed consistent beliefs among high-
+performance swimming coaches with regards to the vel-
+ocity contributions of the upper and lower limbs in
+front crawl that are congruent with the observations
+of existing experimental research.24,42However, large
+variability was observed in the reported metabolic con-
+tributions of the limbs. The allocation of swim, pull and
+kick training also varied among coaches, with coaches
+highlighting numerous parameters (i.e. the distance spe-
+cialisation of the swimmers, injury status, stroke8 International Journal of Sports Science & Coaching 0(0)
+technique and physiological conditioning status of the
+upper and lower limb muscles) that inﬂuence their deci-
+sion-making process when planning training programs
+for their athletes. Such ﬁndings make a unique and
+valuable contribution to the existing literature and
+enable sport scientists and developmental coaches to
+understand how and why high-performance coaches
+prescribe swim, pull and kick training. Sport scientists
+are encouraged to be cognizant of the complex inter-
+play among parameters that coaches believe inﬂuence
+training allocation to make informed decisions when
+planning training intervention studies, designing testing
+protocols, interpreting testing results and/or educating
+developmental coaches on the metabolic conditioning
+requirements of the upper and lower limbs in front
+crawl performance.
+Acknowledgements
+The investigators would like to thank the coaches for their
+participation. Jeﬀrey Greenhill (Queensland Academy of
+Sport; Sport Performance Innovation and Knowledge
+Excellence) is thanked for his assistance with reﬁning the
+interview structure and reviewing the coding process.
+Declaration of conflicting interests
+The author(s) declared no potential conﬂicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+Funding
+The author(s) received no ﬁnancial support for the research,
+authorship, and/or publication of this article.
+ORCID iD
+Kirstin S Morris https://orcid.org/0000-0002-6040-9647
+References
+1. Lyle J. Sports coaching concepts: a framework for coaches’
+behaviour . London: Routledge, 2002.
+2. Rynne SB and Mallett CJ. Understanding the work and
+learning of high performance coaches. Phys Educ Sport
+Pedagog 2012; 17: 507–523.
+3. Haag H. Development and structure of a theoretical
+framework for sport science (‘‘Sportwissenschaft’’). Quest
+1979; 31: 25–35.
+4. Hughes MD and Bartlett RM. The use of performance
+indicators in performance analysis. J Sport Sci 2002; 20:
+739–754.
+5. Ogita F, Onodera T, Tamaki H, et al. Metabolic profile
+during exhaustive arm stroke, leg kick, and whole body
+swimming lasting 15 s to 10 min. In: Chatard JC (ed.)
+Biomechanics and medicine in swimming IX . Saint-
+Etienne, France: University of Saint-Etienne, 2003,
+pp.361–366.6. Zamparo P, Pendergast DR, Mollendorf J, et al. An
+energy balance of front crawl. Eur J Appl Physiol 2005;
+94: 134–144.
+7. Berg B and Lune H. Qualitative research methods for the
+social sciences , 8th ed. Boston: Pearson, 2012.
+8. Masue O, Swai I and Anasel M. The qualitative-quanti-
+tative ‘disparities’ in social science research: what does
+qualitative comparative analysis (QCA) bring in to
+bridge the gap? Asian Soc Sci 2013; 9: 211–221.
+9. Hodge K, Henry G and Smith W. A case study of excel-
+lence in elite sport: motivational climate in a world cham-
+pion team. Sport Psychol 2014; 21: 60–74.
+10. Williams SJ and Kendall L. Perceptions of elite coaches
+and sport scientists of the research needs for elite coach-
+ing practice. J Sport Sci 2007; 25: 1577–1586.
+11. Greenwood D, Davids K and Renshaw I. Experiential
+knowledge of expert coaches can help identify informa-
+tional constraints on performance of dynamic intercep-
+tive actions. J Sports Sci 2014; 32: 328–335.
+12. Nash C and Collins D. Tacit knowledge in expert coach-
+ing: science or art? Quest 2006; 58: 465–477.
+13. Williams AM and Ericsson KA. Perceptual-cognitive
+expertise in sport: some considerations when applying
+the expert performance approach. Hum Mov Sci 2005;
+24: 283–307.
+14. Patton MQ. Qualitative research and evaluation methods .
+3rd ed. London: Sage, 2002.
+15. Charmaz K. Constructing grounded theory . London:
+Sage, 2006.
+16. Sturges JE and Hanrahan KJ. Comparing telephone and
+face-to-face qualitative interviewing: a research note.
+Qual Res 2004; 4: 107–118.
+17. Gratton C and Jones I. Research methods for sport stu-
+dies. London: Routledge, 2004.
+18. Strauss A and Corbin J. Basics of qualitative research:
+techniques and procedures for developing grounded
+theory . Thousand Oaks, CA: Sage, 1998.
+19. Co ˆ te ´J, Salmela J and Russell SJ. The knowledge of high-
+performance gymnastics coaches: methodological frame-
+work. Sport Psychol 1995; 9: 65–75.
+20. Srivastava P and Hopwood N. A practical iterative
+framework for qualitative data analysis. Int J Qual
+Meth 2009; 8: 76–84.
+21. Lincoln YS and Guba EG. Naturalistic inquiry . Newbury
+Park, CA: Sage, 1985.
+22. Sparkes AC and Smith B. Qualitative research methods in
+sport, exercise and health: from process to product . New
+York, NY: Routledge, 2014.
+23. Cormier ML, Bloom GA and Harvey WJ. Elite coach
+perceptions of cohesion on coacting teams. Int J Sports
+Sci Coach 2015; 10: 1039–1053.
+24. Deschodt VJ, Arsac LM and Rouard AH. Relative con-
+tribution of arms and legs in humans to propulsion in
+25m sprint front crawl swimming. Eur J Appl Physiol
+1999; 80: 192–199.
+25. Morris KS, Osborne MA, Shephard ME, et al. Velocity,
+aerobic power and metabolic cost of whole body and
+arms only front crawl swimming at various stroke rates.
+Eur J Appl Physiol 2016; 116: 1075–1085.Morris et al. 9
+26. di Prampero PE. The energy cost of human locomotion
+on land and in water. Int J Sports Med 1986; 7: 55–72.
+27. Zamparo P, Capelli C, Termin B, et al. Effect of the
+underwater torque on the energy cost, drag and efficiency
+of front crawl swimming. Eur J Appl Physiol Occup
+Physiol 1996; 73: 195–201.
+28. Barbosa TM, Bragada JA, Reis VM, et al. Energetics and
+biomechanics as determining factors of swimming per-
+formance: updating the state of the art. J Sci Med
+Sport 2010; 13: 262–269.
+29. Barbosa TM, Fernandes RJ, Keskinen KL, et al. The
+influence of stroke mechanics into energy cost of elite
+swimmers. Eur J Appl Physiol 2008; 103: 139–149.
+30. Seifert L, Komar J, Crettenand F, et al. Inter-limb coord-
+ination and energy cost in swimming. J Sci Med Sport
+2014; 17: 439–444.
+31. Burkett BJ and Mellifont RB. Sport science and coaching
+in paralympic swimming. Int J Sports Sci Coach 2008; 3:
+105–112.
+32. Reade I, Rogers W and Hall N. Knowledge transfer: how
+do high performance coaches access the knowledge of
+sport scientists? Int J Sports Sci Coach 2008; 3: 319–334.
+33. Rodriguez FA, La ¨tt E, Ju ¨rima¨e J, et al. _VO 2kinetics in
+all-out arm stroke, leg kick and whole stroke front crawl
+in 100-m swimming. Int J Sports Med 2016; 37: 191–196.
+34. Savage B and Pyne DB. Physiological protocols for the
+assessment of athletes in specific sports; Swimming.
+In: Tanner RK and Gore CJ (eds) Physiological tests
+for elite athletes . Champaign, IL: Human Kinetics Inc.,
+2013, pp.435–448.35. Re `gnier G, Salmela JH and Russell SJ. Talent detection
+and development in sport . New York: Macmillan, 1993.
+36. Williams AM and Reilly T. Talent identification and
+development in soccer. J Sport Sci 2000; 18: 657–667.
+37. Konstantaki M and Winter EM. The effectiveness of a
+leg-kicking swimming training program on swimming
+performance, leg movement economy and leg aerobic
+power in competitive swimmers. Int J Sports Sci Coach
+2007; 2: 37–47.
+38. Konstantaki M, Winter EM and Swaine IL. Effects of
+arms-only swimming training on performance, movement
+economy, and aerobic power. Int J Sports Physiol
+Perform 2008; 3: 294–304.
+39. Ribeiro J, Figueiredo P, Sousa A, et al. VO 2kinetics and
+metabolic contributions during full and upper body
+extreme swimming intensity. Eur J Appl Physiol 2015;
+115: 1117–1124.
+40. Erickson K, Bruner MW, MacDonald DJ, et al. Gaining
+insight into actual and preferred source of coaching
+knowledge. Int J Sports Sci Coach 2008; 3: 527–538.
+41. Mallett CJ, Rynne SB and Billett S. Valued learning and
+experiences of early career and experienced high-perfor-
+mance coaches. Phys Educ Sport Pedagog 2016; 21:
+89–104.
+42. Hollander AP, De Groot G, van Ingen Schenau GJ, et al.
+Contribution of the legs to propulsion in front crawl
+swimming. In: Ungerechts B, Wilke K and Reischle K
+(eds) Swimming science V . Champaign, IL: Human
+Kinetics Inc., 1986, pp.39–43.10 International Journal of Sports Science & Coaching 0(0)

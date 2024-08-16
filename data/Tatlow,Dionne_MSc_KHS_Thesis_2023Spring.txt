@@ -1,0 +1,2216 @@
+ 
+  
+ 
+ 
+Injury Prevalence in Open Water  Swimmers  
+ 
+A Thesis  
+Submitted to the Faculty of Graduate Studies and Research  
+In Partial Fulfillment of the Requirements  
+For the Degree of  
+ 
+Master of Science  
+In 
+Kinesiology and Health Studies  
+University of Regina  
+ 
+By 
+Dionne Tatlow  
+Regina, Saskatchewan  
+March, 2023  
+ 
+ 
+ 
+Copyright 2023: D. Tatlow  
+UNIVERSITY OF REGINA 
+FACULTY OF GRADUATE STUDIES AND RESEARCH 
+SUPERVISORY AND EXAMININ G COMMITTEE 
+Dionne Tatlow , candidate for the degree of Maste r of Science in Kinesiology and Health Studies, 
+has presented a thesis titled, Injury prevalence in open water swimmers, in an oral examination 
+held on December 19, 2022 .  The following committee members have found the thesis acceptable in 
+form and content, and that the candidate demonstrated satisfactory knowledge of the subject 
+material. 
+External Examiner: Dr Kati Sofia Pasanen, University of Calgary * 
+Supervisor(s): 
+Committee Member: 
+Committee Member: 
+Chair of Defense: Dr Paul Bruno, Facult y of Kinesiolog y and Health Studies 
+Dr Harold Reimer, Faculty of Kinesiology and Health Studies 
+Dr Julia Totosy de Zepetnek, Facult y of Kinesiolog y and 
+Health Studies 
+Dr Brett Dolter, Department of Economics
+*Attended via Zoom conferencing
+ 
+i 
+ Abstract  
+Open water swimming (OWS) is currently one of the fastest growing mass participation 
+sports worldwide, and  differs from pool swimming in that athletes  swim in natural 
+bodie s of water such as lakes, oceans and rivers . Participation in this sport spans a wide 
+range of individuals  of all ages with a roughly equal  sex distribution . No prior 
+investigations have evaluated the musculoskeletal (MSK) injuries characteristic to the 
+sport in a recreational capacity , and only one group has completed biannual surveillance 
+in an elite population on three occasions . The purpose of the current study was to 
+investigate the prevalence and explore possible risk factors associated with MSK injur ies 
+in non -elite OW swimmers  during the COVID -19 pandemic  (for circumstantial reasons) . 
+Participants were invited  through a variety of social media channels and OWS  
+community communications to complete a self -administered internet -based survey to 
+evaluate the details of any injuries sustained within the previous 6 -month period  and 
+various other demographic and training related details . 156 participants completed or 
+partially completed the survey (95 female , 52 male , 9 did not disclose their sex ; average  
+age 47.7 (12.4) years).  The 6-month prevalence of MSK injury within this population 
+was 30% (n=36), with the most commonly injured region being the shoulder  (n = 25) , 
+and the second most common being  the cervical spine  (n = 6) . A logistic regression was 
+performed to assess the association between self -reports of injury (outcome variable) and 
+various predictor variables. The final model yielded one significant predictor variable: 
+participation in efforts to prevent injury (OR [95%  CI] = 5.004 [1.356, 18.465], Wald = 
+5.843, p = 0.016). Two marginally -significant predictor variables were age (OR [95%  
+ 
+ii 
+ CI] = 1.039 [0.996, 1.084], Wald = 3.093, p = 0.079) and sex (female) (OR [95%  CI] = 
+2.614 [0.852, 8.021], Wald = 2.821, p = 0.093). Results of this study  will be di spersed 
+among the OWS community via academic and open -access publications, and may be 
+used to guide injury prevention and rehabilitation efforts  in this growing population.  
+  
+Keywords : epidemiology, athletic injuries, swimming, sports medicine , sports 
+injury, open water swimming, long distance swimming  
+  
+  
+ 
+iii 
+ Acknowledgments  
+First and foremost, I would like to express my deepest gratitude to my supervisor, 
+Dr. Paul Bruno. Your patience, knowledge  and guidance  over the past three years has 
+been incredible. Th ere were many points when I became frustrated or discouraged with 
+myself that a simple chat would bring me right back on track. So, thank you, I must. 
+Yoda best!  
+I am extremely grateful  to my committee members, Dr. Julia Totosy de Zepetnek 
+& Dr. Harold Re imer. Both of you were always willing to help me with various 
+conundrums and offered wonderful insight and expertise.  
+The Chiropractors Association of Saskatchewan were so gracious in providing 
+funding, assistance, and motivation for this project. As well,  the Faculty of Graduate 
+Studies and Research awarded several scholarships. It made the whole journey  a lot 
+smoother,  and I am deeply appreciative.  
+I would also like to extend my thanks to the folks at  SwimTrek, namely Reggie, 
+who was  always willing to of fer support; from posting recruitment ads to outright 
+providing answers and insight when I asked. I couldn’t have asked for more .   
+ Finally, a n obvious appreciation to Eric , Liz and my family  for the 
+encouragement, support and sometimes much -needed reprie ve from sitting in front of the 
+computer.   
+ 
+iv 
+ Table of Contents  
+Abstract  ................................ ................................ ................................ ...............................  i 
+Acknowledgments  ................................ ................................ ................................ .............  iii 
+List of Figures  ................................ ................................ ................................ ..................  vii 
+List of Tables  ................................ ................................ ................................ ..................  viii 
+List of Abbreviations  ................................ ................................ ................................ ........  ix 
+Chapter 1: Introduction  ................................ ................................ ................................ ...... 1 
+1.1 Purpose  ................................ ................................ ................................ .....................  3 
+Chapter 2: Literature Review  ................................ ................................ .............................  4 
+2.1 Sport Injury Prevention  ................................ ................................ ............................  4 
+2.1.1 Frameworks in Sport Injury Prevention  ................................ ............................  5 
+2.1.2 Key Terminolog y in Sport Injury Prevention  ................................ ...................  6 
+2.2 Prevalence & Risk Factors by Anatomic Location in Swimmers  ............................  7 
+2.2.1 Shoulder Injuries  ................................ ................................ ...............................  7 
+2.2.2 Spine Injuries in Swimmers  ................................ ................................ ............  10 
+2.2.3 Hip, groin and thigh injuries in swimmers  ................................ ......................  16 
+2.2.4 Knee injuries in swimmers  ................................ ................................ ..............  18 
+2.3 Global injury risk & associated factors in swimmers  ................................ ............  18 
+2.3.1 Sex  ................................ ................................ ................................ ...................  18 
+2.3.2 Previous history of injury  ................................ ................................ ................  19 
+2.3.3 Training Load  ................................ ................................ ................................ .. 20 
+2.3.4 Age  ................................ ................................ ................................ ..................  21 
+2.4 Injury Prevention  ................................ ................................ ................................ .... 22 
+ 
+v 
+ 2.4.1 Dryland warmups  ................................ ................................ ............................  22 
+2.4.2 Cros s-training  ................................ ................................ ................................ .. 22 
+2.4.3 Preventative sports health care  ................................ ................................ ........  24 
+2.5 Population comparison  ................................ ................................ ...........................  24 
+2.5.1 Triathlon  ................................ ................................ ................................ ..........  25 
+2.5.2 Elite Open Water Swimmers  ................................ ................................ ...........  26 
+2.6 Survey Design  ................................ ................................ ................................ ........  27 
+2.6.1 Cross -sectional study design & recall bias  ................................ .....................  27 
+2.6.2 Sampling  ................................ ................................ ................................ .........  29 
+2.6.3 Self -administered sur veys ................................ ................................ ...............  29 
+2.6.4 Question design  ................................ ................................ ...............................  30 
+Chapter 3: Objectives & Hypothesis  ................................ ................................ ................  31 
+Chapter 4: Methods  ................................ ................................ ................................ ..........  32 
+4.1 Definitions  ................................ ................................ ................................ ..............  33 
+4.2 Participants  ................................ ................................ ................................ .............  34 
+4.2.1 Participant Recruitment  ................................ ................................ ...................  35 
+4.3 Survey Design  ................................ ................................ ................................ ........  36 
+4.3.1 Demographics  ................................ ................................ ................................ . 36 
+4.3.2 Injury  ................................ ................................ ................................ ...............  36 
+4.3.3 Training Habits  ................................ ................................ ...............................  37 
+4.3.4 Event Participation  ................................ ................................ ..........................  37 
+4.3.5 Injury Prevention Strategies  ................................ ................................ ............  38 
+4.4 Data collection  ................................ ................................ ................................ ....... 38 
+ 
+vi 
+ 4.5 Statistical Analysis  ................................ ................................ ................................ . 38 
+4.5.1 Data entry and data cleaning  ................................ ................................ ...........  38 
+4.5.2 Descriptive Statistics  ................................ ................................ .......................  39 
+4.5.3 Facto rs associated with MSK injury  ................................ ...............................  39 
+Chapter 5: Results  ................................ ................................ ................................ ............  41 
+5.1 Response Rate  ................................ ................................ ................................ ........  41 
+5.2 Epidemiological data regarding injury  ................................ ................................ ... 41 
+5.2.1 Injury Prevalence, Location and Causation  ................................ ....................  41 
+5.2.2 Treatment and Activity Modification  ................................ .............................  43 
+5.3 Demographic Characteristics of the Study Population and Descriptive Statistics  . 45 
+5.3.1 Sociodemogr aphic characteristics  ................................ ................................ ... 45 
+5.3.2 Training Characteristics  ................................ ................................ ..................  49 
+5.3.3 Event Participation  ................................ ................................ ..........................  52 
+5.3.4 Cross -Training and Injury Prevention  ................................ .............................  53 
+5.3.5 Effect of the COVID -19 Pandemic  ................................ ................................ . 55 
+5.4 Prediction an d Injury Risk Factors  ................................ ................................ .........  56 
+Chapter 6: Discussion  ................................ ................................ ................................ ...... 65 
+6.1 Injury Prevalence  ................................ ................................ ................................ ... 65 
+6.2 Sociodemographic Characteristics  ................................ ................................ .........  66 
+6.3 Risk Factor Analysis  ................................ ................................ ..............................  68 
+Chapter 7: Strengths and Limitations  ................................ ................................ ...............  70 
+Chapter 8: Conclusion  ................................ ................................ ................................ ...... 72 
+References  ................................ ................................ ................................ ........................  74 
+ 
+ 
+vii 
+ List of Figures  
+Figure 1. van Mechelen’s model of sport injury prevention …………………………… 6 
+Figure 2. Frequency of years of swimming experience ……………………………… ..50  
+ 
+viii 
+ List of Tables  
+Table 1: Number and location of injury  ................................ ................................ ...........  42 
+Table 3: Sociodemographic charact eristics of the study population  ................................  47 
+Table 4: Modes of Training  ................................ ................................ .............................  52 
+Table 5: Respondents who participate in cross -training activities  ................................ ... 54 
+Table 6:  Directed efforts to pr event swimming -related injuries  ................................ ...... 55 
+Table 7: Step 1: Demographics  ................................ ................................ ........................  57 
+Table 8: Step 2: Demographics + Training  ................................ ................................ ...... 58 
+Table 9: Step 3: Demographics + Training + Wetsuit  ................................ .....................  59 
+Table 10: Step 4: Demographics + Training + Wetsuit + Salt Water  ..............................  60 
+Table 11: Step 5: Demographics + Training + Wetsuit + Salt Water + Other Efforts  .... 61 
+Table 12: Step  6: Demographics + Training + Wetsuit + Salt Water + Other Efforts + 
+Triathletes  ................................ ................................ ................................ .............  63 
+Table 13: Step 7: Demographics + Training + Wetsuit + Salt Water + Other Efforts + 
+Triathletes + Event Distances  ................................ ................................ ...............  64 
+ 
+  
+ 
+ix 
+ List of Abbreviations  
+Body mass index (BMI)  
+Channel swimming association (CSA)  
+Disc degeneration (DD)  
+External training load (ETL)  
+Fédération internationale de natation (FINA)  
+Global swimming series (GSS)  
+Internal training load (ITL)  
+Lake Ontario S wim Team (LOST)  
+Low back pain (LBP)  
+Magnetic resonance imaging (MRI)  
+Marathon swimmers federation (MSF)  
+Mechanism of Injury (MOI)  
+Musculoskeletal (MSK)  
+National Collegiate Athletic Association (NCAA)  
+Open water (OW)  
+Open water swimming (OWS)  
+Training load (TL) 
+ 
+1 
+ Chapter  1: Introduction  
+The 2008 Beijing Olympics marked the introduction of  the 10km open water  
+(OW)  swim into the  Olympic program ; this inclusion  both reflected  and further propelled  
+open water swimming (OWS) events into one of the fastest growing mass participation 
+sports  world -wide (Tipton & Bradford, 2014) . In contrast to traditional pool swimming 
+events , OWS  takes place in natural bod ies of water  (e.g., lakes, oceans, rivers, etc.)  and 
+events are based on water temperature ( e.g., ice swimming occurs in  water <5 °C), 
+distance ( e.g., 10km is a marathon; >15km is  deemed  an ultr amarathon), and/or  event 
+placement ( i.e., either stand -alone , within a triathlon or ‘swim -run’) (International Ice 
+Swimming Association, 2019 ; FINA, 2019 : FINA, 2017 ). OW swimm ing requires 
+athletes to perform repetitive sport -specific movements  of the upper and lower limb s to 
+propel the swimmer forward in the water , while both stabilizing the core and rotating 
+various spinal segments. This has the potential to place the OW athle te at an increased 
+risk of injury. Despite the popularity  of the sport,  there have  been minimal investigations 
+related to  the risk of injury within this growing population. Therefore, investigation of 
+injury type, prevalence  and possible risk factors in  adult recreational OW swimmers is 
+required  to guide the development of  sport -specific prevention strategies.   
+The rules and regulations of marathon OWS are quite diverse ; FINA, the  
+International Swimming Federation, gover ns international competitive programm ing 
+whereas  local associations tied to a body of water typically  govern geographically 
+adjacent  swims . For instance, the Channel Swimming Association (CSA) is a governing 
+body regulating swimmers attempting to swim  the English Channel.  In countries  where 
+long-distance OWS  is less popular , swimmers may opt to complete swims according to 
+ 
+2 
+ rules and regulations set out by the Marathon Swimmers Federation (MSF) and hire a 
+third -party observer to ratify their swim  (Marathon Swimmers Federation , 2020) . The 
+majorit y of OWS  associations  have rules congruent with those of the MSF and they also  
+seem to  share a large cohort of administrative members. Therefore, the MSF tends to act 
+as an overarching regulatory body for those swimmers completing swims outside of  
+FINA -regulated and mass -participation , community -based  (unaffiliated ) events.  
+FINA governs competitive OWS events , which  includ e the world championships , 
+the Olympic Games, and various international competitions . However, the number of 
+athletes participati ng in community -based  events  and MSF -sanctioned swims  
+outnumbers  those competing  in the FINA circuit . The Global Swimming Series (GSS), 
+founded by Canadian Rob Kent in 2014 is an OWS  series with the ultimate goal of 
+developing the sport and connecting swimmers fr om around the world  (Global Swim 
+Series, n.d.) . Prior to the COVID -19 pandemic, the  GSS included  over 100,000 
+swimmers in 156 races  and 37 countries  competing in distances from 1  to 25 kilometers 
+(Global Swim Series, n.d.) . These  races are generally commun ity-sanctioned with  very 
+few being formally regulated  by either FINA or the MSF. Further, the GSS is not an 
+exhaustive database of OW swims; there are many unaffiliated races and solo swims 
+attempted outside of structured regulatory bodies . Thus, one may c onclude that 
+participation in OWS  events is not limited to young competitive swimmers, but in fact 
+may be dominated by  swimmers participating outside of FINA -sanctioned events . 
+Because of the diverse nature of these events , it is difficult to tabulate an a ccurate 
+representation of the population ; however, Bal dassarre et al . (2017) reported that the 
+average age of athletes  who have successfully swam  the Catalina or English Channel (20 
+ 
+3 
+ and 21 miles, respectively) is roughly 40 years of age  and a roughly equal  split between 
+male and female swimmers .  
+Prior research into the health of OW swimmers has largely focused on medical 
+concerns and physiological factors concerned with thermoregulation, body composition 
+and environmental exposure s (Baldassarre et al ., 201 7). Musculoskeletal  (MSK)  injury 
+prevalence and injury -prevention strategies  among the OW swimmer population have 
+largely been either anecdotally generated or theoretically deduced from research 
+conducted among  pool-swimmers  (Baldassarre  et al., 2017 ; Khod aee et al., 2016 ). There 
+has been a small emergence of data collected among elite OW swimmers competing at 
+the biennial FINA world championships, however, there appears to be no published 
+reports on MSK injury prevalence in a non -elite OW swimming populati on (Mountjoy et 
+al., 2016). Given that the distances swam in OW events are considerably greater than 
+pool swimming events (the farthest pool swimming event is 1500m) and the OW 
+swimmers’ dependence on capricious water conditions, an investigation into the MSK 
+injuries characteristic to the sport is necessary to better guide injury prevention and 
+rehabilitation efforts within this growing population of OW swimmers.   
+    
+1.1 Purpose  
+The purpose of this survey study was to investigate the prevalence and explo re 
+possible risk factors associated with MSK injuries in non-elite OW swimmers  during the 
+COVID -19 pandemic . The reasoning for this timing was circumstantial given that this 
+study was completed as part of a Master’s degree with a timeline that coincided wi th the 
+pandemic . Descriptive statistics were  used to analyze injury prevalence , and regression 
+ 
+4 
+ analyses were used to assess the association between self-reports of injury and several 
+self-reported training factors, event participation, and injury preventio n efforts.   
+ 
+Chapter  2: Literature Review  
+There  is currently n o peer-reviewed  published  literature that has investigated  
+MSK injuries in a non-elite OWS  population . Thus, studies investigating injury 
+prevalence and associated risk factors in similar popula tions were  used as a guid e. Most 
+swimming research has been conducted in pool swimmer s; however, smaller and less 
+rigorous explorations of injury epidemiology and risk factor analysis have been 
+conducted in masters ’ pool swimmers, triathletes, elite OW swimmers, as well as the 
+broad category of ‘aquatic athletes’  (Wolf et al., 2009; Baker et al. , 2019;  Feijen et al., 
+2020; Johnston et al., 2019; Mountjoy et al., 201 6; Zwingenberger et al., 2014) . As such , 
+these investigations  will be used for comparison with the OW swimming population  in 
+this literature review .  
+ 
+2.1 Sport Injury Prevention  
+Sport -related injuries are significant, not only because of various factors relating 
+to one’s physical and mental health ( e.g., decreased participation and enjoyment in 
+sport), but the total injury burden also contributes to components of population health 
+such as the costs associated with absenteeism from school and work, as well as 
+healthcare costs associated with obesity and chronic disease management (Emery & 
+Pasanen,  2019).  
+ 
+ 
+5 
+ 2.1.1 Frameworks in Sport Injury Prevention  
+In 1992, van Mechelen proposed a four -step model for injury prevention  that has 
+since become the groundwork for many sport injury prevention programs (Emery & 
+Pasanen, 2019).  The model  begins with deter mining  the extent of injury within a 
+population  (step A), followed by  establishing the etiology and mechanisms associated 
+(step B) (Emery & Pasanen, 2019). Once the injury mechanisms are understood , 
+preventative measures and strategies can be introduced  (step C), and finally, their 
+effectiveness can be evaluated by repeating the first step of the model (step D) (Figure 1) 
+(van Mechelen et al., 1992; Emery & Pasanen, 2019) . Given the paucity of research 
+concerning injuries in recreational OW swimmers, this s tudy focuses on the first two 
+steps of the van Mechelen model . The primary  aim was to establish  the 6 -month 
+prevalence of MSK injuries within this population, followed by an exploration into 
+potential cause s, mechanism s and risk/preventative factors associ ated with such injuries .  
+  
+ 
+6 
+ Figure 1 : The model for sport injury prevention as described by van Mechelen  
+ 
+ 
+2.1.2 Key Terminology in Sport Injury Prevention  
+ Measuring injury in a population may be done several  different ways , with 
+incidence and prevalenc e being the most commonly used. Incidence is defined as  the 
+number of new injuries within a particular timeframe  in a defined population , while 
+point -prevalence is the total number of injuries  at a given point in time; this  may include 
+old injuries that be gan prior to the assigned time period ( Kuhn et al., 1997 ). The 
+timeframe for the current study is further discussed in Section 2.6.1 , with a 6-month 
+prevalence being selected to remain consistent with recreational running related injuries 
+(Yamato et al., 2 019).  
+ In the second step of the model proposed by van Mechelen and colleagues, 
+researchers aim to identify risk factors and etiology  associated with each injury . Risk 
+factors are the descriptors  that relate to the reasons  an athlete may be at risk for in jury in A. Establishing 
+the extent of the 
+injury problem: 
+Incidence & 
+severity 
+B. Establishing 
+the aetiology and 
+mechanism of 
+injury
+C. Introducing a 
+preventive 
+measureD. Assessing 
+their 
+effectiveness by 
+repeating step A.
+ 
+7 
+ a given situation , and injury  mechanisms are how the injury happens (Bahr & Holme, 
+2003). There are two broad groups of risk factors: intrinsic and extrinsic (Bahr & Holme, 
+2003).  Intrinsic (internal) risk factors relate to the athlete while extrinsic (external) risk 
+factors relate to the environmental (Bahr & Holme, 2003). Each factor can also be 
+further described as modifiable or non -modifiable, depending on whether it can be 
+changed (Bahr & Holme, 2003). For example, age is non -modifiable wherea s training 
+mileage is modifiable. It is important to note that risk factors may be related to injury but 
+are not necessarily related to causation (Meeuwisse, 1994). Risk factors, mechanisms, 
+and the complex interaction between them must be explored in orde r to establish a 
+complete understanding of the injury (Bahr & Holme, 2003).  
+ 
+2.2 Prevalence  & Risk Factors  by Anatomic Location  in Swimmers  
+ 
+2.2.1 Shoulder  Injuries  
+ 
+2.2.1.1 Prevalence  
+In the 1970s , Hawkins and Kennedy coined the term  “swimmers’  shoulder”  due 
+to the high prevalence of shoulder injury reported among the  swim team  at the 1972 
+Olympic games  (Kennedy et al ., 1978) . This term was initially defined as anterior 
+shoulder pain created by “impingement of the rotator cuff under the coracoacromial 
+arch”; however, it has since been generalized to indicate any pain localized to the 
+shoulder region without regard for the mechanism or anatomical structures involved 
+(Struyf et al., 2017 p. 775). Shoulder injury has since been investigated in numerous pool 
+ 
+8 
+ swimming populations with reported  prevalence ranging from 20.8 to 91% (Sein et al ., 
+2010; Wanivenhaus et al ., 2012; Tate et al ., 2012). Prien et al ., (2017) conducted a 
+review of the injuries reported at the FINA aquatic world championships in 2009, 2013, 
+and 2015 and reported that shoulder injuries are the most common complaint cited by 
+other aquatic sporting populations as well ( e.g., elite water polo, high -diving, diving, 
+synchronized swimming, OW and pool swimmers). They postulated that the upper limbs 
+are responsible for generating the majority of the propulsive force to travel  through water 
+across aquatic disciplines and  attributed this  to the increased  risk o f injur y to the 
+shoulder complex  (Prien et al ., 201 7).  
+ 
+2.2.1.2 Risk Factors  
+Risk factors ass ociated with developing shoulder pain in pool swimmers are not 
+universally agreed upon ; however, a systematic review  of various studies which utilized 
+both self -administered surveys and clinical assessments,  by Hill et  al. (2015 ) concluded  
+with a ‘moderate ’ degree of certainty that clinical joint laxity, glenohumeral rotation 
+range of motion, previous history of pain and injury as well as the competitive level of 
+the swimmer were associated with an increased  risk of injury  (no risk factors were listed 
+with a ‘high’ degree of certainty of associat ion with shoulder injury ). It must be noted 
+that a self -administered survey  cannot provide a valid measurement of glenohumeral 
+laxity and range of motion , and therefore was not addressed in the questionnaire used in 
+the current study . However,  there has been association reported between a history of 
+traumatic shoulder injury and glenohumeral laxity , which suggests that future studies 
+should distinguish  the nature of any prior injury reported  to yield more descriptive 
+ 
+9 
+ results  (i.e. traumatic vs overuse) (Hill et al ., 2015). The majority of investigations into 
+the development and diagnosis of shoulder pain in swimmers has been done clinically , 
+without the use of imaging ; however, Sein et al. (20 10) examined 52 competitiv e 
+swimmers ’ shoulders via magnetic resonance imaging (MRI). They found a positive 
+association between training volume (weekly meterage and duration) and pain attributed 
+to either internal or external rotation -inducted shoulder impingement (Sein et al. , 2010). 
+They also reported that thickening of the supraspinatus tendon as evaluated by MRI was 
+correlated with increased training time, training distance and cumulative shoulder use 
+(Sein et al., 20 10). The MRI study by Sein et al. was one of twelve included i n a 2020 
+systematic review by Feijen, et al., in which they concluded a level II level of evidence 
+between the association of swim -training volume and shoulder pain in an adolescent 
+population (15 -17yoa) and a level III level of evidence in young (<15yoa),  adult (18 -
+23yoa) and masters (23 -77yoa) population s.  
+The association between shoulder injury and biological sex has been investigated 
+with varying results . Hill et al. (2015) cited five studies that investigated this association 
+with only one retrospecti ve study reporting a significant increase in shoulder pain among 
+female swimmers. This lead Hill et al. to refute an association between sex and shoulder 
+pain. However, when one examines the other four studies cited by Hill et al ., it appears 
+that at least  one of these studies suggested an  association between sex and shoulder pain 
+prevalence. Kruger et al. (2012) investigated shoulder pain among a group of 282 
+master’s swimmers and found a slightly elevated odds ratio of 1.34 (95% CI, 0.829 -
+2.179 ) for shoul der pain among female swimmers . Additionally, in a retrospective 
+survey of 194 Italian teenage swimmers, the authors reported that female swimmers were 
+ 
+10 
+ more likely to experience shoulder pain (Tessaro et al ., 2017).   Bak & Faun o (1997) 
+proposed the increas ed risk of shoulder injuries in female swimmers may be associated 
+with an average elevated number of strokes per lap (presumably due to shorter arms  on 
+average ) as compared to their male counterparts. They proposed that b iomechanically , 
+this may predispose  female swimmers to overuse injury  because of an increased average 
+of strokes per lap  (Bak & Faun o, 1997). In conclusion, the possibility that female 
+swimmers report an elevated number of shoulder injuries is inconclusive ; however, Bak 
+& Faunn (1997) prese nted a plausible theoretical basis and the literature does not present 
+a unified conclusion. Therefore, it is worthwhile to study th e relationship between sex 
+and injury in OW swimmers, especially due to the presumed discrepancies in stroke 
+count over the large distances covered in OWS events.  
+ 
+2.2.2 Spine  Injuries in Swimmers  
+ 
+2.2.2.1 Prevalence  
+Axial  injuries are not uniformly tabulated across the literature . Two studies using  
+data generated  from prospective injury and illness reporting software in  NCAA  
+swimmers reported that neck injuries accounted for  3.2%  of total reported injuries , and 
+the vague terms of  ‘back’  or ‘trunk’ injuries comprised 16.2%  of the total reported 
+injuries (Chase et al ., 2013 ; Kerr et al ., 2015 ). Another prospective study of NCAA 
+swimmer ’s reported that 21.5% of the total reported injuries were attributed to the neck 
+and back , with no distinction between the  axial skeleton  segments  (cervical, thoracic, 
+lumbar or sacral)  (Wolf et al ., 2009) . Furthermore, a systematic review by Hill et al. 
+ 
+11 
+ (2022) grouped neck and back together, but noted it was the third most commonly 
+reported anatomical site for injury (behind the shoulder and knee) and cited incidence s 
+(point -prevalence to  12 months)  varying from 18.4% to 47%.  Nevertheless, given th at 
+reports of cervical pain are quite low , it appears that  neck pain  composes less of the 
+injury burden than that of other areas of the axial spine. Yet it appears  more of an effort 
+should be made in future research to specify  the precise anatom ic region o f any injuries 
+reported.  
+ There have been a handful of studies , most of which appear to come from the 
+same research group, that specifically investigated  low bac k pain (LBP) within a pool 
+swimming population and reported lifetime prevalence ranging from 2 3.5%-76% 
+(Hangai et al ., 2009; Kaneoka et al ., 2007 ; Matsuura et al., 2019 a). Matsuura et al . 
+(2019 a) investigated MSK injuries reported by Japan national swim mers from 2002 -
+2008 and found  that lumbar  spine  injuries were more prevalent than any other injur y site, 
+including the shoulder.  Although this is limited to a single national team and may be due 
+to several  confounding factors  (e.g., coaching style, lifestyle factors, education regarding 
+injury prevention, dryland workouts, etc.) , it is notable that LB P has been documented as 
+being relatively problematic within a population of elite swimmers.   
+Hangai et al . (2009) investigated the prevalence of LBP among various athletic 
+populations , including swimmers,  in comparison to a non -athletic control group. The 
+authors collected demographic information and asked clinical questions regarding the 
+lifetime and past four -week incidence of LBP and its severity ; a midsagittal  MRI of the 
+lumbar spine (L1 -2 to L5 -S1) was also reviewed  for each subject (Hangai et al., 20 09). 
+The authors defined disc degeneration (DD) as either multi -level degeneration of grade I 
+ 
+12 
+ or higher, or a singular level of grade III, IV or V degeneration, according to a 
+Phirrmann classification (Hangai et al., 2009). They reported an odds ratio of 2 .76 (95% 
+CI: 1.24-6.49) for LBP in a sample of 47 university -level swimmers as compared to  a 
+non-athletic control  population  (Hanga i et al., 2009).  Notably, swimmers and baseball 
+players exhibited the  highest prevalence of multi -level  DD findings  (other sp orts 
+included were basketball, kendo, soccer and running) ; however, the authors did not 
+comment on the severity  of the DD , but they did note an  association between reported 
+LBP and  the presence of DD (Hangai et al., 2009). Comparatively, Kaneoka et al . (2007) 
+investigated the prevalence of LBP and lumbar DD in two distinct groups of swimmers : 
+a ‘high -load’ group consisted of 56 university level swimmers and a ‘low-load’ group 
+consisted of 28 swimmers who belonged to a recreational swim club. They found the 
+prevalence  and severity of LBP to be similar between the two groups ; however, the 
+‘high -load’ group exhibited significantly more DD when  evaluated by MRI , although  the 
+authors reported no  association between LBP and DD within th is sample  (Kaneoka et al., 
+2007). Although this study appears to be from a similar group of authors, their definition 
+of DD was the presence of grade III, IV, or V degeneration evaluated segmentally , and 
+they did not discuss multi -level findings (Kaneoka et al., 2007).  
+These conflic ting findings  appear to be congruent with investigations associating  
+DD and LBP in  the general population  (Brinjikji et al., 2015 ; Endean et al., 2011 ). In a 
+systematic review, Brinjikji et al . (2015) concluded that imaging evidence of DD 
+increases with ag e and is not highly correlated with the presence of LBP. Conversely , 
+another systematic review  estimating the association of DD and LBP , as evaluated by 
+MRI,  reported a metaestimate of an odds ratio of 2.5 (95% CI, 2.0 -7.4) (Endean et al., 
+ 
+13 
+ 2011). Regardles s of the association between DD and LBP,  complaints of LBP among 
+swimmers appear to be relatively common  within the pool -swimming population and the 
+suggested mechanism , as reviewed below,  is shared with their OW counterparts (Hangai 
+et al., 2009; Kaneoka et al., 2007).   
+ 
+2.1.2.2 Risk Factors  and Mechanisms  (Cervical Spine)  
+In their recent systematic review,  Hill et al. (2022) noted with a low level of 
+certainty that sex  (female)  and training volume may be associated with the development 
+of neck pain and L BP. In a retrospective survey study of 87 triathletes , Villavicencio et 
+al. (2006) found an association between the development of neck pain and the number of 
+previous sports -related injuries, although most athletes attributed their neck pain to 
+cycling in stead of swimming.  
+Pollard and Fernandez (2004) reviewed the possible mechanisms for cervical 
+spine injuries in swimmers and noted that older swimmers may be more likely to develop 
+neck pain due to an increased likelihood of degenerative changes such as d isc 
+dysfunction and spondylosis throughou t the cervical spine. They noted that any deviation 
+of the spine from the longitudinal axis could cause extension and rotation through the 
+neck, which would create excess stress through the elements of the cervical spinal 
+column and musculature (Pollard & Fernandez, 2004). This extension would occur if a 
+swimmer was breathing or looking forward , which is rather disadvantageous  when 
+swimming freestyle in a pool because neck extension while swimming  forces the hips to 
+fall in the water and creates more drag (Pollard & Fernandez, 2004). Notably,  there is no 
+guiding line to follow while OWS  and the swimmer must instead ‘sight’ , which is when 
+ 
+14 
+ the athlete looks forward above the water to orientate themselves. Depending on t he 
+swimmer ’s technique and ability, as well as water and environmental conditions, 
+swimmers may sight as often as every 6  to 20  strokes  with varying degrees of cervical 
+extension , which would creat e a possible mechanism for injury  (Pollard & Fernandez, 
+2004). It appears that t his has not been investigated within the available literature.   
+ 
+2.2.2.3 Risk Factors  and Mechanisms  (Lumbar Spine)  
+Seemingly  there has recently been an effort to describe low back injuries, their 
+mechanisms, and possible risk factors  more specifically  within swimming -related 
+literature . Reviewing  the proposed  mechanism for the development of lumbar pain, 
+Nyska et al . (2000 ) suggested  that repeated lumbar flexion/extension during the butterfly 
+and breaststroke may act as  a mechanism fo r spondylolysis in adolescent swimmers , 
+although subsequent  studies have failed to find a  clear  association between stroke 
+specialty and reports  of LBP (Capaci et al ., 2002; Kaneoka et al ., 2007; Nyska et al ., 
+2002). Another  proposed mechanism associated w ith lumbar pain in swimmers is 
+prolonged lumbar hyperextension , which place s excess  stress on the posterior structures 
+of the lumbar spinal column  including the pars interarticularis and facet joints  
+(Wanivenhaus et al ., 2012) . Matsuura et al. (2019b) inve stigated the immediate effect of 
+deep trunk stabilization exercises on lumbar lordosis angles while swimming in 13 
+university -aged swimmers. They reported a decrease in the lumbar lordotic angle  when 
+swimming  (i.e. less extension through the lumbar segment s) immediately after the 
+exercises were performed (Matsuura et al., 2019b).  It is important to note that this 
+research was done in a healthy , pain -free, population of 13 university -aged swimmers, 
+ 
+15 
+ and would therefore provide only a theoretical basis for the  prevention or treatment of 
+LBP in swimm ers using an exercise -based approach . However, the exercises utilized in 
+this study were the same used in the ‘lumbar injury prevention project’ , which was 
+initiated in 2009 with the Japanese national swim team (Mats uura et al., 2019a). The 
+lumbar injury prevention project consisted of an initial period of education and 
+instruction on prevention strategies for lumbar injury (i.e. trunk stabilization and core 
+muscle activation) followed by guidance for daily implementa tion within the athlete’s  
+subsequent training (Matsuura et al ., 2019a). The authors reported a significant decrease 
+in the prevalence of lumbar injury  from 23.5% to 14.8% (p<0.05) after the program was 
+implemented in 2009 and lasting until  data collection commenced in  2016 (Matsuura et 
+al., 2019a). Perhaps with more research, the findings between both Matsuura papers 
+could be extended and a link between deep muscle activation and LBP could be 
+established (Matsuura et al., 2019a).  
+A 2006 study by Villavicen cio investigated  neck and spine pain in 87 triathletes 
+via a retrospective survey study. Through regression analysis, they reported two 
+predictive factors for the development of LBP: the number of prior incidents of sporting -
+related injuries, as well as th e number of triathlons the respondents participated in 
+(Villavicencio et al. , 2006). They did not elaborate on these previous injuries, and 
+although triathletes train in OWS , a higher proportion of their training time was reported 
+to be spent on the bicycl e (Villavicencio et al. , 2006). Nevertheless, prior reports of 
+injury were also included in the questionnaire  used in the current study .  
+Notably, a  major difference between swimming in a pool compared to OWS is 
+the presence of a  turn at  the wall after the  swimmer completes a  length of the pool ; this 
+ 
+16 
+ movement  inevitably involves a period of lumbar flexion , which  theoretically  would 
+briefly unload  the posterior elements of the lumbar spine. Thus, OW swimmers may be 
+more predisposed to prolonged hyperextensio n than pool swimmers due to the distance 
+of the swimming events and the absence of an embedded moment of lumbar flexion 
+while the swimmer turns at the wall of a pool.   
+ 
+2.2.3 Hip, groin  and thigh  injuries in swimmers  
+Hip, groin  and thigh  complaints are not  uniformly tabulated within the existing 
+literature. Wolf et al . (2009) reported hip/thigh complaints in 7/94  (4.3%)  NCAA 
+swimmers over the course of five years within one swim team , and Kerr et al . (2015) 
+reported a 4.8% prevalence of hip/groin pain over four years in a separate study of 
+NCAA swimmers and divers  (these populations were not separated for the statistical 
+analysis). A nteromedial hip and thigh pain is typically attributed to adductor strain 
+associated with the whip -kick motion of breaststroke  (Gaunt & Maffulli, 2011). Further, 
+an investigation of 296 NCAA swimmers reported a 6.92% point -prevalence of hip pain  
+in breaststroke swimmers as compared to 0% in non -breaststroke swimmers (Grote et al., 
+2004). The authors also found that 42.7% of breast stroke swimmers compared to 5.8% of 
+non-breaststroke swimmers had experienced an episode of hip pain that limited their 
+ability to swim or kick breaststroke within the previous year (Grote et al ., 2004). Given 
+that OW swimmers typically rely on freestyle s troke (and therefore using flutter kick), 
+the prevalence of hip pain in an OW population was postulated to differ  from that 
+reported in pool swimmers.  
+ 
+17 
+ Prior to the current study commencing,  the author participated in personal 
+anecdotal conversation s with various groups of long-distance OW swimmers . It appear ed 
+that the re was perhaps an  undocumented phenomenon of anterior hip discomfort and 
+tightness (loosely referred to as “tight hip flexors”) that may be common within this 
+population. A blog post from an A ustralian physical therapy group reported tightness and 
+dysfunction in the rectus femoris, iliopsoas and tensor fascia latae to be common in 
+swimmers and attrib uted this  to sustained, powerful activation of these muscles over a 
+small range of motion of the  hip joint (Physiohealth, 2020). Kitamura et al. (2020)  
+investigated the elastic moduli of the iliacus and psoas muscles  (separately) in 33 male 
+college -level swimmers , 11 of which reported LBP and 21  healthy controls . They 
+reported  that a higher  elastic m odulus of the psoas ( i.e., stiffer)  was correlated with the 
+presence of LBP. Their study was of cross -sectional design ; however, they suggested 
+two possible mechanisms for this: the first being that a stiffer psoas major would exert a 
+force on the lumbar s pine favoring extension ( particularly  from L1 -L3) and the second 
+being that increased tension through the psoas major would cause a shearing force 
+through the lower levels of the lumbar spine (Kitamura et al., 2020). Both prolonged, 
+exaggerated extension, as well as a shearing force could be responsible for the generation 
+of pain within the lumbar region (Kitamura et al., 2020). This mechanism of LBP has 
+also been investigated in other sports  as well ; Evans et al . (2005) found an association 
+between tight h ip flexors, as measured by a modified Thomas test, and LBP in a group of 
+elite golfers. The Evans study was included in a review article by Moradi et al . (2015)  
+that reported a ‘moderate’ level of evidence that hip flexor tightness is positively 
+associated  with LBP.  
+ 
+18 
+  
+2.2.4 Knee  injuries in swimmers  
+Knee pain represented only 6% of the total injury burden within a sample of 499 
+masters pool swimmers (Baker et al ., 2019). The prevalence of knee injuries among 
+competitive swimmers may be as high as  76%. Howev er, like hip pain, knee pain 
+appears to disproportionally affect  competitive swimmers who specialize in breaststroke  
+(Chase et al ., 2013; Gaunt & Maffulli, 2011). The biomechanics of the kicking motion 
+for the breaststroke differs greatly from that of dolp hin kick or flutter kick used in 
+butterfly and freestyle swimming, respectively , by including a rotary movement at the 
+hip that results in a valgus force at the tibiofemoral joint  (Khod aee et al ., 2016). As 
+above, because OW swimmers typically rely on a fr eestyle stroke, t he prevalence of knee 
+pain in this population is likely to differ from that in pool swimmers.  
+ 
+2.3 Global injury risk & associated factors  in swimmers  
+ 
+2.3.1 Sex 
+The association between swimming -related injuries and biological sex has bee n 
+reported with no clear consensus reached; Martins et al . (201 4) surveyed 47 elite 
+swimmers at the 2009 FINA World Championships and reported an 18% prevalence of 
+injury in male  athlete’s  vs 75% in their female counterparts  without explanation . 
+However, i t must be noted that when Prien et al. (2017) compiled the injury surveillance 
+data from three FINA world championships (2009, 2013, 2015) this discrepancy was not 
+maintained, and in fac t, was insignificantly reversed  with males reporting slightly more 
+ 
+19 
+ pre-competition injuries than female athletes in the four weeks leading up to  the 2015 
+competition. An  increased prevalence of injury in female swimmers has also been 
+reported in two separate samples of NCAA swimmers  and a group of Japanese national 
+swim team  members , with two of these long -term studies  reporting a statistically 
+significant difference in injury rates between the sexes  (Chase et al ., 2013; Wanivenhaus 
+et al., 2012 ; Matsuura et al., 2019a ). There is currently no explanation widely offered to 
+explain why female swimmers may be more predisposed to MSK injuries  and a 
+definitive conclusion has not been reached within the literatur e. Perhaps it is due to 
+smaller average body size, which would alter biomechanical factors  as previously 
+discussed . Howeve r, this may also involve numerous other differences  related to sex and 
+gender such as  anatomical characteristics,  hormonal or  neuromuscular control and/or 
+societal or environmental variances (Lin et al., 2018).  
+ 
+2.3.2 Previous history of injury  
+ There  appears to be a global increased risk of injury when the athlete has a ny 
+previous history of injury. In a prospective study of NCAA swimmers , Chase et al . 
+(2013)  found an increased risk of injury, not only if the athlete reported previous pain at 
+the same ana tomic site, but also if the athlete reported any prior incidence of injury at all. 
+Additionally, Gosling et al . (2008) cited two studies that reported an increased incidence 
+of injury in triathletes who have reported any prior history of injury or pain . Korkia et al. 
+(1994) conducted  an eight -week prospective study of 155 British triathletes and reported 
+an increased incidence of injury in those who reported they sustained an injury in the 
+year prior to the beginning of the study onset . 
+ 
+20 
+  
+2.3.3 Training Load   
+Training load  (TL)  is a risk factor that has received recent attention due to its 
+modifiable nature (Eckard et al., 2018).  It can be defined as “the cumulative amount of 
+stress placed on an individual from single or multiple training sessions over a per iod of 
+time”  (Eckard et al., 2018, p. 1930) and can be measured in a variety of ways . The 
+quantification of training load is multifactorial and a number of metrics have been 
+identified to best quantify this in relation to each individual athlete (Eckard et  al., 2018). 
+These include external or internal training load (ETL/ITL) ; ITL involves the 
+quantification of an athlete ’s response to loading and can be measure d objectively  (e.g., 
+blood lactate , heart rate)  or subjectively  (e.g., self-reported measures) , while ETL is a 
+purely objective measurement ( e.g., distance , duration).  Further, load quantification can 
+also be classified as absolute or relative (Eckard et al., 2018). Relative loads consider  a 
+number of external and internal metrics and tend to express variance in load across time 
+periods , while  absolute loads are simply the sum of loading metrics over a given period 
+of time  (Eckard et al., 2018). In a systematic review of 57 studies examining various 
+measurements of training load and risk of injury, Eck ard et al. (2018) found that studies 
+that monitored relative TL demonstrated that small to moderate changes in TL compared 
+to previous loading was “associated with a reduced risk of injury compared with larger 
+or smaller changes” (p.1957). This finding may  explain the findings in a study by Chase 
+et al. (2013) who found that first -year NCAA swimmers were at an increased risk of 
+injury as compared to 2nd through 4th year athletes , as well as the systematic review by 
+Feijen et al . (2020) that reported a stron ger association between training volume and 
+ 
+21 
+ shoulder pain in adolescents (15 -18 years of age) vs. adults (18-23 years of age) . Both 
+authors  postulated that this  phenomenon may be  due to the abrupt changes in TL that 
+occur when the athlete enters competitiv e training as an adolescent, or moves from high 
+school -level to university -level swim programs (Chase et al ., 2013 ; Feijen et al., 2020 ). 
+Further, an earlier investigation by Wolf et al. (2009) also noted an increased prevalence 
+of injury in college freshm an as they adapted to the new demands of collegiate -level 
+training.   
+The measurement of smaller cycles of TL is difficult within a retrospective 
+survey study, as is a gross measurement of various internal or relative TL metrics ; 
+however, it is  worthwhile t o investigate  aspects of swimmers ’ TL such as meterage  and 
+duration across TL cycles (i.e. , seasons)  to obtain more information regarding 
+progressive loading and training habits .  
+ 
+2.3.4 Age 
+Tate et al . (2012)  examined 236 swimmers aged 8 -77 and found that  masters 
+swimmers aged 23  and over  (n=67) were not at an increased risk of shoulder pain in 
+comparison to younger age groups (8 -11 years, 12 -14 years, 15 -22 years) ; however, they 
+did not examine variances within this group to investigate if injury rates ch ange as 
+masters athlete s age from their early twenties onwards . Conversely, Baker et al . (2019)  
+did investigate global injury rates within a sample of 499 masters pool swimmers aged 
+20-86 years and reported an increased risk of injury of 1.6% with every ye ar of 
+increasing age. The authors negated the importance of this value ; however, if one 
+considers a 16% increase over a 10 -year span, it may  warrant further attention.  Further, 
+ 
+22 
+ if this increase was not linear it would be interesting to note the trends the authors may 
+have found .  Therefore, investigating the relationship between age and injury incidence 
+should be prioritized.  
+ 
+2.4 Injury Prevention  
+ 
+2.4.1 Dryland warmups  
+Dryland  warmups  prior to athletes entering the pool for a training session  appear 
+to be a common practice in the pool swimming population  (Mcgowan et al.,2016) ; 
+however, there appears to be only one study  investigating the relationship between 
+dryland warmups and the incidence of injury. T essaro et al. (2017)  focused their 
+investigation on  the prevention of injuries to the shoulder complex and conducted a 
+retrospective observational study of eight groups of Italian  teenage competitive 
+swimmers  (n=197) . They  found that a pre -swim dryland warm -up lasting  5-10 minutes 
+was associated with a red uction in injury  whereas a warmup lasting over 10 minutes was 
+associated with increased shoulder injury  (Tessaro et al., 2017). Given that OW 
+swimmers may engage in the practice, and it has previously been shown to affect the 
+incidence of injury, it is wor thwhile to investigate  this within an OW swimming 
+population.  
+ 
+ 
+ 
+2.4.2 Cross -training  
+ 
+23 
+  Cross -training or  participating in athletic activities outside of one’s primary sport, 
+is a common method employed to maintain or improve sport  performance components 
+such as aerobic fitness or muscular strength while off -loading the tissues exposed to the 
+“repetitive stress of sport -specific training” (Baker et al ., 2019, p . 52). Baker et al . 
+Conducted a survey study of 499 masters pool swimmers and investigated the 
+association between injury prevalence and participation in a cross -training activity. They 
+reported that swimmers who opted to participate in cycling, running or ‘dryland training’ 
+activities reported significantly less injuries than those who did not. Conver sely, Tate et 
+al. (2012) found that participation in water -polo was associated with an increased risk of 
+shoulder pain, disability or dissatisfaction in a study of 236 female pool swimmers aged 
+8-77 years of age. It must be noted that the shoulder injury r ate in water -polo is also 
+elevated due to the reliance on the upper limb for propulsion , and the movement patterns 
+used in water -polo would be similar to swimming, which in turn would fail to properly 
+off-load the sport -specific musculature that is subject  to overuse injuries in the pool 
+swimming population ( Prien  et al., 201 7).  
+A survey study of 500 aquatic athletes competing at the 2017 FINA world 
+championships reported that although injury rates remained stable across all countries 
+regardless of success , the athletes competing for countries with higher rates of success 
+reported higher participation in dryland injury prevention exercises (Mountjoy et al., 
+2021).  The authors went on to note that this was an unexpected finding and may be 
+explained by the fa ilure of their survey to capture the severity of the reported injuries 
+(Mountjoy et al., 2021).  Further, a  recent review investigated the value of exercise 
+therapy interventions on reducing shoulder pain and concluded that a 6 -to-8 week 
+ 
+24 
+ program that includ es strengthening and stretching exercises can decrease the incidence 
+of shoulder pain in swimmers (Yoma, et al., 2022 ), although it must be noted that the 
+swimmers had already sustained a shoulder and the program was being used as a 
+treatment. It appears t hat there is a gap in the literature surrounding the effectiveness of 
+targeted dryland exercises at preventing the onset of MSK injury.  
+ 
+2.4.3 Preventative sports health care  
+Currently there are no published studies investigating the role of preventative 
+visits to health care professionals such as registered massage therapists, physical 
+therapists, osteopaths,  or chiropractors  in the prevention of MSK injuries  in swimmers . 
+As aforementioned, Mountjoy, et al . (2021) surveyed 500 elite aquatic athletes 
+compe ting in the 2017 FINA world championships and found that countries ranking 
+higher in the world standings had better access to support staff, including massage 
+therapy and physical therapy. Furth er, personal communication with OW swimmers 
+suggests that many  visit health care professionals in a preventative capacity.  Thus, 
+descriptive statistics would be beneficial to understand the utilization of such services  in 
+this population .  
+ 
+2.5 Population comparison  
+As described above, the majority of research on swi mming has been conducted in 
+a population of elite pool swimmers. Howeve r, research conducted in  other populations 
+may be used to aid the formulation of a hypothesis on injury rates in a recreational OWS 
+ 
+25 
+ population. Two populations of interest, triathletes and elite OW swimmers, will be 
+highlighted below.  
+ 
+2.5.1 Triathlon  
+Like recreational OW swimmers , the demographics of those competing in 
+triathlon appear to involve a wide array of ages and abilities, with the average participant 
+in their mid -thirties ( Wicker et al., 2012). Since the swim portion of a triathlon is 
+typically held in an OW setting, there may be similarities between triathletes and OW 
+swimmers. However, t he triathlon population  typically  trains swimming differently than 
+the monosport populati on by decreas ing the duration , frequency,  and meterage  of swim 
+training (Schorn et al ., 2018) . In a study of 268 triathletes , 19% reported shoulder 
+injuries attributed to overuse whereas 6% reported acute shoulder injuries (most of which 
+were sustained whi le cycling)  (Schorn et al., 2018).  The authors noted a significant 
+relationship between acute shoulder injury and weekly training time  in all three 
+disciplines ; however, th e athletes that reported a shoulder injury due to overuse spent 
+significantly more t ime swim -training (Schorn et al ., 2018). The  authors also reported an  
+association between shoulder overuse injury and  hand -paddle use (a training aid) , as well 
+as event participation (Schorn et al ., 2018). Other studies investigating injury prevalence 
+in triathletes differed greatly due to the varied nature of the sport ( e.g., distances ranging 
+from one to 18-hour long competitions). An dersen et al . (2013 ) reported 87 % of ironman 
+distance triathletes reported an overuse injury during a prospective 26 -week s tudy, with 
+the majority occurring in the lumbar spine or lower extremity.  The authors did not 
+speculate on a mechanism for this, but other studies  have suggested that running may 
+ 
+26 
+ contribute to a majority of lower extremity injuries in triathletes (Korkia e t al., 1994; 
+Zwingenberger et al., 2014).  Another study investigating injuries in amateur triathletes 
+found that the  main risk factor for injury was participation in a formal triathlon event , 
+they found trends suggesting those with higher performance level s and those who train 
+over ten hours per week may have a higher injury rate (Zwingenberger et al., 2014). The 
+authors did not find an association with age, visits to physical therapy or coaching status  
+(Zwing enberger et al ., 2014).  
+ 
+2.5.2 Elite Open Water  Swimmers  
+Due to the surge in the population of aquatic -sport athletes , FINA has initiated an 
+injury and illness surveillance program at their biennial World Championships and 
+further recommended a program for out -of-competition injury and illness recordin g and 
+surveillance  (Mountjoy et al ., 2016). Results have been published concerning data 
+collected for the duration of the 2009, 2013 and 2015 world championships as well as a 
+retrospective survey of injuries and illness in the four weeks leading up to the 2013 and 
+2015 competitio ns (Prien  et al. , 2017). Noteworthy findings  include a high in -
+competition injury rate for OW swimmers (52.5 injuries/1000 starts) as compared to pool 
+swimmers (2.02 injuries/1000 starts) in 2009 and  a relatively low rate of pre -competition 
+injury in the four weeks leading up to the 2013 event (17.4%) (Mountjoy et al ., 2010; 
+Mountjoy et al ., 2015).  Unfortunately, the  authors did  not report  any specific data on the 
+anatomic location of injury or the possible associated risk factors (Mountjoy et al ., 
+2016) .   
+ 
+ 
+27 
+ 2.6 Survey Design  
+ Studies utilizing survey -based methods provide information by systematically 
+asking questions  to study participants  (Guppy & Gray, 2008). One must first establish 
+the purpose of the survey , and from there quest ions are designed and administered 
+accordingly (Fowler, 2013). Survey -based research is a useful tool for statistical 
+exploration of trends within a population ; however, the quality of a survey -based study is 
+dependent upon the sampling, the question desig n, and the administration of the survey 
+itself  (Creswell & Creswell, 2018; Fowler, 2013) . The current study employed  a 176-
+question,  self-administered internet -based survey that ask ed swimmers about their 
+swimming -related MSK injuries, as well as various d emographic data, training 
+parameters, event participation , injury prevention strategies and COVID -related training 
+changes that are further explained below.  
+ 
+2.6.1 Cross -sectional study design  & recall bias  
+Cross -sectional survey research is characterized  by participant responses given at 
+a single point in time (rather than multiple responses administered at various times)  
+(Field, 20 09). Given that a cross -sectional study is not a true experimental design  
+(groups may be formed based on existing differences  only), the data collected can only 
+be used for epidemiological and correlational statistics , as opposed to inferring causation  
+(Field, 20 09).  
+Since the data collection is limited to a single point in time and participants were 
+asked to retrospectively id entify any swimming -related injuries they sustained within 
+their most recent 6-month period of  training , the study is inherently subject to a level of 
+ 
+28 
+ recall bias. Historically, sports injury studies have utilized a 12 -month timeframe for the 
+recollection of injury incidence to cover an entire season ; however, this has been 
+challenged by a number of studies that have reported values ranging from 39% to 54% of 
+athletes forgetting injuries within this period (Gabbe & Finch, 2003; Junge & Dvorak, 
+2000). This led to current guidelines of injury surveillance in various sports 
+recommending a prospective design with a seven -day recall (Mountjoy et al., 2016; 
+Fuller et al., 200 7). Organized sporting regulatory bodies for elite athletes  with on -site 
+medical staff  may have the resources to collect this data ; however, this may be 
+unrealistic for their recreational counterparts. A similar problem was identified in the 
+recreational running population and a recent consensus statement was released to provide 
+uniformity to i njury surveillance studies (Yamato et al., 2015). The authors 
+recommended that a 6 -month timeframe be used in an effort to minimize participants ’ 
+forgetting not only the occurrence of an injury but also the details, such as location, 
+duration, mechanism, d iagnosis and treatment (Yamato et al., 2015).  
+On March 11, 2020 , the World Health Organization declared a global pandemic 
+due to the COVID -19 virus outbreak (World Health Organization, 2020). In an effort to 
+reduce transmission of the disease, a large num ber of jurisdictions across the globe 
+restricted access to public pools and beaches and the majority of mass participation OW 
+events were  cancelled (Kent, 2020 ; Griffiths, 2020 ). This ha d implications for the current 
+project  because since March 2020, athle tes have had to significantly alter their training 
+regimes as compared to the pre -COVID time -period. It was not ideal to conduct the 
+survey amidst the restrictions but  given the global situation  that limited and altered  
+participation in swimming -related ac tivities , we chose to maintain a 6 -month recall and 
+ 
+29 
+ the survey was open from April  to September 2021 . It is notable that during this period 
+there were still restrictions on gathering sizes and international travel.  It would be 
+prudent to conduct a  follow -up study in the post -pandemic time -period when access to 
+training facilities and participation in training groups and event participation returns to 
+an unrestricted state.  
+ 
+2.6.2 Sampling  
+As noted , the population of non -elite OW swimmers are quite diverse  and there is  
+currently no overarching group to which all OW swimmers belong. As such, finding a 
+sampling frame of this population is difficult , and therefore a nonprobability sampl ing 
+method  must be employed. Nonprobability sampling methods introduce a sub jective 
+element to the sample selecti on and in the case of convenience sampling (a type of 
+nonprobability sampling), it is the characteristics of the participants that will influence 
+their participation (Henry, 1990). A convenience sample is a self -selecte d sample 
+recruited through public advertisements and t herefore , the assumptions of probability 
+theory and sampling error do not apply and must be noted accordingly ( de Vaus, 2014 ). 
+Although this type of sample hinders the ability to generalize the results of the study, it is 
+useful for exploratory research and when practical constraints must be considered  (de 
+Vaus, 2014).  
+ 
+2.6.3 Self-administered surveys   
+ Self-administered surveys allow the participant to complete the survey without 
+the guidance of anothe r person  and at a time of their choosing (Fowler, 201 3). Further, if 
+ 
+30 
+ there are no time constraints on the survey, it allows participants time to complete it at 
+their leisure  and they can check with other sources  before/during  the survey completion. 
+This was desirable for the current project because it provide d participants the opportunity 
+to consult medical records, diagnostic results, training logs or event details. Further, self -
+administered questionnaires are more cost -effective and allow a greater reach  than one 
+requiring personal administration (Fowler, 2013). A disadvantage of self -administered 
+survey design is the inability of the researcher to clarify any ambiguous questions or 
+survey directions for the participant (Fowler, 2013). Therefore, self -administered surveys 
+must be designed with ease -of-use and clarity in mind .  
+ 
+2.6.4 Question design  
+Survey questions can broadly be grouped into open and closed  formatted  
+questions ; respondents formulate their own responses to an open -ended question whereas 
+they choose from a pre -set list of responses to a closed -ended question  (Fowler, 2013).  
+Open -ended questions allow respondents to formulate their own answers to questions ; 
+however, the answers may vary based on their interpretation of the question ( Fowler, 
+2013 ). Fowler (2013) strongly recommends the use of closed -ended  questions (where 
+appropriate) in self -administered questionnaires to increase the usability of data through 
+clarification and consistency. Closed -ended questions  typically  increase the ease o f use 
+of the survey, which may, in turn  improve  the likelihood of participation and completion 
+of the survey.  
+Survey questions must maintain a consistent meaning to all respondents (Fowler, 
+2013). Variance in interpretation may be further compounded by th e distribution of the 
+ 
+31 
+ survey across various cultures , given that the educational experience and cultural 
+background will affect each participant’s interpretation of the question (Fowler, 2013). 
+For instance, a ‘medic’ typically refers to a medical doctor i n the United Kingdom , 
+whereas  it typically denotes paramedic or emergency medical personnel  in North 
+America. Thus, the questionnaire must be culturally sensitive with ample descriptions 
+and synonyms available.  Cultural interpretation was addressed by havi ng three OW 
+swimmers from different countries (Canada, the United Kingdom , and the United States) 
+review the survey before it was distributed .  
+There may be instances where the options available in a closed -ended question 
+are not exhaustive. Therefore, ope n-ended response boxes were  included throughout the 
+questionnaire (where appropriate) to allow participants to respond with answers not 
+listed in the pre -set list of responses. For example, perhaps they consulted a reflexologist 
+for a foot complaint and th is vocation was not listed in the pre -set list of options . 
+ 
+Chapter  3: Objectives  & Hypothesis  
+The objectives of this study are as listed below:   
+1. To generate epidemiological data regarding injury prevalence within the non -elite 
+OW swimming population duri ng the COVID -19 pandemic.  
+2. To explore possible associations between reported injuries and identified risk 
+factors and preventative strategies.  
+Given the paucity of research in OW swimmers, this study primarily aimed to 
+generate data and  information for us e in further research (hypothesis -generating 
+research ). However , with consideration  given to previous research within the pool -
+ 
+32 
+ swimming population combined with anecdotal conversation s with OW swimmers , it 
+was hypothesized that: 1) there would be a similar  or increased prevalence of lumbar 
+spine and hip injuries reported within the OW swimmer population , and 2) there would 
+be a similar prevalence of shoulder injuries reported  within the OW swimmer 
+population .  
+ 
+Chapter  4: Methods   
+The study design was roote d in a post -positivist epistemology and used a self-
+administered  internet -based  survey  to generate data relating to reported injuries in OW 
+swimmers . Survey studies ask questions and participant responses can be used for 
+statistical exploration of trends w ithin a population  (Creswell & Creswell, 2018) . 
+Therefore, a population -based survey design was appropriate g iven that the purpose of 
+this project was to estimate injury trends within the non -elite OW swimm ing population  
+and explore possible associated  risk factors. A cross -sectional design was chosen over a 
+longitudinal study  due to time constraints  associated with a Master’s  project. As noted,  a 
+6-month recall period was used to remain consistent with recreational running -related 
+literature ( Yamato et al. , 2015) . An internet -based survey was chosen in an effort to 
+maximize the reach of the survey throughout the global population of OW swimmers.  
+This project received approval on ethical grounds by the University of Regina 
+Research Ethics Board on April 14,  2021.  
+ 
+ 
+ 
+ 
+33 
+ 4.1 Definitions  
+Recently,  Mountjoy et al . (2016) released a consensus statement in the British 
+Journal of Sports Medicine and provided operational definitions and methodological 
+recommendations for the reporting of aquatic sport -related illness  and injury. In an effort 
+to maintain consistency within the literature, the following definitions were  used for the 
+current study:   
+ Injury: Any physical complaint or observable damage to body tissue 
+produced by the transfer of energy  or sustained by an a thlete during 
+participation in training or competing in an aquatic discipline, regardless of 
+whether it received medical attention or its consequences with respect to 
+impairments in competition or training . 
+ Clinician: Anyone who is involved in the health c are of athletes, reviews 
+medical or physiological information, and/or implements an action plan to 
+improve the athlete’s health, where health is considered in a broad sense but 
+must be more than just performance enhancement.  
+ Medical attention: An injury o r illness where a qualified clinician assessed 
+the athlete’s medical condition.  
+ Time loss: A time -loss injury or illness leads to the athlete being unable to 
+take full part in  swimming -related activities. If the athlete misses the rest of 
+the training or competition session but returns for the next 
+training/competition, this should be recorded as a time -loss incident.  
+ Index injury: The first recorded injury in a series of injuries constituting a 
+recurrent condition.  
+ 
+34 
+  Exacerbation: Injury to the same locati on and of the same type as the index 
+injury, where the index injury has not completely healed.  
+ Reinjury: Injury to the same location and of the same type as the index injury, 
+where the index injury has completely healed.  
+ Local injury: Injury to the same lo cation but a different type from the index 
+injury.  
+The cause, or mechanism of injury (MOI) (traumatic or overuse) may not present 
+in congruence with its physiologic basis . For example, a lower back injury may be due to 
+accumulated stress over time but may manifest as a single incident when an athlete exits 
+the pool (Mountjoy, 2016). Because the physiologic definition is often difficult to 
+discern, Mountjoy et al . (2016)  have recommended that the definitions regarding MOI be 
+operational ly defined as:  
+ Trauma tic injury: An injury caused by a single, clearly identifiable energy 
+transfer. The mechanism of a traumatic injury can be further specified as (1) 
+non-contact, (2) contact with another athlete/person or (3) contact with an 
+object or animal.  
+ Overuse injury : Refers to a condition caused by multiple accumulative bouts 
+of energy transfer without a single, identifiable event responsible for the 
+injury . 
+ 
+4.2 Participants  
+The target population for this study was adult non-elite long-distance OW 
+swimmers  who self -identify as such and regularly compete or train in an OW setting. 
+ 
+35 
+ Inclusion criteria include d any English -speaking OW swimmer over the age of 18 years 
+with access to the internet . Exclusion criteria included professional OW swimmers and 
+those competing in the FINA international OWS circuit.  
+The target sample size w as 250 participants to allow correlations to stabilize and 
+provide ample power (Sch öndrodt & Perugini, 2013).  The survey was closed in 
+September 2021 after 156 participants completed the survey  due to time constraints and 
+challenges imposed by the COVID -19 pandemic .  
+ 
+4.2.1 Participant Recruitment  
+Study information w as dispersed through the following online avenues , and 
+participation was via a voluntary opt -in basis by those who fulfill ed study c riteria.  
+1. Swimtrek monthly newsletter: Swimtrek is a British travel company specializing 
+in OW swim vacations and their email reach includes swimmers from the United 
+Kingdom , the European Union , North America, and Australia. This connection 
+was made via pe rsonal communication with the company , and they distributed 
+the survey link in their July 2021 newsletter.  
+2. Facebook posts: There are several  OWS  groups on the Facebook social media 
+platform. These include the Dover channel training group, Dorset OW swimme rs, 
+the Lake Ontario Swim Team (LOST), the Southern Ontario Swim, the 
+Chesapeake Bay OW swimmers, as well as the re -posts from members of these 
+groups to other connected groups with similar populations.  
+ 
+36 
+ 3. Gatekeepers and snowball recruitment through word of  mouth: A handful of 
+prominent figures within the long -distance swimming community graciously 
+volunteered to spread study information through their social media avenues.   
+ 
+4.3 Survey Design  
+The survey was an original design composed of five sections : swim mer 
+demographics, training habits, injury reports, event participation , and injury prevention 
+strategies. This study employed  Qualtrics  (Provo, Utah, USA)  survey  software , and the 
+piloting procedure included an internal review of the questionnaire by three  OW 
+swimmers  from various countries of residence  as well as the author, supervisor, and one 
+committee member .  
+ 
+4.3.1 Demographics  
+Demographic data collected include d age, sex, height, weight, geographic 
+location , employment status, highest level of educat ion obtained , concurrent medical 
+conditions and tobacco use . This was done to  gain insight into variables which may be 
+related to injury, and also to investigate  the average demographics of the OW marathon 
+swimming population.  
+ 
+4.3.2 Injury  
+Swimmers were  asked to recall any episode of injury that they had experienced 
+within their most recent 6-month period of unbroken training  using the definitions 
+provided by Mountjoy et al. in the 2016 consensus statement. Questions included  the 
+ 
+37 
+ location ; date; type (trau matic vs. overuse ); diagnosis (if applicable ); number of days 
+that the injury resulted in the inability to train, modified participation or decreased 
+performance ; any previous history of injury to that site ; and  treatment received (if 
+applicable). Results were  categorized based on location and type of injury as outlined in 
+the consensus statement  by Mountjoy et al. (2016).   
+ 
+4.3.3 Training Habits  
+Questions concerning training habits included  the number of years the swimmer 
+has participated in swimming , then another specifying OWS , as well as  their weekly 
+estimate of meterage and swim duration broken up by season  (i.e., periodization 
+questions) , water type ( i.e., pool, fresh -water or salt -water) , and the proportion of 
+training completed in a wetsuit . We also queried  the type and amount of cross -training, 
+as well as their use of a training plan and/or coach  and type of group ( e.g., masters 
+group, triathlon group, etc.) . 
+ 
+4.3.4 Event Participation  
+Participants were asked about their participation in OWS events during the 2018, 
+2019, and 2020 season s, as well as their plans for the 2021 season. They reported on 
+each events’ location, date and distance, and they elaborated on how COVID affected 
+their 2020 participation as well as how it affected their plans for th e 2021 season.  
+ 
+ 
+ 
+ 
+38 
+ 4.3.5 Injury Prevention Strategies  
+Injury prevention strategies queried included  participation  (and duration)  in 
+dryland warmup , resistance and/or core training , as well as any preventative health care 
+sought out and the frequency of  such treatment. There was also an open -ended question 
+regarding any other concerted efforts the swimmers may employ to prevent injuries that 
+wasn’t addressed in the survey.  
+ 
+4.4 Data collection  
+ Qualtrics  survey software stores survey data and tabulates it into a spreadsheet 
+format  available for download from their servers . All data is encrypted and made 
+anonymous by Qualtrics.  The survey was opened  in April 2021 and was closed in 
+September 2021  (i.e., data collection took place over a 4.5 month time period) .  
+ 
+4.5 Statistical  Analysis  
+ 
+4.5.1 Data entry and data cleaning   
+The survey data was downloaded from Qualtrics via a Microsoft Excel file that  
+was used for the initial process of data entry. The data were cleaned by manual 
+inspection by the principal  investigator , and outlying , abnormal or missing entries were 
+checked against the Qualtrics output and corrected or omitted, as necessary. Data used 
+for logistic regression were then transferred to an SPSS file for further analysis.  
+ 
+ 
+ 
+ 
+39 
+ 4.5.2 Descriptive Statis tics 
+Continuous variables were  described with means with standard deviations and 
+medians. Where appropriate , minimum  and maximum values were also reported. 
+Categorical data were described with frequency and percentile proportions.  Descriptive 
+statistics we re computed using Microsoft Excel (Version 16.65).  
+ 
+4.5.3 Factors associated with MSK injury  
+Logistic regression was computed using SPSS  software  (Version 2 7, SPSS, Inc., 
+Chicago. IL) to explore the  variables that may be  associated with MSK injury . Logist ic 
+regression is appropriate when  continuous or categorical independent variables are used 
+to predict a binary categorical  outcome  (Field, 2009; Bewick et al ., 2005). We chose to 
+use a hierarchical  method to build the regression model (, Field, 2009). The outcome 
+variable used was whether participants reported at least one injury within the past six 
+months. The predictor variables , listed in order of the steps used in the logistic regression 
+were as follows:  
+ Step 1 included  demographic variables (age, body  mass index (BMI), sex, and 
+training years) . These were entered into the model first because age  and sex  have 
+previously been reported to be associated with onset of injury as described in 
+Chapter 2.1.1.2 (p.5), 2.2.1 (p.14) and 2.2.4 (p.17). BMI and train ing years were  
+included in this section because the categorization fit within demographic variables.   
+ Step 2 included training variables (periodization and participating in cross -training) . 
+These were entered  second into the model because of prior research  suggesting a 
+ 
+40 
+ potential association of these variables with injury risk as described in Chapter 2.3.2 
+(p. 18) .  
+ Step 3 included the amount of time participants wore a wetsuit (never, sometimes or 
+always) . This was added into the model as a separate step be cause swimmers that 
+follow MSF rules cannot wear a wetsuit during their swims, and we wanted to see if 
+this variable would have an independent  effect on the overall model.  
+ Step 4 included  the amount of time participants trained in salt water ( more or less  
+than 50%) . Salt water is more dense  than fresh water, which  affect s human 
+buoyancy and swimming mechanics (Harri es, 1983).  Therefore , this was also added 
+in separately  for the same reason as Step 3 .  
+ Step 5 included whether or not the participants engaged  in efforts related to  injury 
+prevention .  
+ Step 6 included whether  the participants only competed  in OWS as a triathlete .  
+ Step 7 included the total distance (metres) each participant completed as part of their 
+competitive events during the 2018, 2019, and  2020 seasons. We chose to input the 
+total event competition distance each participant completed within the 2018 -2020 
+seasons as a continuous variable in the analysis (Zwingenberger et al., 2014).  
+ 
+Statistical significance was set at  = 0.05.  
+  
+ 
+41 
+ Chapter  5: Results  
+ 
+5.1 Response Rate  
+156 participants completed or partially completed  the survey . However, because 
+some questions did not apply  to certain participants  (for instance, minimum and 
+maximum training meterage  and duration  did not apply to individuals  who do not 
+periodize their training) , or because some participants did not answer all questions, the 
+denominator used for the statistical analys es did not remain consistent at 156 (range 1 09-
+156).  
+ 
+5.2 Epidemiological data regarding injury  
+ 
+5.2.1 Injury P revalence, Location and Causation  
+The 6 -month prevalence of swimming -related MSK injury within this sample 
+population was 30% (n=36), of which 18 (36.7%) resulted in a time -loss injury. Eleven 
+individuals (9.2% of the total, or 30.6% of those reporting inj uries) reported more than 
+one injury and a total of 49 injuries were recorded. Table 1 provides further details 
+regarding injury frequency and location; percentages are reported from the total number 
+of injuries reported (n=49). Twenty -five (51.0%) involve d the shoulder (including the 
+clavicle), 6 (16.7%) involved the cervical spine (neck) and 3 (6.1%) involved the lumbar 
+spine.  
+  
+ 
+42 
+ Table 1 : Number and location of injury  
+Number of Injuries  n(%)  
+None  
+One 
+Two  
+Three  84(70.0)  
+25(20.8)  
+9(7.5)  
+2(1.7)  
+Location   
+Shoulder (including the clavicle)  
+Cervical Spine  
+Lumbar Spine  
+Upper Arm  
+Thoracic Spine  
+Elbow  
+Head  
+Chest, sternum or ribs  
+Pelvis  
+Forearm  
+Wrist  
+Hand  
+Thigh  
+Foot or toe  
+Other (unspecified)  25(51.0)  
+6(12.2)  
+3(6.1)  
+2(4.1)  
+2(4.1)  
+2(4.1)  
+1(2.0)  
+1(2.0)  
+1(2.0)  
+1(2.0) 
+1(2.0)  
+1(2.0)  
+1(2.0)  
+1(2.0)  
+1(2.0)  
+ 
+43 
+  Thirty -one (63.3%) injuries were not attributed to a clearly identifiable incident . 
+The remainder were attributed to contact with another swimmer, object or animal (n=6; 
+12.2%) , or a single, non -contact incident (n= 12, 24.5%). Twenty -five (51.0%) of the 
+injuries reported were a first -time injury to the area specified, while 5 (10.2%) were 
+reported as a second -time injury and 19 (38.8%) were a reinjury that had occurred 
+‘multiple -times’ prior. Of the injuries that wer e recurrences, 13 (54.2%) had originally 
+happened as a swimming -related injury, while 11 (45.8%) were original injuries that 
+occurred elsewhere (e.g., work, other sports, etc.).  
+ 
+5.2.2 Treatment and Activity Modification  
+Sixteen (32.7%) injuries did not r equire treatment, 15 (30.6%) were treated by 
+one health care practitioner (HCP), and 18 (36.7%) were treated by more than one HCP. 
+Physical therapists were consulted most frequently (n=20; 40.8%), followed by medical 
+doctors (n= 16; 32.7%) and massage ther apists (n=14, 29.6%). A further breakdown of 
+treatments sought by the participants is recorded in Table 2; percentages were calculated 
+from the total number of injuries reported (n=49).  
+ 
+  
+ 
+44 
+ Table 2 : Health Care Practitioners Consulted  
+Number of practitione rs consulted  n(%) 
+None  
+One 
+Two 
+Three  
+Four  
+Five 16(32.7)  
+15(30.6)  
+6(12.2)  
+4(8.2)  
+5(10.2)  
+3(6.1)  
+Practitioner type   
+Physical therapist  
+Medical doctor  
+Massage therapist  
+Chiropractor  
+Acupuncturist  
+Orthopedic Surgeon  
+Other  
+Osteopath  
+Athletic therapist  20(40 .8) 
+16(32.7)  
+14(28.6)  
+7(14.3)  
+6(12.2)  
+5(10.2)  
+4(8.2)  
+2(4.1)  
+1(2.0)  
+ 
+  
+ 
+45 
+ Nine (18.4%) injuries required no modification to the swimmers training regime, 
+15 (30.6%) resulted in an initial period where the swimmer was unable to train followed 
+by a period of mo dified training, 22 (44.9%) resulted in modified participation and 3 
+(6.12%) resulted in an inability to train. Of those that resulted in modified participation, 
+8 (21.6) lasted less than one week, 11 (29.7%) lasted between one week and one month, 
+11 (29.7 %) lasted between one and six months, 6 (16.2%) lasted over six months, and 1 
+(2.7%) respondent was unable to remember the injury duration. Of those that resulted in 
+an inability to train, 3 (16.7%) lasted less than one week, 8 (44.5%) lasted between one 
+week and one month, and 7 (38.9%) lasted between one and six months.  
+ 
+5.3 Demographic Characteristics of the Study Population and Descriptive Statistics  
+ 
+5.3.1 Sociodemographic characteristics  
+Sociodemographic characteristics, including participant location , age, sex, self-
+reported body mass index (BMI), location and education level are presented in Table 3. 
+Three  males and five females did not provide their age , and one female did not provide 
+their height or body mass . Nine individuals did not specify their sex. Age distribution 
+ranged from 19 to 71 years of age with an overall average age of 47.7 ( 12.4) years ; the 
+average age for males was 50.0 ( 12.4) years , and the average age for females was 46.5 
+(12.3) years . The majority of responses were from Canada  (n=56; 38.1%) and the 
+United States (n=46; 31. 3%); 25 respondents (17.0%) were located in the United 
+Kingdom and the rest (n=22 ; 14.9% ) were from the European Union, Africa, South 
+America and Oceana. One hundred and one (73.2%) swimmers reported to have o btained 
+ 
+46 
+ a post-secondary degree , and 87 (63.0%) swimmers reported they were employed on a 
+full-time basis. Average BMI was 26.7 ( 4.8) kg/m2, with a median of 26.2 kg/m2.  
+ 
+47 
+ Table 3: Sociodemographic characteristics of the study population  
+Sex: n(%) 
+ Male  52(33.3) 
+ Female  95(60.9) 
+ Did not answer  9(5.8)  
+Location:  
+ North America   
+  Canada  56(38.1)  
+  United States  46(31.3)  
+ United Kingdom  25(17.0)  
+ European Union  9(6.1)  
+ Oceania  9(6.1)  
+ South Africa  3(2.0)  
+ South America (Brazil)  1(0.7)  
+Education :  
+ No high school  5(3.6)  
+ High school  8(5.8)  
+ Some college  13(9.4)  
+ College degree/diploma  11(8.0)  
+ Bachelor’s degree  40(29.0)  
+ Masters, Doctorate  or Professional Degree  61(44.2)  
+ 
+ 
+ 
+48 
+ Age: Male , n(%)  Female , n(%)  
+ 19-29 years  3(6.1) 8(8.9)  
+ 30-39 ye ars 8(16.3) 22(24.4)  
+ 40-49 years  9(18.4) 24(26.7)  
+ 50-59 years  17(34.7) 21(23.3)  
+ 60-69 years  10(20.4) 14(15.6) 
+ 70+ years  2(4.1) 1(1.1)  
+ Total  49(100)  90(100)  
+Body Mass Index :   
+ Underweight (<18.5  kg/m2) 0(0.0) 3(3.4)  
+ Normal (18.5 to <25.0  kg/m2) 9(18.4)  39(43.8)  
+ Overweight (25 to <30.0  kg/m2)  30(61.2)  29(32.6)  
+ Obese (>30.0  kg/m2) 9(18.4)  18(20.2)  
+ 
+  
+ 
+49 
+ 5.3.2 Training Characteristics  
+The majority of swimmers (n=89 ; 69.0%) reported they started training as a 
+swimmer when they were under 19 yea rs of age ; however, there was one respondent who 
+began training at 60 years of age.  The average age respondents began training as a 
+swimmer was 18.1 ( 14.6) years and the median was 10 years  (range 3 to 60 years) .  The 
+average number of years participants reported actively training was 19.4 ( 13.9) years 
+and the median was 15 years  (range 1 to 62 years) . The average number of years 
+participants reported training as an OW swimmer was 10.1 ( 11.0) years, with the 
+median being 6 years  (range 1 to 62 years) . Figure 2 illustrates the frequency of 
+swimming vs. OW swimming experience of the respondents  and highlights the finding 
+that although a large majority of the respondents had many years of  swimming 
+experience, most respondents were relatively new to OW swimmi ng; roughly one-third 
+of respondents had been OW swimming for under 5 years and over half had less than 10 
+years of OW experience.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+ Figure 2: Frequency of years of swimming experience  
+ 
+Note. Years of swimming and OW years swimming vs. Frequency of responses.  
+  
+Eighty -six (63.7%) swimmers reported periodizing their training schedule either 
+based on the season (n=39 ; 45.4%) , their competition schedule (n=46 ; 53.5%) , or on 
+‘other’ rationale  and did not elaborate  (n=1; 1.2%) . Those that do not period ize their 
+training reported swim ming  an average of 8560 ( 6295) meters and 4.1 ( 2.4) hours per 
+week, with a range from 1000 -25000 meters and .5 to 10 hours weekly. The minimum 
+values for those that periodize their training  (i.e., when they are training th e least 
+throughout the year)  was an average of 5540 (  7842) meters and 2.49 ( 2.69) hours per 
+week, with a range from 0 to 60000 meters and 0 to 18 hours ; their maximal values (i.e. , 
+peak training season) was an average of 19390 ( 15779) meters and 8.27 ( 4.95) hours, 
+with a range from 3000 to 80000 meters and 1.5 to 20 hours per week.  
+Fifty -two (38.7%) swimmers reported training either as an individual or with one 
+group  or team  (i.e., masters  swimming club , informal open -water  group ), with 32 05101520253035404550
+<5 5 to 9 10 to 14 15 to 19 20 to 24 25 to 29 30 to 39 40 to 49 50 to 59 60+Frequency
+YearsYears Swimming
+Years Open Water Swimming
+ 
+51 
+ (23.4%)  of those  only train ing individually. Eighty -four (61.3%) reported train ing with 
+more than one group  or team, or a combination of a team and individually . The results 
+are reported further  in Table 4; please note that the percentages are based on the number 
+of individuals who answered the question rather than the total number of responses , thus 
+giving the percentage of individuals that participate in each manner of training.  
+Fifty (41.3%) swimmers reported they never wear a wetsuit when training in 
+OW, 50 (41.3 %) reported they wear a wetsuit some of the time and 21 (17.4%) reported 
+to wear it all the time.  
+ 
+  
+ 
+52 
+ Table 4: Modes of Training   
+ n(%) 
+Individual training  97(70.8)  
+Unorganized OW group (i.e., social group)  69(50.4)  
+Organized OW group  53(38.7)  
+Pool swi mming group  46(33.4)  
+Triathlon -training swim group  18(13.1)  
+Other (unspecified)  2(1.46)  
+OW = Open water.  Categorical variables  are based on the number of respondents to the 
+question  (n = 137) . 
+ 
+5.3.3 Event Participation  
+Data were collected for event pa rticipation occurring in 2018, 2019, 2020 and 
+2021. Data from the 2018 and 2019 seasons were considerably different than 2020 and 
+2021 data due to the onset of the COVID -19 pandemic and the resulting restrictions. In 
+2018 and 2019, 64.2% (n=77) and 63.5% ( n=73) of respondents , respectively,  had 
+participated in at least one event. In 2020 , this number decreased to 35.7% (n=40). 
+However, 71.6% (n=78) of respondents reported that they were training for a 2021 event.  
+Of those who competed in 2018 , there was an average of 2.39 ( 1.31) events per 
+participant (of those who reported participating in events ); there was a similar average of 
+2.39 (1.45) events per participant  in 2019 , and 2020 event participation dropped to 1.81 
+(1.11) events per participant  with 88 (80%) respondents noting that COVID -19 
+restrictions had affected their intended event participation . The data from 2021 were 
+ 
+53 
+ collected mid -season and were based on both past and future events; an average of 2.34 
+(1.29) events per participant (of those who  participate in events) was reported. Based on 
+the events described and each participant ’s longest recorded event , 13 (11. 3%) 
+participants competed in OW events solely as multi -sport athletes (i.e. , triathl etes), 35 
+(29.7%) participated in events under 10k m long, 23 (19.5 %) participated in events from 
+10 to 20km long and 16 (13.6%) participate d in events longer than 20km.  
+ 
+5.3.4 Cross -Training and Injury Prevention  
+Ninety -nine respondents (82.5%) reported participat ing in cross -training 
+activities. See Table 5 for a further  breakdown of each type of activity . Percentages are 
+based on number of participants who answered the question (n=120) . The r easons behind 
+participation in cross -training events included enjoyment (n=75; 62.5%), efforts to 
+increase swimm ing performance (n=28; 23.3%), prevention of swimming -related injuries 
+(n=18;15%), general fitness and health (n=7, 5.8%) and other (n=10; 8.3%) reasons.  
+ 
+  
+ 
+54 
+ Table 5: Respondents who participate in cross -training activities  
+ n(%) 
+Cycling  62(51.7)  
+Running  54(45.0)  
+Weight training  51(42.5)  
+Yoga or Pilates  29(24.2)  
+Walking or hiking  15(12.5)  
+Cross -country skiing  10(8.3)  
+Team sports  7(5.8)  
+Cross -fit 3(2.5)  
+Other  14(11.7)  
+ 
+ 
+With regards to injury prevention,  30 (27.5%) swimmers report ed they make no 
+effort to prevent swimming -related injuries, 55 (50.5%) reported they visit some type of 
+preventative health  care, and 42 (38.5%) report ed they complete a dry -land warmup. 
+Percentages are based on the number of respondents to the question (n=109). Other 
+efforts are listed in T able 6 along with a further breakdown. The average duration of a 
+dryland warmup was 10.6 ( 6.9) minutes.  
+ 
+  
+ 
+55 
+ Table 6: Directed efforts to prevent swimming -related injuries  
+ n (%) 
+No effort  30(27.5)  
+Preventative sports health care  55(50 .5) 
+ Massage Therapy  46 (42.2)  
+ Physical Therapy  25(22.9)  
+ Chiropractic  17(15.6)  
+ Acupuncture  13(11.9)  
+ Athletic Therapy  6(5.5)  
+ Other  5(4.6)  
+Dryland warmups  42(38.5)  
+Other (unspecified)  9(8.3)  
+Strength Training  5(4.6)  
+Stroke Improvement  5(4.6)  
+Pilates or Yoga  4(3.7)  
+Sports Psychology  3(2.8)  
+Stretch Cords  2(1.8)  
+ 
+ 
+5.3.5 Effect of the COVID -19 Pandemic  
+A series of questions were asked regarding how restrictions due to the COVID -19 
+pandemic affected each swimmer ’s training. Ninety -six (89%) re spondents noted a 
+period where their training was somehow affected by various COVID -19 restrictions ; 76 
+(80%) reported there was a period they were unable to swim, with the average period 
+ 
+56 
+ being 21.1 ( 16.9) weeks. Average distance and duration in the water  was also affected; 
+81 (86.2%) swimmers reported their average meterage has changed  and 83 (88.3%) 
+respondents reported a change in duration.  Not surprisingly, the way respondents train 
+has also changed; 61 (64.9%) reported that they have had to alter who they train with . 
+Other notable answers included 1 5 individuals who  described  increas ing the time they 
+were able to swim in  OW and 5 individuals who reported  they started OW swimming 
+due to limited pool -availability or safety concerns with indoor swimming.  
+ 
+5.4 Prediction and Injury Risk Factors  
+ A logistic regression was performed using a hierarchical entry method  with 7 
+steps.  Using MSK injury as the outcome variable, Step 1 included demographic 
+information (age, BMI, Sex and Training Years) as the predic tor variables  for reasons 
+described in Chapter 4.5.3 (p. 33) (Table 7). For step 1, th e overall model is not 
+significant ; however, there is a trend ( p < .10) for age and  sex (female) to be independent 
+predictors in the final model.  
+ 
+  
+ 
+57 
+ Table 7 : Step 1: Demo graphics  
+ B (SE)  Wald  OR (95% CI)  P value  
+Age (yrs)  0.041 (0.020)  4.243  1.042 (1.002, 1.083)  0.039  
+BMI (kg/m2) <0.001 (0.044)  <0.001  1.000 (0.918, 1.089)  0.998  
+Sex (Female)  1.137 (0.512)  4.928  3.117 (1.142, 8.502)  0.026  
+Training Years (yrs)  -0.002 (0.0 16) 0.020  0.998 (0.967, 1.029)  0.887  
+R2 = 0.082 (Cox & Snell), 0.118 (Nagelkerke). Model Χ2(4) = 9.111, p = 0.058.  
+16.7% of injured correctly classified; 94.7% of non -injured correctly classified.  
+ 
+Training information (periodization and cross training) were included in Step 2 as 
+the predictor v ariables (Table 8). This step did not make a significant contribution to the 
+model  (p = .570), and both variables that were added to the model were not significant 
+independent predictors (p > .2).  
+  
+ 
+58 
+ Table 8 : Step 2: Demographics + Training  
+ B (SE)  Wald  OR (95% CI)  P value  
+Age (yrs)  0.039 (0.020)  3.807  1.040 (1.000, 1.082)  0.051  
+BMI (kg/m2) -0.005 (0.044)  0.015  0.995 (0.912, 1.084)  0.902  
+Sex (Female)  1.119 (0.518)  4.668  3.063 (1.110, 8.455)  0.031  
+Training Years  (yrs)  -0.006 (0.016)  0.124  0.994 (0.963, 1 .027)  0.725  
+Periodization (Yes)  -0.514 (0.489)  1.107  0.598 (0.230, 1.558)  0.293  
+Cross Train (Yes)  -0.189 (0.617)  0.094  0.828 (0.247, 2.775)  0.759  
+R2 = 0.092 (Cox & Snell), 0.132 (Nagelkerke). Step: Χ2(2) = 1.124, p = 0.570. Model 
+Χ2(6) = 10.234, p = 0.1 15. 
+10.0% of injured correctly classified; 96.1% of non -injured correctly classified.  
+ 
+The amount of time spent training in a wetsuit ( never, sometimes, always) was 
+the predictor variable included in Step 3 (Table 9), and the amount of time spent training 
+in salt water (more or less than 50%) was included in Step 4 (Table 10). Neither step 
+made a significant contribution to the model  (p > .7), nor was either of the new variable s 
+found to be a significant  independent predictor (p > .4).  
+ 
+  
+ 
+59 
+ Table 9 : Step 3: Demographics + Training + Wetsuit  
+ B (SE)  Wald  OR (95% CI)  P value  
+Age (yrs)  0.041 (0.020)  3.960  1.041 (1.001, 1.084)  0.047  
+BMI (kg/m2) 0.003 (0.047)  0.003  1.003 (0.915, 1.099)  0.955  
+Sex (Female)  1.101 (0.521)  4.468  3.006 (1.083, 8.342)  0.035  
+Training Years (yrs)  -0.005 (0.016)  0.103  0.995 (0.963, 1.027)  0.749  
+Periodization (Yes)  -0.436 (0.505)  0.744  0.647 (0.240, 1.741)  0.388  
+Cross Train (Yes)  -0.096 (0.646)  0.022  0.908 (0.256, 3.219)  0.881  
+Wetsuit (Sometimes)  0.077 (0.545)  0.020  1.080 (0.371, 3.144 ) 0.888  
+Wetsuit (Always)  0.433 (0.688)  0.397  1.542 (0.400, 5.939)  0.529  
+R2 = 0.096 (Cox & Snell), 0.137 (Nagelkerke). Step: Χ2(2) = 0.427, p = 0.808. Model 
+Χ2(8) = 10.662, p = 0.222.  
+16.7% of injured correctly classified; 94.7% of non -injured correctly c lassified.  
+ 
+  
+ 
+60 
+ Table 10 : Step 4: Demographics + Training + Wetsuit + Salt Water  
+ B (SE)  Wald  OR (95% CI)  P value  
+Age (yrs)  0.041 (0.021)  3.929  1.042 (1.000, 1.085)  0.047  
+BMI (kg/m2) 0.002 (0.047)  0.001  1.002 (0.914, 1.098)  0.970  
+Sex (Female)  0.976 (0.548 ) 3.172  2.654 (0.907, 7.767)  0.075  
+Training Years (yrs)  -0.004 (0.016)  0.065  0.996 (0.964, 1.028)  0.799  
+Periodization (Yes)  -0.448 (0.510)  0.771  0.639 (0.235, 1.737)  0.380  
+Cross Train (Yes)  -0.184 (0.666)  0.076  0.832 (0.225, 3.071)  0.783  
+Wetsuit (Somet imes)  0.137 (0.555)  0.061  1.146 (0.386, 3.401)  0.805  
+Wetsuit (Always)  0.432 (0.723)  0.357  1.541 (0.373, 6.356)  0.550  
+Salt Water (<50)  0.307 (0.559)  0.301  1.359 (0.455, 4.063)  0.583  
+Salt Water (>50)  0.465 (0.657)  0.501  1.593 (0.439, 5.776)  0.479  
+R2 = 0.101 (Cox & Snell), 0.144 (Nagelkerke). Step: Χ2(2) = 0.573, p = 0.751. Model 
+Χ2(10) = 11.235, p = 0.340.  
+16.7% of injured correctly classified; 94.7% of non -injured correctly classified.  
+ 
+In Step 5 , the predictor variable included was whether the individual engaged in  
+other efforts related to injury prevention (Table 11).  This step made a significant 
+contribution to the model ( p = .008) ; however, the overall model was not significant ( p > 
+.05).   
+  
+ 
+61 
+ Table 11 : Step 5: Demographics + Training + Wetsuit + Salt Water + Other Efforts  
+ B (SE)  Wald  OR ( 95% CI)  P value  
+Age (yrs)  0.036 (0.021)  2.868  1.037 (0.994, 1.082)  0.090  
+BMI (kg/m2) -0.003 (0.050)  0.003  0.997 (0.905, 1.099)  0.956  
+Sex (Female)  0.976 (0.565)  2.981  2.655 (0.876, 8.042)  0.084  
+Training Years (yrs)  -0.001 (0.017)  0.001  0.999 (0.967, 1.0 33) 0.973  
+Periodization (Yes)  -0.733 (0.554)  1.750  0.480 (0.162, 1.423)  0.186  
+Cross Train (Yes)  -0.417 (0.701)  0.354  0.659 (0.167, 2.604)  0.552  
+Wetsuit (Sometimes)  0.129 (0.581)  0.049  1.138 (0.364, 3.554)  0.824  
+Wetsuit (Always)  0.520 (0.763)  0.465  1.682 (0.377, 7.507)  0.495  
+Salt Water (<50)  0.410 (0.590)  0.482  1.507 (0.474, 4.794)  0.487  
+Salt Water (>50)  0.867 90.702)  1.525  2.380 (0.601, 9.424)  0.217  
+Other Efforts (Yes)  1.599 (0.688)  5.726  4.946 (1.335, 18.320)  0.039  
+R2 = 0.158 (Cox & Snell), 0.227 ( Nagelkerke). Step: Χ2(1) = 6.978, p = 0.008. Model 
+Χ2(11) = 18.213, p = 0.077.  
+26.7% of injured correctly classified; 92.1% of non -injured correctly classified.  
+ 
+  
+ 
+62 
+ Step 6 included whether participants  only competed in triathlons as a predictor 
+variable (Ta ble 12) , and Step 7 included  the total event competition distances completed 
+by the athletes (Table 13).  Once again, neither step made a significant contribution  to the 
+model ( p > .5) and neither of the new variable s was significant ( p > .5). In the final 
+model , there was a non -significant trend for  age (OR [95%CI]  = 1.039 [0.996, 1.084 ], 
+Wald  = 3.093, p = .079) and sex (female) (OR [95%CI]  = 2.614  [0.852, 8.021], Wald  = 
+2.821, p = .093)  to be independent predictors . The only significant independent predict or 
+was the athlete engaging in  an effort related to  injury  prevention (OR [95%CI]  = 5.004  
+[1.356 , 18.465 ], Wald= 5.843 , p=0.016). The final model correctly classified 30.0% of 
+injured individuals and 90.8% of those who did not report at least one injury.  
+ 
+  
+ 
+63 
+ Table 12:  Step 6: Demographics + Training + Wetsuit + Salt Water + Other Efforts 
++ Triathletes  
+ B (SE)  Wald  OR (95% CI)  P value  
+Age (yrs)  0.036 (0.021)  2.836  1.037 (0.994, 1.081)  0.092  
+BMI (kg/m2) -0.003 (0.050)  0.004  0.997 (0.904, 1.099)  0.948  
+Sex (F emale)  0.965 (0.568)  2.893  2.626 (0.863, 7.989)  0.089  
+Training Years (yrs)  -0.001 (0.017)  0.001  0.999 (0.967, 1.033)  0.975  
+Periodization (Yes)  -0.711 (0.563)  1.597  0.491 (0.163, 1.480)  0.206  
+Cross Train (Yes)  -0.422 (0.701)  0.362  0.656 (0.166, 2.591)  0.547 
+Wetsuit 
+(Sometimes)  0.154 (0.592)  0.067  1.166 (0.366, 3.717)  0.795  
+Wetsuit (Always)  0.560 (0.785)  0.508  1.750 (0.394, 8.154)  0.476  
+Salt Water (<50)  0.407 (0.589)  0.477  1.503 (0.473, 4.771)  0.490  
+Salt Water (>50)  0.861 (0.703)  1.500  2.365 (0.596, 9. 375) 0.221  
+Other Efforts (Yes)  1.596 (0.669)  5.698  4.935 (1.331, 18.301)  0.017  
+Triathletes (Yes)  -0.177 (0.831)  0.045  0.838 (0.164, 4.273)  0.831  
+R2 = 0.158 (Cox & Snell), 0.227 (Nagelkerke). Step: Χ2(1) = 0.046, p = 0.830. Model 
+Χ2(12) = 18.259, p = 0.1 08. 
+30.0% of injured correctly classified; 93.4% of non -injured correctly classified.  
+  
+ 
+64 
+ Table 13:  Step 7: Demographics + Training + Wetsuit + Salt Water + Other Efforts 
++ Triathletes + Event Distances  
+ B (SE)  Wald  OR (95% CI)  P value  
+Age (yrs)  0.038 (0.02 2) 3.093  1.039 (0.996, 1.084)  0.079  
+BMI (kg/m2) -0.008 (0.050)  0.025  0.992 (0.899, 1.095)  0.875  
+Sex (Female)  0.961 (0.572)  2.821  2.614 (0.852, 8.021)  0.093  
+Training Years (yrs)  -0.002 (0.017)  0.018  0.998 (0.965, 1.032)  0.893  
+Periodization (Yes)  -0.679 (0.566)  1.438  0.507 (0.167, 1.538)  0.230  
+Cross Train (Yes)  -0.455 (0.707)  0.415  0.634 (0.159, 2.535)  0.519  
+Wetsuit (Sometimes)  0.050 (0.612)  0.007  1.051 (0.316, 3.490)  0.936  
+Wetsuit (Always)  0.460 (0.800)  0.331  1.584 (0.331, 7.595)  0.565  
+Salt Water (<5 0) 0.442 (0.594)  0.555  1.557 (0.486, 4.985)  0.456  
+Salt Water (>50)  0.871 (0.708)  1.514  2.389 (0.597, 9.568)  0.218  
+Other Efforts (Yes)  1.610 (0.666)  5.843  5.004 (1.356, 18.465)  0.016  
+Triathletes (Yes)  -0.256 (0.843)  0.092  0.774 (0.148, 4.038)  0.761  
+Even t Distances (m)  <0.001 
+(<0.001)  0.392  1.000 (1.000, 1.000)  0.531  
+R2 = 0.161 (Cox & Snell), 0.232 (Nagelkerke). Step: Χ2(1) = 0.409, p = 0.523. Model 
+Χ2(13) = 18.668, p = 0.134.  
+30.0% of injured correctly classified; 90.8% of non -injured correctly classifi ed. 
+  
+ 
+65 
+ Chapter  6: Discussion  
+The current study was the first to investigate injury prevalence in a non -elite OW 
+swimming population. The primary aim was to generate data regarding the characteristic 
+injuries sustained  within this population and their assoc iated 6 -month prevalence. A 
+secondary objective was to investigate possible risk factors associated with injury onset.   
+ 
+6.1 Injury Prevalence  
+This study aimed to generate epidemiological data concerning 6 -month injury 
+prevalence within a non -elite populat ion of OW swimmers and to explore possible 
+associations between injury and risk factors/preventative strategies. Our findings suggest 
+a 6-month injury prevalence of 30.0% with most injuries occurring to the shoulder 
+complex (51.0%). Shoulder injuries are c ommonly reported to be the most prevalent 
+among swimmers, presumably due to the shoulder generating much of the propulsive 
+force when moving through the water (Wanivenhaus et al., 2012).   
+The second highest prevalence (12.2%) was injuries to the cervical spine (neck). This 
+is rather inconsistent with the previous literature of pool swimmers and other aquatic 
+athletes with either the lower back (lumbar spine) or knee being the second most 
+prevalent area of injury (Wanivenhaus et al., 2012; Prien et al., 201 7; Baker et al., 2019). 
+Upon closer examination of the article by Mountjoy et al. (201 5) that investigated the 
+injuries in the four weeks leading up to and during the 2013 FINA world championships, 
+“head and neck” accounted for the greatest number of new -onset injuries among the OW 
+swimmers. This was conveyed within a figure and not discussed within the body of the 
+article’s text. Interestingly, there were 5 reports of head and neck injuries among 87 OW 
+ 
+66 
+ swimmers that responded to the surveys (one retrospect ive and one prospective), which 
+would indicate that 5.7% of OW swimmers reported a head or neck injury (Mountjoy et 
+al., 2014). In comparison, there were 23 head and neck injuries reported among the 329 
+water polo players that responded to the surveys (7.0 %) and 4 head and neck injuries 
+reported among 464 pool swimmers (0.9%) (Mountjoy et al., 201 5). Common among 
+water polo and OWS is the possibility of physical contact between athletes, as well as the 
+necessity to look forward while swimming (as discussed in Section 2.1.2.2 ). It would be 
+interesting to note the mechanism (i.e., overuse vs. Contact) to provide more information 
+regarding the etiology of the cervical injury in these populations.  
+Lumbar complaints composed the third most common injury in the c urrent study (n = 
+3, 6.1%), which did not support the hypothesis that low back and hip pain may be of 
+increased prevalence within the OW population.  
+ 
+6.2 Sociodemographic Characteristics  
+It appears that the sociodemographic characteristics of swimmers and  triathletes is 
+rather varied. In most studies of triathletes, young (30 -40 years), male participants were 
+the majority; however, in studies involving masters swimmers, the majority was often 
+female and slightly older (average age reported from 47.1 -55.3 y ears) (Baker et al., 
+2019; Wicker et al., 2012; Kruger et al., 2012; Villavicencio et al., 2006). In the current 
+investigation, there was a predominance of female swimmers (64.6%) and an average 
+age of 47.7 ( 12.4) years, which appears to align with other studies of masters pool 
+swimmers. Two studies concerning OW swimmer demographics were found for 
+comparison; however, both studies involved a sub -set of the wider demographic. 
+ 
+67 
+ Nuckton et al. (2014) studied 103 recreational OW swimmers who were members of a 
+winter swimming club in San Francisco; 76 were men and only 27 female. Nikolaidis et 
+al. (2018) assessed the performances of successful triple crown swimmers from 1875 -
+2017, and only 553 (29%) of the 1875 finishers were female.  It must be noted that both 
+of these populations would be classified as a sub -set of OW swimmers (ice swimmers 
+and channel swimmers), and their summer -swimming and shorter distance counterparts 
+may have a larger proportion of females.  
+In the current study, the average BMI was 26.7 ( 4.8) kg/m2, which would be 
+categorized as ‘overweight’. This was slightly higher than that found among the 103 
+cold-water swimmers in San Francisco (25.9 kg/m2) and the pool -swimmers at the 2009 
+World Masters Games (25.8 2.8 kg/m2) (Crow et al., 2014; Walsh et al., 2013 ). Perhaps 
+OW swimmers have a slightly higher BMI than their pool -swimming counterparts due to 
+cold tolerance; elevated BMI was found to be associated with greater cold tolerance and 
+longer time spent in the water among a sample of OW swimm ers (Nuckton et al., 2014). 
+Notably, our population is not confined to a single club, country or continent. It is also 
+important to note that our survey was open from April to September 2021, which was 
+after several COVID -19 lockdowns world -wide. As docume nted by two studies, one in 
+China and another study in the United States, a significant proportion of participants in 
+both studies reported weight gain during the COVID -19 pandemic (Mulugeta et al., 
+2021; Zhu et al., 2021). A retrospective study analyzing the anthropometric data within 
+the files of 11534 adults in Massachusetts, reported the average weight gain of those who 
+gained weight (95% CI) was 3.41 (3.29, 3.58) kg in men and 3.09 (2.98, 3.19) kg in 
+women (Mulugeta et al., 2021). This resulted in an a verage increase (95% CI) of 1.12 
+ 
+68 
+ (1.05, 1.18) kg/m2 among the men and 1.19 (1.15, 1.24) kg/m2 among women (Mulugeta 
+et al., 2021). From a sample of 889 survey respondents in China, Zhu et al. (2021) 
+reported that 30.6% of the population reported an average  weight gain of 0.5 ( 2.8) kg. 
+Therefore, the elevated BMI found in the current study may have been a by -product of 
+the COVID -19 pandemic rather than being indicative of the general OWS population.   
+The educational level reported by our respondents was co nsistent with that of 
+Canadian Master’s pool swimmers, triathletes, and a broader group of “endurance 
+athletes” (Larson et al., 2021, Wicker et al., 2012; Kowalski, 1999). The population 
+appears to be highly educated, with all studies reporting 29.0 to 39. 0% of respondents 
+having obtained a Bachelor’s  degree, 23.0 to 28.1% having obtained a Master’s degree 
+and 10.0 to 15.9% of respondents having obtained a PhD or Professional degree (Larson 
+et al., 2021; Kowalski, 1999). Larson et al. (2021) suggested that the socioeconomic 
+profile of the swimmers may reflect characteristics of the youth population that carry 
+over into adulthood.  
+ 
+6.3 Risk Factor Analysis  
+ This study used logistic regression to explore the relationship between thirteen 
+possible predictor var iables and a report of at least one  injur y in the prior 6 months  (the 
+outcome variable). The only significant independent predictor of injury was the 
+respondent having reported to engage in efforts to prevent injury (OR [95%CI] = 5.004 
+[1.356, 18.465], Wal d=5.843, p=0.016). The reason for this is unknown . However, since  
+the start date of the injury prevention efforts was not requested in the survey , perhaps  
+those that ha d sustained a n injury are the individuals that are currently participat ing in 
+ 
+69 
+ efforts to  prevent injuries in the future. Another explanation may be the reverse; those 
+that have injured themselves in the past may be more likely to engage in injury 
+prevention because of past experiences , but also may have been more likely to be injured 
+again (h ence, the current injury) . It would be prudent to explore this potential association 
+with more in -depth analyses in future studies.  
+ The final model also included two variables that displayed a non -significant trend 
+to predict injury; age (OR [95%CI] = 1.0 39 [0.996, 1.084], Wald = 3.093, p = .079) and 
+sex (female) (OR [95%CI] = 2.614 [0.852, 8.021], Wald = 2.821, p = .093) . Baker et al. 
+(2019) also reported a 1.6% per -year increase in the odds of sustaining an injury among 
+the 499 master ’s swimmers t hey sur veyed  ((OR = 1.016, 95 % CI = 1.001 -1.030; p < 
+0.05). An association of increasing  injury with age has also been reported in the 
+recreational running population  (Johnston et al., 2018) . Both Kruger et al. (2012) and 
+Tate et al . (2012) did not find a relati onship between age and shoulder injury ; however, 
+Tate et al. Grouped master’s  swimmers into one category and compared them to brackets 
+of younger age-group swimmers, and Kruger et al. used 10-year age brackets and found 
+a non -significant association betwee n age and shoulder pain above 55 years of age.  
+Female swimmers may also be at an increased risk of injury . This association has 
+been demonstrated in other swimming populations and is a relatively well -established 
+phenomenon in other populations for certai n characteristic injuries . For instance, ACL 
+rupture and bone stress injuries occur at higher rates among adolescent female 
+populations as compared to their male counterparts (Lin et al., 2018). Explanations for 
+this are quite varied . As previously discuss ed, the smaller average body size among 
+ 
+70 
+ females leads to more repetition required to travel a pre -determined distance  (Bak & 
+Fauno, 1997 ; Gupta et al., 2020 ). Other explanations may include anatomical variance  
+(e.g., smaller ligament size or decreased femo ral notch width), physiologic differences 
+(e.g., age of menarche,  hormonal factors), or differences in neuromuscular control or 
+biomechanical risk factors ( e.g., landing mechanics) (Lin et al., 2018). Although i t is 
+important to note the phenomenon, it mus t be linked to a specific risk factor and cause in 
+order to establish effective prevention strategies (for instance, prevention programs for 
+ACL injuries being implemented in female soccer programs).   
+ 
+Chapter  7: Strengths and Limitations  
+The current study utilized a cross -sectional design asking participants to r ecall  
+injuries sustained during the most recent  6-month period on a self-administered internet -
+based survey. This design has been chosen due to practical limitations of time  and 
+money , as well as  an effort to maximize the reach of the survey . Due to the retrospective 
+nature of the survey questions , a limitation of this study is the phenomenon of recall bias.  
+There appears to be no literature comparing the effects of recall bias between 6 and 18 -
+months; however , Gabbe and Finch (2003) noted discrepancies in recall in as little as 2-
+months , and Junge and Dvorak (2000) noted that discrepancies may not only include 
+occurrence , but the severity of injury as well.  Therefore, due to recall bias , the repor ted 
+prevalence in this study may underestimate the actual injury rate in this population 
+(Swimming Canada, 2020; Griffiths, 2020). Further, a  cross -sectional design differs from 
+a longitudinal study because it represents injury prevalence at a snapshot in time, and 
+ 
+71 
+ therefore, one cannot infer causation from any conclusions  drawn (Creswell & Creswell, 
+2018).   
+As with any voluntary survey data, response bias  (i.e., a difference between 
+respondents and non-respondents ) may also be a limitation. To investigate this 
+possibility, Creswell and Creswell (2018) recommend conducting a wave analysis where 
+select questionnaire items are analyzed on a week -by-week basis to determine if the 
+average responses are changing throughout the course of the study. This was not do ne, 
+but recruitment was staggered with the first social media recruitment post being made on 
+April 22, 2021 and revisited monthly until August 2021.  
+Nonprobability samples are comparable to samples that result from very low 
+response rates (Fowler, 1993). This is because respondent characteristic s influence 
+whether or not the individual will respond  (Fowler, 1993) . Fowler (2013) has identified 
+many studies that conclude that individuals who are inherently interested in the research 
+subject ( e.g., have been injured in the past or are interested in research) are more likely 
+participate in the study. Therefore, it is important to identify and highlight such 
+characteristics.  
+Since  there were some missing data points, the resulting analysis might not be 
+represent ative of the sample population.  This could have been mediated by increasing 
+the sample size of the study. Ideally, the sample size would have been over 400 
+participants, as recommended by Bewick et al., (2005). However, this was not possible 
+due to time li mitations with the project.  
+As noted , survey questions are subject to interpretation by the respondent. During 
+data cleaning, it was apparent that some questions required clarification or were poorly 
+ 
+72 
+ understood by some of the respondents . For instance, par ticipants were asked if and how 
+they periodized their training and one respondent selected ‘no’ to indicate that their 
+training was not periodized, and therefore remained stable throughout the year. Yet later, 
+they indicated they “…only swim in the sea. In  the summer I swim 5 miles in a week. In 
+the winter, maybe 100m per week”. Therefore, the respondent clearly misunderstood the 
+question and the data provided was not congruent with other responses.  
+ 
+Chapter  8: Conclusion  
+ This study aim ed to investigate  the MSK injury profile of non-elite OW 
+swimmers and gain insight into possible risk factors associated with such injury. 
+Currently there is no published data specific to OW swimmers  for the athlete , coach  or 
+the health care professionals to consult when bui lding training and competition 
+schedules . Rather,  injury prevalence  and epidemiologic data are generalized  from the 
+pool swimming population, which negates the di fferences in di stance , venue 
+characteristics  and the unpredictable environmental conditions in which  OW swimmers 
+compete and train . The results of this study indicate our respondent characteristics are 
+congruent with other studies with a few minor differences. Similar to most swimming 
+literature, shoulder injury prevalence was reported as highest i n this population. 
+Surprisingly, injuries to the cervical spine were the second most common injury . Future 
+consideration should be given to developing comprehensive shoulder and cervical injury 
+prevention strategies ; however, it would be beneficial to cond uct further investigation 
+into etiology and associated risk factors before doing so . Statistical  analysis indicated a 
+trend towards  injury risk increasing  with age and in females (sex) . The only significant 
+ 
+73 
+ independent predictor of injury in our model was whether or not the swimmer engages in 
+efforts of injury prevention. However, there are many confounding variables that may be 
+associated with this finding.  Future plans include  disseminat ing pertinent findings to the 
+OW swimming population , not only throug h peer -reviewed literature  accessible to health 
+care providers,  but also  through  media outlets popular among the OW population ( e.g. 
+Outdoor Swimmer  magazine).   
+ 
+74 
+ References  
+Andersen, C. A., Clarsen, B., Johansen , T. V., & Engebretsen, L. (2013). High 
+preva lence of overuse injury among iron -distance triathletes.  British Journal of 
+Sports Medicine , 47(13), 857 -861. 
+Bahr, R., & Holme, I. (2003). Risk factors for sports injuries — a methodological 
+approach.  British Journal of Sports Medicine , 37(5), 384 –392. 
+https://doi.org/10.1136/bjsm.37.5.384  
+Bak, K., & Fauno, P. (1997). Clinical findings in competitive swimmers with shoulder 
+pain. American Journal of Sports Medicine.  25(2), 254 -260.  
+Baker , B.D., Lapierre , S.S., & Tanaka , H. (2019). R ole of Cross -training in  orthopaedic 
+injuries and healthcare burden in master’s  swimmers.  International Journal of 
+Sports Medicine , 40, 52-56. Doi:10.1055/a -0759 -2063, 10.1055/a -0759 -2063  
+Baldassarre, R., Bonifazi, M., Zamparo, P., & Piacentini, M.F. (2017). Characteristics 
+and challenges of open -water swimming performance: A review.  International 
+Journal of Sports Physiology and Performance , 12(10), 1275 -1284.  
+Bewick, V., Cheek, L., Ball, J. (2005). Statistics review 14: Logistic regression. Critical 
+Care . 9(1), 112 -118. 
+Brinji kji, W., Luetmer, P. H., Comstock, B., Bresnahan, B. W., Chen, L. E., Deyo, R. A., 
+Halabi, S., Turner, J. A., Avina, A. L., James, K., Kallmes, D. F., & Wald, J. T. 
+(2015). Systematic literature review of imaging features of spinal degeneration in 
+asymptom atic populations.  American Journal of Neuroradiology , 36(4), 811 -816. 
+Capaci, K., Ozcaldiran, B., & Durmaz, B. (2002). Musculoskeletal pain in elite 
+competitive male swimmers.  The Pain Clinic , 14(3), 229 -234. 
+ 
+75 
+ Chase, K. I., Caine, D. J., Goodwin, B. J., Whi tehead, J. R., & Romanick, M. A. (2013). 
+A prospective study of injury affecting competitive collegiate 
+swimmers.  Research in Sports Medicine , 21(2), 111 -123. 
+Creswell, J. W., & Creswell, J. D. (2018).  Research design: qualitative, quantitative, and 
+mixed methods approaches (5th ed.). Los Angeles: SAGE.  
+Eckard, T. G., Padua, D. A., Hearn, D. W., Pexa, B. S., & Frank, B. S. (2018). The 
+relationship between training load and injury in athletes: a systematic 
+review.  Sports medicine , 48(8), 1929 -1961.  
+Endean, A ., Palmer, K. T., & Coggon, D. (2011). Potential of magnetic resonance 
+imaging findings to refine case definition for mechanical low back pain in 
+epidemiological studies: a systematic review.  Spine , 36(2), 160 -169. 
+Evans, K., Refshauge, K. M., Adams, R., &  Aliprandi, L. (2005). Predictors of low back 
+pain in young elite golfers: A preliminary study.  Physical Therapy in Sport , 6(3), 
+122-130. 
+Fawkner, H. J., mcmurrary , N. E., & Summers, J. J. (1999). Athletic injury and minor 
+life events: a prospective study.  Journal of Science and Medicine in Sport , 2(2), 
+117-124. 
+Feijen, S., Tate, A., Kuppens, K., Claes, A., and Struyf, F. (2020). Swim training volume 
+and shoulder pain across the life span of the competitive swimmer: a systematic 
+review. Journal of Athletic Training, 55 (1), 32 -41. 
+Field, A. (2009). Discovering statistics using SPSS (3rd Ed.). London: SAGE 
+Publications.  
+ 
+76 
+ FINA  Fédération internationale de natation  (2017) FINA o pen water swimming rules . 
+Retrieved from 
+https://www.fina.org/sites/default/files/2017_2021_ows_12092017_ok.pdf  
+FINA Fédération internationale de natation (2019) Rules and regulations: FINA 
+Ultramarathon swim  series  rules and regulations . Retrieved from 
+https://www.fina.org/sites/default/files/fina_ultramarathon_swim_rules_and_regu
+lations_ -_2019.pdf  
+Fuller, C. W., Molloy, M. G., Bagate, C., Ba hr, R., Brooks, J. H., Donson, H., Kemp, 
+S.P., mccrory , P., mcintosh , A.S., Meeuwisse, W.H., Raftery, M., Wiley, P.,  & 
+Quarrie, K. L. (2007). Consensus statement on injury definitions and data 
+collection procedures for studies of injuries in rugby union.  British Journal of 
+Sports Medicine , 41(5), 328 -331. 
+Gabbe, B. J., Finch, C. F., Bennell, K. L., & Wajswelner, H. (2003). How valid is a self 
+reported 12 month sports injury history?.  British Journal of Sports 
+Medicine , 37(6), 545 -547. 
+Gaunt, T., & Maffulli,  N. (2011). Soothing suffering swimmers: A systematic review of 
+the epidemiology, diagnosis, treatment and rehabilitation of musculoskeletal 
+injuries in competitive swimmers.  British Medical Bulletin , 103(1), 45 -88. 
+Global Swim Series. (n.d.). About us . Retrieved from 
+https://globalswimseries.com/about/  
+Gosling, C. M., Gabbe, B. J., & Forbes, A. B. (2008). Triathlon related musculoskeletal 
+injuries: The status of injury prevention knowledge.  Journal of Science and 
+Medicine in Sport , 11(4), 396 -406. 
+ 
+77 
+ Griffith s, S. (2020, April 13).  When and how might we get back to outdoor swimming? 
+Https ://outdoorswimmer.com/blogs/when -and-how-might -we-get-back -to-
+outdoor -swimmi ng. 
+Grote, K., Lincoln, T. L., & Gamble, J. G. (2004). Hip adductor injury in competitive 
+swimmers.  The American journal of sports medicine , 32(1), 104 -108. 
+Guppy, N., & Gray, G. A. (2008).  Successful surveys: Research methods and 
+practice  (4th ed.). Thom son/Nelson.   
+Gupta, A.S., Pierpoint, L. A., Comstock, R. D., & Saper, M. G. (2020). Sex -Based 
+Differences in Anterior Cruciate Ligament Injuries Among United States High 
+School Soccer Players: An Epidemiological Study.  Orthopaedic Journal of 
+Sports Medicin e, 8(5), 2325967120919178 –2325967120919178. 
+Https://doi.org/10.1177/2325967120919178  
+Hangai, M., Kaneoka, K., Hinotsu, S., Shimizu, K., Okubo, Y., Miyakawa, S., Mukai, 
+N., Sakane, M., & Ochiai, N. (2009). Lumbar intervertebral disk degeneration in 
+athletes . The American Journal of Sports Medicine , 37(1), 149 -155.  
+Harries, M. (1983). Drowning and near drowning. British Journal of Sports Medicine, 
+17(1) 5 -6 
+Henry, G. T. (1990). Sample selection approaches. In Henry, G. T.  Applied Social 
+Research Methods:  Practical sampling  (pp. 17 -32). Thousand Oaks, CA: SAGE 
+Publications, Inc. Doi: 10.4135/9781412985451  
+Hill, L., Collins M ., & Posthumus , M. (2015). Risk factors for shoulder pain and injury 
+in swimmers: A critical systematic review. The Physician and Sports M edicine , 
+43(4), 412 -420. Doi: 10.1080/00913847.2015.1077097  
+ 
+78 
+ Hill, L., Mountjoy, M., & Miller, J. (2022). Non -shoulder Injuries in Swimming: A 
+Systematic Review.  Clinical Journal of Sport Medicine , 32(3), 256 –264. 
+Https ://doi.org/10.1097/JSM.000000000000090 3 
+International Ice Swimming Association (2019). Swimming rules and regulations .  
+Retrieved from: https://www.internationaliceswimmin g.com/wp -
+content/uploads/2019/11/IISA -Swimming -Rules -and-Regulations.pdf  
+Johnston, R., Cahalan, R., Bonnett, L., Maguire, M., Nevill, A., Glasgow, P., O’Sullivan, 
+K., & Comyns, T. (2019). Training load and Baseline characteristics associated 
+with new inju ry/pain within an endurance sporting population: A prospective 
+study.  International Journal of Sports Physiology and Performance , 14(5), 590 –
+597. Doi: 10.1123/ijspp.2018 -0644   
+Johnston, R., Cahalan, R., O’Keeffe, M., O’Sullivan, K., & Comyns, T. (2018). Th e 
+associations between training load and baseline characteristics on 
+musculoskeletal injury and pain in endurance sport populations: A systematic 
+review.  Journal of Science and Medicine in Sport , 21(9), 910 –918. 
+Https ://doi.org/10.1016/j.jsams.2018.03.001  
+Junge, A., & Dvorak, J. (2000). Influence of definition and data collection on the 
+incidence of injuries in football.  The American Journal of Sports 
+Medicine , 28(5_suppl), 40 -46. 
+Kaneoka, K., Shimizu, K., Hangai, M., Okuwaki, T., Mamizuka, N., Sakane, M., & 
+Ochiai, N. (2007). Lumbar intervertebral disk degeneration in elite competitive 
+swimmers: A case control study.  The American Journal of Sports 
+Medicine , 35(8), 1341 -1345.  
+ 
+79 
+ Kennedy, J. C., Hawkins, R., & Krissoff, W. B. (1978). Orthopaedic manifestations o f 
+swimming.  The American Journal of Sports Medicine , 6(6), 309 -322. 
+Kent, D. (2020, May 28).  Global Swim Series Announces Brand New Virtual Open 
+Water Race Series . Global Swim Series. Https ://globalswimseries.com/global -
+swim -series -announces -brand -new-virtual-open -water -race/.  
+Kerr, Z. Y., Baugh, C. M., Hibberd, E. E., Snook, E. M., Hayden, R., & Dompier, T. P. 
+(2015). Epidemiology of National Collegiate Athletic Association men's and 
+women's swimming and diving injuries from 2009/2010 to 2013/2014.  British  
+Journal of Sports Medicine , 49(7), 465 -471. 
+Khodaee, M., Edelman, G.T., Spittler, J., Wilber, R., Krabak, B.J., Solomon, D., 
+Riewald, S., Kendig, A., Borgelt, L.M., Riederer, M., & Puzovic, V. (2016). 
+Medical care for swimmers.  Sports Medicine -open , 2(1), 27. 
+Kitamura, G., Tateuchi, H., & Ichihashi, N. (2020). Swimmers with low back pain 
+indicate greater lumber extension during dolphin kick and psoas major 
+tightness.  Journal of sport rehabilitation , 29(8), 718 -722. 
+Korkia  PK, Tunstall -Pedoe  DS, Maffulli  N (1994). An epidemiological investigation of 
+training and injury patterns in British triathletes . British Journal of Sports 
+Medicine  28(3), 191 -196. 
+Kowalski, J. C. (1999).  The personality characteristics of endurance athletes . ProQuest 
+Dissertations Publis hing.  
+Kruger, P. E., Dressler, A., & Botha, M. (2012). Incidence of shoulder injuries and 
+related risk factors among master swimmers in South Africa.  African Journal for 
+Physical Health Education, Recreation and Dance , 18(Supplement 1), 57 -76. 
+ 
+80 
+ Kuhn, J. E.,  Greenfield, M. L. V. H., & Wojtys, E. M. (1997). A Statistics Primer: 
+Prevalence, Incidence, Relative Risks, and Odds Ratios: Some Epidemiologic 
+Concepts in the Sports Medicine Literature.  The American Journal of Sports 
+Medicine , 25(3), 414 –416. https://d oi.org/10.1177/036354659702500325  
+Lin, C.Y., Casey, E., Herman, D.D., Katz, N., Tenforde, A.S. (2018). Sex differences in 
+common sports injuries. PM&R, 10 (10), 1073 -1082.  
+Marathon Swimmers Federation, (2020). Documented Swims . Retrieved October 14, 
+2020, f rom https://marathonswimmers.org/swims/  
+Martins, L. C. X., Paiva, J. R., Freitas, A. C., Miguel, L. B., & Maia, F. R. C. (2014). 
+Prevalence of pain and associated factors in elite swimmers.  Science & 
+Sports , 29(3), e11 -e14. 
+Matsuura, Y., Hangai, M., Koizum i, K., Ueno, K.,  Hirai, N., Akuzawa, H., & Kaneoka, 
+K. (2019 a). Injury trend analysis In the Japan ese national swim team from 2002 
+to 2016: effect of the lumbar injury prevention project. BML Open Sport & 
+Exercise Medicine, 5 ;5e000615. Doi:1-.1136/bmjsem -2019 -000615  
+Matsuura, Y., Iizuka, S., Koizumi, K., Okuno, K., & Kaneoka, K. (2019b). Immediate 
+effects of the deep trunk muscle training on lumbar spine alignment during 
+swimming.  International Journal of Sport and Health Science , 201820.  
+Mcgowan , C. J., P yne, D. B., Raglin, J. S., Thompson, K. G., & Rattray, B. (2016). 
+Current warm -up practices and contemporary issues faced by elite swimming 
+coaches.  The Journal of Strength & Conditionin g Research , 30(12), 3471 -3480.  
+ 
+81 
+ Meeuwisse, W. H. (1994). Assessing Caus ation in Sport Injury: A Multifactorial 
+Model.  Clinical Journal of Sport Medicine , 4(3), 166 –170. 
+https://doi.org/10.1097/00042752 -199407000 -00004  
+Moradi, V., Memari, A. H., ShayestehFar, M.,  & Kordi, R. (2015). Low back pain in 
+athletes is associated with general and sport specific risk factors: a 
+comprehensive review of longitudinal studies.  Rehabilitation research and 
+practice , 2015 . 
+Mountjoy, M., Junge, A., Alonso, J.M., Clarsen, B., Pluim , B.M., Shrier, I., van den  
+Hoogenband, C., Marks, S., Gerrard, D., Heyns, P. , & Kaneoka, K. (2016). 
+Consensus statement on the methodology of injury and illness surveillance in 
+FINA (aquatic sports).  British Journal of Sports Medicine , 50(10), 590 -596. 
+Mountjoy, M., Junge, A., Alonso, J. M., Engebretsen, L., Dragan, I., Gerrard, D., 
+Kouidri, M., Luebs, E., Shahpar, F.M., & Dvorak, J. (2010). Sports injuries and 
+illnesses in the 2009 FINA World Championships (Aquatics).  British Journal of 
+Sports Medicine , 44(7), 522 -527. 
+Mountjoy, M., Junge, A., Benjamen, S., Boyd, K., Diop, M., Gerrard, D.,  van den 
+Hoogenband, C., Marks, S., Martinez -Ruiz, E., Miller, J., Nanousis, K., Shahpar, 
+F.M., Veloso, J., Mechelen, M.V., & Verhagen, E. (2015). Competing with 
+injurie s: Injuries prior to and during the 15th FINA World Championships 2013 
+(aquatics).  British Journal of Sports Medicine , 49(1), 37 -43.  
+Mountjoy, M., Junge, A., Slysz, J., Miller, J. (2021) An uneven playing field: Athlete 
+injury, illness, load, and daily tr aining environment in the year before the FINA 
+ 
+82 
+ (aquatics) world championships, 2017. Clinical Journal of Sport Medicine, 31, 
+e425 -e431. Https ://dx.doi.org/10.1097/JSM.0000000000000814  
+Mulugeta , W., & Hoque, L. (2021). Impact of the COVID -19 lockdown on weight status 
+and associated factors for obesity among children in Massachusetts.  Obesity 
+Medicine , 22, 100325. Https ://doi.org/10.1016/ j.obmed.2021.100325  
+Nikolaidis, P. T., Di Gangi, S., de Sousa, C. V., Valeri, F., Rosemann, T., & Knechtle, B. 
+(2018). Sex difference in open -water swimming -The Triple Crown of Open 
+Water Swimming 1875 -2017.  PloS One , 13(8), e0202003 –e0202003. 
+https://doi.org/10.1371/journal.pone.0202003  
+Nuckton, T. J., Koehler, E. A., & Schatz, S. P. (2014). Characteristics of San Francisco 
+Bay cold -water swimmers.  The Open Sports Medicine Journal , 8(1). 
+Nyska, M., Constantini, N., Cale -Benzoor, M., Back, Z., Kahn, G., & Mann, G. (2000). 
+Spondylolysis as a cause of low back pain in swimmers.  International Journal of 
+Sports Medicine , 21(05), 375 -379. 
+Physiohealth (2020).  Anterior hip pain with swimming, Retrieved from:  
+https://physiohealth.com.au/strength -control -exercises/anterior -hip-pain-with-
+swimming/  
+Pollard, H., & Fernandez, M. (2004). Spinal musculoskeleta l injuries associated with 
+swimming: a discussion of technique.  Australasian Chiropractic & 
+Osteopathy , 12(2), 72 –80. 
+Prien, A., Mountjoy, M., Miller, J., Boyd, K., van den Hoogenband, C., Gerrard, D., 
+Cherif, M.Y., Lu, Y., Nanousis, K., Liscano, E.I.O., S hahpar, F.M., & Junge, A. 
+(2017). Injury and illness in aquatic sport: How high is the risk? A comparison of 
+ 
+83 
+ results from three FINA World Championships.  British Journal of Sports 
+Medicine , 51(4), 277 -282. 
+Schönbrodt, F. D., & Perugini, M. (2013). At what sample size do correlations 
+stabilize?.  Journal of Research in Personality , 47(5), 609 -612. 
+Schorn , D., Vogler , T., Gosheger , G., Schneider , K., Klingebiel , S., Rickert , C., 
+Andreou , D., & Liem , D. Risk factors for acute injuries and overuse syndromes 
+of the shoulder in amateur triathletes - A retrospective analysis.  Plos 
+One. 2018;13(6):e0198168.  Doi: 10.1371/journal.pone.0198168.  
+Sein, M. L., Walton, J., Linklater, J., Appleyard, R., Kirkbride,  B., Kuah, D., & Murrell, 
+G. A. (20 10). Shoulder pain in elite swimmers: primarily due to swim -volume -
+induced supraspinatus tendinopathy.  British Journal of Sports Medicine , 44(2), 
+105-113. 
+Statistics Canada. Table 13 -10-0794 -01. Measured adult body mass i ndex (BMI) (World 
+Health Organization classification), by age group and sex, Canada and 
+provinces,  Canadian Community Health Survey – Nutrition. Doi: 
+https://doi.org/10.25318/1310079401 -eng. 
+Struyf, F., Tate, A., Kuppens, K., Feijen, S., & Michener, L.A. ( 2017). Musculoskeletal 
+dysfunctions associated with swimmers’ shoulder. British Journal of Sports 
+Medicine, 51 , 775 -780. 
+Tate, A., Turner , G.N., Knab , S.E., Jorgensen , C., Strittmatter , A., & Michener L .A. 
+(2012) . Risk factors associated with shoulder pain  and disability across the 
+lifespan of competitive swimmers. Journal of Athletic Training , 47(2), 149 -158.  
+ 
+84 
+ Tessaro, M., Granzotto, G., Poser, A., Plebani, G., & Rossi, A. (2017). Shoulder pain in 
+competitive swimmers and its prevention: A retrospective ep idemiological cross -
+sectional study of prevalence.  International Journal of Sports Physical 
+Therapy , 12(5), 798.  
+Tipton, M., & Bradford, C. (2014). Moving in extreme environments: Open water 
+swimming in cold and warm water.  Extreme Physiology and Medicine , 3(1), 12.  
+Villavicencio, A. T., Burneikienë, S., Hernández, T. D., & Thramann, J. (2006). Back 
+and neck pain in triathletes.  Neurosurgical focus , 21(4), 1 -7. 
+Wanivenhaus, F., Fox, A. J., Chaudhury, S., & Rodeo, S. A. (2012). Epidemiology of 
+injuries and p revention strategies in competitive swimmers.  Sports Health , 4(3), 
+246-251. 
+Wicker, P., Hallmann, K., Prinz, J., & Weimar, D. (2012) Who takes part in triathlon? 
+An application of lifestyle segmentation to triathlon participants. International 
+Journal of Sport Management and Marketing 12  (1-2), 1-24. 
+Wolf, B.R., Ebinger, A.E., Lawler, M.P., & Britton, C.L. (2009). Injury patterns in 
+division I collegiate swimming. The American Journal of Sports Medicine , 
+37(10) , 2037 -2042. Doi:10.1 177/0363546509339364  
+Walsh, J., Climstein, M., Heazlewood, I. T., Kettunen, J., Burke, S., Debeliso , M., & 
+Adams, K. J. (2013). Body mass index for athletes participating in swimming at 
+the World Masters Games.  The Journal of Sports Medicine and Physical 
+Fitness , 53(2), 162 -168. 
+World Health Organization. (2020).  Coronavirus disease (COVID -19) pandemic . 
+Https ://www.who.int/emergencies/diseases/novel -coronavirus -2019 . 
+ 
+85 
+ Yamato, T.P ., Saragiotto, B.T., & Lopes, A.D. (2015). A consensus definition of 
+running -related injury in recreational runners: A modified Delphi 
+approach.  Journal of Orthopaedic and Sports Physical Therapy , 45(5), 375 -380. 
+Yoma, M., Herrington, L., Mackenzie, T.A. ( 2022). The effect o exercise therapy 
+interventions on should pain and musculoskeletal rish factors for shoulder pain in 
+competitive swimmers: A scoping review. Journal of Sport Rehabilitation, 31 (5), 
+617-628. 
+Zhu, Q., Li, M., Ji, Y., Shi, Y., Zhou, J., Li,  Q., & Zhuang, X. (2021). “Stay -at-Home” 
+lifestyle effect on weight gain during the COVID -19 outbreak confinement in 
+China.  International Journal of Environmental Research and Public 
+Health , 18(4), 1813.  
+Zwingenberger, S., Valladares, R. D., Walther, A., B eck, H., Stiehler, M., Kirschner, S., 
+& Kasten, P. (2014). An epidemiological investigation of training and injury 
+patterns in triathletes.  Journal of Sports Sciences , 32(6), 583 -590.  

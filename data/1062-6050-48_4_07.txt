@@ -1,0 +1,473 @@
+Journal of Athletic Training 2013;48(4):493–498
+doi: 10.4085/1062-6050-48.4.07
+/C211by the National Athletic Trainers’ Association, Inc
+www.natajournals.orgoriginal research
+Sport Injuries in Elite Paralympic Swimmers With
+Visual Impairment
+Marilia Magno e Silva, MSc*; James Bilzon, PhD †; Edison Duarte, PhD*;
+Jose Gorla, PhD*; Roberto Vital ‡
+*Department of Adapted Physical Education, University of Campinas, Sao Paulo, Brazil; †Department for Health,
+University of Bath, United Kingdom; ‡Federal University of Rio Grande do Norte, Natal, Brazil
+Context: Visually impaired athletes sustain overuse injuries
+in the lower limbs, but the pattern of injuries may vary according
+to the sport. The characteristics of sports injuries in visually
+impaired swimmers are unknown.
+Objective: To determine the characteristics and epidemio-
+logic measures (prevalence, clinical incidence, and incidence
+rate) of sports injuries in visually impaired elite nationalswimmers and to assess differences among visual classesand between sexes.
+Design: Descriptive epidemiology study.
+Setting: International Paralympic competitions held be-
+tween 2004 and 2008.
+Patients or Other Participants: Twenty-eight elite, visually
+impaired swimmers (19 males, 9 females) from the Brazilian
+Paralympic Team participated in this study. Twelve were visualclass S11 (blind swimmers), 12 were S12 (low-vision swim-
+mers), and 4 were S13 (low-vision swimmers).
+Intervention(s): A standardized report form was used to
+collect data during 5 competitions. This was endorsed by 2Brazilian sports governing bodies.
+Main Outcome Measures: The characteristics, prevalence,
+clinical incidence, and incidence rate of injuries were calculated.Results: Eighteen athletes reported 41 sports injuries, with
+a prevalence of 64%, clinical incidence of 1.5 injuries perathlete, and an incidence rate of 0.3 injuries per athlete percompetition. Overuse injuries (80%) were more frequent thantraumatic injuries (20%). The clinical incidence and prevalencevaried according to sex and visual class, but no statisticaldifferences were observed ( P..05). The highest proportion of
+injuries was in the trunk (46.34%), followed by the upper limbs(34.15%). The shoulders (29.27%) were most affected, followedby the thoracic (21.95%) and lumbar spine (17.07%). Spasm(36.59%) was the most frequent diagnosis, followed bytendinopathy (26.83%).
+Conclusions: Visually impaired swimmers had a relatively
+high proportion of overuse injuries, predominantly associatedwith muscle spasm in the spine and tendinopathy in theshoulders. No differences were apparent in injury prevalence
+and clinical incidence among visual classes or betweensexes.
+Key Words: epidemiology, disability sport, musculoskeletal
+injuries
+Key Points
+/C15Visually impaired swimmers experienced a relatively high proportion of overuse injuries during competition.
+/C15Injuries were predominantly associated with muscle spasm in the spine and tendinopathy in the shoulders.
+/C15No differences were observed in injury prevalence or clinical incidence among visual classes or between sexes.
+Swimming was ﬁrst introduced to the Paralympic
+Games in Rome, Italy, in 1960. It is a multidisabilitysport in which athletes with physical, motor, visual,
+and intellectual impairments compete across a range ofimpairment classiﬁcations.
+1Visually impaired athletes
+must be formally evaluated by an ophthalmologist todetermine their visual classiﬁcation (ie, the degree ofimpairment). Athletes are categorized in 1 of 3 levels: S11(from no light perception in either eye up to light
+perception, unable to recognize the shape of a hand at
+any distance or direction); S12 (from ability to recognizethe shape of a hand up to a visual acuity of 20/600 or avisual ﬁeld of less than 5 8in the best eye with the best
+practical eye correction); S13 (from visual acuity above 20/600 to 20/200 or a visual ﬁeld of less than 20 8and more
+than 58in the best eye with the best correction).
+2Athletes in
+the S11 visual class mus t wear opaque goggles to
+standardize light perception in competition, negating anypotential advantage over athletes who do not have residual
+vision.1
+In Paralympic sports, the large variety of disabilities,
+sports modalities, and sports classiﬁcation systems creates asigniﬁcant challenge for those studying the epidemiology ofsports injuries.
+3,4The characteristics of sports injuries
+appear to depend on the nature of disability and the sport,but most of the published studies adopt a cross-disabilityresearch design, leading to problems in data interpretation,particularly because different disabilities and sports maymanifest in different injury patterns.
+4Sports injuries are
+also associated with numerous risk factors that are usuallyclassiﬁed as extrinsic (eg, sport, rules, climate, surface,equipment) or intrinsic (eg, body composition, age, sex,ﬂexibility, strength, balance, proprioception), with manyintrinsic risk factors considered modiﬁable.
+5With regard to
+Paralympic sports, the disability must be considered anintrinsic risk factor that cannot be modiﬁed.
+6
+Journal of Athletic Training 493Downloaded from http://meridian.allenpress.com/jat/article-pdf/48/4/493/1609422/1062-6050-48_4_07.pdf by guest on 12 August 2024
+
+The practice of competitive sports predisposes all
+individuals to sports injuries, irrespective of disability.
+Epidemiologic studies related to sports injuries are
+therefore important: to allow prospective participants to
+make informed choices about involvement based on the risk
+of injury; to provide information for medical and health
+care professionals to ensure care in disability sport; and to
+direct researchers, practitioners, and administrators to
+develop preventive strategies and create a safe environment
+for participation.3
+It is well documented that visually impaired athletes
+sustain more injuries in the lower limbs and that the most
+common injuries are tendinopathy, strain, and contusion.7–9
+In general, Paralympic swimming is considered a low-risksport.
+10Unfortunately, to date, few authors have investi-
+gated and reported injuries by sport and disability type, and
+published studies do not therefore reveal the true pattern
+and nature of injuries in elite, visually impaired swimmers.
+The aim of this study is to determine the characteristics and
+epidemiologic measures (prevalence and clinical incidence)
+of sports injuries in elite, visually impaired national
+swimmers and to assess differences among visual classes
+and between sexes.
+METHODS
+This was a descriptive, observational epidemiologic
+study of sports-related injuries in elite, visually impaired
+Brazilian swimmers. Ethical approval was obtained from
+the University of Campinas Research Ethics Committee.
+The Brazilian Paralympic Committee (CPB) and the
+Brazilian Confederation of Sport for Blind Athletes
+(CBDC) gave permission for access to athletes and medical
+records for the purposes of this study.
+Participants
+Twenty-eight athletes (19 males, 9 females) with visual
+disability gave informed consent to participate in this study.
+Twelve athletes were classiﬁed as S11 (blind swimmers), 12
+as S12 (low-vision swimmers), and 4 as S13 (low-vision
+swimmers). All athletes represented the Brazilian Swimming
+Team in international competitions between 2004 and 2008.
+Their participation varied depending on squad selection for
+each event. The form was administrated during the following
+competitions: Paralympic Games 2004 (Greece), Interna-
+tional Blind Sports Federation Pan-American Games 2005
+(Brazil), International Blind Sports Federation World
+Championship 2007 (Brazil), Para Pan-American Games
+2007 (Brazil), and Paralympic Games 2008 (China).Definition of Terms
+Areportable injury was deﬁned as any injury that caused
+an athlete to stop, limit, or modify participation for 1 ormore days.
+8To standardize the location of injury, the body
+was divided into the following segments and regions: head
+(head, face); upper limb (shoulder, arm, elbow, forearm,wrist, hand, ﬁngers); lower limb (hip, thigh, knee, lowerleg, ankle, feet), and trunk (spine, abdomen, rib cage). The
+mechanism of injury was determined as traumatic (resulting
+from a speciﬁc, identiﬁable event) or overuse (caused byrepeated microtrauma without a single identiﬁable eventresponsible for the injury).
+10
+Epidemiologic measures (prevalence, clinical incidence,
+and incidence rate) were evaluated. Prevalence is deﬁned
+as the proportion of athletes who have an existing injury at
+any given point in time; it is calculated by dividing the
+number of injured athletes by the number of athletesexposed at the speciﬁed time.
+11,12Clinical incidence is
+deﬁned by using the number of injuries as the numerator
+and the number of athletes at risk as the denominator.11
+Incidence rate is the number of injuries divided by the total
+person-time at risk (athlete-exposures).11In this study, the
+athlete-exposure is represented by competition and year.
+Injury Report Form
+A standardized injury report form, used routinely by the
+CPB and CBDC, required documentation of the following
+information: athlete name, age, sex, visual classiﬁcation,sport, event, injured body part, and mechanism anddiagnosis of injury. During the competitions, the multidis-
+ciplinary Brazilian medical team consisted of orthopaedists,
+physiotherapists, and nurses. The orthopaedists determinedthe precise diagnosis of each sports-related injury, afterwhich athletes were referred to a physiotherapist. Sports
+injuries that occurred outside the period of competition
+were not recorded. When an athletes suffered a recurrentinjury, the injury was counted only once.
+Statistical Analysis
+All data were collated using Excel 2007 (Microsoft
+Corporation, Redmond, WA) and analyzed using SPSS
+14.0 (SPSS, IBM Brazil Ltd, Sao Paulo, Brazil). Descrip-
+tive statistics were calculated and used to determine thetotal and relative frequency of injuries. The Shapiro-Wilktest was conducted to determine the normality of data
+distribution. Where the normality of data distribution could
+be assumed, a 1-way analysis of variance test wasperformed. Alternatively, the Kruskal-Wallis test was usedTable 1. Number of Participating Athletes, Injured Athletes, and Injuries by Visual Class and Sex in Each Swimming Competition
+CompetitionParticipating Athletes Injured Athletes No. of Injuries
+S11 S12 S13 F M T S11 S12 S13 F M T S11 S12 S13 F M T
+Paralympic Games 2004 3 — — 1 2 3 3 — — 1 2 3 4 — — 1 3 4
+Pan-American Games 2005 9 11 3 7 16 23 3 4 1 3 5 8 3 3 1 2 5 7World Championship International Blind Sports
+Federation 20077 4 3 5 9 14 6 2 3 4 7 11 12 3 7 4 18 22
+Para Pan-American Games 2007 9 2 2 5 8 13 4 0 1 3 2 5 6 0 0 3 3 6
+Paralympic Games 2008 2 — 1 1 2 3 1 — 0 1 0 1 2 — 0 0 2 2Total 12 12 4 9 19 28 9 5 4 6 12 18 26 6 8 10 31 41
+Abbreviations: F, female; M, male; T, total.
+494 Volume 48 /C15Number 4 /C15August 2013Downloaded from http://meridian.allenpress.com/jat/article-pdf/48/4/493/1609422/1062-6050-48_4_07.pdf by guest on 12 August 2024
+
+to assess differences among visual classes and between
+sexes. The level of signiﬁcance was set a priori at P,.05.
+RESULTS
+Of the 28 athletes, 18 sustained a total of 41 sports
+injuries (Table 1), giving a prevalence of 64%. Descriptive
+data on the prevalence and clinical incidence in each
+competition, also presented by visual class and sex, are
+provided in Table 2. The overall clinical incidence was 1.5
+injuries per athlete. The incidence rate was 0.3 injuries per
+athlete per competition.
+With regard to sex, the injury prevalence was slightly
+higher in female compared with male swimmers (Table 2),
+but this was not statistically signiﬁcant ( P¼.12). Similarly,
+the clinical incidence was higher in male compared with
+female swimmers (Table 2), but again, not signiﬁcantly ( P
+¼.16). With regard to visual class, S13 athletes presented a
+higher prevalence of injury, followed by S11 and S12
+athletes ( P¼.18). The clinical incidence in S11 athletes
+was higher, followed by S13 and S12 athletes ( P¼.1; Table
+2). No statistical differences were found between subgroups
+(P..05).
+With regard to the mechanism of injury (Figure 1), of 41
+injuries, 33 were overuse injuries (80%). The frequency and
+distribution of injuries by body segment (Figure 2) reveal
+that the trunk sustained 46.34% of injuries, mostly in the
+spine (43.9%), followed by the upper limbs, lower limbs,
+and head.
+The frequency of injuries in each anatomical region
+(Figure 3) showed that the proportion of shoulder injuries
+was greater than the proportion of injuries to the thoracic
+and lumbar spine.
+The frequency of sports injuries also varied by diagnosis
+(Figure 4), with the greatest frequencies reported as spasm
+(36.59%) and tendinopathy (26.83%).
+DISCUSSION
+Although not statistically signiﬁcant, a trend for the
+prevalence of injury to be higher in S13 swimmers (100%),
+followed by S11 (75%) and S12 (42%) was noted, but the
+clinical incidence was higher in S11 (2.3 injuries per
+athlete) and S13 (2.0 injuries per athlete) swimmers,
+compared with S12 (0.5 injuries per athlete) swimmers
+(Table 2). These trends are worthy of further investigation
+with larger cohorts. In this group, a larger number of S13
+athletes was injured, but S11 athletes presented with a
+greater number of injuries per athlete, resulting in a
+complex relationship between visual class and injury.Magno e Silva et al6analyzed a group of 131 visually
+impaired athletes in different sports and found that athletes
+with less visual function had a higher prevalence of injury.
+It is also noteworthy that swimmers in the classes with
+better vision delivered the best performances.13,14
+The sport-speciﬁc demands of swimming improve
+performance and yet simultaneously reduce shoulder
+stability (increased shoulder range of motion; increased
+internal rotation and adduction strength; and prolonged,
+fatiguing, shoulder-intensive training), which can predis-
+pose individuals to injury.15As the current study did not
+evaluate other external factors such as training load, we
+cannot be more conclusive about the factors affecting injury
+outcomes.
+We observed an overall injury prevalence of 64%, and
+the group sustained a clinical incidence of 1.5 injuries per
+athlete, indicating that some athletes sustained multiple
+injuries.11These results are similar to results reported by
+Reynolds et al,16who found that on the British Paralympic
+swimming team during the Paralympic Games of Barcelona
+(1992), of 43 athletes (multidisability), 69% were injured.
+In Olympic17and Paralympic4sports, swimming is
+generally considered a low-risk sport when compared with
+other activities. Magno e Silva et al18observed that blind
+elite footballers presented a clinical incidence of 2.7
+injuries per athlete during a 4-year period of observation,
+including 5 competitions and 23 matches.
+Our results demonstrated a similar value when we
+compared injury by sex. Female athletes (67%) had a
+slightly higher prevalence than male athletes (63%), but
+this was not signiﬁcantly different ( P¼.12). MaleTable 2. Prevalence and Clinical Incidence by Visual Class and Sex in Each Swimming Competition
+Prevalence/Risk, %
+(Injured Athletes/Participating Athletes *100)Clinical Incidence,
+Injuries/Participating Athletes
+Competition S11 S12 S13 F M T S11 S12 S13 F M T
+Paralympic Games 2004 100 — — 100 100 100 1.3 — — 1.0 1.5 1.3
+Pan-American Games 2005 33 36 33 43 31 35 0.3 0.3 0.3 0.3 0.3 0.3
+World Championship International
+Blind Sports Federation 200785 50 100 80 78 79 1.7 0.8 2.3 0.8 2.0 1.6
+Para Pan-American Games 2007 44 0 50 60 25 38 0.7 0 0.0 0.6 0.4 0.5
+Paralympic Games 2008 50 — 0 100 0 33 1.0 — 0.0 0.0 1.0 0.7
+Total 75 42 100 67 63 64 2.3 0.5 2.0 1.1 1.6 1.5
+Abbreviations: F, female; M, male; T, total.
+Figure 1. Mechanism of sports injuries in elite, visually impaired
+swimmers during competitions.
+Journal of Athletic Training 495Downloaded from http://meridian.allenpress.com/jat/article-pdf/48/4/493/1609422/1062-6050-48_4_07.pdf by guest on 12 August 2024
+
+swimmers (1.6 injuries per athlete) had a slightly greater
+clinical incidence when compared with female swimmers
+(1.1 injuries per athlete), but again, no statistical difference
+was found ( P¼.16). Thus, in this group, a large proportion
+of female athletes were injured, but male athletes incurred
+more injuries per athlete. In collegiate swimmers without
+disability, Wolf et al19found an injury prevalence of 72.7%
+in male and 70% in female athletes. Indeed, the pattern of
+injuries between men and women seems to shows few
+differences compared with the same sport among able-
+bodied athletes.20Knowles21suggested that female athletes
+have a lower overall rate of injury when compared with
+male athletes without disability. Further authors should be
+encouraged to evaluate the risk of injury by sex in larger
+Paralympic sport cohorts.
+In relation to the injury mechanism (Figure 1), we
+observed that overuse injuries (80%) were more frequent
+than traumatic injuries (20%). The prevalence of overuse
+injuries in athletes with disability has been described in
+previous studies6,8,9but not in relation to speciﬁc sports.
+Mountjoy et al22also described a frequency of 35% overuse
+injuries when evaluating sports injuries in 5 aquatic sports.
+It is estimated that an able-bodied collegiate swimmer
+performs an average of more than 1 million strokes per arm
+per year23; however, training loads among Paralympic
+swimmers are unknown. In visually impaired swimmers,
+the prevalence of overuse injuries may be inherently relatedto the sport, particularly the repetitive movements of arm
+strokes, rather than the disability. Some traumatic injuries
+did occur in this sample, and it is possible that these injuries
+were related to the swimmer’s speciﬁc visual incapacity,
+particularly the inability to see the line lanes and the edges
+of the pool. This resulted in traumatic injuries such as
+contusion, lacerations, and abrasions (Figure 4). The risk of
+colliding with obstacles, among visually impaired athletes,
+may increase feelings of apprehension and anxiety and may
+be a factor that inﬂuences performance.13
+A study of Brazilian Paralympic swimmers (multidis-
+ability) revealed that the upper limbs accounted for 44.4%
+of injuries, followed by the spine (38.9%) and lower limbs
+(16.7%). The body parts most affected were shoulders
+(29.2%) and cervical (16.7%) and thoracic (12.5%) spines,
+and the most frequent injury diagnoses were tendinopathy
+(36%) and spinal pain (36%).24In our research, the thoracic
+spine was the most affected region (22.95%), mainly by
+muscular spasms caused by overuse in the paravertebral
+and scapular stabilizer muscles that are generally over-
+loaded in swimming biomechanics.15,23,25Nyland et al9
+observed a higher prevalence of injury in the cervicotho-
+racic spine (19%) of visually impaired athletes, without
+speciﬁcation of sport, and related the number of injuries to
+the need to suddenly respond to auditory or tactile cues for
+movement correction. Swimming athletes without disability
+also presented with a high number of musculoskeletal
+Figure 2. Sport injury by body segment in elite, visually impaired swimmers during competitions.
+Figure 3. Sport injury by body region in elite, visually impaired swimmers during competitions.
+496 Volume 48 /C15Number 4 /C15August 2013Downloaded from http://meridian.allenpress.com/jat/article-pdf/48/4/493/1609422/1062-6050-48_4_07.pdf by guest on 12 August 2024
+
+injuries in the cervical and thoracic spine.22,26Goldstein et
+al27noted that in a group of female swimmers, 15.8% had
+spine abnormalities. We hypothesize that the relatively high
+prevalence of injuries in this area is related more to the
+mechanics of swimming and to the rotational movement of
+the head during breathing than to the disability type. The
+lumbar spine was the third most injured body part in this
+study (Figure 3). Compared with other athletes, swimmers
+often present with a greater lumbar curvature; furthermore,
+the butterﬂy and breast strokes predispose athletes to pain
+in this anatomical region.26We did not evaluate sport
+injuries according to the stroke style. However, it would
+seem logical that the stroke style is one extrinsic factor that
+can be related to the development of a sport injury, and this
+needs to be considered in further epidemiologic studies of
+Paralympic swimming.
+In the upper limbs, the body part with the greatest injury
+frequency was the shoulder (Figure 3), which was mainly
+related to rotator cuff tendinopathy. In able-bodied
+swimmers, the shoulder is also the body part most
+frequently affected by injury.15,22,23,26Wolf et al19found
+that the shoulder accounted for 31% of injuries in collegiate
+swimmers without disability. In swimming, both the upper
+and lower limbs are used to generate a propulsion force
+through the water,23,28but close to 90% of the propulsion is
+generated by the upper limbs.25It would appear that most
+shoulder pain is caused by instability stemming from
+demands that are speciﬁc to the sport of swimming.15
+Various anatomical regions of the lower limbs were also
+affected by injuries, the feet being the most prone to
+contusions and lacerations (Figures 3 and 4). These injuries
+can be related to errors of judgment, particularly during the
+turn, or to direct contact with the lane line. Thigh injuries
+were predominantly related to muscle spasms, whereas the
+knees were mainly affected by tendinopathy (Figures 3 and
+4). Swimming is a noncontact and non–weight-bearing
+sport29: knee pain and knee injuries generally occur because
+of repetitive movement (ie, overuse), particularly in athletes
+who perform breaststroke. Rodeo30referred to other studies
+with non–visually impaired athletes, in which the preva-
+lence of knee injury varied between 27% and 75%.
+One important observation from our study was that no
+reported injuries affected the head region (Figure 2). This
+suggests that use of a tapper may be an effective method of
+avoiding trauma to the head and face. All visually impairedathletes (S11, S12, and S13) are permitted the assistance of
+a support staff person, the tapper, who indicates to the
+swimmer the approach to the end of the pool, touching the
+athlete with sensorial information.1
+To our knowledge, we are the ﬁrst to report on the
+prevalence, clinical incidence, incidence rate, mechanisms,
+and distribution of sports injuries among elite, visually
+impaired swimmers. Although the sample size is relatively
+small, it includes all available elite swimmers representing
+Brazil throughout a 4-year period of observation and
+highlights the unique risks associated with this sport. In
+conclusion, Brazilian Paralympic swimmers with visual
+impairment were predominantly affected by overuse
+injuries. The trunk was the most affected body segment,
+followed by the upper limbs and lower limbs. More
+speciﬁcally, the shoulders and the cervical and thoracic
+spine were the body areas most affected by injuries. The
+most frequent diagnoses were spasm and tendinopathy.
+Female and male athletes presented similar prevalence and
+clinical incidence values. With respect to visual class, S13
+athletes showed a higher prevalence of injuries, but S11
+athletes had a higher clinical incidence. These results
+suggest that injury-prevention strategies in elite, visually
+impaired swimmers should focus on managing training
+loads to prevent overuse injuries. To prevent traumatic
+injuries, strategies should be developed to further assist
+athletes in gauging their position relative to the lane end,
+preventing traumatic contact injuries such as contusions
+and lacerations.
+Further research should aim to quantify training loads,
+overall athlete-exposures, and other extrinsic factors that
+can be related to sports injuries. This requires a strategic
+approach to optimize the capture and analysis of data
+related to intrinsic and extrinsic risk factors, which
+ultimately requires the development of an electronic
+database system. This will allow all practitioners to enter
+and manage sports injury data from different athletes,
+teams, and locations.
+REFERENCES
+1. International Paralympic Committee. Swimming rules and regula-
+tions 2010. Available at: http://www.paralimpicos.es/publicacion/
+ﬁcheros/ﬁle/11%2026_02_2010_IPC%20Swimming%20Rules%20
+and%20Regulations%202010.pdf. Accessed September 15, 2010.
+Figure 4. Sport injury diagnosis in elite, visually impaired swimmers during competitions.
+Journal of Athletic Training 497Downloaded from http://meridian.allenpress.com/jat/article-pdf/48/4/493/1609422/1062-6050-48_4_07.pdf by guest on 12 August 2024
+
+2. Lieberman LJ. Visual impairments. In: Winnick JP, ed. Adapted
+Physical Education and Sport . 4th ed. Champaign, IL: Human
+Kinetics; 2011:233–248.
+3. Harmer PA. Disability sport. In: Caine C, Linder K, Caine D, eds.
+Epidemiology of Sports Injuries . Champaign, IL: Human Kinetics;
+1996:161–175.
+4. Ferrara MS, Peterson CL. Injuries to athletes with disabilities:
+identifying injury patterns. Sports Med . 2000;30(2):137–143.
+5. Bahr R, Holme I. Risk factors for sports injuries—a methodological
+approach. Br J Sports Med . 2003;37(5):384–392.
+6. Magno e Silva MP, Duarte E, Costa e Silva AA, et al. [Aspectos das
+les˜oes esportivas em atletas com deﬁci ˆencia visual]. Rev Bras Med
+Esporte . 2011;17:319–323.
+7. Burnham R, Newell E, Steadward R. Sports medicine for the
+physically disabled: the Canadian team experience at the 1988 Seoul
+Paralympic Games. Clin J Sport Med . 1991;1(3):191–196.
+8. Ferrara MS, Buckley WE, McCann BC, et al. The injury experience
+of the competitive athlete with a disability: prevention implications.
+Med Sci Sports Exerc . 1992;24(2):184–188.
+9. Nyland J, Snouse SL, Anderson M, et al. Soft tissue injuries to USA
+paralympians at the 1996 summer games. Arch Phys Med Rehabil .
+2000;81(3):368–373.
+10. Fuller CW, Ekstrand J, Junge A, et al. Consensus statement on injury
+deﬁnitions and data collection procedures in studies of football
+(soccer) injuries. Br J Sports Med . 2006;40(3):193–201.
+11. Knowles SB, Marshall SW, Guskiewicz KM. Issues in estimating
+risk and rates in sports injury research. J Athl Train . 2006;41(2):207–
+215.
+12. Gordis L. Measuring the occurrence of disease: morbidity. In: Gordis
+L.Epidemiology . 3rd ed. Philadelphia, PA: Elsevier Saunders; 2004:
+32–47.
+13. Makris VI, Yee RD, Langefeld CD, et al. Visual loss and
+performance in blind athletes. Med Sci Sports Exerc . 1993;25(2):
+265–269.
+14. Malone LA, Sanders RH, Schiltz JH, Steadward RD. Effects of visual
+impairment on stroke parameters in Paralympic swimmers. Med Sci
+Sports Exerc . 2001;33(12):2098–2103.
+15. Weldon EJ III, Richardson AB. Upper extremity overuse injuries in
+swimming: a discussion of swimmer’s shoulder. Clin Sports Med .
+2001;20(3):423–438.16. Reynolds J, Stirk A, Thomas A, Geary F. Paralympics—Barcelona
+1992. Br J Sports Med . 1994;28(1):14–17.
+17. Junge A, Engebretsen L, Mountjoy ML, et al. Sports injuries during
+the Summer Olympic Games 2008. Am J Sports Med . 2009;37(11):
+2165–2172.
+18. Magno e Silva MP, Morato MP, Bilzon JL, et al. Sports injuries in
+Brazilian blind footballers. Int J Sports Med . 2013;34(3):239–243.
+19. Wolf BR, Ebinger AE, Lawler MP, Britton CL. Injury patterns in
+division I collegiate swimming. Am J Sports Med . 2009;37(10):
+2037–2042.
+20. Sallis RE, Jones K, Sunshine S, et al. Comparing sports injuries in
+men and women. Int J Sports Med . 2001;22(6):420–423.
+21. Knowles SB. Is there an injury epidemic in girls’ sports? Br J Sports
+Med. 2010;44(1):38–44.
+22. Mountjoy M, Junge A, Alonso JM, et al. Sports injuries and illnesses
+in the 2009 FINA World Championships (Aquatics). Br J Sports
+Med. 2010;44(7):522–527.
+23. Richardson AR. The biomechanics of swimming: the shoulder and
+knee. Clin Sports Med . 1986;5:103–113.
+24. Vital R, Pereira Vital da Silva HG, Peterson Andrade de Sousa R, et
+al. Orthopaedic trauma injuries in Paralympic athletes. Rev Bras Med
+Esporte . 2007;13:146–149.
+25. Agosta J. Biomechanics of common sporting injuries. In: Brukner P,
+Khan K, eds. Clinical Sports Medicin e. 2nd ed. Roseville, NY:
+McGraw-Hill; 2002:43–83.
+26. Fowler P. Injuries in swimming. In: Renstrom PAFH. Clinical
+Practice of Sports Injury Prevention and Care . Oxford, United
+Kingdom: Blackwell Scientiﬁc Publications; 1994:507–513.
+27. Goldstein JD, Berger PE, Windler GE, Jackson DW. Spine injuries in
+gymnasts and swimmers: an epidemiologic investigation. Am J
+Sports Med . 1991;19(5):463–468.
+28. Troup JP. The physiology and biomechanics of competitive
+swimming. Clin Sports Med . 1999;18(2):267–285.
+29. Hillman SK. Epidemiology of sports injuries. In: Hillman SK.
+Introduction to Athletic Training . 2nd ed. Leeds, United Kingdom:
+Human Kinetics; 2005:33–79.
+30. Rodeo SA. Knee pain in competitive swimming. Clin Sports Med .
+1999;18(2):379–387.
+Address correspondence to James Bilzon, PhD, Department for Health, University of Bath, BA27AY, United Kingdom. Address e-mail
+to j.bilzon@bath.ac.uk .
+498 Volume 48 /C15Number 4 /C15August 2013Downloaded from http://meridian.allenpress.com/jat/article-pdf/48/4/493/1609422/1062-6050-48_4_07.pdf by guest on 12 August 2024
+

@@ -1,0 +1,430 @@
+Mahmoud Almomani 
+ 
+ 
+JASS   30  December  2023 , Volume 13, No. 2  Journal of Applied Sports Science  
+December  2023 , Volume 13, No. 2 
+www.jass.alexu.edu.eg   
+Predictive Models for  Musculoskeletal injuries for swimmers in 
+Jordan  
+MR.  Mahmoud  Almomani (1)  
+(1) Faculty of Health Sciences and Well -Being, School  of Nursing and Health Studies University of Sunderland  
+ 
+Abstract  
+This study is the first of its kind to investigate musculoskeletal injuries in Jordanian swimmers. It aimed to identify 
+common sports injuries in male and female swimmers aged 18 to 25 in Jordan. The research involved 173 participants 
+affiliated with the J ordanian Swimming Federation, using correlation and regression analysis. The study explored the 
+intricate relationship between the age of starting swimming, training routines, and competitive involvement. It revealed 
+negative correlations between the age o f initiation and various performance measures, indicating that starting 
+swimming at a younger age is associated with increased competition participation, more training time, and longer 
+training distances. Furthermore, a strong negative correlation was obse rved between the number of competitions and 
+weekly training time, suggesting that more competitions require more training. Conversely, a positive correlation was 
+found between weekly training distance and training time, indicating that longer training sess ions cover greater 
+distances. It's important to note that these correlations do not imply causation, and other factors may contribute. 
+Regression analysis revealed that the selected independent variables significantly influenced the prediction of swimming 
+injuries, explaining around 37.3% of the variability. The number of competitions emerged as the most influential factor, 
+negatively impacting injury prediction, meaning that more competitions were associated with fewer injuries. 
+Additionally, variables lik e weekly training time, weekly training distance, and the age of starting swimming positively 
+affected injury prediction. The study presented a predictive equation for estimating swimmers' injuries, providing 
+valuable insights for injury prevention and ath lete well -being.  
+Keywords :( Injury ,Correlation analysis ,Regression Analysis, Swimmers, Jordan ). 
+Introduction:         
+The world has undergone a remarkable transformation, 
+experiencing significant advancements across various 
+disciplines including sports and sport related fields. For 
+many years, the interest in sports has increased dramatically 
+and it has become a special f eature for many societies, 
+because of the many benefits of sports on the individual’s 
+physical and psychological health, and how sport enhances 
+the strength and solidity of society. Swimming is 
+considered one of the most important sports activities that 
+gain great support and attention, especially in countries 
+bordering the seas ( Al-Hawamdeh, 2021)  and Trikha, et al., 
+2022).  
+     Swimming sport is an important water sport that has 
+gained tremendous popularity, where its pioneers receive 
+remarkable accolades for their achievements.  This is 
+because swimming contributes to the integration of the 
+individual’s personality in vario us ways. Swimming 
+provides an excellent non -weight -bearing alternative to 
+exercise for people of all age groups. It also has the ability 
+to enhance cardiovascular fitness, muscular strength, and 
+overall well -being without subjecting the body to the same 
+level of strain as high -impact sports (Gračanin, et al.,2023).  
+However, despite its seemingly gentle nature, swimming is 
+not without risks, and swimmers are susceptible to musculoskeletal injuries that impact  on swimmers affecting 
+their performance, training routines, and overall enjoyment 
+of the sport. The repetitive nature of swimming strokes, 
+combined with improper technique and inadequate warm -
+up practices, can lead to a range of musculoskeletal issues, 
+including shoulder impingement, rotator cuff injuries, knee 
+pain, and lower back problems. The prevalence of these 
+injuries highlights the need for a comprehensive 
+understanding of their underlying factors and the 
+development of effective preventive measures  (Al-Tani, 
+Taha Ghafil 2021) . 
+This study conducted an in -depth investigation into 
+musculoskeletal injuries among Jordanian swimmers, a 
+previously unexplored topic in the region. The research 
+aimed to bridge the knowledge gap by identifying the most 
+common musculoskeletal injuries in Jo rdanian swimmers 
+and understanding the contributing factors, considering 
+variables like gender, age, swimming techniques, training 
+intensity, and competitive involvement. It also examined 
+the impact of these injuries on athletic performance. The 
+research i s crucial in the context of competitive swimming, 
+an area where sports injuries have been relatively 
+underexplored. The study focused on aspects with a direct 
+impact on swimmers, distinguishing it from more 
+generalized scientific investigations. The findin gs provide 
+
+Mahmoud Almomani 
+ 
+ 
+JASS   31  December  2023 , Volume 13, No. 2 insights into sports injuries among swimmers, informing 
+policy and practice for the Jordanian Swimming Federation. 
+The research leveraged participant insights and empirical 
+evidence to develop effective injury prevention strategies, 
+ultimately aiming to im prove swimmers' well -being and 
+athletic performance while fostering a deeper appreciation 
+for the sport.  
+Methodology                                                                            
+A comprehensive mixed -methods approach was employed, 
+utilizing an internet -based survey distributed through 
+Qualtrics to gather data from 173 swimmers who are 
+affiliated with the Jordanian Swimming Federation (JSF). 
+The survey, comprising 33 inquiries, inc orporated diverse 
+question formats aimed at capturing information 
+concerning demographics, musculoskeletal injuries, 
+training practices, injury prevention strategies, and other 
+relevant aspects. Subsequently, the amassed data underwent 
+meticulous and rigor ous descriptive statistical analysis to 
+elucidate trends and disparities between theoretical research 
+findings and practical experiences. While the initial target 
+sample size was originally intended to encompass 200 adult 
+swimmers within the age range of 1 8-25, the final number 
+settled at 173 questionnaires, which were considered 
+suitable for thorough statistical analysis after eliminating 
+responses that did not meet the required criteria for inclusion. Diverse online channels were employed for data 
+collect ion, including social media platforms, direct 
+communication with JSF, and online interviews. The 
+collected data underwent careful processing using statistical 
+software tailored for social sciences (SPSS), involving the 
+calculation of correlation coefficien ts, as well as regression 
+analysis, with a significance level established at p < 0.05 to 
+ensure statistical validity.  
+RESULTS  
+Demographics  
+Demographic data include age, age at which swimming 
+started, number of competitions, gender, weekly training 
+time  (WTT ), weekly training distance (WTD) and 
+swimming styles have been calculated with the frequency 
+and percentage demonstrated in tables (1) and Figures (1 – 
+7). This exercise wa s carried out to gain insight into 
+variables which may be related to injury, and to investigate 
+the average demographics of swimming population.  
+Table 1: Demographics , Categories, Frequencies and 
+Percent of data variables.  
+ 
+ 
+Table (1)  
+Demographics , Categories, Frequencies and Percent of data variables.  
+
+Mahmoud Almomani 
+ 
+ 
+JASS   32  December  2023 , Volume 13, No. 2   
+Figure No. (1 ) 
+  Age of Participants.  
+ 
+Figure No. ( 2) 
+Age at which Participants started swimming.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+Mahmoud Almomani 
+ 
+ 
+JASS   33  December  2023 , Volume 13, No. 2 Figure No. ( 3) 
+Number of competitions swimmers have Participated in  
+Figure No. ( 4) 
+Gender distribution of Participants  
+Figu re No. ( 5) 
+Weekly training time (h ours) that Participants have used.  
+
+Mahmoud Almomani 
+ 
+ 
+JASS   34  December  2023 , Volume 13, No. 2   
+Figure No. ( 6) 
+Weekly training time (hours) that Participants have used.  
+ 
+Figure No. ( 7) 
+ Swimming styles that Participants have practiced.  
+Table 1 and figures (1 – 7) show that there were 173 
+swimming participants. Almost 71.7% of the participants 
+noted their age to be underlying within 18 to 20 years. 
+Nearly 26.6% of them stated they were between the ages of 
+21 to 23 years. The rest, 1.7% of  the survey candidates, 
+highlighted their age to be within 24 to 26 years. The age 
+ranges at which the participants have started swimming 
+have been grouped as follows: 5 -10 ,11 -15 ,16 -20 and 21 
+-25; 62.2%,12.8 % , 22.1% and 2.9% respectively. The 
+percen t number of competitions were as follows: (zero; 
+40%), (1 -5; 6%), (6 -10; 3%) and (> 10; 51%). For gender, 
+percentage was distributed as 58% for male and 42% for 
+female. The percentage WTT of participants was conducted 
+for the following categories: less tha n 5, 5 -10, more than 
+10, distributed as follows: 45.7 %, 6.4 %, and 48 % 
+respectively. The percentage of the WTD of the participants was carried out for the following categories: less than 5 , 5 
+-10 , more than 10,  distributed as follows 44%, 8% , 48%, 
+respectively. Since participants competed with more than 
+one swimming style, the total of the 173 participants’ styles 
+have been reported, including freestyle (49%), breaststroke 
+(21.1%), backstroke (17%), and butterfly style (13%).  
+ 
+Correlation analysis  
+Correlation analysis is a method of measuring the 
+correlation of two data sets. The correlation method is used 
+to measure the movement of two data ranges, that is, the 
+similarity between the large values of one set and the high 
+values of the other set (+R), the correlations between the 
+small values of one set and the large values of the other set 
+(- R), or the values of both sets  that are unrelated (zero 
+
+Mahmoud Almomani 
+ 
+ 
+JASS   35  December  2023 , Volume 13, No. 2 correlation).  Correlation coefficient method in the SPSS 
+was used and analysis results are shown in  table 2.  
+As shown in table 2 a negative correlation was found 
+between age at which the participant started swimming  on 
+one hand, and the number of competitions, weekly  training 
+time and weekly training distance on other hand, where  (r 
+= - 0.714 , -0.701 and -0.661, respectively, p < 0.001). Negative correlation also shown between number of 
+competitions and (weekly training time; 0.948), (age at 
+which started; - 0.714) and (weekly training distance: 
+0.890) at ( p<0.001). A strong correlation is also shown 
+between w eekly training distance and weekly  training time 
+(r = 0.944) at (p<0.001).  
+ 
+Table ( 2) 
+:Pearson’s correlation coefficients between variables.  
+Multiple Linear  Regression (MLR):  
+Multiple linear regression method has been carried out to 
+predict swimming injuries (dependent variable) as a result 
+of several independent variables. The selected independent 
+variables used in this study were the number of competition, 
+swimming age start (SAS), weekly training time (WTT), 
+and weekly training distance (WTD).  
+According to results, the sum of what independent variables 
+explain in terms of the variance in swimming injuries was 
+0.373 table (3) were R2  equals 623 and adjusted R2 equals 
+0.373,  at statically significant level less than 0.05 table (4). According to Beta value shown in table (5) the number of 
+competitions has the highest effect with Beta = -0.377, then 
+WTT, WTD and SAS with Beta value equal 0.185, 0.405 
+and 0.488, respectively. Based on these results the equation 
+of prediction for swimming injuries is  as follow  
+ 
+Swimmers’ Injuries = - 0.377* Number of   competitions 
++ 0.185 * WTT + 0.405 * WTD + 0.488* SAS .  
+ 
+Table ( 3) 
+Model summary of regression analysis.  
+ 
+ 
+
+Mahmoud Almomani 
+ 
+ 
+JASS   36  December  2023 , Volume 13, No. 2 Table (4)  
+ANOVA of regression analysis.  
+ 
+ 
+ 
+Table (5)  
+Coefficients of regression analysis.  
+ 
+ 
+Discussion : 
+The findings presented in Table 2 highlight significant 
+correlations among various factors related to swimming 
+performance. These correlations shed light on the complex 
+interplay between the age at which individuals start 
+swimming, their training regimen, and their competitive 
+involvement.  
+Firstly, a negative correlation was observed between the 
+age at which individuals began swimming and several 
+performance metrics. Specifically, a negative correlation 
+coefficient (r) of -0.714, -0.701, and -0.661 was determined 
+between the age of swimming initiation and the number of 
+competitions, weekly training time, and weekly training 
+distance, respectively. This suggests that individuals who 
+commenced swimming at an earlier age tended to participate in more competitions, allocate more time to 
+weekly tr aining, and cover greater distances during their 
+training sessions. Moreover, the negative correlation 
+between the number of competitions and various other 
+factors was also evident. Notably, a strong negative 
+correlation of -0.948 was detected between the number of 
+competitions and weekly training time, as well as a negative 
+correlation of -0.714 with the age at which swimming 
+commenced, and -0.890 with weekly training distance. 
+These findings imply that participants engaging in a higher 
+number of swimming competitions typically devoted more 
+time to weekly training, commenced swimming at a 
+younger age, and covered greater training distances. 
+Furthermore, a robust positive correlation was identified 
+between weekly training distance and weekly training time, 
+
+Mahmoud Almomani 
+ 
+ 
+JASS   37  December  2023 , Volume 13, No. 2 with a correlation coefficient of 0.944. This implies that 
+individuals who trained over longer distances during their 
+weekly sessions also tended to allocate more time to 
+training overall.  
+In a scientific context, these correlations can be attributed 
+to several factors. The negative correlation between the age 
+of swimming initiation and performance metrics could be 
+linked to the notion that starting training at a younger age 
+allows for more years of skill development and practice, 
+leading to enhanced performance. The negative correlation 
+between the number of competitions and training time 
+might suggest that athletes engaging in more competitions 
+require more training to maintain their compet itive edge. 
+The positive correlation between weekly training distance 
+and training time might be indicative of a comprehensive 
+training approach where longer sessions facilitate covering 
+greater distances. It's important to note that these 
+correlations do not necessarily imply causation; other 
+unaccounted factors could also influence the observed 
+relationships. Nevertheless, the scientific significance of 
+these findings underscores the intricate relationships 
+between the timing of skill acquisition, trainin g intensity, 
+and competitive involvement in the realm of swimming 
+performance.  
+The results of the regression analysis, as presented in Table 
+3, reveal that the combined influence of independent 
+variables on explaining the variance in swimming injuries 
+is approximately 37.3%. This assessment is corroborated by 
+the R -squared value of 0 .623 and the adjusted R -squared 
+value of 0.373, both of which are consistent with a 
+statistically significant level below 0.05 (as indicated in 
+Table 4). These metrics collectively suggest that the 
+selected independent variables have a substantial impact o n 
+the prediction of swimming injuries.  
+Upon closer examination of the Beta values provided in 
+Table 5, it becomes evident that the number of competitions 
+emerges as the most influential factor. With a Beta value of 
+-0.377, it exerts a negative effect on the prediction of 
+injuries, implying that  an increase in the number of 
+competitions is associated with a decrease in the incidence 
+of injuries. On the other hand, variables such as WTT (with 
+a Beta value of 0.185), WTD (with a Beta value of 0.405), 
+and SAS (with a Beta value of 0.488) also exhibi t 
+noteworthy effects on predicting swimming injuries, 
+though in a positive manner.  
+Taken together, the outcomes of the analysis furnish us with 
+a predictive equation for estimating swimmers' injuries: 
+Swimmers’ Injuries = -0.377 * Number of Competitions + 
+0.185 * WTT + 0.405 * WTD + 0.488 * SAS. This equation 
+encapsulates the interplay b etween the key factors 
+contributing to swimming injuries, elucidating the relative 
+importance of each independent variable. It is evident that 
+while the number of competitions appears to act as a 
+protective factor, the other variables - WTT, WTD, and 
+SAS - seem to correlate with an increased likelihood of 
+injuries. These findings provide valuable insights for 
+practitioners and researchers in the field of swimming 
+sports, aiding in the development of targeted injury 
+prevention strategies and training protoco ls to enhance 
+athletes' well -being and performance. However, it's important to acknowledge the limitations of the model. 
+While the explanatory power is significant, it doesn't 
+encompass all the factors that might contribute to injury 
+variability in swimmin g. This suggests the possibility of 
+unaccounted variables that could also influence injury 
+occurrences. Future research could delve into these 
+additional factors to create a more comprehensive 
+understanding of swimming injuries. Overall, the analysis 
+provi des a robust foundation for advancing the knowledge 
+surrounding swimming injuries and lays the groundwork 
+for informed decision -making in the field.  
+Conclusion : 
+This study delved into the realm of swimming performance 
+and injury prevention among Jordanian swimmers. The 
+research uncovered significant correlations between the age 
+at which individuals commence swimming, their training 
+habits, and their participation in competitions. Notably, 
+starting swimming at a younger age correlated with 
+increased involvement in competitions, more extensive 
+weekly training, and greater training distances. These 
+findings suggest that early exposure to swimming fosters 
+skill develop ment and performance improvement over the 
+years, highlighting the importance of an early start. 
+Moreover, the study revealed that a higher number of 
+competitions was associated with increased training time 
+and more extensive training distances. Athletes 
+participating in more competitions seemed to dedicate 
+additional time to training to maintain their competitive 
+edge. This underscores the demand for comprehensive 
+training routines to support the demands of competitive 
+swimming. The regression analysis furt her demonstrated 
+that the number of competitions played a pivotal role in 
+predicting swimming injuries. Surprisingly, a higher 
+number of competitions was linked to a lower incidence of 
+injuries, suggesting that competitive swimmers might have 
+injury -preven tive advantages. However, other factors like 
+weekly training time, weekly training distance, and the 
+starting age of swimming also had notable effects on 
+predicting swimming injuries. The study provides a 
+predictive equation for estimating swimmers' injuri es. 
+While the number of competitions acts as a protective 
+factor, other variables, including weekly training time, 
+weekly training distance, and the starting age of swimming, 
+appear to correlate with an increased likelihood of injuries. 
+These findings offe r valuable insights for practitioners and 
+researchers in the field of swimming sports, aiding in the 
+development of targeted injury prevention strategies and 
+training protocols to enhance athletes' well -being and 
+performance.  
+Recommendations : 
+Based on the findings of this study on musculoskeletal 
+injuries among Jordanian swimmers, several 
+recommendations can be made. First, early initiation of 
+swimming is encouraged to promote skill development and 
+performance. Sports programs and schools shoul d 
+incorporate swimming into curricula. Second, swimmers 
+should balance the number of competitions with adequate 
+training and coaches should provide guidelines for 
+competition frequency. Third, comprehensive training 
+programs emphasizing proper techniques, warm -up 
+Mahmoud Almomani 
+ 
+ 
+JASS   38  December  2023 , Volume 13, No. 2 exercises, and longer training sessions should be developed. 
+Regular health assessments and access to sports medicine 
+professionals are crucial. Lastly, age -appropriate training 
+programs should be tailored to swimmers' developmental stages, focusing on physical development and skill 
+acquisition. Implementing these recommendations can 
+enhance the well -being and performance of swimmers in 
+Jordan while fostering a deeper appreciation for the sport.  
+ 
+References:  
+1. Croteau F, Brown H, Pearsall D, et al. (2021) . Prevalence and mechanisms of injuries in water polo: a 
+systematic review. BMJ Open Sport & Exercise Medicine, 7, e001081. doi:10.1136/ bmjsem -2021 -001081.  
+2. Gračanin, I., Djurović, M., Stanić, D., Burhaein, E., Demirci, N., Ram, R., Singh, R. M., Koliopoulos, T., 
+and Skrypchenko, I . (2023).  Prevention of Shoulder Injuries in Swimmers. International Journal of Academic 
+Health and Medical Research (IJAHMR), 7(2), 186 -190. 
+3. Trikha, R., Grant G., Schroeder, B., Danielle, E., Greig, M., and Thomas J. (2022). Characterizing Health 
+Events and Return to Sport in Collegiate Swimmers. The Orthopaedic Journal of Sports Medicine, 10(4), 1 -10. 
+4. Al-Hawamdeh, M. A . (2021).  The cognitive outcome of physical fitness among students of the Department of 
+Physical Education at Al al -Bayt University. Alpha Journal of Human Studies and Al -Alamy, 2(2).  
+5. Al-Tani, Taha Ghafil (2021).  The effect of special exercises to prevent some upper limb muscle injuries to 
+develop the achievement of swimming (100m) freestyle for men category (S10 -9), Unpublished Ph.D. Thesis, 
+Faculty of Physical Education and Sports Science, Tikrit University.  
+ 

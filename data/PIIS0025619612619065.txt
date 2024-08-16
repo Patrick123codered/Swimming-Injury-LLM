@@ -1,0 +1,1035 @@
+Subject Review 
+Musculoskeletal Injuries in Competitive Swimmers 
+JEFFREY E. JOHNSON, M.D.,* Resident in  Orthopedics;  FRANKLIN H. SIM, M.D., Department  of 
+Orthopedics;  STEVEN G. SCOTT, D.O., Department of Physical Medicine and Rehabilitation 
+Competitive swimming is a rigorous sport being engaged in by an increasing number of 
+young athletes. In swimmers, shoulder pain is the most common musculoskeletal complaint and is usually due to supraspinatus or biceps tendinitis. Glenohumeral instability (often multidirectional) can also be a cause of shoulder pain in swimmers and 
+may be more common than has been reported. Surgical treatment is seldom indicated. Physical therapy modalities and training modifications are the mainstay of treatment. Medial knee pain in breaststroke swimmers and extensor tendon inflammation over the dorsum of the foot are less common injuries and respond to conservative therapy. These overuse syndromes are best prevented by proper training schedules, strength training, 
+flexibility exercises, and avoidance of errors in stroke technique. The rehabilitation 
+program for a competitive swimmer should be chosen with an understanding of the goals 
+of the swimmer and the cooperation of the coach. 
+Swimming, a popular recreational sport, involves 
+120 million participants yearly. Of these, more 
+than 165,000 are age-group swimmers registered 
+with United States Swimming, Inc., and almost 
+19,000 swimmers 25 years of age or older are 
+registered with United States Masters Swimming. 
+In addition, numerous students are in high school 
+and collegiate competitive swimming programs, and an increasing number of people swim regu­
+larly for fitness. 
+As a sport, swimming is unique for several 
+reasons. First, it is an inefficient method of body 
+propulsion in comparison with running. The 
+water in a pool, for example, is a fluid in an open 
+system and is thus not easily compressed by 
+the movements of the swimmer. This lack of re­
+sistance contrasts with the greater resistance or 
+"traction" achieved between the runner's shoe and the ground. Therefore, a considerable amount 
+of energy can be expended to swim a short distance. 
+*Mayo Graduate School of Medicine, Rochester, Minnesota. 
+Address reprint requests to Dr. F. H. Sim, Department of 
+Orthopedics, Mayo Clinic, Rochester, MN 55905. Second, swimming is an inertial sport that is 
+highly dependent on technique. The force neces­
+sary to pull the hand through water is not great; 
+however, body position, drag, limb surface area 
+for propulsion, buoyancy, endurance, and stroke technique are all factors that contribute substan­
+tially to swimming ability. Muscle power contrib­
+utes much less to ability in swimming than in many other sports. In fact, improvements in raw 
+muscle strength do not necessarily correlate with 
+an increase in swimming speed.
+1 
+Third, swimming provides both upper-body and 
+lower-body strength training as well as cardiovas­
+cular fitness. Paradoxically, despite the intensity 
+of the training, participants have less risk of 
+major injuries in swimming than in most other 
+sports. 
+Technically, the sport of swimming has im­
+proved greatly during the past 20 years. Innova­tions such as timed-interval training with use of a pace clock, longer yardage workouts, weight train­
+ing, flexibility exercises, and dietary changes 
+have all accounted for the continued trend of 
+establishment of new swimming records each year. During the past 70 years, the world record 
+times for men have decreased by 47% for 
+Mayo Clin Proc 62:289-304,1987 289 
+290 SWIMMING-RELATED INJURIES Mayo Clin Proc, April 1987, Vol 62 
+swimmers in comparison with only an 11.2% 
+decrease in world record times for runners over the same
+ 1-mile  distance.2 Equipment changes such 
+as goggles, hand paddles, and kick buoys have also improved the training for swimming. 
+Most successful competitive swimmers in the 
+United States swim for 10 to 11 months each year 
+in a career that often begins by age 6 years and 
+may last continuously for 10 to 15 years. Many 
+swimmers engage in two swim practices daily,
+ 5 to 
+7 days per week, and often average  8,000  to 20,000 
+yards per day, depending on the season. Applica­tion of a four-to-one ratio proposed by Counsil-man
+3 shows that this distance is equivalent to 
+running 32,000 to 80,000 yards per day—or more than 45 miles per day. This increased intensity has placed the competitive swimmer at a greater risk for musculoskeletal injuries. 
+SHOULDER PAIN 
+Shoulder pain is the most common musculoskele­
+tal complaint in competitive swimmers. In most 
+studies reported in the literature, the incidence of 
+shoulder pain ranged from 40 to
+ 80%.4~8 Richard­
+son and associates8 studied three groups of 
+swimmers and reported that the incidence of shoulder problems increased with the caliber of 
+the swimmer—the incidence was 57% among the 
+championship group, 52% among the "elite" swimmers, and 27% among the "nonelite" group. 
+The incidence of shoulder pain was approximately 
+equal between the sexes, and the average age at 
+onset was
+ 18 years. Pain was usually located in the 
+anterior or lateral aspect of the shoulder. Almost all the swimmers studied (92%) swam freestyle, 
+backstroke, or butterfly. With these three strokes, the arc of shoulder circumduction is wide. In 
+contrast, those who swim the breaststroke, which 
+involves much less shoulder abduction, are rarely 
+afflicted with shoulder pain. 
+The most common cause of shoulder pain in 
+swimmers is subacromial impingement and ten­dinitis of the supraspinatus tendon, long head 
+of the biceps tendon, or both.
+6 Recently, however, 
+glenohumeral instability (usually multidirec­tional) has also been associated with shoulder 
+pain in swimmers and may coexist with 
+tendinitis.
+6,9 
+The term "swimmer's shoulder" has commonly 
+been used to describe pain about the shoulder in swimmers regardless of cause. Classically, how­ever, "swimmer's shoulder" refers to the painful 
+arc syndrome caused by impingement of the 
+supraspinatus and biceps tendons against the overlying coracoacromial ligament or anterior 
+border of the acromion. This "impingement 
+syndrome," described by Neer,
+10 is also a 
+common cause of shoulder pain in many other 
+overhead-use sports. 
+ANATOMY OF THE SHOULDER 
+The shoulder joint, per se, consists of the articula­
+tion between the shallow, concave glenoid cavity 
+of the scapula and the convex surface of the 
+humeral head, only a small part of which is in 
+contact with the glenoid cavity at any instant. 
+Most of the internal and external rotation of the upper extremity occurs at this joint. 
+The shoulder girdle also includes articulations 
+with the thorax and the distal aspect of the 
+clavicle. Together with the glenohumeral joint, 
+these articulations allow a combined shoulder 
+range of motion of 180° of abduction. This coupled motion between the scapulothoracic articulation 
+and the glenohumeral joint occurs in a two-to-one 
+ratio;  for every 3° of abduction, the glenohumeral 
+joint is abducted 2° and the scapulothoracic artic­
+ulation is abducted 1°.11 The wide range of motion 
+of the shoulder (primarily abduction) necessary 
+for swimming freestyle, backstroke, and butterfly is therefore dependent on the normal coupled 
+motion of the shoulder girdle. What the shoulder 
+joint achieves in range of motion, however, it 
+sacrifices in stability.
+12 These characteristics may 
+predispose the shoulder to injury, as it is the most 
+commonly injured joint of the upper extremity in overhead-use sports such as swimming. 
+The minimally constrained bony architecture of 
+the shoulder joint is stabilized by the surrounding ligaments and muscles (Fig.
+ 1). The glenohumeral 
+fibrous articular capsule and associated liga­ments consist of the coracohumeral ligament, which has primarily a suspensory function, and the three glenohumeral ligaments (superior, mid­
+dle, and inferior). 
+The coracoid process, the coracoacromial liga­
+ment, and the acromion constitute the coraco­
+acromial arch, beneath which the supraspinatus 
+and biceps tendons lie. The subacromial bursa, 
+which also is located beneath this arch, allows the 
+Mayo Clin Proc, April 1987, Vol 62 SWIMMING-RELATED INJURIES 291 
+Coracoacromial lig. 
+Infraspinatus m. 
+{long head 
+short heac 
+Subscapularis m.' 
+Fig. 1. Diagram of shoulder anatomy, showing anterior shoul­
+der girdle musculature and coracoacromial arch formed by 
+coracoid process, coracoacromial ligament, and acromion. 
+rotator cuff tendons to glide smoothly through the 
+range of motion. This relationship is important in 
+the pathogenesis of swimmer's shoulder, as it is in 
+other overhead-use sports that may cause an 
+impingement syndrome of the shoulder. 
+STROKE MECHANICS 
+Swimming is an activity that relies on maximal propulsive force applied over the extremes in 
+motion of the upper extremity.
+13 Depending on the 
+particular stroke, up to 90% of the propulsion is generated from the arm pull. The mechanics of the freestyle stroke illustrate the wide range of motion necessary in the shoulder of swimmers (Fig. 2). The stroke is divided into pull-through and recov­
+ery phases (Table l).
+8 
+The combined shoulder girdle motions involved 
+in the butterfly stroke and the backstroke are 
+similar to those in freestyle swimming. For all 
+three strokes, maximal abduction and adduction, internal and external rotation, and flexion and 
+extension are necessary. 
+If one assumes that a swimmer averages 10,000 
+yards of swimming per day and completes 10 freestyle cycles with each arm every 25 yards, then the average swimmer makes approximately 4,000 
+cycles with each arm through this arc of motion 
+daily. 
+IMPINGEMENT SYNDROME 
+The space beneath the coracoacromial arch for 
+movement of the supraspinatus and biceps ten­
+dons is limited. A painful arc syndrome caused by subacromial impingement of these structures may occur through one of two mechanisms.
+14 
+First, if the volume of the structures passing 
+beneath the arch is increased, less space will be 
+available and the possibility of impingement is 
+greater. Rathbun and Macnab,15 with use of a 
+microinjection technique, studied the vascularity of the rotator cuff and biceps tendons. They found 
+that when the shoulder is abducted, such as in the late recovery and hand entry phases of the free­
+style stroke, all the vessels of the tendons are 
+almost completely filled. When the arm is at the 
+side,  however, in the adducted position (such as in 
+the late pull-through phase of freestyle, butterfly, 
+or backstroke), a constant area of avascularity in 
+both the supraspinatus and biceps tendons ex­tends from their respective points of insertion to 1 
+cm proximally (Fig. 3). This zone of avascularity 
+has been found in cadavers of all ages.
+15 There­
+fore,  the supraspinatus and biceps tendons are 
+subjected to constant pressure from the head of the 
+humerus, which tends to "wring out" their blood 
+supply when the arm is held in adduction and 
+neutral rotation.15 Degenerative changes are fre­
+quent in these tendons because of the diminished blood supply at the watershed area. Repeated 
+microtrauma in this area results in an inflamma­tory response in conjunction with edema and an 
+increase in the volume of the tendinous structures. 
+Second, Neer
+10 has demonstrated roughness, 
+erosion, and formation of osteophytes on the 
+anterior and inferior aspects of the acromion in 
+response to repetitive impingement by the hu­meral head. Often, such a response occurs at the point of insertion of the coracoacromial ligament. 
+Consequently, the available space for movement of the supraspinatus and biceps tendons may be decreased. The functional arc of elevation of the 
+shoulder is forward, not lateral; therefore, im­
+pingement occurs against the anterior acromion 
+and the coracoacromial ligament during repeti­
+tive overhead motions that involve extreme 
+abduction and forward elevation, such as in 
+swimming (Fig. 4). Derangements of the aero-
+
+292 SWIMMING-RELATED INJURIES Mayo Clint Proc, April 1987, Vol 62 
+Table 1.—Mechanics of Freestyle Swimming Stroke 
+Phase Description 
+Pull-through (right arm) 
+Hand entry 
+Mid pull-through 
+End of pull-through 
+Recovery (left arm) 
+Elbow lift 
+Mid recovery 
+Hand entry Shoulder is in external rotation 
+and abduction. Body roll begins 
+Shoulder is at 90° of abduction and 
+neutral rotation. Body roll is at 
+maximum of 40°-60° from horizontal 
+Shoulder is in internal rotation 
+and full adduction. Body roll has 
+returned to horizontal 
+Shoulder begins abduction and 
+external rotation. Body roll begins 
+in opposite direction of pull-
+through phase 
+Shoulder is at 90° of abduction and 
+external rotation beyond neutral. 
+Body roll is at maximum of 40°-60° 
+from horizontal. Head is turned to 
+side for breathing 
+Shoulder is in external rotation 
+and maximal abduction. Hand is 
+in neutral position or slightly 
+pronated 
+Modified from Richardson and associates.8 By permission of 
+the American Journal of Sports Medicine. 
+mioclavicular joint may also predispose to sub-
+acromial impingement problems. Neer and 
+Welsh16 have classified the progressive pathologic 
+changes associated with impingement into three 
+stages: (1) Stage I consists of edema and hemor­
+rhage of the supraspinatus and biceps tendons 
+from overuse, such as in swimming. Characteristi­cally, this pathologic stage is seen in young 
+athletes (before age 25 years). (2) Stage II consists of fibrosis and tendinitis (usually in those older 
+than 25 years of
+ age).  (3) Stage III is characterized 
+by degeneration and rupture of tendons and changes in the bony structure (usually in those 
+older than 40 years of age). Although stage I 
+impingement lesions are most commonly seen 
+during a swimmer's competitive years, progres­
+sion to stage II or III may occur later in life. 
+Kennedy and associates
+7 stated that these two 
+seemingly divergent mechanisms for causing supraspinatus and biceps tendinitis are com­
+plementary in the explanation of swimmer's 
+shoulder. Rathbun and Macnab
+15 postulated that 
+tendon degeneration occurs as a result of the 
+avascular area in the supraspinatus and biceps 
+tendons when the shoulder is adducted. Neer and 
+Welsh16 focused on the mechanical impingement 
+of the supraspinatus and biceps tendons under the 
+coracoacromial arch as the arm is repetitively brought into abduction and forward flexion. 
+Kennedy and colleages7 thought that the avascu­
+lar areas of these two tendons were particularly 
+vulnerable to mechanical impingement; thus, mi-
+crotears and focal cell death could occur and, in 
+turn, produce an inflammatory response consist­ing of edema, tendinitis, and subacromial bursitis. These inflamed, enlarged tendons are more sus­
+ceptible to mechanical impingement, which 
+causes further inflammation and establishes a 
+Fig. 2. Stroke mechanics for freestyle swimming. For the right 
+arm, three phases are identified: hand entry (top), mid pull-
+through (middle), and end of pull-through (bottom). For the left 
+arm, three stages are likewise depicted: elbow lift (top), mid recovery (middle), and hand entry (bottom). 
+Mayo Clin Proc, April 1987, Vol 62 SWIMMING-RELATED INJURIES 293 
+Long head biceps tendon 
+Fig. 3. Adduction of arm, as in late pull-through phase of freestyle swimming, is mechanism that 
+causes "wringing out" of supraspinatus and biceps tendons. 
+vicious cycle that becomes clinically apparent as 
+an impingement syndrome. 
+Diagnosis.—Determining the diagnosis of im­
+pingement tendinitis is usually not difficult. The 
+differential diagnosis should include primary 
+acromioclavicular pathologic changes, shoulder 
+instability, frozen shoulder, traumatic subacro-
+mial bursitis, and calcific tendinitis.17 Also, as in 
+any patient with shoulder pain, the physician must consider extrinsic conditions that may cause 
+referred shoulder pain. These factors include pe­
+ripheral nerve entrapments, cervical disk hernia-
+tion or degenerative disease, thoracic outlet ob­
+struction, and pulmonary or pleural pathologic conditions. 
+Richardson and associates
+8 studied 58 competi­
+tive swimmers with shoulder pain and reported that most had been competing for at least
+ 10 years. 
+Of the freestyle swimmers, 60% had pain on the side on which they took a breath during swim­ming, 75% described pain during both pull-
+through and recovery phases, and
+ 81%  stated that 
+use of hand paddles increased their pain. In  83%  of 
+those swimmers, the shoulder pain was worse during the early and middle portions of the sea­
+son, perhaps because of longer yardage workouts 
+and the common use of hand paddles during that 
+time. Supraspinatus tendinitis is characterized by 
+point tenderness over the greater tuberosity and 
+anterior acromion, a painful arc of shoulder ab­
+duction, and a positive "impingement sign." The 
+impingement test (Fig. 5) reproduces the pain and 
+resultant facial expression when the arm is forc­
+ibly flexed forward by the examiner and the 
+greater tuberosity is levered against the antero-
+inferior surface of the acromion.16 Relief of pain by 
+injection of 10 ml of 1% lidocaine into the sub-
+acromial bursa helps confirm the diagnosis. 
+Bicipital tendinitis is characterized by localized 
+tenderness over the biceps tendon, a painful catch­ing sensation during resisted forward flexion of the arm with the hand supinated, and pain over the biceps tendon during resisted supination of the 
+forearm. 
+Treatment.—Swimmer's shoulder has been di­
+vided into four phases based on the severity of 
+symptoms (not to be confused with the three stages of pathologic changes from shoulder im­pingement, as described by Neer and Welsh
+16): 
+(1) pain only after heavy workouts, (2) pain (but 
+not disabling) during and after workouts, (3) dis­
+abling pain during and after workouts that inter­
+feres with the swimmer's performance, and (4) 
+shoulder pain that prevents competitive swim­
+ming. Treatment is directed at the phase of pain 
+294 SWIMMING-RELATED INJURIES Mayo Clin Proc, April 1987, Vol 62 
+Long head 
+biceps tendon Acromion 
+process 
+Supraspinatus m. 
+Fig. 4. Impingement of supraspinatus and biceps tendons between humeral head and coracoacro-
+mial arch can occur with abduction and internal rotation of humerus, as in recovery phase of freestyle stroke. Note how serratus anterior muscle rotates scapula into abduction as humerus is 
+abducted to allow a greater range of shoulder motion. Scapular rotation also delays impingement of greater tuberosity under coracoacromial arch until humerus is maximally abducted to near 180°. With fatigue or underdevelopment of serratus, humeral impingement may occur at an earlier point in recovery stroke at a lower angle of shoulder abduction. 
+that the swimmer is experiencing. The treatment 
+for phase 1 and phase 2 swimmer's shoulder is multifaceted (Table 2). Absolute rest of the 
+shoulder is usually not necessary in phases
+ 1 and 2 
+of the disorder. The training program is altered to decrease total yardage and also to vary strokes throughout the workout so that one motion is not frequently repeated. Thus, the inflamed tendons 
+are rested. 
+Swimmers with painful shoulders can experi­
+ence night pain while sleeping. Sleeping on the 
+involved shoulder or with the arm elevated over­
+head will often increase the pain. The most com­fortable position is usually lying supine with the head and shoulders slightly elevated and with 
+pillows positioned on the posterior and lateral 
+aspects of the adducted shoulder and arm. 
+Physical modalities can usually be beneficial 
+early in the treatment. Ice massage for 5 to 7 
+minutes until the shoulder becomes numb or the more penetrating use of cold packs for 20 to 30 minutes can reduce inflammation and pain. In all 
+phases of swimmer's shoulder, nonsteroidal anti-inflammatory medications may be effective for 
+short durations. 
+In addition to varying the strokes and decreas­
+ing the total yardage of swimming, stroke me­
+chanics also should be examined and corrected, if 
+applicable. The aim of stroke modification is to 
+limit the extremes of abduction and internal rota­
+tion, in which the position of the supraspinatus tendon is most likely to impinge against the 
+coracoacromial arch. The amount of time the arm 
+is in adduction should be limited, to spare the 
+"wringing out" of the hypovascular area of the supraspinatus and biceps tendons. This result can 
+be accomplished by earlier arm recovery, greater body roll, and less internal rotation of the arm at 
+hand entry.
+18 
+Swim fins are used by some coaches to enable 
+swimmers with phase  1 or 2 swimmer's shoulder to 
+continue training while they are receiving treat­ment. The swim fins increase the power and speed generated by the kick and thereby reduce strain on the shoulder girdle musculature and enable the swimmer to train at a preinjury pace. When using 
+Mayo Clin Proc, April 1987, Vol 62 SWIMMING-RELATED INJURIES 295 
+Fig. 5. Shoulder impingement test maneuver forces greater 
+tuberosity of humerus against anteroinferior surface of acro-
+mion. Reproduction of patient's shoulder pain constitutes a 
+positive test result. 
+a kickboard, swimmers with a shoulder impinge­
+ment syndrome should hold the board with the 
+affected arm (or arms) flexed slightly at the elbow 
+and shoulder. The standard kickboard position 
+with the arms extended straight out in front of the 
+swimmer with the forearms pronated and resting 
+on the kickboard essentially reproduces the im­pingement test maneuver and may aggravate the 
+shoulder symptoms. The use of hand paddles 
+should be limited or eliminated because they cause 
+increased stress in the pull-through muscles and their use has been associated with an increased frequency of shoulder pain.
+8 Also, easy warm-up 
+and cool-down swims should be part of every 
+workout. 
+The upper-arm counterforce brace has been 
+found to be an effective aid in treating phase  1 and 
+2 swimmer's shoulder (Fig.  6). The principle of the 
+upper-arm strap is similar to that of the forearm strap introduced by Froimson19 and popularized 
+by Nirschl20 for the treatment of tennis elbow. The 
+upper-arm brace is an adjustable neoprene band, 
+approximately 8 cm wide and with a thickened 
+area, that is placed high on the arm directly over 
+the biceps tendon (Fig. 7). Although no formal biomechanical studies have been done on the function of the upper-arm brace, it is thought to have a tenodesis effect on the biceps tendon 
+making it a more effective humeral head depres­sor, especially during contraction of the biceps. Depression of the humeral head creates more space beneath the coracoacromial arch and 
+thereby diminishes subacromial impingement of 
+the supraspinatus and biceps tendons. 
+Blatz
+21 conducted a limited study of 27 age-
+group swimmers who were 12 to 19 years old and 
+had phase 1 or 2 swimmer's shoulder. All had reproducible impingement pain. Of the 27 partici­
+pants,  14 claimed complete relief within 24 to 48 
+hours while using an upper-arm strap, 10 re­
+ported a 75% decrease in their symptoms of 
+pain, and 3 obtained no  relief.  Thus, 24 of 27 
+athletes, or approximately 90%, had excellent or 
+good short-term results with use of the strap in 
+this survey. 
+Manual therapy such as sedative or friction 
+massage may be helpful in the subacute stage of 
+swimmer's shoulder. Electrical therapy is also a useful modality for treating painful shoulders. 
+The use of interferential currents, high-intensity 
+galvanic stimulation, or Microdyne stimulation 
+can be of benefit for relieving pain and increasing 
+blood circulation. Because of its expense and the 
+difficulty in placement of the electrodes, transcu-
+taneous nerve stimulation is generally used only 
+after other modalities have proved unsuccessful. 
+The proper placement of the electrodes and the 
+correct frequency rate (high or low) are crucial for 
+effective results. 
+Heat modalities such as hot packs or infrared 
+heat are occasionally useful because of their seda­tive and analgesic properties. Deeper heat modali­ties such as shortwave diathermy and ultrasound can be used in the intermediate and late phases of 
+swimmer's shoulder. 
+A strengthening program is usually begun with 
+exercises that are below the level of the shoulder, 
+to avoid aggravation of any subacromial impinge­
+ment tendinitis. Strengthening exercises can be­gin with isometrics, proceed to variable-resistance exercises (with use of surgical tubing), and then 
+296 SWIMMING-RELATED INJURIES Mayo Clin Proc, April 1987, Vol 62 
+Table 2.—Rehabilitation for Phase 1 and Phase 2 Swimmer's Shoulder Caused 
+by Tendinitis and Subacromial Impingement1" 
+Treatment Early 
+rehabilitation 
+(acute phase) Intermediate 
+rehabilitation 
+(subsidence of 
+acute phase) Late 
+rehabilitation 
+(able to do 
+isometrics 
+free of pain) Return to 
+swimmingt 
+Rest Ice NSAIDi 
+Swimming training 
+modifications 
+Manual therapy 
+Electrical therapy 
+Heat 
+Range-of-motion exercises 
+Isometric exercises Elastic-tubing exercises Stretching exercises 
+Isotonic and isokinetic 
+exercises 
+Maintenance of flexibility 
+and strength program X 
+X X 
+X 
+X X X 
+X 
+X 
+X 
+X X 
+X X 
+X 
+X 
+X X X 
+X X 
+X X 
+X 
+X 
+X 
+X 
+X 
+X 
+*See text for description of phases. The program for shoulder pain due to glenohumeral 
+instability is similar except that manual therapy and stretching exercises are withheld and 
+exercises to strengthen the rotator cuff muscles are emphasized. 
+tStrength 90% of unaffected shoulder and range of motion
+ 95%  of normal. 
+JNonsteroidal anti-inflammatory drugs. 
+advance to isotonics and isokinetics as the re­
+habilitation program progresses.22 Once the 
+swimmer has no pain and has adequate range of 
+motion and strength, a gradual return to swim­ming may begin. 
+Therapeutic Exercises.—Therapeutic exer­
+cises to correct any muscle strength imbalance or 
+loss of range of motion should be prescribed for 
+swimmers with disorders of the shoulder. Greipp
+23 
+reported on the correlation between lack of shoul­
+der flexibility and pain. Shoulder-stretching exer­
+cises are used to maintain or increase the range of motion of the shoulder. Such exercises should 
+involve stretching of all the major muscles that 
+aid in forward swimming propulsion, such as the shoulder internal rotators (pectoralis major, latis-simus dorsi, and subscapularis) (Fig. 8).
+24 Lack of 
+shoulder external rotation because of tight inter­
+nal rotators predisposes the swimmer to sub­
+acromial impingement of the humerus. Stretching 
+exercises should be done in a gentle, prolonged (up to 3 to 5 minutes), pain-free manner. Ballistic 
+(bounce-type) stretching that stimulates the stretch reflex is not recommended. Contract-relax or neuromuscular facilitation is an alternate stretching technique; for proper performance of 
+these exercises, a partner is often necessary. 
+Muscles that stabilize and elevate the scapula or 
+externally rotate the shoulder are relatively weak 
+in competitive swimmers in comparison with the 
+Fig. 6. Upper-arm counterforce brace, used as aid in treating 
+early phases of "swimmer's shoulder." (Also see Figure 7.) 
+
+Mayo Clin Proc, April 1987, Vol 62 SWIMMING-RELATED INJURIES 297 
+strong shoulder internal rotators that are exer­
+cised repeatedly in swimming or hand-pulley 
+drills. This relative muscle strength imbalance 
+makes it more difficult for the swimmer to achieve 
+full elevation of the scapula or to rotate the 
+humerus externally in order to prevent impinge­
+ment of the greater tuberosity beneath the acro-
+mion during overhead motion of the shoulder. This 
+impingement occurs during recovery and early 
+pull-through phases of the freestyle, backstroke, 
+and butterfly stroke. In addition, the rotator cuff 
+muscles and biceps depress the humerus in the 
+glenoid fossa during elevation of the shoulder. 
+Weakness of the rotator cuff muscles allows the 
+humeral head to glide higher in the glenoid fossa 
+and diminishes the available space for movement 
+of the biceps and rotator cuff tendons. This situa­
+tion predisposes the swimmer to development of 
+tendinitis or a subacromial impingement syn­
+drome. Exercises to strengthen the external rota­
+tors with the use of surgical tubing or pulley 
+weights can be performed (Fig. 9). 
+Most muscle-strengthening programs are aimed 
+at the primary pull-through muscles, which in­
+clude the latissimus dorsi, subscapularis, and 
+Fig. 7. Upper-arm brace is placed over biceps tendon high on 
+affected arm. The strap makes biceps muscle a more effective 
+humeral head depressor and thereby diminishes subacromial 
+impingement. Fig. 8. Stretching exercise for shoulder internal rotators. Hand­
+held weight with shoulder at 135° of abduction allows gentle 
+stretching. 
+pectoralis major. Recently, Nuber and col­
+leagues13 reported on an electromyographic study 
+of seven collegiate swimmers. They showed the 
+importance of strengthening the recovery-phase 
+muscles, especially the scapular rotators such as 
+the serratus anterior. The serratus anterior moves 
+the scapula upward and allows it to rotate clear of 
+the abducting humerus. If this muscle fatigues 
+during the course of repetitive arm motion, scapu­
+lar motion may not coincide with humeral mo­
+tion, and impingement may be precipitated. Thus, 
+a vigorous program to strengthen the serratus 
+anterior and other scapular rotators as well as 
+the rotator cuff muscles may be an important 
+measure to alleviate or prevent subacromial 
+impingement.13 
+Overall, the basic plan for shoulder muscle 
+rehabilitation is to stretch the already strong 
+anterior pull-through muscles and to strengthen 
+the weaker external rotators and scapular rotators 
+used in the recovery phase of the arm stroke. 
+Other Therapeutic Measures.—If swimmer's 
+shoulder evolves to phase 3 or 4 in which pain 
+during and after workouts affects performance, 
+then total rest of the affected shoulder may be 
+indicated, and land exercises (kicking, jogging, 
+and bicycle riding) can be used to maintain fit­
+ness.7 When symptoms diminish to phase 1 or 2, 
+rehabilitation can begin according to the afore­
+mentioned plan (Table 2). 
+Local subacromial or bicipital tendon sheath 
+injections of corticosteroids have been advocated 
+by some,8,14'25,26 discouraged by others,4'7,17,18 and 
+
+298 SWIMMING-RELATED INJURIES Mayo Clin Proc, April 1987, Vol 62 
+Fig. 9. Strengthening exercise for shoulder external rotators. 
+Surgical tubing attached to a stationary object offers resis­
+tance for effective strengthening. 
+used with caution by all. Such injections may be 
+indicated in phase 3 or 4 swimmer's shoulder 
+when pain persists despite a trial of nonsteroidal 
+anti-inflammatory drugs, rest, local treatments, 
+exercises, and training modifications. They 
+should always be used with caution because of the 
+transient effect of tendon weakening that has 
+been associated with this treatment27 and the 
+uncertainty of the long-term effects of repeated 
+injections. Penny and Smith18 maintained that 
+injections of corticosteroids should be reserved for 
+the national or international class swimmer who 
+is about to participate in a major competition 
+when it is known that a period of rest will follow. 
+Surgical excision of the coracoacromial liga­
+ment has a controversial role in the treatment of 
+phase 3 and 4 swimmer's shoulder.4'7,17,28 This 
+surgical technique is associated with minimal 
+morbidity, and it can be done as an outpatient procedure with use of a small deltoid-splitting 
+approach and a local anesthetic. Kennedy and 
+associates7 reported that the indication for surgi­
+cal intervention is failure of conservative treat­
+ment after at least 1 year and definite clinical 
+signs of impingement. Several reports have de­
+scribed successful results with this procedure in 
+swimmers who have returned to high-level compe­
+tition, although the results of surgical treatment 
+in a large group of competitive swimmers are still 
+unknown.7,18'28 Neer (personal communication) 
+stated that, in his experience, surgical excision of 
+the coracoacromial ligament had not enabled 
+high-level competitive swimmers to return to com­
+petition on a long-term basis. 
+Anterior acromioplasty or excision of the distal 
+aspect of the clavicle (or both procedures) may be 
+indicated if impingement on these structures can 
+be demonstrated or if division of the coracoacro­
+mial ligament fails to yield relief. Most swimmers 
+are unable to return to competition after anterior 
+acromioplasty.29 
+SHOULDER INSTABILITY 
+Recently, involuntary inferior and multidirec­
+tional instability has been recognized as a cause of 
+shoulder pain in swimmers.9'12 In fact, Neer (per­
+sonal communication) currently believes that this 
+is the most important factor causing shoulder 
+pain in swimmers. Shoulder instability may be 
+difficult to diagnose because the symptoms of pain 
+may be similar to those caused by impingement 
+tendinitis, and the two conditions can coexist. A 
+prior history of a major shoulder injury may not be 
+elicited. The patient may have discomfort while 
+carrying loads that pull downward on the inferior 
+part of the capsule or with overhead arm move­
+ments such as in swimming. Also, a frequent 
+complaint is an arm that feels "dead."30 Emo­
+tional disorders should be ruled out; Neer and 
+Foster9 found no major emotional problems in 
+their series of patients with involuntary shoulder 
+instability. 
+The basic lesion that contributes to shoulder 
+instability is an enlarged joint capsule due to 
+repetitive forceful stretching from the wide range 
+of shoulder circumduction performed during 
+swimming (and in other overhead-use sports). 
+Examination of the shoulder should include 
+stress on the glenohumeral joint in three direc-
+Mayo Clin Proc, April 1987, Vol 62 SWIMMING-RELATED INJURIES 299 
+tions—anteriorly, posteriorly, and inferiorly—on 
+repeated patient visits. Multidirectional instabil­
+ity should be suspected if apprehension is evident 
+with inferior stress or stress in more than one direction. The result of the impingement injection test is usually negative. Thorough radiographic evaluation of the shoulder is important and 
+should include anteroposterior views in internal 
+and external rotation, an axillary view, and a 
+West Point prone axillary view.
+31 Examination 
+under anesthesia and stress films may also be 
+helpful. Double-contrast arthrography and arthro-tomography may show a Bankart lesion or 
+an enlarged joint capsule but are often diffi­cult to interpret. Computerized axial arthrotomog-
+raphy improves resolution and may become the 
+procedure of choice in evaluation of difficult or occult cases of glenohumeral instability. 
+Initially, multidirectional or inferior instability 
+of the shoulder should be treated conservatively— 
+the stroke mechanics should be analyzed and 
+altered, if necessary, and shoulder-strengthening 
+exercises (Table 2) should be performed.
+9 The 
+objective of the exercises is to enhance dynamic 
+stability of the shoulder by increasing the strength and tone of the rotator cuff and deltoid muscles without causing mechanical irritation of the capsule or ligaments. For isolated inferior 
+shoulder instability, the emphasis should be on 
+strengthening the shoulder abductors. Manual 
+therapy and stretching exercises should be with­
+held. A balanced strengthening program of all 
+rotator cuff muscles is indicated for multidirec­tional instability. Cybex testing can be used to 
+determine whether shoulder muscle imbalance is present. Strengthening can involve isometric, iso-
+tonic,  and isokinetic training exercises similar 
+to those done for the shoulder impingement 
+syndrome. 
+Many patients with painful shoulders and de­
+monstrable shoulder instability will have im­
+provement with conservative treatment. Conser­
+vative measures should include an appropriate period of rest followed by strengthening exercises below the level of the shoulder to prevent irritation 
+of the joint. When the patient returns to swim­
+ming, stroke modification is important to prevent 
+recurrence. Some strokes, particularly the back­
+stroke and butterfly stroke, may need to be avoided. 
+Surgical treatment may be indicated for the 
+motivated swimmer with hyperlaxity of the liga­ments and inferior capsule in whom a
+ 1-year  trial 
+of conservative therapy has failed. Neer and 
+Foster9 described an inferior capsular shift proce­
+dure that tightens the glenohumeral capsule. The 
+shoulder joint is approached anteriorly or poste­
+riorly, depending on the direction of the instabil­
+ity, and a T-shaped incision is made in the capsule. The two sides are then sutured as flaps over each 
+other to obliterate the capsular redundancy. The 
+short-term results of this procedure have been satisfactory, and some collegiate swimmers have 
+reportedly resumed competition postoperatively 
+(Neer CSII: Personal communication).
+9 The prog­
+nosis for returning to a high level of competition, however, should be guarded because by the time 
+an operation becomes necessary, the changes in 
+the soft tissues may be so advanced that repair will allow comfortable daily activities and recrea­tional sports but not the training intensity neces­
+sary for successful competition.
+12 
+APPREHENSION SHOULDER 
+Isolated anterior glenohumeral instability is pri­
+marily seen in backstroke swimmers and is termed "apprehension shoulder."
+7,25 The back­
+stroke involves maximal abduction and external 
+rotation of the shoulder, particularly during hand 
+push-off as the backstroker initiates a flip turn. 
+This acquired laxity of the anterior capsule is thought to be caused by repetitive stretching of the 
+capsule during the initiation of the backstroke flip 
+turn
+7 and by certain excessive passive shoulder-
+stretching exercises that many swimmers do in 
+order to improve their flexibility. Cineradio-graphic studies have shown subluxation of the 
+humeral head anteriorly onto the rim of the glen-
+oid during extreme abduction and external rota­
+tion of the shoulder, as with initiation of the 
+backstroke flip turn
+7 (Fig. 10). This action causes 
+pronounced stress on the anterior shoulder joint 
+ligaments. With the arm in this position, the 
+subscapularis muscle glides superiorly and is unable to help resist the anteriorly directed force of the humeral head. With repeated stress, the 
+anterior shoulder joint capsule may become exces­sively stretched, and anterior shoulder instability 
+may ensue. 
+Apprehension shoulder can be diagnosed by 
+reproducing pain or the sensation of impending 
+subluxation with the shoulder in abduction and 
+external rotation (positive result of the shoulder 
+300 SWIMMING-RELATED INJURIES Mayo Clin Proc, April 1987, Vol 62 
+Fig. 10. The backstroke flip turn is initiated by forceful 
+shoulder internal rotation and forward flexion with arm in extreme abduction and external rotation and hand firmly 
+planted against wall of swimming pool. This action causes considerable stress on anterior shoulder joint ligaments. With 
+arm in this position, subscapularis muscle glides superiorly and is unable to help resist anteriorly directed force of numeral head. 
+apprehension test) (Fig. 11). Conservative treat­
+ment involves strengthening of the shoulder inter­nal rotator muscles for anterior stability. These exercises are usually begun with the shoulder 
+adducted and with limitation of extreme external 
+rotation. Isotonic or isokinetic exercises with an emphasis on eccentric strengthening should be prescribed. In addition, modification of the back­
+stroke flip turn and avoidance of incorrect ante­
+rior shoulder-stretching exercises are important. 
+If swimmers cannot tolerate the subluxation and 
+if they are unable or unwilling to change the mechanics of their flip turn, surgical treatment 
+may be indicated. Many procedures such as the Magnuson-Stack procedure, the Bankart repair, the Putti-Platt operation, and the Bristow opera­tion have been described for anterior gleno-humeral subluxation. All these procedures have the disadvantage of potentially restricting exter­nal rotation of the humerus. If this motion is 
+appreciably limited, the swimmer will probably have to discontinue backstroke competition.
+25 The 
+inferior capsular shift procedure may provide 
+anterior stability without substantial loss of exter­
+nal rotation. Often, there is no satisfactory ap­proach to this problem. 
+Shoulder arthroscopy may be a useful adjunct to 
+the physical examination in diagnosing shoulder Fig. 11. Shoulder apprehension test. Shoulder is placed in 90° 
+of abduction and stressed in maximal external rotation while 
+the humeral head is pushed anteriorly with the examiner's 
+thumb from behind. A positive test result reproduces pain or 
+sensation of impending subluxation. 
+instability. Ciullo4 advocated arthroscopic resec­
+tion of labral interposition and bucket-handle 
+tears and debridement of small rotator cuff tears that may be a source of pain, but such procedures 
+are not widely performed. 
+Prevention of shoulder pain in swimmers is 
+perhaps the most important goal. Errors in the training program should be corrected through 
+proper communication with the coach. Ample warm-up and cool-down periods, preventive main­tenance stretching, strengthening programs, and 
+proper stroke mechanics are all components of a 
+training program that will minimize injuries. 
+Coaches and swimmers must be aware of the difference between adequate muscle flexibility 
+and capsular laxity caused by unusual or repeated 
+stretching maneuvers. Switching strokes fre­quently and breathing on alternate sides in free­style swimming throughout a workout and early 
+and midseason strength training may also be 
+helpful preventive measures. 
+BREASTSTROKER'S KNEE Knee pain in swimmers occurs primarily in those who do the breaststroke and thus has been termed 
+"breaststroker's knee." Kennedy and colleagues
+7 
+surveyed 2,496 competitive swimmers throughout Canada and found 70 who were affected by knee 
+Mayo Clin Proc, April 1987, Vol 62 SWIMMING-RELATED INJURIES 301 
+pain, all of whom were breaststrokers. Breast-
+stroker's knee is characterized by pain and tender­ness in the medial aspect of the knee joint and has been thought to be due to incorrect mechanics of the breaststroke whip kick.
+32 Knee effusions and 
+patellofemoral pain and crepitus have also been 
+reported.32 
+In contrast to the freestyle, backstroke, and 
+butterfly stroke, much of the speed achieved with the breaststroke is contributed by the whip kick. Training regimens often emphasize the develop­ment of an efficient and powerful kick. The whip 
+kick was developed as a variation of the frog kick 
+to achieve increased speed, propulsive force, and economy of movement.
+3,33 Counsilman3 precisely 
+described the proper mechanics of the whip kick. 
+Breaststroke swimmers with knee pain tend to 
+have a kick {hat more closely resembles the frog kick than the whip kick (Fig. 12). Stulberg and 
+associates
+32 reported that the primary mechanical 
+fault in the swimmer with breaststroker's knee is 
+usually excessive abduction of the thighs as the 
+hips and knees are flexed during the recovery 
+phase. This position places excessive valgus and external rotation stress on the medial supporting 
+structures of the knees as the thighs are adducted 
+and the legs are rapidly extended during the 
+propulsion phase of the kick. 
+Kennedy and associates
+7 are of the opinion that 
+a tibial collateral ligament strain is the primary disorder in swimmers with breaststroker's knee. Stulberg and colleagues,
+32 however, studied 23 
+competitive breaststroke swimmers with knee pain and found that most had pain along the medial facet of the patella and the medial femoral 
+intercondylar
+ ridge.  Five swimmers described this 
+pain in addition to tibial collateral pain, and only 5 of 23 swimmers had pain isolated to the tibial 
+collateral ligament only. Stulberg and co-workers 
+also reported that breaststrokers who had been 
+using the whip kick for more than 8 years had clinical evidence of patellofemoral chondro­malacia, as seen in two patients who underwent 
+arthroscopy. Interestingly, none of the swimmers 
+had radiographic evidence of osteoarthritis, ab­
+normal patellofemoral-condylar groove relation­
+ships,  or osteochondritis dissecans. Both tibial 
+collateral ligament strain and chondromalacia of the medial patellofemoral joint may be etiologic factors in breaststroker's knee, although the for­
+mer is probably the most widely accepted cause. 
+Intuitively, the whip kick, which causes an exces-Fig. 12. Correct and incorrect mechanics of breaststroke whip 
+kick. Knees should be abducted no more than width of pelvis during recovery phase and middle of kicking phase. Knees should not achieve full extension until legs are together at end of kicking phase. 
+sive valgus stress on the knee joint, would seem­
+ingly produce more stress on the lateral patello­
+femoral joint; however, Stulberg and associates32 
+found only one patient with tenderness of the 
+lateral facet of the patella. Also, chondromalacia 
+of the medial patellar facet is a common finding in young patients regardless of their activity level. 
+Clearly, more research in this area is needed. 
+Knee symptoms usually begin within 3 years 
+after the first participation in competitive swim­
+ming.
+32 Initially, the swimmers are symptomatic 
+only while kicking; later, however, they may have 
+302 SWIMMING-RELATED INJURIES Mayo Clin Proc, April 1987, Vol 62 
+knee pain during all activities including climbing 
+stairs and arising from low chairs. 
+The primary treatment of breaststroker's knee 
+is correction of abnormal kick mechanics, which 
+will decrease the strain on the medial structures of 
+the knee. In the experience of most investigators, this correction alone has been sufficient to elimi­
+nate the swimmer's knee pain.
+7,32 Most young 
+swimmers incorrectly abduct the thighs during 
+the recovery phase of the kick and rapidly extend 
+the knees with the legs apart during the propul­sion phase of the kick. Particular attention should be placed on keeping the knees closer together during the recovery phase and the mid-kicking phase and preventing the knees from being fully 
+extended until the legs are together at the end of 
+the kicking phase. In addition, reducing the ante­rior compression forces on the knee by means of 
+hamstring stretching and quadriceps isometric 
+strengthening exercises with emphasis on the vastus medialis may be helpful. 
+The use of proper warm-up exercises, local appli­
+cations of
+ ice, and ultrasound can be helpful.7 The 
+symptomatic breaststroke swimmer should train 
+infrequently with the whip kick and should use 
+other kicks during workouts. The local use of corticosteroids should be avoided. 
+TENDINITIS ABOUT THE FOOT 
+AND ANKLE 
+With the exception of those who do the breast-
+stroke, most swimmers strive to develop maximal 
+ankle plantar flexion, which places the foot in a 
+better position to push the water in a backward 
+direction during the propulsive phase of the flutter 
+or dolphin kick. Expert swimmers often will de­velop 90° of plantar flexion. Conversely, breast-
+strokers need ankle flexibility in the opposite direction (dorsiflexion). This flexibility enables 
+the breaststroke swimmer to place his feet in a 
+good position to push the water backward at a point earlier in the kick than would otherwise be possible and thus achieve a more effective kick. 
+Cureton
+33 has shown that expert swimmers with 
+better kicks have greater flexibility in the ankles than average swimmers with poorer kicks. Fur­thermore, Robertson
+34 found a significant rela­
+tionship between ankle flexibility and propulsive force. Clearly, the extremes of ankle dorsiflexion 
+and plantar flexion are achieved through stretch­
+ing the muscles of the anterior compartment of the leg and the supporting ligaments about the ankle 
+(Fig. 13). This repetitive motion may lead to 
+inflammation of the extensor tendons.
+7 
+Although not as frequent a problem as shoulder 
+or knee pain, when foot and ankle pain occurs it 
+may considerably alter performance. Tendinitis in this area can be diagnosed when pain and 
+crepitus are present over the extensor tendons during flexion and extension. Treatment includes 
+local applications of ice and ultrasound, non-
+steroidal anti-inflammatory medication, and, for 
+persistent or severe cases, local corticosteroid injections around the tendon sheaths.
+7 Switching 
+the flutter kick to a two-beat instead of a six-beat 
+kick may also relieve symptoms. 
+CONCLUSION 
+Competitive swimming is a rigorous sport being 
+engaged in by an increasing number of young 
+athletes, often for prolonged, continued periods 
+that may last for 10 to 12 years. Modern training techniques are producing steady improvements in world record times for competitive swimming but may also be placing the competitive swimmer at greater risk for injury. 
+Among competitive swimmers, shoulder pain is 
+the most common musculoskeletal complaint. It is usually due to supraspinatus or biceps tendinitis 
+caused by chronic repetitive impingement be­neath the coracoacromial arch, and it occurs 
+Fig. 13. The extremes of repetitive ankle dorsiflexion and 
+plantar flexion may lead to extensor tendinitis in competitive 
+swimmers. 
+Mayo Clin Proc, April 1987, Vol 62 SWIMMING-RELATED INJURIES 303 
+in freestyle, backstroke, and butterfly stroke 
+swimmers. The treatment, which is basically con­
+servative, includes alteration of stroke mechanics 
+and workout schedules, flexibility and strengthen­
+ing exercises, and local measures to reduce inflam­
+mation and pain. Surgical excision of the coraco-
+acromial ligament or anterior acromioplasty may 
+be indicated in severe disabling cases when con­
+servative treatment has failed. Postoperatively, 
+the prognosis for the return of a swimmer to a prior 
+level of competition is guarded. 
+Glenohumeral instability (often multidirec­
+tional) can also be a cause of shoulder pain in 
+swimmers and may be more common than has 
+been reported. The diagnosis is often elusive, and 
+evaluation should be thorough. Conservative ther­
+apy includes muscle strengthening of the rotator 
+cuff, deltoid, and scapular rotators and altering of 
+stroke mechanics. Surgical treatment to tighten 
+the joint capsule provides short-term satisfactory 
+results for patients in whom conservative treat­
+ment has failed. Long-term results of surgical 
+intervention are unknown. 
+Shoulder pain can be prevented through proper 
+training schedules, strength training, flexibility 
+exercises, and avoidance of errors in stroke tech­
+nique. Attention should be directed not only to 
+muscles used in the pull-through phase but also to 
+those used in the recovery phase. 
+"Breaststroker's knee" is an inflammation of 
+the medial retinacular structures of the knee from 
+repeated stress placed on it by the breaststroke 
+whip kick. Most investigators have found inflam­
+mation of the tibial collateral ligament as the 
+source ofpain. The treatmentis focused on correct­
+ing abnormal kick mechanics and limiting the 
+amount of training using the whip kick. 
+Inflammation of the extensor tendons over the 
+dorsum of the foot occurs less frequently than 
+shoulder or knee pain in swimmers. Treat­
+ment includes local application of ice, ultrasound, 
+anti-inflammatory medication, and, occasionally, 
+local injections of corticosteroids. 
+The approach to treatment of musculoskeletal 
+injuries in the competitive swimmer should be 
+chosen only after the goals of the swimmer and the 
+training program of the coach are understood. 
+Communication and cooperation among the phy­
+sician, the coach, and the athlete will ensure a 
+treatment program tailored to the needs of the 
+swimmer and will result in a more compliant and 
+satisfied patient. REFERENCES 
+1. Miyashita M, Kanehisa H: Effects of isokinetic, isotonic 
+and swim training on swimming performance. Int Ser 
+Sport Sei 14:329-334,1983 
+2. Mognoni P, LaFortuna C, Russo G, Minetti A: An analy­
+sis of world records in three types of locomotion. Eur J 
+Appl Physiol 49:287-299,1982 
+3. Counsilman JE: The Science of Swimming. Englewood 
+Cliffs, New Jersey, Prentice-Hall, 1968, pp 117-123 
+4. Ciullo JV: Swimmer's shoulder. Clin Sports Med 5:115-
+137, January 1986 
+5. Dominguez RH: Shoulder pain in age group swimmers. 
+Int Ser Sport Sei 6:105-109,1978 
+6. Fowler PJ, Webster MS: Shoulder pain in highly competi­
+tive swimmers (abstract). J Bone Joint Surg [Br] 66:304, 
+1984 
+7. Kennedy JC, Hawkins R, Krissoff WB: Orthopaedic mani­
+festations of swimming. Am J Sports Med 6:309-322,1978 
+8. Richardson AB, Jobe FW, Collins HR: The shoulder in 
+competitive swimming. Am J Sports Med 8:159-163,1980 
+9. Neer CS II, Foster CR: Inferior capsular shift for involun­
+tary inferior and multidirectional instability of the shoul­
+der: a preliminary report. J Bone Joint Surg [Am] 62:897-
+908,1980 
+10. Neer CS II: Anterior acromioplasty for the chronic im­
+pingement syndrome in the shoulder: a preliminary re­
+port. J Bone Joint Surg [Am] 54:41-50,1972 
+11. Hoppenfeld S: Physical Examination of the Spine and 
+Extremities. New York, Appleton-Century-Crofts, 1976, 
+p23 
+12. Cofield RH, Simonet WT: The shoulder in sports. Mayo 
+Clin Proc 59:157-164,1984 
+13. Nuber GW, Jobe FW, Perry J, Moynes DR, Antonelli D: 
+Fine wire electromyography analysis of muscles of the 
+shoulder during swimming. Am J Sports Med 14:7-11, 
+1986 
+14. Penny JN, Welsh RP: Shoulder impingement syndromes 
+in athletes and their surgical management. Am J Sports 
+Med 9:11-15,1981 
+15. Rathbun JB, Macnab I: The microvascular pattern of the 
+rotator cuff. J Bone Joint Surg [Br] 52:540-553,1970 
+16. Neer CS II, Welsh RP: The shoulder in sports. Orthop Clin 
+North Am 8:583-591, July 1977 
+17. Hawkins RJ, Kennedy JC: Impingement syndrome in 
+athletes. Am J Sports Med 8:151-158,1980 
+18. Penny JN, Smith C: The prevention and treatment of 
+swimmer's shoulder. Can J Appl Sports Sei 5:195-202, 
+1980 
+19. Froimson AI: Treatment of tennis elbow with forearm 
+support band. J Bone Joint Surg [Am] 53:183-184, 1971 
+20. Nirschl RP: Tennis elbow. Orthop Clin North Am 4:787-
+800, July 1973 
+21. Blatz D: Upper arm strap. Swimming World, pp 43-44, 
+February 1985 
+22. Scott SG: Current concepts in the rehabilitation of the 
+injured athlete. Mayo Clin Proc 59:83-90,1984 
+23. Greipp JF: Swimmer's shoulder: the influence of flexibil­
+ity and weight training. Physician Sportsmed 13:92-105, 
+August 1985 
+24. Jobe FW, Moynes DR: Delineation of diagnostic criteria 
+and a rehabilitation program for rotator cuff injuries. Am 
+J Sports Med 10:336-339,1982 
+25. Fowler P: Swimmer problems. Am J Sports Med 7:141-142, 
+1979 
+26. Kennedy JC, Hawkins RJ: Swimmer's shoulder. Physi­
+cian Sportsmed 2:34-38, April 1974 
+27. Kennedy JC, Willis RB: The effects of local steroid 
+injections on tendons: a biomechanical and microscopic 
+correlative study. Am J Sports Med 4:11-21,1976 
+304 SWIMMING-RELATED INJURIES 
+28. Dominguez RH: Coracoacromial ligament resection for 
+severe swimmer's shoulder. Int Ser Sport Sei 6:110-114, 
+1978 
+29. Tibone JE, Jobe FW, Kerlan RK, Carter VS, Shields CL, 
+Lombardo SJ, Yocum LA: Shoulder impingement syn­
+drome in athletes treated by an anterior acromioplasty. Clin Orthop 198:134-140,1985 
+30. Rowe CR, Zarins B: Recurrent transient subluxation of 
+the shoulder. J Bone Joint Surg [Am] 63:863-872,1981 
+31. NorrisTR: Diagnostic techniques for shoulder instability. 
+Instruct Course Lect Am Acad Orthop Surg 34:239-257, 
+1985 Mayo Clin Proc, April 1987, Vol 62 
+32. Stulberg SD, Shulman K, Stuart S, Culp P: Breast-
+stroker's knee: pathology, etiology, and treatment. Am J Sports Med 8:164-171,1980 
+33. Cureton TK Jr: Mechanics and kinesiology of swimming 
+(the crawl flutter kick). Res Q 1:87-121, December 1930 
+34. Robertson DF: Cited by Hay JG: The Biomechanics of 
+Sports Techniques. Third edition. Englewood Cliffs, New 
+Jersey, Prentice-Hall, 1985, p 363 
+

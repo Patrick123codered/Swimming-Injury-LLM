@@ -1,0 +1,642 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/284879937
+Consensus statement on the methodology of inju ry and illness su rveillance in
+FINA (aquatic sports): Table 1
+Article    in  British Journal of Sports Medicine  · No vember 2015
+DOI: 10.1136/bjsports -2015-095686
+CITATIONS
+105READS
+1,592
+13 author s, including:
+Mar go Mountjo y
+McMast er Univ ersity
+221 PUBLICA TIONS    14,958  CITATIONS    
+SEE PROFILE
+Astrid Jung e
+Medic al School Hambur g
+247 PUBLICA TIONS    23,359  CITATIONS    
+SEE PROFILE
+Juan Manuel Alonso
+Aspe tar - Qat ar Orthop aedic and Sports Medicine Hospit al
+97 PUBLICA TIONS    8,726  CITATIONS    
+SEE PROFILE
+Benjamin Clar sen
+Nor wegian School of Sport Scienc es (NIH)
+119 PUBLICA TIONS    7,695  CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Mar go Mountjo y on 30 No vember 2015.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+Consensus statement on the methodology of injury
+and illness surveillance in FINA (aquatic sports)
+M Mountjoy,1,2,3A Junge,4,5J M Alonso,6,7B Clarsen,8B M Pluim,9,10I Shrier,11
+C van den Hoogenband,2S Marks,2,12D Gerrard,2,13P Heyns,2K Kaneoka,14
+H P Dijkstra,7K M Khan7,15
+▸Additional material is
+published online only. To view
+please visit the journal online(http://dx.doi.org/10.1136/bjsports-2015-095686).
+For numbered af ﬁliations see
+end of article.
+Correspondence to
+Dr M Mountjoy, Dip SportMed; FINA c/o Michael
+G. DeGroote School of
+Medicine, McMaster UniversityWaterloo Regional Campus,10-B Victoria Street South,
+Kitchener, Ontario N2G
+1C5, Canada;mmsportdoc@mcmaster.ca
+Accepted 19 October 2015
+To cite: Mountjoy M,
+Junge A, Alonso JM, et al .
+Br J Sports Med Published
+Online First: [ please include
+Day Month Year]
+doi:10.1136/bjsports-2015-095686ABSTRACT
+Background Injury and illness surveillance in the
+aquatic disciplines has been conducted during the FINAWorld Championships and Olympic Games. Thedevelopment of an aquatic-speci ﬁc injury and illness
+surveillance system will improve the quality of the datacollected and the development of preventive measures.Our ultimate objective is to enhance aquatic athletehealth and performance.Objective The objective was to re ﬁne the injury and
+illness surveillance protocols to develop aquatic-speci ﬁc
+deﬁnitions of injury and illness; de ﬁne aquatic-speci ﬁc
+injury location and causation; better describe overuseinjuries; regard pre-existing and recurrent injuries; moreaccurately de ﬁne aquatic athlete exposures and develop
+a protocol to capture out-of-competition aquatic athletehealth parameters.Methods FINA compiled an Injury and Illness
+Surveillance Expert Working Group comprised ofinternational experts to review the scienti ﬁc literature in
+theﬁeld. A consensus meeting was convened to provide
+an opportunity for debate, following whichrecommendations were collated.Results Aquatic-speci ﬁc injury and illness surveillance
+protocols covering both the in-competition and out-of-competition time periods were developed. De ﬁnitions for
+all relevant variables were outlined, and documentationforms for athletes and for clinicians were proposed.Recommendations for the implementation of an injuryand illness surveillance system for FINA are presented.Conclusion The FINA consensus authors recommend
+ongoing in-competition and out-of-competitionsurveillance to determine injury and illness trends overtime. The implementation of the de ﬁnitions and
+methodology outlined in this paper will improve theaccuracy and value of injury and illness surveillance, andprovide important information for injury prevention.
+INTRODUCTION
+Aquatic sport (swimming, diving, water polo, syn-
+chronised swimming, open water swimming andhigh diving), the second largest sport based on thenumber of athletes at the Olympic Games, is gov-erned by the FINA. Approximately 2500 athletesfrom 180 countries compete at the FINA W orldChampionships before a cumulative global audi-ence of 4.5 billion. As the custodian of a sport thatenjoys global popularity and participation through-out the lifespan, FINA has the responsibility of pro-tecting the health and well-being of its athletes. ItsMedical Rules clearly outline: “FINA …should takecare that sport is practised without danger to the
+health of the athletes… T o that end, it takes the
+measures necessary to preserve the health of ath-letes and to minimise the risks of physical injuryand psychological harm. ”
+1
+Athlete health protection should be on a meth-
+odologically sound injury and illness surveillancemodel for the accurate collection of data to clearlydeﬁne the health risks of the speci ﬁc sport.
+2–5
+Several International Sport Federations have pub-
+lished methods and/or consensus statements for
+injury and illness surveillance based on the require-ments and characteristics of their sport, such asfootball,
+67cricket,8rugby,91 0tennis,11skiing,12
+horse racing,13athletics14and multisport events.15
+These approaches are an important step towardsinjury and illness prevention.
+16
+Previous injury and illness surveillance in
+aquatic sports
+FINA participated in the 2004 Athens Olympic
+Games on injury surveillance team sport with itsdiscipline of water polo.
+17All aquatic disciplines
+were included in the injury surveillance during the2008 Beijing Olympic Games,
+18and in the injury
+and illness surveillance during the 2012 LondonOlympic Games.
+19FINA conducted its ﬁrst injury
+and illness surveillance during the 2009 FINAW orld Championships.
+20In 2013, a retrospective
+survey capturing physical complaints in the 4 weeksprior to the Championships was also implementedto ascertain the magnitude of overuse injuries notcaptured using the traditional methodology.
+21A
+further FINA project on out-of-competition illnessanalysed the prevalence of asthma in a large cohortof close to 1500 elite aquatic athletes competing atthe Olympic Games and FINA W orldChampionships during the time period of 2004 –
+2009.
+22
+The IOC methodology for injury and illness sur-
+veillance15used for the FINA injury and illness sur-
+veillance in Rome20and Barcelona21had important
+limitations for aquatic events with regard to expos-
+ure (speci ﬁcally for swimming relays, open water
+swimming team, synchronised swimming team and
+synchronised diving events) and injury location(speci ﬁcally head injuries in water polo requires
+further differentiation). More importantly, the IOCsurveillance protocol was not designed to capturethe true extent of overuse injuries, since it focuseson acute, new-onset injuries during thein-competition time period. However, FINA studiesshowed that 37.5% of all injuries during the W orld
+Mountjoy M, et al.Br J Sports Med 2015; 0:1–7. doi:10.1136/bjsports-2015-095686
+ 1Consensus statement BJSM Online First, published on November 27, 2015 as 10.1136/bjsports-2015-095686
+Copyright Article author (or their employer) 2015. Produced by BMJ Publishing Group Ltd under licence. group.bmj.com  on November 29, 2015 - Published by http://bjsm.bmj.com/ Downloaded from 
+Championship were caused by overuse,20and injuries incurred
+in the out-of-competition period were still present during com-
+petition.21Also, the high prevalence of asthma in the elite
+swimmer reported by Mountjoy et al22is not captured in the
+IOC protocol which only records new-onset illnesses or exacer-
+bations of existing illnesses.22
+Consensus meeting objectives
+The methodological limitations outlined above demonstrate the
+need for FINA to re ﬁne the in-competition injury and illness
+surveillance protocols speci ﬁcally for the aquatics sports and to
+cover both the in-competition and out-of-competition timeperiods. The objectives were to:▸Develop aquatic-speci ﬁcd eﬁnitions of injury and illness;
+▸Specify aquatic-speci ﬁc injury location and causation;
+▸Better describe overuse injuries;
+▸Regard pre-existing and recurrent injuries;
+▸Develop a protocol and documentation forms to captureout-of-competition health problems of aquatic athletes;
+▸More accurately de ﬁne aquatic athlete exposures.
+METHODS
+T o realise the objectives outlined above, FINA convened anInjury and Illness Surveillance Expert W orking Group (FINAconsensus group). Participants included a project lead (MM), ascienti ﬁc lead (AJ), experts in sports injury epidemiology (AJ,
+BC, IS, BMP), aquatic sports medicine (MM, KK, CvdH, DG,HPD), sport psychiatry (SM) and an athlete representative (PH).Prior to the consensus meeting, relevant topic areas were deter-mined by the project coordinator and scienti ﬁc lead. Each topic
+was assigned a lead expert and a secondary participant whowere responsible for conducting a literature review and draftinga preliminary summary of the designated topic(s). The topic
+summaries were collated and circulated for review by all partici-
+pants prior to the meeting.
+The consensus meeting was held at Aspetar in Doha, Qatar,
+in December 2014. The meeting was moderated by a non-aquatic sport medicine expert (KMK) and recorded in an audioﬁle and transcribed by an administrative assistant. Each topic
+was presented by the identi ﬁed lead participant and discussion
+by all participants ensued. Following discussion, consensus wasreached by the participants under the guidance of the moder-ator. Any discrepancies following discussion were identi ﬁed in
+the audio and meeting notes. After the meeting, the participants
+redrafted their respective topic assignments based on the discus-sions at the meeting. These new modi ﬁed scienti ﬁc summaries
+along with the audio ﬁles and the administrative assistant
+meeting notes were reviewed, and all data were collated in an
+initial consensus document draft by the project lead. This initialconsensus document was edited by the scienti ﬁc lead prior to
+the circulation to all participants for review. All comments wereonce again collated, and a second consensus document wasdrafted by the project lead and reviewed by the science lead.This document and subsequent iterations were circulated to allparticipants for comment and ﬁnal review.
+23Any remaining dis-
+crepancies in consensus are notated in this ﬁnal document.
+CONSENSUS RECOMMENDATIONS
+Deﬁnitions of injury and illness
+The FINA consensus group reviewed the published injury and
+illness de ﬁnitions, and modi ﬁed the wording as required to
+ensure aquatic speci ﬁcity:
+Medical condition/health-related incident :“Any physical or
+psychological complaint or disorder experienced by an athlete,irrespective of the need for medical attention or time loss fromtraining or competing in an aquatic discipline. ”
+14
+Injury :“A physical complaint or observable damage to body
+tissue produced by the transfer of energy experienced or sus-tained by an athlete during participation in training or compet-
+ing in an aquatic discipline, regardless of whether it received
+medical attention or its consequences with respect to impair-ments in competition or training ”(based on refs. 91 4).
+Illness :“A complaint or disorder experienced by an athlete
+not related to injury, regardless of whether it received medicalattention or its consequences with respect to impairments intraining or competing in an aquatic discipline. ”
+14An illness can
+be either physical or psychological. A psychological illness canbe a response to psychological trauma suffered during sport (ie,abuse, harassment, post-traumatic stress disorder, response tosport injury) or suffered outside of sport (ie, Diagnostic andStatistical Manual of Mental Disorders, Fifth Edition (DSM V)diagnoses).
+Medical attention :“An injury or illness where a quali ﬁed clin-
+ician has assessed the athlete ’s medical condition ”(based on
+refs. 691 11 4 ).
+Clinician: FINA has 208 member federations with very differ-
+ent healthcare cultures. Therefore, it would be restrictive todeﬁne‘quali ﬁed clinician ’with traditional titles, especially since
+the same title can mean different things in different regions.The FINA consensus group de ﬁnes a clinician as “anyone who
+is involved in the health care of athletes, reviews medical orphysiological information, and/or implements an action plan toimprove the athlete ’s health, where health is considered in a
+broad sense but must be more than just performance enhance-ment. ”Clinicians include, but are not limited to, the team phys-
+ician, physiotherapist, physiologist, nurse, physician assistant,etc. For example, sport scientists who review lactate results andalter a training programme are not acting as clinicians.However, sport scientists (who are licensed or designated bylicensed professionals to act on their behalf) who review bloodtests for anaemia and recommend iron are acting as clinicians.
+Time loss: “A time-loss injury or illness leads to the athlete
+being unable to take full part in FINA activities ”(based on refs.
+691 4 ). If the athlete misses the rest of the training or competi-
+tion session but returns for the next training/competition, thisshould be recorded as a time-loss incident.
+Deﬁnitions of recurrences, reinjuries and exacerbations
+Fuller et al24were the ﬁrst to address the de ﬁnition and classi ﬁ-
+cation of recurrences, reinjuries and exacerbations in injury sur-
+veillance. Subsequently, Hamilton et al,25Finch and Cook26and
+Shrier et al27published different de ﬁnitions and classi ﬁcation
+systems. The FINA consensus group discussed the different
+models, and decided to adopt the classi ﬁcation system of
+Hamilton et al.25Although the later models26 27appear to have
+advantages over traditional models, they are only being devel-oped recently, and the FINA consensus group felt it was tooearly to recommend them for general use.
+Index injury :“The ﬁrst recorded injury in a series of injuries
+constituting a recurrent condition. ”
+25
+Exacerbation: “Injury to same location and of the same type
+as the index injury , where the index injury has not completelyhealed. ”
+25
+Reinjury :“Injury to same location and of the same type as the
+index injury, where the index injury has completely healed. ”25
+Local injury :“Injury to same location but a different type
+from the index injury. ”25
+2 Mountjoy M, et al.Br J Sports Med 2015; 0:1–7. doi:10.1136/bjsports-2015-095686Consensus statementgroup.bmj.com  on November 29, 2015 - Published by http://bjsm.bmj.com/ Downloaded from 
+New injury :“Injury to a different location from the index
+injury. ”25
+The FINA consensus group recommends that the terms
+‘acute ’and ‘chronic ’should generally not be used when describ-
+ing aquatics injuries, because of their ambiguities, overlap and
+confusion with ‘traumatic ’and ‘overuse ’injury (which are
+deﬁned below). Where the context requires them to be used,
+they should be explicitly de ﬁned.
+Mechanism or causation of injury
+According to van Mechelen et al,2Meeuwisse and colleagues,34
+and Bahr and Krosshaug,28clearly de ﬁning the injury mechan-
+ism may identify future prevention interventions. Mode of
+onset for sports injuries is typically classi ﬁed as being either
+traumatic or overuse. Theoretically, the difference between thetwo types is the nature of the energy transfer that caused them.For traumatic injuries the energy transfer is instantaneous,whereas for overuse injuries it is accumulated over time.
+26
+Operationally, however, sports injuries are classi ﬁed based on
+whether they are linked to a speci ﬁc, clearly identi ﬁable event
+such as a fall or a collision (traumatic) or not (overuse).61 31 4
+T raumatic injury : Refers to an injury caused by a single,
+clearly identi ﬁable energy transfer.91 4The mechanism of a trau-
+matic injury can be further speci ﬁed in (1) non-contact, (2)
+contact with another athlete/person and (3) contact with anobject or animal (goal post, diving board, lane marker, sea life,water surface from heights). A separate classi ﬁcation of import-
+ance in the development of prevention interventions is thedetermination of the presence of a rule violation as a causativefactor.
+Overuse injury : Refers to a condition caused by multiple accu-
+mulative bouts of energy transfer without a single, identi ﬁable
+event responsible for the injury.
+61 4
+It is important to recognise the potential con ﬂict between the
+theoretical and operational de ﬁnitions of overuse injury. The
+operational de ﬁnition for overuse is, in effect, made by exclu-
+sion and does not consider the actual cause of the injury.Application of this operational de ﬁnition is normally straight
+forward, as for most aquatics injuries the presence or absence ofan inciting event is easy to determine. However, in certain cases,it may be a challenge. For some overuse injuries, symptom onsetcan be rapid despite being preceded by a subclinical process ofcumulative tissue damage. For example, pain may develop overthe course of a single training session, or even instantaneouslyduring a ‘normal ’loading situation, such as when a diver sud-
+denly feels the onset of a back pain in a pars stress fracture.
+29In
+such cases, there is a substantial risk of misclassi ﬁcation. Certain
+authors have attempted to solve this challenge by sub classifyingoveruse injuries into those with a rapid onset and those with agradual onset.
+15 30 31However, even when this is done, the
+same dif ﬁculties arise in differentiating between rapid-onset
+overuse injuries and acute injuries. In these cases, the injuryrecorder needs to make a clinical judgement based on the theor-etical de ﬁnition of overuse and acute injuries. In particular, it
+should be considered whether the energy transfer occurring atthe perceived moment of injury was suf ﬁcient to damage previ-
+ously healthy, intact tissue.
+Circumstances of injury
+The circumstances of injury include the discipline and event(for grouping see below), the classi ﬁcation as training or compe-
+tition and if the latter, the competition level (ie, heat, semiﬁ nals,
+ﬁnals, quarter ﬁnals, preliminaries).Discipline refers to one of the six aquatic sports (swimming,
+diving, synchronised swimming, open water swimming, waterpolo and high diving).
+Event is de ﬁned as “the type of competition activity for
+which medals are awarded following ﬁnals (ie, 400 m free, 50 m
+breaststroke, 4×200 m medley relay, 10 m Synchro, DuetT echnical Routine). ”
+Competition is deﬁned as “the period during which the ath-
+letes participate in an event against athletes from another team/league/ nation that are timed (swimming and open water swim-ming), judged (synchronized swimming, diving and high diving)or during match play (water polo). ”
+T raining is de ﬁned as “physical activities that are aimed at
+maintaining or improving athletic skills or physical condition. ”
+11
+The warm-up/cool-down period before/after a competitionshould be recorded as training exposure.
+11
+Location, type and diagnosis of injury
+Categories for reporting location and type of injury have beenpublished previously.
+691 11 3 –15For water polo, the FINA con-
+sensus group recommends to document injury to the face inmore detail (see box 1 ).
+For reporting the type of injury, the FINA consensus group
+recommends the use of previously published formats
+14 15for
+paper-based reports as outlined in box 2 , and either the
+Orchard Sports Injury Classiﬁ cation System (OSICS)32of the
+Sport Medicine Diagnostic Coding System (SMDCS)33for
+online reporting. The use of an additional free-text box wouldallow the reporting clinician to add more detail when necessary.
+Diagnosis and cause of illness
+In comparison with diagnosis systems for injuries, there is lesspublished on the diagnosis of illnesses in sports medicine.
+11 14 36
+The FINA consensus group recommends utilisation of the
+Box 1 Categories for location of injury6 9 11 13 –15
+▸Head and trunk
+1. Head, specify: eye, ear, nose, face, dental
+2. Neck/cervical spine3. Chest/sternum/ribs4. Thoracic spine/upper back5. Lumbar spine/lower back6. Abdomen7. Pelvis/sacrum/buttock▸Upper extremity
+11 Shoulder (including clavicle)12 Upper arm13 Elbow14 Forearm15 Wrist16 Hand17 Finger/thumb▸Lower extremity
+21 Hip/groin22 Thigh
+23 Knee
+24 Lower leg/Achilles tendon25 Ankle26 Foot/toe27 Other
+Mountjoy M, et al .Br J Sports Med 2015; 0:1–7. doi:10.1136/bjsports-2015-095686 3Consensus statementgroup.bmj.com  on November 29, 2015 - Published by http://bjsm.bmj.com/ Downloaded from 
+classi ﬁcations for ‘affected body systems ’and ‘symptoms ’of
+illness in the aquatic sports (see boxes 3 and4).
+The FINA consensus group recommends the inclusion of aeti-
+ology or cause of illness. In particular, it should be reported
+whether the illness is (1) new onset, recurrent or pre-existing,and (2) communicable versus non-communicable.
+The FINA consensus group recommends that a diagnosis be
+recorded only when provided by a clinician, and that athletereports should be limited to symptoms and their consequencesfor training and competition. Both sports medicine-speci ﬁc
+coding systems (OSICS
+32and SMDCS33) have classi ﬁcation
+codes for the recording of medical illness in athletes. TheOSICS has 301 classi ﬁcation codes for the recording of medical
+illness as they pertain to athletes (codes # 181– 402).
+32While it
+is not feasible to utilise the detail of these coding systems on apaper-based illness reporting form, it is possible to utilise thesecoding systems in electronic reporting. The principle non-sportsmedicine-related coding system for disease and injury is theInternational Classiﬁ cation of Diseases and Injuries (ICD);
+however, this system is not speci ﬁc enough for utilisation in
+sports medicine.
+38 39
+Severity of injury and illness
+Historically, sports federations have assessed severity in relationto the number of days missed from sport participation,
+691 11 31 4
+The FINA consensus group recommends this approach in orderto facilitate comparison with other sports. However, limitationsof this approach in recording the severity of injuries and ill-nesses that do not lead to time loss are recognised. In particular,the true impact of overuse injuries is underestimated using timeloss, as athletes in aquatics and other sports often continue totrain and compete with a potential impact on performancedespite their existence.
+21 29 40
+When studies aim to record all injury and illness problems,
+including those that do not lead to time loss, the use of alterna-tive methods of measuring severity should be considered. Forexample, a severity score could be based on athletes’ responses
+to a questionnaire on the consequences of injury and illness on
+sports participation, training volume, performance and degreeof symptoms.
+40 41The International Classiﬁ cation of
+Functioning, Disability and Health (ICF) can also be utilised toclassify severity.
+42T able 1 shows different ways of grading
+injury/illness severity. Ultimately, the speci ﬁc method of deter-
+mining severity should be de ﬁned by the research question
+being asked and always explicitly stated when reporting.
+If a time-loss approach is used, the de ﬁnition of full recovery
+also needs to be clearly stated.43Some investigators have used
+practical solutions such as return to full participation.24Others
+have argued that the healing date should be the date the last
+treatment was applied for an injury27 44because many partici-
+pants return to full participation while still injured.21 29 45
+Exposure
+The underlying principle for assessing exposure is to put thenumber of injuries and illnesses in context, so that one cancompare the risk of injury across sports and time. Forout-of-competition studies, the number of athletes included, theduration of the observation period as well as the exposure inBox 3 Categories for affected system by illness14 19– 21 34 36 37
+1. Upper respiratory tract (nose, sinuses, pharynx, larynx)
+2. Lower respiratory tract (trachea bronchi, lungs)3. Gastrointestinal4. Cardiovascular5. Urogenital/gynaecological6. Metabolic/endocrinological7. Allergic/immunological8. Haematological9. Dermatological10. Musculoskeletal11. Ophthalmological/otological12. Dental13. Neurological/central nervous system14. Psychiatric/psychological15. OtherBox 2 Categories for type of injury14 15 34 35
+1. Concussion (regardless of loss of consciousness)2. Fracture (traumatic)3. Stress fracture (overuse)4. Other bone injuries5. Dislocation, subluxation6. Tendon rupture7. Ligamentous rupture8. Sprain (injury of joint and/or ligaments)9. Lesion of meniscus or cartilage10. Strain/muscle rupture/tear11. Contusion/haematoma/bruise12. Tendinosis/tendinopathy13. Arthritis/synovitis/bursitis14. Fasciitis/aponeurosis injury15. Impingement
+16. Laceration/abrasion/skin lesion
+17. Dental injury/broken tooth18. Nerve injury/spinal cord injury19. Muscle cramps or spasm20. Growth plate disturbance/avulsion21. OtherBox 4 Categories for illness symptoms14 19 –21 34 36 37
+1. Pain/ache/soreness2. Fever/chills3. Nausea, vomiting, diarrhoea4. Cough, wheezing, dyspnoea5. Shortness of breath6. Irregular heartbeat/palpitation7. Dehydration/excess sweating8. Rash/itch/eczema9. Nasal congestion/rhinorrhoea10. Dizziness/vertigo11. Fainting/syncope12. Numbness/weakness/tingling13. Fatigue/lack of energy/lethargy14. Sleep disturbance15. Psychological problems/anxiety/depression
+16. Other
+4 Mountjoy M, et al.Br J Sports Med 2015; 0:1–7. doi:10.1136/bjsports-2015-095686Consensus statementgroup.bmj.com  on November 29, 2015 - Published by http://bjsm.bmj.com/ Downloaded from 
+training and competition should be recorded. Exposure in train-
+ing should be documented in hours, whereas exposure in com-petition should follow the in-competition surveillance system.
+The duration of the championship is de ﬁned from the time
+period between and including the ﬁrst and last day of competi-
+tion regardless of whether or not the competition for the indi-vidual athlete is completed. For in-competition projects, aregistered athlete is one who is listed on the of ﬁcial entry list for
+the competition by the authoritative governing body independ-ent of whether the athlete actually participated in the event.
+15
+T o calculate the athlete competition days , the number of regis-
+tered athletes is to be multiplied by the total number of compe-tition days for the each discipline.
+21
+When calculating starts in aquatics, a discipline-speci ﬁc
+approach is required. For individual sports, one sums thenumber of starts in all heats, rounds, quali ﬁcations and ﬁnals for
+all athletes, including athletes who did not ﬁnish and were dis-
+quali ﬁed.
+15For water polo, the number of player-matches
+should be calculated as 2 teams×7 players×the number of
+matches played.64 6For the remaining non-individual sports
+such as open water swimming team events, swimming relays,
+synchronised diving and synchronised swimming events, thenumber of starts should be calculated by multiplying the
+number of athletes on a team by the number of entries.
+21If an
+athlete starts in more than one discipline, each start iscounted.
+21
+Calculation of incidence and prevalence
+The incidence is the number of new occurrences of an injury/
+illness in relation to the athletes at risk in a given time period.
+Incidence may be calculated as the number of new injuries/ill-nesses per 100 athletes,
+21per 1000 athletes exposures, or per
+1000 athlete-days47 48or per 1000 h of exposure.6 7 11 15
+Incidence of training injuries may be reported as per 1000
+athlete-days or per 1000 training hours. Incidence of competi-
+tioninjuries may be reported as injuries per 1000 starts15or per
+1000 player-matches69or per 1000 player-hours.61 5
+Prevalence is the proportion of athletes affected by a speci ﬁc
+condition at a de ﬁned time (point prevalence) or time period
+(eg, 12-month prevalence, life-time prevalence), and iscalculated by dividing the number of athletes with an injury or
+illness (regardless of the onset time) by the total number of ath-letes. Prevalence is often useful in cross-sectional studies, andfor both long-term conditions and those in which a de ﬁnite
+start date is dif ﬁcult to de ﬁne, such as overuse injuries.
+29 41 45
+Some prospective studies with serial measurements of preva-lence have reported the average prevalence over the duration ofthe study or the season.
+40 41 45
+Athlete characteristics
+The FINA consensus group recommends that basic athletecharacteristics be recorded for injury and illness surveillancestudies in the aquatic sport including age, sex, discipline,event(s) and nationality. Further information, such as years ofcompetitive experience, competition/ training load, underlyinghealth issues and recent time zone changes, might be includeddepending on the research question.
+Grouping of FINA events
+Depending on the research question, FINA events can begrouped for ease of comparison. For example, in the FINAstudy on the prevalence of asthma, the aquatic endurance disci-plines of swimming, open water swimming and synchronisedswimming were grouped together and compared with thenon-endurance discipline of diving.
+22Other groupings of disci-
+plines include (1) aesthetic (synchronised swimming, diving,high diving) versus non-aesthetic disciplines (water polo, swim-ming and open water swimming), and (2) timed events (swim-ming, open water swimming) versus non-timed event(synchronised swimming, diving and water polo). Within thedisciplines themselves, groupings can also occur. For example,in swimming, results can be grouped by stroke type (breaststroke, freestyle, butter ﬂy, back stroke) or by distance (sprint (50
++100 m), middle distance (200+400 m), long distance(≥800 m)).
+Implementation methods
+Who reports?
+For in-competition injury and illness surveillance, the FINA con-
+sensus group recommends the reporting to be done by a clin-ician (for de ﬁnition see above) to capture medical attention and
+time-loss injuries/illnesses. When the researchers would like toregister allinjuries (ie, complaints of overuse injuries), athletes
+reporting on their own medical conditions is desirable.Furthermore, coaches of aquatic athletes can also report ath-letes’health problems.
+Reporting frequency
+Daily reporting is recommended for in-competition injury andillness surveillance.
+15For out of competition and long-term pro-
+spective studies, injury and illness reporting should occur on aweekly basis to decrease recall bias.
+49
+Reporting and recording methods
+In addition to the traditional injury and illness surveillancemethods conducted with paper-based reporting systems, thedigital media offers more options for data collection. Recentstudies demonstrate the bene ﬁts of SMS texting as a means of
+reporting injury and/or illness status,
+50–52and the completion of
+online questionnaires of athlete health status.40 41Likewise
+there are many sports medicine-speci ﬁc software programmes
+available to facilitate the ef ﬁciency and accuracy of injury and
+illness surveillance in sports medicine.53T o be effective,Table 1 Different methods of defining injury/illness severity
+Mild Moderate Severe
+Days missed 0* –78 –28 >29
+Pain on 0 –10
+VAS0–34 –78 –10
+Athlete ’s
+perception+ ++ +++
+Disability in … Competing Training Activities of daily living
+Hospitalisation None/emergency
+room visit1–2d a y s > 2d a y s
+Surgery None With local
+anaesthesiaRequiring regional
+blocks or generalanaesthesia
+Cost <$1000 $1000 –$5000 >$5000
+The definition of severity depends on the perspective of the stakeholder. For some
+athletes, severity might refer to suffering (eg, pain), or need for surgery. For a coachtrying to manage a team, or a clinician having to make return-to-play decision,severity might be assessed by time loss (disability). For team management, it mightbe cost.*If the athlete misses the rest of the training or competition session but returns forthe next training/competition (same day, next day or later), the injury is recorded as a
+time-loss injury of 0 days.
+Mountjoy M, et al .Br J Sports Med 2015; 0:1–7. doi:10.1136/bjsports-2015-095686 5Consensus statementgroup.bmj.com  on November 29, 2015 - Published by http://bjsm.bmj.com/ Downloaded from 
+electronic injury surveillance programmes should be easy to use,
+allow data entry at any time and include data validation.
+Future recording of medical conditions in the aquatic sports
+Given the ﬁnding that a high percentage of elite aquatic athletes
+of all disciplines train and compete with injury,21and the high
+prevalence of asthma in swimming,22the FINA consensus group
+recommends the prospective monitoring of athletes’ health in
+all aquatic disciplines throughout the year. Prospective injuryand illness surveillance during the in-competition andout-of-competition period may be conducted by the reportingof symptoms/complaints by the athlete, or by the recording ofmedical conditions by a clinician at prede ﬁned regular intervals
+at least on a weekly basis to minimise recall bias.
+Up until now, very few methods have been proposed for the
+prospective recording of medical conditions that include com-
+plaints not leading to absence from sport.
+11 14 40Report forms
+and questionnaires must be designed to match the objectives of
+the speci ﬁc study , however should include the variables outlined
+above. The Oslo Sports T rauma Research Centre (OSTRC)developed a questionnaire on health problems based on theirOveruse Injury Questionnaire,
+41and validated it in elite athletes
+of various sports in Norway including swimming.40This ques-
+tionnaire has four key questions that must always be answeredby the athlete, as well as subsequent questions that can be modi-ﬁed to suit the project needs. A modi ﬁed version was developed
+and implemented by FINA and IAAF in 2013 to assess the pres-ence of physical complaints in the out-of-competition periodleading into the W orld Championships.
+21 54
+The FINA consensus group developed for health surveillance
+in aquatic athletes during in-competition andout-of-competition period, (1) a self-report for aquatic athletesthat includes the four initial questions of the OSTRC question-naire on health problems
+40plus detailed information on the
+injury or illness as outlined above (see online supplementaryappendix 1
+i), as well a similar report form for clinician (seeonline supplementary appendix 2). The FINA expert workinggroup recommends the use of these forms in the in-competitionand out-of-competition period, and encourages validation ofthese protocols. Electronic versions can be developed and arerecommended for use in long-term studies (for a development
+guide see http://www.ostrc.no/ ﬁna).
+CONCLUSIONS
+The FINA consensus authors recommend ongoing
+in-competition surveillance to determine injury and illnesstrends over time. Evident by the high prevalence of overuseinjuries
+21and asthma22in aquatic athletes, the utilisation of a
+prospective out-of-competition surveillance system is also
+recommended. Assessment of risk factors should be included inthe injury and illness surveillance projects to facilitate the devel-opment of preventive interventions. The implementation of thedeﬁnitions and methodology outlined in this paper will improve
+the accuracy and value of injury and illness surveillance pro-
+grammes in aquatic sports. Ultimately, this should lead toenhanced health and performance of aquatic athletes.
+Author af ﬁliations
+1Department of Family Medicine, Michael G. DeGroote School of Medicine,
+McMaster University, Hamilton, Ontario, Canada
+2Fédération Internationale de Natation (FINA) Sports Medicine Committee, Lausanne,
+Switzerland
+3International Olympic Committee (IOC), Lausanne, Switzerland
+4Fédération Internationale de Football Association (FIFA) Medical Assessment and
+Research Centre (F-MARC), Zurich, Switzerland
+5Medical School Hamburg (MSH), Germany
+6International Association of Athletics Federations (IAAF) Medical and Anti-doping
+Commission, Monte Carlo, Monaco
+7Department of Sports Medicine, Aspetar Orthopaedic and Sports Medicine Hospital,
+Doha, Qatar
+8Oslo Sports Trauma Research Centre (OSTRC), Oslo, Norway
+9Academic Center of Evidence Based Sports Medicine (ACES), Amsterdam,
+Netherlands
+10Amsterdam Collaboration for Health and Safety in Sports (ACHSS), Amsterdam,
+Netherlands
+11Centre for Clinical Epidemiology, Lady Davis Institute for Medical Research, Jewish
+General Hospital, McGill University, Montreal, Canada
+12Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada
+13Department of Medicine, Dunedin School of Medicine, University of Otago,
+Dunedin, New Zealand
+14Faculty of Sport Sciences, Waseda University, Tokorozawa, Japan
+15Department of Family Practice, University of British Columbia, Vancouver, Canada
+Twitter Follow Hendrik Dijkstra at @DrPaulDijkstra
+Acknowledgements The authors would like to acknowledge FINA for its
+dedication to the protection of the health of the aquatic athlete and for the support
+of this project. A special thanks you to Johan Lefebvre (FINA), Dr Jim Miller (FINA)and Ania Tarazi (Aspetar) for their assistance with the consensus meeting.
+Contributors MM provided substantial contributions to conception and design,
+coordination of authors, drafting and revising the manuscript and approval of ﬁnal
+version to be published. AJ provided substantial contributions to conception and
+design, drafting and revising the manuscript and approval of ﬁnal version to be
+published. JMA, CvdH, PH and KK contributed to drafting the manuscript andapproval of ﬁnal version to be published. BC and IS provided signi ﬁcant contribution
+to drafting and revising the manuscript and approval of ﬁnal version to be
+published. BMP, SM and DG contributed to drafting and revising the manuscript andapproval of ﬁnal version to be published. HPD was involved in revising the
+manuscript and approval of ﬁnal version to be published. KMK was involved in
+moderating the Consensus Meeting and approval of ﬁnal version to be published.
+Competing Interests None declared.
+Provenance and peer review Not commissioned; internally peer reviewed.What are the ﬁndings?
+▸Aquatic-speci ﬁc injury and illness de ﬁnitions are outlined,
+and categories for documenting details of injuries and
+illnesses in the aquatic sports are speci ﬁed.
+▸The registration of exposure and the calculation of incidence/prevalence are described.
+▸Report forms (for athletes and for clinicians) for monitoringinjury and illness in the aquatic sports are presented.
+▸There is a need for out of competition injury and illness datato be included in the monitoring of elite aquatic athletes.
+How might it impact on clinical practice in the future?
+▸Aquatic injury and illness surveillance programmes willadopt the standardised methodology.
+▸Out-of-competition injury and illness surveillanceprogrammes will be implemented.
+▸Results from studies utilising this protocol will in ﬂuence
+prevention interventions to improve aquatic athlete health.
+iOne author (BC) did not agree to the entire design of the online
+supplementary appendices.
+6 Mountjoy M, et al.Br J Sports Med 2015; 0:1–7. doi:10.1136/bjsports-2015-095686Consensus statementgroup.bmj.com  on November 29, 2015 - Published by http://bjsm.bmj.com/ Downloaded from 
+REFERENCES
+1 FINA. FINA Medical Rules 2013 –2017 2013 [cited 2015 February 4]. Available
+from: http://www. ﬁna.org/H2O/docs/rules/FINAmedicalrules_20132017.pdf
+2 van Mechelen W, Hlobil H, Kemper HC. Incidence, severity, aetiology and
+prevention of sports injuries. Sports Med 1992;14:82 –99.
+3 Meeuwisse WH. Assessing causation in sport injury: a multifactorial model. Clin J
+Sport Med 1994;4:166 –70.
+4 Meeuwisse WH, Tyreman H, Hagel B, et al . A dynamic model of etiology in sport
+injury: the recursive nature of risk and causation. Clin J Sport Med
+2007;17:215 –19.
+5 Fuller C, Drawer S. The application of risk management in sport. Sports Med
+2004;34:349 –56.
+6 Fuller CW, Ekstrand J, Junge A, et al . Consensus statement on injury de ﬁnitions and
+data collection procedures in studies of football (soccer) injuries. Scand J Med Sci
+Sports 2006;16:83 –92.
+7 Hägglund M, Waldén M, Bahr R, et al . Methods for epidemiological study of
+injuries to professional football players: developing the UEFA model. Br J Sports
+Med 2005;39:340 –6.
+8 Orchard J, Newman D, Stretch R, et al . Methods for injury surveillance in
+international cricket. Br J Sports Med 2005;39:e22.
+9 Fuller CW, Molloy MG, Bagate C, et al . Consensus statement on injury de ﬁnitions
+and data collection procedures for studies of injuries in rugby union. Br J Sports
+Med 2007;41:328 –31.
+10 King DA, Gabbett TJ, Gissane C, et al. Epidemiological studies of injuries in rugby
+league: suggestions for de ﬁnitions, data collection and reporting methods. J Sci
+Med Sport 2009;12:12 –19.
+11 Pluim BM, Fuller CW, Batt ME, et al . Consensus statement on epidemiological
+studies of medical conditions in tennis, April 2009. Br J Sports Med
+2009;43:893 –7.
+12 Flørenes TW, Nordsletten L, Heir S, et al . Recording injuries among World Cup
+skiers and snowboarders: a methodological study. Scand J Med Sci Sports
+2011;21:196 –205.
+13 Turner M, Fuller C, Egan D, et al . European consensus on epidemiological studies
+of injuries in the thoroughbred horse racing industry. Br J Sports Med
+2012;46:704 –8.
+14 Tim
+pka T, Alonso JM, Jacobsson J, et al . Injury and illness de ﬁnitions and data
+collection procedures for use in epidemiological studies in athletics (track and ﬁeld):
+consensus statement. Br J Sports Med 2014;48:483 –90.
+15 Junge A, Engebretsen L, Alonso JM, et al . Injury surveillance in multi-sport events:
+the International Olympic Committee approach. Br J Sports Med 2008;42:413 –21.
+16 Engebretsen L, Bahr R, Cook JL, et al . The IOC Centres of Excellence bring
+prevention to sports medicine. Br J Sports Med 2014;48:1270 –5.
+17 Junge A, Langevoort G, Pipe A, et al . Injuries in team sport tournaments during the
+2004 Olympic Games. Am J Sports Med 2006;34:565 –76.
+18 Junge A, Engebretsen L, Mountjoy ML, et al . Sports injuries during the summer
+Olympic Games 2008. Am J Sports Med 2009;37:2165 –72.
+19 Engebretsen L, Soligard T, Steffen K, et al . Sports injuries and illnesses during the
+London Summer Olympic Games 2012. Br J Sports Med 2013;47:407 –14.
+20 Mountjoy M, Junge A, Alonso JM, et al . Sports injuries and illnesses in the 2009
+FINA World Championships (aquatics). Br J Sports Med 2010;44:522 –7.
+21 Mountjoy M, Junge A, Benjamen S, et al. Competing with injuries: injuries prior to
+and during the 15th FINA World Championships 2013 (aquatics). Br J Sports Med
+2015;49:37 –43.
+22 Mountjoy M, Fitch K, Boulet LP, et al . Prevalence and characteristics of asthma in
+the aquatic disciplines. J Allergy Clin Immunol 2015;136:588 –94.
+23 Sniderman AD, Furberg CD. Why guideline-making requires reform. JAMA
+2009;301:429 –31.
+24 Fuller CW, Bahr R, Dick RW, et al. A framework for recording recurrences, reinjuries,
+and exacerbations in injury surveillance. Clin J Sport Med 2007;17:197 –200.
+25 Hamilton GM, Meeuwisse WH, Emery CA, et al . Subsequent injury de ﬁnition,
+classi ﬁcation, and consequence. Clin J Sport Med 2011;21:508 –14.
+26 Finch
+CF, Cook J. Categorising sports injuries in epidemiological studies: the
+subsequent injury categorisation (SIC) model to address multiple, recurrent and
+exacerbation of injuries. Br J Sports Med 2014;48:1276 –80.
+27 Shrier I, Steele RJ, Zhao M, et al . A multi-state framework for the analysis of
+subsequent injury in sport (M-FASIS) under review. Scan J Med Sci Sports 2015.28 Bahr R, Krosshaug T. Understanding injury mechanisms: a key component of
+preventing injuries in sport. Br J Sports Med 2005;39:324 –9.
+29 Bahr R. No injuries, but plenty of pain? On the methodology for recording overuse
+symptoms in sports. Br J Sports Med 2009;43:966 –72.
+30 Timpka T, Jacobsson J, Bickenbach J, et al . What is a sports injury? Sports Med
+2014;44:423 –8.
+31 Jacobsson J, Timpka T, Kowalski J, et al . Injury patterns in Swedish elite athletics:
+annual incidence, injury types and risk factors. Br J Sports Med 2013;47:941 –52.
+32 Rae K, Orchard J. The Orchard sports injury classi ﬁcation system (OSICS) version 10.
+Clin J Sport Med 2007;17:201 –4.
+33 Meeuwisse WH, Wiley JP. The sport medicine diagnostic coding system. Clin J Sport
+Med 2007;17:205 –7.
+34 Alonso J-M, Tscholl PM, Engebretsen L, et al . Occurrence of injuries and illnesses
+during the 2009 IAAF World Athletics Championships. Br J Sports Med
+2010;44:1100 –5.
+35 Alonso JM, Junge A, Renström P, et al . Sports injuries surveillance during the 2007
+IAAF World Athletics Championships. Clin J Sport Med 2009;19:26 –32.
+36 Engebretsen L, Steffen K, Alonso JM, et al . Sports injuries and illnesses during the
+Winter Olympic Games 2010. Br J Sports Med 2010;44:772 –80.
+37 Soligard T, Steffen K, Palmer-Green D, et al . Sports injuries and illnesses in the
+Sochi 2014 Olympic Winter Games. Br J Sports Med 2015;49:441 –7.
+38 Organization WH. International statistical classi ﬁcation of diseases and health
+related problems (The) ICD-10 . World Health Organization, 2004.
+39 Organization WH. International statistical classi ﬁcation of diseases and related
+health problems . World Health Organization, 2004.
+40 Clarsen B, Rønsen O, Myklebust G, et al . The Oslo Sports Trauma Research Center
+questionnair
+e on health problems: a new approach to prospective monitoring of
+illness and injury in elite athletes. Br J Sports Med 2014;48:754 –60.
+41 Clarsen B, Myklebust G, Bahr R. Development and validation of a new method for
+the registration of overuse injuries in sports injury epidemiology: the Oslo Sports
+Trauma Research Centre (OSTRC) Overuse Injury Questionnaire. Br J Sports Med
+2013;47:495 –502.
+42 Üstün TB, Chatterji S, Bickenbach J, et al . The International Classi ﬁcation of
+Functioning, Disability and Health: a new tool for understanding disability and
+health. Disabil Rehabil 2003;25:565 –71.
+43 Hammond LE, Lilley JM, Ribbans WJ. Deﬁ ning recovery: an overlooked criterion in
+sports injury surveillance. Clin J Sport Med 2013;23:157 –9.
+44 Shrier I, Meeuwisse WH, Matheson GO, et al . Injury patterns and injury rates in the
+circus arts: an analysis of 5 years of data from Cirque du Soleil. Am J Sports Med
+2009;37:1143 –9.
+45 Clarsen B, Bahr R, Heymans M, et al . The prevalence and impact of overuse injuries
+inﬁve Norwegian sports: application of a new surveillance method. Scand J Med
+Sci Sports 2015;25:323 –30.
+46 Stovitz SD, Shrier I. Injury rates in team sport events: tackling challenges in
+assessing exposure time. Br J Sports Med 2012;46:960 –3.
+47 Schwellnus M, Derman W, Jordaan E, et al . Factors associated with illness in
+athletes participating in the London 2012 Paralympic Games: a prospective cohort
+study involving 49,910 athlete-days. Br J Sports Med 2013;47:433 –40.
+48 Schwellnus M, Derman W, Page T, et al. Illness during the 2010 Super 14 Rugby
+Union tournament —a prospective study involving 22 676 player days. Br J Sports
+Med 2012;46:499 –504.
+49 Junge A, Dvorak J. In ﬂuence of de ﬁnition and data collection on the incidence of
+injuries in football. Am J Sports Med 2000;28 5):S40 –S6.
+50 Nilstad A, Bahr R, Andersen TE. Text messaging as a new method for injury
+registration in sports: a methodological study in elite female football. Scand J Med
+Sci Sports 2014;24:243 –9.
+51 Ekegren CL, Gabbe BJ, Finch CF. Injury reporting via SMS text messaging in
+community sport. Inj Prev 2014;20:266 –71.
+52 Moller M, Attermann J, Myklebust G, et al . Injury risk in Danish youth and senior
+elite handball using a new SMS text messages approach. Br J Sports Med
+2012;46:531 –7.
+53 Shrier I, Lamme E, Deschenes E. Sport medicine surveillance 101: what clinicians
+need to know when choosing software programs to record injuries and illnesses.Curr Sports Med Rep 2014;13:341 –8.
+54 Alonso J-M, Jacobsson J, Timpka T, et al . Preparticipation injury complaint is a risk
+factor for injury: a prospective study of the Moscow 2013 IAAF Championships. Br J
+Sports Med 2015;49:1118 –24.
+Mountjoy M, et al .Br J Sports Med 2015; 0:1–7. doi:10.1136/bjsports-2015-095686 7Consensus statementgroup.bmj.com  on November 29, 2015 - Published by http://bjsm.bmj.com/ Downloaded from 
+(aquatic sports)injury and illness surveillance in FINA Consensus statement on the methodology of
+and K M KhanDijkstra den Hoogenband, S Marks, D Gerrard, P Heyns, K Kaneoka, H P M Mountjoy, A Junge, J M Alonso, B Clarsen, B M Pluim, I Shrier, C van
+ published online November 27, 2015 Br J Sports Med 
+ http://bjsm.bmj.com/content/early/2015/11/27/bjsports-2015-095686Updated information and services can be found at: 
+These include:
+MaterialSupplementary
+ DC1.htmlhttp://bjsm.bmj.com/content/suppl/2015/11/27/bjsports-2015-095686.Supplementary material can be found at: 
+References
+ #BIBLhttp://bjsm.bmj.com/content/early/2015/11/27/bjsports-2015-095686This article cites 49 articles, 28 of which you can access for free at: 
+serviceEmail alertingbox at the top right corner of the online article. Receive free email alerts when new articles cite this article. Sign up in the
+CollectionsTopic Articles on similar topics can be found in the following collections 
+ (890)Injury (435) Health education
+Notes
+http://group.bmj.com/group/rights-licensing/permissionsTo request permissions go to:
+http://journals.bmj.com/cgi/reprintformTo order reprints go to:
+http://group.bmj.com/subscribe/To subscribe to BMJ go to:group.bmj.com  on November 29, 2015 - Published by http://bjsm.bmj.com/ Downloaded from 
+View publication stats

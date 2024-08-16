@@ -1,0 +1,1565 @@
+An investigation of swimming coaches’ 
+perceptions on injuries in swimming and their 
+self-reported actions towards injury management 
+and prevention. 
+Amy Tinneny-Phillips 
+A thesis submitted in partial fulfilment of the req uirements for the degree of Master of 
+Osteopathy, Unitec Institute of Technology, 2021  
+I Abstract 
+Background: Swimming is a popular and accessible recreational activity and competitive sport 
+in New Zealand.  It is also the foundation of many other recreational activities and sports based 
+in, on, and around water. Due to the high level of training that competitive swimmers partake in, 
+the current literature discusses the injuries that may occur from swimming including swimmers’ 
+shoulder, swimmers’ knee, and ba ck pain. Rehabilitation of swimming injuries is paramount to 
+helping swimmers returning to full tr aining and competing capabilities.   
+Aim: To investigate the perception of swimming co aches regarding swimming injuries and their 
+self-reported actions towards in jury management in swimming. 
+Method: Five swim coaches from New Zealand were recr uited to take part in a series of one-to-
+one interviews.  These interviews were then re corded and transcribed. The qualitative approach 
+of interpretive description was used to analyse the data and find key themes from the data. 
+ Results: Three key themes were identified from this study 1) coaches’ perceptions of injuries, 2) 
+self -reported actions, 3) communication with he alth care providers. The participants perception 
+of injuries in swimming mainly focused on an ev ent occurring out of the water, that would then 
+be further aggravated and cause issue for the swimmer when training.  There was little 
+perception of injuries occurring directly becaus e of swimming.  The participants discussed good 
+management strategies that are in line with guidelines to managing injured athletes.  Their actions reported decreasing the frequency and intensity of training sessions, while monitoring the 
+strength and fitness of a swimmer returning to full training. The coaches did not communicate 
+with health care providers directly very often and were more often informed of injuries and 
+rehabilitation progress through the swimmer. 
+Keywords: Swimming, overuse injury, Swimming injury , coaches’ perception, coach – athlete 
+relationship, injury management. 
+II Acknowledgements 
+First and foremost, thank you to my parents.  Thank you, Mama-B (Berny), for your continuous 
+and never ending support through my osteopathy journey. Thank you also for your words of 
+encouragement to "just hurry up and get your thesis done!" See - I was actually listening! 
+Thank you to my late dad Steve, I wish you coul d have been here to see what I have achieved 
+and I hope I have  made you proud. 
+Thank you to my supervisor Rob for your ong oing guidance, knowledge and encouragement 
+throughout this process. Your time working with me has been incredibly valuable. Thank you to 
+Wes for agreeing to be my second supervisor, your knowledge and insight on sports coaching 
+and sports physiology has been greatly appreciated.  
+Thank you to the five participants who volunteered and took time from their busy work 
+schedules to sit down with  me and take part in this process.   I am infinitely grateful for your 
+insights and if it were not for you taking part I could not have completed this paper. 
+Thank you to my gorgeous friends for supplying me with unlimited amounts of coffee and 
+encouraging talks when the going was getting tough. I owe you a tall glass of champagne to 
+celebrate completing my thesis. 
+Thank you to Holly, my amazing boss. Thank you for your encouragement and helping me 
+balance work with the ta sk of taking on a thesis. You have become a great mentor and friend. 
+Finally, thank you to Dr. Falkov and my wonderful oncology team. You definitely played a vital 
+part in me being able to complete this pr oject and I will always be truly grateful. 
+III Table of contents  
+A b s t r a c t  I  
+Acknowledgements  II 
+Table of contents  III 
+Chapter One: Introduction 
+Introduction 1 
+P r o j e c t  a i m  1  
+Background 2 
+Swimming culture in New Zealand  2 
+Swimming New Zealand (organisation) 3 
+Competitive swimming  4 
+Why study the perception of coaches? 5 
+Rationale for the study  5 
+Summary  6  
+Chapter Two:  Literature review C h a p t e r  o v e r v i e w   7  
+Part one – Athletic Injury 7 
+Defining athletic injury  7 
+ Aetiology of sporting injuries  8 
+Common swimming injuries  10 
+Part Two – Training concepts 13 
+Periodisation in sport 13 
+IV Training workloads and overtraining 14 
+ Treatment and management protocols 15 
+Part Three – The role of the coach 17 
+What is the role of the coach?  17 
+ Current coaching approaches  18 
+ Coach-athlete relationship 20 
+Summary  21 
+Chapter Three: Methodology and Methods   2 2  
+C h a p t e r  o v e r v i e w   2 2  
+Methodology 22 
+ Qualitative research 22 
+ Interpretive description 23 
+Authenticity and rigour in qua litative research 24 
+ Clear audit trail 25 
+ C r e d i b i l i t y   2 6  
+M e t h o d s  2 7  
+ S a m p l i n g  2 7  
+ Participant recruitment 27 
+ S e l e c t i o n  c r i t e r i a  2 8  
+ S a m p l e  s i z e  2 9  
+Data collection – semi-structured interviews 29 
+ Recording and transcription  29 
+V  D a t a  a n a l y s i s  3 0  
+ E t h i c s  3 1  
+ Informed consent 31 
+ Confidentiality 31 
+ Identifying conflict of interest 32 
+ Identifying researcher bias 33 
+Chapter Four: Findings 34 
+C h a p t e r  o v e r v i e w   3 4  
+ Theme one: Coaches perceptions of injury  35 
+Subtheme 1a: Outside of the pool matters 35 
+ Subtheme 1b: Good technique  36 
+ Subtheme 1c: Gains versus pain  36 
+Subtheme 1d: When do coaches intervene? 38 
+ Theme two: Self-reported actions 39 
+ Subtheme 2a: Program adaptation  40 
+Subtheme 2b: Self-management advice 41 
+ Subtheme 2c: Referral  42 
+Theme three: Communication with health care practitioners  42 
+ Subtheme 3a: Indirectly through the swimmer  43 
+Subtheme 3b: Indirectly through the parents  44 
+Subtheme 3c: Directly with health care providers 44 
+VI Chapter Five: Discussion  4 6  
+C h a p t e r  o v e r v i e w   4 6  
+Coaches perceptions of injury  46 
+Self-reported actions 47 
+Communications with health care providers  48 
+Implications from this study  49 
+Further research 49 
+L i m i t a t i o n s   5 0  
+Conclusion  50 
+References  5 2  
+Appendices 
+ Appendix A 56 
+ Appendix B 58 
+ Appendix C 59 
+ Appendix D 63 
+ Appendix E 65 
+List of Tables and Figures  
+Table  1: Swimming New Zealand definiti ons – coaches and competitive swimmers 3 
+Figure 1: Multi-factorial model of at hletics injuries, Mueeuwisse 2007 9 
+Figure 2: Coaching style spectrum Mitchell 2013  18 
+VII Figure 3: Flow of communication betw een coach, athlete and clinician   
+ Brukner & Kahn 2014 20 
+Figure 4: What are coaches perceptions  to injuries in swimming 35 
+Figure 5: Self-reported actions  40 
+Figure 6: Communication with health care practitioners 43
+1 Chapter One 
+Introduction 
+This thesis investigates the perceptions of swimming coaches regarding injuries in swimming 
+and their self-reported actions when injuries occur in their athletes. A unique aspect of being an 
+athlete is that musculoskeletal pain can be a sign of adaptation where the body is becoming fitter and stronger, or it could be a sign of injury. Th e coaches’ perceptions of injuries and how they 
+manage injuries is the focus of this study.  
+Sports medicine has evolved into a multidisciplinary field where the study, diagnosis, and 
+management of injuries can include doctors and manual therapists.   Health care practitioners 
+who have an interest in sporting injuries can all play a role in the prevention, treatment, and 
+management of athletic injuries and help facilitate an athlete to return to competition 
+performance after injury. (Magee, Quillen, & Zachazewski, 1996) 
+Chapter one introduces the project aim and the sport of swimming. It examines why swimming is 
+a popular sport in New Zealand and covers as pects of competitive swimming, including the 
+governing bodies for both New Zealand and international competitions. This information is discussed to give the reader an understanding of the principal features of competitive swimming.  
+Project aim 
+The aim of this study was to investigate: 
+The perceptions of swimming coaches on inju ries in swimming, and their self-reported
+actions towards injury management and prev
+ention.
+2 Background 
+This section investigates the swimming culture in New Zealand and how this leads to it being a 
+popular sport both recreationally and competitivel y.  It discusses the organisation and structure 
+of competitive swimming and introduces the leve ls of coaches and swimmers as defined by 
+Swimming New Zealand.  
+Swimming culture in New Zealand 
+Geographically, the most ‘inland’ place in New Ze aland is 128km from the coastline.  Therefore, 
+New Zealanders can conveniently reach a swimma ble body of water within two hours travel and 
+this geography affords an affinity with th e water for many New Zealanders. This drives 
+participation in aquatic sports  and underlines why swimming is a popular recreational activity 
+and competitive sport in New Zealand. 
+Popular aquatic activities include su rfing, surf lifesaving, sailing,  and kayaking, all of which are 
+sports where New Zealand has performed highly  in both national and international events. 
+Competitively, New Zealand has a long hist ory of international success in competitive 
+swimming including World Championships, Comm onwealth Games, and the Olympic Games.  
+Overall, New Zealand holds 7 Olympic swimming medals and 84 commonwealth swimming 
+medals . (NZ Olympic organisation, 2018). 
+The crucial skill involved in all aquatic activities and sports is the ability to ‘swim’ . Swimming 
+has been defined as the coordinated movement of all four limbs (in varying disciplines/co-ordinations) to produce propulsion of the body through water (Britannica, 2020).  Competitive 
+swimming events take place in both controlled pool environments, and as ‘outdoor’ events such as open-water swimming events (Swimming New Zealand, 2020)  
+3 Swimming New Zealand (organisation) 
+Swimming New Zealand is the national sports organisation for competitive swimming for both 
+pool and open water disciplines.  Swimming New Zealand is an affiliate of both Fina 
+Internationale de Natation (FINA – international swimming body) and the New Zealand Olympic Committee.   
+Competitive swimmers and coaches must register with a swim club associated with Swimming 
+New Zealand and register with Swimming New Zeal and themselves to be el igible to compete in 
+Swimming New Zealand endorsed events.  Th ere are currently 164 Swimming New Zealand 
+clubs nationwide.  The common progression of Ne w Zealand swimmers is to compete in local 
+club competitions, then regionals, then na tionals, depending on qualifying times.  
+This study referred to the grades of coaches and the level of swimmers they coach as set by 
+Swimming New Zealand.  Below are the defini tions of New Zealand swimming coaches, and 
+two categories of swimmer levels that defi ne a competitive swimmer in New Zealand. 
+Table 1:  Swimming New Zealand definiti ons – coaches and competitive swimmers 
+(Swimming New Zealand, 2020) . 
+Premium Coach  Coaches who coach clubs or coach Swimming NZ members, Premium Coaches 
+receive membership to New Zealand Swim Teachers and Coaches Association are 
+police vetted and will have access to poolside at all Swimming New Zealand 
+National Events. 
+Associate Coach  Coaches who coach clubs or coach Swimming NZ members, Associate Coaches 
+receive membership to New Zealand Swim Teachers and Coaches Association are police vetted and will have access to poolside at selected Swimming New Zealand Events. 
+Competitive swimmer  Swimmers who wish to compete for a club at all swim meets including Swimming 
+New Zealand National Events or Regional Championships. 
+Club Swimmer  Swimmers who wish to compete for a club at an Inter-Club Meet, Club 
+Championship, club night, Time Trial or School Championship. (This would also include master’s swimmers)  
+4 Competitiv e swimming 
+Federation Internationale De Natation (FINA) is the world gove rning body that is responsible for 
+organizing and setting the rules for international swimming events. 
+There are four disciplines (known as swim strokes) in competitive swimming. 
+●Freestyle – also known as the front crawl, this swim is performed in the prone position ,
+with
+ alternating overarm strokes and a continuous up-and-down (flutter) kick .
+●Butterfly –  
+is performed in the prone position where both arms are lifted simultaneously
+out of the water and pushed forward, in combination with the dolphin kick.
+●Bac
+kstroke –  is performed with the swimmer in a supine position with armstr okes
+rotati
+ng backwards and a continuous up-and-down (flutter) kick.
+●B
+reaststroke –  is performed in the prone position in which both hands are
+si
+multaneously pushed forward, outward, then back together (in a large circular motion )
+in 
+front of the chest.  The legs perform the fro g kick.
+(FINA, 2017
+) 
+FINA recognizes 17 individual pool swimming events, these are: freestyle (50m, 100m, 200m, 
+400m, 800m, 1500m), backstroke (50m, 100m, 200m), breaststroke (50m, 100m, 200), and 
+butterfly (50m, 100m, 200m)  
+There is a fifth race called the individual medley where the swimmer will perform each 
+discipline, for the same distance (e.g. 200m medley will be 50m of each swim style). The 
+individual medley event will always be swum in this order - butterfly, backstroke, breaststroke, 
+freestyle.  There are also team relay events, where 4 swimmers from the same club (or country) swim the same distance and swim stroke. 
+Competitions can occur as a short course event where the pool is 25metres in length or a long 
+course event where the pool is 50metres in length.   Olympic events are always held at a 50metre 
+pool venue. The aim of a competitive swimmer is to  move through the water as efficiently and as 
+fast as possible.  Each of the four swimmi ng competitive strokes (freestyle, backstroke, 
+breaststroke, and butterfly) requires well timed movement of the arms and legs to move efficiently through the water.   
+5 Why study the perception of coaches? 
+It is of interest what communication coaches have with health care providers and to explore their 
+perceptions of injuries and how they manage injuries in swimming. There is currently little 
+investigation into the attitudes and beliefs of sports  coaches to the rehabilitation of athletes.  As 
+coaches spend a lot of time with athletes, they  will have a key role in helping and managing 
+injuries their athletes have. This gives weight to the importance of this study and possible future 
+studies to gain a better understanding of coach es’ perceptions for athlete rehabilitation and the 
+effectiveness of communication between the three key parties: the athlete, the coach, and the 
+practitioner. 
+Rationale for the study 
+The popularity of swimming as a competitive spor t, and its links to other recreational aquatic 
+activities in New Zealand makes swimming related injuries a valuable line of investigation for 
+health and sports medicine practitioners who may consult with swimming athletes.   
+Time away from training could hinder an athlete’s performance or return to sport and there is a significant cost for the treatment and rehabilitation of sports injures. In New Zealand injuries are 
+covered by Accident Compensation Corporation (A CC). Their statistics show that between 2018 
+and 2019 there were 8,986 new sw imming related injuries  registered and the cost of swimming 
+related claims was $27,362,439 (Appendix E). This  is a substantial amount of money spent on 
+the rehabilitation and tr eatment of swimming injuries in New Zealand. With the popularity and 
+accessibility of swimming in Ne w Zealand and the high cost of injury rehabilitation, it is a 
+worthwhile line of investigation to explore th e relationships between the multiple parties who 
+have a role in the recovery process. The core relationships explored in this study are those 
+between the coach, athlete, and the health care practitioner.  
+6 Summary  
+This research aims to explore and understand the perceptions of coaches on injuries in swimming 
+and gain insight of their self-r eported actions towards injury management and prevention. An 
+improved understanding of coac hes’ attitudes and beliefs to in jury prevention and management 
+may help in the development of strategies to improve collaboration between rehabilitation 
+providers, athletes, and coaches.   
+7 Chapter two 
+Literature review 
+Chapter ov
+erview 
+This literature review is presented in three parts.   Part one introduces the definition of a sports 
+injury and describes common swimming injuries, part two discusses sports training concepts that 
+are essential for coaches when measuring progress ion in their athletes. The third part discusses 
+the role of the coach in sports training and why communication with coaches is vital for the 
+athlete in times of recovery. 
+Part one: Athletic injury 
+Defining athletic injury 
+There are currently multiple definitions of injury in sports medicine research, and these may 
+differ depending on what code of sport is being studied. Due to the variations in sport injury 
+definitions, it can make comparison between studies difficult and lead to inconsistencies in sports 
+injury research. Therefore, the first task for this ch apter is to explore - what is an athletic injury? 
+The below definition was proposed by Fuller (2006) and accepted by the International Football 
+Federation consensus statement in 2006.  It is currently accepted and used by the international 
+organizations of Rugby Union, Rugby League, and the Olympic games (Fuller et al, 2006) 
+“Any physical complaint (cause d by a transfer of energy th at exceeds the body’s ability 
+to maintain its structural and/or functional integrity) sustained by an athlete during competition or training directly related to th e sport or exercise activity investigated, 
+irrespective of the need for medical attentio n or time loss from athletic activity.” 
+8 Ful
+ler discusses that this definition is for physic al injuries and does not include medical events 
+that can be caused or occur from sports (for example hypothermia) or psychological conditions 
+that could impact on an athlete’s health. 
+Brukner and Khan (2014) categorise sports injuries as either acute injuries or overuse injuries, 
+dependent on the mechanism of injury and the onset of symptoms.  Acute injuries are also 
+known as macro-trauma injuries. They occur fr om sudden direct trauma and cause noticeable 
+immediate injury (e.g. sprain, fracture, dislocatio n, abrasion). Windt and Gabbett (2017) describe 
+a sudden and direct trauma as a certain inciting event occurring, wherein the stress of the event 
+exceeds the tolerance of the athlete’s tissues and injury ensues.   Overuse injuries are also known as micro-trauma  injuries. They are defined as chronic, long 
+standing, or recurrent musculoske letal problems that are not initia ted by an acute injury (Windt 
+& Gabbett, 2017) Olivios and Tate (2016) describe  an overuse injury as an injury caused by 
+repeated micro trauma without a single, identif iable event responsible for the injury.  The 
+majority of swimming injuries that occur in competitive swimmers are associated with overuse 
+injuries rather than acute injuri es, due to the high volume of repetitive movement they do with 
+certain muscle groups and joints.  This is discussed in more detail in the section below covering swimming injuries. 
+Aetiology of sporting injuries 
+Aetiology is the investigation of the possible causes of medical diseases, conditions, and injuries  
+(Oxford medical dictionary, 2010). Where the definitions above are specific to describing the 
+physical and biomechanical changes on the body’s  tissues (bones, ligaments, tendons, muscles), 
+aetiology is focused on investigating the environment surrounding the athlete that can lead to injury (for example, sporting equipment or other athletes, that may cause injury.) 
+9 The classic research on this is shown in the Meeuwisse’s multifactorial model of athletic injuries.  
+Figure 1, Multi-factorial model of athletic  injuries, Meeuwisse 2007 (Taken from Windt & 
+Gabbett article, 2016) 
+Meeuwisse’s model (figure 1) describes internal and external risk factors that leave an athlete 
+susceptible to injury. The internal risk factors consider an athlete’s skill level and body 
+composition which may predispose the athlete to possible injury.  The external risk factors 
+consider the sporting environment and equipment that an athlete may use in training and their 
+sport. More detailed examples of internal and ex ternal factors are identified in figure 1.  The 
+third branch gives examples of inciting events that can lead to injury. 
+The aetiology model and sports injury definiti ons given above (by both Brukner & Khan and 
+Windt & Gabbett) describe the multi-causal situations  needed for injury to occur.  It shows there 
+could be sudden trauma which tends to cause an acute event, or an overload of the body’s tissues 
+causing a chronic overuse injury.   Defining the term ‘athletic injury’ highlights the importance 
+of understanding the mechanism of injury as either  acute or overuse.  An inciting event would be 
+
+10 more recognizable in an acute sports injury but may not be as easily recognisable in the onset of 
+an overuse injury, due to the aggravation of re peated micro trauma seen  in chronic injuries. 
+Common swimming injuries 
+The section below gives a brief overview of th e most common musculoskeletal issues that 
+swimmers experience.  The three most common ar eas of complaints of injury and discomfort 
+reported by swimmers are swimmers shoulder, swimmers knee, and back pain (Adiele & 
+Morgan, 2018)  
+Swimmer’s shoulder:  
+There is some debate over the current term ‘Swimmer’s shoulder’.  Bak (2010)  suggests that 
+swimmer’s shoulder is an umbrella term for any pain or discomfort experienced by the swimming athlete in the shoulder region.  Generalised shoulder discomfort is a common 
+complaint for swimmers and neighboring anatomical sites can contribute to their pain, such as 
+the scapula, cervical & thoracic spine, pectoral muscles, and upper extremity muscles such as the 
+deltoid. The joints of the shoulder (gleno-hume ral joint, acromio-clavicular joint, sterno-
+clavicular joint) can also be aggravated to cause shoulder pain (Brukner & Khan, 2014.) However, it is worth noting that swimmer’s should er is more often being presented as a specific 
+condition that differentiates itself from ‘general shoulder pain’. This emphasises the importance 
+of understanding the mechanism of in jury and biomechanics of swimming. 
+De Martino and Rodeo (2018) discuss the four key factors seen in the onset of swimmers shoulder.   
+1)Inflammation and irritation:  Of the supras pinatus tendon, long head bicep tendon, and
+sub-acromial bursa.  This is caused by the shoulder impingement syndro
+me.
+2)Li
+gament laxity: Swimmers tend to have increased ligament laxity due to both adaptation
+from the high repetition of shoulder rotations, a nd inherent ligament laxity.  This leads to
+increased i
+nstability and altered position of th e gleno-humeral joint.  The altered position
+11 of the gleno-humeral head is usually found to be more anterior and superior which 
+encroaches on the sub-acromial space. 
+3)Muscular imbalances and fatigue: Swimmers te nd to strengthen and develop the adductor
+and internal rotator muscle groups during swim strokes and engaging muscles fo r
+propulsion.  Therefo
+re, the ex ternal rotator and scapula stab iliser muscle groups beco me
+weaker
+ in comparison as they are not engage d as much in the propulsion or ‘pull’ phase
+of swi
+mming stro kes.
+4)Train
+ing errors:  Such as overloading, or poor technique are considered to be contributi ng
+factors.
+The
+ cumulative effect of muscle imbalance, liga ment laxity, and inappropriate load of training 
+can lead to swimmers shoulder.  
+Swimmers knee: 
+Rodeo (1999)  states that the knee is the second most reported site of injury among swimmers. 
+Knee pain can occur from swimming due to the frequent flexion and extension motion performed 
+during kicking.  This is a subtle/passive movement  at the knee joint, as swimmers are trained to 
+not ‘actively’ bend the knee – but rather generate the movement from their hips and ankles.  This 
+motion is further enhanced from the constant ‘push & pull’ hydrodynamic forces created in the 
+water from kicking.  This caus es the knee to develop increase d flexibility/mobility and cause 
+hyperextension of the knee joints and laxity of the knee ligaments. 
+The term “Swimmers Knee” is more likely used to describe injury to the medial collateral 
+ligament caused breaststroke kick.  Breaststrokers are up to 5 times more likely to report knee 
+pain than any of the other swimming disciplines ( Hefzollesan et al  2014).  
+Wanivenhaus et al (2012) further state that quantifying the prevalence of swimmer’s knee is more difficult than swimmer’s shoulder, as on MRI of breaststroke sw immers reporting knee 
+pain, there is a higher chance of infrapatellar fat pad edema (53.8%), prefemoral fat pad edema (19%), and joint effusion (15.3%) to appear, when compared to an age-and-gender matched 
+control group that does not regular ly practice any impact sports. 
+12 Breaststroke kick starts with the knee in full flexion, the hip externally rotated, the ankle in 
+flexion, and the foot everted.  This causes a st retching tension over the medial aspect of the knee 
+joint, stressing the medial collateral ligament s (partnered with a ‘compression or pinching’ 
+occurring at the lateral coll ateral ligament). The swimmer will quickly extend the knees, 
+internally rotate the hips, and abduct the legs together to complete th e breaststroke kick phase 
+(Brukner & Khan, 2014).  Increased varus and valgus loads also occur in the knee in addition to 
+rapid knee extension. The frequent change of tens ion and ‘whip’ like forces put through the knee 
+during breaststroke kick causes irritation and disc omfort for swimmers at the medial aspect and 
+anterior of the knee. 
+Lower back pain: 
+Lower back pain is another common site for pai n Pollard and Fernandez, M. (2004).  They 
+reported that lower back pain is more freque ntly reported by butterfly and breaststroke 
+swimmers. This is related to the extension throug h the back required to perform these swimming 
+strokes. 
+Wanivenhaus et al (2012) discuss the biomecha nical position of the spine, stating that all 
+swimming strokes maintain hyperextension of the lower back to achieve a streamlined position. 
+This position is exaggerated in th e “undulating” (extension) style of breathing in breaststroke and 
+butterfly. The high frequency and repetitiveness of these strokes load the posterior structures of the lumbar spine (facet joints an d erector spinae muscles), which can result in pain.  Therefore, 
+the lumbar spine is compromised due to the repeated hyperextension required for the breathing technique in breaststroke and butterfly disciplines.   Nyska et el (2000) also discuss the additional 
+risk factors for the development of low back pa in in competitive swimmers are training devices 
+such as fins, kick boards, or pull buoys as th ese produce additional hyperextension of the lumbar 
+spine.  It is important to note that maintain ing hyperextension during the streamline position can 
+also affect the thoracic spine, which can cause a ‘flattening’ of the kyphotic curve, causing swimmers to have an appearance of a ‘flat back ’, or in adolescent swimmers, the potential 
+appearance of Scheuermann's  spine, where the kyphosis is maintained lower in the thoracic 
+spine, Nyska et el (2000). 
+13 During freestyle and backstroke, it is necessary for swimmers to perform a ‘body roll’ motion.  
+This describes the consistent switch to the left and right side, required to help complete long 
+controlled swim strokes and to help the swi mmer move through the water in a more dynamic 
+position.  Both the increase in spinal extension and the frequent rotational movement through the 
+spine which is most reported as thoracic spine discomfort by swimmers (Vila Dieguez & Barden , 
+2020). 
+Part two: Training concepts  
+This section discusses key training concepts used  by coaches to help monitor the intensity and 
+frequency of training.  These include Periodization of sport, trai ning workloads and overtraining, 
+and treatment and management protocols. These are important considerations for this study as 
+these are all factors that may be impacted if an  athlete is injured.  Recovery and rehabilitation 
+time may impact how a coach implements these protocols.  
+Periodization in sport 
+Periodization is strategic planning that can be desc ribed as the intentional peaking of an athlete’s 
+performance for matches or events of priority th roughout a competitive season. This consists of 
+the management of training volumes and intensit ies over distinct time periods to optimize 
+athletes’ preparedness for upcoming events. Periodiza tion is said to be a useful tool in managing 
+the travel schedules, fatigue and injuries that often go along with competitive sport (Dick, 2014). 
+Dick (2014) discusses that the organization of  the periodization strategy should have three 
+objectives in focus: 
+●To prepare the athlete for the achievement of an optimal improvement in thei r
+perf
+ormanc e.
+●To 
+prepare the athlete for a definite clim ax to the competition season (e.g. major
+competition such as a national championships event)
+●To prepare the athlete for the main competit ions in the build up to that major ev ent
+14 Bompa & Buzzichelli  (2015) discusses the two circumstances  where periodization is applied.  
+These are periodization of the annual plan and peri odization of biomotor abilities.  Periodization 
+of the annual plan breaks the training plan into sections to help the coach manage and organize 
+the training and adaptation process of the athlete and ensures these are programmed to line up 
+with key competitive events. Biomotor abilitie s include strength, speed, and endurance. 
+Periodization of the biomotor abilities help s coaches to develop the athletes’ optimal 
+performance by planning on when to program training to improve these skills.  
+Periodization will have an influence on when coaches schedule changes in a training program, 
+such as the intensity, duration, and frequency of  training schedules.  Implementing these cycles 
+incorrectly or rushing an athlete through these cycles to quickly can lead to injury as depicted 
+above in the workload-injury model.  
+Traini
+ng workloads and overtraining  
+Workloads quantify the demands imposed on an athlete during matches and training sessions. 
+Workloads are defined as the accum ulation from multiple training demands placed on an athlete 
+through training sessions and competitive events over a period (Windt & Gabbett, 2016). It encompasses the frequency of training sessions, the intensity of sessions, and the increase in load 
+leading up to events that occurs in preparation for important events. The workload of an athlete 
+is determined by the competitive demands of the sport.  With swim tr aining, the goal is to 
+improve the swimmer’s ability to move through the water as quickly as possible. This is 
+achieved by increasing the volu me and intensity of training leading up to competitive events. 
+Therefore, doing performance time trials throughout the training season is the most attainable 
+way to gauge if swimmers are adapting to  increasing workloads (Havriluk, 2013).  
+In swimming, the training load is the combination of volume, intensity, and frequency. For elite swimmers, they will be swimming a volume of 10- 20 kilometres daily over two sessions 
+(Chartard & Stewart, 2011).  Age group swimmers will be swimming between 1-4 kilometres 
+during training sessions (Pyne, 2001) 
+ 
+Int
+ensity is measured by monitoring heart ra te, oxygen uptake, and the swimming pace the 
+15 swimmer is maintaining.  Frequency is determined by the number of sessions swimmers attend 
+over the week.  There are usually four phases of periodization in swimming. These are 1) 
+Obtaining baseline fitness 2) Accelerating the training load 3) High training load 4) Tapering -reducing training load.  (Chartard & Stewart, 2011) 
+It
+ is important to get the right balance of training frequency and intensity to improve athlete 
+adaptation and performance whilst li miting the onset of injuries.  Whilst there are elements of 
+risk factors (intrinsic and extrinsic) and inciting events that can cause injury, overuse injuries  are 
+sustained while athletes are inco rrectly exposed to training and competition workloads (Windt & 
+Gabbett 2016).   
+Treatment and management protocols  
+Treatment and management  protocols are outlined below as these are the suggested steps when 
+managing the rehabilitation of an injury. Bru kner and Kahn (2014) sugge st the treatment of 
+sporting injuries usually require the four asp ects below to be considered and addressed: 
+1.Addressing the cause, if known. (Example: a certain technique drill, or length of practi ce
+s
+ession.)
+2.Activity modification. (have the athlete te mporarily stop the aggravating movement s,
+lessen
+ing training inte nsity or frequency)
+3.Sp
+ecific exercises for tissue repa ir (the clinician may prescrib e certain stretches or muscle
+activation exerci ses)
+4.Manu
+al therapy and pharmacologic treatment.  (This could also include other therapies
+su
+ch as compression, hot/cold treatment, electrotherapies etc. )
+(Brukner 
+& Khan, 2014) 
+O’Connor et al (1997) described five steps for managing injures and this study specifically 
+looked at overuse (micro-trauma) injuries.  They  describe overuse injuries are the result of 
+repetitive micro-traumas wh ich leads to inflammati on and local tissue damage. They also discuss 
+16 contributing factors such as changing the inte nsity and duration of training without adequate 
+recovery time can lead to overloading tissues in  the body and create injury.  This concurs with 
+the workload-injury model discussed above. As ove ruse injuries are more likely to occur in 
+swimming injuries, the steps outlined below would be more suitable when managing a 
+swimming injury.  Some of the advice outlined in  these steps suggests changes to training which 
+could impact the coaches planning of training programs for injured athletes. 
+Five steps for injury management of an overuse injury are: 
+1.Make a pathoanatomic diag nosis.
+An accurate 
+diagnosis of overuse injury has be en given from a physician or manual therapist. 
+2.Control inflammation
+This encompasses a wide scope of interventions  including the RICE (rest, ice, compression, 
+elevation) protocol, through to receiving corticosteroid injections. For athletes, complete rest and 
+halting all training may be counter intuitive as th ey may lose overall fitness. This protocol 
+suggests relative rest by decrea sing training duration and/or intensity or decreasing the workload 
+of possible injured muscle groups while they recover. 
+3.Promote heali ng.
+As infl
+ammation causes pain, once an athlete has inflammation under control, this may see them 
+return to full training prematurely as it can be misinterpreted that lessened or no pain means the 
+injured tissues have recovered.  This is where pr omoting healing is vital. This is when it is 
+essential to complete a full rehabilitation pr ogram that is prescribed by a practitioner. 
+4.Increase fitn ess.
+Whe
+n an athlete is pain free and completed their full rehabilitation program the focus can return 
+to regaining competition fitness and strength.  
+17 5.Control tissue overlo ad.
+This step 
+involves controlling the tissue overload  that occurred in the first place.  This may 
+include modifying incorrect technique and assessing when to increase training loads (intensity 
+and duration) more scrupulously.  These changes ma y need to be put in place long term, even for 
+the remainder of the athlete’s competitive career. 
+While the above protocols describe the changes that  could be made to training, such as 
+decreasing duration and intensity and correcting t echnique, the role of the coach implementing 
+these changes is not made clear.  This study aims to explore not only coaches’ perceptions of injuries in swimming, but what th eir self-reported actions are when  managing injuries.  It is of 
+interest for this study to see if these self-reported actions align to the rehabilitation steps outlined by O’Connor et al (1997) above. It is hypothesi zed that given the modifications to training 
+suggested are crucial for an athl etes’ return to training and high-performance competition, that 
+there could be a difference in opinion among coaches about prescribed exer cises, or modification 
+of the athlete’s workload that are prescribed by manual therapists.  
+Part three: The role of the coach 
+This section looks at the role of the coach, lo oking what their key tasks are and why the coach-
+athlete relationship is important. By understanding this relationship, it will show how valuable 
+the coach is to an athlete’s rehabilitation plan. 
+What is the role of the coach? 
+Coaching is an occupation that is very complex to  define or describe as many people will have 
+differing views on what defines a coach but w ill innately understand the role of a coach. 
+Dick (2014) suggests the two main objectives for coaches should be: 
+a)To create independent and capable athlet
+es.
+18 b)To create more skilled performances and ultima tely personal best performances when  it
+cou
+nts (major competitive events).
+A coach must be proficient at a range of tasks.  They must be not only be focused on enhancing 
+their athlete’s performance but be organised an d punctual when planning and running training 
+sessions.  They need to be critical thinkers and problem solvers to tackle various issues (such as 
+injuries) that may arise. This means they also need to be flex ible and adaptable with their tactics 
+and training strategies. (Denison & Avner, 2011) 
+Coaches need to be good communicators in many different situations.  Fundamentally they need 
+to give clear technical instructions to help im prove the athlete’s perfor mance and technique, and 
+co-ordinate and plan appropriate training programs to develop athletes’ skills and knowledge. 
+They must also be able to communicate with a range of people to manage their athletes and 
+teams when organising training timetables leading up to important competitive events (Short, 2005) 
+Current coaching approaches 
+There are two main styles of coaching practices; these are coach-centred coaching and athlete-centred coaching (Mitchell, 2013).  A way to consider these approaches is to see that they are on 
+two ends of a coaching spectrum.  The approach  a coach uses the more may influence their 
+communication style with athletes. 
+Figure 2, Coaching style spectrum (Mitchell, 2013) 
+Coach-centred coaching is a leadership style and is considered prescriptive where direct 
+instructions are given. This style of coaching is mo st likely used in situations where the coach is 
+
+19 introducing new drills or working on technique where precise movements from athletes must be 
+learned.  The drawback of this approach is that the athlete has a limited input and coaches 
+traditionally using this approach are driven by results and winning as a sign of success. This 
+raises the concern if the coaching attitude be comes “winning at all costs” (Headley-Cooper, 
+2010). 
+On the opposite end of the spectrum Kidman (2005)  states that the athlete-centred approach is a 
+leadership style that caters to athletes’ needs and understandings where athletes are enabled to 
+learn and have control of their participation in  sport.” An athlete-cent red approach acknowledges 
+that an athlete’s performance is enhanced and improves when there is holistic overall development of the athlete. (Kerr et al, 2018). In this approach the coach is not just a leader in 
+the traditional sense but a facilitator and empowers an athlete to achieve both their performance 
+best and personal best.  At the core of this approach is a strong partnership built through clear 
+communication and a strong coach-athlet e relationship (Headley-Cooper, 2010). 
+  Athlete-centred coaches acknowledge that pr ogression and improvement in sport does not 
+always happen consistently.  The examples they gi ve are when athletes hit a plateau in training, 
+working on breaking bad habits, or things gettin g worse before they get better when exploring 
+things such as changing technique and skills.   
+It may be necessary for a coach to be able to move along this spectrum and have times where 
+they utilize a more coach centred approach or  athlete centred approach. These two coaching 
+approaches are of interest to this study, as looking at Mitchells spectrum (Figure 2), the coach-
+centred athlete will be told what to do, where an  athlete-centred coach will collaborate with an 
+athlete with what they may want to do.  It is of  interest to see if these styles influence the way 
+coaches communicate with their athl etes regarding injury management.  
+20 Coach-athlete relationship: 
+Brukner and Kahn (2014),  acknowledge the importance of the relationship and understanding 
+between the athlete, coach, and clinician. A high level of trust and confidence in each person is 
+critical for the athlete’s sports performance and recovery if injury occurs.  As the coach is 
+directly responsible for setting the frequency, intensity, and training load of the athlete, as well as 
+the technique development of the athlete, it is imperative that they are considered in the clinical 
+decision making regarding the athletes’ health .  Brukner & Kahn (2014) also comment that 
+coaches can have a distrust of clinicians, as th ere can be a difference in opinions of maximising 
+athletic performance (coa ch’s focus) and maximising the health of the athlete (clinicians focus). 
+It has also been discussed that the coach’s involvement and understanding of the clinicians’ plan 
+is essential and can improve the athlete’s adhe rence of the recovery & management plan. The 
+coach’s involvement is also very important to establish any possible technique-related cause for 
+injury. Figure 3 below highlights the concerns raised about the communication between these 
+three key parties. 
+Figure 3. flow of communication between coach, athlete, and clinician. (Created by researcher 
+with information from Brukner & Kahn, 2014) 
+
+21 ‐ The black line  shows the ideal and equal flow of communication between all parties. 
+‐ The Red Arrows  show the ‘common’ or usual flow of communication where the 
+athlete is in the ‘middle’ and relaying information between the coach and clinician. 
+‐ The Blue Arrow  shows the communication line that is the focus of this study.  By 
+interviewing coaches on their understandi ng of injury prevention and management, 
+and by asking their opinions on the role of manual therapy (in the interview process) 
+we aim to gain insight to the strength of this relationship and how it can be improved. 
+Summary: 
+To manage an injury in a swimmer it is important to recognize the onset of injury, which in 
+swimming related injuries is most likely going to be a chronic over-use injury causing micro-
+trauma of the body’s tissues.  This chapter also demonstrates the importance of the role of the 
+coach, as they help set the workload for athlete, including duration, frequency, and intensity. If 
+these factors are not managed well, or progression is rushed, this could be predisposing the 
+athlete to injury. This gives weight the aim of this study and understand coaches’ perceptions of 
+injury in swimming and how they manage injuries when present.  
+22 Chapter 3 
+Methodology and Methods 
+Chapter overview 
+This chapter discusses the methodology chosen fo r this study and the methods that were utilised 
+for data collection. The first part of this ch apter is focused on methodology and introduces the 
+qualitative approach of interpretive description and discusses why it is suitable for this study. 
+This chapter will also outline authenticity, rigo ur, credibility, and resear cher bias and why these 
+are important to qualitative research. The second part of this chapter describes the methods used 
+to collect and analyse the data, including sampling, data collection and data analysis methods. 
+Methodology 
+Qualitative research Qualitative research is a broad umbrella term which describes a variety of research processes 
+which aim to analyze the observed data related to the phenomenon of interest. The phenomena of 
+interest that are usually observed in qualitative rese arch are relationships, activities, or situations. 
+When conducting qualitative research, data is co llected in the form of words or observation, 
+rather than quantitative informat ion. As Chesebro and Borisoff (2007) explain the natural setting 
+in qualitative research can be established in tw o ways.  Firstly, if data collection employs the 
+observation of participants in their everyday environment, all efforts must be taken to not 
+interfere or change the environment.  Secondly, wh en data is collected in responses, for example, 
+by interview, it is best to establish an enviro nment where natural behaviors are not restricted.  
+For example, if participants are required to co mplete written questionnaires, this data may tend to 
+be more superficial, compared with an interview that flowed in conversat ion, and the interview 
+derived data would typically be considered mo re in-depth because in terviewing allows the 
+participants to give more detail and potentially  give new information than the restraints of a 
+questionnaire.  A key feature of qualitative research  is that this approach gives consideration to 
+the meanings people give to certain phrases and words and how people’s beliefs and attitudes 
+may be translated into actions.  Qualitative resear ch tends to be analyzed inductively and aims to 
+23 show the perspectives of the participants invol ved in the phenomenon of interest (Krageloh, 
+2008). 
+Common to all forms of research, qualitative research is driven by a research question or line of 
+investigation. The research question helps determ ine which research meth odology is best suited 
+to collect and analyse data. There are four comm on types of qualitative data collection.  These 
+are conducting interviews, group discussions, surveys, and observation. These methods of data 
+collection work well within qualitative research as  the aim of qualitative research is to explore 
+the experiences of people to the chosen phenom ena (Carter & Henderson, 2005). This study used 
+interviewing as the data collection method as the researcher would be able to get in depth 
+information from the participants experiences.  
+Once data collection is complete, the researcher can move to data analysis. The line of investigation for this thesis was to explore an d analyze the attitudes and beliefs of swimming 
+coaches regarding injuries in swimming and the management of these injuries. A thematic 
+analysis approach was selected as being suitable. Thematic analysis is a form of data analysis 
+used in qualitative research to identify patterns of  meaning or themes to give understanding or an 
+answer to the research question being addressed.  This method is used in many research fields 
+including education, nursing, psychology, and al lied health sciences (Braun & Clarke, 2006). 
+Themes are identified through a process of th e researcher becoming familiar with the data, 
+coding, and developing themes. There are many approaches to thematic analysis for analyzing 
+qualitative data where the focus is on identifying themes and finding meaning from the 
+experiences shared by the interviewed participants. The thematic analysis approach chosen for 
+this study was interpretive description. 
+Interpretive description 
+Interpretive description is a thematic methodology that was first described by Thorne in 1997. 
+Thorne and Kirkham (2004) notes that nursing and al lied health researchers would utilize various 
+tools from ‘traditional’ qualitative methodologies to conduct their studies, leaving these researchers with a generalized overview of a qua litative study, without having a constructive 
+term or title, or definitive protocol to describe their research process.  The need for a recognized 
+24 qualitative methodology approach in nursing and heal th care is where the interpretive description 
+framework was first developed.   
+A crucial factor in utilizing interpretive descript ion is that it uses an inductive approach to 
+explore and filter information.  An inductive ap proach allows themes and findings to emerge 
+from the data once it has been analyzed. Interpre tive description is a flexible process allowing 
+multiple topics and ideas to be presented during the interview process, which provides the 
+researcher with the ability to identify findings relevant to the phenomenon of interest and is not 
+constrained to answering one set question (Thomp son-Burdine et al, 2021).  In specific relation 
+to this project, interpretive description was appr opriate because the research questions aimed to 
+investigate the perceptions of co aches regarding injuries in their sport and how they are managed 
+and explore the communication of multiple partie s (coach-athlete and coach-practitioner) when 
+the situation of an injured swimmer occurs. 
+Authenticity and rigour in qualitative research 
+Authenticity and rigour are important consider ations in qualitative research because they 
+establish that the researcher has implemented a thorough and transparent process to both data 
+collection and data analysis (Thorne, 2004). Aiming to ensure authenticity and rigour in research 
+reassures the reader that the re search being conducted is valid and reliable.  Rigour is achieved 
+through the steps a researcher implements to ensure a high standard in the protocols they are following. Having strong authenticity in a rese arch project equates to trustworthiness for the 
+readers of the study (Cypress, 2017).  
+During the interview process, Thorne (2004) argues that authenticity and rigour may be 
+compromised for two key reasons.  Firstly, the participants may not feel comfortable to ‘open 
+up’ and express their true beliefs and opinions as  they may feel ‘judged’ in their professional 
+capacity and may lead to the participant withholding key information. Secondly, a participant 
+may feel pressure to say what they feel the researcher wants to hear.   This could lead to 
+disingenuous replies to questions and if this occurs it will bring the authenticity and rigour of the 
+outcomes into question.  
+25 It is also important to address researcher bias that can occur during interviews.  When conducting 
+semi-structured interviews, there are two key limitations the researcher may encounter that will 
+impact researcher bias (Thorne, 2004). Firstl y, by unintentionally implementing their own 
+opinions and attitudes into the conversation that may challenge the participant, or pressure them into stating what they feel the researcher “wishe s to hear” rather than their true statements and 
+opinions. Secondly, the researcher may be influenced from previous interviews and 
+unintentionally bring presented thoughts and op inions from previous interviews into other 
+interviews and ask questions that were not prev iously thought of at the beginning of the data 
+collection phase. 
+Interviewing is a method used extensively in qu alitative research. The purpose of interviewing is 
+to find out what the views and opinions are of the individual participants are and compare these 
+answers to the other responses to find any common views and perceptions (Brinkmann, 2013) 
+The use of the semi structured interview format can help to overcome the above mentioned 
+pressure participants may feel to answer in a way they think the interviewer wishes them too. 
+Due to the nature of semi-structured interviews and the use of open-ended questions, there is flexibility for the interview to flow more ‘natur ally’ as a conversation (Schmidt, 2004).  This 
+helps ensure authenticity and rigour as participan ts are given opportunity to be more forthcoming 
+with their perceptions and opinions while being uninterrupted or limited in the depth of the 
+replies they can give. 
+Clear audit trail 
+A clear audit trail can be achieved by giving a clear and transparent description of the methods 
+and steps taken throughout the data collection and analysis phases of a study (Carcary, 2020). 
+This has been achieved in this st udy by describing in this chapte r clearly how participants were 
+recruited, how data was collected, and the anal ysis process undertaken by the researcher. By 
+being as transparent and open as possible about the processes of data collection and data 
+analysis, the researcher has aimed for a high le vel of trustworthiness and credibility for the 
+reader.  
+ 
+26 Credi
+bility 
+Credibility aims to ensure that the researcher s account is an accurate interpretation of the 
+participants’ perceptions (Cypress, 2017). Credibil ity establishes whether the research findings 
+are presented ‘truthfully’, and that plausible info rmation is drawn from the participants’ original 
+data and is an accurate and clear interpretation of the participants’ original views (Korstjens & 
+Moser 2018). Credibility is enhanced when the re searcher shows that an appropriate research 
+methodology and process has been undertaken to  provide valid and trustworthy information 
+when answering the research question. (Thorne, 2016).   
+27 Meth
+ods 
+This section describes the steps and processes c onducted by the researcher to collect and analyse 
+the data for this study.  It provides informati on on sampling, recruitment, sample size, data 
+collection, data analysis and ethics. 
+Sampling  
+Purposive sampling was the sampling method used  for this study. Etikan (2016) defines 
+purposive sampling as the researcher delibe rately choosing a partic ipant group due to the 
+qualities and knowledge they hold.  Purposive sampling involves inviting specific participants to 
+take part in a research project because they  are known to have a deep understanding or 
+knowledge of the phenomenon being investigated.  The target group for this study were swim 
+coaches working at clubs registered to swimming  New Zealand due to the knowledge they have 
+of competitive swimming and working with competitive athletes.  Convenience sampling was 
+also used in this study due to the time restraints  and project scope for a 90 credit Masters thesis. 
+An example of this was suitable participants that were geographi cally closer to the researcher 
+were contacted first to unsure the researcher s time was not taken up through excessive travel 
+time. 
+Participant recruitment 
+The fi
+rst step in recruitment was to identify swim ming clubs that were registered with Swimming 
+New Zealand.  This was achieved by ch ecking the Swimming New Zealand website 
+(www.swimming.org.nz/) Each New Zealand geographical region has a webpage with contact 
+information for swim clubs in their region. Th ese clubs were identified, and contact emails 
+collected. Initial contact was undertaken by the researcher emailing to introduce them self and the study along with an information sheet (Appendix A). Some contact email addresses listed on 
+the regional websites were for generic contact rather than a specific individual. In these cases, 
+the email request stated that it was an invite for the swim coaches of the club (Appendix B).  
+28 When coaches had replied to the initial email, an  appropriate date and time were arranged where 
+the interview could take place.  Interviews t ook place at swim coaches’ offices, swim club 
+rooms, and a meeting room booked at a café.  Thes e places were chosen as the interviews could 
+be conducted with minimal interruption a nd with a view to maintaining privacy.  
+Selection criteria 
+Inclusion criteria 
+Must be considered a premium coach or assistant coach as defined by Sw imming
+New 
+Zealand (Swimming New Zealand definitions are discussed in the literatur e
+review)
+Must
+ have been coaching for a minimum of 5 years. This helps ensure the
+parti
+cipants to have developed some individual experience and thought s on
+coachi ng.
+Can be 
+coaching swimmers of any ag e.
+the s
+wimmers they are training are co mpeting at regional or national leve l.
+Ex
+clusion criteria:  
+Coaches who have retired for longer than 12 months at the time of participan t
+recruitment
+.
+Coaches who are not residing in, or  training athletes in New Zealan d
+Co
+aches that are not registered with Swimming New Zealand or meet thei r
+definit
+ion of a premium or associ ate coach.
+29 Sample size  
+The number of participants was informed by the concept of information power.  The basis of 
+information power is that “the more information a specific sample holds, relevant for the study, 
+the lower the amount of participants are needed” (Malterud et al, 2015). It was decided, through 
+discussion between the researcher and supervisors that  for a study of this size and the availability 
+of resources, an upper limit of 8-10 participan ts would likely be appr opriate. Due to utilizing 
+purposive sampling information power can be reached with less than upper limit of participants 
+set (Malterud et al, 2015).  If this occurs, the researcher can stop conducting interviews before 
+the ‘upper limit’ of participants is reached . For this study, five participants were recruited and 
+interviewed. The researcher stopped at five inte rviews due to timeline restrictions for this 
+project. 
+Data Collection - Semi-s tructured interviews 
+This study used aspects of both a semi-structured and informal interview style.  The researcher 
+had an interview guide (Appendix C) with prompt s and questions to help the interview stay on 
+topic.  However, the questions and prompts co uld be used in any order and the informal, 
+conversational approach was intende d to permit coaches to bring up topics that had not been 
+originally considered by the researcher.  This ap proach to allow conversation was key as part of 
+the inductive description method as it can promot e the collection of richer data from the natural 
+flow of conversation or discourse betw een the researcher and participant. 
+Recording and transcription 
+The researcher used their password protected smar tphone to record the in terviews.  These were 
+then stored on a password protected laptop that on ly the researcher had access to.  The researcher 
+shared the recorded interviews with their supervisors via a shared drop box folder that only the 
+researcher and supervisors had access to.  The re corded interviews were sent to a transcription 
+service by the main supervisor, who then returned the transcripts to the re searcher via the shared 
+drop box folder.  The researcher sent all participants a copy of their transcripts as they had 10 
+working days, from the day their transcript was sent, to read and let the researcher know if they 
+30 would like to change, clarify, or omit any of th e information they had given at the time of the 
+interview. This information was made availabl e in both Appendix A, the information sheet and 
+Appendix D, the participant consent form. 
+Data analysis 
+Phase one: Familiarisation  with data 
+The researcher read and listened to the interviews simultaneously. This was to help to researcher 
+become familiar with the data and to check for any possible mistakes. This step was repeated on 
+many occasions throughout the data analysis proce ss. While repeating this process the researcher 
+would make margin notes which was the start of identifying topics which were explored further 
+in phase two. 
+Phase two:  Organization of data into Themes 
+To start this phase the researcher reviewed the interview guideline and transcripts and identified 
+six broad topics of interest.  From here the re searcher created a colour-coded legend to orgranise 
+the responses from the interviews into groups. This helped the re searcher to ga in understanding 
+of the phenomenon studied.  Grouping the vari ous attitudes and beliefs presented into themes 
+allowed the researcher into deeper investigation in the other stages. 
+Phase three:  Data exploration 
+The researcher further explored the identified Themes  and organised these more in-depth into 
+Categories .  This is also known as ‘coding’ where key words and sentences are identified and 
+attached to the broader themes.  This gives the common themes a greater strength of recognition.  
+This phase was further progressed from conversa tion between the researcher and supervisors.  
+Talking through and explaining the emerging categori es helped the researcher identify and refine 
+emergent themes. 
+Stage four:  Interpretation and Presentation of the themes and categories: 
+By identifying the themes which are strengthened  by the key information categorised to them, 
+the researcher is able to interpret and present the relevant and clinically important findings. The 
+31 findings of this study are presented in Chapter four, findings. The findings are backed up by 
+quotes from the interviews that give weight to the researcher’s interpretation of the data. 
+(Krageloh 2008) 
+Ethics 
+An ethics application for this paper was approv ed by the Unitec Research Ethics Committee on 
+the 17th April 2019.  (UREC 2019-1012). The five inte rviews were conduct ed between October 
+30th 2019 and the 11th February 2020. This ethics application addressed the following issues: 
+informed consent, confidentiality,  identifying conflicts of interest, and identifying researcher bias 
+which are all briefly explained below. 
+Informed consent 
+All potential participants were provided with an  Information Sheet (Appen dix A) at the time of 
+initial contact in order to make an informed deci sion about their participation in the study. Prior 
+to commencing each interview, the researcher provided the participant with a consent form to 
+formally acknowledge they had received, read , and understood the topic of the study, the 
+interview process and record each participant’s in formed consent to participate.  The information 
+sheet also stated the withdrawal process which in formed participants that they had 2 weeks to 
+withdraw from the time of their interview, an d that they had ten working days, on receiving a 
+copy of their transcribed interview to clarify, change, or delete any comments, before being used 
+in the data analysis phase.  The consent form al so provided express permission for the researcher 
+to undertake audio recording of the interviews (Appendix D). The partic ipants were informed 
+that any personal information that was require d by the researcher was kept confidential. 
+Confidentiality 
+To maintain confidentiality the coaches and their swim clubs are not mentio ned within the study. 
+All individual or identifying data (name, age, y ears working in the industry, swim club location) 
+32 were anonymised.  When using transcript extracts  the coaches were referred to as CX, where C 
+represents ‘coach’ and X represents an identif ication number assigned in sequential order of 
+participant recruitment.  
+To keep the interview recordings and transcripts confidential, they were kept electronically on a 
+password protected laptop and any printed copies, along with the signed consent forms were kept 
+in a locked drawer which only the researcher had access to.  In keeping with the Unitec 
+regulations for all postgraduate res earch projects, the data will be st ored securely for five years.  
+After this time all electronic files and transcripts will be deleted and the physical copies of the 
+consent forms will be shredded.  
+Identifying conflict of interest 
+The researcher worked for 12 years in the aquatics industry in Auckland.  There was potential 
+that previous employers and work colleagues woul d meet the inclusion criteria for this study and 
+receive an invitation to participate. The process out lined within the ethics application was that if 
+a conflict of interest became a pparent (e.g. someone known to the researcher expressed interest 
+in participating), any issues that may have arisen  would be discussed openly with the participant 
+and participation ceased if appropriate. Subseque ntly, no conflicts of interest occurred, as the 
+researcher had not worked with or previously met a ny of the participants that agreed to take part 
+in this study.  
+33 Identifying researcher bias 
+To limit the interference of researcher bias, the researcher completed the following steps.  
+Firstly, the researcher was interviewed by a colleague  three months before the first interview 
+with a participant took place.  This interview used the same interview guide the researcher 
+developed for the interviews.  The answers of th e researcher were recorded to highlight their 
+existing opinions and attitudes they may hold.  This helped the researcher acknowledge and 
+recognize their potential biases before conducting interviews with participants.  This allowed the 
+researcher to be aware of their existing perceptions. This awareness meant the researcher would 
+not discuss their viewpoints in the interviews . Secondly, during the interviewing process that 
+took place over 3 months, the researcher took reflective notes after each interview which served two purposes. It allowed the researcher to start identifying key themes that were presented in the 
+interview and allow reflection on the level of influence they had on the interview. 
+34 Chapter 4 
+Findings 
+Ch
+apter overview 
+This chapter presents the findings from the interv iews and these are reflective of the perceptions 
+of the five swimming coach participants who we re interviewed for this study. These coaches 
+were all located in the North Island of New Zealan d. Four had gained swim coaching experience 
+exclusively within New Zealand and one had also worked overseas. Four participants were male, 
+and one female.  Their years working as swim coaches ranged from 5 years to 25 years. Two 
+participants mentioned they had completed certif icates or diplomas in sports and recreation. 
+To organize the findings, they are presented in th ree main themes, along with the associated sub-
+themes.  Theme one explores what the coaches’  perception of injury are. The sub-themes 
+included are: Outside of the pool matters, Go od technique, gains versus pain, and when do 
+coaches intervene. The second theme explores  the self-reported actions to managing and 
+preventing injuries. The sub- themes that di splay these are: Program adaptation, self-
+management advice, and referral. Theme three looks at the ways that coaches communicate with 
+health care practitioners. These are: Indirectly  through the swimmer;  Indirectly through the 
+parent, and Directly through manual therapist. 
+35 Theme one: Coaches perceptions of injury
+Figure 4: what are coaches percep tions to injuries in swimming. 
+Subtheme 1a: Outside of the pool matters 
+From the interviews there were many instances wh ere coaches would give examples of injuries 
+occurring out of the pool, which would then influence the swimmer in the pool.  This gave an 
+insight that participants tend to think of injuries as events that happen away from the pool rather 
+than occurring specifically from swimming. 
+C1: “she plays for water polo and netball and she's one of those kids that always falls over, hurts 
+herself and you can guarantee that if you're doing something outside the pool she's going to be the 
+one that break her finger” 
+C1: “I’ll ask "Got a sore shoulder? What were you doing?" "Nothing." "Did you fall over?" 
+"Nah." And so you go through the list, and then they'll say, "Oh no but, um, I did 500 pushups 
+yesterday." You know what I mean?” 
+C4: “I have a ton of kids that are going through their growing. They always breaks bones, or fall 
+over and hurt themselves.” Part 1: What are coaches perceptions  to 
+injuries in swimming
+Out of the pool 
+mattersGood techniqueGains versus 
+painWhen do 
+coaches 
+intervene?
+36 Subtheme 1b: Good Technique 
+There appears to be a view amongst participants that maintaining “good” and “correct technique” 
+in the pool would decrease the chance of injuri es directly caused by swimming.  This links to 
+subtheme 1a where the participants perceive that injuries are less likely to happen in the pool 
+when good technique is maintained. 
+C3: “I definitely am a big believer in overuse, and with poor technique causes injuries. So, if we’re 
+swimming with good technique, we don’t tend to have injuries” 
+C1 “we can put you here [a different squad or group]  and then just swim to get your technique right” this 
+quote was given in the context of a swimmer returning to training after a break out of the water. 
+C4 “Yeah, there's a better way to do something. It's basically what my job is. If people swam perfectly, then 
+you wouldn't need a coach. That's the whole point. It's what I try to get through to the kids when we're 
+doing technique. As long as it's a legal stroke, it's fine. But there are more efficient ways, and ways that are 
+better for you.” 
+C2: “It's just getting more people understanding the complexity of swimming, stuff like that, because a lot 
+of people don't, I think, understand what swimming does to ah, like the little joints and the fact that its non-weight bearing, the mileage that some swimmers can do, the repetition of some of what they do”. 
+Subtheme 1c: Gains ve
+rsus pain 
+There was discussion about the difference between the terms ‘aches’ and ‘pains.  The word ache 
+does not tend to be interpreted as injury but is  interpreted as part of routine training at a 
+competitive level which should be expected to a certain degree with high level training. The 
+word pain however, was more likely to be inte rpreted as injury or something more severe 
+happening to the swimmer than a training ache. Par ticipants would differentiate this by adopting 
+certain tools or phrases as a ‘rule of thumb’ to help their athletes express if they were 
+experiencing training pain or symptoms of injury. It is to be noted that these tools and phrases 
+may differ in use between coaches.  The two main  examples were using a Verbal Rating Scale 
+(VRS), and the use of Keywords. The VRS scale would be used by coaches to have the swimmers either assess the exertion or threshold of  the training session or to rate their pain.  
+37 Regardi
+ng keywords, participants would place mo re emphasis on words or phrases the swimmers 
+would use and this would indicate injury to them . Examples given were pain, sharp, or sore. 
+Using VRS scale 
+The VRS works by asking a person to rate an experience, such as pain on a scale of 0 to 10.  The 
+limits of the scale are set as 0 meaning no pain at  all to 10 being the wo rst pain imaginable. The 
+VRS was used in two ways by coaches.  Firstly, it was used to measure the workload and 
+intensity of the training session, so the coach can assess if the swimmer is meeting their objective 
+for the swimming session they have set out. 
+C5 “It’s trying to teach them now like what is an injury and what’s not an injury.”  
+C5:  So, an intensity of the training session of how hard they felt the two hours was. So, in two hours out of 
+ten how hard was that whole thing. This morning (training session) was probably around four or five for most of them… A four or five to me is still trainable.   
+C1: “1 -10 scale, I more use the numbers one to 10 for like effort, and how they feel in terms of soreness. 
+That's sort of overall at the end of training.” 
+The VRS was also used by coaches as a way fo r the coaches to have their swimmers measure 
+their pain. 
+C2: Well, I would ask them on a scale of one to ten how sore it is.  “What number would you have to reach 
+before you both decided?” “Six or seven” 
+Key words 
+Al
+so fitting with the theme of differentiating training pain and injury coaches would put higher 
+emphasis on key words to indicate injury. These key words or phrases would be picked up 
+during conversation with the swimmers.  This gives insight into how coaches interpret the 
+perceptions of their athletes and also help identify if they are training while injured. 
+38 C2 “That's why I use achy and sore, like achy or sharp. Because if they describe it as a sharp pain I know 
+it's more serious than an achy pain because achy muscles is just a sign of them getting stronger “ “Also 
+comes back to getting them to understand their body and like their pain tolerance.” 
+C3 “we talk about sharp pain and dull pain a lot. And that's kind of our, our scale to know if something's 
+serious or not.” 
+C4 “If they're like "I've got such and such niggle." I say "Okay, is it sore or is it painful? Can you keep 
+swimming or what do you think? Is it too painful to swim, or it's just sore but you're not doing anything 
+wrong."  
+S
+ubtheme 1d: When do coaches intervene: 
+There was two key instances when coaches would intervene or approach a swimmer to see if 
+they were in pain or discomfort. This was th rough direct observation or when a swimmer would 
+approach talk about the pain they were experiencing. 
+Observation 
+Some of the coaches mentioned that there are occasions where they observe a difference when 
+the swimmers are in the water.  If they ha d noticed a difference in someone’s swimming 
+technique or performance or if they were avoi ding particular tasks, they would then start a 
+conversation with the swimmer. 
+C1 “Oh yeah, by body language, they're swimming slower than normal… why?” There's a few things that, 
+yeah, when swimming that you can see they avoid maybe doing something or they're not pushing off the wall properly. "Why are you not doing a turn?" "Oh, I've got a sore back.” 
+ C5: You see them so often you can pick up on it pretty quickly, you know? Or, you’ll just say to them, “Look, 
+you need to make sure you’re retaining a little bit more through the hips and that line or actually a bit tighter 
+through it. And, that’s usually when it’s, “I did but I was a bit sore.” It’s usually at that point that they feed 
+back to me on that. And, okay well just feel what you’re doing to keep inside the range that it’s not sore. 
+39 When a swimmer talks to them 
+The most common way that coaches would be in formed of injuries occurring was when the 
+swimmer told them directly.  As one coach good-humoredly summarized “first I tell them they 
+need to communicate because I can't read minds!”  There were many times throughout the interviews 
+where the coaches would give examples of, “if they mention”  or “if they say”  when talking 
+about swimmers informing them.   This gave the impression that the coaches felt the swimmers 
+could approach them openly to discuss injuries or discomfort they were  feeling. There was no 
+formal process that the athletes had to go through, in order to discuss issues with the coaches.  
+ C5: So, it’s usually just a verbal communication, usually before the session or if it’s not before the session 
+it’s usually during the session if we’re doing something or like doesn’t quite feel right or this is a little bit 
+sore at the time and they’ll stop. 
+C1: but I'm not going to tell you off for coming to tell me that you're injured or sick. (This coach was 
+talking in the context of the younger swimmers) 
+Theme t
+wo: Self-reported actions 
+There were three main self-reported actions repo rted by the coaches.  For this study, self-
+reported actions were established as behavior s and actions coaches took when they had 
+knowledge that one of their athletes were injure d.  These three actions are program adaptation, 
+giving management advice, or refe rring to a health care practitioner.  There is overlap of these 
+three actions, where all three may occur simultaneou sly or there may be shift between these three 
+actions, where coaches would re-visit one action mo re than once.  These actions are flexible and 
+would be utilized in any order depending on the swimmer and the individual injury they were 
+presenting with. 
+40 Fi
+gure 5: Self-reported actions 
+Subtheme 2a: Program adaptation 
+Program adaptation was the code given for the ex amples coaches gave where they changed the 
+training session to match the abilities of the swimmer during a period of injury.  The main 
+examples of program adaptation were adjusting th e intensity and duration of training sessions.  
+C1: "Look, do warm up," you know it might be 200 meters. Just see what happens. If it hurts, stop, if it 
+doesn't hurt then figure out what does hurt and then we'll just avoid it for a wee while. Generally it turns 
+into, if it's a shoulder, turns into kick with fins and drill or- or whatever until we can figure it out. 
+C2: (example “sore shoulder”) If they say "sore" I just get them to do kicks. You know, streamline, and 
+stretch out. Or just do one arm, do that sort of stuff. 
+C4: Most of them will just adjust it. I've got one kid at the moment with a shoulder injury, who has no idea  
+she did. If it's shoulder related we'll do kick, or with fins. Stuff to take the pressure off. …It's quite easy to 
+manage a kid doing something slightly different. 
+C2: “So just gradually so if they've had six weeks out, say, for a broken arm I’ll say maybe just do all the 
+mornings that first week and then just progressively get them back in. The quicker you can get them back 
+with monitoring the easier it is. And I also made sure that they keep doing exercise out of the pool to keep 
+their fitness level up”  
+
+41 Subtheme 2b: Self-management advice 
+This theme developed from the ‘rehabilitation an d self-management’ suggestions and advice the 
+coaches would give swimmers if they mentioned they  were sore or injured. It appears that this 
+advice comes from the ongoing learning and experience the coaches develop throughout their 
+careers.  Participants appear to be reliant on their career experience when recommending 
+exercises and stretches and will make suggestions  of things the swimmers should be using or 
+doing to either prevent or manage their pain.  The key examples of advice were stretching and 
+making rehabilitation tools available for the athletes to use.   
+Examples of exercise advice given by coaches: 
+C2: I go straight into rehab, uh, rehab with therabands bands and stretching. Make sure they pre-empt 
+rather than post-empt it.” ”And do you do that within your training sessions?” “Yeah. I also tell them to do 
+it at home. Because yeah, the more you do it, the better.” 
+For some of the coaches they expressed it was important for the swimmer to take accountability 
+for incorporating the warm-up and stretching  routines for both injury prevention and 
+management. 
+C4: We've got stretch bands, foam rollers, massage balls and stuff. They know they've got them, they just 
+have to want to use them. We've spent the last year working on stretching routines to do before trainings. 
+They don't do it, but they know that they have the options. The majority of them, especially in the 
+afternoons, they turn up a good 20 minutes early. They know that they have the option. . They do need the 
+encouragement.  
+C3:  We try and put the accountability on the athlete to execute that plan…we want them to take 
+responsibility and accountability and make sure that they are doing it- doing their piece- Um, and then if 
+there's things we see, and patterns that we see that are causing those injuries, then we'll look at drills that 
+can help fix that. Or equipment.  
+42 Subtheme 2c: Referral 
+The subtheme of referral reflects when coaches highly recommend or suggest that one of their 
+swimmers sees a health care provider. This step had a close relationship or link to subtheme 2b 
+as it would be the ‘next step’ the coaches woul d take if the swimmers further mentioned they 
+were not feeing improvement from suggested stretches or exercises the coaches had 
+recommended.  The coaches interv iewed for this study would suggest seeing manual therapist. A 
+common finding was that the participants were more likely to suggest their swimmers see a 
+manual therapist they have worked with before. The examples mentioned most frequently were 
+Osteopaths and Physiotherapists.  
+C2 “ I would ask them where it's sore, whether the pain is achy or sharp and then tell me if they've been 
+doing their stretching, their thera-band, and then we give it twenty-four or forty-eight hours and then I 
+refer to the physio.”  
+C4: I'll have someone say, "My shoulder is a bit sore. Can you just look at what my technique is doing, and 
+make sure I'm not doing anything wrong?" That's the first thing, and then I say "Are you doing any 
+stretching or exercise or anything like that." And we do that. If it's not better then we're going to go to the 
+physio. 
+Theme three: Communication with Health care practitioners  
+Before the interviewing process, it was decided that the researcher would use the term ‘manual 
+therapist’ so the coaches could talk about their experiences with physiotherapists, chiropractors, 
+massage therapists, and osteopaths. During the in terviews, there were times where the coaches 
+would talk about “specialists”.  Their use of the term specialist meant other health care providers 
+their swimmers may have been referred to, from the involved manual therapist. Because the 
+involvement of specialists was no t originally considered by the researcher at the outset of the 
+research, during the data analysis process it  was decided the generic term ‘health care 
+practitioners’ would be used to describe the pa rticipants’ experiences and perceptions of both 
+specialists and manual therapists (i.e. physiothera pists, chiropractors, massage therapists, and 
+osteopaths).  For this chapter th e term specialist is used when  quoted by the participants and 
+specific practitioner types are named when they were  used directly by the participant.  It was also 
+43 common that the participants used shortened titles to indicate certain health care practitioners, for 
+example “Physio” means physiotherap ist and “Osteo” means osteopath. 
+Coaches were most likely to re ceive information from health care  practitioners indirectly. This 
+information is usually conveyed to the coach by the swimmer or their parents depending on the age of the athlete. There were occasions where coaches would talk directly with healthcare providers and they were more likely to interact with a health care provider they had worked with previously and built up a working relationship with.   
+Figure 6: Communication with  health care practitioners. 
+Subtheme 3a: Indirectly, through the swimmer 
+Communication is usually through the swimmer. Swimmers would talk with their coaches either 
+before or during a training session regarding an injury, it was the same for passing on 
+information from their health pr actitioners to the coaches.   
+C3 “we'll make sure that there's a three-way kind of communication from the physio or the doctor or the 
+osteo, whoever it is. Just the coach and the athlete, so we're all on the same page. Coz, um, there are some 
+
+44 athletes that will milk an injury a lot longer than they need to. But there's some athletes that will rush an 
+injury faster than they need to. And if there's not that transparency of what the situation is, and what the 
+recommendations is, it's kind of like, throwing darts in the dark. …Um, yeah, that communication's the first 
+piece- what the plan is. And we just go off the plan. We try and put the accountability on the athlete to 
+execute that plan.” 
+C4: “Generally speaking, it would be, I will tell the kid to go, and book in with the physio, and they go and 
+see them… Generally the feedback comes through the swimmer.”  
+Subtheme 3b: Indirectly, through the parents 
+The youngest swimmers that coaches had in their club s were 8 years old.  These swimmers would be in 
+development squads.  Due to swimmers being under the age of 18 years they were considered to be 
+minors and therefore the coaches would have conversati ons with their parents regarding their treatment 
+with health care providers. 
+C4: The swimmer will see the physio, either by them self  or with the parent. Either the kid or the parent 
+will come back to me and say this is what they've said.  
+C3: (Will speak to the parent) “On pick up and drop off. …We see them, we're talking with them, and 
+checking in, feedback. Where's it at? Are you feeling like you're improving? What's, what's going 
+backwards? How's physio going? How's your exercises going? All that stuff, we're gonna communicate 
+with them.” 
+S
+ubtheme 3c: Directly, with health care providers. 
+There were occasions where the coaches would talk  directly with health care practitioners.  The 
+participant would ask for general advice or information when they may be concerned about a 
+swimmer. The situations where this would occur was if there was a health care practitioner 
+(typically a physiotherapist) based at their aquatic centre, or if they had a good working 
+relationship with a local health care practitioner who was happy for them to call with general 
+questions.  This links strongly to subthemes 1d observation and 2c referral, where coaches may 
+45 observe a swimmer moving differently, or if they fe lt it may be necessary for the swimmer to see 
+a manual therapist. 
+C4:  “I have a good relationship with one of the physios [locally] mainly because she's treated me for a lot 
+of years. She's quite good. If I have any questions, she'll help me” 
+C4: “In terms of if I was to talk to a physio, I'd say "I'm just a little bit worried about this swimmer. Can 
+you just make sure we're on the same page and I know what's going on?” 
+C2: “And do you refer to the same physio?” “The same, yeah. I try and get them to see the one that's 
+started with me because I know she does it [treats] really well.” 
+C1: “so I sent him to osteo and he helped him out with something that he had.” “so my advice [is] from the 
+osteo, because I talk to him quite a bit.” 
+Swimmers being referred to specialists.  
+Some Participants expressed uncertainty about at hletes being referred to specialists. Manual 
+therapists may refer an athlete for medical imag ing or to a specialist for further diagnostic 
+investigations. As the coaches are not frequently in  touch with the health care practitioners, they 
+seemed unsure as to why some of the sw immers needed these further interventions. 
+C1 “In the past mainly with older kids, specialists, and then next minute they're talking, um, injections and 
+surgery and they're quite keen on that because they... you don't need that, you know.” 
+C2 “And their sort of solution was just cortisone, cortisone, cortisone.” 
+C2 “Half the time I hear people that have ultrasounds, they show the very bare minimum as opposed to a 
+MRI … I've got one swimmer with a little niggly shoulder at the moment and the physio's got an ultrasound 
+and before he went I said, "Oh, you'll have tendinitis or bursitis" and then he came back to me. "Oh, you 
+were right”"  
+C5: “Again, I think around different practitioners, I think you know, everyone has a different opinion on a 
+different injury which is another area which becomes a little bit frustrating as a coach, because you don’t 
+really know what it is.” 
+46 Chapter 5  
+Discussion  
+Chapter overview 
+This chapter discusses the three themes identified in chapter four and considers how these 
+findings link to the current research, with particular focus on topics outlined in the literature 
+review. The themes are discussed in the same orde r as they are presented in chapter four. These 
+are: coaches’ perceptions of injury, self-reporte d actions, and communication with health care 
+providers. This chapter also discusses the implic ations, limitations, and potential further lines of 
+research from this study. 
+Coaches’ perceptions of injury 
+The participants appear to perceive that there are multi-causal factors that lead to injury. Their 
+perception of injury gave emphasis to unfores een events that happened away from the pool such 
+as spraining joints, breaking bones, or falls wh ich were then further aggravated by swimming. 
+This fits with the overarching definition of sporting injury where the tissues of the body are 
+stressed beyond their structural and functional abilities (Fuller 2009). 
+Looking at the three factors in Meeuwisse’s aetiology model (figure 1), the participants’ 
+perception of injury also aligns with this model as they seem to consider that a swimmer may be 
+more susceptible to experiencing symptoms when swimming if they have had a recent previous injury or trauma.   Brukner and Khan (2014) discuss sports injuries as being either acute injuries 
+that happen quickly from direct trauma, or over use injuries caused by repeated movement.  There 
+is currently emerging recognition of swimming in juries which were outlined in the literature 
+review as ‘swimmers shoulder’ and ‘swimmers knee’.  
+Where the participants’ perception of injury di ffered from the current literature was that there 
+was minimal mention of overuse injuries as a direct  result of swimming. During the interviews it 
+was discussed that swimming can continue to irr itate an injured region of the body, however, 
+there was little emphasis on swimming and repe titive movements causing injury directly. 
+47 Self-reported actions 
+The treatment and management protocols mention ‘activity modification’ as a key phase when 
+managing an injury.  Coaches have a pivotal role in this stage of the management plan as they 
+schedule and monitor training frequency and the in tensity of the training sessions (Denison & 
+Anver, 2011). From the interviews there were two key actions that the participants discussed that 
+fit within this step of rehabilitation. The first ke y action is assessment of training thresholds and 
+adapting the training program if necessary. The second is that they will utilize warm-up exercises and stretching to target regions that the swimmers report as symptomatic. 
+An example from the findings was how the coaches had tools that they used to communicate 
+with their swimmers to measure training thresholds. Training thresholds are important to monitor 
+as it informs the coach and athlete when they are ready to increase training duration and intensity 
+and if they are on track for their competition goals (Windt & Gabbett, 2016). Traditionally in 
+swimming, coaches will measure improvement throug h achieving a set distance in a certain time. 
+The coaches gave the following information that they would evaluate the times the swimmers 
+were making at swim meets or practices and this  would help them to assess their progression. 
+The common example explored in this study wa s the VRS rating tool used between coach and 
+athlete to communicate threshold perceptions during training sessions. This also gave the coach a 
+gauge about whether the athletes’ perception of training threshold was matching the coach.  The 
+VRS scale was also used by coaches as a way of communicating and interpreting if the swimmers were reporting general training discom fort, which was discussed as indicating body 
+adaptation, compensation, and increased fitness. 
+The participants for this study discussed that their swimming squads were given a warm-up and 
+stretching plan to complete before entering the pool.  Racinais et al (2017) discuss that warming 
+up the body before training can improve muscle length and range of motion while also raising 
+the heart rate and ventilation. They also explain that this activation before training can prepare 
+and stimulate the athlete to withstand traini ng by enhancing their functional capacity. 
+The general pattern for the participants in this study was to ensure that swimmers who mentioned 
+they were sore were completin g their warm-up and stretching activities and would advise or 
+recommend the swimmer use certain stretches or movements fr om the warm-up routine more 
+48 frequently, for example at home and on non-trainin g days.  If there was no reported improvement 
+from the swimmer, they would then suggest seeing a manual therapist. 
+Communication with health care providers 
+The line of communication described by the participants between the coaches and health care 
+providers strongly matched the example raised by Brukner and Khan (2014) as described in the 
+literature review. Brukner and Khan’s descrip tion was that communication most likely came 
+through the athlete. It appears to be uncommon for coaches and manual therapists to communicate directly, although there were occasions where a coach may organise a phone discussion or request an email with fu rther information if it was necessary. 
+An interesting point to come from the interviews is that the participants were more likely to 
+recommend their swimmers see a manual therapist they have seen themselves for treatment or 
+experienced good outcomes with their swimmers pr eviously.  A positively established working 
+rapport was important for the coaches. 
+At the time of interviewing the researcher deci ded to use the term manual therapist so the 
+coaches could discuss their experiences with ph ysiotherapists, chiropractors, osteopaths and 
+massage therapists. At the time of the interviews  the researcher had not anticipated specialists 
+and sports doctors would also be discussed within  the interviews. However, some of the coaches 
+discussed when their swimmers informed them that they had been referred to see a specialist, 
+which lead to the use of the term ‘health care provider’ in this study, to also explore and include 
+the partipants perception of specialists as well as manual therapists.  
+It was interesting that although coaches had positi ve perceptions of manual therapists and their 
+management advice to swimmers regarding injury , they did indicate some apprehension when 
+recounting previous experiences when their sw immers had been referred to specialists. The 
+researcher’s interpretation from the participants was that the coaches who expressed concern that 
+swimmers were being referred to specialists too quickly before the athlete had time to heal and 
+adapt to the current intervention.  
+49 Implications from this study 
+This study provided insight into the percepti ons of swimming coaches regarding swimming 
+injuries and their perceptions of management and rehabilitation of injured swimmers.  It 
+demonstrated that swim coaches associate injuries as events that are more likely to happen away 
+from the pool but are likely to be further aggravated by swim training.  The participants in this 
+study had a clear understanding of injury manage ment and had developed protocols to change 
+the volume and intensity of training to aid the swimmer with their rehabilitation.  Essentially, 
+they would match training to their temporarily impaired training level. This study shows there is 
+an emphasis placed on the nurturing of co ach and athlete communication, but less on 
+professional communication between coac hes and health care practitioners.  This research shows 
+that there is potential for further professional development of swim coaches understanding of 
+swimming related injuries and there is a capac ity to enhance the sharing of information and 
+communication between health ca re practitioners and coaches regarding the management and 
+rehabilitation of swimming athletes.  
+Further research 
+There is potential to extend this study by interviewing other groups such as the swimmers or 
+health care practitioners to explore their percep tions of swimming injuries and the management 
+of these.  It would also be beneficial to compar e these groups perceptions to see if they align or 
+differ. 
+From this study there are possibilities to further explore swimming coaches’ perceptions of 
+injuries occurring directly from swimming as this was not fully explored in this study.  For 
+example, one area to explore further would be  swim coaches perceptio ns on specialists in 
+contrast to manual therapists. 
+50 Limitations  
+The sample of participants for this study was small and did not meet the initially set target of 8 to 
+10 participants.  This came down to two key re asons. The first was a lack of responses to the 
+invitation and the researcher had not anticipated th e length of time it would take to get responses. 
+The researcher sent a second follow-up email to coaches who had not responded to the first 
+within two weeks, which helped generate replies.   The second reason was a lack of resources, 
+essentially time, where it was unrealistic for the researcher to continue to collect responses 
+within the necessary timeline of completing the thesis. 
+Another limitation was the researcher’s lack of experience with interviewing. There were lost 
+opportunities to explore more deeply for furthe r information regarding when participants brought 
+up topics the researcher did not in itially have at the start of the project.  An example of this was 
+not exploring further why swim coaches showed apprehension when a swimmer was referred to 
+a specialist.  On self-reflection the researcher realised they had a strong reliance on the interview 
+guideline and was not skilled enough to be more flexible and pick up quicker on these cues to 
+explore the data further. 
+Conclusion 
+The participants’ perceptions of injuries are in line with current research as they demonstrated an 
+understanding and perception of acute injuries be ing cause by an inciting trauma.  It was their 
+perception that injuries occurred out of the pool and were brought into swim training and further 
+aggravated from the repetitive nature of swimmi ng. There was little perception or discussion of 
+injuries occurring directly because of swimming as there was little mention of the possible chronic overloading of the body from the repetitive tasks performed in all disciplines of 
+swimming.  This finding differs from current re search which was discus sed in the literature 
+review.  The literature review outlined thre e common overuse injuries seen in swimming, 
+swimmers shoulder, swimmers knee, and back pa in, although there were no mention of these 
+diagnoses in the interviews. There is a possibility that the participants have not had a swimmer specifically diagnosed with these swimming rela ted injuries and this could explain why they 
+were not discussed by the participants.   
+51 The participants discussed their actions for ma naging injured swimmers, including monitoring 
+and adjusting, usually by decreasing the intens ity, duration, frequency of training sessions while 
+the athlete was injured. These participants would follow advice from manual therapists with the 
+most common examples being halting certain task s in a short-term capacity to let the swimmer 
+heal and increasing the training workload when  recommended by the health care practitioner. 
+Their management strategies are in line with guidelines and have shown that coaches play a key 
+role in activity modification required in rehabilitation plans. 
+Communication between coaches and health care  practitioners usually occurs through the 
+swimmer.  The participants from this study tend ed to find this an appropriate way to receive 
+information as there was emphasis on the swi mmer taking accountability for their injury and 
+recovery.  The coaches tended to agree with the recommendations made by health care providers 
+and had the experience to incorporate them into their training plans.  
+52 References: 
+Adiele, D., & Morgan, G. P. (2018). Prevalence of musculoskeletal injuries in males and females practicing  
+swimming from higher school of Zimbabwe. A merican Journal of Sports Science , 6(1), 8-11. 
+Aetiology, Retrieved from, Oxford Medical Dictionary (9th ed.)  
+ https://www.oxfordreference.com   
+Bak, K. (2010). The practical management of swimmer's painful shoulder: etiology, diagnosis, and 
+ treatment. Clinical Journal of Sport Medicine , 20(5), 386-390. 
+Bompa, T., & Buzzichelli, C. (2015). Periodization training for sports, 3e . Human kinetics.  
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in  psychology , 3(2), 
+77-101.
+Brinkmann, S. (2013). Qualitative interviewing . Oxford University Press. 
+Britannica, T. Editors of Encyclopaedia (2020, April 16). Swimming. Encyclopedia Britannica . 
+ https://www.britannica.com/sports/swimming-sport  
+Brukner, P., Khan, K., & Brukner, P. (2014).  Brukner & Khan's clinical sports medicine . (4th ed.) Sydney: 
+ McGraw-Hill. 
+Carcary, M. (2020) "The Research Audit Trail: Methodological Guidance for Application in Practice." Electronic 
+Journal  on Business Research Methods , vol. 18, no. 2, pp. 166-77.  
+Carter, S., & Henderson, L. (2005). Approaches to qualitative data collection in social science. Handbook of 
+health research methods: Investigation, measurement and analysis , 1, 21 5-230. 
+Chartard, J., & Stewart, A. M. (2011). Training load and performance in swimming. World Book of Swimming: 
+From Science to Performance . 
+Chesebro, J. W., & Borisoff, D. J. (2007). What makes qualitative research qualitative?. Qualitative research 
+ reports in communication , 8(1), 3-14. 
+Cypress, B. S. (2017). Rigor or Reliability and Validity in Qualitative Research: Perspectives, Strategies, 
+Reconceptualization, and Recommendations. Rese arch dimension . 
+De Martino, I., & Rodeo, S. A. (2018). The swimmer’s shoulder: multi-directional instability. Current reviews 
+ in musculoskeletal medicine , 11(2), 167-171. 
+Denison, J., & Avner, Z. (2011). Positive coaching: Ethical practices for athlete development. Quest , 63(2), 209-
+ 227. 
+Dick, F. W. (2014). Sports training principles  (6th ed.). London: Bloomsbury publishing.  
+53 Etikan, I., Musa, S. A., & Alkassim, R. S. (2016). Comparison of convenience sampling and purposive 
+ sampling. American journal of theoretical and applied statistics , 5(1), 1-4. 
+FINA swimming rules 2017-2021, Retrieved from, 
+ https://resources.fina.org/fina/document/2021/01/12/b3885f9b-630a-4390-861d-
+ 4e7f6031f4a4/2017_2021_swimming_16032018.pdf 
+Fuller, C. W., Ekstrand, J., Junge, A., Andersen, T. E., Bahr, R., Dvorak, J., & Meeuwisse, W. H. (2006). 
+Consensus statement on injury definitions and data collection procedures in studies of football (soccer) 
+ injuries. Scandinavian journal of medicine & science in sports , 16(2), 83-92. 
+Havriluk, R. (2013). Seasonal variations in swimming force and training adaptation. Journal of Swimming 
+ Research , 21(1). 
+Headley-Cooper, K. J. (2010). Coaches’ Perspectives on Athlete-Centred Coaching  (Master's thesis). 
+Health Practitioners Competence Assurance Act 2003, Retrieved from, 
+ https://www.legislation.govt.nz/act/public/2003/0048/latest/DLM203312.html 
+Hefzollesan, M., Tofighi, A., Qarakhanlou, B. J., & Ghalehgir, S. (2014). The relationship of breaststroke  training 
+on knee pain and Q angle of breaststroke and crawl swimmers. Central European Journal of  Sport Sciences 
+and Medicine , 2(3). 
+Kerr, G., Stirling, A., & Gurgis, J. (2018). An athlete-centred approach to enhance thriving within athletes and 
+ coaches. Perspectives on athlete-centred coaching , 24-35.  
+Kidman, L. (2005). Athlete-centred coaching: Developing inspired and inspiring people . Christchurch: IPC 
+ Print Resources. 
+Korstjens, I., & Moser, A. (2018). Series: Practical guidance to qualitative research. Part 4: Trustworthiness and 
+ publishing. European Journal of General Practice , 24(1), 120-124. 
+Krageloh, C. (2008). Research methods and statistics in the health sciences  (pp. 547-605). Australia: McGraw-Hill. 
+Magee, D. J., & Quillen, W. S, Zachazewski. (1996). Athletic injuries and rehabilitation . WB Saunders 
+ company. 
+Malterud, K., Siersma, V. D., & Guassora, A. D. (2015, November 27). Sample size in qualitative interview studies: 
+Guided by information power. Qualitative health research.  
+Meeuwisse, W. H., Tyreman, H., Hagel, B., & Emery, C. (2007). A dynamic model of etiology in sport injury: 
+the recursive nature of risk and causation. Cl inical Journal of Sport Medicine , 17(3), 215-219. 
+Mitchell, J. (2013). Athlete centred coaching. Retrieved from https://coachgrowth.wordpress.com 
+54 New Zealand Olympic organization, swimming medal statistics. Retrieved from  
+https://www.olympic.org.nz/sports/swimming 
+Nyska, M., Constantini, N., & Cale-Benzoor, M. (2000). Spondylolysis as a cause of low back pain in 
+ swimmers. International journal of sports medicine , 21(5), 375-379. 
+O'Connor, F. G., Howard, T. M., Fieseler, C. M., & Ni rschl, R. P. (1997). Managing overuse injuries: a 
+ systematic approach. The Physician and sportsmedicine , 25(5), 88-113. 
+Olivos, M. E., & Tate, A (2016). Coaches' Education and Practices Regarding Overuse Injury in  Youth 
+Swimming. Journal of Swimming Research , 24(1). 
+Pollard, H., & Fernandez, M. (2004). Spinal musculoskeletal injuries associated with swimming: a discussion of 
+ technique. Australasian Chiropractic & Osteopathy , 12(2), 72. 
+Pyne, D. (2001). Training progression for younger age group swimmers. Australian Institute of Sport 
+ Reproduced from The Swimmer . 
+Racinais, S., Cocking, S., & Périard, J.  D. (2017). Sports and environmental temperature: from warming-up to 
+ heating-up. Temperature , 4(3), 227-257. 
+Rodeo, S. A. (1999). Knee pain in competitive swimming. Clinics in sports medicine , 18(2), 379-387. 
+Schmidt, C. (2004). The analysis of semi-structured interviews. A companion to qualitative research , 253, 258. 
+Short, S. E., & Short, M. W. (2005). Essay: Role of the coach in the coach-athlete relationship. The Lancet , 366 , 
+ S29-S30. 
+Swimming New Zealand, 2020 https://www.swimming.org.nz/ 
+Swimming, New Zealand Olympic team. Retrieved June 1, 2020, from   
+ https://www.olympic.org.nz/sports/swimming/, 
+Thompson-Burdine, J., Thorne, S., & Sandhu, G. (2021). Interpretive description: a flexible qualitative 
+methodology for medical education research. M edical Education , 55(3), 336-343. 
+Thorne, S., Kirkham, S. R., & O'Flynn-Magee, K. (2004). The analytic challenge in interpretive 
+ description. International journal of qualitative methods , 3(1), 1-11. 
+Thorne, S. (2016). Interpretive description: Qualitative research for applied practice . Routledge. 
+Windt, J., & Gabbett, T. J. (2017). How do training and competition workloads relate to injury? The workload—
+ injury aetiology model. British Journal of Sports Medicine , 51(5), 428-435. 
+Wanivenhaus, F., Fox, A. J., Chaudhury, S., & Rodeo, S. A. (2012). Epidemiology of injuries and prevention 
+strategies in competitive swimmers. Sp orts health , 4(3), 246-251. 
+55 Vila Dieguez, O., & Barden, J. M. (2020). Body roll differences in freestyle swimming between swimmers with 
+and without shoulder pain. S ports Biomechanics , 1-14. 
+56 Appendix A: Information sheet 
+In
+formation  for participants  
+Research  Project Tit
+le 
+Attitudes  and beliefs of New Zealand swim coaches towards swimming  related injury 
+prevention,  treatment  and management.  
+Synopsis  of project 
+This project is wanting to explore the attitudes and  beliefs of swim coaches in New Zealand towards 
+swimming  related overuse injuries (more commonly  known as ‘swimmer’s  shoulder’  or ‘swi mmer’s  knee’) 
+and what coaches do if their swimmers  do have an overuse injury. 
+This information  is important  to health care practitioners,  as it can help with their understanding  of the 
+cause of these  injuries and how to put together better prevention  and rehabilitation  plans if they  treat 
+injured swimmers.  
+What  we ar
+e doing 
+‐ We are inviting Swim coaches who are associated  to swimming  New Zealand clubs to have a 
+conversation  (interview)  with the researcher  of this project regarding  swimming  overuse injuries in 
+competitive  swimmers.  
+‐ These  interviews  will be transcribed  for the researcher,  who is interested  in identifying  any co mmon  
+themes that can be drawn from  the individual  interviews. 
+
+57 ‐ On
+ce the researcher  has analyzed the interviews,  the results will be written up and published  as a 
+thesis paper, which is required  for the Masters of Osteopathy.   
+What  it will mean for you 
+By taking part in this project, you will be asked to participate  in one interview  wit h the researcher.   The 
+interview  will last approximately  1hr. 
+You will be given a copy  of your transcribed  interview  to read and you will then have the opportunity  to 
+clarify any statements  you have made in the interview.  
+If you agree to participate,  you will be asked to sign a consent form. Th is does  not stop you from changing 
+your mind if you wish to withdraw  from  the project. However,  because of our schedule,  any withdrawals  
+must  be done  within 2 weeks after  we have interviewed  you. 
+Your name and information  that may identify you will be kept completely  confidential.  All informati on 
+collected from  you will be stored on a password  protected  file and only you, the researcher  and two 
+supervisors  will have access to this information. 
+Please  contact us if you need  more information  about the project. At any time if you have any concerns 
+about the research project you ca n contact our supervisor:  
+My supervisor  is Rob Moran, phone 815‐4321 ext. ________  or email rmoran@unitec.ac.nz  
+UREC  REGISTRATION  NUMBER:  2019‐1012 
+This study has been approved  by the UNITEC Research Ethics Committee  from  (17th April  2019) to (17th April 
+2020) .  If you have any complaints  or reservations  about  the ethical conduct of this research,  you may 
+contact the Committee  through the UREC Secretary  (ph: 09 815‐4321 ext 8551).  Any issues  you raise will 
+be treated in confidence  and investigated  fully, and you will be informed  of the outcome.  
+58 Appendix B: Email invitation 
+Hello, 
+My name is Amy and I am an Osteopathy student at Unitec Auckland.  I am currently working on 
+a thesis looking at injury prevention and managem ent of swimmers.  I am interested in hearing 
+from swim coaches on their beliefs and knowledge on this topic. 
+I am inviting coaches from your competitive swim club to be interviewed, to discuss their beliefs 
+and opinions of the current landscape of swimming injury management. (Please note this will be 
+very informal, more of a good discussion or c hat!) The interview will only take 1hour of your 
+time. 
+I have attached an information sheet which outlines my  thesis project in more detail.  Thank you 
+for taking the time to read this and I look forward to hearing from you soon. I do hope you take 
+my invitation to discuss this topic for my thesis. 
+Kind Regards, 
+Amy Tinneny-Phillips 
+(Masters of Osteopathy student.) 
+59 Appendix C: Interview Guide 
+Introduction checklist: 
+‐ 
+Introduce myself. Thank participant for agreeing to take part in interview.  
+‐ Set the scene:  This interview is part of my research project, as part of the Masters of 
+Osteopathy programme at Unitec.  I am want ing to investigate the relationship between 
+manual health practitioners and swim coaches.  
+‐ Gain consent that the participant is happy and agrees to conversation being recorded.  
+‐ Turn recorder on. 
+‐ Confirm that participant has received and read (and understood) information sheet.  
+‐ Sign consent form. (2 copies – 1 for them to keep, one for researcher.)  
+‐ Outline the process: 
+‐  I will be asking questions as I am intere sted in getting swim coaches views on the 
+development of swimming injuries and how to manage them.  
+‐ You are invited to answer these as openly as you wish, the more information the 
+better.  
+‐ We can pause the interview at any time, if you need too.  
+‐ Your name and any identifying details will be kept confidential.  
+‐ I may take some written notes as the interview goes on, so I can follow up on any 
+points of interest.  
+‐ Prompt interviewee: Can you think of one or two examples – maybe a swimmer going 
+through or returning from injury. A swimmer you learnt a lot from? (we will get to this later 
+in the interview)  
+60 Question prompts: 
+Icebreak
+er questions: 
+‐ How long have you been coaching for? 
+‐ What got you into swim coaching? 
+‐ Did you swim yourself?  | How long did you swim  for?  | were you a competitive swimmer? 
+‐ What age range do you coach? – may not be needed if we find ACC data for most reported 
+age group for injury. 
+‐ What competitive level do you coach? – may not be needed if we find ACC data for most 
+reported age group for injury. 
+Approach to coaching: 
+‐ Could you describe your approach to coaching? 
+‐ What are your core coaching values? 
+‐ What influences your coaching? (A certain person or experiences?) 
+‐ For the division or age group you coach, ho w many training sessions will they be doing? 
+‐ Do you have a training season? (Periodisation?) 
+‐ How do you structure your training season for the swimmers? (Aim for certain swim 
+meets or events etc.?) 
+‐ Can you give a quick overview of how you structure you training 
+sessions/programmes? (Technique, time trials, distance, building intensity etc.?) 
+‐ How do you progress your swimmers through the season? (What are the goals to 
+“move up”?  What does it mean on your club to move up?) 
+Approach to injuries: 
+‐ Do the swimmers mention to you if they have any niggles or soreness? 
+‐ What areas of the body do they mention? 
+‐ How do your swimmers let you know they may be injured? (reporting injuries) 
+‐ What do you expect to be normal “training” aches or soreness? 
+‐ Are you able to pick up on the way the move or act, or things they say, that may indicate 
+their discomfort is more than a training ache? (How do you know they are injured?) 
+61 ‐ 
+When problems arise, how do you and the swimmer deal/address these? 
+‐ Does this become a problem for future training sessions? 
+‐ Do you think there is a time during the training schedule that swimmers are more 
+vulnerable to injury? 
+‐ Training load throughout the season? 
+‐ Certain age group? – may not be need to ask. 
+‐ Specialising in a certain discipline? 
+‐ If you could “write the recipe” for a swimmi ng injury to happen – what would your key 
+ingredients be? 
+‐ Would you ever or have you suggested that a swimmer see a manual therapist for their 
+discomfort? 
+Impression/knowledge of manual therapy: 
+‐ What forms of manual therapy do you know of?  
+‐ Have you ever had any communication with a manual therapist about one of your 
+swimmers? 
+‐ Letter with advice for the swimmer? | Phonecall? | in-person conversation? 
+‐ Would you like to hear from manual therapists about your swimmers? 
+Managing injuries in swimmers: 
+‐ How have you managed injuries in the past?  
+‐ Are there any strategies or a ‘management plan’ that you, or the club have in place if a 
+swimmer is injured?  
+‐ How do coaches learn/gain knowledge about injuries in swimmers? | How to manage 
+injuries?  
+‐ Have you been offered any further education (professional development) about managing 
+injuries?   
+‐ Would you be interested in any oppor tunities to learn more about swimming 
+injuries? 
+‐ How do you introduce an injured swimmer back into training from injury? 
+62 ‐ 
+Is there a protocol (e.g: start with less training sessions/ shorter training sessions 
+etc?) 
+‐ Are you able to adjust training programmes on the day, for the week or month, for an 
+injured swimmer?  
+Case examples: 
+‐ Can you think of an example of a swimmer you worked with, that you learnt about 
+managing an injury through training?  
+Conclusion: 
+‐ Is there anything else you would like to add or  discuss on any of the topics we have 
+covered? 
+Thank participant for their time and stop and save re cording.
+63 Appendix D: Participant consent form               
+Participant Consent Form  
+ Research Project Title: 
+Attitudes and beliefs of New Zealand swim coaches on swimming related injury 
+prevention, treatm ent and management. 
+I have had the research project explained to me and I have read and understand the 
+information sheet given to me.  
+I understand that I don't have to be part of this research project should I chose not to participate 
+and may withdraw at any time prior to the completion of the research project. 
+I understand that everything I say is confidential and n one of the information I give will identify me 
+and that the only persons who will know what  I have said will be the researchers and their 
+supervisor. I also understand t hat all the information that I give will be stored securely on a computer 
+at Unitec for a period of 10 years. I understand that my discussion with the researcher will be taped and transcribed. 
+I understand that I can see the finished research document. 
+I have had time to consider everything and I give my consent to be a part of this project.  
+Participant Name: …………………………………………………………………….....  
+Participant Signature: ………………………….. Date: …………………………… 
+
+64 Projec
+t Researcher: ……………………………. Date: …………………………… 
+UREC REGISTRATION NUMBER: 2019-1012 
+This study has been approved by the UNITEC Research Ethics Committee from 17/04/2019  to 
+17/04/2020 .  If you have any complaints or reservations about the ethical conduct of this research, 
+you may contact the Committee through the UREC Secretary (ph: 09 815-4321 ext 8551). Any 
+issues you raise will be treated in confidence and in vestigated fully, and you will be informed of the 
+outcome.
+65 Appendix E:  ACC Statistic information 
+This information was requested and received via email. 
+

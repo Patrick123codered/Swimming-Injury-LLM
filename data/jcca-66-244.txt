@@ -1,0 +1,675 @@
+244 J Can Chiropr Assoc 2022; 66(3)ISSN 0008-3194 (p)/ISSN 1715-6181 (e)/2022/244–252/$2.00/©JCCA 2022
+Prevalence of shoulder problems in youth 
+swimmers in Ontario
+Taylor Ostrander, BSc (Hon), DC, FRCCSS(C)1 
+Chris DeGraauw, DC, FRCCSS(C)1 
+Samuel J. Howarth, PhD1 
+Sheilah Hogg-Johnson, PhD, MMath1,2,3
+1  Canadian Memorial Chiropractic College
+2  Dalla Lana School of Public Health, University of Toronto
+3  Institute for Disability and Rehabilitation Research, Ontario Tech University
+Corresponding author: Taylor Ostrander, Canadian Memorial Chiropractic College, 6100 Leslie Street, North York, Ontario, M2H 3J1.
+Tel: 416 482 2340
+e-mail: tostrander@cmcc.ca
+© JCCA 2022
+The authors have no disclaimers, competing interests, or sources of support or funding to report in the preparation of this manuscript.Background: Shoulder problems are common in 
+swimmers. Previous research has focused on elite 
+swimmers. Our research questions were: 1) what is the 
+prevalence of shoulder problems among Ontario age 
+group swimmers and 2) how does prevalence relate to 
+age, sex and years of experience?  
+ Methods: A cross sectional survey was administered 
+to youth swimmers from two Ontario clubs. Oslo Sports 
+Trauma Research Centre Overuse Injury Questionnaire 
+(OSTRC) was used to assess four-week prevalence of 
+shoulder problems. Prevalence (%) with 95% confidence 
+intervals (95% CI) was constructed and prevalence 
+across age, sex and years of experience was investigated 
+using cross-tabulations and chi-square tests. 
+ Results: There were 83 surveys completed (response 
+rate 50%). The 4-week prevalence of shoulder pain was Prévalence des problèmes à l’épaule chez les jeunes 
+nageurs de l’Ontario  
+Contexte : Les problèmes à l’épaule sont courants chez 
+les nageurs. Les recherches antérieures ont porté sur les 
+nageurs d’élite. Nos questions de recherche étaient les 
+suivantes : 1) quelle est la prévalence des problèmes à 
+l’épaule chez les nageurs des groupes d’âge de l’Ontario 
+et 2) comment la prévalence est-elle liée à l’âge, au sexe 
+et aux années d’expérience?  
+ Méthodologie : Une enquête transversale a été menée 
+auprès des jeunes nageurs de deux clubs de l’Ontario. 
+Le questionnaire sur les blessures de surmenage de 
+l’Oslo Sports Trauma Research Centre (OSTRC) a 
+été utilisé pour évaluer la prévalence des problèmes à 
+l’épaule sur quatre semaines. La prévalence  (%) avec 
+des intervalles de confiance à 95 % (IC 95 %) a été 
+établie et la prévalence en fonction de l’âge, du sexe 
+et des années d’expérience a été étudiée à l’aide de 
+tableaux croisés et de tests du chi carré.  
+ Résultats : L’enquête a obtenu un taux de réponse de 
+50 % (83 questionnaires remplis). La prévalence des 
+J Can Chiropr Assoc 2022; 66(3) 245T Ostrander, C DeGraauw, SJ Howarth, S Hogg-Johnson
+35% (95% CI 25%, 45%). Shoulder problems were not 
+significantly related to age, sex or years of experience.  
+ Conclusion: These results can inform future studies 
+on injury prevention and risk mitigation strategies in 
+swimmers. 
+ 
+ 
+ 
+(JCCA. 2022;66(3):244-252) 
+ 
+KEY WORDS : age group, shoulder injury, sports, 
+swimming, youth athletedouleurs à l’épaule sur 4 semaines était de 35 % (IC 
+95 % 25 %, 45 %). Les problèmes à l’épaule n’étaient 
+pas considérablement liés à l’âge, au sexe ou aux années 
+d’expérience.  
+ Conclusion : Ces résultats peuvent éclairer les futures 
+études sur la prévention des blessures et les stratégies de 
+réduction des risques chez les nageurs. 
+ 
+(JCCA. 2022;66(3):244-252) 
+ 
+MOTS CLÉS  : groupe d’âge, blessure à l’épaule, sports, 
+natation, jeune athlète
+Introduction
+Swimming has continued to gain interest in Canada as a 
+competitive sport in part due to the success of the Can-
+adian 2016 Olympic swim team, with a total of 63,484 
+swimmers registered in Canada in 2019.1 Age-group 
+swimmers (under 18 years old) make up the majority of 
+these athletes with a total of 33,599 swimmers registered 
+in Canada in 2019.1 Swimming Canada’s Long Term Ath-
+lete Development (LTAD) plan has a goal to keep youth 
+active in sport for life with an emphasis on development.2,3 
+Appropriate athlete development aims to develop skills 
+and performance while reducing the potential for injury to 
+keep youth safe and able to continue participation. Most 
+evidence on the prevalence of musculoskeletal concerns 
+in swimmers has focussed on those at the elite level, with 
+much less being known about the prevalence of muscu-
+loskeletal concerns in developing age-group swimmers.
+ The shoulder joint has been reported as the most com-
+mon site of injury in competitive swimmers in different 
+age groups, levels and data collection environments (i.e. 
+practice or competition).4-9 Studies conducted at cham -
+pionship meets found four-week shoulder injury preva-
+lence of 13% at the 2015 Fédération Internationale de 
+Natation (FINA) World Championships4 while at the 
+Brazilian National Championship meet, shoulder injury 
+point prevalence was 9% and 12-month shoulder injury 
+prevalence was 26%4,5. Studies conducted at competitions 
+miss swimmers who are injured and unable to attend the 
+meet due to their injuries. This highlights the importance 
+of out of competition studies.4 Two studies looked at in-
+jury incidence during the season among National Collegi -ate Athletic Association (NCAA) swimmers in the U.S. 
+and found shoulder injuries comprised 35% to 46% of the 
+total injuries in men and 31% to 33% of the total injuries 
+in women.6, 7
+ Most studies of shoulder pain and injuries have been 
+conducted in the elite swimmer population. Recognizing 
+that the majority of competitive swimmers are in the age-
+group category, understanding prevalence in age-group 
+swimmers is necessary to better understand how to pro-
+vide safe programs. Two studies have reported on shoul-
+der problems in age-group swimmers. A study on Austral-
+ian swimmers followed athletes for 12 months and found 
+overall significant shoulder pain incidence was 38%.10 
+A cross sectional study collected data during practice 
+from Italian swimmers and determined the prevalence of 
+shoulder pain over 12 months was 51%.11 Understanding 
+prevalence of shoulder problems in Canadian swimmers 
+is the first step to inform education of coaches and pro-
+grams, and ultimately to ensure safe sport.
+ In a recent systematic review, Hill and colleagues12 
+identified, critically appraised and synthesized the lit-
+erature on potential risk factors for shoulder injuries in 
+swimmers. The factors studied included demographics 
+(e.g., sex, age, competitive level, years of experience), 
+shoulder joint anatomy and strength measures (e.g., 
+range of motion, strength, muscle activity, flexibility), 
+activity related factors (e.g., equipment use, training 
+volume, stroke speciality, breathing side) and musculo-
+skeletal anatomy (e.g., scapular kinematics, core stabil-
+ity, pectoral length).12 Some of the training-related risk 
+factors in the review are modifiable by the coach and can 
+246 J Can Chiropr Assoc 2022; 66(3)Prevalence of shoulder problems in youth swimmers in Ontario
+potentially prevent shoulder pain or injuries if the need 
+for prevention exists. However, based on their critical 
+appraisal of the studies found, no risk factors had a high 
+level of certainty. There was a moderate level of certainty 
+for joint laxity, internal/external rotation, previous shoul-
+der pain and competitive level posing a risk. All remain-
+ing factors they considered had a low level of certainty 
+as risk factors for shoulder pain and injury in swimmers. 
+That is, there is insufficient high-quality evidence to sup-
+port or refute which of these potential factors (years of 
+experience, training load, volume, intensity, gender, age, 
+equipment, breathing side, scapular strength, core stabil-
+ity, pectoral length etc.) are indeed risk factors for shoul-
+der injury.
+ A goal of Swimming Canada is to provide safe sport to 
+athletes.1 Safe sport is ensuring the physical and mental 
+well-being of athletes, including preventing injury. The 
+Long Term Athlete Development (LTAD) model has the 
+goal to keep athletes active in sport for life, develop elite 
+athletes and develop physical literacy.13 LTAD provides a 
+framework based on growth, maturation, trainability, and 
+sports systems to emphasize the development of skills in-
+stead of winning, to prevent overtraining, burn out and 
+lost potential.2,14 Overuse injuries are a common reason 
+for athletes to drop out of sport.15 Therefore, to make sport 
+safe, understanding prevalence and risk factors is neces-
+sary.
+ The primary objective of our study was to determine 
+the four-week period prevalence of shoulder problems 
+among Ontario age-group swimmers. The secondary 
+objective was to determine if prevalence varies by age 
+group, sex and years of swimming experience.
+Methods
+Study design
+This was a cross sectional survey administered in Decem -
+ber 2020 to age-group swimmers in Ontario. The study 
+was reviewed and received approval by the Canadian 
+Memorial Chiropractic College (CMCC) Research Ethics 
+Board (REB) (REB #2004B02).
+Participants and recruitment
+Three Ontario swim clubs originally agreed to partici -
+pate. Inclusion criteria were: 12 to 18 years old competi -
+tive swimmers, from one of the three clubs, who had been training for at least 10 to 12 weeks at time of survey ad-
+ministration. Demographics of this population included 
+approximately equal numbers of boys and girls, middle 
+to upper class socioeconomic status, mixed ethnicities, 
+and following Swim Canada LTAD. The original plan 
+for recruitment and administration was for the study pri-
+mary investigator (PI) to attend regular swim practices 
+for each swim group from the participating clubs, explain 
+the study, answer any questions, recruit swimmers and 
+administer the questionnaire at practice using paper and 
+pencil administration. Due to COVID-19 restrictions, 
+an amendment to the protocol was made to administer 
+the survey online using SurveyMonkey (SurveyMonkey 
+Inc., San Mateo, California, USA. www.surveymonkey.
+com). Swimmers were recruited during a training session 
+which was being conducted remotely at the time of sur -
+vey administration. Remote practices began 14 days prior 
+to survey administration, but all recruited swimmers had 
+been participating in in-water training for at least 10 to 
+12 weeks prior to survey administration. Parents provid-
+ed consent and swimmers provided assent at the time of 
+survey administration and the swimmers were prompted 
+to continue to the online survey after assenting to par -
+ticipate. The link was emailed to swimmers post-Zoom 
+practice for any swimmer interested in participating, but 
+unable to get parental consent at the time of the Zoom 
+session. A post practice reminder email was sent from the 
+coaches two days after initial data collection, and a final 
+reminder was sent seven days from the initial data col-
+lection. The SurveyMonkey link remained open for four 
+weeks.
+Sample size and response rate goal
+Initially a total of 300 eligible swimmers were potential 
+participants from the three participating clubs. Our goal 
+was to recruit 70% of these eligible swimmers, which 
+would provide 210 respondents. Shoulder problem preva-
+lence estimation was 20%, based on the study conducted 
+at the Word Championships.4 The confidence interval 
+width for an estimated 20% four-week period prevalence 
+of shoulder problems with 210 respondents would have 
+been +/- 5.4% .
+Survey instrument
+The primary outcome measure was shoulder problem 
+prevalence in the past four weeks. A shoulder problem 
+J Can Chiropr Assoc 2022; 66(3) 247T Ostrander, C DeGraauw, SJ Howarth, S Hogg-Johnson
+was defined as pain or a diagnosed injury. The Oslo Sports 
+Trauma Research Centre (OSTRC) questionnaire was 
+used because the questions were simple, the questionnaire 
+had been validated, and a previous study on injury preva-
+lence in swimmers used the same questionnaire (Table 
+1).4,16 Four questions from the OSTRC questionnaire as-sessed four aspects of shoulder problems covering pain, 
+participation impact, performance impact, and training 
+volume impact over the previous four weeks (questions 8 
+to 11 in Table 1). The period of four weeks was selected 
+to keep consistent with the study that used the OSTRC 
+questionnaire at the World Championships.8
+Table 1.  
+Survey
+Question Answers
+ 1 Parental consent a. Yes (continues on to question 2).
+b. No (ends the survey)
+ 2 Swimmer assent a. Yes (continues on to question 3).
+b. No (ends the survey)
+ 3 Age group a. 12 and under
+b. 13-14
+c. 15-16
+d. 17 and over
+ 4 Swim group a. Swimmers typed in their swim group name
+ 5 Sex a. Female
+b. Male
+c. Prefer not to answer
+ 6 Stroke specialization a. Butterfly
+b. Backstroke
+c. Breaststroke
+d. Freestyle
+e. Individual medley
+f. No specialization
+ 7 Years experience a. Less than 3
+b. 3-5 years
+c. 5-7 years
+d. 7-10 years
+e. More than 10 years
+ 8 Have you had any difficulties participating in normal training and 
+competition due to shoulder problems during the past 4 weeks?a. full participation without shoulder problems
+b. full participation with some shoulder problems
+c. reduced participation due to shoulder problems
+d. could not participate due to shoulder problems
+ 9 To what extent have you reduced your training volume due to 
+shoulder problems in the past 4 weeks?a. no reduction
+b. to a minor extent
+c. to a moderate extent
+d. to a major extent
+10 To what extent have shoulder problems affected your 
+performance during the past 4 weeks?a. no effect
+b. to a minor extent
+c. to a moderate extent
+d. to a major extent
+11 To what extent have you experienced shoulder pain related to 
+your sport during the past 4 weeks?a. no pain
+b. mild pain
+c. moderate pain
+d. major pain
+248 J Can Chiropr Assoc 2022; 66(3)Prevalence of shoulder problems in youth swimmers in Ontario
+Table 2.  
+Count and percentage by each question outcome.
+Category Count % (95% CI)
+Parental consent  
+*based on parents who opened the survey and answeredYes *90/166  54% (47%, 62%)
+No 1/166  0.6% (–0.6%, 2%)
+Swimmer assent  
+*4 swimmers did respond to the assentYes *86/86  100% (100%, 100%)
+No 0/86  0% (0%, 0%)
+Sex 
+*1 swimmer did not continue the surveyFemale *44/85  52% (41%, 63%)
+Male 40/85  47% (36%, 58%)
+Prefer not to answer 1/85  1% (–1%, 4%)
+Age group 
+*2 swimmers who gave assent did not completed the full survey12 and under 31/84  37% (27%, 47%)
+13-14 28/84  33% (23%, 43%)
+15-16 19/84  23% (14%, 32%)
+17 and over 6/84  7% (2%, 13%)
+Swim experience Less than 3 years 9/84  11% (4%, 17%)
+3-5 years 37/84  44% (33%, 55%)
+5-7 years 20/84  24% (15%, 33%)
+7-10 years 16/84  19% (11%, 27%)
+More than 10 years 2/84  2% (–0.8%, 5%)
+Stroke 
+*1 swimmer didn’t continue the surveyBackstroke 10/83  12% (5%, 19%)
+Breaststroke 15/83  18% (1%, 26%)
+Butterfly 7/83  8% (2%, 14%)
+Freestyle 19/83  23% (14%, 32%)
+Medley 12/83  15% (7%, 22%)
+No specialization 20/83  24% (15%, 33%)
+Participation impacted Full with no pain 56/83  68% (57%, 78%)
+Full with some pain 23/83  28% (18%, 37%)
+Reduced participation 4/83  5% (0.2%, 9%)
+Overall 27/83  33% (22%, 43%)
+Performance impacted No effect 54/83  65% (55%, 75%)
+Minor effect 28/83  34% (24%, 44%)
+Major effect 1/83  1% (–1%, 4%)
+Overall 29/83  36% (25%, 45%)
+V olume impacted No reduction 64/83  77% (68%, 86%)
+Minor reduction 17/83  21% (12%, 29%)
+Moderate reduction 2/83  2% (–0.8%, 6%)
+Overall 19/83  23% (14%, 32%)
+Pain No Pain 54/83  65% (55%, 75%)
+Mild Pain 25/83  30% (20%, 40%)
+Moderate Pain 3/83  4% (–0.4%, 8%)
+Severe Pain 1/83  1% (–1%, 4%)
+Overall 29/83  35% (25%, 45%)
+J Can Chiropr Assoc 2022; 66(3) 249T Ostrander, C DeGraauw, SJ Howarth, S Hogg-Johnson
+Data preparation and analysis
+Data extracted from SurveyMonkey was indexed by a 
+study identification number and stored on a secured pass-
+word protected server located at Canadian Memorial 
+Chiropractic College (CMCC). Prevalence of shoulder 
+problems from each of the four OSTRC questions was 
+described as a percentage with a 95% confidence inter -
+val (CI). Variation in prevalence for each question was 
+examined by age group, sex and years of experience with 
+cross-tabulations and chi-square test statistics. Chi-square 
+tests with a p-value < 0.05 were considered statistically 
+significant. The analysis of the study was generated using 
+SAS software v9.4. (Copyright © 2012-2018, SAS Insti-
+tute Inc., Cary, NC, USA. SAS and all other SAS Institute 
+Inc. product or service names are registered trademarks 
+or trademarks of SAS Institute Inc., Cary, NC, USA.) To 
+evaluate non-responder bias age, sex and swim group data 
+was collected and compared to the responder characteris -
+tics.
+Results
+Three clubs initially agreed to participate (n=300), but 
+due to the COVID-19 pandemic only two clubs were able 
+to participate (n=166) and parental consent was given for 
+90 swimmers to participate. Swimmer assent was provid-
+ed by 86 swimmers, two swimmers completed the assent 
+but did not complete the full survey, with one of these 
+swimmers completing only one question. The completed 
+survey response rate was 50% (n=83/166).
+ Table 2 describes the survey respondents by age 
+group, sex, swim experience, stroke, consent, assent 
+and responses to all four questions from the OSTRC. 
+Approximately equal number of subjects were female 
+(n=44/84) and male (n=40/84). Almost half (44%) of the 
+swimmers had three to five years of experience. The total 
+number of swimmers in each age group decreased as the 
+age of the swimmers increased.
+ The prevalence of any shoulder pain was 35% (95% CI 
+25%, 45%) based on answering question number eleven 
+in Table 1. The prevalence of participation impact was 
+33 % (95% CI 22%, 42%) based on answering question 
+number eight in Table 1. The prevalence of performance 
+impact was 36 % (95% CI 25%, 45%) based on answers 
+to question number ten in Table 1. The prevalence of vol-
+ume impact was 23 % (95% CI 14%, 32%) based on an-
+swers to question number nine in Table 1. Table 3 presents cross tabulations of shoulder problem 
+prevalence by age group, sex, and swim experience to 
+compare prevalence for all four OSTRC questions. Based 
+on the chi-square statistics reported, there were no sta-
+tistically significant relationships between prevalence of 
+shoulder problems and age, sex or years of experience. 
+However, the following orders were seen in the data, but 
+not found to be statistically significant. The prevalence 
+was highest for all four questions in the 12 and under age 
+group followed by the 13 to 14 age group for three ques-
+Table 3. 
+Cross tabulations of swimmer characteristics by 
+shoulder measures
+Participation  
+ImpactedPerformance  
+ImpactedVolume 
+ImpactedPain
+Age Group
+Under 12 
+(n=31)42% (n=13) 42% (n=13) 32% (n=10) 42% (n=13)
+13-14 
+(n=28)25% (n= 7) 36% (n=10) 21% (n= 6)39% (n=11)
+15-16 
+(n=18)33% (n= 6) 33% (n= 6) 6% (n= 1) 26% (n= 5)
+17 & Over 
+(n=6)17% (n= 1) 17% (n= 1)33% (n= 2) 0% (n= 0)
+χ2 = 2.38
+df = 3
+p = 0.49χ2 = 1.33
+df = 3
+p = 0.72χ2 = 4.77
+df = 3
+p = 0.19χ2 = 4.33
+df = 3
+p = 0.22
+Sex
+Female 
+(n=43)40% (n=17) 40% (n=17) 30% (n=13) 35% (n=15)
+Male 
+(n=39)25% (n=10) 33% (n=13) 13% (n= 5)33% (n=13)
+χ2 = 1.59
+df = 1
+p = 0.20χ2 = 0.25
+df = 1
+p = 0.62χ2 = 3.41
+df = 1
+p = 0.07χ2 = 0.005
+df = 1
+p = 0.94
+Years Experience
+Less than 3 
+years (n=9)22% (n= 2) 33% (n= 3)22% (n= 2)22% (n= 2)
+3-5 years 
+(n=37)46% (n=17) 44% (n=16) 36% (n=13) 42% (n=15)
+5-7 years 
+(n=20)15% (n= 3) 15% (n= 3)0% (n= 0)30% (n= 6)
+7-10 years 
+(n=16)31% (n= 5) 50% (n= 8)25% (n= 4)38% (n= 6)
+More than 
+10 years 
+(n=2) 0% (n= 0)  0% (n= 0)  0% (n= 0)  0% (n= 0)
+χ2 = 8.08
+df = 4
+p = 0.09χ2 = 7.61
+df = 4
+p = 0.11χ2 = 10.27
+df = 4
+p = 0.04χ2 = 3.04
+df = 4
+p = 0.55
+250 J Can Chiropr Assoc 2022; 66(3)Prevalence of shoulder problems in youth swimmers in Ontario
+tions (pain, performance impacted and volume impacted 
+questions). Prevalence for all four measures of shoulder 
+problems was higher in females than males. Prevalence of 
+pain, participation impact and volume impact was highest 
+in the swimmers with three to five years of experience 
+and performance impact was highest for swimmers with 
+seven to 10 years of experience.
+Discussion
+The purpose of our study was to understand shoulder 
+problem prevalence among age-group swimmers in On-
+tario. The OSTRC questionnaire was used to determine 
+the prevalence of shoulder pain and impact on participa -
+tion, performance, and training volume. Two swim clubs 
+participated and the response rate was 51%. The overall 
+prevalence of shoulder pain was 35%. The prevalence 
+was highest in females and in the 12 and under age group 
+for all four types of shoulder problems.
+ The overall prevalence of shoulder pain in the current 
+study is similar to a study on age-group swimmers from 
+Australia that found 12-month prevalence of shoulder 
+pain was 38%.10 However, the overall period prevalence 
+of shoulder pain in our study was lower compared to an-
+other study on age-group swimmers that found 51% of 
+athletes had shoulder pain in the past 12 months.11 A pos-
+sible explanation to the discrepancy between Tessaro et 
+al.11 and our findings is the time period of prevalence was 
+longer in Tessaro et al.11 and therefore it is reasonable that 
+the prevalence percentage was higher. The prevalence of 
+shoulder problem impact on participation, performance, 
+training volume and pain was higher among females than 
+males which is consistent with findings in a study by Kerr 
+et al. 20156 and Tessaro et al.11. The relationship of higher 
+prevalence in females compared to males was not statis-
+tically significant in our study and this agrees with other 
+studies that found sex was not a risk factor for shoulder 
+pain/injury.7,17 Prevalence among age groups was highest 
+in the 12 and under group and decreased as the age in-
+creased for three questions (performance impact, partici -
+pation impact and pain). Tessaro et al.11 found the oppos-
+ite trend with pain prevalence highest in the males 17 to 
+18 and females 15 to 16 years old followed by the males 
+12 to 13 and females 11 to 12 years old. Overall, our study 
+did not find a statistically significant relationship between 
+age group and shoulder problems. Other studies had sim-
+ilar results and found shoulder pain/injury was not sig-nificantly different among different age groups indicating 
+age was not considered a risk factor.7,10,11,18
+ The total number of swimmers in each age group de-
+creased as age increased which suggests that athletes leave 
+the sport as they get older, leading to the question of why 
+the swimmers leave and where they go. Various reasons 
+may lead to youth dropping out of sport. If athletes drop 
+out of swimming due to shoulder pain, it is necessary to 
+understand in order to make the sport safer. Shoulder pain/
+injuries that were incurred through swimming might limit 
+the athlete’s ability to take part in not only swimming, but 
+other sports and activities involving overhead arm move-
+ment in the future. Injuries, specifically repetitive over -
+use injuries, have been reported as a common cause of 
+drop out from sport.15 The results reported here, showing 
+smaller numbers of swimmers in older age groups sug-
+gests that research looking at reasons for dropping out are 
+warranted in order to understand the relationship between 
+shoulder problems and dropping out.
+ Sport for Life Long Term Athlete Development in 
+Sports and Physical Activity (LTADS) was adopted by 
+Swimming Canada which to developed into the Appro-
+priate Athlete Development (AAD) and the Athlete De-
+velopment Matrix (ADM). The AAD and the ADM was 
+developed to assist coaches, clubs and other personal 
+involved in swimming to develop and deliver stage ap-
+propriate programs.3 The goal of AAD is to provide a 
+framework for athlete development based on growth, 
+maturation trainability, and sports system alignment.2 The 
+goal of these models is to keep children active in sport for 
+life, develop elite athletes and develop physical literacy.13 
+A study of swim coaches in Portugal found that 67% of 
+the coaches were aware of the LTAD.19 The awareness of 
+the AAD and AMD among Canadian coaches is unknown 
+and worth investigating to improve safety in sport. The 
+results of this study on shoulder problem prevalence illus-
+trates a need for understanding long term prevalence and 
+injury prevention strategies to make swimming safer.
+Limitations
+The main limitation of this study was the number of par -
+ticipants. Originally, the study was intended to sample 
+from 300 swimmers from three swim clubs, but due to the 
+COVID-19 pandemic we were only able to collect data 
+from two swim clubs. Moreover, many swimmers were 
+not able to train, which resulted in a decreased number of 
+J Can Chiropr Assoc 2022; 66(3) 251T Ostrander, C DeGraauw, SJ Howarth, S Hogg-Johnson
+athletes in the sampling frame. In addition, the sampling 
+frame was not representative of all age-group swimmers 
+because only swimmers from the highest competitive 
+groups were swimming during COVID-19 restrictions. 
+The original target population included a variety of com-
+petitive levels. Collectively, these limitations affected 
+our total number of responses, which resulted in a wider 
+margin of error around the prevalence estimate than ori-
+ginally planned. Despite these limitations, our response 
+rate was similar to the previous FINA study that used the 
+same survey and study period.4 Future work should aim 
+to replicate the findings of the current study with a larger 
+sample and consider including swimmers from a variety 
+of competitive levels.
+ Another limitation was the inability to confirm if the 
+survey was completed by the swimmer or the parent due 
+to the survey being online. The original study design of in 
+person data collection would have confirmed the swim-
+mer completed the survey. One possible source of bias 
+that was difficult to overcome was if a swimmer was ab-
+sent from the online Zoom practice because of shoulder 
+problems.
+ A limitation of the survey tool was all questions (#8 to 
+10) were asked to the swimmer regardless of their answer 
+to pain prevalence (#11). This meant there was not a focus 
+of modifications to training in the presence of pain alone.
+ Swimmers had not been training regularly from March 
+to September 2020 due to COVID-19. The swimmers 
+were undertrained when returning to swim training in 
+September 2020 compared to a normal start of the season, 
+which could have affected the overall number of shoul-
+der problems present. The absence from regular train -
+ing could have over-represented prevalence of shoulder 
+problems because the swimmers were more undertrained. 
+Conversely, the prolonged period away from pool train -
+ing could have also under-represented the shoulder prob-
+lems due to allowing previous shoulder problems to fully 
+heal from the rest.
+ A final limitation is the study design. The purpose 
+was not to delve into what aspect(s) of participation in 
+swimming might explain why some athletes experienced 
+shoulder problems/pain. Several explanatory factors have 
+been explored, which can be grouped under the following 
+categories: shoulder anatomy and physiology (e.g., pec-
+toral length, joint laxity, downward sloping acromion), 
+training (e.g., volume, intensity, stroke/distance specialty, use of equipment such as hand paddles), mechanics and 
+technique (e.g., breathing side) and personal (e.g., years 
+experience, age, sex, history of shoulder pain).10,11,12,17,18 
+Our study’s results on prevalence of shoulder problems 
+in age group swimmers identifies that a problem exists. 
+Future research with a different design (e.g., longitudin -
+al follow-up of swimmers) and data collection (including 
+some of the factors listed above) would be required to 
+identify causative factors for shoulder problems in age 
+group swimmers to provide better information for identi -
+fying risk mitigation strategies.
+Conclusion
+Sport has many positive aspects and physical activity for 
+life is one of the goals of the LTAD. Understanding the 
+prevalence of shoulder problems in age-group swimmers 
+allows for future studies to investigate strategies to pre-
+vent shoulder pain/injuries. Strategies to prevent shoulder 
+problems should start from the national organization and 
+inform the provincial and local organizations on methods 
+to keep sport safe for all swimmers.
+References
+1.  Swimming Canada. Annual report 2018-2019. Ottawa, 
+ON; 2019. Accessed from: https://www.swimming.ca/
+content/uploads/2019/10/SC_Annual_Report_2019_
+EN.pdf
+2.  Swimming Canada. Long term athlete development 
+strategy. Ottawa, ON; 2008. Accessed from:  
+https://www.swimming.ca/content/uploads/2015/06/
+ltad_en.pdf
+3.  Swimming Canada. Introduction to appropriate athlete 
+development 2020. Ottawa, ON; 2020. Accessed from: 
+https://www.swimming.ca/content/uploads/2020/10/
+SC_01_Appropriate_Athlete_Development_EN.pdf
+4.  Prien A, Mountjoy M, Miller J, Boyd K, 
+van den Hoogenband C, Gerrard D, et al. Injury and illness 
+in aquatic sport: how high is the risk? A comparison of 
+results from three FINA world championships. Br J Sports 
+Med. 2017;51: 277–282.
+5.  de Almeida MO, Hespanhol LC, Lopes AD. Prevelance of 
+musculoskeletal pain among swimmers in an elite national 
+tournament. Int J Sports Phys Ther. 2015;10(7): 1026-1034.
+6.  Kerr ZY , Baugh CM, Hibberd EE, Snook EM, Hayden R, 
+Dompier TP. Epidemiology of National Collegiate Athletic 
+Association men’s and women’s swimming and diving 
+injuries from 2009/2010 to 2013/2014. Br J Sports Med. 
+2015; 49(7): 465-471.
+7.  Chase K, Caine D, Goodwin B, Whitehead J, 
+Romanick M. A prospective study of injury affecting 
+252 J Can Chiropr Assoc 2022; 66(3)Prevalence of shoulder problems in youth swimmers in Ontario
+competitive collegiate swimmers. Res Sports Med. 2013; 
+21(2): 111-123.
+8.  Mountjoy M, Junge A, Benjamen S, Boyd K, Diop M, 
+Gerrard D, et al. Competing with injuries: injuries prior 
+to and during the 15th FINA world championships 2013 
+(aquatics). Br J Sports Med. 2015; 49(1): 37-43.
+9.  Wolf BR, Ebinger AE, Lawler MP, Britton CL. Injury 
+patterns in Division I collegiate swimming. Am J Sports 
+Med. 2009; 37(10): 2037-2042.
+10.  Walker H, Gabbe B, Wajswelner H, Blanch P, Bennell K. 
+Shoulder pain in swimmers: A 12-month prospective 
+cohort study of incidence and risk factors.  Phys Ther 
+Sport. 2012;13(4): 243-249.
+11.  Tessaro M, Granzotto G, Poser A, Plebani G, Rossi A. 
+Shoulder pain in competitive teenage swimmers and it’s 
+prevention: a retrospective epidemiology cross sectional 
+study of prevalence. Int J Sports Phys Ther. 2017;12(5): 
+798-811.
+12.  Hill L, Collins M, Posthumus M. Risk factors for shoulder 
+pain and injury in swimmers: A critical systematic review. 
+Phys Sportsmed. 2015;43(4): 412-420.
+13.  Sport for Life. Long-term development in sport and 
+physical activity 3.0. Victoria, BC: Sport for Life Society; 
+2019. Accessed from: https://sportforlife.ca/wp-content/uploads/2019/06/Long-Term-Development-in-Sport-and-
+Physical-Activity-3.0.pdf
+14.  Athletics Canada. Long term athlete development. Ottawa, 
+ON. Accessed from: https://athletics.ca/wp-content/
+uploads/2015/01/LTAD_EN.pdf
+15.  Witt P and Danigi T. Why children/youth drop out of 
+sports. J Park Recr Admin. 2018;36: 191-199.
+16.  Clarsen B, Myklebust G, Bahr R. Development and 
+validation of a new method for the registration of overuse 
+injuries in sports injury epidemiology: the Oslo Sports 
+Trauma Research Centre (OSTRC) Overuse Injury 
+Questionnaire. Br J Sports Med. 2013; 47(8): 495-502.
+17.  Su KP, Johnson MP, Gracely EJ, Karduna AR. Scapular 
+rotation in swimmers with and without impingement 
+syndrome: practice effects. Med Sci Sports Exerc. 2004; 
+36(7): 1117-1123.
+18.  Tate A, Turner GN, Knab SE, Jorgensen C, Strittmatter A, 
+Michener LA. Risk factors associated with shoulder pain 
+and disability across the lifespan of competitive swimmers. 
+J Athl Train. 2012; 47(2):149-158.
+19.  Costa MJ, Marinho DA, Santos CC, Quinta-Nova L, 
+Costa AM, Silva AJ, et al. The coaches’ perceptions and 
+experience implementing a long-term athletic development 
+model in competitive swimming. Front Psychol. 2021;12.

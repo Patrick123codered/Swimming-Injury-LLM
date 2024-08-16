@@ -1,0 +1,485 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/304033465
+Inju ry and illness in aquatic sport: How high is the risk? A comparison of
+results from three FINA World Championships
+Article    in  British Journal of Sports Medicine  · June 2016
+DOI: 10.1136/bjsports -2016-096075
+CITATIONS
+79READS
+1,426
+12 author s, including:
+Annik a Prien
+Medic al School Hambur g
+9 PUBLICA TIONS    314 CITATIONS    
+SEE PROFILE
+Mar go Mountjo y
+McMast er Univ ersity
+221 PUBLICA TIONS    14,958  CITATIONS    
+SEE PROFILE
+David F Gerr ard
+Univ ersity of Ot ago
+78 PUBLICA TIONS    2,491  CITATIONS    
+SEE PROFILE
+Mohamed Y ahia
+Helw an Univ ersity
+37 PUBLICA TIONS    439 CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Mar go Mountjo y on 19 June 2016.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+Injury and illness in aquatic sport: how high
+is the risk? A comparison of results from three
+FINA World Championships
+Annika Prien,1Margo Mountjoy,2,3,4Jim Miller,3,5Kevin Boyd,3
+Cees van den Hoogenband,3David Gerrard,3Mohamed Yahia Cherif,3Yifan Lu,3
+Kyriakos Nanousis,3Edgar Ivan Ortiz Liscano,3Farhad Moradi Shahpar,3
+Astrid Junge1,6,7
+For numbered af ﬁliations see
+end of article.
+Correspondence to
+Annika Prien, Medical School
+Hamburg (MSH), Am Kaiserkai
+1, Hamburg 20457, Germany;annika.prien@medicalschool-hamburg.de
+Received 2 February 2016
+Revised 24 May 2016Accepted 31 May 2016
+To cite: Prien A,
+Mountjoy M, Miller J, et al .
+Br J Sports Med Published
+Online First: [ please include
+Day Month Year]doi:10.1136/bjsports-2016-096075ABSTRACT
+Background Epidemiological information on injury/
+illness is required to develop effective injury preventionstrategies.Aim To assess the frequency and characteristics of
+injuries/illnesses (1) in the 4 weeks prior to and (2)during the Fédération Internationale de Natation (FINA)World Championships 2015 compared with 2013 and2009.Method (1) Athletes answered a retrospective
+questionnaire, and (2) the medical staff reported injuries/illnesses prospectively during the championships.Results (1) A quarter of responding athletes reported
+symptoms in the 4 weeks prior to the championships.More than half of all affected athletes presented withsubstantial severity, 80% took medication, 70% hadoveruse injuries and 30% did not modify their trainingregime despite symptoms. At the start of thechampionships, 70% of affected participants were stillsymptomatic. (2) During the championships, injury andillness incidence was 12.9 per 100 athletes. The mostcommon injuries were shoulder sprains (5.7%) and
+muscle cramps of the lower back (5.7%). The most
+common illnesses were infections of the respiratory(33.9%) and gastrointestinal tract (23.5%). Risk factorsincluded discipline and age, but not gender. Incidencewas highest in athletes competing in high diving (HD),water polo (WP) and diving (DIV) for injuries, and WPand swimming (SW) for illnesses. The signi ﬁcantly higher
+incidence of injuries and illnesses at the FINA WorldChampionships 2015 compared with 2013 and 2009was most probably due to a similarly improved responserate of the medical staff.Conclusions In aquatic sports, surveillance and health
+promotion should focus on prevention of out-of-competition overuse injuries and athlete education.
+INTRODUCTION
+Aquatic sport has the second largest athlete partici-
+pation at the Olympic Games and enjoys globalpopularity throughout the lifespan. Governed bythe international swimming federation (FédérationInternationale de Natation, (FINA)), W orldChampionships are held biannually in six disci-plines: swimming (SW), diving (DIV), water polo(WP), synchronised swimming (SYN), open waterswimming (OWS) and high diving (HD). At theFINA W orld Championships 2015 in Kazan,Russia, 2413 athletes participated representing 186
+countries.
+While most literature on health in aquatic ath-
+letes focuses on shoulder problems in SW and/or
+uses retrospective research designs with smallsample sizes,
+1some data from prospective studies
+have become available in recent years.2–8During
+the W orld Aquatic Championships 2009 and 2013,FINA implemented an injury and illness surveillanceprogramme to direct activities targeting athletehealth.
+48Further, the International Olympic
+Committee (IOC) assessed injury incidence in WPduring the 2004 Olympic Games,
+2and investigated
+all aquatic disciplines during the 2008 and 2012Olympic Games.
+36Another prospective injury sur-
+veillance programme that has rendered interestingresults was conducted by the National CollegiateAthletic Association in SWand DIV .
+57
+Results of the above-mentioned studies suggest
+that the injury rate varies between aquatic disci-plines and is on average lower than in other sports.Junge et al
+3and Engebretsen et al6reported an
+incidence of 9.6/12.9 injuries per 100 athletesacross all Olympic disciplines and 4.4/7.6 injuriesper 100 athletes in aquatic sport in 2008/2012. Atthe FINA W orld Championships 2009 and 2013,incidence rates were 6.6 and 8.3 injuries per 100athletes; the highest injury rates were reported inDIV (12.6/100 athletes) and WP (15.3/100 ath-letes), respectively.
+48While the most frequently
+reported injury location is the shoulder, someauthors also note a high prevalence of head/handinjuries in WP ,
+9knee pain in breast stroke SW10
+and lower back problems in DIV .11
+A striking percentage of injuries during aquatic
+tournaments (27.4 –37.5%) was reported to be
+caused by overuse.48In an effort to better under-
+stand these overuse injuries, an athlete survey wasadded to the injury and illness surveillance protocolat the FINA W orld Championships in 2013.Mountjoy et al
+8found that a third of all athletes suf-
+fered from physical complaints in the 4 weeks priorto the championships, and 70% of these athleteswere still symptomatic at the start of the competition.
+The primary aims of this study were to (1)
+analyse the prevalence of injuries/illnesses in the4 weeks prior to the FINA W orld Championships2015 and (2) describe the incidence of injuries/ill-nesses during the FINA W orld Championships2015 compared with previous studies. A secondary
+Prien A, et al .Br J Sports Med 2016; 0:1–7. doi:10.1136/bjsports-2016-096075
+ 1Original article BJSM Online First, published on June 16, 2016 as 10.1136/bjsports-2016-096075
+Copyright Article author (or their employer) 2016. Produced by BMJ Publishing Group Ltd under licence. group.bmj.com  on June 17, 2016 - Published by http://bjsm.bmj.com/ Downloaded from 
+aim was the assessment of informational needs of the aquatic
+athlete on different health-related topics.
+METHODS
+Study design
+The study has two components: (1) a retrospective survey on
+physical complaints prior to the championships and informationalneeds on health-related topics and (2) a prospective survey onnewly incurred injuries and illnesses during the championships.
+Participants
+The study population consisted of all 2413 athletes who com-peted at the FINA W orld Championships 2015 in one of the sixaquatic disciplines: SYN (n=339), WP (n=415), DIV (n=248),OWS (n=187), SW (n=1194) and HD (n=30). Overall, morefemale (n=1262) than male athletes (n=1151) participated andathlete age ranged from 10 to 40 years with an average of22.1 years (SD=4.5).
+Materials
+1. In the retrospective survey, athletes were asked to report
+details on all health problems (location, type, cause, durationand severity) during the 4 weeks prior to and at the start ofthe championships. Health complaints were de ﬁned as any
+physical or mental health disorder, regardless of the conse-quences for participation in training or competition. Healthproblems of substantial severity were de ﬁned as any physical
+or mental health complaints that affected the athletes ’per-
+formance or training regime at least moderately.
+12Injuries
+not caused by aquatic sport were excluded from the analysis.The questionnaire was identical to the one used in 2013,
+8
+but expanded by questions on the frequency of medicationuse, and the athletes’ interest in educational information on
+different health-related topics ( table 2 ).
+2. In the prospective survey, team physicians (TPs) and the
+local organising committee (LOC) medical staff were askedto complete daily reports on all newly incurred injuries(onset, location, type, cause and time-loss) and illnesses(affected system, main symptoms, cause and time-loss). As inprevious projects,
+48injuries were de ﬁned as any musculo-
+skeletal complaints and/or concussion that received medicalattention regardless of the consequences for participation;illnesses were de ﬁned as any physical or mental health com-
+plaints not related to injury that received medical attention.
+Questionnaires and report forms could be completed elec-tronically or in pen and paper format and were available infour languages: English, French, Spanish and Russian.Supplemental materials included information booklets forathletes, TPs and LOC detailing the study and de ﬁnitions of
+all important terminologies.
+Procedures
+For comparability of results, procedures were kept identical to
+the ones employed at previous FINA W orld Championships.48
+Prior to the event, information regarding the purpose and logis-tics of the study was sent to all National Federations, registeredTPs and LOC. At the start of the championships and at thebeginning of the second week, all materials were distributed atthe technical meetings of each discipline and the FINA NationalFederation Medical meeting. During the competitions, onemember of the study group was present at every event toencourage and assist with participation. Report forms ﬁlled in
+by the LOC were collected regularly from all venues. Responserates and quality of data were analysed daily. Duplication ofdata entries was resolved by consensus of AJ and AP . Ethicalapproval was granted from McMaster University —Hamilton
+Integrated Research Ethics Board, Canada.
+Data analysis and presentation
+All data were processed using SPSS (V .23, IBM) and Excel(Microsoft Of ﬁce 2010). Results are reported in accordance
+with the Strengthening the Reporting of Observational Studiesin Epidemiology guidelines, and described using means with SDor frequencies with percentage. Incidence/prevalence rates werecalculated as number of injuries or illnesses per 100 athletes andreported with 95% CIs. In both parts of the study, the age,gender and competitive discipline were assessed as potential mod-erator variables. The χ
+2and t-tests were used to compare inci-
+dence/prevalence rates based on these moderators. Spearman ’s
+rank-order correlation was run to determine the relationshipbetween items assessing informational needs. Signi ﬁcance was
+accepted at p<0.05.
+RESULTS
+Retrospective survey on prior health problems andinformational needs
+Response rate : Just over half (n=1244; 51.6%) of the 2413 ath-
+letes representing 42% (n=78) of participating countries from
+allﬁve continents completed the survey. This is comparable to
+values reported in 2013. Response rates varied considerably bydiscipline, ranging from 38% in OWS to 87% in HD ( table 1 ).
+No signi ﬁcant age or gender difference was observed between
+respondents and non-respondents.
+Health problems : Around a quarter (26.1%) of athletes
+reported health complaints in the 4 weeks prior to the cham-
+pionships; 19% of respondents suffered from injuries, 5% had
+illnesses and 2% reported both. On average, affected athleteshad symptoms on 11 days during the previous 4 weeks, andalmost half (43.0%) had health problems of substantial severity.The median duration of prior complaints was 3 months, rangingfrom 3.5 days to 15 years. The average time-loss in training was2 days, and more than two-thirds (69.0%) of affected athletesmodi ﬁed their training regime. Conversely, one-third (31.0%) of
+athletes did not modify their training regime despite complaints.Most injuries were caused by overuse (68.1%) and affected theshoulder (26.4%), knee (10.1%), lower back (9.8%) and hip/groin area (9.6%). The most common illnesses were respiratorytract infections (26.3%), gastrointestinal infections (13.7%) andotitis (13.7%). The 4-week prevalence of medication use in ath-letes with health problems was 81%; most athletes took painkil-lers (63.4%), followed by muscle relaxants (23.9%), sleepingpills (16.7%), cortisone (10.1%) and psychotropic drugs(7.3%). At the start of the championships, two-thirds (69.6%)of affected athletes were still symptomatic, and over half(55.3%) reported that their performance was affected.
+The prevalence of prior complaints differed signi ﬁcantly
+between disciplines ( χ
+2=56.2; p<0.01), with 61.5% of high
+divers and 51.6% of divers but only 20% of swimmers report-
+ing prior complaints ( table 1 ). Athletes with health problems
+were signi ﬁcantly older (M=23.0, SD=4.6) than participants
+without health problems (M=22.3, SD=4.4; t=2.5; p<0.05).
+No difference was found between male and female athletes.
+Informational needs : Athletes were most interested in edu-
+cational material about nutrition/hydration and nutritional sup-plementation as well as in prevention and treatment of injury(table 2 ). Between 32.4% and 39.9% felt fully informed about
+the listed topics. All items were highly correlated (r
+s=0.57 –
+0.90, p<0.01).
+2 Prien A, et al .Br J Sports Med 2016; 0:1–7. doi:10.1136/bjsports-2016-096075Original articlegroup.bmj.com  on June 17, 2016 - Published by http://bjsm.bmj.com/ Downloaded from 
+Prospective survey during the championships
+Athletes ’coverage and response rate : The TPs of 81 countries
+(43.5%), representing all ﬁve continents, participated in the
+study covering 1977 athletes (81.9%); a total of 1076 daily
+report forms (response rate: 83.0%) were returned. Further, theLOC medical staff of all training/competition venues and the
+athletes’ village ﬁlled in 80 daily report forms (response rate:
+52.3%). Response rate and athlete coverage varied by discipline,
+with response rates between 60% (SYN) and 91% (HD) and
+athlete coverage between 64% (OWS) and 100% (WP).
+Injuries : A total of 312 injuries were reported, of which a
+quarter (n=63) resulted in time-loss. This represents an injury inci-dence of 12.9/100 athletes (95% CI±1.43) and time-loss injury
+incidence of 2.6/100 athletes (95% CI±0.64). The most commoninjuries were shoulder sprains (5.7%), muscle cramps in thelumbar spine area (5.7%) and head contusions (4.7%). Around40% of all injuries were caused by overuse and a third (33.7%) bycontact with another athlete, an object or during water entry.
+Incidence of all and time-loss injuries varied signi ﬁcantly
+by discipline ( χ
+2=84.1, p<0.01; χ2=26.1, p<0.01) and age
+(t=6.38, p<0.01; t=4.97, p<0.01); however, no main ordiscipline-speci ﬁc gender effect could be observed. The highest
+incidence of all and time-loss injuries was reported in HD fol-lowed by WP and DIV ( ﬁgure 1 A). Injured athletes were signi ﬁ-
+cantly older (M=23.7, SD=4.4) than non-injured participants(M=21.9, SD=5.1); this difference was even more pronouncedwhen comparing athletes with (M=25.0, SD=5.3) and withouttime-loss injury (M=22.1, SD=4.4). Finally , signi ﬁcant differ-
+ences between disciplines were found with regard to trainingand competition injury rates ( χ
+2=47.4, p<0.01). In SYN
+(73.9%) and SW (71.2%), more injuries were incurred in train-ing, while in WP (77.4%) and OWS (75.0%), more injurieswere incurred in competition; in HD and DIV , no signi ﬁcant dif-
+ferences were found.
+Illnesses : A total of 312 illnesses were reported, of which 36
+(17%) resulted in time-loss. This is equivalent to an illness inci-dence of 12.9/100 athletes (95% CI±1.43) and time-loss illnessincidence of 1.5/100 athletes (95% CI±0.49). Most commonillnesses affected the respiratory tract (33.9%) or the gastrointes-tinal tract (23.5%) and were caused by infection (45.3%). Thesecond most reported cause for illness was environmentalTable 1 Characteristics of respondents and prevalence of health complaints and medication use by discipline in the 4 weeks prior to the FINA
+World Championships 2015
+Discipline SYN WP DIV OWS SW HD
+Respondents ALL N (%) N (%) N (%) N (%) N (%) N (%)
+Responding athletes 1244 (51.6) 162 (47.8) 316 (76.1) 93 (37.5) 71 (38.0) 576 (48.2) 26 (86.7)
+Country coverage 78 (41.9%) 21 (46.7) 19 (95.0) 19 (39.6) 18 (35.3) 73 (39.3) 15 (93.8)
+Mean age 22.1 20.9 24.8 21.8 22.8 21.3 30.9
+Gender (male/female) 1151/1262 10/329 208/207 137/111 107/80 669/525 20/10
+Health complaints N (%) N (%) N (%) N (%) N (%) N (%) N (%)
+Athletes with complaints 324 (26.1) 44 (27.2) 85 (26.9) 48 (51.6) 15 (21.1) 116 (20.1) 16 (61.5)
+Injuries 237 (19.1) 33 (20.4) 63 (19.9) 46 (49.5) 7 (9.9) 73 (12.7) 15 (57.7)
+Illnesses 62 (5.0) 8 (4.9) 13 (4.1) 1 (1.1) 6 (8.5) 34 (5.9) 0
+Injury and illness 25 (2.0) 3 (1.9) 9 (2.9) 1 (1.1) 2 (2.8) 9 (1.6) 1 (3.9)
+Complaints of substantial severity 132 (10.6) 13 (8.0) 40 (12.7) 25 (26.9) 2 (2.8) 44 (7.6) 8 (30.8)
+Complaints resulting in time-loss 116 (9.3) 13 (8.0) 32 (10.1) 21 (22.6) 3 (4.2) 38 (6.6) 9 (34.6)
+Medication in the previous 4 weeks N (%) N (%) N (%) N (%) N (%) N (%) N (%)
+Painkillers 175 (14.1) 26 (16.0) 47 (14.9) 27 (29.0) 5 (7.0) 60 (10.4) 10 (38.5)
+Cortisone 28 (2.3) 4 (2.5) 7 (2.2) 7 (7.5) 0 9 (1.6) 1 (3.8)
+Muscle relaxants 66 (5.3) 10 (6.2) 18 (5.7) 12 (12.9) 4 (5.6) 19 (3.3) 3 (11.5)
+Sleeping pills 46 (3.7) 5 (3.1) 6 (1.9) 5 (5.4) 2 (2.8) 24 (4.2) 4 (15.4)
+Psychotropic drugs 20 (1.6) 2 (1.2) 4 (1.3) 1 (1.1) 1 (1.4) 11 (1.9) 1 (3.8)
+ALL, All disciplines; DIV, diving; FINA, Fédération Internationale de Natation; HD, high diving; OWS, open water swimming; SW, swimming; SYN, synchronised swimming; WP, water polo.
+Table 2 Informational needs of athletes regarding health-related
+topics
+ResponseYes, I am
+interestedNo, I am notinterestedNo, I am fullyinformed
+Health-related
+topic N (%) N (%) N (%)
+Nutrition/hydration 649 (58.1) 83 (7.4) 386 (34.5)
+Nutritional
+supplementation641 (57.3) 100 (8.9) 378 (33.8)
+Injury prevention 616 (55.9) 100 (9.1) 387 (35.1)
+Injury treatment 603 (54.5) 127 (11.5) 377 (34.1)Weight management 598 (54.1) 138 (12.5) 370 (33.5)Overtraining
+syndrome588 (53.8) 152 (13.9) 354 (32.4)
+Postelite career 543 (51.0) 158 (14.8) 364 (34.2)
+Return to sport 554 (50.9) 163 (15.0) 371 (34.1)Antidoping
+regulations525 (48.7) 141 (13.1) 412 (38.2)
+Long-term
+consequences527 (48.4) 180 (16.5) 383 (35.1)
+Mental health 480 (44.9) 217 (20.3) 372 (34.8)
+RED-S 459 (44.2) 225 (21.7) 354 (34.1)Medical check-ups 473 (44.1) 187 (17.4) 412 (38.4)Menstrual problems* 255 (41.8) 120 (19.7) 235 (38.5)
+Concussion 386 (36.1) 281 (26.3) 402 (37.6)
+Pregnancy* 176 (29.2) 199 (33.1) 227 (37.7)Harassment 295 (28.0) 339 (32.1) 421 (39.9)
+*Female athletes only.
+RED-S, relative energy deficiency in sport.
+Prien A, et al .Br J Sports Med 2016; 0:1–7. doi:10.1136/bjsports-2016-096075 3Original articlegroup.bmj.com  on June 17, 2016 - Published by http://bjsm.bmj.com/ Downloaded from 
+exposure (24.6%), resulting in otitis (9.6%) and allergy/skin
+rash (9.0%).
+Illness and time-loss illness incidence varied signi ﬁcantly by
+discipline ( χ2=15.7, p<0.01; χ2=12.0, p<0.05) and age
+(t=2.62, p<0.01; t=1.99, p<0.05), but not gender. HD hadthe highest illness incidence and WP the highest time-loss illnessincidence ( ﬁgure 1 B). Further, ill athletes were signi ﬁcantly
+older (M=22.8, SD=4.4) than non-ill participants (M=21.9,SD=5.1); a similar age difference was found when comparingathletes with (M=23.7, SD=3.8) and without time-loss illnesses(M=22.1, SD=4.5).
+Comparison with prospective surveys in previous
+championships
+Athletes ’coverage and response rate : There was a signi ﬁcant
+increase in participating countries ( χ2=7.0, p<0.05), athlete
+coverage ( χ2=146.7, p<0.01) and response rate ( χ2=428.3,
+p<0.01) since the study was ﬁrst conducted ( table 3 ).48
+Further, the compliance of the LOC medical staff has improved
+as reﬂected in a higher percentage of LOC-reported injuries and
+illnesses returned.
+Injuries : The incidence of all reported injuries ( χ2=62.6,
+p<0.01) and time-loss injuries ( χ2=26.2, p<0.01) has increased
+progressively over the years ( table 3 ). In all three FINA W orld
+Championships, the most commonly affected anatomical site
+was the shoulder (15.0%, 22.1%, 19.2%), followed by the head(9.0%, 15.1%, 10.0%). The most common injury types weresprains (19.9%, 12.4%, 19.3%) and strains (15.7%, 16.3%,
+14.8%). At the FINA W orld Championship 2013, there was alsoa high incidence of ﬁnger/thumb injuries (9.5%) and tendinosis
+(16.3%). The most common injury causes were overuse (37.4%,27.4%, 41.7%) and traumatic contact (30.7%, 41.1%, 33.9%).When comparing aquatic disciplines particularly high injuryincidence rates were found consistently in DIV (16.0%, 11.4%,19.0%) and WP (10.2%, 15.3%, 23.1%). Results of the presentstudy also show a high injury incidence in HD (36.7%). Nogender differences were observed, except a higher injury risk infemale (7.1/100, 95% CI±1.46) compared with male athletes(4.8/100, 95% CI±1.19) at the FINA W orld Championships2009 ( table 3 ).
+Illnesses : While illness incidence ( χ
+2=50.5, p<0.01) has
+increased signi ﬁcantly since the study was ﬁrst conducted, time-
+loss illness incidence has not ( table 3 ). At all three champion-
+ships, infections of the respiratory (32.6%, 24.7%, 34.3%) orthe gastrointestinal tract (20.4%, 23.2%, 23.7%) and otitis(17.1%, 15.5%, 9.6%) were most common. Consistently highillness incidence rates were reported in WP (6.3%, 8.2%,16.6%) and SW (8.5%, 8.9%, 13.5%); however, the highestillness incidence was found in HD in 2015 (16.7%) and inOWS in 2013 (21.6%). Illness rates did not differ based ongender ( table 3 ).
+DISCUSSION
+The main aims of this study were to (1) analyse the prevalence
+of injuries/illnesses in the 4 weeks prior to the FINA W orldTable 3 Comparison of results from FINA World Championships
+2009,420138and 2015
+FINA World Championships 20094201382015
+Response rate N (%) N (%) N (%)
+Registered athletes 2592 2223 2413
+Registered countries 173 177 186Reporting countries 73 (42.2) 55 (31.1) 81 (43.5)Athlete coverage 1745 (67.3) 1571 (70.7) 1977 (81.9)Report forms returned (response rate) 495 (42.4) 587 (66.7) 1066 (82.3)Injuries reported by TPs 140 (82.5) 132 (71.0) 195 (62.5)Injuries reported by LOC 32 (17.5) 43 (23.1) 117 (37.5)Illnesses reported by TPs 133 (72.3) 132 (66.0) 198 (63.5)Illnesses reported by LOC 41 (22.3) 63 (31.7) 114 (36.5)
+Injury rate N (%) N (%) N (%)Number of all reported injuries 171 186 312
+Time-loss injuries 21 (13.4) 32 (25.0) 63 (25.0)Athletes with injury 171 (6.6) 186 (8.3) 312 (12.9)Athletes with time-loss injury 21 (0.8) 32 (1.4) 63 (2.6)Male athletes with injury 62 (4.8) 88 (8.4) 160 (13.9)Female athletes with injury 91 (7.1) 98 (8.3) 151 (12.0)
+Illness rate N (%) N (%) N (%)Number of all reported illnesses 184 199 312
+Total time-loss illnesses 30 (16.3) 25 (12.6) 36 (16.7)Athletes with illness 184 (7.1) 199 (9.0) 312 (12.9)Athletes with time-loss illness 30 (1.3) 25 (1.1) 36 (1.5)Male athletes with illness 68 (5.2) 92 (8.8) 137 (11.9)Female athletes with illness 88 (6.8) 107 (9.1) 174 (13.8)
+FINA, Fédération Internationale de Natation; LOC, medical staff of local organising
+committee; TPs, team physicians.
+Figure 1 (A) HD, high diving; DIV, diving; WP, water polo; SW,
+swimming; SYN, synchronised swimming; OWS, open water swimming.
+(B) WP, water polo; SW, swimming; OWS, open water swimming SYN,
+synchronised swimming; DIV, diving; HD, high diving.
+4 Prien A, et al .Br J Sports Med 2016; 0:1–7. doi:10.1136/bjsports-2016-096075Original articlegroup.bmj.com  on June 17, 2016 - Published by http://bjsm.bmj.com/ Downloaded from 
+Championships 2015 and (2) describe the incidence of injuries/
+illnesses during the FINA W orld Championships 2015 comparedwith previous studies.
+Retrospective survey on prior health problems and
+informational needs
+Consistent with previous research, the retrospective athlete
+survey showed that athletes continue to train and compete whileinjured or ill.
+81 3On average, affected athletes suffered from
+symptoms on 11 days during the 4 weeks prior to the cham-pionships; however, the mean absence from training was only2 days; one-third of athletes did not modify their trainingregime at all despite reporting complaints. This may contributeto the fact that two-thirds of athletes were still symptomatic atthe start of the championships and over half reported that theirperformance was affected.
+In line with these ﬁndings, around 80% of athletes with com-
+plaints used at least one medication in the 4 weeks prior to thechampionships; two-thirds of athletes took painkillers, a quartertook muscle relaxants and 17% used sleeping pills. Reportedprevalence rates for the use of any medication during inter-national football, athletics and multisport events range between35% and 69%; however, these rates relate to physicians ’reports
+on all athletes.
+14–17Several authors18 19have suggested that
+excessive medication use is an issue in elite sport and may infact inhibit recovery after injury.
+20 21Future studies should
+evaluate medication use during aquatic championships in all ath-letes for comparison with data from other sports.
+Extending our 2009 report,
+4overuse was again the most
+common cause of injury before (68.1%) and during (41.4%) theFINA W orld Championships 2015. Elite athletes continue totrain despite complaints and have a high prevalence of painmedication use.
+8T o gather more information on overuse injuries
+and minimise selection and recall biases inherent to the retro-spective design of the athlete survey, an expert committee has
+recently recommended prospective out-of-competition surveil-
+lance.
+22Results of our study support this recommendation and
+emphasise the need to develop effective overuse injury preven-tion and management strategies.
+An e w ﬁnding with practical implications for the development
+of such strategies is that age and discipline, but not gender, weresigniﬁcant moderators of injury and illness incidence. This
+suggests that gender is not a risk factor for injury or illness inaquatic disciplines
+578unlike in sports such as athletics23or
+football,24where males have an overall increased injury inci-
+dence. In aquatics, the high-risk group comprises older athletescompeting in HD, WP and DIV . The injury incidence andseverity pro ﬁle in HD was almost twice as high compared with
+WP or DIV , and seven times higher than reported at the FINA
+W orld Championships 2013, where this discipline was ﬁrst
+introduced.
+8However, this result needs to be interpreted cau-
+tiously due to the relatively small sample sizes and large CIs.
+More data are needed on the epidemiology of injury and illnessin HD for an effective risk management and improvement ofin-competition prevention protocols.
+Prospective survey during the championships
+Based on data collected in the prospective survey, it is apparentthat a sport-speci ﬁc approach to injury prevention focusing on
+the identi ﬁed high-risk groups is required. Results indicate that
+discipline acts as an important moderator for competition/train-ing injury incidence and injury cause, location and type. Whilethigh strains caused at water entry were most common in HD,overuse injuries of the shoulder and lower back were the mostprevalent issue in DIV , and shoulder and head problems causedby contact with another athlete in WP . The high incidence ofshoulder injuries across disciplines and the discipline-speci ﬁc
+risk of head and lower back problems extend the ﬁndings of
+previous literature.
+791 1Further, in-competition injuries were
+the main concern in WP and OWS, while in SW and SYN, mostinjuries occurred during training. W e hypothesise that these dif-ferences in training and competition injury rates by disciplineare due to great variation in training and competition exposure,as well as amount of in-competition contact.
+How do the new data compare with previous prospective
+surveys?
+Comparison with previous prospective surveys at FINA W orld
+Championships48showed an improved compliance and
+response rate of TPs and LOC medical staff, and thus more
+reported injuries and illnesses ( table 3 ). A similar trend was
+observed at the Olympic Games.36However, the injury pro ﬁle
+remained mostly consistent over the years; therefore, it is postu-lated that the increase in familiarity and thus compliance withthe study protocol is responsible for the observed increase ininjury and illness rates, rather than concluding that aquatic sportis becoming more dangerous. In a similar vein, results suggestthat surveillance protocols need to be implemented consistentlyover the course of several events in order to reach the compli-ance necessary to approximate the true injury and illness risk.
+Finally, data collected on informational needs indicate that
+athlete education should be another focus of future health pro-motion efforts.
+25More than half of participants were interested
+in information on almost half of all suggested health-relatedtopics, with nutrition and supplementation ranking highest.Considering that most international sport federations report tohave programmes, guidelines or research activities on nutrition/hydration,
+26including the IOC27and FINA,28knowledge trans-
+lation strategies need to be improved. Moreover, all items oninformational needs correlated signi ﬁcantly —that is, while ath-
+letes were interested in health education, they were unable todifferentiate topics with respect to importance for their individ-ual requirements. T o the authors ’knowledge, this is a novel
+ﬁnding. W e suggest that future studies evaluate informational
+needs and existing health-related knowledge in elite athletes ofother sports for comparison with the present data.
+Strengths and limitations
+Strengths of this study include the high response rate andathlete coverage in the prospective survey. Further, by combin-ing different research designs through the implementation of aretrospective and a prospective survey, potential reporting biaseswere minimised, thus enhancing understanding.
+29However, lim-
+itations to the accuracy of data collected in the retrospectivesurvey exist. While we did employ a narrow recall period of4 weeks, there is still potential for recall bias. Moreover, athleteswith injuries that prevented them from travelling to the champion-ships were not captured in this study. Thus, the reported preva-lence and severity proﬁ le for the out-of-competition period is
+most likely an underestimate of the actual values, and future pro-spective studies covering in-competition and out-of-competitionare highly recommended.
+CONCLUSION
+Epidemiological data from a single event are more prone tobias, especially when implementing a new surveillance system.Further, as our data show, compliance and participation hasimproved substantially over the years. The improved response
+Prien A, et al .Br J Sports Med 2016; 0:1–7. doi:10.1136/bjsports-2016-096075 5Original articlegroup.bmj.com  on June 17, 2016 - Published by http://bjsm.bmj.com/ Downloaded from 
+rate and associated increase in reporting of injury and illness
+incidence underline the importance of implementing surveil-lance protocols consistently over the course of several events toapproximate true values. Further, age and discipline wereimportant moderators of injury and illness risk; overuse con-
+tinues to be the main cause of injury prior to and during the
+championships. These ﬁndings emphasise the need for effective
+injury management and prevention strategies in aquatics. W erecommend (1) a sport-speci ﬁc approach to prevention, (2)
+out-of-competition injury surveillance and (3) improving athletehealth education. T opics of particular interest with regard tohealth information were nutrition and nutritional supplementa-tion. Future studies should evaluate medication use duringaquatic tournaments in all athletes for comparison with data col-lected in other sports.
+What are the ﬁndings?
+▸Injury risk in the FINA World Championships 2015 was
+signiﬁcantly higher than in 2013 and 2009; this was
+attributed to better familiarity and thus increasedcompliance with the protocol.
+▸Age and discipline, but not gender, were moderators for
+injury and illness risk.
+▸Of all athletes with complaints in the 4 weeks prior to the
+championships, 30% did not modify their training regime,70% had overuse injuries and 80% used at least onemedication in this period.
+▸The majority of athletes were interested in health education,particularly with regard to nutrition and supplements;however, current health knowledge seemed to be poor.
+How might it impact on clinical practice in the future?
+▸Given the injury and illness incidence, targeted healthpromotion based on the results of this study should continueto be a focus of FINA activities.
+▸The continuous implementation of an injury and illnesssurveillance protocol at FINA World Championships isparamount to achieve high data quality.
+▸An out-of-competition injury surveillance is recommended togather more information on causes and management ofoveruse injuries.
+▸Future studies should focus on medication use of athletesduring the championships.
+Author af ﬁliations
+1Medical School Hamburg (MSH), Hamburg, Germany
+2Department of Family Medicine, Michael G. DeGroote School of Medicine,
+McMaster University, Hamilton, Ontario, Canada
+3Fédération Internationale de Natation (FINA) Sports Medicine Committee, Lausanne,
+Switzerland
+4International Olympic Committee (IOC), Lausanne, Switzerland
+5Medicine Department, University of Virginia, Charlottesville, and Virginia
+Commonwealth University, Richmond, Virginia, USA
+6FIFA Medical Assessment and Research Centre (F-MARC), Zurich, Switzerland
+7Schulthess Clinic, Zurich, Switzerland
+Acknowledgements The authors highly appreciate the cooperation of all team
+physicians and medical staff of the FINA World Aquatic Championship 2015 who
+volunteered their time to collect the data for this project. They gratefullyacknowledge FINA for the support and funding of the study. The authors especially
+thank Johan Lefebvre for his administrative assistance, and Alexander Grafe for hisresearch assistance.
+Contributors AP, the ﬁrst author, substantially contributed to the acquisition of
+data, analysis and interpretation of data, drafting and revising the manuscript, and
+approval of ﬁnal version to be published. MM substantially contributed to the
+conception and design, acquisition and interpretation of data, drafting and revising
+the manuscript, and approval of ﬁnal version to be published. JM gave signi ﬁcant
+contribution to the acquisition of data, revising the manuscript and approval of ﬁnal
+version to be published. KB gave signi ﬁcant contribution to the acquisition of data,
+and approval of ﬁnal version to be published. CvdH, DG, MYC, YL, KN, EIOL and
+FMS contributed to the acquisition of data, revision and approval of ﬁnal version to
+be published. AJ substantially contributed to the conception and design, extension
+of athletes ’questionnaire and data analysis, drafting and revising the manuscript
+and approval of ﬁnal version to be published.
+Funding FINA.
+Competing interests None declared.
+Ethics approval McMaster University —Hamilton Integrated Research Ethics Board,
+Canada.
+Provenance and peer review Not commissioned; externally peer reviewed.
+REFERENCES
+1 Gaunt T, Maffulli N. Soothing suffering swimmers: a systematic review of the
+epidemiology, diagnosis, treatment and rehabilitation of musculoskeletal injuries in
+competitive swimmers. Br Med Bull 2012;103:45 –88.
+2 Junge A, Langevoort G, Pipe A, et al . Injuries in team sport tournaments during the
+2004 Olympic Games. Am J Sports Med 2006;34:565 –76.
+3 Junge A, Engebretsen L, Mountjoy ML, et al . Sports injuries during the Summer
+Olympic Games 2008. Am J Sports Med 2009;37:2165 –72.
+4 Mountjoy M, Junge A, Alonso JM, et al . Sports injuries and illnesses in the 2009
+FINA World Championships (Aquatics). Br J Sports Med 2010;44:522 –7.
+5 Chase KI, Caine DJ, Goodwin BJ, et al . A prospective study of injury affecting
+competitive collegiate swimmers. Res Sports Med 2013;21:111 –23.
+6 Engebretsen L, Soligard T, Steffen K, et al . Sports injuries and illnesses during the
+London Summer Olympic Games 2012. Br J Sports Med 2013;47:407 –14.
+7 Kerr ZY, Baugh CM, Hibberd EE, et al . Epidemiology of National Collegiate Athletic
+Association men ’s and women ’s swimming and diving injuries from 2009/2010 to
+2013/2014. Br J Sports Med 2015;49:465 –71.
+8 Mountjoy M, Junge A, Benjamen S, et al . Competing with injuries: injuries prior to
+and during the 15th FINA World Championships 2013 (aquatics). Br J Sports Med
+2015;49:37 –43.
+9 Brooks JM. Injuries in water polo. Clin Sports Med 1999;18:313 –19.vi.
+10 Rodeo SA. Knee pain in competitive swimming. Clin Sports Med 1999;18:
+379–87; viii.
+11 Baranto A, Hellström M, Nyman R, et al . Back pain and degenerative abnormalities
+in the spine of young elite divers: a 5-year follow-up magnetic resonance imaging
+study. Knee Surg Sports Traumatol Arthrosc 2006;14:907 –14.
+12 Clarsen B, Myklebust G, Bahr R. Development and validation of a new method for
+the registration of overuse injuries in sports injury epidemiology: the Oslo Sports
+Trauma Research Centre (OSTRC) overuse injury questionnaire. Br J Sports Med
+2013;47:495 –502.
+13 Bahr R. No injuries, but plenty of pain? On the methodology for recording overuse
+symptoms in sports. Br J Sports Med 2009;43:966 –72.
+14 Tscholl PM, Vaso M, Weber A, et al . High prevalence of medication use in
+professional
+football tournaments including the World Cups between 2002
+and 2014: a narrative review with a focus on NSAIDs. Br J Sports Med
+2015;49:580 –2.
+15 Tscholl P, Alonso JM, Dollé G, et al . The use of drugs and nutritional supplements
+in top-level track and ﬁeld athletes. Am J Sports Med 2010;38:133 –40.
+16 Huang SH, Johnson K, Pipe AL. The use of dietary supplements and medications by
+Canadian athletes at the Atlanta and Sydney Olympic games. Clin J Sport Med
+2006;16:27 –33.
+17 Alaranta A, Alaranta H, Heliövaara M, et al . Ample use of physician-prescribed
+medications in Finnish elite athletes. Int J Sports Med 2006;27:919 –25.
+18 Tscholl P, Feddermann N, Junge A, et al . The use and abuse of painkillers in
+international soccer: data from 6 FIFA tournaments for female and youth players.
+Am J Sports Med 2009;37:260 –5.
+19 Mountjoy M, Rhind DJA, Tiivas A, et al . Safeguarding the child athlete in sport: a
+review, a framework and recommendations for the IOC youth athlete development
+model. Br J Sports Med 2015;49:883 –6.
+20 Mackey AL, Mikkelsen UR, Magnusson SP, et al . Rehabilitation of muscle after
+injury—the role of anti-in ﬂammatory drugs. Scand J Med Sci Sports 2012;22:
+e8–14.
+21 Almekinders LC. Anti-in ﬂammatory treatment of muscular injuries in sport. Sports
+Med 1999;28:383 –8.
+6 Prien A, et al .Br J Sports Med 2016; 0:1–7. doi:10.1136/bjsports-2016-096075Original articlegroup.bmj.com  on June 17, 2016 - Published by http://bjsm.bmj.com/ Downloaded from 
+22 Mountjoy M, Junge A, Alonso JM, et al . Consensus statement on the methodology
+of injury and illness surveillance in FINA (aquatic sports). Br Journal Sports Med
+2016;50:590 –6.
+23 Edouard P, Feddermann-Demont N, Alonso JM, et al . Sex differences in injury
+during top-level international athletics championships: surveillance data from 14
+championships between 2007 and 2014. Br J Sports Med 2015;49:472 –7.
+24 Junge A, Dvorak J. Injury surveillance in the World Football Tournaments 1998 –
+2012. Br J Sports Med 2013;47:782 –8.
+25 Engebretsen L, Steffen K. Protection of the elite athlete is the responsibility of all of
+us in sports medicine. Br J Sports Med. 2015;49:1089 –90.26 Mountjoy M, Junge A. The role of International Sport Federations in the protection
+of the athlete ’s health and promotion of sport for health of the general population.
+Br J Sports Med 2013;47:1023 –7.
+27 Maughan R, Burke L, International Olympic Committee (IOC). Nutrition for athletes .
+Lausanne: International Olympic Committee, 2012.
+28 Mountjoy M, Fédération International de Natation (FINA). Nutrition for aquatic
+athletes . Lausanne: Fédération International de Natation, 2016.
+29 Clarsen B, Bahr R. Matching the choice of injury/illness de ﬁnition to study
+setting, purpose and design: one size does not ﬁt all! Br J Sports Med
+2014;48:510 –12.
+Prien A, et al .Br J Sports Med 2016; 0:1–7. doi:10.1136/bjsports-2016-096075 7Original articlegroup.bmj.com  on June 17, 2016 - Published by http://bjsm.bmj.com/ Downloaded from 
+three FINA World Championshipsis the risk? A comparison of results from Injury and illness in aquatic sport: how high
+JungeNanousis, Edgar Ivan Ortiz Liscano, Farhad Moradi Shahpar and AstridHoogenband, David Gerrard, Mohamed Yahia Cherif, Yifan Lu, Kyriakos Annika Prien, Margo Mountjoy, Jim Miller, Kevin Boyd, Cees van den
+ published online June 16, 2016 Br J Sports Med 
+ http://bjsm.bmj.com/content/early/2016/06/16/bjsports-2016-096075Updated information and services can be found at: 
+These include:
+References
+ #BIBLhttp://bjsm.bmj.com/content/early/2016/06/16/bjsports-2016-096075This article cites 27 articles, 18 of which you can access for free at: 
+serviceEmail alertingbox at the top right corner of the online article. Receive free email alerts when new articles cite this article. Sign up in the
+CollectionsTopic Articles on similar topics can be found in the following collections 
+ (424) Musculoskeletal syndromes (927)Injury (459) Health education (157) Epidemiology
+Notes
+http://group.bmj.com/group/rights-licensing/permissionsTo request permissions go to:
+http://journals.bmj.com/cgi/reprintformTo order reprints go to:
+http://group.bmj.com/subscribe/To subscribe to BMJ go to:group.bmj.com  on June 17, 2016 - Published by http://bjsm.bmj.com/ Downloaded from 
+View publication stats

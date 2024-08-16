@@ -1,0 +1,509 @@
+¢^11DiiIs' SIt1 ii11
+ArthurA.Ellis,MA
+RogerB.Trent,PhD
+BothauthorsarewiththeInjury
+Surveillance andEpidemiology Sec-
+tion,Emergency Preparedness and
+InjuryControlBranch,California
+Department ofHealthServices.Mr.
+EllisisaResearchScientist, andDr.
+TrentisaResearchScientistand
+ChiefoftheSection.
+Addresscorrespondence toMr.Ellis,EPIC,
+601N.7thSt.,PO.Box942732,
+Sacramento Ca94234-7320; tel.916-
+323-3611;fax 916-323-3682; e-mail
+<aellis@?hwl.cahwnet.gov>.Swimming PoolDrownings
+andNear-Drownings
+Among California Preschoolers
+SYNOPSIS
+Objective. Todescribe asignificant butpoorlyunderstood publichealthprob-
+lem,theauthorscompiled dataonswimming pooldrownings andnear-drown-
+ingsrequiring hospitalization forCalifomia childrenagesto4.
+Methods. Datafromdeathcertificates wereusedtoanalyzeswimming pool
+drownings, andhospitaldischarge datawereusedtoanalyzenear-drownings.
+Results.AmongCalifomia preschoolers in1993,poolimmersion incidents were
+theleadingcauseofinjurydeathandtheeighthleadingcauseofinjuriesleading
+tohospitalization. Ratesper100,000population were3.2forfatalitiesand11.2
+fornonfatalincidents, withafatality-to-case ratioof1:3.5.Totalchargesforinitial
+hospitalstays(excluding physicians' fees)were$5.2millionfor1227hospital
+days.
+Conclusions. Swimming poolsremainaserioushazardforyoungchildren. Pri-
+maryprevention continues tobeanimportant publichealthgoal.Publichealth
+officialsshouldsupporttheadoption oflawsdesigned toprotectchildrenfrom
+drowning andnear-drownings.
+D_rowningisthethirdmostcommon causeofinjurydeathamong
+childrenyoungerthan4yearsoldintheUnitedStatesandthe
+leadingcauseofdeathinchildrenyoungerthanage5inCali-
+fornia,Arizona, andFlorida.1'2 Studieshavefoundbetween
+twoand20near-drownings foreverydrowning.3-6
+Research hasrevealed somecorrelates ofriskfordrowning andnear-
+drowning. Forexample, risksarehigherforpreschool childrenandteenagers
+thanforotherchildrenandadults,2,4,6,7 formalesthanforfemales,4'6 for
+blacks(exceptpreschoolers) thanforwhitesandHispanics,6 andforresidents
+ofAlaska,Hawaii,theGulfCoast,andFloridathanforresidents ofother
+statesorregions.1 Highdrowning ratesinresidential swimming poolshave
+beendocumented forpreschoolers intheUnitedStates.1'2'4'6'8 Pooldrown-
+ingsmayincreasewithsocioeconomic statusbecauseofalinkbetweenincome
+andpoolownership.6
+Thecostsofnearlydrowning canbehigh,according tothelimitedinfor-
+mationavailable. InCalifornia, 75near-drowning patientswithsevereanoxic
+braindamagearepermanently hospitalized instatedevelopmental centersatan
+January/February 1997*Volume I12 PublicHealthReports 73
+
+Scientific Contribution
+annualcostof$120,000 each.9Themeanacutecarecharge
+foreightnear-drowning patientswas$78,875inaCalifor-
+niachildren's hospitalbetween1984and1986.10Hospital-
+izationchargesfornear-drowning patientsinCalifornia in
+1991rangedfrom$266to$690,940, withameanof
+$13,215.Mostpatientswereadmitted forobservation; only
+2%ofpatients(n=19)hadinitialhospitalization charges
+exceeding $100,000, indicating severeconsequences suchas
+braindamage.Of$11.4millionintotalcharges,$6.6mil-
+lionwasforpoolnear-drownings forwhichchildrenwere
+hospitalized. Nearly73%ofthecostsassociated withthese
+incidents fordrownings andnear-drownings wereforchil-
+drenyoungerthanage6.4
+Although swimming pooldrownings andnear-drown-
+ingsamongpreschoolers areasignificant publichealth
+probleminCalifornia, fewresearchers havelookedcloselyat
+thisphenomenon. Thispopulation-based studyaddresses
+theincidences ofandriskfactorsforswimming pool
+immersions amongCalifornia residents ages1through4.
+Fornear-drownings, weexaminethecostsofandexpected
+sourcesofpaymentforhospitalizations.
+Methods
+Thisstudyused1993mortality dataforswimming pool
+drownings and1993hospitaldischarge datafornear-
+drownings. TheInternational Classification ofDisease,Ninth
+Revision, ClinicalModification (ICD-9-CM), externalcause
+ofinjury(E-code)E910.811 identifies swimming pooldrownings andnear-drownings inbothdatasets. Total
+drownings areencompassed bytheE-codeseriesE910.0to
+E910.9.Inaddition topoolimmersions (E910.8), these
+unintentional incidents involvewater-skiing (E910.0), other
+sports(E910.1-E910.2), nonrecreational swimming ordiv-
+ing(E910.3), thebathtub(E910.4), andunspecified immer-
+sions(E910.9).
+Drownings aredocumented inthedeathrecordsmain-
+tainedbytheCalifornia Department ofHealthServices
+(CDHS). Deathrecordsarenearly100%complete because
+adeathcertificate mustbefiledbeforeaburialorcremation
+permitisissued.CDHS'smergeddeathfile-anaggrega-
+tionofannualdeathrecordfiles-was usedfordrowning
+trenddata.
+Forthisstudy,wedefinednear-drownings ascasesin
+whichvictimswereadmitted to-and discharged alive
+from-non-Federal acutecarehospitals, asdocumented in
+hospitaldischarge summaries. Statelawrequiresthesehos-
+pitalstosenddischarge summaries totheCalifornia Office
+ofStatewide Health Planning andDevelopment
+(OSHPD). Atotalof589of612hospitals(96%)reported
+3.7milliondischarges toOSHPD for1993.California law
+requireshospitals toincludecauseofinjurycodes(ICD-9-
+CME-codes) foreachinjuredpatient'sfirsthospitalization
+foragiveninjury.Therefore, E-codescanbeusedtocalcu-
+latetheincidence ofinjuriesforwhichpatientswerehospi-
+talized.Inadditiontopoolimmersion incidents, weusedE-
+codestodetermine otherleadingcausesofinjurydeathand
+hospitalization.
+Swimming pooldrowning andnear-drowning ratesforCalifornia children agesIto4bysex,age,andrace/ethnicity,
+1993
+Swimmingpooldrownings Swimming poolnear-drownings requiringhospitalization
+Number Percent Rate 95%Cl Number Percent
+Total ...................
+Sex
+Males.................
+Females ................
+Age
+I.....................
+2.....................
+3.....................
+4.....................
+Race/Ethnicity
+White .................
+Black ..................
+Hispanic ...............
+Asian/Other ............
+Unknown ..............71 100 3.2 2.4,3.9
+41
+30
+27
+26
+14
+458 3.6 2.5,4.7
+42 2.7 1.8,3.7
+38 4.5 2.8,6.2
+37 4.4 2.7,6.1
+20
+6 ... ...
+39
+3
+17
+12
+055 4.3 2.9,5.6
+4 ...
+24 ...
+17 ... ...
+0 NA NA250
+163
+87
+108
+82
+35
+25
+137
+22
+63
+25
+3100 11.2
+65 14.3
+35 8.0
+43 18.0
+33 13.8
+14 6.5
+10 5.0
+55 15.0
+9 12.3
+25 6.8
+10 11.1
+I ...
+NOTE:Rateswerenotcomputed forfewerthan20cases.
+Cl=Confidence interval
+NA=Notapplicable
+SOURCES: California Department ofHealthServices, DeathRecords, andCalifornia OfficeofStatewide HealthPlanning andDevelopment, Hospital
+Discharge DataProgram
+January/February 1997 *Volume I12Rate 95%Cl
+9.8,12.6
+12.1,16.5
+6.3,9.6
+14.6,21.4
+10.8,16.8
+4.3,8.7
+3.0,6.9
+12.5,17.6
+7.2,17.4
+5.2,8.5
+6.8,15.5
+*..a
+74PublicHealthReports
+Swimming PoolDrownings
+In1993,ofthe291childrenages1to4admitted to
+inpatient carewithanE-codeof910.8,41diedinhospitals.
+Wedidnotincludethemintheanalysisofincidence ratesto
+preclude duplication, buttheirhospital chargeswere
+included inthecostanalysis.Hospital discharge dataare
+generally reliable,asdemonstrated byOSHPD's reabstrac-
+tionstudiesofhospitalrecords.Intheseperiodicstudies,
+OSHPDstaffabstractdatafromapredetermined sampleof
+caserecordsandcompare theresultswiththeoriginally
+abstracted data.E-codeshavenotbeensubjecttoareab-
+stractionstudy,butcodingeditsareperformed oneverycase.
+California Department ofFinancepopulation projec-
+tionsservedasdenominators forcomputing injuryrates.
+Therace/ethnic categories arewhite,black,Hispanic, and
+Asian/others. Since"Asians"cannotbeseparated from"oth-
+ers"inthesecensusestimates, wereportacombined
+"Asian/others" category.
+Wedefinecosts,orhospitalcharges,aschargesbilledfor
+allservicesrendered(exceptphysicians' fees)duringthefirst
+yearoftheinitialhospitalization. Notallbilledchargesare
+paid,sowereferto"expectedsourcesofpayment" ratherthan
+"sourcesofpayment." KaiserPermanente (alargehealth
+maintenance organization [HMO]) andtheShrinerhospi-
+talsareexemptfromreporting hospitalchargestoOSHPD.
+Therefore, weimputed costsfor26cases(9%)withunre-
+portedorunknown charges(primarily fromtheseinstitu-
+tions)usingmeanchargesforHMOcases($17,530) to
+obtainanapproximation oftotalcharges.
+Definitions. Thefatality-to-case
+ratioisthenumberofpatients
+discharged alivefromthehospi-
+taldividedbythenumberof
+drowning deaths.
+Thehospitalfatalityrateis
+thenumberofpatientswhodied
+inthehospitaldividedbythe
+numberofdischarges.
+Lengthofstayisthenumber
+ofdaysbetweenadmission and
+discharge. Sincebothcostsand
+lengthofstayarestrongly
+skewed,withmanylowvalues
+butsomeveryhighoutliers,
+mediansareanappropriate mea-
+sureofcentraltendency tochar-
+acterizethesepatients. Means
+arealsopresented topermit
+comparisons withotherstudies.
+Results
+In1993,drowning wasthe
+leading causeofinjurydeath
+amongchildren ages1to4in
+California, with121deaths,or30%ofallinjurydeathsamongchildrenages1to4.Immer-
+sionincidents atpoolsandothersitesweretheeighthlead-
+ingcauseofinjuriesleadingtohospitalization (n=326,or
+2%ofallhospitalizations inthisagegroup)after,inorder:
+falls;unintentional poisoning; beinghitbyacar;burns;
+beinginjuredasamotorvehicleoccupant; foreignbodyin
+respiratory tract,eye,orelsewhere; andbeingstruckbyan
+object.
+Trenddatademonstrate thecontinuing importance of
+swimming pooldrownings andnear-drownings for
+preschool children.Between 1985and1993,theproportion
+ofswimming pooldrownings grewfrom47%ofalldrown-
+ingsto64%.Theactualnumberofswimming pooldrown-
+ingsofchildrenages1to4climbedfrom53in1985to71
+in1993,a34%increase.Incontrast,near-drownings requir-
+inghospitalization declinedoverthethreecalendaryearsfor
+whichE-codes areavailable, from352in1991to291in
+1993,adecreaseof17%.
+For1993,theincidence ratefordrownings was3.2per
+100,000,theratefornear-drownings requiring hospitaliza-
+tionwas11.2per100,000.Thefatality-to-case ratiofor
+bothcombined (71/250) was1:3.5.Thehospitalfatalityrate
+(41/291) was14.1per100hospitalized cases.
+Thecharacteristics ofvictimsappearintheTable.Fifty-
+eightpercentofthechildrenwhodiedasaresultofpool
+drownings wereboys,aswerenearlytwo-thirds (65%)of
+thoseinvolved inpoolnear-drownings forwhichchildren
+werehospitalized. Theratiosofboystogirlswere1.4:1for
+January/February 1997 *Volume I12Swimming poolandtotaldrownings amongchildren ages1-4,California,
+1985-1993
+140
+120-120- \~~~~Totaldrownings/
+100 \
+80
+ E--
+z60 ' Pooldrownings ,-' ,
+40
+20
+0-l l l
+198519861987198819891990199119921993
+SOURCE California Department ofHealthServices, DeathRecords
+PublicHealthReports 75
+Scientific Contribution
+drownings and1.9:1fornear-drownings. Themodalage
+groupforbothfatalandnonfatalimmersion incidents was
+1-year-olds, withnumbers declining witheachadditional
+yearofage.Whitechildrenages1to4hadthelargestrate
+ofnonfatalnear-drownings inswimming pools(15.0),fol-
+lowedbyblackchildren (12.3),"Asian/other" children
+(11.1),andHispanicchildren(6.8).
+Immersion incidents inCalifornia peakinthesummer-
+time.In1993,nearlyhalfthehospitalizations forswimming
+poolnear-drownings (46%)occurredduringJune,July,and
+August,with18%inAugustalone.Drownings followed a
+similarpattern.
+Forall291hospitalizations in1993(250discharged
+aliveplus41whodiedinthehospital), hospitalcharges
+amounted to$5,217,957, withameanof$17,931anda
+medianof$4020.The4.5-
+folddifference between
+meanandmedianreflects
+theinfluence ofasmall
+numberofcaseswithvery
+highchargesand,thus,a
+highlyskeweddistribution.
+Therangeextendsfrom
+$560foranHMOpatient
+whowasadmitted anddis-.
+chargedonthesamedayto
+$558,013 foraMedi-Cal
+patientwithahospitalstay
+of157days,averaging
+$3554perday.Totalcharges
+billedtoexpected payment sourceswere$2.3millionto
+Medi-Cal, $1.6milliontoHMOs,and$1.0milliontopri-
+vateinsurance companies. Meanandmedianchargesare
+$22,782and$3958forMedi-Cal, $17,530and$5100for
+HMOs,and$15,728and$4093forprivateinsurance.
+Medi-Cal wastheexpected sourceofpayment forthe
+largestshareofcosts(34%),followedbyHMOs(31%)and
+privateinsurance (22%).Butprivatepayerswerethe
+expectedpayment sourcefor64%oftotalcases,compared to
+36%forgovernment payers.
+Victimsofnear-drownings in1993spentatotalof1227
+daysinthehospital,withameanstayof4.2daysanda
+medianstayofoneday.ForchildrencoveredbyMedi-Cal,
+themeanstaywas6.0daysandthemedianstayoneday,
+withatotalof595hospitaldays.
+Atotalof41victims(14%)diedinthehospital,and229
+(79%)hadaroutinedischarge totheirhomes.Twelve(4%)
+weredischarged toanothershort-term acutecarehospital,
+indicative ofapooroutcome.
+Discussion
+Swimming poolsaredangerous places.Givenratesof
+3.2per100,000fordrownings and11.2per100,000for
+near-drownings, primaryprevention isanimportant public
+healthgoal.Thisgoalisparticularly pertinent tostatessuchasCalifornia, Arizona, andFloridawithlong,warmsum-
+mersandlargenumbersofswimming pools.Aprivatepool
+atasinglefamilyhomeisthesiteformostswimming pool
+drownings andnear-drownings.6 Sincechildreninhigher
+incomefamiliesprobably havemoreexposure toprivate
+pools,6ourfindingthatprivatepayersweretheexpected
+sourceofpaymentfor64%ofnear-drowning casesamong
+childrenages1to4isnotsurprising. (Privatepayerswere
+theexpected sourceofpaymentfor42%ofallinjury-related
+hospitalizations ofchildrenofthisagegroup.)Thepublic
+useCalifornia mortality andhospitaldischarge datasetsdo
+notlistindividual identifiers anddonotpermitthereview
+ofindividual casesforadditional details.However, theliter-
+atureisclearthatapproximately one-half totwo-thirds of
+allimmersion incidents occurinthechild'sownhomepool,
+withtheremainder occur-
+ringattheresidence ofa
+friend,relative, orneigh-
+Trenddataarenoten-
+couraging becausetheyshow
+nodecline inincidence.
+* 6 Drownings inswimming
+poolsshownoincreasefrom
+1985through1993;however,
+theyhaveincreased asapro-
+portionofallimmersion inci-
+dentsduringthisperiod.
+Hospitalizations fornonfatal
+incidentsdeclinedduringthe
+1991-1993 period,suggesting thatanincreasing proportion of
+youngchildrenareeitherdyingatthesceneorbeingtreatedas
+outpatients ratherthanbeingadmitted tothehospital.
+Ourdataindicatethattheratesofdrownings andnear-
+drownings werehigheramongboysthangirls,higher
+amongwhitechildrenthannonwhite children, andhigher
+among1-year-olds thanotheragegroupsstudied.Theratio
+ofmalestofemaleswas1.4:1forfataland1.9:1fornonfatal
+incidents. Oneearliernationwide studyreported amale-to-
+femaleratioof1.8:1forbothfatalandnonfatalimmersions
+atpoolsandothersites.6Amorerecentstudyofdrownings
+amongchildrenyoungerthanage5foundamale-to-female
+ratioof1.6:1,similartoourratioof1.4:1.17Previous
+researchhasinvariably foundyoungchildrentobemostat
+riskcompared toallotheragegroups.2A4p6 Ourearlierstudy
+foundthe1to5agegrouptohavenear-drowning rates
+higherthananyotheragegroup.4Incontrasttootherstudy
+findingsthatblackchildrenages1to57,17hadthehighest
+nationwide drowning ratesandthatblackchildrenages1to
+5hadthehighestnear-drowning ratesinCalifornia,4 our
+findingforchildren 1-4yearsoldwasconsistent withdata
+citedbyWintemute forchildren 1-3yearsold:whitechil-
+drenhadahigherratethanblackchildren.6 Thefactthat
+ourstudylookedonlyatswimming poolincidents may
+explainwhywhitechildrenhadhigherratesthanblack
+children.
+January/February 1997*Volume 12 76PublicHealthReports
+
+Swimming PoolDrownings
+Inthisstudy,thefatality-to-case ratiowas1:3.5,which
+fallswithintherangeoftheratiosfoundinotherstudies
+(1:2.9through1:7.2).1,6,18Isolationpoolfencing,asdefinedbysafetystandards in
+theUniformBuildingCode,hasbeenshowntobeeffective
+inpreventing drowning.7 Isolationpoolfencesseparatethe
+homefromthepool,arebuilttobeunclimbable, andhave
+self-closing andself-latching gates.Theirpurposeistostop
+childrenfrompassingunnoticed fromthehometothepool.
+Suchfencinghasbeenfoundtoreduceswimming pool
+drownings andnear-drownings byasmuchas50%to80%,
+according tostudiesinAustralia andNewZealand.6'19
+Consistent withtherecommendation oftheAmerican
+MedicalAssociation, theAmerican Academy ofPediatrics,
+andmanyothernationalorganizations tofenceresidential
+pools,someUSjurisdictions
+haveadopted regulations
+requiring fencing.Maricopa
+County,Arizona,foundthat
+51%ofits137drownings
+andnear-drownings in
+1988-1989couldhavebeen
+prevented bypoolfencing
+withsafetygatesandlatches
+andnowhasamandatory
+fencingrequirement.20 A
+recentreportindicates that
+swimming pooldrowning
+andnear-drowning inci-
+dentsamongchildrenages4
+andyoungerdroppedfrom102in1988to44in1994fol-
+lowingtheadoption ofbarrierlegislation.13
+In1996,California adoptedastatewide barriercode
+basedonAppendix Chapter12,Division 111,oftheUni-
+formBuildingCode.Thisnewcodestipulates that,effective
+January1,1998,aneworrefurbished poolcannotreceivean
+approvedbuildingpermitwithoutanisolationfenceorother
+devicetoprotectchildren.Thislawshouldreducechild
+drowning ratesinthelongrun,butitseffectwillbemuted
+becauseexistingandunrenovated poolsarenotcovered.
+Inadditiontolegalmeasures, aneducational strategyis
+important todiminish theeffectsofimmersion incidents
+thatarenotprevented. Caretakers ofchildrenshouldbe
+taughtresuscitation techniques, which,ifadministered
+immediately following immersions, areassociated withbet-
+terneurological outcomes.21x~~=~~.e
+References1.Hazinski MF,Francescutti LH,LapidusGD,MicikS,RivaraFP
+Pediatric injuryprevention. AnnEmergMed1993;22(pt2);456-467.
+2.FieldsAI.Near-drowning inthepediatricpopulation. CritCareClin
+1992;8:113-129.
+3.Olshaker JS.Neardrowning. EmergMedClinNorthAm1992;1O:339-350.
+4.EllisAA,TrentRB.Hospitalizations forneardrowning inCalifornia:
+incidence andcost.AmJPublicHealth1995;85:1115-1118.
+5.Consumer ProductSafetyCommission [US].Briefingpackageon
+poolsafety.Washington DC:Consumer ProductSafetyCommission;
+1988.
+6.Wintemute GJ.Childhood drowning andnear-drowning inthe
+UnitedStates.AMJDISCHILD1990;144:663-669.
+7.Wintemute GJ.Evaluation ofmethodstopreventchildhood drown-
+inginresidential swimming pools.CalifMorbidity 1992;27-28.
+8.FloodTJ,PorterRS.Water-related incidents in1993inMaricopa
+County.PhoenixOfficeofChronicDiseaseEpidemiology, Arizona
+Department ofHealthServices;1994.
+9.California NetworkforDrowning Prevention. Policystatement: the
+needforfour-sided poolfencing:alookattheuniformbuildingcode
+appendixforswimming poolbarriers.PleasantHill(CA):California
+NetworkforDrowning Prevention; 1992Oct.
+10.BrillD.Thecostofdrowning. In:BrillD,MicikS,YuwilerJ,editors.
+Childhood drownings: current
+issuesandstrategies forpreven-
+tion.Newport Beach(CA):
+Consumer Product Safety
+Commission, 1987:45.
+11.World HealthOrganization.
+International classification of
+diseases:manualoftheinterna-
+tionalstatistical dassification of
+diseases,injuries,andcausesof
+death.9threv.clinicalmodifica-
+tion.Geneva:VHO;1977.
+12.Wintemute GJ.Drowning in
+earlychildhood. PediatrAnn
+1992,21:417-421.
+13.FloodTJ,PorterRS.Water-
+relatedincidents in1994in
+Maricopa County. Phoenix:
+OfficeofChronicDiseaseEpidemiology, ArizonaDepartment of
+HealthServices;1995.
+14.HassallIB.Thirty-six consecutive under5yearolddomestic swim-
+mingpooldrownings. AustPaediatrJ 1989,25:143-146.
+15.PresentP.Childdrowning study:areportontheedpidemiology of
+drownings inresidential poolstochildrenunderagefive.Washington
+DC:U.S.Consumer ProductSafetyCommission; 1987.
+16.MeyersH,DaleA,BoltonS.Immersion surveillance summary, 1991
+and1992.SantaAna(CA):CountyofOrangeHealthCareAgency;
+1993.
+17.Injurymortality: national summary ofinjurymortality data,
+1986-1992. NationalCenterforInjuryPrevention andControl,Cen-
+tersforDiseaseControlandPrevention, February 1995.
+18.LevinDL,MorrissFC,ToroLO,TurnerGR.Drowning andnear-
+drowning. PediatrClinNorthAm1993;40:321-336.
+19.NationalCenterforEnvironmental HealthandInjuryControl[US].
+Proceedings oftheSettingtheNationalAgendaforInjuryControlin
+the1990s,theThirdNationalInjuryControlConference; 1991April
+22-25;Denver,CO.
+20.FloodTJ,AaickinM,Englender SJ,TucjerD.Childdrownings and
+neardrownings associated withswimming pools,Maricopa County,
+Arizona, 1988and1989.MMWR MorbidMortalVVklyRep
+1990:39:441-442.
+21.Kyrlacou DN,ArcinueEL,PeekC,KrausIF.Effectofimmediate
+resuscitation onchildren withsubmersion injury.Pediatrics
+1994;94:137-142.
+January/February 1997*Volume 12 PublicHealth Reports 77
+

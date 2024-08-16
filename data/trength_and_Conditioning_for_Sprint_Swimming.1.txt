@@ -1,0 +1,747 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/259575196
+Strength and Conditioning for Sprint Swimming
+Article    in  Strength & Conditioning Journal  · Dec ember 2013
+DOI: 10.1519/S SC.0000000000000019
+CITATIONS
+61READS
+53,611
+6 author s, including:
+Chris Bishop
+Middlese x Univ ersity, UK
+282 PUBLICA TIONS    5,913  CITATIONS    
+SEE PROFILE
+Paul R ead
+St Mar y's Univ ersity, Twick enham
+148 PUBLICA TIONS    4,836  CITATIONS    
+SEE PROFILE
+Perry St ewart
+16 PUBLICA TIONS    666 CITATIONS    
+SEE PROFILE
+Shy am Chav da
+Middlese x Univ ersity, UK
+60 PUBLICA TIONS    1,402  CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Chris Bishop  on 10 Oct ober 2017.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+Strength and
+Conditioning for Sprint
+Swimming
+Chris Bishop, MSc,1Jon Cree, MSc,1Paul Read, MSc, CSCS,2Shyam Chavda, MSc,1Michael Edwards, MSc,1
+and Anthony Turner, MSc, CSCS*D1
+1School of Health and Social Sciences, London Sport Institute, Middlesex University, London, United Kingdom; and
+2School of Sport, Health, and Applied Science, St. Mary’s University, London, United Kingdom
+Supplemental digital content is available for this article. Direct URL citations appear in the printed text and are provided
+in the HTML and PDF versions of this article on the journal’s Web site (http://journals.lww.com/nsca-scj).
+ABSTRACT
+CONSIDERABLE IMPROVEMENTS
+C A NB EM A D EF R O ML A N D - B A S E D
+STRENGTH AND CONDITIONING
+(S&C) FOR SPRINT SWIMMING. THE
+BASIS OF TRAINING SHOULD AIM
+TO ENHANCE PERFORMANCE,
+WITH PARTICULAR FOCUS ON
+THE START AND TURN, WHERE
+THE S&C COACH CAN ATTEMPT
+TO MAXIMIZE GROUND REACTION
+FORCES. THE POTENTIAL FOR
+INJURIES IN BOTH THE LOWER
+AND UPPER BODY SHOULD ALSO
+BE ADDRESSED, WITH SPECIFIC
+A T T E N T I O NO NT H EK N E EA N D
+SHOULDER JOINTS. THEREFORE,
+THE PURPOSE OF THIS ARTICLE
+WAS TO PROVIDE S&C PROFES-
+SIONALS WITH A REVIEW OF
+EXISTING LITERATURE SUR-
+ROUNDING THE BIOMECHANICS
+OF STARTS AND TURNS AND HOW
+ITS APPLICATION CAN ENHANCE
+SWIMMING PERFORMANCE. FOR
+A VIDEO ABSTRACT OF THIS
+ARTICLE, SEE VIDEO, SUPPLE-
+MENTAL DIGITAL CONTENT 1,
+HTTP://LINKS.LWW.COM/SCJ/A130.
+INTRODUCTION
+Strength and conditioning (S&C) is
+an essential aspect of performance
+enhancement for sprint swimmingand is often used as a complimentary
+training modality to in-pool condition-
+ing. Swimming has unique demands as
+a sport, but weight-room training can
+offer considerable beneﬁts to comple-
+ment the swimmer’s performance.
+There are a number of issues relating to
+swimming that the S&C coach must take
+into consideration. Rasulbekov et al. (18)
+suggested that the drag of the water
+acts as a natural decelerator, increasing
+the likelihood of tur bulence (unwanted
+side-to-side movement during stroke pat-
+tern). In addition, efﬁcient stroke pattern,
+eradicating muscle imbalances, and sufﬁ-
+cient agonist versus antagonist strength
+ratios should also be considered before
+embarking on program design (12–14).
+However, more recent research has sug-
+gested that the S&C coach is most likely
+to make their greatest contribution by
+inﬂuencing the moments the swimmer
+has access to ground reaction forces
+(GRFs), namely the dive and turn (4).
+Therefore, the aim of this article will
+focus on the importance of the start
+and turn and the associated physical
+components that enhance swimming
+performance. The example training pro-
+grams are aimed at enhancing perfor-
+mance for the sprint swimmer.
+IMPORTANCE OF S&C FOR
+STARTS AND TURNS
+This section will provide the reader
+with an insight into existing literatureconcerning training strategies used to
+enhance start/dive performance. Lyttle
+and Benjanuvatra (11) (Table 1) identiﬁed
+that a strong start can account for 30% of
+a 50-m race and suggest that a strong
+dive is essential to maximize perfor-
+mance. The time spent on the blocks
+to produce that force was measured at
+0.79 second (10), highlighting the need
+for both strength and power (including
+rate of force development [RFD]).
+Bishop et al. (2) assessed the effects of
+plyometric training on block start perfor-
+mance. The intervention consisted of 2
+individual hour-long sessions using
+a wide range of exercises starting with
+low-intensity plyometrics, such as
+ankling, progressing onto countermove-
+ment jumps (CMJs), and squat jumps
+(SJs), and ﬁnishing with a variety of drop
+jump variations. Eight weeks of plyomet-
+ric training provided a mean reduction of
+0.59 second in start time, translating to
+a signiﬁcant improvement in start perfor-
+mance. Not only did the swimmers show
+a reduction in time but also an increase in
+the distance covered from when the
+head contacted the water.
+Poole and Maneval (16) investigated
+the effects of 10 weeks of depth jump
+KEY WORDS:
+sprint swimming; ground reaction
+forces; dive; swimming turn
+Copyright /C211National Strength and Conditioning Association Strength and Conditioning Journal | www.nsca-scj.com 1
+
+training and its effects on vertical jump
+performance. Forty depth jumps were
+performed either 2 or 3 times a week.
+The results demonstrated signiﬁcant
+improvements in jump height for both
+protocols but also identiﬁed that there
+was no signiﬁcant difference between
+2- or 3-day training protocols. West
+et al. (24) looked at strength and power
+predictors of starts in international
+sprint swimmers and their correlation
+with 15 m time, peak vertical and hor-
+izontal force (Table 2). They found sig-
+niﬁcant correlations between the 1
+repetition maximum (1RM) back
+squat, peak power, and jump height
+(all speciﬁc to producing high GRFs).
+They concluded that to improve swim
+start performance, strength and power
+exercises should be incorporated into
+the programming.
+In addition to the evidence presented
+above, the S&C coach should be aware
+of the different starts available to theswimming athlete. Holthe and
+McClean (6) and Lee et al. (10) studied
+biomechanical analyses of 2 differing
+starts using 2 digital high speed cam-
+eras identifying block start time, ﬂight
+time, water angle entry, and time to
+12 m. Both studies identiﬁed that the
+track (split stance) start was superior,
+allowing the athletes to dive further
+with an increase in water entry speed.
+Speciﬁcally, mean time spent on the
+blocks for the track start was 0.79 sec-
+ond, which was a signiﬁcant improve-
+ment from the 0.84 second spent on
+the blocks for the grab start. This trans-
+lated to quicker take-off velocity (4.32
+versus 4.2m/s), greater entry velocity
+(5.31 versus 5.24 m/s), higher water
+angle entry (40.9 versus 37.6 8), and
+reduced time to the 12 m distance
+(5.45 versus 5.53 seconds) (10). In light
+of the evidence presented regarding
+plyometrics and its effects on the start,
+the differences between the track and
+grab start may provide the S&C coach
+with useful insight into sport-speciﬁc
+exercises to assist with this aspect of
+the race. Figure 1A and 1B depicts both
+the grab and track starts, respectively,
+that Lee et al. (10) assessed.
+The turn is the second point during
+races that provides the athlete with
+GRFs. It may be noted that in
+a 50-m long course race, there will be
+no turn, as opposed to a single turn in
+a 50-m short course race. Potdevin
+et al. (17) identiﬁed that time spent
+on the wall for swimmers during the
+turn was between 0.3 and 0.5 seconds
+and represented 1.5% of the total race
+time in a 50-m event. The positions
+adopted by the swimmers during theturn, as they apply GRF, are similar to
+that of a CMJ. One may speculate that
+much like the dive, improvement here
+can be made by incorporating plyo-
+metric training. The simulated pattern
+of a CMJ is what the swimmers seem
+to perform, and therefore, variations of
+this exercise may help to produce
+greater push-off distances.
+Chow et al. (3) analyzed the turning tech-
+niques of 19 elite swimmers. It was noted
+that the average speed on approach to
+the wall was greater in shorter distances,
+as represented by 1.67 m/s covered in the
+100-m events compared with 1.49 m/s in
+t h e4 0 0 - me v e n t s .T h ed i s t a n c ec o v e r e d
+from push off decreased as race distance
+increased as well. The 100-m event por-
+trayed push off distances of 5.07 m in
+comparison with 4.71 m in the 400-m
+event (3). The explanation for this
+decrease in push-off distance was logi-
+cally suspected to be down to a less force-
+ful thrust, which was deemed an
+indication of energy consumption for
+the longer distances.
+Theoretically, the S&C coach would
+also address the physiological issues
+associated with the sport/event in
+question. However, the physiology of
+swimming, although important, would
+seem not to affect the methods for
+enhancing the start or turn. Therefore,
+this section can be described as falling
+out of the remit of the S&C coach.
+TESTING AND TRAINING
+POWER
+Research has identiﬁed, both the SJ
+and CMJ have been associated with
+the start and the turn, respectively,Table 1
+Percentage of race distance
+taken up by the start (0–15 m)
+for various swimming
+distances (11)
+Distance (m) Percentage of race
+time (approx.)
+50 30
+100 15
+200 7.5
+400 4
+800 2
+1,500 1
+Table 2
+Strength and power predictors of starts in international sprint swimmers and their correlations with 15 m time, peak
+vertical and peak horizontal force (24)
+Variable Jump height (cm) Peak power (W) RFD (N/s) 1RM back squat (kg)
+15 m time (s) 20.69* 20.85** 20.56 20.74**
+Peak vertical force 0.78** 0.79** 0.30 0.62*
+Peak horizontal force 0.73* 0.87** 0.40 0.71*
+*Signiﬁcant at p,0.05; **signiﬁcant at p,0.01.
+RFD5rate of force development.Strength and Conditioning for Swimming
+VOLUME 35 | NUMBER 6 | DECEMBER 2013 2
+
+and are therefore deemed the most
+appropriate power tests for sprint
+swimmers (3,4,6,9,17). With the split
+stance of the track start in mind (6),
+imbalances in lower limb strength
+and power may exist in swimmers;
+therefore, single-leg jump tests (in
+addition to 2-legged SJ and CMJ tests)
+could provide some useful information
+here regarding lower limb asymmetry.
+Large differences will assist the S&C
+coach with tailored program design
+speciﬁc to the athlete.
+LOWER BODY STRENGTH
+West et al. (24) found that the 1RM
+back squat was signiﬁcantly corre-
+lated with time to 15 m, peak vertical
+force, and peak horizontal force.
+Rodeo (20) also identiﬁed the domi-
+nant use of the glute complex and
+quadriceps group during the majority
+of phases in the breaststroke, which
+would support the notion that the
+1RM back squat test may be the most
+appropriate.UPPER BODY STRENGTH
+The breaststroke has unique demands
+in comparison to the other 3 strokes.
+Freestyle, backstroke, and butterﬂy
+strokes require much greater mobility
+and range of motion because of the
+high demand for rotation in the shoul-
+der joint. Although still prominent,
+Rodeo’s kinesiological analysis (20)
+stated that shoulder protraction,
+adduction, and abduction were more
+associated with the breaststroke. Nuber
+et al. (15) provided supporting evi-
+dence to the notion of less rotational
+requirement in the breaststroke. A ﬁne
+wire electromyographical analysis of
+the muscles used in and around the
+shoulder during freestyle, breaststroke,
+and butterﬂy strokes was analyzed.
+The 8 muscles analyzed were biceps,
+subscapularis, latissimus dorsi, pector-
+alis major, supraspinatus, infraspinatus,
+serratus anterior, and deltoid. The
+results suggested that the freestyle
+and butterﬂy are frequently associated
+with impingement syndrome becauseof the repetitive nature of rotation, but
+this did not apply to the breaststroke.
+What was of note was that the latissi-
+mus dorsi and pectoralis major were
+described as the “pull-through muscles,”
+indicating their importance in the
+“effort” phase of the stroke, whereas,
+supraspinatus, infraspinatus, and serra-
+tus anterior were predominantly “recov-
+ery phase” muscles (15). This may
+suggest that both push and pull tests
+would be necessary for the breaststroke
+swimmer. The current gold standard
+ﬁeld tests to measure upper body
+strength are the 1RM bench press and
+1RM pull-up. It is important to check
+the ratio between these, as appropriate
+levels may optimize movement accu-
+racy throughout the stroke, potentially
+reducing the drag effect. In support,
+this balance ratio is associated with
+increased power (1), limb speed, and
+movement accuracy (7). It is important
+to note that the majority of force (from
+the upper body) being applied comes
+from the back muscles (15). Excessive
+Figure 1. (A and B) Grab start and track start, respectively (10).
+Strength and Conditioning Journal | www.nsca-scj.com 3
+
+training of the chest muscle group could
+be counter-productive as these muscles
+are effectively producing force in the
+wrong direction. Table 3 shows a pro-
+posed testing battery for the sprint
+swimmer.
+INJURY ANALYSIS
+LOWER BODY
+Throughout the 2003–2004 National
+Collegiate Athletic Association (NCAA)
+college season, Grote et al. (5) recorded
+the results from a survey sent out by
+Stanford University to the top 25
+NCAA teams in that season. Two
+hundred and ninety-six competitive
+swimmers (198 male and 98 female
+swimmers) provided feedback regarding
+hip adductor injuries they experienced
+that academic year. The male breast-
+stroke swimmers swam a mean distance
+of 9,017 67,162 m per week in compar-
+ison with the individual medley swim-
+mers who swam 5,853 61,961 m
+(breaststroke) per week. Grote et al.
+(5) noted that during the ﬁnal phase
+of the breaststroke kick, peak adduction
+velocity of the femur can reach 245 8per
+second, thus offering an explanation as
+to the vulnerability of the hip adductor
+complex during the breaststroke. The
+hip adductor injuries experienced by
+breaststroke competitors in this season
+was signiﬁcantly higher than individual
+medley or nonbreaststroke swimmers.
+These results are shown in Table 4.Literature on swimming has also
+shown the knee joint to be at risk
+of injury in addition to the hip adduc-
+tor complex. Previous research by
+Keskinen et al. (8) acknowledged
+that a combination of high angular
+velocities and excessive tibial external
+rotation relative to the femur was a sig-
+niﬁcant contributor to overuse move-
+ment patterns in hip adduction and the
+knee joint. Stulberg et al. (22) and
+Rovere and Nichols (21) addressed
+the associated risk factors and treat-
+ment of the breaststroker’s knee and
+identiﬁed that patella-femoral osteoar-
+thritis was a prominent by-product of
+the breaststroke kick and reduced
+internal rotation of the hip. It was sug-
+gested that the treatment should
+involve working on technical aspects
+of the breaststroke kick (21,22). For
+the S&C coach, ensuring the hip
+adductors can work dynamically in
+a full range of motion would seem an
+important part of program design to
+compliment this aspect of the breast-
+stroke kick. That said an exercise
+such as lateral lunges would provide
+good use of gluteal activation on one
+side while simultaneously offering
+ﬂexibility to the opposing adductor
+complex.
+UPPER BODY
+Richardson et al. (19) studied the shoul-
+der in competitive swimming at U.S.
+training camps leading up to an Olympic
+Games. It was reported that shoulder
+pain was the most common injury in
+competitive swimming. In addition, the
+severity of the problem was claimed to
+increase with the caliber of the athleteand be more associated with sprint
+events as opposed to distance swimming
+(19). During the freestyle, Richardson
+et al. (19) reported that a common trait
+among swimmer is for their elbows to
+“drop” when fatigued. This causes
+increased external rotation of the shoul-
+der joint during the “pull-through” phase
+of the stroke, which is deemed to cause
+a mechanical disadvantage. Training the
+adductors of the shoulder and internal
+rotators is thought to assist in the pre-
+vention of this common ﬂaw in tech-
+nique (19) and thus may assist in the
+strength and stability of the joint.
+Wolf et al. (25) addressed injury pat-
+terns in NCAA Division 1 swimmers
+from 2002 to 2007 at the University of
+Iowa. It was suggested that the highest
+injury incidence was reported in the
+freestyle but that this may have been
+because of it being the most common
+stroke swam. Fifty of 94 swimmers
+swam freestyle, with 58% reporting
+injuries throughout this period. The
+highest injury percentage (90%)
+occurred in the breaststroke but only
+10 swimmers from this stroke took
+part in this study. It was also suggested
+that there was no signiﬁcant associa-
+tion of stroke swam and time missed,
+or body part injured. However, Wolf
+et al. (25) did report that the shoulder
+and upper arm were the most com-
+m o ni n j u r ys i t ew i t h7 8o f9 4s w i m -
+mers reporting injuries and time off
+from training.
+APPLICATION TO S&C
+The purpose of this section was to out-
+line speciﬁc strategies that the S&C
+Table 4
+Results from the 2003–2004 season of 296 swimmers from 25 NCAA teams
+regarding hip adductor injuries for the breaststroke, individual medley,
+and nonbreaststroke events (5)
+Stroke Injury rate (2003–2004) Injury rate (ever)
+Breaststroke ( n5130) 43% 66%
+Individual medley ( n580) 22% 39%
+Nonbreaststroke/non-IM ( n586) 6% 17%
+NCAA 5National Collegiate Athletic Association.Table 3
+A possible testing battery for the
+sprint breaststroke swimmer
+Physical
+parameterTest
+Power Countermovement
+jump
+Squat jump
+Lower body
+strength1RM back squat
+Upper body
+strength1RM bench press
+1RM pull-up
+1RM51 repetition maximum.Strength and Conditioning for Swimming
+VOLUME 35 | NUMBER 6 | DECEMBER 2013 4
+
+coach may be able to use to enhance
+performance for various components
+of a race. To speciﬁcally target the
+start, plyometric exercises, such as
+split broad jumps or split SJ (exercises
+that work on improving both horizon-
+tal and vertical power), would be
+appropriate for complimenting the
+s p l i ts t a n c es e e ni nt h et r a c ks t a r t .
+However, the countermovement associ-
+ated with the turn would imply that
+plyometric exercises, such as CMJs
+and drop jumps, may be a more appro-
+priate training method for this section of
+the race. In addition, the requirement for
+high levels of RFD (for the start) would
+support the notion for weightlifting,
+namely the clean & jerk and snatch.
+Both weightlifting and plyometric train-
+ing are believed to be a very viable train-
+ing method for enhancing both the start
+and the turn. Before the Olympic-style
+lifts can be taught safely and effectively,there is a requirement for a large foun-
+dation of strength training to be under-
+taken (23).
+With respect to the lower body, lifts
+such as the back squat and deadlift
+will provide the necessary foundation
+for developing the gluteal complex
+and quadriceps in preparation for
+progressing on to weightlifting. Lifts
+that support upper body develop-
+ment should include push presses,
+bent-over rows, and pull-ups. Collec-
+t i v e l y ,t h e s el i f t sw i l lp r o m o t eh i g h e r
+GRFs and upper body postural
+strength, providing a solid base for
+progressing onto higher velocity
+lifts/movement patterns, such as
+weightlifting and plyometrics. Table 5
+provides example strength and power
+programs that the S&C coach may
+consider for enhancing swimming
+performance.CONCLUSION
+The basis of dry-land training should
+be centered around symmetry and
+aiming to enhance strength and
+power to improve performance for
+the dive and turn. Existing research
+has demonstrated that plyometric
+training has proven to be a viable
+training method for enhancing both
+these aspects of a race. For strength
+training, developing lower body
+strength through exercises such as
+back squats has also been shown to
+have positive results on start perfor-
+mance. Strengthening the adductor
+complex must also be considered
+in program design for injury preven-
+tion purposes. Exercises such as lateral
+lunges will not only offer the adductor
+complex strength but also simulta-
+neously increase their range of motion.
+Because of the nature of having no real
+“off-season”, periodization for swim-
+ming can be considered a challenge.
+That said concurrent training for
+strength and power may be the most
+appropriate forms of training to maxi-
+mize performance.
+Conﬂicts of Interest and Source of Funding:
+The authors report no conﬂicts of interest
+and no source of funding.
+Chris Bishop is
+the lead strength
+and conditioning
+coach for Opti-
+mum Elite Fitness
+and a lecturer on
+the BSc Sport &
+Exercise Science
+Program at the
+London Sport
+Institute, Middlesex University.
+Jon Cree is
+a strength and
+conditioning
+coach and a lec-
+turer in Sport &
+Exercise Science
+and Sport &
+Exercise Rehabilitation at the London
+Sport Institute, Middlesex University.Table 5
+Example strength and power programs
+Example strength session for the breaststroke sprint swimmer
+Exercise Sets Repetitions Load Rest
+Squat clean 3 3 85% 1RM 3 min
+BB back squat 4 5 87.5% 1RM 4 min
+Box jumps 4 5 B-W (perform in rest)
+Bent-over row 4 5 87.5% 1RM 4 min
+DB lateral lunge 3 6 each leg — (perform in rest)
+BB push press 4 5 87.5% 1RM 4 min
+BB rollouts 3 10 — (perform in rest)
+Example power session for the breaststroke sprint swimmer
+Exercise Sets Repetitions Load Rest
+Hang clean 4 2-3 75% 1RM 4 min
+Split broad jump 4 4 B-W (perform in rest)
+BB back jerk 4 2-3 75% 1RM 4 min
+CMJ 4 4 B-W (perform in rest)
+BB back squat 4 3 90% 1RM 4 min
+Bent-over row 4 3 90% 1RM (perform in rest)
+1RM51 repetition maximum; BB 5barbell; B-W 5body weight; CMJ 5countermovement
+jump; DB 5dumbbell.
+Strength and Conditioning Journal | www.nsca-scj.com 5
+
+Paul Read is
+a senior lecturer in
+strength and con-
+ditioning at St
+Mary’s Univer-
+sity, London.
+Shyam Chavda
+is an academy
+strength and
+conditioning
+coach for British
+Fencing and
+QPR Football
+Club and the
+sport technician
+and weightlift-
+ing coach at the London Sport Institute,
+Middlesex University.
+Michael
+Edwards is a ses-
+sional lecturer
+and strength and
+conditioning
+coach at the
+London Sport
+Institute, Mid-
+dlesex University.
+Anthony
+Turner is the
+program leader
+for the MSc in
+strength and
+conditioning at
+the London Sport
+Institute, Middlesex University.
+REFERENCES
+1. Baker D and Newton RU. Acute effect on
+power output of alternating an agonist and
+antagonist muscle exercise during complex
+training. J Strength Cond Res 19: 202–
+205, 2005.
+2. Bishop DC, Smith RJ, Smith MF, and
+Rigby HE. Effect of plyometric training on
+swimming block start performance inadolescents. J Strength Cond Res 23:
+2137–2143, 2009.
+3. Chow JW-C, Hay JG, Wilson BD, and
+Imel C. Turning techniques of elite
+swimmers. J Sports Sci 2: 241–255, 2007.
+4. Fig G. Why competitive swimmers need
+explosive power. Strength Cond J 32: 84–
+86, 2010.
+5. Grote K, Lincoln TL, and Gamble JG.
+Hip adductor injury in competitive
+swimmers. Am J Sports Med 32: 104–108,
+2004.
+6. Holthe MJ and McClean SP. Kinematic
+comparison of grab and track starts in
+swimming. Proceedings of Swim Sessions:
+XIX International Symposium on
+Biomechanics in Sports. University of San
+Francisco, San Francisco, CA, 31–34,
+2001.
+7. Jaric S, Radovanovis S, Milanovic S,
+Ljubisavljevic M, and Anastasijevic R. A
+comparison of the effects of agonist
+and antagonist muscle fatigue on
+performance of rapid movements. Eur J
+Appl Physiol Occup Physiol 76: 41–47,
+1997.
+8. Keskinen K, Eriksson E, and Komi P.
+Breaststroke swimmer’s knee: A
+biomechanical and arthroscopic study. Am
+J Sports Med 8: 228–231, 1980.
+9. Latt E, Jurimae J, Maestu J, Purge P,
+Ramson R, Haljaste K, Keskinen KL,
+Rodriguez FA, and Jurimae T. Physiological,
+biomechanical and anthropometrical
+predictors of sprint swimming performance
+in adolescent swimmers. J Sports Sci Med
+9: 398–404, 2010.
+10. Lee C-Y, Huang C-F, and Lee C-W.
+Biomechanical of the grab and track
+swimming starts. Paper presented at the
+30th Annual Conference of Biomechanics
+in Sports. Melbourne, Australia. 2012.
+Available at: https://ojs.ub.uni-konstanz.de/
+cpa/article/view/5337/4908. Accessed:
+January 24, 2013.
+11. Lyttle A and Benjanuvatra N. Start right? A
+biomechanical review of dive start
+performance. Available at: http://www.
+coachesinfo.com/category/swimming/
+321. Accessed: January 22, 2013.
+12. Mookerjee S, Bibi KW, Kenney GA, and
+Cohen L. Relationship between isokinetic
+strength, ﬂexibility, and ﬂutter kicking
+speed in female collegiate swimmers.
+J Strength Cond Res 9: 71–74, 1995.13. Newton R. Resistance training for sprint
+swimmers. NSCA Performance Training J
+1: 17–31, 2002.
+14. Newton RU, Jones J, Kraemer WJ, and
+Wardle H. Strength and power training of
+Australian Olympic swimmers. Strength
+Cond J 24: 7–15, 2002.
+15. Nuber GW, Jobe FW, Perry J, Moynes DR,
+and Antonelli D. Fine wire
+electromyography analysis of muscles of
+the shoulder during swimming. Am J
+Sports Med 14: 7–11, 1986.
+16. Poole WH and Maneval MW. The effects
+of two ten-week depth jumping routines
+on vertical jump performance as it relates
+to leg power. JS w i mR e s 3: 11–14,
+1987.
+17. Potdevin FJ, Alberty ME, Chevutschi A,
+Pelayo P, and Sidney MC. Effects of
+a 6-week plyometric training program on
+performance in pubescant swimmers.
+J Strength Cond Res 25: 80–86, 2011.
+18. Rasulbekov RA, Fomin RA, Chulkov VU,
+and Chudovsky VI. Does a swimmer
+need explosive strength? Strength Cond J
+8: 56–57, 1984.
+19. Richardson AB, Jobe FW, and Collins HR.
+The shoulder in competitive swimming. Am
+J Sports Med 8: 159–163, 1980.
+20. Rodeo S. Swimming the breaststroke—A
+kinesiological analysis and considerations for
+strength training. Strength Cond J 4: 74–76,
+80, 1984.
+21. Rovere GD and Nichols AW. Frequency,
+associated factors, and treatment of
+breaststroker’s knee in competitive
+swimmers. Am J Sports Med 13: 99–104,
+1985.
+22. Stulberg SD, Shulman K, Stuart S, and
+Culp P. Breaststroker’s knee: Pathology,
+etiology and treatment. Am J Sports Med 8:
+164–171, 1980.
+23. Turner AN. Training for power: Principles and
+practice. Prof Strength Cond J 14: 20–32,
+2009.
+24. West DJ, Owen NJ, Cunningham DJ,
+Cook CJ, and Kilduff LP. Strength and
+power predictors of swimming starts in
+international sprint swimmers. J Strength
+Cond Res 25: 950–955, 2011.
+25. Wolf BR, Ebinger AE, Lawler MP, and
+Britton CL. Injury pattern in Division I
+collegiate swimming. Am J Sports Med
+37: 2037–2042, 2009.Strength and Conditioning for Swimming
+VOLUME 35 | NUMBER 6 | DECEMBER 2013 6
+View publication stats

@@ -1,0 +1,635 @@
+Epidemiology of National Collegiate Athletic Association men’s 
+and women’s swimming and diving injuries from 2009/10 to 
+2013/14
+Zachary Y. Kerr, PhD, MPH1, Christine M. Baugh, MPH2,3, Elizabeth E. Hibberd, PhD, ATC4, 
+Erin M. Snook, PhD1, Ross Hayden, MA1, and Thomas P. Dompier, PhD, ATC1
+1Datalys Center for Sports Injury Research and Prevention, Inc., Indianapolis, IN, USA
+2Harvard Interfaculty Initiative in Health Policy, Harvard University, Cambridge, MA, USA
+3Division of Sports Medicine, Boston Children’s Hospital, Boston, MA, USA
+4Department of Health Science, University of Alabama, Tuscaloosa, AL, USA
+Abstract
+Background/Aim— Recent injury data for collegiate-level swimming and diving is limited. 
+Previous data is limited to single seasons, elite and national team athletes, or emergency 
+department data. This study describes the epidemiology of men’s and women’s swimming and 
+diving injuries reported by the National Collegiate Athletic Association (NCAA) Injury 
+Surveillance Program (ISP) during the 2009/10-2013/14 academic years.
+Methods— Injuries and athlete-exposure (AE) data reported within nine men’s and 13 women’s 
+swimming and diving programs were analyzed. Injury rates, injury rate ratios (IRR), and injury 
+proportions by body site, diagnosis, and mechanism were reported with 95% confidence intervals 
+(CI).
+Results— The ISP captured 149 and 208 injuries for men’s and women’s swimming and diving, 
+respectively, leading to injury rates of 1.54/1000AEs and 1.71/1000AEs. Among females, divers 
+had a higher injury rate (2.49/1000AEs) than swimmers (1.63/1000AEs; IRR=1.53; 95%CI: 1.07, 
+2.19). Injury rates for male divers (1.94/1000AEs) and swimmers (1.48/1000AEs) did not differ 
+(IRR=1.33; 95%CI: 0.85, 2.31). Most injuries occurred to the shoulder and resulted in strains. 
+Many injuries were classified as overuse or non-contact. Female swimmers had a higher overuse 
+injury rate (1.04/1000AEs) than male swimmers (0.66/1000AEs; IRR=1.58; 95%CI: 1.14, 2.19). 
+Overuse injury rates for female divers (0.54/1000AEs) and male divers (0.46/1000AEs) did not 
+differ (IRR=1.16; 95%CI: 0.40, 3.34).
+Corresponding Author:  Zachary Y. Kerr, PhD; Director, NCAA Injury Surveillance Program, Datalys Center for Sports Injury 
+Research and Prevention, Inc.; 401 West Michigan Street, Suite 500, Indianapolis, IN 46202; Phone: 317-275-3665; Fax: 
+317-275-3667; zkerr@datalyscenter.org. 
+CONTRIBUTOR STATEMENT  Dr. Kerr led the creation and analysis of the study, and drafting of the manuscript. Ms. Baugh and 
+Dr. Hibberd assisted with the analysis of the study, interpretation of findings, and assisted in drafting the manuscript. The remaining 
+authors, Dr. Snook, Mr. Hayden, and Dr. Dompier, assisted with the creation of the study, and drafting of the manuscript. All authors 
+approve the final manuscript as presented.
+DECLARATION OF COMPETING INTERESTS  The author(s) declared no potential competing interests with respect to the 
+authorship and/or publication of this article.
+HHS Public Access
+Author manuscript
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Published in final edited form as:
+Br J Sports Med . 2015 April ; 49(7): 465–471. doi:10.1136/bjsports-2014-094423.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Conclusions— Shoulder, strain, and overuse injuries were common in collegiate men’s and 
+women’s swimming and diving. In addition, divers may have higher injury rates than swimmers, 
+although small reported numbers in this study warrant additional research.
+Keywords
+incidence; epidemiology; sport; injury surveillance; swimming and diving
+INTRODUCTION
+The National Collegiate Athletic Association (NCAA) has sanctioned championship events 
+in men’s swimming and diving since 1937[ 1] and women’s swimming and diving since 
+1982.[ 2] In the 2013/14 academic year, 9,630 men and 12,333 women participated in NCAA 
+swimming and diving.[ 3] Collegiate swimmers compete in events ranging from 50 to 1,500 
+meters, utilizing at least one of four strokes: freestyle, backstroke, breaststroke, or butterfly. 
+Collegiate divers compete in one-meter springboard, three-meter springboard, and/or 
+platform diving (Division I only). Points are awarded for all events based on placement. The 
+sum of the swimming and diving points yields the total swimming and diving team score.
+The preparation for swimming involves a high training volume and exertion[ 4, 5] This 
+coupled with the repetitive nature of swimming coupled have previously been asserted as 
+major risk factors for overuse injury.[ 6-8] Previous studies[ 5-13] have also found high 
+frequencies of shoulder injuries, with shoulder pain being a major cause of missed practices 
+and poor performance.[ 14] However, these studies are limited in that they utilize small 
+sample sizes generally from one season and/or one swimming program.
+There is also a dearth of research that utilizes large populations of divers over a substantial 
+period of time. Instead, most data originates from case studies,[ 15, 16] case series,[ 17] and 
+observations from a single championship competition.[ 18-20] One surveillance study 
+utilized National Electronic Injury Surveillance System (NEISS) data to examine diving-
+related injuries of individuals <20 years old presenting at United States emergency 
+departments. This study found large proportions of injuries to the head/face/neck, that 
+resulted in lacerations and soft tissue injuries, and were caused by collision with the diving 
+board or platform.[ 21] Another study found that Junior Olympic divers had injury histories 
+including fractures and strains.[ 22] More specifically, due to repetitive hyperextension of the 
+back, diving has been associated with lumbar spondylolysis and low back pain.[ 22-24] Also, 
+concussion research in diving is limited, although they are hypothesized to occur from 
+deceleration upon entering the water.[ 25]
+Given the large number of athletes involved in swimming and diving, understanding the 
+patterns, mechanisms, and risk factors of injury in this population is critical. The NCAA 
+Injury Surveillance Program (ISP) has monitored all injuries occurring in a sample of men’s 
+and women’s swimming and diving varsity teams. This study utilizes data from the NCAA 
+ISP to describe the epidemiology of men’s and women’s swimming and diving injuries 
+occurring within the NCAA competition level during the 2009/10-2013/14 academic years.Kerr et al. Page 2
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+METHODS
+Data from the 2009/10-2013/14 academic years were obtained from the NCAA ISP, a 
+prospective surveillance program that is managed by the Datalys Center for Sports Injury 
+Research and Prevention (hereafter known as the Datalys Center), an independent, nonprofit 
+research organization. This study was approved by the [name removed for blind review], 
+with student-athletes from participating teams providing consent at the beginning of each 
+academic year.
+Sample
+Men’s swimming and diving data originated from nine varsity programs that contributed 23 
+team-seasons. Each team-season included an average 22.8 swimmers and 3.5 divers. 
+Women’s swimming and diving data originated from 13 varsity NCAA women’s swimming 
+and diving programs that contributed 30 team-seasons. Each team-season included an 
+average 22.4 swimmers and 3.2 divers.
+Data collection
+The methodology of the NCAA ISP during the 2009/10-2013/14 academic years has been 
+previously described.[ 26] The ISP utilized a convenience sample of NCAA varsity sport 
+teams with athletic trainers (ATs) reporting injury data. These ATs worked with these 
+participating teams and attended school-sanctioned practices and competitions. When 
+injuries occurred, the ATs reported them in real-time through the electronic health record 
+application used by the team medical staff throughout the academic year. In addition to 
+musculoskeletal injuries, the surveillance system captured other sports-related adverse 
+health events such as illness, heat-related conditions, general medical conditions, and skin 
+infections. Only varsity level practice and competition events and team conditioning 
+sessions were included in the ISP data sets. Individual weight lifting and conditioning 
+sessions were excluded.
+For each event, the AT completed a detailed event report on the injury or condition (e.g., 
+site, diagnosis) and the circumstances (e.g., activity, mechanism, event type [i.e., 
+competition or practice]). For swimming events, the AT specified which stroke was being 
+performed. The ATs were able to view and update previously submitted information as 
+needed during the course of a season. In addition, ATs also provided the number of student-
+athletes participating in each practice and competition.
+From the electronic health record application, common data elements that included injury 
+and exposure information were stripped of any identifiers and personally identifiable 
+information and retained only relevant variables and values.[ 26] The frequency of export or 
+submission of data varied slightly among vendors providing the electronic health record 
+applications to team medical staff. This common data element standard allows ATs to 
+document injuries as they normally would as part of their daily clinical practice, as opposed 
+to having them separately report injuries for injury surveillance program purposes. All 
+electronic health record applications must have successfully complete a data-validation 
+process to be certified.Kerr et al. Page 3
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Exported data passed through an automated verification process that conducted a series of 
+consistency checks. Data were reviewed and flagged for invalid values. The AT and data 
+quality assurance staff were notified and worked together to resolve the issue. Data that 
+passed the verification process were then placed into the men’s and women’s swimming and 
+diving aggregate datasets.
+Definitions
+A reportable injury in the ISP was defined as an injury that: occurred as a result of 
+participation in an organized intercollegiate practice/competition and required attention from 
+an AT or physician. Multiple injuries occurring from one injury event could be included.
+A reportable athlete-exposure (AE) was defined as one student-athlete participating in one 
+NCAA-sanctioned practice or competition in which he or she was exposed to the possibility 
+of athletic injury, regardless of the time associated with that participation. Only athletes with 
+actual playing time in a competition were included in competition exposures.
+Body parts were categorized as: head/face, neck, shoulder/clavicle, arm/elbow, hand/wrist, 
+trunk (including chest, abdomen, upper back, and lower back), hip/groin, thigh/upper leg, 
+knee, lower leg (including the Achilles), ankle, foot, and other. Injuries were also 
+categorized by the number of days in which athletes were restricted from participation. First, 
+non-time loss injuries were those injuries that resulted in restriction of participation less than 
+24 hours; however, this excluded concussions, fractures, and dental injuries, which were 
+considered time loss injuries, regardless of reported time loss. The inclusion of these injuries 
+as time loss is typical in injury surveillance.[ 27, 28] Second, severe injuries were those 
+injuries that resulted in time loss over three weeks.[ 29] These severe injuries may have also 
+resulted in the student-athletes prematurely ending their season (i.e., season-ending injury).
+Classifying injuries and athlete-exposures by swimming versus diving
+Student-athletes were grouped either swimmers or divers. If a student-athlete’s injury record 
+did not include their sport, we contacted ATs from their school to obtain such information. 
+For AEs, we consulted historical team rosters for participating programs to decipher the 
+ratio of swimmers to divers. The AEs documented for that school for that year were then 
+distributed based upon these ratios. This distribution assumes that swimmers and divers 
+participated in the same number of practices and competitions across a season. Thus, if a 
+school’s men’s swimming and diving program had 27 swimmers and 3 divers (i.e., 9:1 
+ratio), and 200 competition AEs in the 2011/12 academic year, then we would assume that 
+swimmers and divers had accounted for 180 and 20 of the competition AEs, respectively. 
+ATs from participating programs confirmed our methodology that swimmers and divers 
+participated in approximately the same number of practices and competitions across a 
+season.
+Statistical analysis
+Data were analyzed to assess rates and patterns of college men’s and women’s swimming 
+and diving injuries. Data were analyzed using SAS-Enterprise Guide software (version 4.3; 
+SAS Institute Inc., Cary, NC). Statistical analyses included calculation of rate ratios (IRRs), Kerr et al. Page 4
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+injury proportion ratios (IPRs), and chi-square tests ( χ2) tests. The overall injury rate was 
+calculated as the ratio of injuries per 1,000 total AEs. Injury rates were also calculated as the 
+ratio of practice injuries per 1,000 practice exposures and the ratio of competition injuries 
+per 1,000 competition exposures. The following is an example of an IRR comparing 
+competition and practice injury rates:
+The following is an example of an IPR comparing the proportion of shoulder injuries 
+sustained in male and female divers:
+All 95% confidence intervals (CIs) not containing 1.00 were considered statistically 
+significant. Because of statistical power concerns in time trends, we grouped years as 
+2009/10-2011/12 and 2012/13-2013/14. Also, due to the small number of injuries, the 
+majority of analyses utilize the overall count of injuries, as opposed to stratifying by 
+competition and practice.
+RESULTS
+Overall frequencies and rates
+Men’s swimming and diving— The ATs reported 149 injuries during 2009/10-2013/14 
+in college men’s swimming and diving, of which 124 (83.2%) and 25 (16.8%) occurred to 
+swimmers and divers, respectively. A total of 133 (89.3%) occurred during practice; 16 
+occurred during competition (10.7%). Most injuries occurred in the regular season (61.7%); 
+36.2% and 2.0% occurred in the preseason and postseason, respectively. In addition, 77.2% 
+were non-time loss and 2.7% were severe. Four injuries (2.7%) required surgery.
+These 149 injuries occurred during 96,745 AEs, for an injury rate of 1.54/1000AEs (95%CI: 
+1.29, 1.79; Table 1). No difference existed between the injury rates for practice 
+(1.50/1000AEs) and competition (1.93/1000AEs; IRR=0.78; 95%CI: 0.46, 1.30). When 
+injury rates were stratified by athlete-type, injury rates for male divers (1.94/1000AEs) and 
+swimmers (1.48/1000AEs) did not differ (IRR=1.33; 95%CI: 0.85, 2.31).
+Women’s swimming and diving— The ATs reported 208 injuries during 
+2009/10-2013/14 in college women’s swimming and diving, of which 171 (82.2%) and 37 
+(17.8%) occurred to swimmers and divers, respectively. A total of 190 (82.2%) occurred 
+during practice; 18 occurred during competition (17.8%). Most injuries occurred in the 
+regular season (62.0%); 35.6% and 2.4% occurred in the preseason and postseason, Kerr et al. Page 5
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+respectively. In addition, 72.6% were non-time loss and 2.9% were severe. Four injuries 
+(1.9%) required surgery.
+These 208 injuries occurred during 121,719 AEs, for an injury rate of 1.71/1000AEs 
+(95%CI: 1.48, 1.94; Table 1). No difference existed between the injury rates for practice 
+(1.72/1000AEs) and competition (1.61/1000AEs; IRR=1.07; 95%CI: 0.66, 1.73). When 
+injury rates were stratified by athlete-type, divers had a higher injury rate (2.49/1000AEs) 
+than swimmers (1.63/1000AEs; IRR=1.53; 95%CI: 1.07, 2.19).
+Comparison of rates— There were no gender differences in men’s and women’s 
+swimming and diving injury rates overall (Males vs females IRR=0.90; 95%CI: 0.73, 1.11), 
+for practices (IRR=0.87; 95%CI: 0.70, 1.09), or for competitions (IRR=1.20; 95%CI: 0.61, 
+2.36). Injury rates did not differ between male and female swimmers (IRR=0.91; 95%CI: 
+0.72, 1.15) or divers (IRR=0.78; 95%CI: 0.47, 1.29).
+Time trends— In men’s swimming and diving, there were no differences in injury rates for 
+men’s swimmers or divers between the two time periods (2009/10-2011/12 and 
+2012/13-2013/14) (Figure 1). However, in women’s swimming and diving, there was a 30% 
+reduction in the swimming injury rate from 2009/10-2011/12 to 2012/13-2013/14 
+(IRR=0.70; 95%CI: 0.52, 0.95). There was also a 44% reduction in the diving injury rate, 
+although this change was not significant (IRR=0.56; 95%CI: 0.30, 1.08).
+Body sites injured and diagnoses
+Most injuries occurred to the shoulder in men’s swimming, (34.7%), men’s diving (32.0%), 
+and women’s swimming (31.3%) (Table 2). However, in women’s diving, the trunk 
+comprised the largest proportion of injuries (37.8%). There were no gender differences in 
+body part-specific injury rates among swimmers or divers. However, male divers sustained a 
+greater proportion of shoulder injuries (32.0%) than female divers (5.4%; IPR=5.92; 95%CI: 
+1.37, 25.59).
+The most common injury diagnosis was strains in men’s swimming (21.8%), men’s diving 
+(20.0%), women’s swimming (17.0%), and women’s diving (16.2% (Table 3). In addition, 
+swimmers had large proportions of entrapment/impingement (men: 14.5%; women: 11.1%) 
+and tendonitis (men: 13.7%; women: 15.8%). There were no gender differences in 
+diagnosis-specific injury rates or proportions among swimmers or divers.
+Table 4 summarizes common injuries for men’s and women’s swimming and diving and the 
+percentage of time-loss injuries. For the three concussions in women’s diving, two occurred 
+from contact with the water and one occurred from contact with the diving board. In 
+addition, zero cases of spondylolysis and four cases of lower back pain were reported.
+Mechanism of injury and activity
+The majority of injuries were classified as overuse (men’s swimming: 44.4%; men’s diving: 
+24.0%; women’s swimming: 63.7%; women’s diving: 21.6%) and non-contact (men’s 
+swimming: 25.0%; men’s diving: 28.0%; women’s swimming: 17.0; women’s diving: 
+27.0%; Table 5). Contact with water also accounted for large proportions of injuries in Kerr et al. Page 6
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+men’s and women’s diving (32.0% and 16.2%, respectively). Female swimmers had a 
+higher rate of overuse injuries (1.04/1000AEs) than male swimmers (0.66/1000AEs; 
+IRR=1.58; 95%CI: 1.14, 2.19). No gender differences in injury mechanism existed among 
+divers. Among swimmers, the largest proportion of injuries occurred while swimming the 
+medley (men: 45.2%; women: 45.6%). There were no gender differences in activity-specific 
+injury rates or proportions among swimmers or divers.
+DISCUSSION
+Swimming and diving are treated as one NCAA team although they are two discrete sports. 
+Our study utilized injury surveillance data to describe the epidemiology of men’s and 
+women’s swimming and diving at the NCAA level over the past five years. The study adds 
+to the literature on men’s and women’s swimming and diving injuries, using data that has 
+been thoroughly checked for errors prior to landing in data sets.[ 26] This study also captured 
+both time loss and non-time loss injuries in an effort to optimally summarize the types of 
+injuries managed and treated by team medical staff. Such data can help identify areas for 
+prevention and health care related to injuries in swimming and diving.
+Previous studies have utilized varying methods to report swimming injuries, leading to 
+disparate reported rates. Mountjoy et al.[ 19, 20] estimated that the injury rate per 100 
+swimmers at the 2009 and 2013 world championship events were 2.7 and 6.1, respectively. 
+At the 2008 and 2012 Summer Olympics, Junge et al.[ 30] and Engebretsen et al.[ 31] found 
+that 3.4% and 5.4% of swimmers were injured, respectively. Studies with college-level 
+student-athletes are available, but considered injuries sustained outside of practice and 
+competitions (e.g. strength training, non-swimming-related activities). Across five seasons 
+of men’s and women’s swimming at a Division I university, Wolf et al.[ 11] reported injury 
+rates of 4.00 and 3.78 injuries per 1000 exposures in men’s and women’s swimming, 
+respectively. Across seven seasons within a Division I women’s swimming team, 2.12 
+injuries per 1000 exposures were reported.[ 12] In these studies, activities outside of 
+swimming contributed to 55%-62% of injuries. A smaller study[ 10] of 34 NCAA Division I 
+male and female swimmers across one season restricted injuries to those sustained during 
+school-sanctioned practices and competitions, yielding an overall rate of 5.55 injuries per 
+1000AEs. Our study utilized data from 22 programs and 53 seasons and yielded smaller 
+swimming injury rates (men: 1.48/1000AEs; women: 1.63/1000AEs). The NCAA ISP 
+currently does not collect injury data occurring during individual strength training and cross 
+training sessions. Nevertheless, given the larger sample size and inclusion of all injuries 
+from school-sanctioned practices and competitions (time loss and non-time loss), our rates 
+may better estimate the true burden of injury during school-sanctioned practices and 
+competitions than previously reported.
+The low reported injury rate in swimmers may be indicative of the swimming culture more 
+so than of the true incidence of injury. In a sample of youth/adolescent swimmers, 95% 
+believed that mild shoulder pain was normal and should be tolerated.[ 32] However, only 
+14% reported an injury to team medical staff and 72% reporting using pain medication in 
+order to participate.[ 32] These findings suggest that swimmers may not associate shoulder 
+pain with injury and rather than seeking care from team medical staff, may self-medicate Kerr et al. Page 7
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+with pain medication. Within the context of the NCAA ISP, it is only when an athlete 
+discloses the pain, or when an AT notices the pain, that the injury would be reported.
+This need for disclosure is further highlighted by our study and previous studies[ 5-10] 
+finding large proportions of shoulder and overuse injuries. In addition, female swimmers 
+were more likely to suffer an overuse injury than male swimmers. Previous research has 
+suggested that anatomical, physiological, and psychological differences between male and 
+female athletes may contribute to increased risk of overuse injury in females.[ 33] Despite 
+the possible gender differences in overuse injuries, the cause of overuse injuries among 
+swimmers of both genders should be further explored. In particular, future studies should 
+examine the adverse effects of rapid increases in the frequency and intensity of training, and 
+the protective effects of adequate recovery time. Because swimming heavily relies upon the 
+upper extremity to propel the body forward,[ 34] such research should also examine whether 
+proper form also mitigates shoulder injuries.[ 35]
+Research related to divers is limited. At the 2008 and 2012 Summer Olympics, Junge et al.
+[30] and Engebretsen et al.[ 31] found that 2.1% and 8.1% of divers were injured, 
+respectively. In our study, divers had a higher injury rate than swimmers, although the 
+finding was only significant in females. Diving injuries were mostly strains and to the 
+shoulder and trunk. This was similar to findings in Junior Olympic divers,[ 22] but dissimilar 
+to emergency department data,[ 21] although such data may exclude less severe injuries. In 
+addition, although previous research[ 23, 24] has highlighted the cases of spondylolysis, 
+lower back pain, and concussions among divers, ISP data reported zero, four, and three 
+cases, respectively. Our sample of 25 male and 37 female diving injuries may not represent 
+the true incidence of these injuries among all NCAA swimming and diving programs. Future 
+research needs to better estimate the incidence of these rarer injuries.
+Limitations
+Our findings may not be generalizable to other swimming and diving programs within the 
+NCAA or from other levels of competition. The NCAA ISP also does not collect data 
+related to activities outside of school-sanctioned practices and competitions, as did previous 
+studies [ 11, 12]. Because AEs were unit-based rather than time-, event-, or distance-based, 
+we were unable to report injury rates by the number of minutes/hours of practice/
+competition, the number of specific events in which athletes participated per competition, or 
+the number of meters swam. This recording method reduces reporting burden for 
+participating ATs and provides consistency for comparisons across various sports injury 
+surveillance research outcomes. Because the NCAA places swimmers and divers on the 
+same team, we had to estimate the distribution of AEs between swimmers and divers. As a 
+result, caution must be taken when interpreting rate-based results specific to swimmers and 
+divers. We utilized historical rosters that identified swimmers and divers on university 
+websites as well as guidance from ATs on how to distribute AEs between both types of 
+student-athletes. However, these assumptions may not be valid among other collegiate 
+programs.Kerr et al. Page 8
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Conclusions
+Although swimming and diving are two discrete sports, we found shoulder and overuse 
+injuries comprised large proportions of injuries among these NCAA student-athletes. As a 
+result, future research should examine the causes of overuse injuries among swimmers. 
+Collegiate divers may have higher injury rates than swimmers; however, our small sample 
+of diving injuries highlights the need for larger samples to better understand the factors that 
+contribute to the frequency and severity of injuries sustained by collegiate divers.
+ACKNOWLEDGEMENTS
+The NCAA Injury Surveillance Program data were provided by the Datalys Center for Sports Injury Research and 
+Prevention. The Injury Surveillance Program was funded by the NCAA. The content of this manuscript is solely the 
+responsibility of the authors and does not necessarily represent the official views of the NCAA. We thank the many 
+ATs who have volunteered their time and efforts to submit data to the NCAA Injury Surveillance Program. Their 
+efforts are greatly appreciated and have had a tremendously positive effect on the safety of collegiate athletes.
+FUNDING  The NCAA Injury Surveillance Program data were provided by the Datalys Center for Sports Injury 
+Research and Prevention. The Injury Surveillance Program was funded by the NCAA.
+REFERENCES
+1. National Collegiate Athletic Association. [Accessed November 14, 2014] Men’s Swimming and 
+Diving. 2014. http://www.ncaa.com/history/swimming-men/d1
+2. National Collegiate Athletic Association. [Accessed November 14, 2014] Women’s Swimming and 
+Diving. 2014. http://www.ncaa.com/history/swimming-women/d1
+3. National Collegiate Athletic Association. [Accessed November 14, 2014] Student-athlete 
+participation: 1981-82 - 2013-14. 2014. http://www.ncaapublications.com/productdownloads/
+PR2014.pdf
+4. Pyne DB, Sharp RL. Physical and energy requirements of competitive swimming events. Int J Sport 
+Nutr Exerc Metab. 2014; 24(4):351–9. [PubMed: 25029351] 
+5. Stocker D, Pink M, Jobe FW. Comparison of shoulder injury in collegiate-and master’s-level 
+swimmers. Clin J Sports Med. 1995; 5(1):4–8.
+6. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite swimmers: primarily due to swim-
+volume-induced supraspinatus tendinopathy. Br J Sports Med. 2010; 44(2):105–13. [PubMed: 
+18463295] 
+7. Tate A, Turner GN, Knab SE, et al. Risk factors associated with shoulder pain and disability across 
+the lifespan of competitive swimmers. J Athl Train. 2012; 47(2):149. [PubMed: 22488280] 
+8. Walker H, Gabbe B, Wajswelner H, et al. Shoulder pain in swimmers: A 12-month prospective 
+cohort study of incidence and risk factors. Phys Ther Sport. 2012; 13(4):243–9. [PubMed: 
+23068900] 
+9. Beach ML, Whitney SL, Dickoff-Hoffman SA. Relationship of shoulder flexibility, strength, and 
+endurance to shoulder pain in competitive swimmers. J Orthop Sports Phys Ther. 1992; 16(6):262–
+68. [PubMed: 18796745] 
+10. Chase KI, Caine DJ, Goodwin BJ, et al. A prospective study of injury affecting competitive 
+collegiate swimmers. Res Sports Med. 2013; 21(2):111–23. [PubMed: 23541098] 
+11. Wolf BR, Ebinger AE, Lawler MP, et al. Injury patterns in Division I collegiate swimming. Am J 
+Sports Med. 2009; 37(10):2037–42. [PubMed: 19633232] 
+12. McFarland EG, Wasik M. Injuries in female collegiate swimmers due to swimming and cross 
+training. Clin J Sports Med. 1996; 6(3):178–82.
+13. Laudner K, Sipes R. The incidence of shoulder injury among collegiate overhead athletes. J 
+Intercolleg Sport. 2009; 2(2):260–8.
+14. Weldon EJ 3rd, Richardson AB. Upper extremity overuse injuries in swimming. A discussion of 
+swimmer’s shoulder. Clin J Sports Med. 2001; 20(3):423–38.Kerr et al. Page 9
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+15. Badman BL, Rechtine GR. Spinal injury considerations in the competitive diver: a case report and 
+review of the literature. Spine J. 2004; 4(5):584–90. [PubMed: 15363432] 
+16. Hosey RG, Hauk JM, Boland MR. Scaphoid stress fracture: an unusual cause of wrist pain in a 
+competitive diver. Orthopedics. 2006; 29(6):503–5. [PubMed: 16786942] 
+17. Baranto A, Hellstrom M, Nyman R, et al. Back pain and degenerative abnormalities in the spine of 
+young elite divers. Knee Surg Sports Traumatol Arthrosc. 2006; 14(9):907–14. [PubMed: 
+16416326] 
+18. Junge A, Engebretsen L, Alonso JM, et al. Injury surveillance in multi-sport events: the 
+International Olympic Committee approach. Br J Sports Med. 2009; 42(6):413–21. [PubMed: 
+18390916] 
+19. Mountjoy M, Junge A, Alonso JM, et al. Sports injuries and illnesses in the 2009 FINA World 
+Championships (Aquatics). Br J Sports Med. 2010; 44(7):522–7. [PubMed: 20460256] 
+20. Mountjoy M, Junge A, Benjamen S, et al. Competing with injuries: injuries prior to and during the 
+15th FINA World Championships 2013 (aquatics). Br J Sports Med. 2015; 49(1):37–43. [PubMed: 
+25326096] 
+21. Day C, Stolz U, Mehan TJ, et al. Diving-related injuries in children< 20 years old treated in 
+emergency departments in the United States: 1990-2006. Pediatrics. 2008; 122(2):e388–94. 
+[PubMed: 18676525] 
+22. Anderson, S.; Rubin, B. Evaluation and treatment of injuries in competitive divers. In: 
+Buschbacher, B.; Braddom, R., editors. Sports Medicine and Rehabilitation: A Sport Specific 
+Approach. Hanley and Belfus; Philadelphia, PA: 1994. p. 111-22.
+23. Bono CM. Low-back pain in athletes. J Bone Joint Surg Am. 2004; 86(2):382–96. [PubMed: 
+14960688] 
+24. Rossi F, Dragoni S. Lumbar spondylolysis: Occurrence in competitive athletes. Updated 
+achievements in a series of 390 cases. J Sports Med Phys Fitness. 1990; 30(4):450–2. [PubMed: 
+2079853] 
+25. Zillmer EA. The neuropsychology of repeated 1-and 3-meter springboard diving among college 
+athletes. App Neuropsychol. 2003; 10(1):23–30.
+26. Kerr ZY, Dompier TP, Snook EM, et al. National Collegiate Athletic Association Injury 
+Surveillance System: Review of methods for 2004-2005 through 2013-2014 data collection. J Athl 
+Train. 2014; 49(4):552–60. [PubMed: 24870292] 
+27. Powell JW, Barber-Foss KD. Injury patterns in selected high school sports: a review of the 
+1995-1997 seasons. J Athl Train. 1999; 34(3):277–84. [PubMed: 16558577] 
+28. Centers for Disease Control Prevention. Sports-related injuries among high school athletes--United 
+States, 2005-06 school year. MMWR Morb Mortal Wkly Rep. 2006; 55(38):1037–40. [PubMed: 
+17008865] 
+29. Darrow CJ, Collins CL, Yard EE, et al. Epidemiology of Severe Injuries Among United States 
+High School Athletes 2005-2007. Am J Sports Med. 2009; 37(9):1798–1805. [PubMed: 
+19531659] 
+30. Junge A, Engebretsen L, Mountjoy ML, et al. Sports injuries during the summer Olympic games 
+2008. Am J Sports Med. 2009; 37(11):2165–72. [PubMed: 19783812] 
+31. Engebretsen L, Soligard Tr, Steffen K, et al. Sports injuries and illnesses during the London 
+Summer Olympic Games 2012. Br J Sports Med. 47(7):407–14. [PubMed: 23515712] 
+32. Hibberd EE, Myers JB. Practice habits and attitudes and behaviors concerning shoulder pain in 
+high school competitive club swimmers. Clin J Sports Med. 2013; 23(6):450–5.
+33. Ivkovic A, Franic M, Bojanic I, et al. Overuse injuries in female athletes. Croat Med J. 2007; 
+48(6):767–78. [PubMed: 18074410] 
+34. Pink MM, Tibone JE. The painful shoulder in the swimming athlete. Orthop Clin North Am. 2000; 
+31(2):247–61. [PubMed: 10736394] 
+35. Johnson JN, Gauvin J, Fredericson M. Swimming biomechanics and injury prevention: new stroke 
+techniques and medical considerations. Phys Sportsmed. 2003; 31(1):41–6. [PubMed: 20086441] Kerr et al. Page 10
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+WHAT ARE THE NEW FINDINGS
+- The study adds to the literature on men’s and women’s swimming and diving 
+injuries, using data that has been thoroughly checked for errors prior to landing in 
+data sets
+- Divers had a higher injury rate than swimmers, although the finding was only 
+significant in females
+- Female swimmers were more likely to suffer an overuse injury than male 
+swimmersKerr et al. Page 11
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+HOW MIGHT IT IMPACT ON CLINICAL PRACTICE IN THE NEAR FUTURE
+- By capturing both time loss and non-time loss injuries, current findings may better 
+summarize the types of injuries that are sustained by student-athletes and managed 
+and treated by team medical staff
+- The large proportions of overuse injuries reported in swimming and diving 
+highlight the need to emphasize proper technique and avoid rapid increases in the 
+frequency of training to avoid overuse shoulder injuriesKerr et al. Page 12
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 1. 
+Injury rates per 1,000 athlete-exposures by academic year, men’s and women’s swimming 
+and diving, 2009/10-2013/14Kerr et al. Page 13
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptKerr et al. Page 14
+Table 1
+Injury rates and 95% confidence intervals (CI), by type of athlete and type of athlete-exposure (AE) in NCAA 
+Men’s and Women’s Swimming and Divinga, 2009/10-2013/14
+Men’s Swimming and Diving Women’s Swimming and Diving
+Athlete
+typeExposure
+type# injuries
+in sampleAEsRate and 95%
+CI (per 1000
+AE)# injuries
+in sampleAEsRate and 95%
+CI (per 1000 AE)
+Swimmers Practice 110 76676 1.43 (1.17 , 1.70) 157 96888 1.62 (1.37 , 1.87)
+Competition 14 7153 1.96 (0.93 , 2.98) 14 8233 1.70 (0.81 , 2.59)
+Total 124 83829 1.48 (1.22 , 1.74) 171 105121 1.63 (1.38 , 1.87)
+Divers Practice 23 11800 1.95 (1.15 , 2.75) 33 13630 2.42 (1.60 , 3.25)
+Competition 2 1116 1.79 (0.00 , 4.28) 4 1221 3.28 (0.07 , 6.49)
+Total 25 12916 1.94 (1.18 , 2.69) 37 14851 2.49 (1.69 , 3.29)
+Total Practice 133 88476 1.50 (1.25 , 1.76) 190 110518 1.72 (1.47 , 1.96)
+Competition 16 8269 1.93 (0.99 , 2.88) 18 11200 1.61 (0.86 , 2.35)
+Total 149 96745 1.54 (1.29 , 1.79) 208 121719 1.71 (1.48 , 1.94)
+aData originates from NCAA ISP data, 2009/10-2013/14. Injuries are defined as injuries that: (1) occurred during a sanctioned practice or 
+competition; and (2) were evaluated and/or treated by an athletic trainer, physician, or other healthcare professional.
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptKerr et al. Page 15
+Table 2
+Number of injuries and injury rates with 95% confidence intervals (CI) by body part in NCAA Men’s and 
+Women’s Swimming and Divinga. 2009/10-2013/14
+Men’s Women’s
+# injuries in
+sample, n (%)Rate and 95% CI
+(per 1000 AE)# injuries in
+sample, n (%)Rate and 95% CI
+(per 1000 AE)
+Swimmers
+ Head/face 5 (4.0) 0.06 (0.01 , 0.11) 4 (2.3) 0.04 (0.00 , 0.08)
+ Neck 0 (0.0) 0.00 2 (1.2) 0.02 (0.00 , 0.05)
+ Shoulder/clavicle 43 (34.7) 0.51 (0.36 , 0.67) 63 (36.8) 0.60 (0.45 , 0.75)
+ Arm/elbow 6 (4.8) 0.07 (0.01 , 0.13) 4 (2.3) 0.04 (0.00 , 0.08)
+ Hand/wrist 11 (8.9) 0.13 (0.05 , 0.21) 4 (2.3) 0.04 (0.00 , 0.08)
+ Trunk 20 (16.1) 0.24 (0.13 , 0.34) 30 (17.5) 0.29 (0.18 , 0.39)
+ Hip/groin 6 (4.8) 0.07 (0.01 , 0.13) 10 (5.9) 0.10 (0.04 , 0.15)
+ Thigh/upper leg 6 (4.8) 0.07 (0.01 , 0.13) 6 (3.5) 0.06 (0.01 , 0.10)
+ Knee 11 (8.9) 0.13 (0.05 , 0.21) 19 (11.1) 0.18 (0.10 , 0.26)
+ Lower leg 2 (1.6) 0.02 (0.00 , 0.06) 6 (3.5) 0.06 (0.01 , 0.10)
+ Ankle 2 (1.6) 0.02 (0.00 , 0.06) 5 (2.9) 0.05 (0.01 , 0.09)
+ Foot 7 (5.7) 0.08 (0.02 , 0.15) 9 (5.3) 0.09 (0.03 , 0.14)
+ Other 5 (4.0) 0.06 (0.01 , 0.11) 9 (5.3) 0.09 (0.03 , 0.14)
+ Total 124 (100.0) 1.48 (1.22 , 1.74) 171 (100.0) 1.63 (1.38 , 1.87)
+Divers
+ Head/face 1 (4.0) 0.08 (0.00 , 0.23) 5 (13.5) 0.34 (0.04 , 0.63)
+ Neck 2 (8.0) 0.15 (0.00 , 0.37) 3 (8.1) 0.20 (0.00 , 0.43)
+ Shoulder/clavicle 8 (32.0) 0.62 (0.19 , 1.05) 2 (5.4) 0.13 (0.00 , 0.32)
+ Arm/elbow 1 (4.0) 0.08 (0.00 , 0.23) 1 (2.7) 0.07 (0.00 , 0.20)
+ Hand/wrist 2 (8.0) 0.15 (0.00 , 0.37) 6 (16.2) 0.40 (0.08 , 0.73)
+ Trunk 5 (20.0) 0.39 (0.05 , 0.73) 14 (37.8) 0.94 (0.45 , 1.44)
+ Hip/groin 1 (4.0) 0.08 (0.00 , 0.23) 0 (0.0) 0.00
+ Thigh/upper leg 1 (4.0) 0.08 (0.00 , 0.23) 0 (0.0) 0.00
+ Knee 1 (4.0) 0.08 (0.00 , 0.23) 1 (2.7) 0.07 (0.00 , 0.20)
+ Lower leg 1 (4.0) 0.08 (0.00 , 0.23) 1 (2.7) 0.07 (0.00 , 0.20)
+ Ankle 2 (8.0) 0.15 (0.00 , 0.37) 2 (5.4) 0.13 (0.00 , 0.32)
+ Foot 0 (0.0) 0.00 1 (2.7) 0.07 (0.00 , 0.20)
+ Other 0 (0.0) 0.00 1 (2.7) 0.07 (0.00 , 0.20)
+ Total 25 (100.0) 1.94 (1.18 , 2.69) 37 (100.0) 2.49 (1.69 , 3.29)
+aData originates from NCAA ISS data, 2009/10-2013/14. Injuries are defined as injuries that: (1) occurred during a sanctioned practice or 
+competition; and (2) were evaluated and/or treated by an athletic trainer, physician, or other healthcare professional.
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptKerr et al. Page 16
+Table 3
+Number of injuries and injury rates with 95% confidence intervals (CI) by diagnosis in NCAA Men’s and 
+Women’s Swimming and Divinga. 2009/10-2013/14
+Men’s Women’s
+# injuries in
+sample, n (%)Rate and 95% CI
+(per 1000 AE)# injuries in
+sample, n (%)Rate and 95% CI
+(per 1000 AE)
+Swimmers
+ Concussion 5 (4.0) 0.06 (0.01 , 0.11) 1 (0.6) 0.01 (0.00 , 0.03)
+ Contusion 4 (3.2) 0.05 (0.00 , 0.09) 3 (1.8) 0.03 (0.00 , 0.06)
+ Entrapment/Impingement 18 (14.5) 0.21 (0.12 , 0.31) 19 (11.1) 0.18 (0.10 , 0.26)
+ Fracture 3 (2.4) 0.04 (0.00 , 0.08) 0 (0.0) 0.00
+ Inflammation 2 (1.6) 0.02 (0.00 , 0.06) 6 (3.5) 0.06 (0.01 , 0.10)
+ Sacroiliac Joint Dysfunction 0 (0.0) 0.00 6 (3.5) 0.06 (0.01 , 0.10)
+ Spasm 5 (4.0) 0.06 (0.01 , 0.11) 4 (2.3) 0.04 (0.00 , 0.08)
+ Sprain 6 (4.8) 0.07 (0.01 , 0.13) 9 (5.3) 0.09 (0.03 , 0.14)
+ Strain 27 (21.8) 0.32 (0.20 , 0.44) 29 (17.0) 0.28 (0.18 , 0.38)
+ Subluxation 1 (0.8) 0.01 (0.00 , 0.04) 5 (2.9) 0.05 (0.01 , 0.09)
+ Tendonitis 17 (13.7) 0.20 (0.11 , 0.30) 27 (15.8) 0.26 (0.16 , 0.35)
+ Otherb 36 (29.0) 0.43 (0.29 , 0.57) 62 (36.2) 0.59 (0.44 , 0.74)
+ Total 124 (100.0) 1.48 (1.22 , 1.74) 171 (100.0) 1.63 (1.38 , 1.87)
+Divers
+ Concussion 0 (0.0) 0.00 3 (8.1) 0.20 (0.00 , 0.43)
+ Contusion 2 (8.0) 0.15 (0.00 , 0.37) 3 (8.1) 0.20 (0.00 , 0.43)
+ Entrapment/Impingement 1 (4.0) 0.08 (0.00 , 0.23) 0 (0.0) 0.00
+ Fracture 0 (0.0) 0.00 2 (5.4) 0.13 (0.00 , 0.32)
+ Inflammation 2 (8.0) 0.15 (0.00 , 0.37) 0 (0.0) 0.00
+ Sacroiliac Joint Dysfunction 2 (8.0) 0.15 (0.00 , 0.37) 2 (5.4) 0.13 (0.00 , 0.32)
+ Spasm 3 (12.0) 0.23 (0.00 , 0.50) 5 (13.5) 0.34 (0.04 , 0.63)
+ Sprain 3 (12.0) 0.23 (0.00 , 0.50) 4 (10.8) 0.27 (0.01 , 0.53)
+ Strain 5 (20.0) 0.39 (0.05 , 0.73) 6 (16.2) 0.40 (0.08 , 0.73)
+ Subluxation 0 (0.0) 0.00 1 (2.7) 0.07 (0.00 , 0.20)
+ Tendonitis 2 (8.0) 0.15 (0.00 , 0.37) 0 (0.0) 0.00
+ Otherb 5 (20.0) 0.39 (0.05 , 0.73) 11 (29.7) 0.74 (0.30 , 1.18)
+ Total 25 (100.0) 1.94 (1.18 , 2.69) 37 (100.0) 2.49 (1.69 , 3.29)
+aData originates from NCAA ISS data, 2009/10-2013/14. Injuries are defined as injuries that: (1) occurred during a sanctioned practice or 
+competition; and (2) were evaluated and/or treated by an athletic trainer, physician, or other healthcare professional.
+b“Other” injuries includes injuries with counts <5 among swimmers or divers in men’s or women’s swimming and diving. Injuries in this category 
+with multiple reports included: bursitis (Men: n=2; Women: n=2), cysts (Women: n=2), infectious disease (Men: n=3; Women: n=4), and nervous 
+system (Women: n=4). In addition, “Other” injuries included injuries coded for diagnosis as “miscellaneous.”
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptKerr et al. Page 17
+Table 4
+Common injuries in NCAA Men’s and Women’s Swimming and Divinga. 2009/10-2013/14
+Men’s Swimming and Diving
+Injury# injuries
+in sample,
+n (%)% non-
+time loss
+injuriesbMost common mechanisms
+of injury for this injury
+Men’s Swimming
+ Shoulder entrapment/impingement 18 (14.5) 100.0% Overuse (88.9%)
+ Shoulder tendonitis 9 (7.3) 100.0% Overuse (66.7%)
+Men’s Diving
+ Shoulder strain 4 (16.0) 75.0% Contact with water (75.0%)
+Women’s Swimming
+ Shoulder entrapment/impingement 19 (11.1) 84.2% Overuse (100.0%)
+ Shoulder tendonitis 16 (9.4) 87.5% Overuse (87.5%)
+Women’s Diving
+ Concussion 3 (8.1) 0.0% Contact with water (66.7%)
+ Trunk spasm 3 (8.1) 100.0% Non-contact (66.7%)
+aData originates from NCAA ISS data, 2009/10-2013/14. Injuries are defined as injuries that: (1) occurred during a sanctioned practice or 
+competition; and (2) were evaluated and/or treated by an athletic trainer, physician, or other healthcare professional.
+bIncludes injuries that resulted in time loss less than one day; does not include any concussions, fractures, or dental injuries, regardless of time loss
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptKerr et al. Page 18
+Table 5
+Number of injuries and injury rates with 95% confidence intervals (CI) by mechanism of injury and activity in 
+NCAA Men’s and Women’s Swimming and Divinga. 2009/10-2013/14
+Men’s Women’s
+# injuries in
+sample, n (%)Rate and 95% CI
+(per 1000 AE)# injuries in
+sample, n (%)Rate and 95% CI
+(per 1000 AE)
+Swimmers
+ Mechanism of injury
+  Contact with other athlete 4 (3.2) 0.05 (0.00 , 0.09) 1 (0.6) 0.01 (0.00 , 0.03)
+  Contact with ground/surface 15 (12.1) 0.18 (0.09 , 0.27) 9 (5.3) 0.09 (0.03 , 0.14)
+  Contact with water 4 (3.2) 0.05 (0.00 , 0.09) 3 (1.8) 0.03 (0.00 , 0.06)
+  Contact with timing pad/
+   side of pool/starting block4 (3.2) 0.05 (0.00 , 0.09) 4 (2.3) 0.04 (0.00 , 0.08)
+  Non-contact 31 (25.0) 0.37 (0.24 , 0.50) 29 (17.0) 0.28 (0.18 , 0.38)
+  Overuse 55 (44.4) 0.66 (0.48 , 0.83) 109 (63.7) 1.04 (0.84 , 1.23)
+  Illness/Infection 5 (4.0) 0.06 (0.01 , 0.11) 8 (4.7) 0.08 (0.02 , 0.13)
+  Other 6 (4.8) 0.07 (0.01 , 0.13) 8 (4.7) 0.08 (0.02 , 0.13)
+ Activity
+  Backstroke 12 (9.7) 0.14 (0.06 , 0.22) 25 (15.6) 0.24 (0.14 , 0.33)
+  Breast stroke 10 (8.1) 0.12 (0.05 , 0.19) 14 (8.2) 0.13 (0.06 , 0.20)
+  Butterfly 16 (12.9) 0.19 (0.10 , 0.28) 22 (12.9) 0.21 (0.12 , 0.30)
+  Freestyle 13 (10.5) 0.16 (0.07 , 0.24) 13 (7.6) 0.12 (0.06 , 0.19)
+  Medley 56 (45.2) 0.67 (0.49 , 0.84) 78 (45.6) 0.74 (0.58 , 0.91)
+  Team conditioning 2 (1.6) 0.02 (0.00 , 0.06) 7 (4.1) 0.07 (0.02 , 0.12)
+  Other 15 (12.1) 0.18 (0.09 , 0.27) 12 (7.0) 0.11 (0.05 , 0.18)
+Divers
+ Mechanism of injury
+  Contact with ground/surface 2 (8.0) 0.15 (0.00 , 0.37) 3 (8.1) 0.20 (0.00 , 0.43)
+  Contact with water 8 (32.0) 0.62 (0.19 , 1.05) 6 (16.2) 0.40 (0.08 , 0.73)
+  Contact with board/platform 1 (4.0) 0.08 (0.00 , 0.23) 3 (8.1) 0.20 (0.00 , 0.43)
+  Non-contact 7 (28.0) 0.54 (0.14 , 0.94) 10 (27.0) 0.67 (0.26 , 1.09)
+  Overuse 6 (24.0) 0.46 (0.09 , 0.84) 8 (21.6) 0.54 (0.17 , 0.91)
+  Illness/Infection 0 (0.0) 0.00 2 (5.4) 0.13 (0.00 , 0.32)
+  Other 1 (4.0) 0.08 (0.00 , 0.23) 3 (8.1) 0.20 (0.00 , 0.43)
+ Activity
+  Diving 21 (84.0) 1.63 (0.93 , 2.32) 30 (81.1) 2.02 (1.30 , 2.74)
+  Team conditioning 2 (8.0) 0.15 (0.00 , 0.37) 4 (10.8) 0.27 (0.01 , 0.53)
+  Other 2 (8.0) 0.15 (0.00 , 0.37) 3 (8.1) 0.20 (0.00 , 0.43)
+aData originates from NCAA ISS data, 2009/10-2013/14. Injuries are defined as injuries that: (1) occurred during a sanctioned practice or 
+competition; and (2) were evaluated and/or treated by an athletic trainer, physician, or other healthcare professional.
+Br J Sports Med . Author manuscript; available in PMC 2016 April 01.

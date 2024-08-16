@@ -1,0 +1,115 @@
+of study participants (direct education), while others use par-
+ents or teachers as educators (indirect education). The reviewsdo not address whether some programmes are more effectivethan others.
+The Cochrane review of educational programmes found
+that the intervention improved the children’s attitude totrafﬁc safety. This was measured as change in the proportionof routes the participants classiﬁed as safe or “conceptof speed”. The programmes’ impact on the children’sknowledge varied across studies. No trials assessed the effect
+of educational programmes on pedestrian injury, oradverse effects such as raising levels of anxiety or stoppingchildren going out. The studies that assessed behaviouralchanges varied considerably in their design and outcomemeasures.
+Trafﬁc calming refers to interventions designed to
+control trafﬁc, usually in urban residential areas. They aim to
+reduce the number of commuters using residentialstreets and the speed of the remaining trafﬁc. Initiativesinclude improving main roads to carry additional trafﬁc andrestricting or removing trafﬁc from residential streets byclosing roads to motor vehicles or introducingone-way systems. Speed reducing initiatives include speedcushions, humped pelican crossings, raised junctions, nar-rowing the road(s), gateways at the entrances to the area,build-outs to protect on-street parking spaces, and mini-roundabouts.
+The trafﬁc calming meta-analysis found that
+area-wide urban trafﬁc calming schemes reduced thenumber of injury accidents by an overall 15% (25% onresidential streets and 10% on main roads). The reviewincluded non-controlled studies, and the overall effect of thecontrolled studies was 12% with the matched comparisongroup (95% CI: 1–21%) and 15% with the general comparisongroup (95% CI: 4–24%). With regard to educationalprogrammes, the effect of the intervention variedconsiderably between studies, in particular between studydesigns. The review did not describe which types oftrafﬁc calming measures were most effective in reducingaccidents.
+A New Zealand study divided the annual costs associated
+with child pedestrian education nationally with that of imple-menting trafﬁc calming in an average residential street, thusestimating the number of streets in which trafﬁc calmingcould be introduced using the resources from the educationalprogrammes. From the effect sizes found in a previously con-ducted controlled study the researchers estimated that 18injury hospitalisations a year might be prevented with such achange. This calculation assumed no effect from trafﬁc safetyeducation on accident injuries.
+Comparing initial implementation costs of trafﬁc calming
+with annual costs of educational programmes does not takeinto account the ongoing beneﬁts from trafﬁc calming afterthe implementation year. The introduction of trafﬁc calmingschemes is likely to be more expensive than educational pro-grammes in the ﬁrst year. While the cost of educationalprogrammes will be repeated annually for the length of theprogramme, costs of trafﬁc calming will be limited to mainte-nance.
+Compared with trafﬁc safety education programmes, trafﬁc
+calming seems to be the more effective option. However, itmight be useful to compare trafﬁc calming with and withoutadditional educational programmes. Our search did not yieldstudies of this nature. The cost and effectiveness of trafﬁccalming has not been addressed in comparison with othersafety options such as school crossing attendants. However,their work tends to be limited to term-time before and afterschool.Trafﬁc calming, particularly trafﬁc calming in areas of high
+disadvantage, has greater potential to reduce inequalities than
+educational programmes which tend to be taken up moreenthusiastically by the better off.
+REFERENCES
+Dowswell T , Towner EM, Simpson G, et al . Preventing childhood
+unintentional injuries—what works ?A literature review. Injury Prevention
+1996; 2:140–9.
+Duperrex O , Roberts I, Bunn F. Safety education of pedestrians for injury
+prevention. Cochrane Injuries Group, Cochrane Database of Systematic
+Reviews , Issue 2. Oxford: Update Software, 2002.
+Elvik R . Area-wide urban traffic calming schemes: a meta-analysis of safety
+effects. Accid Anal Prev 2001; 33:327–36.
+Roberts I , Ashton T, Dunn R, et al. Preventing child pedestrian injury:
+pedestrian education or traffic calming ?Aust J Public Health , 1994; 18:209–
+12.
+Should verrucas be covered
+while swimming?
+Report by
+Louise Vaile, Fiona Finlay, Sujata Sharma,
+Department of Community Paediatrics, NHS
+House, Newbridge Hill, Bath BA1 3QE, UK
+The son of one of the authors came home from school with
+a letter explaining that prior to swimming each term,children would have their feet checked for verrucas.
+School policy stated that if a verruca was discovered a protec-tive sock must be worn.
+Many public swimming pools have no restrictions on
+children swimming with verrucas, and in view of conﬂictingpolicies we wondered whether verrucas were transmitted dur-ing swimming and if wearing verruca socks was a necessaryintervention.
+Structured clinical question
+In a child [patient] with a verruca (plantar wart), does wear-ing an occlusive dressing or sock while swimming [interven-tion] reduce transmission [outcome]?
+Search strategy and outcome
+Secondary sources: Cochrane—none.
+Primary sources: Medline 1966 to present (verruca OR
+plantar wart) AND swim LIMIT to “English language”.
+Embase: same search strategy—no additional papers.Search results—7 articles, 2 relevant plus 3 from manual
+search. See table 2.
+Commentary
+The Department of Health Guidance on infection control in schools
+and nurseries
+1suggests that affected children may go swim-
+ming but that verrucas should be covered.CLINICAL BOTTOM LINE
+• Traffic calming measures appear more effective than
+educational programmes in reducing child trafficinjuries.
+• Traffic calming has been shown to produce a 15%
+reduction in injury accidents (95% CI: 12–17%).
+• There is no evidence of the effect of educational
+programmes on child traffic injuries, although there issome evidence of behaviour change.
+• Traffic calming has greater potential to reduce inequali-
+ties in child health.236 Archimedes
+www.archdischild.com
+Our search revealed little up to date information on the
+prevalence of verrucas in schoolchildren, or the effectiveness
+of preventive measures. One paper studied protectivefootwear, but this study looked at the role of protectivefootwear in preventing the acquisition of plantar
+warts in unaffected individuals. It did not examinethe prevention of spread by affected individuals wearingfootwear.
+2There were no studies looking at the effectiveness
+of simply covering a plantar lesion with an adhesive dressingin the prevention of spread.
+Only one study looked at the prevalence of plantar warts in
+swimmers compared to non-swimmers.
+3This study found that
+adolescents who used locker rooms plus communal showers ata swim club had a signiﬁcantly higher prevalence of wartsthan young people using only locker rooms.
+Three studies looked at the prevalence of verrucas
+in swimmers. One
+4found a greater prevalence of warts in
+those swimming in heated covered pools compared touncovered pools, concluding that this difference maybe accounted for by a differing period of exposure.Another
+5found a positive correlation between the
+amount of swimming and the incidence of warts. Thethird
+6found a higher incidence of verrucas in those
+swimming during a school session than during a free-swimming session.REFERENCES
+1 Department of Health. Guidance on infection control in schools and
+nurseries . London: Department of Health, 1999.
+2 Bunney MH. Prevention of plantar warts by the use of protective footwear in
+swimming pools. Community Med 1972;10 March:127–9.
+3 Johnson LW. Communal showers and the risk of plantar warts. J Fam Pract
+1995; 40:136–8.
+4 Allen WH, Dickinson VA. The problem of verrucae. The Medical Officer
+1968;17 May:261–4.
+5 Tranter AW. A scheme for the prevention of plantar warts. The Medical
+Officer 1969;6 June:317–22.
+6 Gentles JC, Evans EGV. Foot infections in swimming baths. BMJ
+1973; 3:260–2.Table 2 Verrucas and swimming
+Citation Study groupStudy type (level of
+evidence) Outcome Key results Comments
+Bunney
+(1972)68 matched pairsof swimmers. Oneof the pair wore“Plastsocks” andthe other bare feet(control group)Paired (level 2b) Incidence of new
+plantar warts in the“Plastsocks” groupversus the controlgroupDuring the study period the sock groupwas entirely free from plantar warts,while the control group developed 9new plantar warts (p<0.01)The study did not look at theeffectiveness of “Plastsocks” inpreventing the transmission ofinfection
+Johnson(1995)146 adolescentsaged 10–18 whoused locker roomsComparison of 80pupils who onlyused locker rooms,with 66 membersof a swim club whoused locker roomsplus communalshowers (level 4)Incidence of plantarwartsSignificant difference in prevalencebetween those who used public showerrooms and locker rooms (27%)compared to those who used onlylocker rooms (1.25%)(χ
+2=15.46, df=1, p=0.001)Shower rooms proposed as a riskfactor, with the warm, moistenvironment important for viraltransmission. Author states that he isconducting a follow up study todetermine whether the incidence ofplantar warts among shower roomusers (swimmers) can be reduced bylimiting foot-to-floor contact, butsubsequent paper not found insearch
+Allen (1968) 14075 pupils from
+40 primary andsecondary schoolsRandom sample of40 schools inHertfordshire (level4)Prevalence ofplantar wartsPrevalence of 2.9% for secondaryschools and 1.8% for primary schoolsPrevalence appeared greater inthose using heated covered pools(4.02%), compared to those usingpools, which were not covered andheated either at school (2.91%) orpublic pools (2.10%). Authorsconcluded that difference may bedue to differing periods of exposure.No statistically significant differencewas found between the groups thatdid gymnastics in barefootcompared to plimsolls
+Tranter(1969)Pupils from 6 juniorschoolsJunior schoolschosen at random(level 4)Incidence of plantarwarts and theamount ofswimmingundertakenCorrelation coefficient was calculatedgiving a significant positive value at the5% level suggesting a positiverelationship between the amount ofswimming and the incidence of wartsCorrelation coefficient showed norelation between the amount ofbarefoot physical exercise and theincidence of plantar wartsEvidence suggested that if a schoolhas its own pool, used only by itspupils and if they were examinedtwice/term and children withplantar warts excluded theincidence of warts will decline. If theschool uses a communal pool theincidence will not decline
+Gentles(1973)773 bathers at apublic swimmingbathRandom sample:9.3% of bathers(level 2c)Incidence ofverrucasOverall incidence of verrucas was4.8%, with 0.76% in adults, 6.9% injuveniles. Incidence of 10.2% duringschool swimming sessions and 5.1%during public swimming sessions(p<0.05)The incidence of veruccas wasnoted to be higher than previouslyrecorded. Authors concludeswimming baths are involved in the“vicious circle” of infection and floorcontamination
+CLINICAL BOTTOM LINE
+• Swimming is part of the national curriculum up until the
+end of key stage 2, by which time children are expected
+to be able to swim 25 metres.
+• Although studies have shown an association between
+verrucas and swimming, none have looked at theincreased risk of verruca acquisition with swimming.
+• No studies have considered the effectiveness of
+protective socks/dressings in preventing transmission.
+• Expecting children to wear protective socks, without evi-
+dence of their effectiveness, may stigmatise children andput them off swimming altogether.Archimedes 237
+www.archdischild.com

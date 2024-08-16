@@ -1,0 +1,609 @@
+17Anna Hadamus1(A,C,D,E), Aneta Bugalska1,2(A,B,D,E,F), 
+Zbigniew Wroński1(D,E), Dariusz Białoszewski1(E,F)
+1Zakład Rehabilitacji Oddziału Fizjoterapii II Wydziału Lekarskiego, Warszawski Uniwersytet Medyczny, 
+Polska 
+2Studenckie Koło Naukowe Fizjoterapii przy Zakładzie Rehabilitacji Oddziału Fizjoterapii II Wydziału 
+Lekarskiego, Warszawski Uniwersytet Medyczny, Polska
+1Division of Rehabilitation, Department of Physiotherapy, 2ndMedical Faculty, Medical University 
+of Warsaw, Poland
+2Student Research Society of Physiotherapy at Division of Rehabilitation, Department 
+of Physiotherapy, 2ndMedical Faculty, Medical University of Warsaw, Poland
+OCENA IZOKINETYCZNA ROTACJI W STAWIE 
+RAMIENNYM W ASPEKCIE RYZYKA 
+POWSTAWANIA URAZU STOŻKA ROTATORÓW
+U OSÓB ROZPOCZYNAJĄCYCH REGULARNE PŁYWANIE – BADANIE PROSPEKTYWNE
+ISOKINETIC ASSESSMENT OF SHOULDER JOINT 
+ROTATION FOR THE RISK OF ROTATOR CUFF INJURIES IN BEGINNER SWIMMERS. PROSPECTIVE STUDY
+Słowa kluczowe: uraz stożka rotatorów, pływanie, ocena izokinetyczna
+Key words: rotator cuff injury, swimming, isokinetic assessment
+Streszczenie
+Wstęp. Urazy stawu ramiennego stanowią jedną z najczęściej zgłaszanych dolegliwości ze
+strony narządu ruchu u osób trenujących dyscypliny sportowe, w tym pływanie lub wykonują -
+cych zawód wymagający unoszenia ramienia powyżej 90°. Celem pracy była próba ocenyryzyka powstania urazu stożka rotatorów u osób rozpoczynających regularne pływanie.
+Materiał i metody. Grupę badaną stanowiło 28 osób, które rozpoczęły regularne treningi
+pływackie. W grupie kontrolnej znajdowały się 24 osoby nietrenujące. W obu grupach przepro -
+wa dzono ocenę parametrów siłowych i czasowych w badaniu izokinetycznym dla ruchu rotacji
+wewnętrznej i zewnętrznej w warunkach skurczu koncentrycznego, przy prędkości 120°/s. Ba -
+dania zostały przeprowadzone w odstępie 4 miesięcy.
+Wyniki. Grupy przed okresem treningowym były porównywalne w zakresie parametrów siło -
+wych i szybkościowych. Grupa badana poprawiła się znacznie w zakresie parametrów siłowychi czasowych (p<0,05). Grupa kontrolna poprawiła się istotnie statystycznie jedynie w zakresieparametrów siłowych.
+Wnioski. 1. Czteromiesięczny trening pływacki wydaje się być wystarczający, aby poprawić
+parametry siłowe i czasowe mięśni stożka rotatorów, co może zmniejszać urazowość barku. 2. Na -
+wet krótkotrwały trening pływacki może powodować powiększenie się asymetrii w parametrach
+siłowo-czasowych pomiędzy kończynami na korzyść kończyny dominującej. Należy zatemzwrócić uwagę na trening uzupełniający, który pozwoli na zachowanie symetrii pomiędzy stronądominującą i niedominującą.
+Summary
+Background. Shoulder injuries are frequent problems in overhead workers or athletes, also
+swimmers. The aim of the study was rotator cuff injury assessment in young adults, beginningswimming training.
+Material and methods. A 4-month prospective cohort study was carried out in 52 physio -
+the rapy students from Warsaw Medical University. 28 participants, aged 19-21, took part in
+swim ming training including at least 1 session per week. The control group comprised 24 not
+training adults. Assessment procedure consisted of a questionnaire including questions pertain -
+ing to demographics, anthropometric features, training and injury history. Isokinetic shoulderinternal (IR) and external rotation (ER) motion were measured. Strength and speed parameterswere similar in both groups at the first assessment. 
+Results. After the 4-month training period, both parameters significantly changed (p<0.05)
+in the training group. In the control group only strength parameters were better.
+Conclusions. 1. The 4-month training period was sufficient to improve rotator cuff speed
+and strength parameters, what possibly can help decrease shoulder injury rate. 2. Even a shortterm training can increase the difference in the strength and speed parameters in favor of thedominant limb. In swimmers, we should complement swimming training to obtain balancebetween the dominant and the non-dominant limb.ARTYKUŁ ORYGINALNY / ORIGINAL ARTICLE
+Adres do korespondencji / Address for correspondence
+Dr n. o zdr. Anna HadamusZakład Rehabilitacji Oddz. Fizjoterapii, Centrum Sportowo-Rehabilitacyjne WUMUl. Ks. Trojdena 2c, 02109 Warszawa, tel. +48 22 57 20 920, e-mail: anna.hadamus@wum.edu.pl 
+Otrzymano / Received 21.11.2017 r.
+Zaakceptowano / Accepted 13.02.2018 r.Zaangażowanie Autorów A – Przygotowanie projektu 
+badawczego
+B – Zbieranie danychC – Analiza statystycznaD – Interpretacja danychE – Przygotowanie manuskryptuF – Opracowanie piśmiennictwaG – Pozyskanie funduszy
+Author’s Contribution 
+A – Study DesignB – Data CollectionC – Statistical AnalysisD – Data Interpretation E – Manuscript PreparationF – Literature SearchG – Funds Collection
+Word count:            5118
+Tables:                           2
+Figures:                         0
+References:                 23Medycyna Sportowa / Polish J Sport Med
+© MEDSPORTPRESS, 2018; 1(4); Vol. 34, 17-25
+DOI: 10.5604/01.3001.0011.7094
+Hadamus A. i wsp. Pływanie a ryzyko urazu barku
+Wstęp
+Bu do wa i bio me cha ni ka sta wu ra mien ne go za -
+pew nia do sko na łą rów no wa gę po mię dzy je go sta bil -
+no ścią i ru cho mo ścią. Jest to jed nak na ty le skom pli -
+ko wa ny i wie lo ele men to wy układ, że każ de je go za -
+bu rze nie mo że spo wo do wać de sta bi li za cję ca łe go
+sys te mu. Ura zy sta wu ra mien ne go, a przede wszyst -
+kim ból sta no wią jed ną z naj czę ściej zgła sza nych do -
+le gli wo ści ze stro ny na rzą du ru chu [1]. Do ty czą głów -
+nie za wo dów i dys cy plin spor to wych, któ re wy ma ga -
+ją uno sze nia ra mie nia po wy żej 90°. Rów nież wśród
+pły wa ków jest to naj częst sza do le gli wość na rzą du
+ru chu [2-8]. Wy da wa ło by się, że śro do wi sko wod ne
+gwa ran tu je bez piecz ne wa run ki od cią że nia, gdzie nie -
+ko rzyst ne si ły ści na ją ce dzia ła ją ce na sta wy są znacz -
+nie zre du ko wa ne, w sto sun ku do ob cią żeń na la dzie.
+Nie ste ty oka zu je się, że po mi mo wszyst kich ko rzy ści
+ja kie da je śro do wi sko wod ne kon tu zje bar ku są czę -
+ste, co wy ni ka ze spe cy fi ki tej dys cy pli ny, jak rów nież
+wiel ko ści ob cią żeń tre nin go wych [9].
+Pod sta wo wy me cha nizm kon tu zji pły wac kich po le ga
+na na kła da niu się mi kro ura zów, któ re pro wa dzą do prze -
+cią że nio wych do le gli wo ści bó lo wych. Staw ra mien ny
+jest new ral gicz nym miej scem, w któ rym ku mu lu ją się
+wszyst kie ob cią że nia koń czyn gór nych ja ko na pę du.
+Dzie je się tak, po nie waż to wła śnie bark jest tym miej -
+scem, gdzie si ła tu ło wia jest prze no szo na na ruch koń -
+czy ny gór nej, a wy ko rzy sta nie tej si ły jest tym lep sze, im
+lep sza jest tech ni ka za gar nia nia wo dy przez przed ra mię
+i rę kę. Prze cią że nio we do le gli wo ści bó lo we w kon se -
+kwen cji pro wa dzą do osła bie nia si ły, pro prio cep cji i za -
+kre su ru chu, któ rych dys funk cja unie moż li wia utrzy ma -
+nie opty mal ne go wzor ca po sta wy, ru chu i sta bi li za cji.
+Skut ku je to cią głym prze cią ża niem tka nek, co mo że
+pro wa dzić do po w sta nia ura zu [3,8,10].
+W ostat nim cza sie pły wa nie sta je się jed nym z naj -
+bar dziej po pu lar nych spor tów re kre acyj nych. W związ -
+ku z tym war to okre ślić jak du ży wpływ na ogól ną spraw -
+ność or ga ni zmu oraz ura zo wość kom plek su bar ko -
+we go, ma umiar ko wa ny tre ning pły wac ki. W pi śmien -
+nic twie bra ku je szcze gó ło wych ba dań od no śnie po -
+szcze gól nych pa ra me trów bio me cha nicz nych bar ku
+w gru pie osób, któ re roz po czy na ją re gu lar ne tre nin gi
+pły wac kie, dla te go za sad nym wy da wa ło się wy ko na -
+nie ni niej szych ba dań.
+Ce lem pra cy by ła oce na ry zy ka po wsta nia ura zu
+stoż ka ro ta to rów u osób roz po czy na ją cych re gu lar ne
+pły wa nie w od nie sie niu do gru py nie tre nu ją cej.
+Ma te riał i me to dy
+Ba da niu pod da ne zo sta ły 52 oso by – stu den ci kie -
+run ku fi zjo te ra pia na War szaw skim Uni wer sy te cie Me -
+dycz nym. Gru pę ba da ną sta no wi ło 28 stu den tów (16
+ko biet, 10 męż czyzn) w wie ku od 19 do 21 lat, któ rzy
+nie tre no wa li wcze śniej pły wa nia ani nie pły wa li re -
+kre acyj nie czę ściej niż 1 raz w mie sią cu. W paź dzier -
+ni ku 2016 r., roz po czę li oni re gu lar ne tre nin gi pły wac -
+kie (co naj mniej 1 raz w ty go dniu 90 mi nut). Tre ning
+był jed no li ty dla ca łej gru py, obej mo wał za rów no pły -
+wa nie peł nym sty lem, jak i ćwi cze nia tech nicz ne i si -
+ło we. Tre ning za wie rał pły wa nie róż ny mi sty la mi z istot -
+ną prze wa gą grzbie to we go. W gru pie kon tro l nej znaj -
+do wa ło się 24 stu den tów (14 ko biet, 10 męż czyzn)
+w wie ku od 23 do 25 lat, któ rzy nie tre no wa li wcze ś -
+niej pły wa nia i nie roz po czę li tre nin gów pły wac kich.
+Kry te rium wy łą cze nia z ba da nia sta no wi ły:Background
+The build and biomechanics of the shoulder joint
+assures perfect balance between shoulder stabilityand mobility. This is, however, such a complex struc -
+ture that each disturbance can destabilize the entiresystem. Injuries and pain of the shoulder joint are themost frequently reported symptoms from the muscu -
+loskeletal system [1]. They affect people doing jobsand practicing sport disciplines that require liftingarms above 90°. These are also most frequent symp -
+toms in swimmers [2-8]. Seemingly, water environ ment
+guarantees safe unburdening conditions, where ad ver -
+se shear forces affecting the joints are signif icantly
+reduced as compared with the load exerted onshore.Unfortunately, it has turned out that despite all theadvantages of water environment, shoulder contu -
+sions are frequent, which is due to the specificity ofswimming and training burden [9].
+The basic mechanism of swimmer contusions in -
+volves multiple micro-injuries, leading to pain due tooverload. The shoulder joint is a sensitive structurewhere all the loads exerted on the upper limbs cu mu -
+late as impact. This is due to the fact that the shoul -
+der is the place where the impact force shifts from thetrunk to upper limb movements and the force impactimproves with the technique of forearm and arm mo -
+vements during swimming. Overload-related pain com -
+promises strength, proprioception and the range ofmotion. The resulting dysfunction prevents assumingoptimal posture, movement and stability patterns,lead ing to continuous tissue overload and, in con se -
+quence, to injuries[3,8,10]. 
+Recently, swimming is becoming one of the most
+popular recreational sports. Therefore, it is worth while
+to define the effect of a moderate swimming trainingon general body fitness and shoulder joint injuries.The reference sources lack detailed studies on in di -
+vidual biomechanical parameters of the shoulder inpeople who start regular swimming training, there -
+fore, this study seems justified. 
+The aim of the study was assessment of the risk of
+rotator cuff injuries in persons who start regular swim -
+ming training, compared to their non-training peers. 
+Material and methods 
+The sample included 52 participants – students of
+physiotherapy at the Medical University of Warsaw.The study group comprised 28 students (16 femalesand 10 males) aged 19-21 years, who neither trainedswimming  nor swam for recreational purpose moreoften than once a month. In November 2016, theystar ted regular swimming training (they trained at
+least once a week and one session lasted 90 minu -
+tes). The training was uniform for the entire groupand comprised both swimming workouts as well astechnical and strength exercises. Different strokeswere trained, mainly backstroke. The control groupcomprised 24 students (14 females and 10 males)aged 23-25 years, who have never trained swimmingbefore. The following exclusion criteria were applied:
+18
+• upra wia nie in nych dys cy plin spor to wych ob cią żo -
+nych ry zy kiem ura zu kom plek su ra mien no -bra ko -
+we go,
+• prze by ty uraz oko li cy sta wu ra mien ne go,
+• ak tu al ne wy stę po wa nie do le gli wo ści bó lo wych,
+ura zów lub scho rzeń w oko li cy sta wów ra mien nych
+• brak zgo dy na udział w ba da niu.
+Za rów no w gru pie ba da nej, jak i kon tro l nej zna la zły
+się po 1 oso bie z do mi nu ją cą koń czy ną le wą. Po zo sta li
+ba da ni mie li do mi nu ją cą koń czy nę gór ną pra wą.
+Wszyst kie ba da ne oso by po pro szo no o wy peł nie -
+nie au tor skiej an kie ty, któ ra oprócz py tań me trycz ko -
+wych za wie ra ła py ta nia we ry fi ku ją ce ak tyw ność fi zycz-
+ną, ze szcze gól nym uwzględ nie niem pły wa nia oraz
+ura zów kom plek su bar ko we go.
+Ba da nie izo ki ne tycz ne prze pro wa dzo no przy po -
+mo cy sys te mu Hu mac Norm (CSMi, U. S. A), ba da ją -
+ce go si łę mię śnio wą w wa run kach sta łej pręd ko ści
+ką to wej. Po nie waż opór dy na mo me tru do sto so wu je
+się w każ dym mo men cie trwa nia ru chu, moż li we jest
+mak sy mal ne ob cią że nie mię śnia w ca łym za kre sie ru -
+chu. Ba da niu pod da no ruch ro ta cji ze wnętrz nej i we w -
+nętrz nej obu sta wów ra mien nych w wa run kach skur -
+czu kon cen trycz ne go w po zy cji od wie dze nia i zgię cia
+po ok. 45°, przy czym by ła to każ do ra zo wo po zy cja
+kom for to wa dla pa cjen ta. Za kres ru chu był in dy wi du -
+al nie do sto so wa ny do oso by ba da nej. Do dat ko wo
+pa cjent był po in stru owa ny o ko niecz no ści wy ko ny wa -
+nia ru chów z mak sy mal ną si łą i pręd ko ścią dla uzy ska -
+nia wia ry god ne go wy ni ku. Ba da ny wy ko ny wał 3 prób -
+ne i 10 wła ści wych ru chów ro ta cyj nych przy pręd ko -
+ści ką to wej 120°/s.
+Oce nie pod da no na stę pu ją ce pa ra me try ba da nia
+izo ki ne tycz ne go:
+1. pa ra me try si ło we: 
+• mak sy mal ny mo ment si ły mię śni (pe ak to rque),
+• po wta rzal ność pra cy (work per re pe ti tion),
+• śred nią moc mię śnia na po wtó rze nie (ave ra ge
+po  wer per re pe ti tion).
+2. pa ra me try cza so we:
+• czas po trzeb ny do osią gnie cia mak sy mal ne go
+mo men tu si ły (ti me to pe ak to rque),
+• wskaź nik zmę cze nia – czas od mo men tu za -
+koń cze nia ge ne ro wa nia mo men tu si ły do koń -
+ca za kre su ru chu (for ce de cay ti me),
+• czas zwło ki (de lay ti me).
+Ba da nia zo sta ły prze pro wa dzo ne dwu krot nie: pier w -
+sze od by ło się w paź dzier ni ku 2016 r., dru gie po okre -
+sie czte rech mie się cy – na prze ło mie lu te go i mar ca
+2017 r.
+Uzy ska ne wy ni ki pod da no ana li zie sta ty stycz nej
+pro gra mem Sta ti sti ca. Oce na nor mal no ści roz kła du
+zo sta ła wy ko na na te stem Koł mo go ro wa -Smir no wa.
+Ze wzglę du na brak zgod no ści z roz kła dem nor mal -
+nym, nie pa ra me trycz ny cha rak ter nie któ rych da nych
+oraz ma łą li czeb ność grup do cha rak te ry sty ki da nych
+wy ko rzy sta no me dia nę, kwar ty le i za kres, a do oce ny
+istot no ści róż nic – te sty nie pa ra me trycz ne: test ko lej -
+no ści par Wil co xo na oraz test U Man na -Whit neya.
+Za róż ni cę istot ną sta ty stycz nie przy ję to p <0,05.
+Wy ni ki
+Po rów na nie wy ni ków gru py ba da nej i gru py kon -
+tro l nej w ba da niu po cząt ko wym wy ka za ło, że pod wzglę -
+dem pa ra me trów si ło wych gru py te nie róż ni ły się w spo -
+sób istot ny sta ty stycz nie dla p<0,05 przy czym gru pa• practicing other sport disciplines, entailing the risk
+of shoulder joint injury,
+• Shoulder joint injuries,• pain, injuries or diseases in shoulder joint area, • lack of consent to participate in the study.
+Both in the study group and in the control group
+there was one person with the dominant left arm. Inthe remaining participants the right arm was the do -
+minant one. All the participants were asked to fill inthe tailored questionnaire which, apart from the ques -
+tions pertaining to demographic data, included theones concerning physical activity, particularly swim -
+ming and injuries of the shoulder complex. 
+The isokinetic test was carried out using Humac
+Norm (CSMi, U.S.A) system, building muscle strengthunder conditions of constant angular velocity. As dy -
+na mometer resistance is adjusted in every moment
+of motion duration, it is possible to apply maximumload on muscles in the entire range of motion. ERand IR movements of both shoulder joints were test -
+ed during concentric contractions in abduction andflexion of about 45°; each time the position was com -
+fortable for the patient. The range of motion was indi -
+vidually adjusted to the patients. Additionally, the par -
+ticipants were instructed to perform movements withmaximum strength and velocity to obtain reliable re -
+sults. They performed three trial movements and tenproper movements for evaluation at angular velocityof 120°/s.
+The following isokinetic test parameters were as -
+sessed:1. Strength parameters: 
+• peak torque (PT),• work per repetition,• average power per repetition.
+2. Time parameters:
+• time to peak torque,• force decay time,• delay time.The tests were performed twice: first in October
+2016 and next after four months – at the turn of Fe -
+bruary and March 2017. 
+The obtained results were subjected to statistical
+analysis using Statistica program. Normality of distri -
+bution was assessed using Kolmogorov-Smirnov test.Due to the lack of conformity with the normal distribu -
+tion, the non-parametric nature of some data and thesmall sample size, the median, quartiles and rangewere used for data characteristics  while the non-pa -
+rametric tests, namely signed rank Wilcoxon test andMann-Whitney U-test were used for the assessmentof the significance of differences. Statistical signifi -
+can ce was set at p <0.05.
+Results
+The comparison of the results obtained from the
+study and the control group in the initial test showedno statistically significant between-group differencesat p<0.05; the values obtained from the control group
+19Hadamus A. et al. Shoulder injury risk factors in swimming
+kon tro l na uzy ski wa ła wy ni ki nie co lep sze w ro ta cji
+ze wnętrz nej, a gru pa ba da na w ro ta cji we wnętrz nej
+w obu koń czy nach. Pod wzglę dem pa ra me trów cza -
+so wych gru py rów nież by ły po rów ny wal ne. Wy ją tek
+sta no wi ły męcz li wość dla ro ta cji ze wnętrz nej koń czy -
+ny pra wej, na ko rzyść gru py ba da nej (p=0,0141) oraz
+czas po trzeb ny do uzy ska nia mak sy mal ne go mo -
+men tu ob ro to we go dla ro ta cji we wnętrz nej koń czy ny
+pra wej na ko rzyść gru py kon tro l nej (p=0,0064).
+W gru pie ba da nej od no to wa no po 4 mie sią cach
+tre nin gu istot ną sta ty stycz nie po pra wę więk szo ści
+ba da nach pa ra me trów dla p<0,05, za rów no w ro ta cji
+we wnętrz nej, jak i ze wnętrz nej. Zmia ny te do ty czy ły
+obu koń czyn, jed nak że wrów istot nych sta ty stycz nie
+przed sta wia Ta be la 1. Mak sy mal ny mo ment si ły po pra -were slightly better in ER while these of the study
+group were better in IR. As for the time parameters,the results obtained from both groups were also com -
+parable. Only the values corresponding to fatigue inexternal rotation were in favor of the study group (p=0.0141). Conversely, the values reflecting the timenecessary to obtain PT was in favor of the controlgroup (p=0.0064).    
+In the study group, a statistically significant impro -
+ve ment of most of the studied parameters was noted
+at p<0.05 after four month of training, both for IR andER. The changes were noted in both upper limbs, butmost often in the right arm. The statistically signifi -
+cant parameters are presented in Table 1. A statis ti -
+cally significant improvement was noted for the ave -
+20Hadamus A. i wsp. Pływanie a ryzyko urazu barku
+Tab. 1. Mediana, zakres międzykwartylowy (IQR) oraz minimum i maksimum wybranych parametrów biomecha nicz nych,
+w grupie badanej przed i po treninguTab. 1. Median, interquartile range (IQR), maximum and minimum of certain biomechanical parameters in traininggroup before and after training period
+wił się istot nie sta ty stycz nie w obu koń czy nach za rów -
+no w ro ta cji we wnętrz nej i ze wnętrz nej. Śred nia moc
+mię śnia i po wta rzal ność pra cy, czy li pra ca wy ko ny wa -
+na w każ dym po wtó rze niu ule gły zmia nie w ro ta cji we -
+wnętrz nej i ze wnętrz nej w koń czy nie pra wej oraz w ro -
+ta cji ze wnętrz nej w koń czy nie le wej (p<0,05). 
+W oce nie pa ra me trów cza so wych uzy ska no na -
+stę pu ją ce wy ni ki:
+• czas po trzeb ny do osią gnie cia mak sy mal ne go mo -
+men tu si ły wy dłu żył się istot nie sta ty stycz nie w ro -
+ta cji we wnętrz nej w koń czy nie gór nej pra wej, na -
+to miast skró cił w ro ta cji ze wnętrz nej w koń czy nie
+pra wej i le wej
+• wskaź nik zmę cze nie wy dłu żył się w spo sób istot -
+nie sta ty stycz nie dla ro ta cji ze wnętrz nej w koń -
+czy nie pra wej, na to miast skró cił się w ro ta cji we -
+wnętrz nej dla tej sa mej koń czy ny
+• czas zwło ki nie uległ zmia nie w spo sób istot ny sta -
+ty stycz nie.
+W gru pie kon tro l nej na stą pi ła po pra wa istot na sta -
+ty stycz nie nie któ rych ba da nych pa ra me trów, w po zo -
+sta łych pa ra me trach war to ści nie ule gły istot nej zmia -
+nie (Tab. 2). Róż ni ce za ob ser wo wa no głów nie w ro ta -
+cji ze wnętrz nej oraz koń czy nie pra wej. Mak sy mal nyrage result corresponding to PT, both in IR and ER.
+Average muscle power and work per repetition valu -
+es, reflecting work performed in each repetition, chan -
+ged in IR and ER in the right arm in the left arm underconditions of ER (p<0.05).
+The following results were obtained for time-
+related parameters:• a statistically significant increase was noted in the
+value corresponding to the time necessary to ob -
+tain PT in IR in the right arm while a decrease ofthis value was noted in ER, both in the right andleft arm,
+• a statistically significant increase in the fatigue in -
+dex was noted for ER of the right arm and a de -
+crease in the corresponding value was noted forIR of the same arm,
+• no statistically significant changes were observed
+in the delay time.A statistically significant improvement of some
+stu died parameters was noted in the control group
+while the remaining parameters of this group rema ined
+unchanged (Table 2). The differences were observedmainly in ER and in the right arm. PT values improv -
+ed in the right arm, both in IR and ER. In the left arm,
+21Hadamus A. et al. Shoulder injury risk factors in swimming
+Tab. 2. Mediana, zakres międzykwartylowy (IQR) oraz minimum i maksimum wybranych parametrów biomechanicznych,
+w grupie kontrolnej przed i po treninguTab. 2. Median, interquartile range (IQR), maximum and minimum of certain biomechanical parameters in control groupbefore and after training period
+mo ment si ły po pra wił się w koń czy nie pra wej za rów -
+no w ro ta cji we wnętrz nej, jak i ze wnętrz nej. W koń -
+czy nie le wej mak sy mal ny mo ment si ły po pra wił się
+w spo sób istot ny sta ty stycz nie je dy nie w ro ta cji ze -
+wnętrz nej. Po wta rzal ność pra cy po pra wi ła się je dy -
+nie w koń czy nie pra wej w ro ta cji we wnętrz nej. Moc
+mię śnia po pra wi ła się istot nie sta ty stycz nie je dy nie
+w za kre sie ro ta cji we wnętrz nej, ale do ty czy ła obu
+koń czyn. Istot ne sta ty stycz nie róż ni ce do ty czy ły je dy -
+nie pa ra me trów si ło wych, na to miast za kres ru chu
+oraz pa ra me try cza so we w gru pie kon tro l nej nie ule -
+gły zmia nie.
+Dys ku sja
+W li te ra tu rze znaj du ją się pra ce mó wią ce o oce -
+nie kli nicz nej i funk cjo nal nej sta wów ra mien nych u pły -
+wa ków, a tak że in nych spor tow ców upra wia ją cych
+dys cy pli ny, w któ rych staw ra mien ny jest szcze gól nie
+na ra żo ny na ura zy. We dług Mat thews i sta wie ra mien -
+nym [3]. In ni au to rzy po daj nie co węższy za kres obej -
+mu ją cy ok. 40-80% pły wa ków [2]. Dla te go te| za sad -
+nym wydawała się oce na ry zy ka uszko dze nia bar ku
+wśród osób roz po czy naj cych re gu lar ne pływanie.
+W li te ra tu rze moż na od na leźć wie le prac do ty czą -
+cych oce ny izo ki ne tycz nej sta wu ra mien ne go, a tak -
+że tych opi su ją cych pa ra me try bio me cha nicz ne kom -
+plek su bar ko we go wśród za wo do wych pły wa ków. Rów -
+nie sze ro ko zo stał w li te ra tu rze omó wio ny pro blem
+bo le sne go bar ku pły wa ka [5,7]. Jed nak że nie uda ło
+się od na leźć pra cy, w któ rej pły wa cy zo sta li by pod da -
+ni ba da niu izo ki ne tycz ne mu sta wu ra mien ne go dla
+ro ta cji we wnętrz nej i ze wnętrz nej. Prze gląd li te ra tu ry
+po zwa la rów nież na stwier dze nie, że nie prze pro wa -
+dzo no ba dań ani na gru pie osób tre nu ją cych pły wa -
+nie ama tor sko czy też ta kich, któ re po rów ny wa ły by
+wy ni ki osób przed i po ja kimś okre sie tre nin go wym.
+Co wię cej nie uda ło się tak że od na leźć pra cy, w któ -
+rej za po mo cą ba da nia izo ki ne tycz ne go, oce nio no by
+wpływ tre nin gu ja kiej kol wiek dys cy pli ny spor to wej,
+obar czo nej du żym ry zy kiem ura zu stoż ka ro ta to rów,
+na gru pie osób, któ ra do pie ro roz po czy na ła tre ning
+ama tor ski. 
+Badanie izokinetyczne zapewnia obserwacje zmian
+wielu parametrów mięśniowych w warunkach dynamiki.Najczęściej ocenianym przez badaczy parametremjest maksymalny moment siły mięśni, który jest waż -
+nym parametrem, mówiącym o najwyższej uzyskanejsile w całej próbie [11-14]. Najrzadziej ocenianym 
+pa ra -
+metrem była moc mięśnia, która mówi o zdolności mięś -
+nia do utrzymania pracy w jednostce czasu. Wzra sta,
+gdy mięsień jest w stanie wykonać tę samą prace w krót -
+szym czasie, dlatego jest ważna przy ocenie sportow -
+ców [15,16]. Aby uzyskać obiektywny wynik ma ksy mal -
+nego momentu siły orz pozostałych para me trów siło -
+wych test powinien odbywać się przy prędkości pomię -
+dzy 30°/s a 180°/s a liczba ruchów powinna oscylowaćmiędzy 5 a 10 [15]. W takich warunka
+ch opór stawiany
+przez dynamometr jest duży, więc liczba powtórzeńpowinna być umiarkowana, by nie doprowadzić doprzemęczenia mięśnia. W związku z tym, w niniejszejpracy wybrano próbę, w której przy prędkości 120°/sbadany miał do wykonania 10 powtórzeń. W protokolebadania została wybrana pozycja siedząca z ramie -
+niem odwiedzionym do 45°. Taką samą pozycję stawudo badania wybierało większość badaczy [11-14] po -
+nieważ jest to pozycja bezpieczna, w której torebka
+22Hadamus A. i wsp. Pływanie a ryzyko urazu barku
+statistically significant improvement was noted in themean torque value, but only in ER. Work for repe ti -
+tion value improved only in the right arm in IR. Mus -
+cle power significantly improved only in IR in botharms. Statistically significant differences were not ed
+only in strength parameters while these reflect ing the
+range of motion and time parameters remain ed un -
+changed in the control group.   
+Discussion
+In the reference sources there are papers report -
+ing clinical and functional assessment of shoulderjoints in swimmers and other athletes practicing thedisciplines that particularly expose the shoulder jointto injuries. According to Matthews et al., 30-91% swim -
+mers experience pain in shoulder joint area duringtheir athletic career [3]. Other authors report a some -
+how narrower range, comprising about 40-80% swim -
+mers [2]. Therefore, assessment of shoulder injuryrisk among subjects starting regular swimming train -
+ing seems justifiable. 
+There are numerous papers presenting isokinetic
+assessment of the shoulder joint or describing bio -
+me chanical parameters of shoulder complex in com -
+petitive swimmers. The issue of shoulder pain in swim -
+mers has been equally widely discussed in litera -
+ture [5,7]. However, there are no papers reportingisokinetic tests of the shoulder joint in internal andexternal rotation. The literature review indicates thatno study has been conducted in amateur swimmers.No study has compared the parameter values beforeand some time after the training either. There are nopaper reporting the effect of training using isokinetictests in any sport discipline entailing high risk of rota -
+tor cuff injuries in people starting amateur training. 
+Isokinetic tests assure observation of changes and
+muscle parameters under dynamic conditions. Mus -
+cle PT is the parameter which is most often assessedby researchers. It is an important parameter, reflect -
+ing the acquired strength during the entire test [11-14]. Muscle power, the parameter reflecting muscleability to continue work in time unit, was most seldomassessed. Muscle power increases when the muscleis able to perform the same work in a shorter periodof time, therefore it is important in athletic perfor man -
+ce assessment [15,16]. In order to obtain an objec -
+tive result of PT and the remaining strength parame -
+ters, the test should be performed at angular velocityof 30°/s-180°/s and the number of movements shouldrange from 5 a 10 [15]. In such conditions, the dy -
+namo meter resistance is high, so the number of reps
+should be moderate so as not to cause muscle fati -
+gue. Therefore, the test involving 10 reps at the velo -
+city of 120°/s was selected in this study. Seated po -
+sition with the arm in 45° abduction was included inthe study protocol. This position of the joint was cho -
+sen for testing by most of the researchers [11-14], be -
+cause it is safe; the joint capsule is equally toned andthe deltoid and the supraspinatus muscles are opti -
+mally positioned for arm rotation [11,16]. Hartsell inhis study compared different positions for testing andconcluded that the seated position assures better
+sta wu jest równomiernie napięta a mięsień naramien -
+ny i nadgrzebieniowy są w optymalnym ułożeniu dowykonania rotacji ramienia [11,16]. Hartsell porównałw swej pracy różne pozycje do badania i doszedł downiosku, że pozycja siedząca zapewnia lepszą sta -
+bilizację, lecz daje nieco gorsze wyniki, natomiast po -
+zycja stojąca jest bardziej naturalna, jednak gorszajest w niej stabilizacja stawu [11]. 
+Wyniki badania izokinetycznego zostały przeana -
+lizo wane pod wieloma względami, ocenione zostały
+trzy parametry siłowe i trzy parametry czasowe, cojest niespecyficzne dla literatury dotyczącej badaniaizokinetycznego, ponieważ jest w niej oceniany prze -
+de wszystkim szczytowy moment siły. Według Man -
+ske i wsp. parametry czasowe, a zwłaszcza czas po -
+trzebny do osiągniecia szczytowego momentu siły,mogą być dokładniejszym wskaźnikiem określającymwydajność mięśni. Możliwość szybkiego generowa -
+nia momentu siły jest czynnikiem decydującym o sta -
+bilności stawu ramiennego [17]. Ponadto badania Man -
+ske i Davies’a pokazały, że czas potrzebny do uzys -
+kania maksymalnego momentu siły zmniejsza się u osób z uszkodzeniem ramion, natomiast popra wia
+podczas rehabilitacji pacjentów [18]. Również w ni niej -
+szych badaniach zaobserwowano wzrost tego czasuw grupie trenującej pływanie, głównie dla rotacji wew -
+nętrznej. 
+Shklar i Di vir wy ka za li w ba da niu izo ki ne tycz nym
+dla tej sa mej pręd ko ści ką to wej co ni niej sze ba da nia,
+że mię śnie po stro nie do mi nu ją cej są sil niej sze niż te
+po stro nie nie do mi nu ją cej, choć w nie znacz nym stop -
+niu jest to zgod ne z po wyż szy mi wy ni ka mi [19]. Man -
+ske, stwier dził róż ni ce po mię dzy koń czy ną do mi nu ją -
+cą i nie do mi nu ją cą u spor tow ców, ale wy klu czył z tych
+róż nic pły wa ków. Po wyż sze wy ni ki pre zen tu ją jed -
+nak, że po pra wa pa ra me trów w gru pie ba da 
+nej na -
+stą pi ła przede wszyst kim dla koń czy ny do mi nu ją cej
+[17]. Fi gu eire do i wsp. za ob ser wo wa li, że fa za ra mie -
+nia do mi nu ją ce go w pły wa niu trwa ła dłu żej niż fa -
+za ra mie nia prze ciw ne go, co praw do po dob nie wy ni -
+ka z te go, że ra mie do mi nu ją ce jest pre fe ren cyj nie
+sto so wa ne do na pę du, a nie do mi nu ją ce do kon tro li
+i pod trzy my wa nia [20].
+Jak wia do mo ba lans mię śni ro tu ją cych staw ra -
+mien ny jest nie zwy kle istot ny pod ką tem ry zy ka ura -
+zu kom plek su bar ko we go [21]. W li te ra tu rze moż na
+od na leźć nor my, ob li czo ne na pod sta wie mak sy mal -
+ne go mo men tu si ły, mó wią ce o sto sun ku si ły ro ta to -
+rów we wnętrz nych do ze wnętrz nych [22]. Pro to kół
+z ni niej sze go ba da nia nie za wie rał ta kie go pro cen to -
+we go pa ra me tru, na to miast ana li za da nych po zwa la
+stwier dzić, że po twier dzi ły one prze wa gę si ły ro ta to -
+rów we wnętrz nych nad ze wnętrz ny mi, co mo że po -
+wo do wać zwięk szo ne ry zy ko kon tu zji bar ku [19,22,
+23]. Jed nak że, jed no cza so wa po pra wa ro ta cji ze w -
+nętrz nej i we wnętrz nej w czte ro mie sięcz nym tre nin gu
+nie świad czy o zwięk sze niu ry zy ka wy stą pie nia ura -
+zu kom plek su ra mien no -bar ko we go [3].
+Pod su mo wu jąc, w opar ciu o li te ra tu rę moż na przy -
+pusz czać, że czte ro mie sięcz ny tre ning pły wac ki raz
+w ty go dniu dla osób nie wy tre no wa nych, po pra wia jąc
+pa ra me try bio me cha nicz ne, zmniej sza ura zo wość
+stoż ka ro ta to rów. Dzie je się tak w me cha ni zmie po -
+pra wy pa ra me trów si ło wych i cza so wych, co zmniej -
+sze nia ob cią że nie tka nek pra cą me cha nicz ną, sil niej -
+sze i bar dziej wy tre no wa ne mię śnie są przy go to wa ne
+na więk sze ob cią że nia. Fakt, iż wy ka za ne róż ni ce niestability, but results in slightly worse values while the
+standing position is more natural, however, it doesnot assure so good joint stability [11].
+The results of the isokinetic tests were analyzed
+in many aspects. Three strength parameters and threetime parameters were analyzed, which is nonspecificfor the literature on isokinetic tests since it mainlyassesses PT values. According to Manske et al., timeparameters, particularly the time necessary to obtainPT, can be accurate indicators, defining muscle ca -
+pa city. Fast PT generation is the factor determining
+shoulder joint stability [17]. Moreover, Manske and D a -
+vies in their study found that the time necessary toobtain PT is shorter in patients with arm injuries andimproves during rehabilitation [18]. In this study, timeincrement was also noted in the group of participantsinvolved in swimming training, particularly in IR. 
+Shklar and Divir, during the isokinetic test, per -
+formed at the same angular velocity as in this study,found that the muscles at the dominant side are stron -
+ger than these at the non-dominant side, althoughthis is only slightly in accordance with the aboveresults [19]. Manske has found differences betweenthe dominant and the non-dominant arm in athletes,but not in swimmers. The above results, however,suggest that the improvement in parameters in thestudy group was noted mainly in the dominant arm[17]. Figueiredo  et al. noted that the phase of the do -
+minant arm during swimming was longer than thephase of the opposite arm, which probably resultsfrom the fact that the dominant arm is preferably usedfor the workout while the non dominant one is usedfor control and support [20].
+Obviously, balance in shoulder joint rotating mus -
+cles is particularly important in the aspect of shouldercomplex injury risk [21]. In reference sources we canfind norms, calculated based on PT, reflecting the in -
+ternal to external rotator ratio [22]. Our study protocoldid not contain such percentage parameter values,however, the data analysis reflects the confirmed do -
+minance of internal rotators over external ones,which may increase the risk of shoulder contusion[19,22,23]. Anyway, the improvement of both ER andIR during four months of training does not indicate anelevated risk of shoulder complex injuries [3]. 
+In conclusion, based on the available literature,
+we can assume that four months of swimming train -
+ing, conducted once a week for untrained individuals,decreases the injury rate of the rotator cuff by im -
+proving biomechanical parameters. This is due to themechanisms of strength and time parameter impro -
+vement, decreasing the load exerted on tissues dueto mechanical work. Stronger and better trained mus -
+cles are prepared for greater load. The fact that theobserved differences were moderate (although sig -
+nificant) may indicate that a 4-month period is tooshort to markedly improve strength parameters, com -
+pared with other activities performed by control groupsubjects, or swimming training performed once a weekis not intensive enough to obtain this effect. 4-monthtraining undoubtedly contributes to the improvementof biomechanical parameters of the shoulder joint,however, the effect is not so marked as expectedsince the improvement of strength parameters in thecontrol group was comparable. 
+The study outcome is not likely to contribute di -
+rectly to the development of preventive measures for
+23Hadamus A. et al. Shoulder injury risk factors in swimming
+by ły bar dzo du że (choć istot ne) mo że to świad czyć
+o tym, że okres 4 mie się cy pły wa nia jest zbyt krót ki,
+al by po pra wić pa ra me try si ło we w spo sób zna czą cy
+w sto sun ku do in nych ak tyw no ści, któ re wy ko ny wa ły
+oso by z gru py kon tro l nej lub tre ning pły wac ki raz
+w ty go dniu jest zbyt ma ło in ten syw ny by uzy skać ta -
+ki efekt. Czte ro mie sięcz ny tre ning pły wac ki nie wąt pli -
+wie wpły wa na po pra wę pa ra me trów bio me cha nicz -
+nych sta wu ra mien ne go, jed nak że w spo sób niż szy
+od ocze ki wa ne go, po nie waż po pra wa pa ra me trów si -
+ło wych w gru pie kon tro l nej by ła po rów ny wal na. 
+Wy ni ki ni niej szych ba dań nie mo gą w spo sób bez -
+po śred ni przy czy nić się do opra co wa nia pre wen cji
+ura zów stoż ka ro ta to rów. Po ka zu ją one jed nak, że
+re gu lar ny umiar ko wa ny tre ning pły wac ki po pra wia
+pa ra me try w za kre sie ro ta cji. Na pod sta wie li te ra tu ry
+wia do mo tak że, że po pra wa ro ta cji ze wnętrz nej u pły -
+wa ków zmniej sza ry zy ko ura zów kom plek su bar ko -
+we go. Oczy wi stym jest, że tre ning pły wa nia raz w ty -
+go dniu w ce lu po pra wy ro ta cji ze wnętrz nej nie jest
+roz wią za niem na po pra wę owej ro ta cji wśród za wo -
+do wych pły wa ków. Być mo że jed nak jest do brym po -
+my słem na tre ning bądź re ha bi li ta cję osób na ra żo -
+nych na te go ty pu ura zy, np. tre nu ją cych in ne dys cy -
+pli ny spor to we czy upra wia ją ce za wód wy ma ga ją cy
+usta wie nia ra mie nia po wy żej po zio mu.
+Wnio ski
+1. Czte ro mie sięcz ny tre ning pły wac ki raz w ty go dniu
+dla osób nie wy tre no wa nych wy da je się być wy -
+star cza ją cy, aby po pra wić pa ra me try si ło we i cza -
+so we mię śni stoż ka ro ta to rów, a tak że za kres ru -
+chu ro ta cji we wnętrz nej koń czy ny do mi nu ją cej, co
+mo że zmniej szać ura zo wość bar ku.
+2. Tre ning pły wac ki o nie wiel kiej in ten syw no ści zda -
+je się być sku tecz niej szą for mą ak tyw no ści w przy -
+pad ku po pra wy pa ra me trów cza so wych mię śni
+stoż ka ro ta to rów niż nie ce lo wa na re kre acja ru -
+cho wa po łą czo na z nor mal ną ak tyw no ścią.
+3. Na wet krót ko trwa ły tre ning pły wac ki mo że po wo -
+do wać po więk sze nie się asy me trii w pa ra me trach
+si ło wo -cza so wych po mię dzy koń czy na mi na ko -
+rzyść koń czy ny do mi nu ją cej. Na le ży za tem zwró -
+cić uwa gę na tre ning uzu peł nia ją cy, któ ry po zwo li
+na za cho wa nie sy me trii po mię dzy stro na do mi nu -
+ją cą i nie do mi nu ją cą.
+4. Ba da nia wy ma ga ją kon ty nu acji w opar ciu o więk -
+sze gru py ba da ne, dłuż szy czas tre nin go wy oraz
+pro spek tyw ną oce nę osób pły wa ją cych wy czy no wo.rotator cuff injuries. They indicate, however, that re -
+gular moderate swimming training improves rotationparameters. Based on the available literature, we knowthat improvement of external rotation in swimmersdecreases the risk of shoulder complex injuries. It isob vious that swimming training once a week to im -
+prove external rotation is not the proper solution inthe case of competitive swimmers. However, it may bea good idea to introduce training or rehabilitation forpersons exposed to such injuries, e.g. these practicingother sport disciplines or these whose occupationalactivities require lifting arms overhead.  
+Conclusions
+1. Four month swimming training conducted once 
+a week for untrained individuals seems sufficientto improve strength and time parameters of ro ta -
+tor cuff muscles as well as the range of internalrotation movements of the dominant arm, whichcan decrease shoulder injury rate. 
+2. Swimming training of low intensity seems to be 
+a more effective form of activity when time para -
+me ters of rotator cuff muscles should be improv -
+ed, than non-targeted movement recreation com -
+bined with normal activity. 
+3. Even a short-lasting swimming training can incre -
+ase asymmetry in strength-time parameters be -
+tween the limbs in favor of the dominant limb.The refore, complementary training is recom mend -
+ed, allowing to maintain symmetry between thedominant and the non-dominant side. 
+4. The research should be continued with larger sam -
+ples, longer training and prospective evaluation ofcompetitive swimmers. 
+24Hadamus A. i wsp. Pływanie a ryzyko urazu barku
+Piśmiennictwo / References
+1. Lisiński P, Samborski W. Czynniki warunkujące powstawanie i rozwój zespołu bolesnego barku. Now Lek 2008;
+12(4): 10-22.
+2. Van de Velde A, De Mey K, Maenhout A, Calders P, Cools AM. Scapular-Muscle Performance: Two Training Pro -
+grams in Adolescent Swimmers. J Athl Train 2011; 46(2): 160-9.
+3. Matthews MJ, Green D, Matthews H, Swanwick E. The effects of swimming fatigue on shoulder strength, range of
+motion, joint control, and performance in swimmers. Phys Ther Sport 2017; 23: 118-22.
+4. Tate A, Turner GN, Knab SE, Jorgensen C, Strittmatter A, Michener LA. Risk factors associated with shoulder pain
+and disability across the lifespan of competitive swimmers. J Athl Train 2012; 47(2): 149-58.
+5. Walker H, Gabbe B, Wajswelner H, Blanch P, Bennell K. Shoulder pain in swimmers: a 12-month prospective
+cohort study of incidence and risk factors. Phys Ther Sport 2012; 13(4): 243-9.
+6. Wolf BR, Ebinger AE, Lawler MP, Britton CL. Injury patterns in Division I collegiate swimming. Am J Sports Med
+2009; 37(10): 2037-42.
+7. Beach ML, Whitney SL, Dickoff-Hoffman S. Relationship of shoulder flexibility, strength, and endurance to shoulder
+pain in competitive swimmers. J Orthop Sports Phys Ther 1992; 16(6): 262-8.
+8. Lynch SS, Thigpen CA, Mihalik JP, Prentice WE, Padua D. The effects of an exercise intervention on forward head
+and rounded shoulder postures in elite swimmers. Br J Sports Med 2010; 44(5): 376-81.
+9. Olivier N, Quintin G, Rogez J. Le complexe articulaire de l’épaule du nageur de haut niveau. Ann Réadapt
+Médecine Phys 2008; 51(5): 342-7.
+10. Leão Almeida GP, De Souza VL, Barbosa G, Santos MB, Saccol MF, Cohen M. Swimmer’s shoulder in young
+athlete: rehabilitation with emphasis on manual therapy and stabilization of shoulder complex. Man Ther 2011;16(5): 510-5.
+11. Hartsell HD. The effects of body position and stabilization on isokinetic torque ratios for the shoulder rotators.
+Isokinet Exerc Sci 1999; 7: 161-70.
+12. Huang T, Wie S, Jung-Chi C. Isokinetic evaluation of shoulder internal and external rotators concentric strength and
+endurance in baseball players: Variations from pre-pubescence to adulthood. Isokinet Exerc Sci 2005; 13: 237-41.
+13. Dauty M, Delbrouck G, Saccol M. Reproducibility of concentric and eccentric isokinetic strength of the shoulder
+rotators in normal subjects 40 to 55 years old. Isokinet Exerc Sci 2003; 11: 95-100. 
+14. Demirors H, Circi E, Akqun RC, et al. Correlations of isokinetic measurements with tendon healing following open
+repair of rotator cuff tear. Int Orthop 2010; 34(4): 531-6.
+15. Guido J. Providing right resistance. Biodex Multi-Joint System: Isokinetic Source book. URL: http://mobility -
+systems.se/edit/Klinisk-resurs-manual-fr-isokinetisk-testning.pdf [dostęp 02.11.2017]. pp. 4-22.
+16. Poppen NK, Walker PS. Normal and abnormal motion of the shoulder. J Bone Joint Surg Am 1976; 58(2): 195-201.17. Manske RC, Tajchman CS, Stranghoner TA, Ellenbecker TS. Difference in isokinetic torque acceleration energy of
+the rotator cuff: competitive male pitchers versus male nonathletes. J Strength Cond Res 2004; 18(3): 447-50.
+18. Manske RC, Davies GJ. Postrehabilitation Outcomes of Muscle Power (Torque-Acceleration Energy) in Patients
+with Selected Shoulder Dysfunctions. J Sport Rehabil 2003; 12(3): 181-98.
+1
+9. Shklar A, Dvir Z. Isokinetic strength relationships in shoulder muscles. Clin Biomech Bristol Avon 1995; 10(7): 369-73.
+20. Figueiredo P, Seifert L, Vilas-Boas JP, Fernandes RJ. Individual profiles of spatio-temporal coordination in high
+intensity swimming. Hum Mov Sci 2012; 31(5): 1200-12.
+21. Grygorowicz M, GłowackaA, Wiernicka M, Kamińska E. Kompleksowa ocena fizjoterapeutyczna podstawą pro fi -
+lak tyki pierwotnej urazów sportowych. Now Lek 2010; 79(3): 240-4.
+22. Bręborowicz E. Wybrane parametry biomechaniczne stawu ramiennego chorych leczonych operacyjnie z powodu
+jego niestabilności [rozprawa doktorska]. Poznań: Uniwersytet Medyczny im. Karola Marcinkowskiego; 2015.
+23. Heiser TM, Weber J, Sullivan G, Clare P, Jacobs RR. Prophylaxis and management of hamstring muscle injuries
+in intercollegiate football players. Am J Sports Med 1984; 12(5): 368-70.
+25Hadamus A. et al. Shoulder injury risk factors in swimming

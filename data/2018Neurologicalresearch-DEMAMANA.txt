@@ -1,0 +1,706 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/326950774
+Effect of swimming training on nerve morphological recovery after
+compressive inju ry
+Article    in  Neur ologic al R esearch · August 2018
+DOI: 10.1080/01616412.2018.1504180
+CITATIONS
+12READS
+244
+5 author s, including:
+Alexa Alv es de Mor aes
+Univ ersidade F eder al de V içosa (UF V)
+19 PUBLICA TIONS    82 CITATIONS    
+SEE PROFILE
+Cay o Almeida
+Univ ersity of São P aulo
+4 PUBLICA TIONS    118 CITATIONS    
+SEE PROFILE
+Guilherme L ucas
+Univ ersity of São P aulo
+46 PUBLICA TIONS    2,942  CITATIONS    
+SEE PROFILE
+Jose Ant onio Thomazini
+Univ ersity of São P aulo
+63 PUBLICA TIONS    1,154  CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Aline S Demaman  on 28 A ugust 2018.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=yner20
+Neurological Research
+A Journal of Progress in Neurosurgery, Neurology and Neurosciences
+ISSN: 0161-6412 (Print) 1743-1328 (Online) Journal homepage: http://www.tandfonline.com/loi/yner20
+Effect of swimming training on nerve
+morphological recovery after compressive injury
+Alexa Alves de Moraes, Cayo Ant ônio Soares de Almeida, Guilherme Lucas,
+José Antonio Thomazini & Aline Santos DeMaman
+To cite this article:  Alexa Alves de Moraes, Cayo Ant ônio Soares de Almeida, Guilherme
+Lucas, Jos é Antonio Thomazini & Aline Santos DeMaman (2018): Effect of swimming training
+on nerve morphological recovery after compressive injury, Neurological Research, DOI:
+10.1080/01616412.2018.1504180
+To link to this article:  https://doi.org/10.1080/01616412.2018.1504180
+Published online: 09 Aug 2018.
+Submit your article to this journal 
+View Crossmark data
+
+ARTICLE
+Eﬀect of swimming training on nerve morphological recovery after
+compressive injury
+Alexa Alves de Moraesa, Cayo Antônio Soares de Almeidab, Guilherme Lucasc, José Antonio Thomazinid
+and Aline Santos DeMamane
+aDepartment of Physiotherapy, Center of Biological and Health Sciences, Paraíba State University, Campina Grande, Brazil;bCenter of
+Mathematics, Computing Sciences and Cognition, Federal University of ABC, São Paulo, Brazil;cDepartment of Physiology, Ribeirão
+Preto School of Medicine, University of São Paulo, Ribeirão Preto, Brazil;dDepartment of Surgery and Anatomy, Ribeirão Preto School of
+Medicine, University of São Paulo, Ribeirão Preto, Brazil;eDepartment of Biology, Center of Biological and Health Sciences, Paraíba State
+University, Campina Grande, Brazil
+ABSTRACT
+Objective : This study aims to investigate morphological alterations caused by partial sciatic
+nerve ligation (PNL) and the e ﬃcacy of a moderate-intensity swimming training as therapeu-
+tic strategy for nerve regeneration.
+Methods : A number of 30 male adult mice were equally divided in control, 14 days after PNL
+(PNL 14 days), 42 days after PNL (PNL 42 days), 70 days after PNL (PNL 70 days) and 5-week
+exercise training after 7 days post-lesion (PNL trained 35 days) groups. PNL trained 35 days
+group began with a 10-min session for 3 days and this time was gradually increased by
+10 min every three sessions until the animals had swum for 50 min per session.
+Morphoquantitative analysis was carried out to assess nerve regeneration in each group.
+Results : PNL 14 days group exhibited less degenerating signs than PNL 42 days group, where
+most post-lesion alterations were visualized. Nerve area and minimum diameter were sig-
+niﬁcantly lower ( p< 0.05) than control group. PNL 70 days group showed a greater degree of
+regenerating ﬁbers and similar morphometric parameters to control group. PNL trained
+35 days demonstrated signs of regeneration, reaching control group values in the morpho-
+metric analysis.
+Discussion : PNL promotes great histopathological changes, which became more visible at 42
+post-injury days. A natural nerve-regeneration tendency was observed throughout time, as
+observed in PNL 70 days group; nevertheless, moderate swimming training was found to be a
+therapeutic resource for nerve regeneration, accelerating such process from a morphoquan-
+titative perspective.
+Abbreviations : ANOVA: One-way analysis of variance; BDNF: Brain-derived neurotrophic
+factor; FGF-2: Fibroblast growth factor 2; GDNF: Glial cell line derived neurotrophic factor;
+IGF: Insulin-link growth factor; IL-1 β: Interleukin-1 β; NGF: Neural growth factor; PBS:
+Phosphate-bu ﬀered saline; PNL: Partial sciatic nerve ligationARTICLE HISTORY
+Received 15 May 2018
+Accepted 19 July 2018
+KEYWORDS
+Neuropathic pain; exercise;
+swimming; nerve
+regeneration; sciatic nerve
+Introduction
+Chronic pain following either illness or trauma remains a
+concerning public health issue. It has been one of the
+most frequent causes of health services use and the main
+reason of absenteeism, sick leave, early retirement, work-
+er’s compensation and low productivity levels [ 1–4].
+Neuropathic pain as a result of peripheral nerve lesion
+stands as one of the most di ﬃcult types of chronic pain to
+be treated due to its complex etiology remains unknown
+regarding initiation and maintenance mechanisms [ 5].
+Peripheral nerve injury triggers motor and sensorial
+abnormalities in the corresponding innervated region
+and induces the release of neurotrophic factors in the
+aﬀected site [ 6]. These proteins display an essential role in
+neural di ﬀerentiation, growth and survival throughout
+mammalian development [ 7,8], besides lead toneurogenesis in the adult animal [ 9,10]. Traumatic sciatic
+nerve injury in rats triggered a reduction in diameter of
+axons, myelinated ﬁbers and their density, as well as in
+myelin sheath thickness followed by the increase of endo-
+neurial areas in distal and proximal portions of the lesion
+[11–14].
+S t u d i e sh a v ee v i d e n c e dt h ei m p o r t a n c eo fp h y s i c a l
+activity, as a non-pharmacological approach to treat per-
+ipheral nerve injury, contributing to a faster recovery of
+sensorial and motor impairments in experimental mod-
+els. A number of mediators have been involved in med-
+iating exercise-induced ne rve regeneration, including
+neural growth factor (NGF), insulin-like growth factor
+(IGF), ﬁbroblast growth factor 2 (FGF-2) and mainly
+brain-derived neurotrophic factor (BDNF) [ 15]a n d
+glial cell line derived neurotrophic factor (GDNF) should
+CONTACT Alexa Alves de Moraes alexamoraesx3@gmail.com Center of Biological and Health Sciences –Paraíba State University, Rua Baraúnas
+no. 351, Bairro Universitário, Campina Grande –PB, Brazil, 58429-500NEUROLOGICAL RESEARCH
+https://doi.org/10.1080/01616412.2018.1504180
+© 2018 Informa UK Limited, trading as Taylor & Francis Group
+be outlined [ 16–18]. Furthermore, treadmill aerobic
+training as well as balance and coordination exercises
+elicited morphological and sensorimotor improvements
+after compressive sciatic injury in rats [ 13], an e ﬀect
+mediated by neurotrophic factors [ 15].
+Swimming can attenuate thermal hyperalgesia and
+mechanical allodynia due to chronic compressive nerve
+injury [ 19–21]. Extended swimming exercise progres-
+sively reversed mechanical allodynia in nerve injury
+mice, which lasted for an additional 4 weeks after exercise
+interruption. Besides, swimming exercise normalized
+nerve injury-induced nerve growth factor and the
+enhanced expression of BDNF in the dorsal root ganglion
+[21]. However, there is still a lack of consensus about the
+most appropriate protocol due to the need of greater
+understanding regarding the e ﬀects of swimming in per-
+ipheral nerve injuries.
+Considering that physical exercise is a non-pharma-
+cological and non-invasive method, accessible to all ages,
+the present study aims to investigate morphological
+alterations caused by partial sciatic nerve ligation, as
+well as the e ﬃcacy of a moderate-intensity swimming
+training as therapeutic resource for nerve regeneration
+through morphoquantitative analysis.
+Materials and methods
+Animals
+The experimental procedures were approved by the
+Ethical Committee for Animal Experimentation of
+Biological and Health Sciences Center of Paraíba State
+University (protocol number 5102042015), and were
+conducted according to the ethical guidelines of
+Brazilian College of Animal Experimentation [ 22]. The
+study used 30 male BALB/c mice, aged 9 –11 weeks and
+weighing from 20 g to 30 g. They were housed in standard
+polyethylene boxes, under 12:12 h light/dark cycle, in a
+temperature-controlled environment (22ºC and 60%
+humidity) with food and water ad libidum .
+Groups
+Mice were divided in ﬁvegroups and randomly
+assigned to di ﬀerent groups as follow: control
+group, comprising sedentary sham-operated ani-
+mals (control group, n= 6); nerve injury animals
+submitted to partial sciatic nerve ligation and
+remaining in sedentary conditions for 14 (PNL
+14 days, n= 6); 42 (PNL 42 days, n=6 ) ;o r
+70 days post-lesion (PNL 70 days, n= 6); and
+nerve-injured animals submitted to a 5-week
+swimming exercise training after 7 days of partial
+ligation of the sciatic nerve (PNL trained 35 days,
+n= 6). It is important to highlight that PNL
+42 days and PNL trained 35 days groups lived
+for 42 days after surgery.Neuropathic pain model
+The experimental model of neuropathic pain consists
+ofa partial unilateral nerve ligation ( Figure 1 )
+[23,24]. Surgical procedures were carried out under
+anesthesia with a mixture of ketamine (60 mg/kg)
+and xylazine (8 mg/kg). Partial nerve injury was
+produced by a tight ligature with 8 –0 silk suture
+around half of the diameter of the left sciatic nerve,
+and skin incisions were closed with stainless steel
+staples. Sham surgery involved exposure of the sciatic
+nerve, but no ligation was performed.
+Exercise protocol
+The swimming training consisted of daily sessions in a
+glass tank with a 30 cm depth, provided with a heating
+system that maintained the water temperature at 32 ± 0.5°
+C. A water ﬁlter with a ﬂow capacity of 380 L/h was
+adopted to clean the swimming apparatus throughout
+each session. The trainings were continuously monitored
+to avoid ﬂoating behavior.
+Partial nerve ligation leads to mechanical allodynia
+and thermal hyperalgesia, which starts 24 –48 h post-
+injury and remain for 3 –4 months. The experimental
+groups started training 7 days after lesion, which was set
+up due to the observation that mechanical and thermal
+hypersensitivity were established at that stage [ 21]. The
+protocol comprised swimming training once a day for 5
+Figure 1. Partial sciatic nerve ligation model.2 A. A. DE MORAES ET AL.
+consecutive days followed by 2 resting days over 5 weeks.
+PNL trained 35 days group began with a 10-min session
+for 3 days and the time was gradually increased by 10 min
+every three sessions until the animals swam for 50 min
+per session ( Figure 2 ).
+Histological procedures
+After each experimental protocol, animals were
+subcutaneously anesthetized with an association of keta-
+mine hydrochloride (60 mg/kg) and xylazine (8 mg/kg).
+Thereafter, they were transcardially perfused with phos-
+phate-bu ﬀered saline (PBS) 0.05 M at pH 7.3, followed by
+aﬁxative mixture of 2% paraformaldehyde and 1% glu-
+taraldehyde diluted with 0.1 M PBS at pH 7.3. The
+proportion of infusion solution applied in each animal
+was established considering a ratio of 1mL/g body weight.
+Soon after perfusion, the left sciatic nerve was dis-
+sected proximally to the injury. The nerves were
+immersed in the same ﬁxative solution and then a 2-h
+immersion in phosphate bu ﬀer was carried out. Once it
+was done, they were post ﬁxed with osmium tetroxide (1%
+diluted in phosphate bu ﬀer at 0.1 M, pH 7.3) for 2 h at
+4ºC. The osmium- ﬁxed tissues were dehydrated in
+increasing acetone series, aligned and embedded in
+Araldite® blocks to ensure ﬁber layer cross-section.
+Transversal slices (0.5 µm) were stained with 1%
+T o l u i d i n eb l u et ob ep o s t e r i o r l ya n a l y z e d .
+Morphological and morphometric analysis
+An optical microscope (Olympus BX 41-BF) coupled to
+animage-analysis system (Image Pro-Plus v6.2 software
+–Media Cybernetics) was employed for the analysis.
+The morphological analysis assessed myelinated and
+unmyelinated ﬁbers, interstitial space, besides endoneur-
+ial connective tissue, to detect any sign of structural
+damage and abnormal patterns of myelination in the
+sciatic nerve, as well as any typical histological sign of
+injury and the e ﬀect of swimming training.
+A morphometric analysis was carried out to estimate
+cross-section area and minimum diameter of the sciatic
+nerve.Statistical analysis
+Statistical analysis was performed using GraphPad
+Prism 5.01 software and data were presented as
+mean ± standard error of the mean. One-way analysis
+of variance (ANOVA) was carried out followed by
+post-hoc Turkey ’s test for multiple comparisons. In
+each case, signi ﬁcance was set to p< 0.05.
+Results
+Morphological analysis
+Control group demonstrated a bimodal ﬁberspectrum,
+encompassing large and small axonal ﬁbers. Myelinated
+ﬁbers presented with circular or ovoid pro ﬁle, being
+connect to each other through a scanty space of endo-
+neurial connective tissue, where clusters of unmyelinated
+ﬁbers were placed ( Figures 3(a )a n d 4(a)).
+Examinations of PNL 14 days group ’sc r o s s - s e c t i o n s
+demonstrated nerve swelling areas with linear appearance
+(Figure 3(b )). The distribution of small and large nerve
+ﬁbers, as well as the proportion between the myelin
+sheath thickness and ﬁber size remained regular.
+Nevertheless, their myelin sheath exhibited atypical bor-
+ders, such as lobulated and triangular, contrasting with
+control group. Histological features of endoneurial con-
+nective tissue were preserved, as well as unmyelinated
+ﬁbers conglomerates ( Figure 4(b )).
+After 42 days post-injury, the edema presented with
+diﬀuse appearance ( Figure 3(c )). Moreover, an increased
+interstitial space between ﬁbers was evident, suggesting
+interstitial ﬂuid accumulation. As a result, ﬁbers were
+dispersed rather than connected by endoneurium and
+small ﬁber clusters became less noticeable. Axonal ﬁbers
+remained irregular-shaped. Further analysis indicates
+that the nerve showed a considerable level of damage,
+evidenced by the presence of degenerating axons and
+degeneration debris is evident ( Figure 4(c )).
+Seventy days after lesion, it was observed a reduced
+nerve swelling and perceptible transition to circular
+or ovoid-shaped myelin sheath in sedentary animals.
+Besides degenerated axonal ﬁbers, regenerating ones
+could also be recognized due to its thin myelin sheath.
+Figure 2. Protocol for moderate-intensity swimming exercise. Seven days after partial sciatic nerve ligation, animals were
+submitted to swimming training once a day for 5 consecutive days followed by 2 resting days over 5 weeks. The swimming
+training time gradually increased from 10 to 50 min per session. Overall, the animals were submitted to 25 training sessions;
+wherein, the ﬁrst 12 sessions they swan for 10, 20, 30 and 40 min each three sessions, respectively. After that, 13 sessions of 50-
+min swimming training were carried out.NEUROLOGICAL RESEARCH 3
+A visible increment on number of small ﬁbers clusters
+and endoneurial connective tissue was identi ﬁed, sug-
+gesting a regenerating proc ess in the injured sciatic
+nerve ( Figures 3(d )a n d 4(d)).
+The trained group, which was euthanized 42 days
+post-injury, exhibited swelling nerve areas with a linear
+aspect ( Figure 3(e )). In contrast to PNL 42 days group,
+axonal ﬁbers are grouped and connected through endo-
+neurial tissue. Regarding myelin sheath pro ﬁles, small
+ﬁbers were irregular-shaped ; whereas, large myelinated
+ones looked similar to control group, and a regular pro-
+portion between axon diameter and myelin sheath thick-
+ness was noticeable ( Figure 4(e )). Such qualitative datasuggest that sciatic regeneration was in process at that
+stage. It is also important to highlight the fact that none of
+the groups evidenced any sign of perineurial damage.
+Morphometric analysis
+Animals submitted to sciatic nerve injury demonstrated
+lower area ( Figure 5 ) and minimum diameters ( Figure 6 )
+of cross-sections as compared to control group. The
+histological evolution of the lesion exhibited a downward
+trend until 42 days post-injury; therefore, area ( Figure 5
+(a)) and minimum diameter ( Figure 6(a )) values signi ﬁ-
+cantly ( p< 0.05) reduced in PNL 42 days group. Although
+Figure 3. Sciatic nerve cross-sections from (a) Control group, (b) PNL 14 days group, (c) PNL 42 days group, (d) PNL 70 days
+group and (e) PNL trained 35 days, stained with toluidine blue (1%) and visualized through light microscope at 20×
+magni ﬁcation (scale bar: 50 μm). Observe swelling areas (*) and nerve ’s perineurium (black arrows). The sciatic nerve ’s ovoid
+shape remained regular even after surgery. When compared to the other groups, PNL 70 days demonstrated diminished
+swelling areas.
+Figure 4. Sciatic nerve cross-sections from (a) Control group, (b) PNL 14 days group, (c) PNL 42 days group, (d) PNL 70 days
+group and (e) PNL trained 35 days, stained with toluidine blue (1%) and visualized through light microscope at 100×
+magni ﬁcation (scale bar: 10 μm). Observe swelling areas (*), myelinated ﬁbers (down arrowheads), unmyelinated ﬁbers (>),
+endoneurial connective tissue (+) and degeneration debris (×). Contrasting from control group, atypical myelin sheath contours,
+such as lobulated and triangular, can be observed in PNL 14 days and PNL 42 days group. A regeneration process is evident in
+PNL 70 days group, indicated by the transition to myelin sheath circular shape and presence of small ﬁbers clusters. This process
+seemed complete in the trained group, which presented similar morphological aspects to control group.4 A. A. DE MORAES ET AL.
+PNL 70 days group attained higher results than the pre-
+vious group, such values did not reach control group.
+Figures 5(b )a n d 6(b), respectively, show correspond-
+ing areas and minimum diameters of sciatic cross-sec-
+tions, regarding the e ﬀect of swimming exercise through
+comparisons between sedentary and trained groups
+42 days after lesion. PNL 42 days group demonstrated a
+signiﬁcant ( p< 0.05) decrease in both analyzed factors;
+whereas, PNL trained 35 days reached control group
+values.
+Discussion
+The present study aimed to evaluate the e ﬀects of
+swimming training on the morphological alterations
+in the sciatic nerve following partial sciatic ligation, aswell as the histological evolution of the nerve lesion
+over a 70-day period.
+Despite numerous exercise protocols have been
+carried out to elucidate their e ﬀects on peripheral
+nerve regeneration [ 3,4,11–13,24,25], there is still
+no consensus regarding which exercise modality
+and parameters –i.e. exercise intensity, duration
+and frequency –are the most appropriate for indu-
+cing neural improvements. F urthermore, few studies
+have examined the e ﬀect of swimming on peripheral
+neuropathies.
+Besides, the rodent experimental partial sciatic
+ligation mimics the complex human neuropathic
+pain syndrome [ 23] and promotes cellular morpho-
+logical details identical to human nerve [ 26]; thus,
+being a reliable model to be examined.
+Figure 5. Area values of sciatic nerve cross-sections. (a) Evolution of nerve injury considering area of sciatic nerve cross-sections
+over time. All sedentary animals submitted to partial nerve ligation exhibited lower areas in comparison to control group. The
+area values presented with a downward pattern until 42 days post-injury, being PNL 42 days group values signi ﬁcantly reduced
+(p< 0.05) when compared to baseline. Although a natural regeneration trend was observed at 70 days post-injury, as can be
+noted in PNL 70 days group results, control group values were not achieved at such post-lesion time. (b) Swimming exercise
+increased area values in PNL trained 35 days group when compared to PNL 42 days group, thus overcoming control group
+values. It is important to highlight that both experimental groups presented with the same post-lesion time, because the
+training was started 7 days after the injury.
+Figure 6. Minimum diameter of sciatic nerve cross-sections. (a) Evolution of the nerve injury considering the minimum diameter
+ofsciatic nerve cross-sections over time. All sedentary animals submitted to partial nerve ligation exhibited lower values when
+compared to control group. The minimum diameters presented with a downward pattern until 42 days post-injury, being PNL
+42 days group values signi ﬁcantly reduced ( p< 0.05) when compared to baseline. Although PNL 70 days group attained higher
+values than PNL 42 days group, control group values were not attained at such post-lesion time. (b) Swimming exercise
+increased minimum diameter values in PNL trained 35 days group when compared to PNL 42 days group, thus reaching control
+group values. It is important to highlight that both experimental groups presented with the same post-lesion time, because the
+training was started 7 days after the injury.NEUROLOGICAL RESEARCH 5
+Sciatic nerve morphological changes after lesion
+Ourﬁndings reveal that partial nerve ligation leads to
+visible histopathological alterations. At 14 days post-
+injury, morphological damage is not so apparent,
+characterized only by central interstitial edema and
+slight distortions in myelin sheaths. The most evident
+morphological changes were observed in sedentary
+animals at 42 days post-lesion, in which irregularly
+contoured nerve ﬁbers with distortions in their mye-
+lin sheaths, as well as di ﬀuse edema and decreased
+minimum cross-sectional diameter of the sciatic
+nerve were identi ﬁed. On the other hand, when
+70 days were elapsed following the lesion, nerve ﬁbers
+presented with more regular and rounded contours,
+besides morphometric parameters were quite similar
+to the control group, suggesting a spontaneous regen-
+erative process, though still incomplete.
+One factor that may have contributed to the mor-
+phological changes over the 70 post-lesion days is the
+potential circulatory alterations as a result of the
+mechanical compression of the sciatic nerve, which
+could possibly lead to circulation disturbances and
+subsequent in ﬂammatory responses [ 27]. It was pre-
+viously reported that prolonged and intense compres-
+sions may lead to axonal injury, protein exudation,
+nerve ﬁbrosis, intraneural edema as well as increased
+hydraulic pressure [ 28], which might have promoted
+distortions in myelin sheath contours in our study.
+The post-injury time may also play a role in
+underlying morphological changes following nerve
+lesion. The ﬁndings reported by Possamai et al. did
+not show great histopathological alterations in prox-
+imal stumps after axonotmesis of the sciatic nerve in
+rats. However, the longest post-lesion survival time
+was 29 days [ 29], in contrast to our PNL 42 days and
+PNL 70 days groups, where most visible changes were
+recorded.
+Ilha et al . reported similar morphological results
+regarding sciatic crush lesion in rats, where proximal
+and distal stumps were analyzed after 42 days follow-
+ing nerve injury [ 11]. At the distal portion of the
+regenerating sciatic nerve, great signs of degeneration
+were observed; whereas, the histological features of
+the proximal stump were more discrete when com-
+pared to the distal one [ 11]. Thus, it is important to
+consider that proximal and distal stumps develop
+responses to injury as previously reported in the
+literature [ 30]. Therefore, the present study focused
+on assessing morphological and morphometric
+changes in proximal stump of the lesion, where
+usually occurs a backward degeneration up to the
+ﬁrst node of Ranvier, followed by the elaboration of
+multiple daughter axons [ 31]. In contrast to the ﬁnd-
+ings of the proximal stump reported by Ilha et al .
+[11], our analysis identi ﬁed that at 42 days post-
+injury important alterations in morphology andmorphometry of the nerve were found. Such diver-
+gence might be explained by di ﬀerences in the type of
+lesion.
+Sciatic nerve morphometric changes after partial
+ligation
+The analyzed morphometric parameters over the
+post-lesion period presented with the same pattern:
+a downward trending until the 42ndday, followed by
+increased values in the 70thday, though they did not
+attain control group means. Such ﬁndings suggest
+that a nerve degeneration process might proceed
+even at 42 days post-lesion, indicating that e ﬀective
+regenerative mechanisms start afterward. This might
+be associated to the fact that following peripheral
+nerve lesion, a combination of molecular and cellular
+events, collectively designated as Wallerian degenera-
+tion, is triggered distally to the injury as well as
+within a small reactive portion at the proximal
+stump, culminating in axonal degeneration [ 32].
+A cellular outgrowth occurs from proximal nerve
+stump, where several axonal sprouts are released
+toward the basal lamina tubes from the Schwann
+cells of the distal portion to re-establish innervation
+[33]. Several agents are involved in nerve degeneration
+and subsequent regeneration to modulate these pro-
+cesses, e.g. previous studies indicated that apart from
+providing support structure to regenerating ﬁbers,
+Schwann cells stimulate the release of neurotrophic
+factors [ 34]; Macrophages, besides removing degenera-
+tion debris, usually release interleukin-1 β(IL-1 β),
+which triggers the secretion of growth factors [ 35,36].
+Additionally, plastic alterations in central nervous sys-
+tem after peripheral nerve injury may activate lower
+motor neurons, promoting the increase in neurotro-
+phins synthesis [ 4]. How these factors combined with
+further mechanisms work in peripheral nerve injuries
+is not well elucidated; especially, regarding the nerve
+repair after partial sciatic nerve ligation.
+Another possible factor associated to the pattern
+investigated in the morphometric analysis is the
+reduced viscoelasticity properties of the nerve; thus,
+an increased collagenation, endoneural retraction and
+rigidity are installed in nerve boundaries [ 37,38]. This
+allows external forces to a ﬀect the inner portion of
+the nerve [ 37], leading to a reduced diameter.
+A critical ﬁnding in this study is related to the
+beneﬁts of swimming exercise training on the
+changes caused by partial nerve lesion. All morpho-
+quantitative parameters indicated regenerated ﬁbers
+in PNL trained 35 days group, as compared to seden-
+tary animals. Additionally, the di ﬀerences between
+PNL trained 35 days animals and PNL 42 days
+group suggest a faster regenerative process in the
+animals submitted to swimming exercise [ 25].6 A. A. DE MORAES ET AL.
+Exercise therapy on nerve regeneration
+Conﬂi cting results regarding the potential bene ﬁts or
+deleterious e ﬀects of exercise therapy on nerve regen-
+eration have been described. The protocol speci ﬁca-
+tions, i.e. intensity, duration and modality, as well as
+the exercise startpoint after injury were found to be
+critical aspects for rehabilitation therapy. The present
+study set out 7 days after surgery as the exercise start-
+point to ensure a postsurgical recovery time.
+Furthermore, at such time, animals exhibited mechan-
+ical allodynia and thermal hypersensitivity [ 21]; thus,
+indicating an established neuropathic pain syndrome.
+Regarding the intensity of exercise protocols, dis-
+tinct exertion levels of exercise may in ﬂuence nerve-
+associated cells, such as macrophages and Schwann
+cells [ 25,39]. Additionally, although endurance exer-
+cise triggered bene ﬁcial e ﬀects after nerve injury,
+when combined with resistance training, it might
+delay functional recovery of sciatic nerve [ 11].
+Swimming, as a complex endurance exercise, might
+participate in the modulation of in ﬂammatory responses
+on the injured tissue [ 25], leading to increased reinner-
+vation and axonal sprouting [ 40]. Our results are in line
+with previous studies where endurance training was
+largely associated with regeneration after an experimen-
+tal traumatic nerve injury [ 11,25]. A previous study
+carried out by our group demonstrated that the same
+swimming protocol was capable of normalizing nerve
+injury-induced up-regulation of NGF and BDNF in
+dorsal root ganglion, which was not only associated to
+neuropathic pain reduction [ 21], but also to a faster
+peripheral nerve regeneration [ 41].
+Taken together, our data raised strong evidences
+that swimming training played an important role in
+nerve regeneration after partial ligation. Moreover,
+additional studies are required to investigate further
+molecular and systemic events underlying the pre-
+sented swimming protocol, and the e ﬀect of exercise-
+dependent neurotrophic factors on nerve regeneration
+Conclusion
+In summary, our data evidence that partial sciatic nerve
+ligation promotes signi ﬁcant histopathological changes,
+which became more visible at 42 post-injury days. At
+70 days, nerve repair seemed to occur, though still
+incomplete. Most importantly, moderate swimming
+training was found to be an important therapeutic
+alternative for nerve regeneration, accelerating such
+process from a morphoquantitative perspective.
+Acknowledgments
+The authors are grateful to José Ethan Lucena Barbosa,
+PhD professor, and to the Laboratory of Limnology of
+Paraíba State University, which gently allowed us toproceed the morphoquantitative analysis of the present
+study. We also express our gratitude to Mariana
+Cavalcante de Menezes for contributing on results analysis.
+Disclosure statement
+No potential con ﬂict of interest was reported by the
+authors.
+Funding
+This work was supported by the Fundação de Amparo à
+Pesquisa do Estado de São Paulo –FAPESP [grant number:
+11/08364-6] and by Paraíba State University through the
+Institutional Program for Scienti ﬁc Initiation Scholarships
+-PIBIC [grant number: 01/2014].
+ORCID
+Cayo Antônio Soares de Almeida http://orcid.org/0000-
+0003-4562-192X
+José Antonio Thomazini http://orcid.org/0000-0003-
+3769-0108
+References
+[1] Eberstein A, Eberstein S. Electrical stimulation of
+denervated muscle: is it worthwhile? Med Sci
+Sports Exerc. 1996 ;28(12):1463 –1469.
+[2] Lee SK, Wolfe SW. Peripheral nerve injury and
+repair. J Am Acad Orthop Surg. 2000 ;8(4):243 –252.
+[3] Mendonça AC, Barbieri CH, Mazzer N. Directly
+applied low intensity direct electric current enhances
+peripheral nerve regeneration in rats. J Neurosci
+Methods. 2003 ;129(2):183 –190.
+[4] Teodori RM, Betini J, de Oliveira LS, et al.
+Swimming exercise in the acute or late phase after
+sciatic nerve crush accelerates nerve regeneration.
+Neural Plast. 2011 :8. DOI: 10.1155/2011/783901 .
+[5] Ji RR, Kawasaki Y, Zhuang ZY, et al. Possible role of
+spinal astrocytes in maintaining chronic pain sensi-
+tization: review of current evidence with focus on
+bFGF/JNK pathway. Neuron Glia Biol. 2006 ;2
+(4):259 –269.
+[6] Li Y, Dorsi MJ, Meyer RA, et al. Mechanical hyper-
+algesia after an L5 spinal nerve lesion in the rat is not
+dependent on input from injured nerve ﬁbers. Pain.
+2000 ;85(3):493 –502.
+[7] Kuruvilla R, Zweifel LS, Glebova NO, et al. A neuro-
+trophin signaling cascade coordinates sympathetic
+neuron development through di ﬀerential control of
+TrkA tra ﬃcking and retrograde signaling. Cell.
+2004 ;118(2):243 –255.
+[8] Zweifel LS, Kuruvilla R, Ginty DD. Functions and
+mechanisms of retrograde neurotrophin signalling.
+Nat Rev Neurosci. 2005 ;6(8):615 –625.
+[9] Abrous DN, Koehl M, Le Moal M. Adult neurogen-
+esis: from precursors to network and physiology.
+Physiol Rev. 2005 ;85(2):523 –569.
+[10] Sairanen M, Lucas G, Ernfors P, et al. Brain-derived
+neurotrophic factor and antidepressant drugs have
+diﬀerent but coordinated e ﬀects on neuronal turn-
+over, proliferation, and survival in the adult dentate
+gyrus. J Neurosci. 2005 ;25(5):1089 –1094.NEUROLOGICAL RESEARCH 7
+[11] Ilha J, Araujo RT, Malysz T, et al. Endurance and
+resistance exercise training programs elicit speci ﬁc
+eﬀects on sciatic nerve regeneration after experimen-
+tal traumatic lesion in rats. Neurorehabil Neural
+Repair. 2008 ;22(4):355 –366.
+[12] English AW, Cucoranu D, Mulligan A, et al.
+Treadmill training enhances axon regeneration in
+injured mouse peripheral nerves without increased
+loss of topographic speci ﬁcity. J Comp Neurol.
+2009 ;517(2):245 –255.
+[13] Bonetti LV, Schneider APK, Barbosa S, et al. Balance
+and coordination training and endurance training
+after nerve injury. Muscle Nerve. 2015 ;51(1):83 –91.
+[14] Kakegawa A, Yokouchi K, Itsubo T, et al.
+Correlation between motor function and axonal
+morphology in neonatally sciatic nerve-injured rats.
+Anat Sci Int. 2015 ;90(2):97 –103.
+[15] Vaynman S, Gomez-Pinilla F. License to run: exercise
+impacts functional plasticity in the intact and injured
+central nervous system by using neurotrophins.
+Neurorehabil Neural Repair. 2005 ;19(4):283 –295.
+[16] Griesbach GS, Hovda DA, Molteni R, et al. Voluntary
+exercise following traumatic brain injury: brain-
+derived neurotrophic factor upregulation and recovery
+of function. Neuroscience. 2004 ;125(1):129 –139.
+[17] Vaynman S, Ying Z, Gomez –Pinilla F. Hippocampal
+BDNF mediates the e ﬃcacy of exercise on synaptic
+plasticity and cognition. Eur J Neurosci. 2004 ;20
+(10):2580 –2590.
+[18] Ying Z, Roy RR, Edgerton VR, et al. Exercise restores
+levels of neurotrophins and synaptic plasticity fol-
+lowing spinal cord injury. Exp Neurol. 2005 ;193
+(2):411 –419.
+[19] Rossi DM, Valenti VE, Navega MT. Exercise training
+attenuates acute hyperalgesia in streptozotocin-
+induced diabetic female rats. Clinics. 2011 ;66
+(9):1615 –1619.
+[20] Chen YW, Li YT, Chen YC, et al. Exercise training
+attenuates neuropathic pain and cytokine expression
+after chronic constriction injury of rat sciatic nerve.
+Anesth Analg. 2012 ;114(6):1330 –1337.
+[21] Almeida C, DeMaman A, Kusuda R, et al. Exercise
+therapy normalizes BDNF upregulation and glial
+hyperactivity in a mouse model of neuropathic
+pain. Pain. 2015 ;156(3):504 –513.
+[22] Conselho Nacional de Controle de Experimentação
+Animal (Brazil). Diretriz Brasileira para o Cuidado e
+a Utilização de Animais para Fins Cientí ﬁcos e
+Didáticos –DBCA [Brazilian Guidelines for
+Management and Utilization of Animals for
+Scienti ﬁc and Didatic Purposes]. Brasília: Ministério
+da Ciência; 2013 .
+[23] Seltzer ZE, Dubner R, Shir Y. A novel behavioral
+model of neuropathic pain disorders produced in
+rats by partial sciatic nerve injury. Pain. 1990 ;43
+(2):205 –218.
+[24] Marqueste T, Alliez JR, Alluin O, et al.
+Neuromuscular rehabilitation by treadmill running
+or electrical stimulation after peripheral nerve injury
+and repair. J Appl Physiol. 2004 ;96(5):1988 –1995.
+[25] Liao CF, Yang TY, Chen YH, et al. E ﬀects of
+swimming exercise on nerve regeneration in a rat
+sciatic nerve transection model. BioMedicine.
+2017 ;7(1):16 –24.[26] Mackinnon SE, Hudson AR, Hunter DA. Histologic
+assessment of nerve regeneration in the rat. Plast
+Reconstr Surg. 1985 ;75(3):384 –388.
+[27] Huang H, Gu J, Chen H. Hyperbaric oxygen therapy
+for peripheral nerve injury. Chongqing Yixue.
+2010 ;39(7):881 –883.
+[28] Matsumoto N. Experimental study on compression
+neuropathy –determination of blood ﬂow by a hydro-
+gen washout technic. Nihon Seikeigeka Gakkai
+Zasshi. 1983 ;57(8):805 –816.
+[29] Possamai F, Pacheco DR, dos Santos TS, et al.
+Repercussões morfológicas e funcionais do exercício
+sobre a regeneração nervosa periférica
+[Morphological and functional repercutions of exer-
+cise on peripheral nerve regeneration]. Fisioterapia
+Em Movimento. 2012 ;25(3):617 –627.
+[30] Hall S. The response to injury in the peripheral
+nervous system. Bone Jt J. 2005 ;87(10):1309 –1319.
+[31] Ertürk A, Hellal F, Enes J, et al. Disorganized micro-
+tubules underlie the formation of retraction bulbs
+and the failure of axonal regeneration. J
+Neuroscience. 2007 ;27(34):9169 –9180.
+[32] Koeppen AH. Wallerian degeneration: history and
+clinical signi ﬁcance. J Neurol Sci. 2004 ;220(1):115 –
+117.
+[33] Brushart TM, Ho ﬀman PN, Royall RM, et al.
+Electrical stimulation promotes motoneuron regen-
+eration without increasing its speed or conditioning
+the neuron. J Neuroscience. 2002 ;22(15):6631 –6638.
+[34] Spranger M, Lindholm D, Bandtlow C, et al.
+Regulation of Nerve Growth Factor (NGF) synthesis
+in the rat central nervous system: comparison
+between the e ﬀects of Interleukin-1 and various
+growth factors in astrocyte cultures and in vivo.
+Eur J Neurosci. 1990 ;2(1):69 –76.
+[35] Kao CH, Chen JJJ, Hsu YM, et al. High-frequency
+electrical stimulation can be a complementary ther-
+apy to promote nerve regeneration in diabetic rats.
+PloS ONE. 2013 ;8(11):e79078.
+[36] Chang YJ, Hsu CM, Lin CH, et al. Electrical stimula-
+tion promotes nerve growth factor-induced neurite
+outgrowth and signaling. Biochim Biophys Acta-
+General Subjects. 2013 ;1830(8):4130 –4136.
+[37] Mazzer PYCN, Barbieri CH, Mazzer N, et al.
+Morphologic and morphometric evaluation of
+experimental acute crush injuries of the sciatic
+nerve of rats. J Neurosci Methods. 2008 ;173
+(2):249 –258.
+[38] Fraher J, Dockery P. A strong myelin thickness-axon
+size correlation emerges in developing nerves despite
+independent growth of both parameters. J Anat.
+1998 ;193(2):195 –201.
+[39] Robinson MD, Shannon S. Rehabilitation of periph-
+eral nerve injuries. Phys Med Rehabil Clin N Am.
+2002 ;13(1):109 –135.
+[40] Gutmann E, Jakoubek B. E ﬀect of increased
+motor activity on regeneration of the peripheral
+nerve in young rats. Physiol Bohemoslov.
+1962 ;12:463 –468.
+[41] Vögelin E, Baker JM, Gates J, et al. E ﬀects of
+local continuous release of brain derived neuro-
+trophic factor (BDNF) on peripheral nerve regen-
+eration in a rat model. Exp Neurol. 2006 ;199
+(2):348 –353.8 A. A. DE MORAES ET AL.
+View publication stats

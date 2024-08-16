@@ -1,0 +1,843 @@
+African Journal for Physical, Health Education, Recreation and Dance (AJPHERD)  
+Supplement ( March ), 201 2, pp. 57-76.  
+ 
+Incidence of shoulder injuries and related risk factors among master 
+swimmers in South Africa  
+ 
+PIETER ERNST KRÜGER, ANNEMARIE DRESSLER AND MARISKE BOTHA  
+ 
+Department of Biokinetics, Sport and Leisure Science, Associate of the Institute for Food, Nutrition 
+and Well -being, University of Pretoria, Pretoria 0002, South Africa; E -mail: ernst.kruger@up.ac.za  
+ 
+Abstract  
+ 
+Incidence of shoulder injuries have been widely reported for work -related musculoskeletal pain in the 
+upper extremities, but there is a lim ited amount of research and statistics available that reports on the 
+incidence of shoulder pain in master swimmers. This study investigated the association between 
+literature identified risk factors and the incidence of shoulder pain in South African maste r swimmers. 
+A total of 282 m aster swimmers completed a shoulder pain and related risk factors questionnaire  
+during the 2010 South African Masters Swimming Championships. Statistical analysis of the data was 
+done to determine frequencies, percentages, odds ratios and significance levels. Shoulder pain was 
+found to be more likely in females (odds ratio (OR) = 1.3), smokers (OR = 1.8),  swimmers swimming 
+more than one stroke (OR = 1.2) and competitive swimmers (OR = 2.2). Swimmers engaging in 
+strength training (OR = 0.78) showed a reduced incidence of shoulder pain. The calculated incidence 
+of shoulder pain over the three -year period among the master swimmers was 62.4%. Significant 
+statistical associations between shoulder pain and the risk factors of osteoporos is, volume of training 
+and competitiveness were found. This high incidence of shoulder pain highlights the need for the 
+development of interventions to prevent these injuries in master swimmers. Further research is needed 
+to determine the incidence and cau ses of shoulder pain in other swimming populations in South 
+Africa.  
+ 
+Keywords:  Shoulder pain, incidence, risk factors, master swimmers . 
+ 
+How to cite this article:  
+Krüger, P.E., Dressler, A. & Botha , M. (2012 ). Incidence of shoulder injuries and related ris k factors 
+among master swimmers in South Africa. African Journal for Physical, Health Education, Recreation 
+and Dance, March (Supplement), 56 -76. 
+ 
+Introduction  
+ 
+Swimming is a popular leisure time pursuit in South Africa. Masters swimming has 
+been growing i n popularity, and open water swims such as the Midmar Mile have 
+been achieving record entry volumes. Due to the increased importance attached to 
+exercise and a healthy lifestyle more people look for recreational pursuits like 
+swimming that provide these be nefits. Swimming also provides a good non -weight 
+bearing alternative to exercise for people in all age groups as well as people suffering 
+from injury or disease.  
+ 
+The benefits of exercise through the aging process have been widely reported (Daley 
+& Spinks, 2000; Paterson, Jones & Rice,  2007).  Exercise such as swimming 
+increases muscle strength and power, and will increas e functional ability in the 
+58   Krüger, Dressler a nd Botha  
+activities of daily living in the very old (Daley & Spinks, 2000; Paterson et al.,  
+2007).  
+ 
+The term “swimmers shoulder” is often used to describe a combination of soft tissue 
+injuries that lead to shoulder pain in swimmers (Goldstein & Tanner, 1999) . 
+Competitive swimmers at all levels of participation suffer from a variety of shoulder 
+injuries that include rotator cuff disease. Studies have shown that pain from shoulder 
+injuries can interfere with training and can seriously affect swimming performance 
+(McMaster, Robberts & Stodard, 1998).  
+ 
+Prevalence and incidence of shoulder injuries have been wide ly reported for work -
+related musculoskeletal pain in the upper extremities (Werner, Franzblau, Gell, Ulin 
+& Armstrong, 2005; Roquelaure, Leclerc, Touranchet, Sauteron, Melchior, Imbernon 
+& Goldberg, 2006) . Roquelaure et al. (2006) study involvin g 2 685 men and women 
+in 2003 in France showed the incidence of shoulder injuries over one year to be 
+34.3% in women and 39.8% in men. Werner et al. (2005) found in a cohort study 
+over 5.4 years that 94 out of 350 industrial and clerical workers developed upper 
+extremity musculoskeletal disorders.  
+ 
+In a cross -sectional survey conducted by Puckree and Thomas (2006) on competitive 
+swimmers between the ages of 13 and 25 in KwaZulu -Natal, 71% of the respondents 
+experienced shoulder pain, while 64% reported act ual shoulder injuries which 
+included impingement, supraspinatus and bicipital tendonitis, bursitis and muscle 
+strain. There is, however, a limited amount of research and statistics available that 
+report on the incidence of shoulder pain in master swimmers (McMaster & Tramp, 
+1993) . 
+ 
+Swimming is a sport involving repetitive force application by the shoulder and arm. 
+Epidemiological studies and reviews of work -related upper extremity 
+musculoskeletal pain found evidence that repetitive mechanical loading and th e 
+application of force above shoulder height increase the incidence of shoulder pain 
+(Sommerich & Hughes, 2006, Nawoczenski, Ritter -Soronen, Wilson, Howe & 
+Ludewig,  2006) . As certain jobs share the same biomechanical movement patterns 
+and loading as swimming, the risk factors that predict shoulder injury in these jobs 
+may be relevant to the development of shoulder pain in swimmers.  
+ 
+The workplace, lifestyle and demographic risk factors identified in literature on 
+work -related and sport -related studies to determine the risk factors and predictors of 
+shoulder pain in a variety of populations are summarised in Table 1.  
+ 
+ 
+ 
+ 
+ 
+Incidence of shoulder injuries among  master swimmers    59 
+Table 1: Risk factors for the development of shoulder injuries  
+ 
+Risk factor  Auth or Used in 
+questionnaire  
+Mechanical -related    
+Work above shoulder  (Padma  & Balasubramanie, 2008 ) Yes through 
+stroke  
+Working with rotated 
+neck  (Padma  & Balasubramanie, 2008)  Yes throug h 
+stroke  
+Lifestyle -related    
+Sports activity  (Padma & Balasubramanie, 2008)  Yes 
+Weight training  (Northover et al., 2007)  Yes 
+Volume of sport training  (Padma & Balasubramanie, 2008; Sein, 2008)  Yes 
+Demographics    
+Age (Kuijpersa, Windta, Heijdenb & Boutera,  2004; 
+Werner et al., 2005; P adma & Balasubramanie, 
+2008)  Yes 
+Gender  (Treaster & Burr, 2004; Padma & 
+Balasubramanie, 2008)  Yes 
+Other    
+Psychosocial  factors   No 
+Smoking  (Werner et al., 2005; Northover et al., 2007; 
+Padma & Balasubramanie, 2008; Sein, 2008)  Yes 
+BMI  (Werner et al., 2005; Padma & Balasubramanie, 
+2008)  Yes 
+Trauma  (Padma & Balasubramanie, 2008)  Yes 
+Disease characteristics    
+Prior history of shoulder 
+problems  (Padma & Balasubramanie, 2008)  Yes 
+Rheumatoid arthritis  (Northover et al., 2007)  Yes 
+Osteoarthritis  (Northover et al., 2007; Padma & 
+Balasubramanie, 2008)  Yes 
+Osteoporosis  (Prior  et al., 1996)   Yes 
+Diabetes  (Laslett et al., 2008)  Yes 
+Obesity  (Werner et al., 2005; Padma & Balasubramanie, 
+2008)  Yes 
+ 
+The primary objective of the study was to determine the incidence of shoulder pain 
+in master swim mers in South Africa. The secondary objective was to determine 
+whether a relationship exists between selected risk factors and the occurrence of 
+shoulder pain among the master swimmers.  
+ 
+Methods and Material  
+ 
+Study design  
+ 
+The research was conducted as a r etrospective case control study and data were 
+collected using a questionnaire.   
+ 
+60   Krüger, Dressler a nd Botha  
+Population and sample  
+ 
+In early 2010, 450 master swimmers (220 women and 230 men) entered to compete 
+in the South African Masters National Swimming Championships. Among these  
+were 18 foreign swimmers from Russia, UK, Swaziland and Germany who were 
+excluded from the study. Of the 450 swimmers, 417 travelled to Pretoria in March 
+2010 and actually competed in the championships.  
+ 
+Questionnaire  
+ 
+A shoulder pain and related risk fa ctors questionnaire for master swimmers in South 
+Africa  was constructed firstly to determine the incidence of shoulder pain in master 
+swimmers over a three -year period. Questions in this section also reported on the 
+number of times pain was experienced wit hin the period and any known causes.  
+ 
+The presence of risk factors at the time of the injury was also surveyed in the same 
+questionnaire. Only the variables listed in Table 1 that could successfully be 
+surveyed were selected. This excluded psychosocial ris k factors that can easily be 
+flawed in recall. Thirty data items covering demographic, lifestyle, training habits 
+and general health were surveyed.  
+ 
+Demographic details included data items such as age, gender, height and weight, 
+while the lifestyle section  determined the smoking status of the individual. The 
+general health section of the questionnaire included questions regarding the timing 
+and the occurrence of illnesses linked to shoulder pain such as rheumatoid arthritis, 
+osteoarthritis, osteoporosis and  diabetes. The section of training habits included data 
+items such as training stroke, training volume and whether the individual engaged in 
+resistance training.  
+ 
+The questionnaire did not include any data items that reported on the recovery from 
+or inter ventions taken by the swimmers in the recovery process.  
+ 
+Validity and reliability  
+ 
+Internal validity refers to the extent to which differences identified among people is a 
+result of the intervention or variable being tested ( Eldridge, Ashby, Benett, Wakel in 
+& Feder,  2008). To ensure internal validity to eliminate selection bias, the case and 
+control groups were tested and found to be similar in age, gender and BMI. 
+Information bias was eliminated because the case and control groups completed the 
+same quest ionnaire at the same time. Recall bias was also limited by restricting the 
+research period to only three years. The questionnaires were also completed 
+anonymously, further eliminating possible bias.  
+ 
+Incidence of shoulder injuries among  master swimmers    61 
+Interpretation of results can be affected by possible co nfounders. Confounders are 
+important in determining whether an apparent association is in fact attributable to 
+other factors such as age or gender differences. Possible confounders were identified 
+in the study as being:  
+ 
+ Illnesses can confound the odds rat ios of other risk factors.  
+ Trauma can confound the odds ratios of other risk factors.  
+ Other activities indicated to be the cause of shoulder pain can confound the odds 
+ratios of other risk factors.  
+ 
+All these risk factors had very low frequencies and it wa s assumed that the effect of 
+the confounding on the odds ratio would not be significant. Implementing the 
+controls for internal validity ensured that the conclusions drawn in the study are 
+warranted by the data (Leedy & Ormrod, 2001) .  
+ 
+External validity  refers to the extent to which the study results can be generalised to 
+other individuals or settings and situations (Eldridge et al., 2008). The results of this 
+study cannot be generalised to the wider population but can be applied to other 
+master swimmers in similar settings.  
+ 
+Reliability  has to do with the degree to which a measurement instrument produces 
+consistent results (Leedy & Ormrod, 2001) . Reliability was ensured by giving all the 
+participants the same standardised questionnaire to complete. No further measures of 
+reliability were included in the study.  
+ 
+Data and statist ical methods  
+ 
+The numerical and categorical data from the questionnaires were captured into an 
+Excel database and encoded with numerical values. All statistical tests were 
+performed using Excel and Statistical Packages for the Social Sciences (SPSS) 
+softwa re. Means and standard deviations were used to describe demographic details 
+such as age and gender. The height and weight data items were used to calculate the 
+Body Mass Index (BMI) for each swimmer. Charts were plotted for the demographic 
+data and some ri sk factors such as BMI.  
+ 
+The data were categorised to indicate swimmers shoulder pain (cases) and those 
+without pain (controls). A t -test was calculated to determine if statistical differences 
+existed between cases and controls in terms of the mean ages, genders and BMI. 
+Odds ratios (OR) were calculated as estimated measures of association between each 
+risk factor and the outcome, namely shoulder pain and a 95% confidence interval 
+(CI) was applied.  
+62   Krüger, Dressler a nd Botha  
+Results  
+ 
+Response rate  
+ 
+Two hundred eighty two (n=282) mas ter swimmers completed the shoulder pain and 
+related risk factors questionnaire after exclusion of 10 pre -master (younger than 25 
+years) swimmers. The response rate at the championships was thus 67.6%. The high 
+response rate was achieved through the distri bution to and control of questionnaires 
+by the respective club captains. Club captains were briefed personally on the goals of 
+the study and the ethical considerations. The questionnaire was only two pages long, 
+further ensuring higher response rate.  
+ 
+The participants’ identities were kept confidential by separating questionnaires and 
+informed consent forms, and only placing respondent numbers on the questionnaires.   
+ 
+Demographic analysis  
+ 
+Questionnaires were completed by 282 swimmers of which 144 were fe males and 
+136 were males. Females comprised 51.1%  of the sample and males, 48.9%.  The age 
+distribution for the swimmers is depicted in Figure 1.  
+ 
+Age distribution
+051015202530
+25 -
+2930 -
+3435 -
+3940 -
+4445 -
+4950 -
+5455 -
+5960 -
+6465 -
+6970 -
+7475 -
+7980 -
+8485 -
+8990 -
+94
+Age groupNumber
+Female Male
+ 
+Figure 1: Age distribution of master swimmers at the 2010 SA National Championships  
+ 
+Incidence of shoulder injuries among  master swimmers    63 
+ 
+ 
+Figure  2: BMI distribution of master swimmers at the 2010 SA National Championships  
+ 
+BMI calculations were made according to WHO prescriptions (Williams, 2007)  and 
+are depicted in Figure 2. 
+ 
+Incidence  
+ 
+The calculated incidence of shoulder pain over the three -year period in the master 
+swimmers was 62.4%. Of these swimmers, 28.7% indicated that they experienced 
+recurring pain during the three -year period and 20.9% described their pain as 
+chronic. In 37.2% of the swimmers the pain was so severe that they had to 
+discontinue their training. Swimmers gave the responses provided in Table 2 
+concerning the possible causes of their shoulder pain.  
+ 
+Table 2: Swimmer perceived causes of shoulder pain  
+ 
+Cause  n Total  
+Shoulder pathology   51 
+Rotator cuff  20  
+Muscle injuries  8  
+Problems in neck  5  
+Tendonitis  5  
+Other  13  Body Mass Index  
+0 10 20 30 40 50 60 70 80 90 100 
+Underweight  Normal  Overweight  Obese  BMI 
+Female  Male 
+64   Krüger, Dressler a nd Botha  
+Cause  n Total  
+Swim and strength training   89 
+Overtraining  17  
+Paddles  15  
+Swimming  14  
+Strength training  9  
+Other  34  
+Posture and flexibi lity  14 
+Flexibility  7  
+Weak muscles/stabilizers  7  
+Trauma   12 
+Other   37 
+Overuse  11  
+Other sport/recreational activities  9  
+Lifting/carrying heavy objects  6  
+Deconditioning  4  
+Other  7  
+ 
+Comparison of the groups  
+ 
+The results of the analysis of th e cases and control groups by means of a t -test are set 
+out in Table 3.  
+ 
+Table 3: Results of the comparison of the master swimmers with and without shoulder pain  
+Variables  Pain n Mean  Std deviation  
+Gender  Control  106 .56 .499 
+  Cases  176 .48 .501 
+Age Control  106 50.58  13.149  
+  Cases  176 49.04  11.737  
+BMI  Control  98 25.50  5.202  
+  Cases  165 25.28  4.203  
+ 
+The result showed that the groups were homogeneous with relation to age , gender 
+and BMI variables.  
+ 
+Frequencies  
+ 
+The frequencies and the percentages f or all the data were tabulated (Table 4).  
+ 
+ 
+ 
+ 
+ 
+Incidence of shoulder injuries among  master swimmers    65 
+Table 4: Results summary  
+Risk factor  No pain  Pain 
+Age n % n % 
+25-34 14 42 19 58 
+35-44 22 31 49 69 
+45-54 27 33 54 67 
+55-64 28 44 37 56 
+65-74 11 44 14 56 
+75-94 4 50 4 50 
+Gender      
+Male  47 34 91 66 
+Female  59 41 85 59 
+BMI      
+Underweight  1 25 3 75 
+Normal  46 37 77 63 
+Overweight  36 37 61 63 
+Obese  13 37 22 63 
+Smoking      
+Current/Ex -smoker  18 50 18 50 
+Non-smoker  88 36 158 64 
+RA     
+Sufferer  1 13 7 88 
+Non-sufferer  105 38 169 62 
+OA     
+Sufferer  8 36 14 64 
+Non-sufferer  98 38 162 62 
+OP     
+Sufferer  7 70 3 30 
+Non-sufferer  99 36 173 64 
+ 
+66   Krüger, Dressler a nd Botha  
+Associations  
+ 
+Odds ratios, 95% confidence intervals and significance levels were calculated using 
+the SPSS software (Table 5).  
+ 
+Participation in other activities  
+ 
+Swimmers participate in a range of other sporting and recreational activities (Table 
+6).  
+ 
+Table 5: Odds ratios, confidence intervals and significance levels of statistics of  master swimmers at 
+the 2010 SA National Championships  
+ Odds ratio  95% confidenc e Fisher’s scale  
+Risk factor   Low Up Exact significance (1 -
+sided)  
+Age     
+25-34 1.0    
+35-44 0.61 0.259  1.431  0.179  
+45-54 0.68 0.296  1.558  0.24 
+55-64 1.06 0.452  2.469  0.538  
+65-74 1.07 0.374  3.040  0.558  
+75-94 1.36 0.289  6.369  0.5 
+Gender      
+Male  1.0    
+Female  1.34 0.829  2.179  0.141  
+Body mass index      
+Underweight/ Normal  1.0    
+Overweight/ Obese  1.01 0.607  1.664  0.544  
+Smoking      
+Non-smoker  1.0    
+Current/ Ex -smoker  1.8 0.889  3.623  0.073  
+RA      
+Non-sufferer  1.0    
+Diagnosed with  0.23 0.028 1.894  0.13 
+OA     
+Non-sufferer  1.0    
+Diagnosed with  0.94 0.382  2.331  0.548  
+OP     
+Non-sufferer  1.0    
+Diagnosed with  4.08 1.031*  16.129  0.036*  
+Diabetic      
+Non-sufferer  1.0    
+Incidence of shoulder injuries among  master swimmers    67 
+ Odds ratio  95% confidenc e Fisher’s scale  
+Risk factor   Low Up Exact significance (1 -
+sided)  
+Diagnosed with  1.11 0.182  6.757  0.622  
+Trauma      
+None  1.0    
+Suffered trauma  0.99 0.98 1.007  0.845  
+Training strokes      
+Only freestyle  1.0    
+Only breaststroke  1.41 0.467  4.202  0.367  
+More than one stroke  1.21 0.698  2.110  0.292  
+Swims fly  1.06 0.440  2.538  0.533  
+Training volume      
+Low/Medium  1.0    
+High  0.36 0.568 0.680  0.004*  
+Type of swimmer      
+Recreational  1.0    
+Competitive  2.18 1.205*  4.000  0.008*  
+Strength training      
+No 1.0    
+Yes 0.78 0.434  1.387  0.239  
+* Indicates a significant level of association  
+ 
+When asked if these activities contributed to the ir shoulder pain, swimmers indicated 
+that the activities of gymnasium, golf, rowing and waterpolo did. These data could, 
+however, not be used, as the questions were not structured well enough to isolate any 
+confounding risk factors.  
+ 
+Table 6: Summary of sp orting activities in which master swimmers compete  
+ 
+Activity  n 
+Cycling/ Spinning  56 
+Running  46 
+Gymnasium and weight training  30 
+Walking  22 
+Golf 13 
+Triathlon  8 
+Pilates and yoga  7 
+Hiking  6 
+Tennis  6 
+Waterpolo  6 
+Rowing  5 
+68   Krüger, Dressler a nd Botha  
+Activity  n 
+Squash  5 
+Other  64 
+ 
+Discus sion 
+ 
+Comparison of case and control groups  
+ 
+There were no significant differences between the case group and the control group for age 
+gender and BMI. These groups can therefore be considered homogenous.  
+ 
+Age 
+ 
+Werner et al. (2005) found that it is not com mon for a person to develop non -
+traumatic shoulder tendonitis before the age of 40, but it is fairly common in older 
+individuals. This association is mostly related to repeated injury over time and the 
+body’s decreased ability to repair the injury quickly.  Range of motion (ROM) and 
+joint stiffness increases with age. This is mostly due to degenerative changes in the 
+elastin component of connective tissue that surround the joints (Baechle  & Earle, 
+2008) . This may lead to an increase in shoulder injuries with age.  
+ 
+The average age of swimmers at the championships was 49 years for females and 50 
+years for males. The oldest female swimmer was 90 years old and the oldest male 
+swimmer was aged 81 ye ars.  
+ 
+The odds ratio decreased between the ages of 35 -55, maybe showing the protective 
+effect of swimming. As expected, the odds ratio gradually increased over the age 
+groups from age 55 onwards, showing that the older swimmers were more likely to 
+develop  shoulder pain than the younger swimmers. However, the tests showed no 
+significant association between age and the incidence of shoulder pain in the 
+swimmers.  
+ 
+Gender  
+ 
+Treaster and Burr (2004) conducted a literature review to determine whether women 
+experi ence higher prevalence of upper extremity musculoskeletal disorders (MSDs) 
+than men. They reviewed 56 articles on gender differences in incidence, prevalence 
+and frequency rates for MSDs of the upper extremity. Most of the studies showed 
+that women had sig nificantly higher incidence of upper extremity MSDs than men. 
+Although the odds ratio showed that females were 1.3 times more likely to develop 
+shoulder pain than the male swimmers, the tests showed no significant association 
+between gender and incidence o f shoulder pain in the swimmers.  
+ 
+Incidence of shoulder injuries among  master swimmers    69 
+Gun (1990) found that the incidence rates varied between different occupations and 
+stated that the gender differences were not so much biological differences but that 
+they were rather mostly due to the different tasks ass igned to women and men. Male 
+and female swimmers train and compete in the same strokes, and this might offer 
+some insight into the fact that the association of shoulder pain to gender is not 
+significant.  
+ 
+Body mass index (BMI)   
+ 
+BMI is a measurement that h as replaced weight as the preferred determinant of 
+obesity (Williams, 2007) . Results indicate that almost double the amount of males to 
+female swimmers fall in the overweight and obese categor ies. The average BMI for 
+females and males were 24 and 27 respectively.  
+ 
+Werner et al. (2005) found that a person with a BMI over 30 is likely to develop an 
+upper extremity tendonitis (UET) in the near future. There is no clear explanation for 
+BMI as a ris k factor for UET, except that it possibly acts as an indicator of 
+deconditioning.  
+ 
+The 1.01 odds ratio for overweight/obese swimmers shows that BMI does not affect 
+the odds ratio of shoulder pain in master swimmers. This might substantiate the joint 
+protec tive properties of swimming, as it provides a good non -weight bearing 
+alternative to exercise for overweight and obese individuals. The tests slso showed 
+no significant association between BMI and the incidence of shoulder pain in the 
+swimmers.  
+ 
+Smoking  
+ 
+The study by  Northover, Lunn, Clark and Phillipson (2007) suggests that limited 
+micro vascular blood supply to the tendons of the rotator cuff muscles predisposes 
+the muscles to atrophy. It would be expected that smoking will increase the risk of 
+rotator cu ff disease in a similar way, but the study did not find smoking to be a risk 
+factor. A study by Werner et al. (2005) found that the incidence of upper extremity 
+tendonitis amongst smokers over a 5.4 -year period was 34.6%. In this study a n 
+average of 89.6% of swimmers were found to be non -smokers. A total of 36 master 
+swimmers are currently smoking. This constitutes only 12.8% of the sampled 
+swimmers.  
+ 
+Although odds ratios showed that smokers were 1.8 times more likely to develop 
+shoulder pain, no statistica lly significant association could be established between 
+smoking and the incidence of shoulder pain due to the small number of smokers in 
+the present study.  
+ 
+ 
+70   Krüger, Dressler a nd Botha  
+Rheumatoid arthritis (RA)  
+ 
+Antoniou, Tsai, Baker, Schumacher, Williams and  Ianotti  (2003) found t hat 
+incidence of rotator cuff pathology (which causes shoulder pain) is higher in patients 
+with rheumatoid arthritis, but they might mistake the pain they felt from shoulder 
+impingement for inflammatory pain of the glenohumeral joint (Northover et al.,  
+2007). Only eight swimmers indicated that they suffered from RA. The odds ratio 
+showed a high negative association with shoulder pain, which could possibly be 
+linked to the use of anti -inflammatory medication. No statistically significant 
+association could be  established between RA and shoulder pain in this study.  
+ 
+Osteoarthritis (OA)  
+ 
+People who suffer from osteoarthritis seem to have an increased risk of rotator cuff 
+disease and this may predispose them to sub -acromial osteophytes at the acromio -
+clavicular j oint. This can be abrasive to the supraspinatus tendon, and cause 
+inflammation and tears (Antoniou et al., 2003; Northover et al., 2007). Twenty -two 
+swimmers indicated that they had suffered from OA for an average of 8.3 years. 
+However, no statistically si gnificant association could be established between OA 
+and shoulder pain in this study.  
+ 
+Osteoporosis (OP)  
+ 
+Due to the non -weight -bearing characteristic of swimming it has been associated 
+with bone mineral density deficits in female swimmers, which is a ri sk factor for 
+osteoporosis later in life (Derman, Cinemre, Kanbur, Doğan, Kılıç & Karaduman, 
+2008) . Osteoporosis can lead to compression fractures in the thoracic spine, which 
+tend to collapse anteriorly, develop rounding of the back (kyphosis), which leads to 
+loss of height and may lead to back and shoulder pain (Prior, Barr, Chow & 
+Faulkner, 1996) . Ten of the surveyed swimmers indicated that they had suffered 
+from osteoporosis for an average of 5.7 years. The  odds ratio showed that swimmers 
+with OP were 4.08 times more likely to develop shoulder pa in. A  statistically 
+significant association was established between OP and shoulder pain among the 
+swimmers.  
+ 
+Diabetes  
+ 
+In this study diabetes was found to be a significant risk factor for the development of 
+rotator cuff disease. This is because diabetes affects the micro vascular blood supply 
+and this then impedes the supply of nutrients, predisposing the muscles to atrophy. It 
+also reduces the ability of the tendon to repair itself in the event of trauma 
+(Northover et al. , 2007). According to Laslett, Bu rnet, Redmond and McNeil  (2008), 
+shoulder pain and disability are common and persistent in adults with diabetes.  Poor 
+glycaemia control and diabetic complications are factors that can worsen shoulder 
+Incidence of shoulder injuries among  master swimmers    71 
+pain and disability. There were seven swimmers who indic ated that they had been 
+diagnosed with diabetes. Only one swimmer had suffered from the disease for more 
+than 20 years. The odds ratio was 1.1, indicating only a slightly higher increased risk 
+of shoulder pain linked to diabetes. However, n o statistically significant association 
+could be established between diabetes and shoulder pain in this study.    
+ 
+Trauma  
+ 
+One of the work -related risk factors for shoulder and neck pain identified by Padma 
+and Balasubramanie (2008) is previous trauma. Shugars, Williams, Cline  and 
+Fishburne (1984) concluded in their study that prevalence of musculoskeletal 
+disorder was related to sports injuries and trauma injuries. Twenty -four swimmers 
+indicated that their shoulder pain resulted from a traumatic event. No further details 
+as to the nature of this traumatic event were included in the questionnaire.  
+ 
+Swimming stroke  
+ 
+According to Padma and Balasubramanie (2008) working with arms above shoulder 
+level is one of the mechanical -related risk factors to shoulder pain. Work by 
+Jarvh olm, Palmerud, Styf, Herberts  and Kadefors (1988)  on muscle physiology 
+showed that when the arm is raised above 30˚, the pressure within the supraspinatus 
+muscle increases to such an extent that normal blood flow to the muscle might be 
+impaired. This can c ontribute to rotator cuff disease and ultimately shoulder pain.  
+ 
+Northover et al. (2007) also found that regular overhead activities increased the risk 
+of rotator cuff disease. High rates of shoulder pain are seen in people who are 
+exposed to routine over head work, such as construction workers or athletes whose 
+sports involve frequent overhead arm use. This pain frequently progresses to 
+functional loss and disability (Nawoczenski et al., 2006).  
+ 
+The strokes front crawl, breaststroke and butterfly all have the potential for incorrect 
+stroke mechanics due to incorrect catch positions and force application above 
+shoulder height (Maglischo, 2003) . Front crawl and backstroke use alternating arm 
+patterns and a body roll i s used to position the shoulder effectively. Breaststroke and 
+butterfly use a simultaneous bilateral arm action with no body roll. Breaststroke has 
+the lowest reported incidence of shoulder injuries (Souza, 1995) . 
+ 
+Swimmers we re asked to indicate in which stroke they did most of their training. 
+Unfortunately due to the way the question was structured, this caused ambiguity and 
+many swimmers indicated more than one stroke in their answer. The data was sorted 
+according to the fol lowing categories:  
+ 
+ 
+ 
+72   Krüger, Dressler a nd Botha  
+ Those who indicated only freestyle  
+ Those who indicated only breaststroke  
+ Those who indicated more than one stroke  
+ Those who indicated butterfly  
+ 
+Odds ratios were determined for the categories comparing them to swimmers who 
+swam freest yle only as a reference. Results indicated that swimming more than one 
+stroke raised the risk of developing shoulder pain slightly. No statistically significant 
+association was established between swimming stroke and shoulder pain in this 
+study.    
+ 
+Volume of training  
+ 
+According to Northover et al. (2007), people who undertake manual work are at 
+higher risk of developing shoulder pain through rotator cuff disease than those who 
+have a clerical job. They also identified a relationship between the strenuousnes s of 
+the work undertaken and the development of rotator cuff disease. They found that the 
+probability ratios of developing this disease with clerical, light and heavy manual 
+work were 1: 1.85: 3.81, respectively. In a survey of the training habits of USA 
+master swimmers, Taylor, Stager, Tanner, Battista and Roberts (2001) found that the 
+swimmers averaged four days of training per week all year round with an almost 
+uniform training volume across all age groups of between 1800 m and 3 200 m per 
+session with v ery little difference between the genders.  
+ 
+The volume training load of the master swimmers was calculated for each swimmer 
+by multiplying the weekly frequency of training with the daily distance per training 
+session. This was then divided into three grou ps according to the following criteria:  
+ 
+ Low volume   0-4 999 m/week  
+ Medium volume  5 000 -11 999 m/week  
+ High volume   12 000 m and greater/week  
+ 
+Odds ratios were calculated comparing low/medium volume swimmers with high 
+volume swimmers. It showed that low v olume swimmers were 2.8 times more likely 
+to develop shoulder pain. This result is contradictory to previous research and may 
+be linked to the fact that swimmers are swimming less due to the high incidence of 
+shoulder pain. Puckree and Thomas (2006) found that 75% of the swimmers who 
+complained of shoulder injuries had to stop swimming temporarily due to the injury. 
+Finding an association between volume of training and shoulder pain will need 
+further prospective research. A  statistically significant associa tion was established 
+between the volume of training and shoulder pain in this study.    
+ 
+ 
+Incidence of shoulder injuries among  master swimmers    73 
+Competitiveness  
+ 
+Competitive swimmers engage in professional training programmes and sport -
+specific conditioning in order to optimise performance. Sein (2008) found th at large 
+amounts of swimming training (number of hours swam per week and weekly 
+mileage) in competitive swimmers resulted in a higher incidence of supraspinatus 
+tendinopathy.   
+ 
+A total of 165 swimmers indicated that they perceived themselves to be recreat ional 
+swimmers, while 74 swimmers regarded themselves as competitive swimmers. Odds 
+ratios indicated that competitive swimmers were 2.2 times more likely to develop 
+shoulder pain than recreational swimmers. A  statistically significant association was 
+estab lished between the competitiveness of swimmers and shoulder pain in this 
+study.    
+ 
+Strength training  
+ 
+People undertaking shoulder intensive recreational activities such as weight training 
+are at an increased risk of developing rotator cuff disease (Northov er et al., 2007). 
+Odds ratios indicated that master swimmers who did strength training had a reduced 
+risk of developing shoulder pain. This may indicate a protective association for 
+swimmers who strengthen the shoulder joint through regular strength traini ng. No  
+statistically significant association could be established between the strength training 
+and shoulder pain in this study.    
+ 
+Limitations of the study  
+ 
+Master swimmers can compete in both open water and pool competitions. Only 
+swimmers who are regist ered with the South African Master Swimmers (SAMS) and 
+Swim South Africa (SSA) can compete in the national championships. Master 
+swimmers who compete in open water events do not have to register. This study was 
+limited to swimmers who were registered with SSA. Furthermore, master swimmers 
+with current severe shoulder pain might not have entered for the championships and 
+were thus excluded from the survey. This might have led to underreporting of injury 
+incidence rates. A test -retest reliability test should have been done, but because the 
+master swimmers were only available during the South African Masters National 
+Swimming Championships, it was not possible.  
+ 
+Conclusion and Recommendations  
+ 
+Master swimmers in South Africa are not professionally supported, an d usually have 
+wide responsibilities such as families and work. Shoulder pain not only impacts  on 
+the training and performance of these swimmers, but also carries over into other 
+spheres of life that may for instance lead to lost work time (McMaster et al. , 1998).  
+74   Krüger, Dressler a nd Botha  
+Understanding the risk factors of shoulder pain will help in the prediction and early 
+diagnosis of shoulder injuries. Early diagnosis improves the prognosis for complete 
+recovery from the injuries. It will allow master swimmers to enjoy the benef its of 
+fitness and exercise until old age.  
+ 
+The study showed significant statistical associations between shoulder pain and the 
+risk factors of osteoporosis, volume of training and competitiveness in the sampled 
+master swimmers. The incidence of shoulder pain in the master swimmers was 
+64.2%. Reporting on this high incidence highlights the need for the development of 
+interventions to prevent shoulder injuries in recreational and competitive master 
+swimmers.  
+ 
+Further research is needed to determine the inc idence of shoulder pain in other 
+swimming populations in South Africa; specifically open water swimming that is 
+growing in popularity in South Africa. The relationship between volume of training 
+and shoulder pain also needs further investigation.  
+ 
+Referen ces 
+ 
+Antoniou, J., Tsai, A., Baker, D., Schumacher, R., Williams, G.R. & Ianotti, J.P. (2003). Milwaukee 
+shoulder: Correlating possible etiological variables.  Clinical Orthopaedics and Related Research, 407, 
+79-85. 
+ 
+Baechle, T. & Earle,  R. (Eds.) (2008). Essentials of Strength Training and Conditioning , Champaign, 
+IL: Human Kinetics.  
+ 
+Daley, M. & Spinks, W. (2000). Exercise, mobility and aging. Sports Medicine,  29, 1 -12. 
+ 
+Derman, O., Cinemre, A., Kanbur, N., D oğan, M., Kılıç, M. & Karaduman, E. (2008). Effect of 
+swimming on bone metabolism in adolescents. The Turkish Journal of Pediatrics , 50, 149 -154. 
+ 
+Eldridge, S., Ashby, D., Benett, C., Wakelin, M.  & Feder, G. (2008). Internal and external validity of 
+cluste r randomised trials: Systematic review of recent trials. British Medical Journal, 336, 876 -880.  
+ 
+Goldstein, M. & Tanner, D. (1999). Swimming Past 50. Champaign, IL: Human Kinetics.  
+ 
+Gun, R.T. (1990). The incidence and distribution of RSI in South Australi a 1980 -81 to 1986 -87. The 
+Medical Journal of Australia, 153, 376 -380. 
+ 
+Jarvholm, U., Palmerud, G., Styf, J., Herberts, P.  & Kadefors, R. (1988). Intramuscular pressure in the 
+supraspinatus muscle. Journal of Orthopaedic Research, 6, 230 -238. 
+ 
+Kuijpersa, T. , Windta, D.L.A., Heijdenb, G.J.M. & Boutera, L. M. (2004). Systematic review of 
+prognostic cohort studies on shoulder disorders. Pain, 109, 420 -431. 
+ 
+Laslett, L., Burnet, S., Redmond, C. & McNeil, J. (2008). Predictors of shoulder pain and shoulder 
+disabi lity after one year in diabetic outpatients. Rheumatology,  47, 1583 -1586.  
+ 
+Incidence of shoulder injuries among  master swimmers    75 
+Leedy, P. & Ormrod, J. (2001). Practical Research: Planning and Design, New Jersey: Merrill 
+Prentice Hall.  
+ 
+Maglischo, E. (2003). Swimming Fastest, Champaign,  IL: Human Kinetics.  
+ 
+McMaster, W.  & Tramp, D. (1993). A survey of interfering shoulder pain in United States competitive 
+swimmers. American Journal of Sports Medicine,  21, 67 -70. 
+ 
+McMaster, W., Robberts, A. & Stodard, T. (1998). A corrolation between shoulder laxity and 
+interfe ring pain in competitive swimmers. American Journal of Sports Medicine,  26, 83 -86. 
+ 
+Nawoczenski, A., Ritter -Soronen, J., Wilson, C., Howe, B. & Ludewig, P. (2006). Clinical trial of 
+exercise for shoulder pain in chronic spinal injury. Physical Therapy,  86, 1604 -1618.  
+ 
+Northover, J., Lunn, P., Clark, D. & Phillipson, M. (2007). Risk factors for the development of rotator 
+cuff disease. International Journal of Shoulder Surgery,  1(2), 82 -86. 
+ 
+Padma, T. & Balasubramanie, P. (2008). Knowledge -based decision supp ort system to assist work -
+related risk analysis. Knowledge -based Systems  (In press).  
+ 
+Paterson, D.H., Jones, G.R. & Rice, C.L. (2007). Ageing and physical activity: Evidence to develop 
+exercise recommendations for older adults. Applied Physiology, Nutritio n and Metabolism,  32, 69 -
+108. 
+ 
+Prior, J., Barr, S., Chow, R. & Faulkner, R. (1996). Physical actvity as therapy for osteoporosis. 
+Canadian Medical Association Journal,  155, 940 -944. 
+ 
+Puckree, T. & Thomas, K.J. (2006). Shoulder injuries in competitive swimm ers in KwaZulu -Natal. 
+South African Journal of Sports Management,  18, 10 -12. 
+ 
+Roquelaure, Y., Leclerc, A., Touranchet, A., Sauteron, M., Melchior, M., Imbernon, E. & Goldberg, 
+M. (2006). Epidemiologic surveillance of upper extremity musculoskeletal disorde rs in the working 
+population. Arthritis & Rheumatism, 55, 765 -778. 
+ 
+Sein, M. (2008). Shoulder pain in elite swimmers: Primarily due to swim -volume induced 
+supraspinatus tendinopathy. British Journal of Sports Medicine, (online), at  
+http://BJSM.bmj.com/cont ent/early/2008/05/07/bjsm.2008.047282. 25 January 2010.  
+ 
+Shugars, D.A., Williams, D., Cline, S.J.  & Fishbur ne, C. (1984). Musculoskeletal back pain among 
+dentists, General Dentistry, 32, 481 -485. 
+ 
+Sommerich, C.M. & Hughes, R.E. (2006). Aetiology of work -related disorders of the rotator cuff 
+tendons: Research and theory. Theoretical Issues in Ergonomics Science,  7, 19 -38. 
+ 
+Souza, T.A. (1995). Sports Injuries of the Shoulder , New York : Churchill Livingstone.  
+ 
+Taylor, J., Stager, J., Tanner, D., Battista, R. & Roberts, M. (2001). Who are masters swimmers?: 
+Previous competitive experience, events and training. ASCA Newsletter,  6. 
+ 
+Treaster, D.E. & Burr, D. (2004). Gender differences in prevalence of upper extremity 
+musculoskeletal disorders. Ergonomics,  47, 495 -526. 
+ 
+76   Krüger, Dressler a nd Botha  
+Werner, R.A., Franzblau, A., Gell, N., Ulin, S.S. & Armstrong, T.J. (2005). A longitudinal study of 
+industrial and clerical workers: Predictors of upper extremity tendonitis. Journal of Occupational 
+Rehabilitation,  15(1), 37 -46. 
+ 
+Williams, M. (Ed.) (2007). Nutrition for Health, Fitness and Sport.  New York: McGraw Hill.  
+ 

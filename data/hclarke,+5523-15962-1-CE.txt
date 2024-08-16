@@ -1,0 +1,231 @@
+ 
+ CASE STUDIES OF ASYMMETRIES IN  SWIMMING  
+Ross Sanders1,3, Carla McCabe1, Alison Alcock2, Louise Wright2, Neil Donald2, 
+Irene Riach2, and Malcolm Fairweather2 
+Centre for Aquatics Research and Education, Institute for Sport, Physical 
+Education, and Health Sciences, The University of Edinburgh, Edinburgh, UK1 
+Sportscotland Institute, Stirling, UK2  
+Exercise and Sport Science, Faculty of Health Science s, The University of 
+Sydney3 
+An interrelated influence of strength, flexibility, anthropometric and technique asymmetries 
+affects performance in swimming. Underpinning aetiologies include both acquired and 
+inherited factors. The combination of factors vari es among swimmers and therefore 
+demands a multi -disciplinary case study approach to identify and correct asymmetries to 
+improve performance and reduce incidence of injuries. The purpose of this presentation is to 
+provide examples of analyses informing indi vidualised interventions to correct asymmetries. 
+Interventions comprise programmes of strength, flexibility, posture, and technique 
+refinement. Analyses included measures of strength on the Biodex, measures of strength, 
+posture, flexibility and anthropomet ry based on the International Society for the 
+Advancement of Kinesiology (ISAK) conventions, and video -based qualitative and 
+quantitative three -dimensional analysis of technique. Sample data of a breaststroke 
+swimmer and a backstroke swimmer are presented to illustrate the interrelationships among 
+strength, flexibility, posture, technique and performance.    
+ 
+KEY WORDS: swimming, asymmetries, technique, strength, flexibility, posture, 
+performance  
+  
+INTRODUCTION:  Bilateral and antero -posterior asymmetries can arise from many different 
+influences (see Sanders et al, 2011, for a review). Figure 1 provides a summary of the main 
+categories of influences.  
+Figure 1:   A Model of Factors Associated with Asymmetry in Swimm ers  
+ 
+Swimming performance depends on optimsiation of propulsion within the physiological 
+constraints of the swimmer and minimisation of resistive forces. Asymmetries can affect the 
+swimming technique and performance via their effects on both propulsion an d resistance as 
+well as physiological economy (see Sanders, 2013 for a review).  
+While there are many infuencing factors it must be recognised that cause and effect are 
+interlinked and that the asymmetry profile of a swimmer is changing dynamically. Indeed , a 
+‘viscious cycle‘ among postural deficits, muscular deficits, and asymmetries (figure 2) 
+demands regular monitoring of swimmers and adjustment of training regimens to ensure that 
+asymmetries that affect performance are minimised. Therefore, diagnosis an d remediation of 
+asymmetries  requires a multi -disciplinary approach involving biomechanics, anthropometry, 
+strength and conditioning, and physiotherapy. Also, i t is critial that the coach is involved in all 
+of the data collection, diagnosis, and intervent ion processes.  
+
+ 
+  
+Figure 2:   A ‘vicious cycle‘  cause and effect among postural deficits, muscular 
+developments and asymmetry  of  swimmers.   
+ 
+METHODS:  
+Ten elite Scottish swimmers participated in a longitudinal study funded by sportscotland . The 
+model in F igure 1 was applied to ensure that all relevant information about individual 
+swimmers was collected. Consequently, a questionnaire was used to obtain information 
+regarding laterality, side dominance and handedness, history of injuries, breathing side 
+prefe rence and percentage of breathing on each side during training. Anthropometric 
+variables including limb lengths and girths and joint ranges of motion were measured in 
+accordance with  International Society for the Advancement of Kinesiology (ISAK) guideline s. 
+Posture was assessed in terms of thoracic and lumbar angles in the sagittal plane, indicating 
+kyphosis and lordosis respectively, applying  the protocol established by Fairweather and 
+Sidaway (1993).  
+Strength data for right and left shoulder flexion and extension, shoulder internal and external 
+rotation and knee flexion and extension were obtained on a Biodex isokinetic dynamometer 
+for 12 repetitions at 60 degrees and 180 degrees per second. Speeds, sides, and exercise 
+order were randomised.  
+Video data we re collected from front and side views above and below the water surface for 
+qualitative analysis of a swimmer in a non -fatigued state. Data were also collected for 
+subsequent three -dimensional analysis by four video underwater video cameras and two 
+above water video cameras with their axes oblique to the axes of the three -dimensional 
+calibration frame (Psyc harakis, Sanders, and Mill, 2005 ) while the swimmers performed a 
+fatigue set comprising four maximal effort 100m swims in their main competitive stroke.   
+The three -dimensional kinematic and kinetic analysis was based on a full body model of 
+manually digitised landmarks using a bespoke MATLAB analysis program (Sanders, 2005). 
+Body segment parameter data were obtained by PC software (Deffeyes and Sanders, 2 005) 
+applying the elliptical zone method (Jensen, 1978).   
+The longitudinal study comprises a pre -test, analysis, concurrent strength/conditioning, 
+physiotherapy, and technique interventions, post -test, and second analysis with comparison 
+to assess the effect of the interventions. Currently the pre -test and first analysis have been 
+completed.  
+  
+
+ 
+ 
+0 0.5 1 1.5 2 2.5 3 
+1-3 2-3 3-3 4-3 Average Pull Speed (m/s)  
+Left 
+Right  RESULTS  AND  DISCUSSION:  
+Given that every individual has a unique profile of asymmetries two case studies , a female 
+breaststroke swimmer, and a male backstroke swimmer,  are presented to illustrate the 
+interactive nature of c auses and effects.  
+ 
+Case Study 1  
+Descriptive data for Case Study 1 are provided in Table 1.  
+ 
+Table 1: Descriptive Data for Case Study 1.  
+Gender  Female  
+Age 21 yrs 11 months  
+Specialist events  50/100m Brst  
+Personal best  1.10.85  100m (LC)  
+Level  International – 3yrs 
+Injuries  L Intercostal, R ankle, L3 disk  
+Breathing (front crawl)  Right unilateral  
+Laterality  Right hand and foot  
+ 
+Strength, Flexibility, and Posture  
+The Biodex results revealed that this swimmer was stronger in the right shoulder than the left   
+in flexion and extension. This could be linked to her right side dominance and  also to the 
+effects of left intercostal injury. The left  knee was stronger than the right in flexion despite the 
+right side dominance. This may be linked to the history of right ankle injury.  
+This swimmer had poor scores for lumbar extension strength and flexibility. She also had a 
+large lumbar curve, which may result from the pelvis tilting forwards as a result of decreased 
+hip flexibility.  
+ 
+Technique  
+This breaststroke swimmer had a slight lean to the right side and the left shoulder, hip, and 
+lower limbs tended to be higher throughout the stroke than the right. The hand on the right 
+side completed its pull prior to the left an d led the left hand in recovery.  
+  
+ 
+ 
+Figure 3. Average hand speed during the pull phase for the 3rd 25m of each the four hundred 
+metre swims of the fatigue set.  
+ 
+This could be linked to greater strength on the right side and the left side intercostal injury. 
+This possibility was reinforced by the results for average pull speed of the hand (figure 3 ) 
+indicating that the right hand moved faster than the left. The imb alance o f forces created yaw 
+rotation  (rotation about the vertical axis) of the trunk as shown in figure 4.  
+ 
+  
+Figure 4 . Yaw angle of the trunk for the 3rd 25m of each of the four hundred metre swims of 
+the fatigue set.  
+   
+It is likely that the yaw rotatio n affects stre amlining and increases resistance thereby reducing 
+performance. There was also a lack of hip extension to adopt a streamlined position during 
+the glide phase.  
+Thus, the planned intervention includes strength and conditoning to correct the imb alances in 
+shoulder and knee strength, strength and conditioning of hip and lumbar flexion and extension 
+combined with flexibility exercises to correct muscle balance and pelvic orientation, and 
+technique intervention to attain symmetry of hand path and sp eed during the pull.   
+ 
+Case Study 2  
+Descriptive data for Case Study 2 are provided in Table 1.  
+ 
+Table 1: Descriptive Data for Case Study 1.  
+Gender  Male  
+Age 21yrs 7 months  
+Specialist events  100/200 Backstroke  
+Personal best  54.88; 1.59.12  
+Relevant Injuries  Right shoulder impingement  
+Level  International - 8 years  
+Breathing side (front crawl)  Left; 50/50  
+Laterality  Left hand and foot  
+ 
+Strength, Flexibility, and Posture  
+The Biodex data indicated left side strength dominance in shoulder flexion and extension, 
+shoulder internatl and external rotation, and knee flexion and extension. This swimmer had 
+large thoracic curve and a large lumbar curve.  
+ 
+Technique  
+The technique wa s predominantly symmetrical enabling good maintenance of streamlined 
+alignment. However, there was strong evidence that the left hand produced more force than 
+the right. This corresponded to the left shoulder being stronger in flexion/extension and 
+interna l/external rotation measured on the Biodex.  
+ -10 -5 0 5 10 
+0 10 20 30 40 50 60 70 80 90 100 Yaw (degrees)  
+Time % Cycle  Yaw 
+1-3 
+2-3 
+3-3 
+4-3 
+ 
+  
+Figure 5. Average hand speed in the X direction during the pull phase for the 3rd 25m of each 
+the four hundred metre swims of the fatigue set.  
+ 
+The imbalance of forces created a small yawing effect of the trunk as shown in figure 6.  
+ 
+Figure 6. Yaw angle of the trunk for the 3rd 25m of each of the four hundred metre swims of 
+the fatigue set.  
+   
+The alternating pull of right and left hand produced small yawing effects as shown in figure 6. 
+These effects were largely offset by the leg actions. The slight asymmetries in motion of the 
+legs, required to counterbalance the uneven rotational effects of the left and right pulls, may 
+have an effect on body alignment and resistive drag.  
+Thus, the internventions planned for thjis swimmer include strength and conditioning to 
+improve bilateral balance of right and left shoulder strength, strengthening of shoulder 
+extensor and external rotator muscles to improve anterio -posterior muscle balance, posture 
+and reduce kyphosis, establishment of hip and lumbar flexor and extensor balance to improve 0 0.5 1 1.5 2 2.5 3 
+1-3 2-3 3-3 4-3 Average X Pull Speed (m/s)  
+Left 
+Right  
+-10 -5 0 5 10 
+0 10 20 30 40 50 60 70 80 90 100 Yaw (degrees)   
+Time % Cycle  Yaw 
+1-3 
+2-3 
+3-3 
+4-3 
+ 
+ posture and reduce lordosis. Technique will be monitored to ensure that yawing effects are 
+balanced bilaterally to optimis e streamlining throughout the stroke cycle.  
+ 
+CONCLUSION:  
+These two case studies have illustrated the interaction of strength, flexibility, posture, and 
+technique asymmetries and their likely effects on performance in swimming. The results for 
+the other ei ght swimmers in the study also revealed links between these factors. However, 
+each swimmer had a unique combination of asymmetries.    
+ 
+REFERENCES:  
+Deffeyes, J., and Sanders, R.H. (2005). Elliptical zone body segment modeling software: Digitising, 
+modeling  and body segment parameter calculation. In Q. Wang (ed.) Proceedings of XXIII International 
+Symposium on Biomechanics in Sport s. The China Institute of Sports Science, Beijing, pp. 749 -752.  
+Fairweather, M.M., and B. Sidaway (1993). Ideokinetic imagery as  a postural development technique. 
+Research Quarterly , 64. 385 -392. 
+Psycharakis, S.G., Sanders, R.H., and Mill, F. (2005). A calibration frame for 3D analysis of swimming.  
+In  Q. Wang (ed.) Proceedings of XXIII International Symposium on Biomechanics in Sports . The 
+China Institute of Sports Science, Beijing, pp. 901 -904. 
+Sanders, R.H.  (2013). How do asymmetries affect swimming performance? Journal of Swimming 
+Science. In press.  
+Sanders, R.H., Thow, J., Alcock, A., Fairweather, M. Riach, I, and Mather, F.  (2012). How can 
+asymmetries in swimming be measured? Journal of Swimming Science, Vol 19, Spring, 2012.  
+http://www.swimmingcoach.org /Journal/index.html   
+Sanders, R.H., Thow, J., and Fairweather, M. (2011). Asymmetries in swimming: Where do they come 
+from? Journal of Swimming Science, Vol 18, Fall 2011 . 
+http://www.swimmingcoach.org/Journal/index.html  
+Sanders, R,H. (2005). Swim3D. Unpublished MATLAB software.  
+ 
+Acknowledgement  
+The authors acknowledge the funding support of sportscotland and assistance with data colle ction and 
+processing by Jacki Thow, Nuno Olivier, Chuang -Yuan Chiu, Tomohiro Gonjo, Yuan Chiu, Kostas 
+Kalitsis, and Marlies Declerck.  
+  

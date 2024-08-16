@@ -1,0 +1,429 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/282148298
+Body roll in swiming: A review
+Article    in  Journal of Sports Scienc es · Februar y 2010
+DOI: 10.1080/02640410903508847
+CITATIONS
+53READS
+3,258
+2 author s:
+Stelios P sychar akis
+The Univ ersity of Edinbur gh
+49 PUBLICA TIONS    809 CITATIONS    
+SEE PROFILE
+Ross Sander s
+The Univ ersity of Sy dne y
+295 PUBLICA TIONS    5,825  CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Ross Sander s on 25 Sept ember 2015.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=rjsp20
+Download by:  [University of Sydney Library] Date:  24 September 2015, At: 23:08
+Journal of Sports Sciences
+ISSN: 0264-0414 (Print) 1466-447X (Online) Journal homepage: http://www.tandfonline.com/loi/rjsp20
+Body roll in swimming: A review
+Stelios G. Psycharakis & Ross H. Sanders
+To cite this article:  Stelios G. Psycharakis & Ross H. Sanders (2010) Body roll in swimming: A
+review, Journal of Sports Sciences, 28:3, 229-236, DOI: 10.1080/02640410903508847
+To link to this article:  http://dx.doi.org/10.1080/02640410903508847
+Published online: 03 Feb 2010.
+Submit your article to this journal 
+Article views: 654
+View related articles 
+Citing articles: 6 View citing articles 
+
+Body roll in swimming: A review
+STELIOS G. PSYCHARAKIS1& ROSS H. SANDERS2
+1School of Life Sciences, Edinburgh Napier University, Edinburgh and2Department of Physical Education, Sport and Leisure
+Studies, University of Edinburgh, Edinburgh, UK
+(Accepted 24 November 2009)
+Abstract
+In this article, we present a critical review of the swimming literature on body roll, for the purposes of summarizing and
+highlighting existing knowledge, identifying the gaps and limitations, and stimulating further research. The main research
+ﬁndings can be summarized as follows: swimmers roll their shoulders signiﬁcantly more than their hips; swimmers increasehip roll but maintain shoulder roll when fatigued; faster swimmers roll their shoulders less than slower swimmers during a200-m swim; roll asymmetries, temporal differences in shoulder roll and hip roll, and shoulder roll side dominance exist in
+front crawl swimming, but there is no evidence to suggest that they affect swimming performance; and buoyancy contributes
+strongly to generating body roll in front crawl swimming. Based on and stimulated by current knowledge, future researchshould focus on the following areas: calculation of body roll for female swimmers and for backstroke swimming; differencesin body roll between breathing and non-breathing cycles; causes of body roll asymmetries and their relation to motor
+laterality; body roll analysis across a wide range of velocities and swimming distances; exploration of the association between
+body roll and the magnitude and direction of propulsive/resistive forces developed during the stroke cycle; and the inﬂuenceof kicking actions on the generation of body roll.
+Keywords: Biomechanics, shoulder roll, hip roll, front crawl
+Introduction
+Swimmers and coaches continually seek to optimize
+performance and reduce the risk of injury in training
+and competition through modiﬁcation of technique.
+The evolution of approaches to biomechanicalanalysis in the last 50 years has allowed researchersto describe swimming technique more accurately aswell as to advance our knowledge, enabling im-proved coaching practices to improve competitiveperformance and reduce the incidence of injuries. Inthese regards, the rolling motion of the trunk during
+front crawl and backstroke swimming has been of
+increasing interest in recent years.
+It is well known that the alternation between left
+and right arm strokes in front crawl and backstroke isaccompanied by angular motion of the trunk aboutits long axis, commonly known as body roll.Counsilman (1968) was one of the ﬁrst authors toemphasize the potential importance of body roll in
+swimming. He suggested that body roll could: make
+the recovery of the arm easier and permit a shorterradius of rotation of the recovery arm; place thestrongest part of the arm pull more directly under thecentre of mass; and place the hips in such a position
+that the feet can be thrust partially side-wards, thuscancelling the side-wards sway of the torso possiblycreated by the forward swing of the recovery arm.
+Other authors have suggested that body roll has
+functions such as facilitating the breathing action infront crawl swimming (Hay, Liu, & Andrews, 1993),increasing propulsion or decreasing the drag forces(Castro, Minghelli, Floss, & Guimaraes, 2003), andreducing the risk of developing shoulder injuries(Ciullo & Stevens, 1989; Penny & Smith, 1980;Weldon & Richardson, 2001).
+For more than two decades after Counsilman’s
+suggestions, research publications relating to body rolland its inﬂuence on swimming performance weresparse. Since then, researchers have deﬁned andexamined body roll in two different ways. First, insome studies the roll of the whole trunk was calculatedbased on the assumption that the trunk rolls as a rigidsegment while swimming. Researchers have estimated
+trunk roll with simulation methods (Hay et al., 1993;
+Payton Hay, & Mullineaux, 1997) or measured trunkroll using two-dimensional (2D) techniques (Beekman& Hay, 1988; Castro, Vilas-Boas, & Guimaraes, 2006;
+Correspondence: S. Psycharakis, School of Life Sciences, Edinburgh Napier University, Merchiston Campus, Edinburgh EH10 5DT, UK.
+E-mail: s.psycharakis@napier.ac.ukJournal of Sports Sciences , February 1st 2010; 28(3): 229–236
+ISSN 0264-0414 print/ISSN 1466-447X online /C2112010 Taylor & Francis
+DOI: 10.1080/02640410903508847
+Downloaded by [University of Sydney Library] at 23:08 24 September 2015 
+
+Liu, Hay, & Andrews, 1993; Payton, Baltzopoulos, &
+Bartlett, 2002; Payton, Bartlett, Baltzopoulos, &Coombs, 1999). Second, the shoulder roll and hip rollof swimmers have been measured separately with theuse of three-dimensional (3D) methods (Cappaert,Pease, & Troup, 1995; Psycharakis & Sanders, 2008;Sanders & Psycharakis, 2009; Yanai, 2001, 2003,2004; Yanai & Hay, 2000) or simulation methods (Lee,
+Mellifont, Winstanley, & Burkett, 2008), while in some
+of these studies the roll of the entire body (rather thanjust the trunk) around its longitudinal axis was alsoconsidered (Yanai, 2003, 2004).
+Research ﬁndings suggest that body roll might
+inﬂuence many aspects of front crawl and back crawlswimming performance. In this article, we present acritical review of the swimming literature on body
+roll, for the purposes of summarizing and high-
+lighting existing knowledge, identifying the gaps andlimitations, and stimulating further research. Basedon the distinct differences in the deﬁnitions andmethodologies used and, essentially, the variablesanalysed when body roll was considered, this reviewis divided into three sections. The ﬁrst sectionpresents studies in which trunk roll was calculated.
+The second section reviews studies that focused on
+analysing shoulder roll and hip roll separately. Thethird section summarizes the main research ﬁndingsand discusses directions for future research.
+The following databases were used for this review:
+SportDiscus, MEDLINE, PubMed, and CINAHL.These databases were searched in March 2009 with‘‘swimming’’ as the main keyword, combined with
+each of the following: ‘‘body’’, ‘‘roll’’, ‘‘body roll’’,
+‘‘body-roll’’, and ‘‘bodyroll’’. The search returned108 references. Peer-reviewed articles in scientiﬁcjournals were included in this review, providing thatbody roll was calculated experimentally or throughsimulation. The following types of references wereexcluded: textbooks, papers in conference proceed-ings, abstracts, theses, and non-peer-reviewed arti-
+cles. Based on these criteria, 15 peer-reviewed
+articles, all focused on front crawl swimming and(with the exception of one study) male swimmers,were eventually subjected to critical evaluation andare presented in this review. Research publicationson body roll in backstroke are lacking. Thus,research on backstroke swimming and on femaleswimmers is required.
+Assessing body roll as a single value for the roll
+of the trunk
+Computer simulation studies
+Hay et al. (1993) developed the ﬁrst computer
+simulation model to examine the effect of trunk roll
+on hand path during the pull phase in front crawlswimming. The trunk and right arm were modelled
+as two rigid segments, joined at the shoulder by asimple hinge joint. The rigid arm segment wasassigned a pre-selected elbow ﬂexion angle and thehand was made to move in a plane through theshoulder parallel to the sagittal plane of the rotatingtrunk. Payton et al. (1997) attempted to improve therigid arm model developed by Hay et al. (1993) by
+modelling the right arm as two rigid segments hinged
+at the elbow to enable ﬂexion and extension. Thearm was also linked to a rigid trunk with a jointcapable of shoulder extension and shoulder abduc-tion/adduction.
+Based on the ﬁndings of the computer simulation
+studies, the authors suggested that body roll couldhave an important inﬂuence on hand path, assist in
+the development of propulsive forces and, therefore,
+the improvement of swimming performance. How-ever, both research teams pointed out that the resultsof the computer simulation studies were preliminaryand should not be generalized until the models areestablished and validated. Indeed, some of theassumptions made in these studies were proven tobe incorrect by later research. For example, Payton
+et al. (2002) indicated that the investigators in the
+computer simulation studies assumed incorrectlythat the trunk rolls away from the neutral position(i.e. counter-clockwise rotation in Figure 1) for theduration of the insweep and that there is no internal/external rotation of the shoulder during the under-water pull. Nevertheless, the outcome of earlycomputer simulation studies was useful in stimulat-
+Figure 1. Reference system used to deﬁne the trunk roll angle ( y)
+as the angle between the pool ﬁxed z-axis (z P) and the trunk ﬁxed
+z-axis (z T). A wood ﬁn strapped on the swimmer’s back served as
+the ﬁxed z-axis of the trunk. The midpoint of the shoulders ( Q)
+was the origin of the local reference system (x T,yT,zT). Adapted
+from Payton et al. (2002).230 S. G. Psycharakis & R. H. Sanders
+Downloaded by [University of Sydney Library] at 23:08 24 September 2015 
+
+ing researchers’ interest in body roll and providing
+recommendations for further research.
+Experimental studies
+In all studies in this area, researchers used similar
+methods to calculate trunk roll. A balsa wood ﬁnmounted on a curved aluminium base was strapped
+to the back of each swimmer (see Figure 1), a single
+camera was placed on the pool side, and swimmerswere requested to swim away from the camera. Usingthese recordings, trunk roll was deﬁned and calcu-lated as the angle between the rear edge of the ﬁn andthe vertical axis. In studies that have used 2Dkinematic analysis, researchers have focused oninvestigating the inﬂuence of trunk roll on hand path
+(Liu et al., 1993) and hand velocity (Payton et al.,
+2002), and on the differences in trunk roll betweenbreathing and non-breathing conditions in frontcrawl (Beekman & Hay, 1988; Castro et al., 2006;Payton et al., 1999). The standard of the swimmerstested across studies varied from university tonational-level male swimmers, while Castro et al.(2006) tested both swimmers and triathletes.
+Inﬂuence of trunk roll on hand path and hand speed.
+With respect to the inﬂuence of trunk roll on handpath/speed, Liu et al. (1993) reported a mean valueof 60.8 8for trunk roll to the non-breathing side
+(trunk roll to the breathing side was not calculated)and stated that the mean contribution of trunk roll tohand path was 52.1% and was nearly equal to the
+contribution of the medio-lateral motions of the arm
+(shoulder and/or elbow) to the hand path. Paytonet al. (2002) attempted to improve the methods usedby Liu et al. (1993) by calculating both positive andnegative contributions of body roll to hand speed.The former researchers reported that trunk roll had anegative overall contribution to hand speed. Never-theless, Payton et al. (2002) underlined that this
+should not be interpreted as meaning that the
+swimmers would achieve higher hand speeds byrolling less, as any changes in trunk roll are likely tobe accompanied by compensatory changes at theshoulder and the elbow.
+Differences in trunk roll between breathing and non-
+breathing conditions. The results of the comparison
+between breathing and non-breathing conditions
+have been inconsistent across studies. Beekmanand Hay (1988) reported signiﬁcant differencesbetween breathing and non-breathing conditionsfor a group with shoulder injury (breathing trunkroll: 60 8; non-breathing trunk roll: 48 8), but no
+differences for an injury-free group (breathing trunkroll: 54 8; non-breathing trunk roll: 55 8). In contrast,
+for a small sample ( n¼6) of healthy swimmers,Payton et al. (1999) found that they rolled on average
+98more during the preferred breathing (66 8) than
+the non-breathing trial (57 8). Castro et al. (2006)
+reported that most of their swimmers rolled morewhen breathing (with the exception of long-distanceswimmers when tested at low self-selected intensi-ties), but there were no differences between breath-ing and non-breathing conditions for the triathletes.
+One explanation for the discrepancies across
+studies could be that the trunk roll patterns of theinjured swimmers (as suggested by Beekman & Hay,1988) and, perhaps, the triathletes were not asconsistent as those of the healthy swimmers. Anotherexplanation could be the large range of swimmingspeeds tested (which varied from 1.13 to1.96 m /C1s
+71) and, in some cases, the high standard
+deviation of the speeds recorded for a given swim-
+ming intensity. In line with this argument, the resultsof Castro et al. (2006) suggested that swimmersseemed to decrease trunk roll when speed increased.
+Limitations of experimental studies. Although the 2D
+studies provided some useful data on trunk roll andits potential inﬂuence on swimming kinematics, the
+assumption that the trunk moves as a rigid part
+during front crawl and backstroke swimming doesnot enable separate analysis of shoulder and hip roll.Indeed, some studies have indicated that themagnitude and timing of shoulder and hip roll aredifferent (Cappaert et al., 1995; Psycharakis &Sanders, 2008; Sanders & Psycharakis, 2009; Yanai,2001). For example, Psycharakis and Sanders (2008)
+indicated that swimmers roll their shoulders signiﬁ-
+cantly more than their hips and that the timing ofmaximum shoulder roll relative to maximum hip rollvaried between swimmers, as well as between the leftand right sides of individual swimmers. Thus, bodyroll must be calculated separately for shoulders andhips for the purpose of a more detailed analysis of therolling motion of the trunk and to improve our
+understanding of its inﬂuence on swimming perfor-
+mance.
+Assessing body roll separately for the shoulders
+and hips
+Body roll was calculated separately for the shoulders
+and hips with the use of 3D methods in all studies.
+The roll angles of the shoulders and hips were
+determined by projecting the vector of the respectiveright joint relative to the left joint onto the verticalplane perpendicular to the swimming direction(Psycharakis & Sanders, 2008; Sanders & Psychar-akis, 2009), or by expressing the shoulder and hiproll angles relative to the long axis of the swimmers(Cappaert et al., 1995; Yanai, 2001, 2003, 2004;
+Yanai & Hay, 2000). Studies in this area haveBody roll swimming: A review 231
+Downloaded by [University of Sydney Library] at 23:08 24 September 2015 
+
+focused on: identifying the causes of body roll
+(Yanai, 2001, 2003, 2004); calculating the magni-tudes of shoulder and hip roll and their links toswimming performance (Cappaert et al., 1995; Leeet al., 2008; Psycharakis & Sanders, 2008; Yanai,2001, 2003); exploring the temporal or rhythmicalcharacteristics of shoulder and hip roll (Cappaertet al., 1995; Psycharakis & Sanders, 2008; Sanders &
+Psycharakis, 2009); assessing roll asymmetries and
+the inﬂuence of motor laterality (Psycharakis &Sanders, 2008); and exploring the links betweenthe magnitude of shoulder roll and prevention ofshoulder injuries (Yanai & Hay, 2000).
+Simulation studies
+Lee et al. (2008) tested 11 national-level swimmers
+(4 males, 7 females) who simulated 100-m breathingand non-breathing trials on a purpose-built swim-ming bench that allowed rotation of the head,shoulders, and hips. Each trial lasted 60 s andshoulder and hip roll were calculated separately.An interesting ﬁnding was that female swimmersrolled their hips more than male swimmers. Also,
+there were no signiﬁcant differences in the magni-
+tude of hip roll between breathing and non-breathingconditions. Male swimmers displayed signiﬁcantlygreater shoulder roll in the breathing than the non-breathing side, whereas the difference was notsigniﬁcant for the females.
+It should be emphasized, however, that it is not yet
+known whether such simulations are valid represen-
+tations of swimmers’ body roll characteristics while
+swimming. Furthermore, there are distinct differ-ences between swimming in a pool environment andsimulating swimming on a swimming bench withregards to the physical demands, the resistance to theswimmer’s actions, and the mechanisms used togenerate body roll. Thus, as the applicability of theseresults to competitive swimming remains to be
+established, the generalizability of the ﬁndings of
+the study by Lee et al. (2008) is limited. Furtherresearch into establishing the links between poolswimming and swimming simulations on a swimbench should be encouraged, as the advantages ofsuch dry-land methods – compared with complicated3D analyses – include, among others, ease of use,low equipment cost, short data collection and
+analysis time and, hence, quick feedback.
+Experimental studies
+Causes of body roll. Yanai (2001, 2003, 2004) tested
+11 male university swimmers performing long-distance (1.3 +0.1 m /C1s
+71) and sub-maximal pace
+(1.6+0.1 m /C1s7) front crawl trials, in an attempt
+to identify the sources and causes of body roll. Twopanning periscope systems were used to obtain the
+above- and below-water data in all studies. Yanai(2001) showed that the external torque acting on thewhole body (determined as the ﬁrst time-derivativeof the angular momentum of the whole body)generally contributed towards propelling body roll,while the reaction effects of accelerating limbs (i.e.internal torques, determined as the ﬁrst time-
+derivative of the angular momenta of the limbs)
+resisted body roll. In a subsequent study, Yanai(2003) considered the rolling of the entire bodyaround its longitudinal axis and reported that itaccounted for 50% of the rolling actions of theshoulders and 68% of the rolling actions of the hips.
+Applying modelling techniques with some as-
+sumptions regarding the waterline around the
+swimmer, Yanai (2004) provided some evidence
+that buoyancy is an important contributor to therolling action of the entire body, as it accounted for75+13% of the roll of the body for the long-
+distance pace (1.3 +0.1 m /C1s
+71) and 61 +14% of
+the roll of the body for the sub-maximal pace(1.6+0.1 m /C1s
+71). The contribution of hydrody-
+namic forces to roll of the entire body was
+signiﬁcantly smaller (25 +13% for the long-dis-
+tance pace and 39 +14% for the sub-maximal
+pace). The author used the term ‘‘buoyancy torque’’to refer to the torque generated during the recoveryphase of the arm, when the recovery arm is lifted outof the water (not being subject to buoyant force) andthe centre of buoyancy shifts away from the recoveryside creating a moment arm with respect to the
+longitudinal axis through the whole-body centre of
+mass. Yanai (2004) stated that the buoyancy torquecould generate body roll without sacriﬁcing propul-sion. The author suggested that swimmers could usebuoyancy force more effectively in creating body rollby modiﬁcations in stroke technique, includingextending the recovery phase by having the elbowexit while the hand is still making the ﬁnal sweep and
+keep the elbow high during hand entry (so that the
+angular impulse generated by the buoyancy torqueincreases), and coordinate the timing of the recoveryphase so that the buoyancy torque effectivelydecelerates the on-going body roll and facilitatesinitiation of body roll towards the opposite direction.
+Considering that the participants in the above
+studies were university-level swimmers, researchers
+should attempt to conﬁrm these ﬁndings in future
+studies by testing swimmers of different standardsand perhaps taking into account the possibleinﬂuence of the breathing actions on buoyanttorques. Yanai’s modelling indicated that there maybe differences in the relative contribution of thebuoyancy torque to total torque, but further researchis required to provide further information of the
+sources of torque and the reasons for the differences232 S. G. Psycharakis & R. H. Sanders
+Downloaded by [University of Sydney Library] at 23:08 24 September 2015 
+
+at different speeds. Other contributions to torque
+about the long axis of the body, for example thecontribution due to the kick, need to be quantiﬁed infuture studies.
+Magnitude of shoulder roll and hip roll. Cappaert et al.
+(1995) calculated shoulder and hip roll for ﬁve elite(participating in the ﬁnals, mean speed:
+2.01 m /C1s
+71) and seven sub-elite swimmers (parti-
+cipating in the heats, mean speed: 1.87 m /C1s71)
+during the men’s 100-m freestyle event at the 1992Olympic Games. Swimmers generally rolled theirshoulders considerably more than their hips, withsub-elite swimmers having similar shoulder roll toelite swimmers. The mean values reported forshoulder and hip roll were 34.4 +1.78and
+717.8+1.58respectively for the sub-elite group
+and 35.4 +2.58and 8.3 +1.58respectively for the
+elite group (the negative hip roll of sub-eliteswimmers indicates that the hips were rolling to theopposite direction to the shoulders; see also pp. 000–000). Nevertheless, two elite swimmers (includingthe gold medallist) displayed equal amounts ofshoulder roll and hip roll. Yanai (2001) reported
+mean values of 58 8for shoulder roll and 36 8for hip
+roll at a swimming speed of 1.6 m /C1s
+71, and in a
+subsequent study (Yanai, 2003) he reported thatswimmers decreased shoulder roll from 75 8to 668
+when speed increased from 1.3 to 1.6 m /C1s
+71. Based
+on suggestions that body roll reduced active drag byreducing frontal surface area (Clarys & Jiskoot,1974), Cappaert et al. (1995) stated that the opposite
+roll of the shoulders and hips of the sub-elite
+swimmers in their study might have increased activedrag, as the downward motion of the hip increasedthe frontal surface area. In line with this, Yanai(2001, 2003) stated that a large trunk twist mightincrease the resistance acting on a swimmer. Thepossibility that the amount of ‘‘twist’’ of the trunk isassociated with performance warrants further inves-
+tigation.
+There was general agreement in the above studies
+that the shoulders roll considerably more than thehips. However, there was some discrepancy inchanges in roll with speed, as Cappaert et al.(1995) reported no difference between swimmers’shoulder roll for different velocities, while Yanai(2003) reported a decrease in shoulder roll when
+speed increased. There are several possible explana-
+tions for the differences between these studies. First,the standard of swimmers and the velocities testedwere different. Moreover, there was no control overthe breathing actions of the swimmers and noidentiﬁcation of the preferred breathing and thenon-breathing sides, which suggests that the effect ofthe breathing patterns in the rolling actions of
+swimmers in both studies was unknown.In a recent study, Psycharakis and Sanders (2008)
+tested 10 male swimmers of national and interna-tional standard during a 200-m maximum frontcrawl trial. A system of four below- and two above-water synchronized cameras was used and theswimmers were asked not to breathe when swimmingthrough a 6.5-m long calibration space. Shoulderand hip roll were calculated four times during the
+200 m (once for each 50 m). Swimmers rolled their
+shoulders signiﬁcantly more than their hips(P50.001), with the mean 200-m values of the
+total range of roll from left to right sides being106.6+8.48for shoulder roll and 50.4 +12.38for
+hip roll (for a breakdown of shoulder and hip roll toeach side according to the swimmers’ handednessand breathing preference, see pp. 000–000). In a
+subsequent study, Sanders and Psycharakis (2009)
+examined the relationships between the kickingactions and the magnitudes of shoulder and hip roll,and reported that the kicking actions had a minorinﬂuence on shoulder roll but a considerableinﬂuence on hip roll. The authors hypothesized thatthe smaller magnitude of hip roll compared with thatof shoulder roll was due to the hip rotation being
+damped by the action of the lower limbs – that is, the
+kicking action applied a torque to the hips thatlimited the range of hip roll.
+Psycharakis and Sanders (2008) also reported that
+the swimmers increased hip roll as speed decreasedduring the 200-m test. The increase in hip roll couldbe associated with the decrease in stroke frequencyand the longer durations of the stroke cycles as the
+race progressed, or a possible reduction in vigour of
+the kick as swimmers fatigue. Nevertheless, shoulderroll values remained remarkably consistent. Interest-ingly, Psycharakis and Sanders (2008) indicated thatfaster swimmers were rolling their shoulders less thanslower swimmers ( P50.05 for the correlation
+between shoulder roll and swimming speed) withthe exception of the fourth 50 m of the 200-m swim.
+However, no such pattern was found for hip roll. The
+authors reported that although it is possible thatthe amount of shoulder roll is constrained by theduration of the stroke cycle, swimming speed was notcorrelated with stroke cycle time or frequency.Moreover, given that the swimmers did not changetheir shoulder roll when speed decreased during the200-m swim, it would appear that the magnitude of
+shoulder roll could be related primarily to a
+swimmer’s skill, rather than the speed at which heor she swims. Considering that the velocities testedby Psycharakis and Sanders (2008) varied from1.45+0.06 m /C1s
+71(in the ﬁnal 50 m) to
+1.68+0.05 m /C1s71(in the ﬁrst 50 m), more data
+on a wider range of velocities and swimmingdistances are required to conﬁrm and generalize this
+ﬁnding.Body roll swimming: A review 233
+Downloaded by [University of Sydney Library] at 23:08 24 September 2015 
+
+Roll symmetry and motor laterality. Most researchers
+have not distinguished between roll to the dominantand non-dominant side (in terms of motor laterality).However, qualitative evidence suggests that bilateralasymmetries in body roll are common amongswimmers and might be related to swimming speed(Arellano, Lopez-Contreras, & Sanchez-Molina,2003). To investigate this possibility, Psycharakis
+and Sanders (2008) calculated shoulder and hip roll
+separately for the right and left sides. The group of10 swimmers tested during the 200-m front crawlevent was homogenous with respect to handedness(right) and breathing side preference (right), withonly non-breathing stroke cycles being analysed.Mean shoulder roll was 57.1 +4.68for the left and
+49.6+5.48for the right side, and mean hip roll was
+24.6+8.18for the left and 25.7 +6.08for the right
+side. Mean asymmetries of 8.2 +4.88for shoulder
+roll and 5.9 +3.98for hip roll were reported. The
+amount of roll asymmetry was not correlated withswimming speed and did not change with fatigueduring the maximum 200-m swim, providing noevidence that asymmetric shoulder or hip roll affectsswimming performance. The hip roll asymmetries
+were highly individual as no systematic bias was
+found for the group. However, the results indicatedleft-side shoulder roll dominance throughout the200-m trial, indicating that the swimmers wererolling their shoulders signiﬁcantly more to the leftthan the right side. Although the causes of body rollasymmetries were not investigated by Psycharakisand Sanders (2008), the authors suggested that as
+shoulder roll to the left coincided with the under-
+water phase of the right (i.e. dominant) arm of theswimmers, possible causes of asymmetries includelaterality and possible differences in strength and themagnitude, duration, timing or direction of propul-sive forces between the dominant and non-dominantupper limb.
+Temporal characteristics of shoulder roll and hip roll.
+Cappaert et al. (1995) reported that the hips of somesub-elite swimmers were rolling to the oppositedirection of the shoulders during a 100-m freestylerace, which suggests that the shoulders and hipsmight peak at different times. Psycharakis andSanders (2008) calculated the timings of shoulderrelative to hip roll peaks and neutral positions
+(deﬁned as the positions of 0 8roll). Despite the
+variability and differences in timing among swim-mers, the authors found no dominant pattern for thegroup. Psycharakis and Sanders (2008) also reportedthat the timings of shoulder and hip roll peaks didnot change with fatigue during the 200-m front crawltrial. It was pointed out that swimming performance(as indicated by each swimmer’s speed) did not seem
+to be linked to shoulder or hip roll timing differ-ences, as there was no evidence that hip roll either
+leading or trailing shoulder roll can lead to improve-ments in performance. Psycharakis and Sanders(2008) stated that swimmers might optimize theircoordination in ways that suit their individualcharacteristics and that optimal patterns of coordina-tion are perhaps speciﬁc to each individual. In viewof this evidence, researchers could explore in future
+studies the possible links between shoulder/hip roll
+and arm coordination modes such as opposition,catch-up, and superposition (for a description ofthese modes, see Chollet, Chalies, & Chatard, 2002).
+Sanders and Psycharakis (2009) examined the
+rhythm characteristics of front crawl swimmers usinga six-beat kick. A noteworthy ﬁnding was that it wasnot just the upper body that rolled, since there was a
+roll of the imaginary line between the knees and
+imaginary line between the ankles about a long-itudinal axis. Moreover, the authors reported that thetiming of the roll of the hips, knees, and ankles aboutthe longitudinal axis indicated the progression of atorsional wave, of which the speed of travel reducedwith increasing skill. These results suggest that itwould be interesting in future studies to expand the
+body roll analysis beyond shoulder and hip roll to
+incorporate the analysis of the roll along the wholebody. The results of Sanders and Psycharakis (2009)also suggested that the kicking action might havelimited the rotation of the hips, with hip rollincreasing as the swimmers fatigued and the kickingbecame less vigorous.
+Magnitude of roll and prevention of shoulder injuries.
+Overuse shoulder injuries are quite common inswimming. It is estimated that up to 80% ofcompetitive swimmers experience shoulder pain atsome time in their career to the extent that there is aninterruption to their training (McMaster & Troup,1993). The impingement of subacromial structureshas been proposed as a major cause of overuse
+shoulder injuries in front crawl swimmers (Yanai &
+Hay, 2000). The shoulder movements used inswimming, when repeated over years of swimmingpractice, are believed to cause such impingementsand develop a pathological condition called‘‘shoulder impingement syndrome’’, commonlyknown as ‘‘swimmer’s shoulder’’, which is believedto be the most common swimming injury (Fowler,
+1994).
+Some authors have recommended increasing the
+amount of body roll as one of the measures for theprevention and treatment of overuse shoulderinjuries (Ciullo & Stevens, 1989; Penny & Smith,1980; Weldon & Richardson, 2001). This recom-mendation is based on the argument that failure tocorrect body rotation forces the arm to be elevated
+lateral to the function arc of elevation and invites234 S. G. Psycharakis & R. H. Sanders
+Downloaded by [University of Sydney Library] at 23:08 24 September 2015 
+
+further impingement, and that as a swimmer
+breathes, rolling about the longitudinal axis isenhanced and the amount of shoulder abductionrequired to clear the hand above the water is reduced(Neer & Welsh, 1977; Penny & Smith, 1980). Yanaiand Hay (2000) argued that if this reasoning is valid,then swimmers with large shoulder roll angles shouldalso have lower shoulder horizontal abduction angles
+and less shoulder impingement than swimmers with
+smaller shoulder roll angles. However, this was notsupported by their experimental data on university-level swimmers, which showed no clear linksbetween shoulder rotation and shoulder horizontalabduction angle or shoulder impingement. Yanaiand Hay (2000) suggested that the attainment of alarge shoulder roll angle should be considered
+together with other factors of stroking technique for
+the purposes of reducing individual susceptibility toshoulder impingement.
+It must be noted that Yanai and Hay (2000) tested
+male university swimmers during front crawl trialsonly. For the purpose of obtaining a more completepicture of the links between shoulder roll and theprevention/treatment of overuse shoulder injuries,
+research should be expanded to include swimmers of
+a range of different abilities and both sexes. More-over, consideration of other variables could improvefurther our understanding of any links betweenshoulder roll and injury prevention and treatment.For example, Psycharakis and Sanders (2008) foundside dominance, asymmetries, and inter-swimmervariability in shoulder roll. Although such asymme-
+tries are not clearly linked to performance, it has been
+suggested that asymmetries and movement variabilitycould be functional, for the purpose – among others –of reducing injury risk (Davids, Glazier, Araujo, &Bartlett, 2003). Thus, the study of the links betweenshoulder roll and injury prevention/treatment couldinclude consideration of shoulder roll side domi-nance, asymmetries, and variability.
+Summary and future directions
+Biomechanical research in this area has improved
+our understanding of the functions of body roll andits links to front crawl swimming. The main researchﬁndings can be summarized as follows:
+.Buoyancy contributes strongly to generating roll
+for the entire body in front crawl swimming.However, the inﬂuence of the kick on hip rollalso seems to be important and requires furtherinvestigation.
+.Swimmers roll their shoulders signiﬁcantly
+more than their hips. Therefore, shoulder rolland hip roll should be calculated separately in
+swimming..Front crawl swimmers tend to increase hip roll
+but maintain shoulder roll when fatigued duringa maximum swim.
+.Faster swimmers roll their shoulders less than
+slower swimmers throughout a 200-m race.
+.It would appear that roll asymmetries, temporal
+differences in shoulder and hip roll, andshoulder roll side dominance exist in front
+crawl swimming, but there is no evidence to
+suggest that they affect swimming performance.
+.Research on university-level swimmers did not
+support the theoretical view that increasingshoulder roll could help reduce the risk ofshoulder injuries. Future research should in-clude swimmers of different standards to allowconﬁrmation and generalization of these ﬁnd-
+ings.
+Based on and stimulated by current knowledge,
+investigators should conduct further analyses toexplore issues not yet addressed completely in theextant literature. Some of the main topics to beaddressed in future studies are:
+.Calculation of shoulder roll and hip roll and
+their inﬂuence on backstroke swimming.
+.Investigation of shoulder and hip roll among
+female swimmers.
+.Differences in shoulder and hip roll between
+breathing and non-breathing cycles.
+.Causes of shoulder and hip roll asymmetries
+and their relationship to motor laterality.
+.Analysis of the magnitude and phase differences
+of shoulder and hip roll for the different parts ofa stroke cycle.
+.Analysis of shoulder and hip roll across a wide
+range of velocities and swimming distances, forthe purposes of conﬁrming and generalizingexisting ﬁndings.
+.The relationships between shoulder and hip roll
+and the magnitude and direction of propulsive/
+resistive forces developed during the strokecycle.
+.Exploration of the relationship between
+shoulder roll, hip roll, and the kicking action.
+References
+Arellano, R., Lopez-Contreras, G., & Sanchez-Molina, J. A.
+(2003). Qualitative evaluation of technique in international
+Spanish junior and pre-junior swimmers: An analysis of errorfrequencies. In J. C. Chatard (Ed.), Biomechanics and medicine in
+swimming IX (pp. 87–92). St Etienne: University of St Etienne
+Publications.
+Beekman, K. M., & Hay, J. G. (1988). Characteristics of the front
+crawl techniques of swimmers with shoulder impingement
+syndrome. Journal of Swimming Research ,4(3), 15–21.Body roll swimming: A review 235
+Downloaded by [University of Sydney Library] at 23:08 24 September 2015 
+
+Cappaert, J. M., Pease, D. L., & Troup, J. P. (1995). Three-
+dimensional analysis of the men’s 100-m freestyle during the1992 Olympic Games. Journal of Applied Biomechanics ,11, 103–
+112.
+Castro, F., Minghelli, F., Floss, J., & Guimaraes, A. (2003). Body
+roll angles in front crawl swimming at different velocities. In J.C. Chatard (Ed.), Biomechanics and medicine in swimming IX
+(pp. 111–114). St Etienne: University of St Etienne Publica-
+tions.
+Castro, F. A. S., Vilas-Boas, J. P., & Guimaraes, A. C. S. (2006).
+Effect of swimming intensity and breathing in front crawl body
+roll angles for swimmers and triathletes. Brazilian Journal of
+Biomechanics ,7, 85–90.
+Chollet, D., Chalies, S., & Chatard, J. C. (2002). A new index of
+coordination for the crawl: Description and usefulness. Inter-
+national Journal of Sports Medicine ,21, 54–59.
+Ciullo, J. V., & Stevens, G. G. (1989). The prevention and
+treatment of injuries to the shoulder in swimming. Sports
+Medicine ,7, 182–204.
+Clarys, J. P., & Jiskoot, J. (1974). Total resistance of selected body
+positions in the front crawl. In J. P. Clarys & L. Lewillie (Eds.),Swimming II (pp. 110–117). Baltimore, MD: University Park
+Press.
+Counsilman, J. E. (1968). Science of swimming. Englewood Cliffs,
+NJ: Prentice-Hall.
+Davids, K., Glazier, P., Araujo, D., & Bartlett, R. (2003).
+Movement systems as dynamical systems, the functional role
+of variability and its implications for sports medicine. Sports
+Medicine ,33, 245–260.
+Fowler, P. J. (1994). Sports injuries. Baltimore, MD: Williams &
+Wilkins.
+Hay, J. G., Liu, Q., & Andrews, J. G. (1993). Body roll and
+handpath in freestyle swimming: A computer simulation study.
+Journal of Applied Biomechanics ,9, 227–237.
+Lee, J., Mellifont, R., Winstanley, J., & Burkett, B. (2008). Body
+roll in simulated freestyle swimming. International Journal of
+Sports Medicine ,29, 569–573.
+Liu, Q., Hay, J. G., & Andrews, J. G. (1993). Body roll and
+handpath in freestyle swimming: An experimental study.Journal of Applied Biomechanics ,9, 238–253.McMaster, W. C., & Troup, J. (1993). A survey of interfering
+shoulder pain in United States competitive swimmers. American
+Journal of Sports Medicine ,2, 67–70.
+Neer, C. S., & Welsh, R. P. (1977). The shoulder in sports.
+Orthopedic Clinics of North America ,8, 583–591.
+Payton, C. J., Baltzopoulos, V., & Bartlett, R. M. (2002).
+Contributions of rotations of the trunk and upper extremity
+to hand velocity during front crawl swimming. Journal of Applied
+Biomechanics ,18, 243–256.
+Payton, C. J., Bartlett, R. M., Baltzopoulos, V., & Coombs, R.
+(1999). Upper extremity kinematics and body roll during
+preferred-side breathing and breath-holding front crawl swim-
+ming. Journal of Sports Sciences ,17, 689–696.
+Payton, C. J., Hay, J. G., & Mullineaux, D. R. (1997). The effect
+of body roll on hand speed and hand path in front crawl
+swimming – a simulation study. Journal of Applied Biomechanics ,
+13, 300–315.
+Penny, J. N., & Smith, C. (1980). The prevention and treatment
+of swimmer’s shoulder. Canadian Journal of Applied Sport
+Sciences ,5, 195–202.
+Psycharakis, S. G., & Sanders, R. H. (2008). Shoulder and hip roll
+changes during 200-m front crawl swimming. Medicine and
+Science in Sports and Exercise ,40, 2129–2136.
+Sanders, R. H., & Psycharakis, S. G. (2009). Rolling rhythms in
+front crawl swimming with six-beat kick. Journal of Biomecha-
+nics,42, 273–279.
+Weldon, E. J., III, & Richardson, A. B. (2001). Upper extremity
+overuse injuries in swimming: A discussion of swimmer’sshoulder. Clinics in Sports Medicine ,20, 423–438.
+Yanai, T. (2001). What causes the body to roll in front-crawl
+swimming? Journal of Applied Biomechanics ,17, 28–42.
+Yanai, T. (2003). Stroke frequency in front crawl: Its mechanical
+link to the ﬂuid forces required in non-propulsive directions.
+Journal of Biomechanics ,36, 53–62.
+Yanai, T. (2004). Buoyancy is the primary source of generating
+bodyroll in front-crawl swimming. Journal of Biomechanics ,37,
+605–612.
+Yanai, T., & Hay, J. G. (2000). Shoulder impingement in front-
+crawl swimming: II. Analysis of stroking technique. Medicine
+and Science in Sports and Exercise ,32, 30–40.236 S. G. Psycharakis & R. H. Sanders
+Downloaded by [University of Sydney Library] at 23:08 24 September 2015 
+View publication stats

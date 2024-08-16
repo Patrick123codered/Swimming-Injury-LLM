@@ -1,0 +1,171 @@
+Available online at www.sciencedirect.com
+5th Asia-Pacific Congress on S ports Technology (APCST) 
+An evaluation of swimsuit performance 
+Hazim Moria*, Harun Chowdhury, Firoz Alam and Aleksandar Subic 
+School of Aerospace, Mechanical and Manufacturing Engineering, RMIT University, Melbourne,Victoria 3083, Australia 
+Received 19 April 2011; revised 15 May 2011; accepted 16 May 2011  
+Abstract 
+Hydrodynamics plays an important role in swimming. Recently, swimsuits have been aggressively marketed, 
+principally as a means for reducing the skin friction component of the total drag, thereby conferring a competitive advantage over other swimmers. Currently a range of swimsuits are available in the market however their 
+aerodynamic data is hardly available in the public domain. Additionally, there is no standard methodology for the 
+evaluation of hydrodynamic performance of swimsuits. The primary purpose of this work is to evaluate the hydrodynamic properties of a series of swimsuits at a macroscopic level. A standard cylindrical methodology has 
+been developed in wind tunnel measurement of aero/hydrodynamic properties (drag and lift). Current production 
+swimsuits including Diana and Spalding have been tested. All tests were conducted at a range of speeds. The findings indicate that there is a notable variation in aerodynamic properties among swimsuits. 
+© 2011 Published by Elsevier Ltd. 
+Selection and peer-review under responsibility of RMIT University 
+Keywords : Swimsuit; textile; macro scale testing; aero/hydrodynamic; drag; wind tunnel; 
+1.Introduction
+Swimming has become one of the top 10 technology sports in the Beijing 2008 Olympic Game. The
+competitive swimming event consists of different distances from 50m to 1500m. These distance events 
+require excessive energy and speed to achieve best r ecorded within short wining time margins. Studies 
+estimate that over 90% of the swimmer’s power output is spent overcoming hydrodynamic resistances [1, 
+2]. These resistive forces are essentially behind the generation of drag during swimming. Reduced hydrodynamic resistance can significantly improve overall swimming performance [3]. In competitive swimming, where hundredths of a second can separate winners from losers, the hydrodynamic drag can 
+* Corresponding author. Tel.: +61 3 9925 6103; fax: +61 3 9925 6108. 
+E-mail address : hazim.moria@rmit.edu.au. 
+1877–7058 © 2011 Published by Elsevier Ltd.
+doi:10.1016/j.proeng.2011.05.102Procedia Engineering 13 (2011) 382–388
+Open access under CC BY-NC-ND license.
+Open access under CC BY-NC-ND license.
+Hazim Moria et al. / Procedia Engineering 13 (2011) 382–388 383
+play a crucial role. At present, most world top swimmers attempt to take advantage of various means 
+including swimsuits to enhance their performance. Th e modern swimsuits have travelled a long path and 
+gone through a series of changes of styles and designs over the decades to have nice aesthetic look and possible drag reduction advantage [4, 5]. In Beijing Olympic, out of 32 events, 21 world records have been broken and 66 Olympic records have been established. Some manufacturers claimed their swimsuits have features such as ultra-light weight, water repellence, muscles oscillation an d skin vibration reduction 
+by compressing the body. With the swimsuit Moria et al. [4, 5] revealed that technological innovation in both design and materials has played a crucial role in sport achieving its current standing in both absolute performance and its aesthetics. In order to understand the comprehensive hydrodynamics of swimmer, swimsuits and find answers of many contemporary questions on swimsuits, a large research project on swimsuit aero/hydrodynamics has been undertaken in the School of Aerospace, Mechanical and 
+Manufacturing Engineering, RMIT University. As a part of this large research project, we have undertaken a comparative study of a series of commercially acclaimed swimsuits. The study was conducted experimentally using RMIT Industrial Wind Tunnel and specially developed testing methodology. 
+ 
+Nomenclature 
+ 
+CD Drag Coefficient 
+FD  Drag Force, N 
+ȡ Density of Air, kg/m3 
+Re Reynolds Number 
+V Velocity of Air, m/s 
+A Projected Frontal Area of Cylinder, m2 
+d Diameter of Cylinder, m 
+ȝ Dynamic Viscosity, N.s/m2 
+2. Methodology 
+With a view to obtain aerodynamic properties experimentally for a range of commercially available 
+swimsuits made of various materials composition, a 110 mm diameter cylinder was manufactured. The 
+cylinder was made of PVC material and used some filler to make it structurally rigid. The cylinder was vertically supported on a six components transducer (type JR-3) had a sensitivity of 0.05% over a range of 0 to 200 N as shown in Figure 1. The aerodynamic forces and their moments were measured for a range of Reynolds numbers based on cylinder diameter  and varied wind tunnel air speeds (from 10 km/h 
+to 130 km/h with an increment of 10 km/h). Each test was conducted as a function of swimsuit’s seam positions (see Figure 2). 
+ 
+ 
+ 
+384  Hazim Moria et al. / Procedia Engineering 13 (2011) 382–388
+ 
+ 
+  
+ 
+a 
+Fig. 1. Schematic CAD model of bare cylinder in RMIT Industrial Wind Tunnel [4] 
+ 
+Fig. 2. Seam orientation (plan view) [5] 
+As mentioned earlier, the RMIT Industrial Wind Tunnel was used to measure the aerodynamic 
+properties of swimsuit fabrics. The tunnel is a closed return circuit wind tunnel with a turntable to 
+simulate the cross wind effects. The maximum speed of the tunnel is approximately 150 km/h (Re= 3.06×10
+5). The rectangular test section dimensions are 3 meters wide, 2 meters high and 9 meters long, 
+and the tunnel’s cross sectional area is 6 square meters. The tunnel was calibrated before and after conducting the experiments and air speeds inside the wind tunnel were measured with a modified National Physical Laboratory (NPL) ellipsoidal head Pitot-Static tube (located at the entry of the test section) which was connected through flexible tubing with the Baratron
+® pressure sensor made by MKS 
+Instruments, USA. The cylinder was connected through a mounting sting with the JR-3 multi-axis load sensor, also commonly known as a six degree-of-freedom force-torque sensor made by JR-3. The sensor was used to measure all three forces (drag, lift an d side forces) and three moments (yaw, pitch and roll 
+moments) at a time. Each data point was recorded for 20 seconds time average with a frequency of 20 Hz ensuring electrical interference is minimized. Multip le snaps were collected at each speed tested and the 
+results were averaged for minimizing the further possible errors in the experimental raw data. Further details about the RMIT industrial wind tunnel can be found in Alam et al.  [6]. 
+The bare cylinder was tested initially in order to benchmark the aerodynamic performance. Then the 
+cylinder was wrapped with different swimsuit fabrics to measure their aerodynamic forces and moments. The end effects of the bare cylinder were also considered [7]. Two brand new of swimsuit materials have been selected for this study. These swimsuits are: a) Diana Submarine (full-body) and b) Spalding full 
+length suit (waist to ankle) and they are shown in  Figure 3. The Diana is composed of 66% Nylon 
+(Polyamide) and 34% Elastane (Lycra). The seams for the both suits are not at the same location. The seam position at the Diana is on the inner side of the both legs as shown in Figure 3a. The seam was 
+created by simply overlapping the fabrics by 9 mm. On the other hand, the Spalding
+ is made of 82% 
+Nylon (Polyamide) and 18% Elastane (Lycra) and the seams were made using flat-lock method. The seam 
+Hazim Moria et al. / Procedia Engineering 13 (2011) 382–388 385
+has 18 stitches per inch (25.4 mm) length and the width of the seam is approximately 6 mm (see Figure 
+3(b)). 
+ 
+Fig.3. Diana and Spalding swimsuits used in this study 
+3. Result and Discussion 
+In this paper, the dimensionless quantity drag coefficient (C D) is presented as a function of Reynolds 
+number (Re). The C D and Re were calculated by using the following formulas: 
+A VFC2
+21D
+Dρ=  and 
+μρVdRe= . The C D as a function of Re for a range of seam positions for both the tested swimsuits are 
+presented in Figures 4 to 6. In order to compare th e results of swimsuits materials, the dimensionless 
+parameter C D of the bare cylinder were also shown in all figures. The C D values for the Diana swimsuit 
+with four seam orientations (0°, 45°, 90° and 180°) are shown in Figure 4. The C D variation with Re 
+indicates that the Diana material has undergone a ra pid drag crisis (transition effect from viscous or 
+frictional drag to pressure or form drag at a speed range of 80 km/h to 100 km/h) (Re= 1.63×105 to Re= 
+2.04×105) for all seam positions except the 45° seam position. The seam position at 45° enhances the 
+favorable pressure gradient and delays the separation by increasing the turbulent boundary layer compared to other seam positions. In general, th e rougher surface of swimsuits extends the turbulent 
+boundary layer by reducing the length of laminar boundary layer and ultimately delays the flow separation in comparison with the smooth surface of the bare cylinder. As expected, there is no noted difference in C
+D for the seam positions of 0° and 180° at all speeds tested. Nevertheless, minor variations 
+in C D were noted for the seam angle of 90° compared to other seam positions (e.g., 0° & 180°). The 45° 
+seam position is favorable for the drag reduction as it triggers an early flow transition from laminar to turbulent compared to 0°, 90° and 180° seam positions. 
+The C
+D values for the Spalding material is shown in Figure 6. A similar transition from laminar to 
+turbulent flow is clearly evident for the Spalding material. The drag reduction due to transitional effect starts at 60 km/h (Re= 1.22×10
+5) speed and the transition at differen t seam positions ends at 70 and 80 
+km/h (Re= 1.43×105 and Re= 1.63×105) compared to 100 km/h (Re= 2.04×105) for the Diana swimsuit. 
+A comparison of C D values for the Diana and Spalding suits for the seam position of Spalding at ±45° 
+and 180° has almost the similar effect on aerodynamic drag as the Diana seam at 45° also the transitional speed ends at 70 km/h (see Figure 6). This suit has a relative advantages at lower speeds compared to Diana suit. A close inspection has revealed that the Spalding suit has three flat-lock seams compared to 
+ 
+a)  Diana Seam 
+ 
+b) Spalding Seam 
+386  Hazim Moria et al. / Procedia Engineering 13 (2011) 382–388
+Diana suit which has a single overlapping seam on the side  of the suit. As result, the seams assist the flow 
+to have a transitional effect. 
+ 
+0.000.200.400.600.801.001.20
+0.0E+00 5.0E+04 1.0E+05 1.5E+05 2.0E+05 2.5E+05 3.0E+05
+Reynolds Number (Re)Drag Coefficient (C D)Bare Cylinder
+Diana seamless 0°
+Diana seamless 45°
+Diana seamless 90°
+Diana seamless 180°
+ 
+Fig.4. C D variation with Re of Diana Submarine suit 
+ 
+0.000.200.400.600.801.001.20
+0.0E+00 5.0E+04 1.0E+05 1.5E+05 2.0E+05 2.5E+05 3.0E+05
+Reynolds Number (Re)Drag Coefficient (C D)Bare Cylinder
+Spalding white seam 0°, 180° and black seam +90°
+Spalding white seam +45°,-45° and black seam 180°
+ 
+Fig.5. C D variation with Re of Spalding full length suit 
+Hazim Moria et al. / Procedia Engineering 13 (2011) 382–388 387
+0.000.200.400.600.801.001.20
+0.0E+00 5.0E+04 1.0E+05 1.5E+05 2.0E+05 2.5E+05 3.0E+0 5
+Reynolds Num ber  (Re)Drag Coefficient (C D)Bare Cylinder
+Diana seamless 45°
+Spalding white seam +45°,-45° and black seam 180°
+ 
+Fig.6. C D variation with Re between Diana and Spalding suits 
+4. Conclusions 
+The following concluding remarks have been made based on the experimental study presented here: 
+• Surface morphology of Diana and Spalding swimsuit fabrics enhances the flow transition at lower speeds compared to the smooth surface of the bare cylinder. This transition reduces the drag almost 35% compared to the bare cylinder surface. 
+• At 0° and 180° seam positions, there is no difference in C
+D values for Diana suit while there is a minor 
+variation in C D values noted for the seam angle at 90°. On  the other hand, variations occurred in C D 
+values for Spalding suit at different seam positions. 
+• The seam position at 45° has significant effect on the C D values for both swimsuits. However, at 45°, 
+the seams of the both swimsuits Diana and Spalding have a similar early transition at 50 km/h (Re= 
+1.02×105) with around 16% advantage to Spalding. 
+Acknowledgement 
+We express our sincere gratitude and thanks to the Government of Kingdom of Saudi Arabia for 
+providing the PhD Scholarships to the first author. 
+388  Hazim Moria et al. / Procedia Engineering 13 (2011) 382–388
+References 
+[1] Vorontsov AR, Rumyantsev VA. Resistive Forces in Swimming & Propulsive Forces in Swimming. Biomechanics in Sport  
+(edited by Zatsiorsky). UK: Blackwell; 2000. 
+[2] Nakashima M, Sato Y. Optimization of arm stroke in freestyle swimming by Simulation. Engineering of Sports III 
+2009; 1:207-211. 
+[3] Rushall BS, Sprigings EJ, Holt LE and Cappaert JM. A Re-Evaluation of Forces in Swimming. Journal of Swimming 
+Research 1994; 10:6-30. 
+[4] Moria H, Chowdhury H, Alam F, Subic A, Smits AJ, Jassim R and Bajaba NS. Contribution of swimsuits to swimmer’s 
+performance. Procedia Engineering 2010; 2(2):2505-2510. 
+[5] Moria H, Chowdhury H and Alam F. Aero/Hydrodynamics Study of Speedo LZR, TYR Sayonara and Blueseventy 
+Pointzero3 Swimsuits. Jordan Journal of Mechanical and Industrial Engineering 2011; 5(1):83-88. 
+[6] Alam F, Zimmer G, Watkins S. Mean and time-varying flow measurements on the surface of a family of idealized road 
+vehicles. Journal of Experimental  Thermal and Fluid Sciences 2003; 27 (5) :639–654. 
+[7] Chowdhury H, Alam F, Mainwaring D, Subic A, Tate M, Forster D and Beneyto-Ferre J. Design and Methodology for 
+Evaluating Aerodynamic Characteristics of Sports Textiles. Sports Technology  2009; 2(3-4): 81-86. 
+ 

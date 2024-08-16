@@ -1,0 +1,263 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/224041032
+A qualitative study on overuse inju ries: The beliefs of athletes and coaches.
+Article
+CITATIONS
+6READS
+352
+1 author:
+C Paul V an Wilg en
+Transc are Transdisciplinar y painmanag ement c enter Gr oning en Ne therlands & V rije Univ ersiteit Brussel
+224 PUBLICA TIONS    4,852  CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y C Paul V an Wilg en on 02 A ugust 2016.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/copyright
+
+Author's personal copy
+Available online at www.sciencedirect.com
+Journal of Science and Medicine in Sport 15 (2012) 116–121
+Original research
+A qualitative study on overuse injuries: The beliefs of athletes and coaches
+C.P. van Wilgena,∗, E.A.L.M. Verhagenb
+aCentre for Human Movement Sciences, University Medical Centre Groningen, University of Groningen, Groningen, The Netherlands
+bDepartment of Public and Occupation Health, EMGO Institute for Health and Care Research, VU University Medical Centre, Amsterdam, The Netherlands
+Received 20 June 2011; received in revised form 17 November 2011; accepted 20 November 2011
+Abstract
+Objectives: Preventive approaches for overuse injuries in sports will be more successful when synchronised with athletes’ and coaches’
+beliefs. We interviewed athletes and coaches in order to better characterize their beliefs about the deﬁnition of an overuse injury, as well asthe intrinsic and extrinsic risk factors that underlie overuse injuries.Design: Qualitative study using in-depth interviews in athletes and coaches of different sports.
+Methods: Athletes who had experienced overuse injuries and coaches who trained athletes who had sustained overuse injuries from sports
+clubs were invited to participate through interview. We explored each participant’s individual deﬁnition of an overuse injury and the beliefsconcerning the intrinsic and extrinsic risk factors concerning overuse injuries were explored.Results: After nine athletes and nine coaches, sample size saturation was conﬁrmed. Athletes and coaches integrate somatic as well as
+psychological and sociological factors into the deﬁnition of and risk factors for overuse injuries. Intrinsic factors for an overuse injury wererelated to physical factors, technique, psychological factors and heredity. The extrinsic factors were related to situational, social and trainin g
+factors, as well as the individual coach.Conclusions: Athletes and coaches have a holistic view on the deﬁnition of overuse injuries, and the intrinsic and extrinsic risk factors for
+overuse injuries. If preventive approaches for overuse injuries are developed and implemented, they should incorporate physical factors, aswell as incorporate psychological and social factors. Based on the input of coaches and athletes, the latter are important risk factors for overuseinjuries.© 2011 Sports Medicine Australia. Published by Elsevier Ltd. All rights reserved.
+Keywords: Overuse injuries; Prevention; Beliefs; Qualitative study
+1. Introduction
+In the last decades, research has supported the concept of
+regular involvement in sports or physical exercise as a signif-icant positive prognostic indicator for general health and wellbeing.
+1,2However, safety in sports and physical activity, is
+an important prerequisite for sustained participation in sports.A wide array of preventive measures for a variety of injurieswithin different sports is available, often focusing on ‘pro-tective’ equipment (i.e. stability devices, attenuating devices)and training methods (i.e. stretching, power, coordination).
+3
+These interventions are based on biomechanical and
+∗Corresponding author.
+E-mail addresses: c.p.van.wilgen@sport.umcg.nl ,
+c.p.vanwilgen@online.nl (C.P. van Wilgen).physiologic theories concerning the onset of sports injuries,
+and most often on traumatic or acute injuries. Unfortunately,prevention studies focusing on overuse injuries are scarce.
+3
+Recently, debate has arisen about the “true” effect of the
+current preventive measures in a realistic sports setting.4,5
+One of the conclusions in this debate was that preventionwill only be achieved if research efforts are directed towardsunderstanding the implementation context.
+4The behavior of
+athletes and their beliefs on the cause of injuries has beenput forward as a key factor,
+6–8preventive measures will
+only be adopted by athletes if the determinants and inﬂu-ences of sports safety behaviors are understood and acceptedby the athletes and coaches using them.
+6,7Therefore, in
+order to improve the efﬁcacy of prevention programs, onetries to motivate and manipulate the end-user’s behavior andbeliefs towards those that will improve safety and injury
+1440-2440/$ – see front matter © 2011 Sports Medicine Australia. Published by Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jsams.2011.11.253
+Author's personal copy
+C.P . van Wilgen, E.A.L.M. V erhagen / Journal of Science and Medicine in Sport 15 (2012) 116–121 117
+prevention. It would then be appropriate to include behav-
+ioral and cognitive aspects in the development process ofpreventive measures or programs by including behavioraland cognitive determinants of all stakeholders (i.e. coaches,athletes, researchers, policy makers and healthcare profes-sionals) during intervention development. This ensures thatthe proposed intervention does not only consider theoreticalevidence, but also ﬁts the beliefs of end-users. Recently, a trialwithin the ﬁeld of sports medicine has successfully appliedsuch a behavioral approach for injury prevention lessons forschool children. Before the trial, a needs assessment and anassessment of the different risk factors for physical activityinjuries were determined with use of an intervention map-ping protocol. These factors were incorporated in a clusteredrandomized control trail.
+9–11From a preventive standpoint,
+this is crucial as end-users in general might have a differ-ent focus on health and preventive measures than health careprofessionals.
+12
+To date, there are no published prevention programs focus-
+ing on overuse injuries. This void appears to be primarilyrelated to gaps in etiological knowledge. Overuse injuriesare related to repeated micro-trauma without a single, identi-ﬁable event, however, the etiology of overuse injuries remainslargely unknown. Typically, the injury onset occurs wellbefore the physical complaints, which creates a difﬁcult set-ting in which to retrospectively understand the etiology ofthe injury. Nevertheless, at the onset of complaints, athletesand coaches will form their own beliefs regarding the causeof the injury and the prevention of further complaints. Inorder for a successful preventative strategy to be effectivelyadopted, these beliefs will need to be integral in develop-ing this strategy, and it will be important to gain insight intothese ruling beliefs. To our knowledge, no existing litera-ture is available analyzing the beliefs of athletes and coachesconcerning overuse injuries. For this purpose, we conducteda qualitative study to explore the narratives of athletes andcoaches. The aim of the study was to describe the beliefs ofathletes and coaches about the deﬁnition of an overuse injury,as well as the intrinsic and extrinsic risk factors that underlieoveruse injuries.
+2. Methods
+Since no research has been conducted to investigate this
+phenomenon we conducted a qualitative study using in-depthinterviews to understand the beliefs of athletes and coaches.Without a speciﬁc theoretical framework on the etiology andrisk factors of overuse injuries available, the interviews wereconducted according to intrinsic and extrinsic risk factors aspostulated in the dynamic recursive model for the etiology ofsports injuries.
+13For our purposes, we will deﬁne an intrin-
+sic factor as one that predisposes an athlete to an overuseinjury in his or her sport. Intrinsic risk factors include individ-ual characteristics, such as age, growing bones, anatomicalabnormalities (e.g. length, hypertonic muscles and posture)gender, joint laxity, or psychological traits (e.g. being tensed
+and wanting to be the best). Extrinsic factors can be relatedto equipment, weather, environment, team mates, bad luck,training, family or the coach. The interviews were conductedby two students of the Department of Human MovementsSciences in concordance with a trained interviewer (PvW).The students were trained in conducting in-depth interviewsand did not have a medical or physiotherapy background.They passed a pilot-interview examination that veriﬁed theirinterview skills.
+Athletes and coaches were recruited from different sports
+clubs in the Northern Netherlands through an email or by atelephone call. All sports clubs or teams were acting at a highnational sports level. We recruited athletes and coaches fromaerobic and anaerobic sports, and from team and individ-ual sports. Two invited athletes (water polo) and one invitedcoach (speed skating) refused to participate, one because‘he did not believe in science,’ with the other two decliningwithout speciﬁc cause.
+Athletes who had recently experienced an overuse injury
+were included in the study (see Table 1 ). Recently was not
+deﬁned in a speciﬁc amount of weeks but the athletes shouldhave a good remembrance about ‘the cause’ and potentialpreceding risk factors of their injury. Coaches were includedwhen they were familiar with overuse injuries, with famil-iarity deﬁned as having coached athletes who experiencedoveruse injuries. Prior to the interview, athletes and coacheswere asked for the onset of the overuse injuries to ensure thesewere not being confused with acute or traumatic injuries. Allwere elite (non-professional) athletes and coaches, and par-ticipated or coached at least 10 h a week. All participantssigned an informed consent for the study and for the inter-views to be audio taped.
+Participants were given a full explanation about the study
+prior to the interview. All athletes and coaches were inter-viewed by one of the three researchers. Interviews took placeface to face at a location of the participant’s choice. Conﬁ-dentiality and anonymity was assured. First general questionswere asked; i.e. age, type of sport, hours a week involvedin sports (training and matches), experience with overuseinjuries, the affected body parts and duration of the injury orinjuries. Coaches were asked the same questions, but in caseof the affected body parts, they were asked which overuseinjury was most prevalent in their athletes. The interviewswere organized around 3 broad area’s which included: (1)deﬁnition of an overuse injury, (2) intrinsic risk factors and (3)extrinsic risk factors related to their overuse injury (athletes)or the overuse injuries of their athletes (coaches).
+An iterative approach permitted us to deal with unantic-
+ipated issues and additional relevant information. It offeredrespondents opportunities to articulate their feelings and per-ceptions as fully as possible. Questions were conversationaland, although pre-deﬁned, they did not follow a particularsequence.
+The prompt in the interviews to determine each individ-
+ual’s deﬁnition was: ‘how do you describe an overuse injury’.
+Author's personal copy
+118 C.P . van Wilgen, E.A.L.M. V erhagen / Journal of Science and Medicine in Sport 15 (2012) 116–121
+Table 1
+Descriptive data of the interviewed athletes and coaches.
+Nr. Age Gender Sport Athlete/coach Overuse injuries
+1 21 M Power lifting Athlete Shoulder2 21 F Dance Athlete Hip, shoulder3 20 F V olleyball Athlete Shoulder4 21 F Skating Athlete Knee, low back, Achilles tendon5 19 F Dance Athlete Shoulder, knee, hip6 22 F Swimming Athlete Knee, shoulder7 21 F Mountain bike Athlete Knee, back8 24 M Cycling Athlete Knee9 23 M V olleyball Athlete Shoulder
+10 24 F Dance Coach Knee, ankle, lower legs, back11 37 M Swimming Coach Shoulders, knee12 45 M Cycling/athletics Coach Knee13 26 M Skating Coach Back, knee, lower leg14 38 M Basketball Coach Back, ankle, knee15 54 M Power lifting Coach Several16 25 F Rowing Coach Wrist, low back, ribs17 62 M Athletics Coach Knee18 50 M Rowing Coach Low back, wrist, shoulder
+In case of intrinsic risk factors, prompts were: ‘are physical
+or personal factors related to overuse injuries’ and ‘is yourown behavior (the behavior of the athlete) related the onset ofoveruse injuries’. Prompts for extrinsic factors were ‘are sportspeciﬁc factors related to overuse injuries’, ‘are environmen-tal factors related to the onset of overuse injuries’, and ‘aretraining factors related to overuse injuries.’ In coach inter-views, the same structure was used as related to the overuseinjuries of their athletes. Sample size of the study, amountof athletes and coaches interviewed, increased until satura-tion occurred. Saturation was reached if no new categoriesor themes were discovered in the interviews. The interviewswere audio taped and transcribed afterwards. The study wasconducted according to the regulations of the Medical EthicalCommittee at University Medical Center Groningen.
+Interviews lasted between 30 and 60 min. Written tran-
+scripts were read and coded. The ﬁrst author (PvW) againread all interviews and conﬁrmed the coding; in case ofdiscrepancies these were discussed with the authors untilconsensus was reached. Categorical classiﬁcation including
+intrinsic and extrinsic factors was created to condense thedata. Intrinsic risk factors included variables related to theathlete, or in case of coaches, his or her athletes. Intrinsicfactors are gender, age, height, weight, hereditary, personal-ity type, psychological factors (behavior and beliefs of theathlete) technique and anatomic factors such as muscularﬂexibility, leg-length discrepancies or strength. Extrinsic riskfactors included training variables such as load, pace, intervaltraining, equipment (shoes and shoe inserts), training, socialfactors (parents and environment) and the coach. The cate-gories were counted and the differences between respondingathletes and coaches were calculated.
+3. Results
+After the 18th interview (nine athletes and nine coaches)
+saturation conﬁrmed that the sample size was sufﬁcient
+Table 2
+Subjective descriptions of overuse injury derived from the interviews.
+Behavioral/imbalance between strainand rest (13/18) (not all descriptions
+are presented)•Quote : overuse injuries are caused when training at intensity above my capacity for a longer period of time
+without taking adequate rest, the injury is increasing slowly until pain occurs.•Quote : overuse injury increases slowly but the athlete does not take adequate measures, e.g. continues his/her
+training/matches.•Quote : overuse injuries are caused by a misbalance between training and rest.
+•Quote: overuse injuries occur when training or and playing too much.
+•Quote : overuse injuries occur when using my body in an inadequate way, i.e. to many repetitions, too many
+unfamiliar movements•Quote : a muscle that is not strong enough for the training intensity or frequency of an athlete
+•Quote : not being alert enough (not listen to body signals such as pain) at the onset of an injury
+Physiological (3/18) •Quote : a muscle will get overused after too high intensity training
+•Quote : a weak spot (the weakest link)
+•Quote : making too much damage while training/playing which your body cannot repair
+Other (2/18) •Quote : being fatigued and as a consequence using compensation/other technique leading to overuse injury
+•Quote : overuse injury = pain
+Author's personal copy
+C.P . van Wilgen, E.A.L.M. V erhagen / Journal of Science and Medicine in Sport 15 (2012) 116–121 119
+Table 3
+Subjective intrinsic and extrinsic risk factors derived from the interviews.
+Intrinsic risk factors
+Physical (15/18) Technique (15/18) Behavioral (18/18) Hereditary (7/18)
+Anatomical position of muscles Unnatural movements Having too much of a drive A genetic cause or somebody can be
+more prone to get injured.
+Hyper ﬂexibility Extreme and forced motion of joints I always want to succeedStiffness Using to high forces during exercises Not feeling my boundariesLeg length differences Technically incorrect landings Being inpatient when having an
+injury/pain
+Over weighted Unnatural movements How I deal with mental stressCoordination Changing of technique Not coping adequately with pressureNot being strong enough Using a speciﬁc sports technique Not knowing when to stopPosture Playing with tension Always giving it all during trainingAgility Laying too much pressure on myselfFatigued Training despite being fatigued
+I don’t communicate about physicalsymptoms (pain) with my coachNot understanding the athlete
+Extrinsic risk factors
+Situational (18/18) Social (16/18) Training (17/18) Coach (12/18)
+Material Parents Changes in training Too demanding
+Equipment used during training Social pressure New movements/technique The communication is badSurface Being a team Training too heavy Not wanting to give up for the coachShoes Audience Using other muscles Coach puts on the pressure to highToo warm/too cold Not stopping because of team
+matesToo fast too heavy Coach is not focused on injuries
+Wrong taping No alignment between different
+coachesIncrease training load too fast When coaches have a bad
+relationship with their athlete’s
+Saddle height Starting too soon after injury
+when seeing others trainToo many repetitions Inadequate coach
+Air-conditioning Training as a team Learning a new technique Tensed relation
+Stiffness of the oar Training above 90% intensity Interaction must be goodWeather Not enough ﬂexibility in the
+trainingNot taking injuries into account
+while training
+Boat adjustments Always the same stroke I (coach) can be the cause of an injuryTraining room Training not adjusted to the
+individual
+Energy intakeDietaryTime during the season (pre-season,
+end of the season, during season)
+and no new themes were emerging from the data. All ath-
+letes and coaches were aware of the difference betweenacute/traumatic injuries and overuse injuries. According tothe athletes and coaches, overuse injuries are very commonand often sport speciﬁc, i.e. shoulders injuries are prevalentin swimming and wrist overuse injuries in rowing ( Table 1 ).
+The descriptions of overuse injuries are described in Table 2 .
+Three participants (17%) described a physiological processwhen deﬁning an overuse injury, e.g. ‘A muscle will getoverused after too high intensity training’ or ‘a weak spotin a muscle’. Thirteen participants (72%) used a descriptionof a process underlying an overuse injury in which an imbal-ance between training/matches and rest was described. In thisprocess, psychological factors (the behavior of the athleteand the characteristics of training/matches) were integrated.Descriptions were ‘training at intensity above your capacityfor a longer period of time, without taking adequate rest’,
+‘misbalance between training and rest’, ‘training/playing toomuch’ and ‘not being alert enough (not listen to body signals)at the onset of an injury’.
+The data generated from the interviews has been divided
+into intrinsic risk factors and extrinsic risk factors, which arepresented in Table 3 . The intrinsic factors related to overuse
+injuries reported were divided in four domains: physical,technical, psychological and hereditary ( Table 3 ). Fifteen par-
+ticipants (83%) described physical risk factors, e.g. hyperﬂexibility, stiffness, leg length differences, and overweight.Also 15 participants (83%) described technique as a riskfactor, e.g. ‘introducing another technique’, ‘using anothertechnique because of being fatigued’ or ‘speciﬁc sports tech-niques or postures’ (e.g. back problems from speed skating).Psychological factors were mentioned by all participants,
+Author's personal copy
+120 C.P . van Wilgen, E.A.L.M. V erhagen / Journal of Science and Medicine in Sport 15 (2012) 116–121
+e.g. ‘having too much of a drive’, ‘I want to succeed’, ‘not
+knowing when to stop’ and ‘training despite being fatigued’.Hereditary was mentioned by 7 (39%) of the participants.
+Extrinsic factors that could be generated from the inter-
+views were: situational, social, training and the coach. Allparticipants mentioned situational factors, e.g. equipment,saddle height, stiffness of the oar, weather, shoes, etc. Sixteenparticipants (89%) mentioned social extrinsic risk factors,e.g. parents, pressure, team mates, audience, etc. Seventeenparticipants (94%) mentioned the training as risk factor, e.g.‘training too heavy’, always the same stroke (swimming)’,‘too many repetitions’ and ‘too many changes in the training’.Three athletes and three coaches did not mention the coachas external risk factor. Twelve participants (67%) speciﬁcallymentioned the coach or the relationship between the coachand athlete as external risk factor. One coach formulated it as:‘I can be the cause of an overuse injury’. Other quotes were‘when the communication between the coach and athlete isbad’, ‘having different personalities’, ‘the coach demandstoo much of me’ or ‘not taking injuries into account whiletraining’.
+The beliefs of athletes and coaches concerning the intrinsic
+risk factors seem highly comparable. A difference betweenathletes and coaches was found at the external risk factor‘the coach’. Athletes were speciﬁcally referring to personalexperiences with their coaches while coaches mostly did referto coaches in general, but not to themselves speciﬁcally.
+4. Discussion
+This study was based on 18 interviews with Dutch ath-
+letes and coaches. The aim was to understand the subjectivedeﬁnition of overuse injuries, and beliefs about the intrinsicand extrinsic risk factors related to overuse injuries. Athletesand coaches integrate somatic, psychological (behavioral andcognitive) and sociological factors in the deﬁnition of overuseinjuries. The beliefs about intrinsic factors were related tophysical factors, technique, psychological factors and hered-ity. The extrinsic factors were related to situational and socialfactors, training and the coach.
+The dimensions found in this study reﬂect a holistic, or
+bio-psycho-social, view of athletes and coaches on overuseinjuries. A holistic view posits that biological, psychologicaland social factors contribute to the onset of overuse injuries.
+14
+This view seems in contrast with the medical and somaticview on injuries described in the literature
+15in which overuse
+injuries are deﬁned as ‘caused by repeated micro-traumawithout a single, identiﬁable event responsible for the injury’where ‘a gradual onset of the injury’ may be added to thisdeﬁnition.
+16Although in the dynamic recursive model for the
+etiology of sports injuries,13behavioral factors are described
+as potential risk factors, the primary focus is on the somaticrisk factors, which include age, previous injury, somatotypeand ﬂexibility. Bahr described that overuse injuries are causedby repetitive, low-grade forces exceeding the tolerance of thetissues causing damage which can lead to the symptoms of
+an overuse injury.
+16By this description, the occurrence of an
+overuse injury is a dynamic process. In most cases, the tissuedamage will repair without demonstrable clinical symptoms,but in some cases this process continues and the ability ofthe tissue to repair and adapt will be exceeded, resulting in aclinical overuse injury. In this process, not only the physicalforces, but also the psychological factors and the social con-text, could be of importance; for example, an athlete with highphysical demands may be more likely to suffer an overuseinjury if she also feels herself to be in a stressful situation.From this study we can conclude that athletes and coaches areof the opinion that in this process of overuse injuries, phys-ical, psychological and social factors are of importance andshould be incorporated in the deﬁnition of overuse injuries’.In the clinical practice coaches might focus more on their own(coaching) behavior and on the monitoring of psychosocialfactors in athletes.
+There is a signiﬁcant void in the research regarding pre-
+vention of overuse injuries. The existing research focuseson contact or collision sports, injuries of the lower extrem-ity, and protective equipment and training methods froma biomechanical and physiological point of view.
+3How-
+ever, the prevalence of overuse injuries is high and thereseems a need for prevention.
+17When preventive programs
+for overuse injuries are developed, they should incorporatethe pre-existing beliefs of athletes and coaches alongsidethe more traditional protective equipment and training meth-ods. This view ﬁts with the behavioral injury model that hasrecently been postulated by Verhagen et al.
+6In practice, this
+could manifest as athletes being educated on how to dealwith fatigue and pain at the onset of an overuse injury, howto communicate with coaches, team mates and parents, andhow to deal with stress and pressure. For coaches, communi-cation skills with athletes and the training regimen may alsobe subjected to a preventive program.
+An important drawback of the study is the size and diver-
+sity of our study sample. First, we only included Dutchathletes and coaches. As beliefs and knowledge of athletesand coaches are inﬂuenced by cultural backgrounds, the out-come of the current study cannot be generalized to the beliefsof all athletes and coaches regarding overuse injuries. Weincluded athletes and coaches from different sports, how-ever, not every sport was represented in this sample with theimpact being that mentalities and beliefs may differ betweensports. Team sports were underrepresented, which may havehad an inﬂuence on the social (team mate) dimension; how-ever, almost all included athletes were training in groups.Future studies might investigate these beliefs in larger groupsand look for sport speciﬁc differences in the beliefs of riskfactors for overuse injuries. It should be noted that it wasnot our intention to provide a full scope of beliefs and atti-tudes of athletes and coaches towards overuse injuries. Itwas merely our goal to provide an outline of where pre-ventive interventions against overuse injuries may gain ineffectiveness.
+Author's personal copy
+C.P . van Wilgen, E.A.L.M. V erhagen / Journal of Science and Medicine in Sport 15 (2012) 116–121 121
+The ﬁndings from this study are not only of value for pre-
+ventive programs in sports but also for clinicians workingwith injured athletes. Health care professionals should antic-ipate that injured athletes may attribute their overuse injuryto both somatic causes, with possible integration of psycho-logical and social factors. Further insight into the causes ofoveruse injuries may be gained by asking about the athlete’scommunication with the coach, behavior during training andmatches, beliefs about rest, and how the athlete deals withstress, fatigue and pain. Physicians should not only treatthe overuse injury but also address the possible contributingcauses to the injury by providing education in order to deter-mine the psychological and behavioral adaption that shouldbe taken in order to increase the chances of a quick recoveryand to prevent recrudescence of the injury.
+18
+5. Conclusion
+Athletes and coaches integrate somatic as well as psycho-
+logical and social factors in the deﬁnition of and risk factorsfor overuse injuries. This view seems in contrast with themedical and somatic view on injuries described in the liter-ature. Prevention programs for overuse injuries in order toincrease effectiveness should not only contain somatic fac-tors, but also incorporate the pre-existing beliefs of athletesand coaches about the intrinsic and extrinsic factors relatedto overuse injuries.
+6. Practical implications
+According to athletes and coaches overuse injuries are
+related to biopsychosocial factors and not only caused by‘repeated micro-trauma without a single, identiﬁable eventresponsible for the injury’; this might be integrated in futureresearch.
+Prevention programs should incorporated not only equip-
+ment and training methods, but also behavioral strategies ofathletes and coaches (i.e. monitoring pain, fatigue and stress).
+Clinicians working with athletes suffering from overuse
+injuries should also consider psychological and social factorsin development of a treatment plan.
+Acknowledgement
+The authors would like to thank all participating athletes
+and coaches and Christel Braaksma, Stijn Hoogwout and ErinDaly for their contribution to the study.References
+1. Pedersen BK, Saltin B. Evidence for prescribing exercise as ther-
+apy in chronic disease. Scand J Med Sci Sports 2006; 16:3–
+63.
+2. Donaldson S, Ronan K. The effects of sports participation on
+young adolescents’ emotional well-being. Adolescence 2006; 41:369–
+389.
+3. McBain K, Shrier I, Shultz R, et al. Prevention of sports injury. I. A
+systematic review of applied biomechanics and physiology outcomesresearch. Br J Sports Med 2011, doi: 10.1136/bjsm.2010.080929
+.
+4. Finch C. New framework for research leading to sports injury prevention.
+J Sci Med Sport 2006; 9:3–9.
+5. Timpka T, Ekstrand J, Svnastrom L. Form sports injury pre-
+vention to safety promotion in sports. Sports Med 2006; 36:733–
+745.
+6. Verhagen EALM, Van Stralen MM, Van Mechelen W. Behaviour,
+the key factor for sports injury prevention. Sports Med 2010; 40:899–
+906.
+7. Verhagen EALM, van Mechelen W. Sport for all, injury prevention for
+all.Br J Sports Med 2010; 44:158.
+8. McGlashan AJ, Finch CF. The extent to which behavioural models
+are used in sport injury prevention research. Sports Med 2010; 40:841–
+858.
+9. Collard DC, Chinapaw MJ, van Mechelen W, et al. Design of the iPlay
+study: systematic development of a physical activity injury preven-tion programme for primary school children. Sports Med 2009; 39:889–
+901.
+10. Collard DC, Verhagen EA, Chinapaw MJ, et al. Effectiveness of a
+school-based physical activity injury prevention program: a cluster ran-domized controlled trial. Arch Pediatr Adolesc Med 2010; 164:145–
+150.
+11. Collard DC, Verhagen EA, Chinapaw MJ, et al. Effectiveness of a
+school-based physical activity-related injury prevention program on riskbehavior and neuromotor ﬁtness a cluster randomized controlled trial.Int J Behav Nutr Phys Act 2010; 7:9.
+12. Green LW, Glanz K, Hochbaum GM, et al. Can we build on, or must we
+replace, the theories and models in health education? Health Educ Res
+1994; 9:397–404.
+13. Meeuwisse WH, Tyreman H, Hagel B, et al. A dynamic model of etiology
+in sport injury: the recursive nature of risk and causation. Clin J Sport
+Med 2007; 17:215–219.
+14. Engel GL. The need for a new medical model: a challenge for
+biomedicine. Science 1977; 196:129–136.
+15. Fuller CW, Ekstrand J, Junge A. Consensus statement on injury def-
+initions and data collection procedures in studies of football (soccer)injuries. Clin J Sport Med 2006; 16:97–106.
+16. Bahr R. No injuries but plenty of pain? On the methodology for
+recording overuse symptoms in sports. Br J Sports Med 2009; 43:966–
+972.
+17. Hootman JM, Dick R, Agel J. Epidemiology of collegiate injuries for 15
+sports: summary and recommendations for injury prevention initiatives.J Athl Training 2007; 42:311–319.
+18. Van Wilgen CP, Kaptein AA, Brink MS. Illness perceptions and mood
+states are associated with injury-related outcomes in athletes. Disabil
+Rehabil 2010; 32:1576–1585.
+View publication stats

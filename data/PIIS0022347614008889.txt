@@ -1,0 +1,336 @@
+Epidemiology of Overuse Injuries among High-School Athletes
+in the United States
+Allison N. Schroeder, BS1, R. Dawn Comstock, PhD2, Christy L. Collins, MA3, Joshua Everhart, MD4, David Flanigan, MD4,
+and Thomas M. Best, MD, PhD5
+Objective To examine high school overuse injury rates and patterns by sex and sport.
+Study design High school athletes participating in the High School Reporting Information Online study were
+examined in a descriptive epidemiologic study. Overuse injury data for the 2006/2007-2011/2012 academic yearscollected via High School Reporting Information Online from a large national sample of US high schools where certi-ﬁed athletic trainers completed detailed injury reports were evaluated.
+Results From 2006/2007 to 2011/2012, a total of 2834 overuse injuries were reported during 18 889 141 athletic
+exposures (1.50 per 10 000 athletic exposures). Girls had greater rates of overuse injury (1.88) than boys (1.26) (rate
+ratio 1.50, 95% CI 1.39-1.61). The greatest rates were in girls’ track and ﬁeld (3.82) and girls’ ﬁeld hockey (2.93).Overuse injuries represented 7.7% of all injuries, ranging from a low of 1.4% of all boys’ ice hockey injuries to ahigh of 55.7% of all boys’ swimming and diving injuries. Overall, overuse injuries were evenly distributed across ath-letes in each year of high school (freshman, 25.6%; sophomore, 25.3%; junior, 24.9%; senior, 24.3%). However,there were distinct differences by sex. The most frequent site of injury was the lower leg (21.8%). Injuries mostfrequently resulted in time loss of less than 1 week (50.0%), with only 7.6% resulting in time loss greater than3 weeks.
+Conclusions Overuse injury patterns differed by sex and sport . A better understanding of overuse injury pat-
+terns and criteria for return to play may help direct preventative measures and injury management. (J Pediatr
+2015;166:600-6) .
+See editorial, p 517 and
+related article, p 594
+Overuse injuries are more prevalent in older (13-17 years) rather than younger (5-12 years) children.1-3To date, detailed
+analysis of the epidemiology of overuse injury among young athletes has been lacking.3Overuse injuries result from
+repetitive microtrauma without a single responsible event.4Young athletes may be at greater risk of developing overuse
+injury than older athletes for several reasons: bone mineralization can lag behind linear bone growth,5,6growing cartilage can be
+more susceptible to injury than stable articular cartilage,7increased muscle and tendon tightness that results from growth spurts
+during adolescence,7and a lack of awareness from the young athlete of the signs of overuse injuries.6Therefore, conclusions
+drawn about overuse injury in adults cannot always be equated to children.
+Participation and intensity in high school athletics has increased steadily during the past decade.8,9An increase in the inci-
+dence of overuse injuries in children has been observed.5,10As the popularity and intensity of high school sports continues to
+increase,2so too will the risk of overuse injuries unless effective prevention pro-
+grams can be developed.
+Few epidemiologic studies have looked solely at overuse injuries, especially
+among high school athletes, as most have focused on a speciﬁc injury type or
+body region,11a speciﬁc sport,12,13or have been limited to one14or a few5athletic
+programs. The epidemiology of overuse injuries has been analyzed in collegiateathletes,
+14but this may not be generalizable to high school athletes.5,15One
+study, in which investigators looked speciﬁcally at overuse injuries in high schoolFrom the
+1Ohio State University College of Medicine, Columbus,
+OH;2Department of Epidemiology, Colorado School of
+Public Health and Emergency Medicine, Pediatrics,University of Colorado School of Medicine, Aurora, CO;
+3Center for Injury Research and Policy, Nationwide
+Children’s Hospital; and Departments of4Orthopedics
+and5Family Medicine, The Ohio State University,
+Columbus, OH
+Funded by the Centers for Disease Control and Preven-
+tion (R49/CE000674-01 and R49/CE001172-01), Na-tional Federation of State High School Associations,National Operating Committee on Standards for AthleticEquipment, DonJoy Orthotics, and EyeBlack. A.S. hasreceived funding from the OSU College of Medicine
+(Roessler) Research Scholarship. The content of this
+report is solely the responsibility of the authors and doesnot necessarily represent the ofﬁcial views of the Centersfor Disease Control and Prevention. The authors declareno conﬂicts of interest.
+0022-3476/$ - see front matter. Copyright ª2015 Elsevier Inc.
+All rights reserved.
+http://dx.doi.org/10.1016/j.jpeds.2014.09.037AE Athletic exposure
+AT Athletic trainerFR Freshman
+JR Junior
+RIO Reporting Information OnlineRR Rate ratioSO Sophomore
+SR Senior
+600
+athletes, was limited to 5 high schools in northeast Ohio.5
+Large-scale research on overuse injuries in high school ath-
+letes with a prospective design that evaluated overuse injuriesby sport, sex, and year in school is lacking.
+The purpose of this study was to examine overuse injuries
+in a large national sample of US high school athletes. Specif-ically, the aims were to: (1) calculate overuse injury rates; (2)
+describe patterns of overuse injury; and (3) compare differ-
+ences by sex, sport, and type of exposure (competition vspractice). Understanding the epidemiology of overuse injuryamong young athletes is the ﬁrst step toward the develop-ment of effective, targeted prevention efforts.
+Methods
+A retrospective cohort study of data collected using the Na-tional High School Sports-Related Injury Surveillance Sys-tem, High School RIO (ie, Reporting Information Online).
+The methods of the High School RIO study have been previ-
+ously reported.
+16,17In brief, high schools with one or more
+National Athletic Trainers’ Association-afﬁliated certiﬁedathletic trainers (ATs) with a valid e-mail address wereinvited to participate. High School RIO used 2 concurrentsurveillance cohorts during the study period. In the originalstudy cohort, willing participants were categorized into 8strata based on US census geographic region (Northeast,
+Midwest, South, and West) and school population (enroll-
+ment#1000 or >1000).
+18One hundred high schools were
+chosen randomly from the 8 strata to report for each of the9 sports included in the original High School RIO Study(boys’ football, boys’ and girls’ soccer, girls’ volleyball,boys’ and girls’ basketball, boys’ wrestling, boys’ baseball,and girls’ softball). If a school dropped out of the study, areplacement was selected from the same stratum to maintain
+this nationally representative sample for this 100 school
+study.
+For the additional 11 sports added as part of the expanded
+study cohort since 2008/2009, schools not selected to partic-ipate in the nationally representative sample of 100 schoolsreporting the original 9 sports but that offered any of theother 11 sports (girls’ ﬁeld hockey, girls’ gymnastics, boys’ice hockey, boys’ and girls’ lacrosse, boys’ and girls’ track
+and ﬁeld, boys’ and girls’ swimming and diving, boys’ volley-
+ball, and cheerleading) were included in the expansion of theHigh School RIO Study as a convenience sample. Combined,these duel sampling methodologies resulted in a large, na-tionally disperse convenience sample of US high schoolsproviding data for the 20 sports.
+Although the National High School Sports-Related
+Injury Surveillance study began in the 2005/2006 academic
+y e a r ,a no p t i o nt os e l e c t“ o v e r u s e / c h r o n i c ”a sa ni n j u r y
+mechanism was not added until the 2006/2007 academicyear. Therefore, data analyzed in this study includes the2006/2007 through 2011/2012 academic years. During the2005/2006 through 2007/2008 academic years, ATs fromparticipating high schools would log on to the High SchoolRIO website weekly throughout the academic year to report
+injury incidence and athletic exposure (AE) for the original9 sports. Beginning in the 2008/2009 academic year, datawere collected for 9 additional sports: girls’ ﬁeld hockey,girls’ gymnastics, boys’ ice hockey, boys’ and girls’ lacrosse,b o y s ’a n dg i r l s ’t r a c ka n dﬁ e l d ,a n db o y s ’a n dg i r l s ’s w i m -ming and diving. Beginni ng in the 2009/2010 academic
+year, data were collected for boy s’ volleyball and cheerlead-
+ing. The total number of schools reporting data for eachsport varied annually.
+Deﬁnition of Injury and AE
+An AE was deﬁned as one athlete participating in one practiceor competition. A reportable injury was deﬁned as onewhich: (1) occurred as a result of participation in an orga-
+nized high school practice or competition; (2) required med-
+ical attention by an AT or physician; and (3) resulted inrestriction of the student-athlete’s participation for at least1 day beyond the day of injury. More speciﬁcally, for thisstudy, overuse injury was deﬁned as any injury reported bythe AT as having an “overuse” or “chronic” basic injurymechanism (ie, the mechanism was not “acute”). ATs aretrained sports medicine clinicians who used pertinent infor-
+mation such as discussions with other clinicians who treated
+the injured athlete, their own knowledge, and their relation-ship with the athlete and the athlete’s coach to make the de-cision on overuse status.
+For each reported injury, the ATs completed detailed
+injury reports, including athlete demographics (eg, sex, age,weight, year in school), injury information (eg, site, diag-nosis, severity, new vs recurrent), and injury event informa-
+tion (eg, sport in which the athlete was participating,
+mechanism). ATs were able to view previously submitted in-formation and update reports as needed.
+Statistical Analyses
+Data were analyzed using SPSS software, version 20.0 (SPSS,Chicago, Illinois). Frequencies were calculated and missingdata was reported as “unknown.” All rates and rate compar-
+isons were calculated using unweighted case counts. Overuse
+injury rates were calculated as the number of overuse injuriesper 10 000 AEs. Injury rate ratios (RRs) were calculated with95% CIs provided as a measure of effect. This study wasapproved by the Human Subjects Research Board at Nation-wide Children’s Hospital.
+Results
+Overall Injury Rates by Exposure TypeFrom 2006/2007-2011/2012, ATs reported 2834 overuse in-
+juries during 18 889 141 AEs, a rate of 1.50 per 10 000 AEs
+(Table I ). The greatest overuse injury rates occurred in
+girls’ track and ﬁeld and girls’ ﬁeld hockey. The lowestoveruse injury rates occurred in boys’ volleyball and boys’ice hockey. The greatest percentage of all injuries that wereoveruse injuries occurred in boys’ and girls’ swimming andVol. 166, No. 3 /C15March 2015
+601
+diving and boys’ and girls’ track and ﬁeld. The lowest
+percentage of all injuries that were overuse injuriesoccurred in boys’ ice hockey and boys’ volleyball ( Table I ).
+Of the 20 sports studied, overuse injuries were more likely
+to occur in practice than competition in all sports exceptboys’ baseball, boys’ ice hockey, and cheerleading. Sportswith the greatest increased risk of injury between practice
+and competition were girls’ ﬁeld hockey and girls’ lacrosse
+(Table I ).
+Only newly presenting time-loss overuse injuries were
+captured by this surveillance system (ie, each injury iscounted in the data set only once, at the time of initial presen-tation). Of the 2834 overuse injuries, 79.9% were reported asnew, 6.9% as recurrent injury sustained in the same academicyear as that being reported (ie, a new injury of the same diag-
+nosis and to the same body site as a prior injury), and 12.2%
+as recurrences of a previous injury sustained before the sameacademic year as the injury being reported (in an additional1% of injuries new vs recurrent status was unknown or thedata was missing from the injury report).
+Sex Differences
+Overall, overuse injuries represented 13.3% of all injuries in
+girls but only 5.5% of all injuries in boys. When all 20 sports
+were evaluated, the rates of overuse injuries were greateramong girls (1.88) compared with boys (1.26) (RR 1.50,95% CI 1.39-1.61). When only sex-comparable sports (soc-cer, basketball, softball/baseball, lacrosse, swimming anddiving, volleyball, and track and ﬁeld) were evaluated, therates of overuse injuries also were greater in girls (2.08)than boys (1.44) (RR 1.45, 95% CI 1.32-1.58). Both girls
+(RR 2.32; 95% CI, 2.00-2.70) and boys (RR 1.36; 95% CI1.20-1.55) were more likely to sustain an overuse injury in
+practice than competition. Although competition overuseinjury rates were similar between girls (0.98) and boys(0.99), practice overuse injury rates were greater in girls(2.27) than in boys (1.34) (RR 1.69; 95% CI 1.56-1.83)(Table I ). The rate of overuse injuries only varied slightly
+annually and was not signiﬁcantly different over time
+(R
+2= 0.01, P= .85; data not shown).
+Overall, proportions of overuse injuries were evenly
+distributed across athletes’ year in school (freshman [FR],25.6%; sophomore [SO], 25.3%; junior [JR], 24.9%; senior[SR], 24.3%). However, there were distinct patterns by sex.In boys, the proportion of overuse injuries increased withathletes’ year in school (FR, 20.7%; SO, 24.4%; JR, 26.4%;SR, 28.5%); in girls, the proportion decreased with athletes’
+year in school (FR, 30.7%; SO, 26.1%, JR, 23.4%; SR,
+19.8%) ( Figure ).
+Body Site Injured
+Although patterns of overuse injury varied by sport, the mostcommonly injured body sites overall included lower leg (areabetween the knee and the ankle), knee, and shoulder(Table II ). The lower leg was the most frequently injured
+site in boys’ volleyball, girls’ track and ﬁeld, girls’ lacrosse,
+boys’ lacrosse, and boys’ track and ﬁeld. The shoulder wasthe most frequently injured site in boys’ swimming, girls’swimming, boys’ baseball, and boys’ wrestling. The lowerback/spine/pelvis was the most frequently injured site ingirls’ gymnastics, boys’ ice hockey, cheerleading, andfootball. The foot was the most frequently injured site inboys’ basketball, and the knee was the most frequently
+diagnosed site in girls’ ﬁeld hockey ( Table II ).Table I. Injury rates by sport and type of exposure among US high school athletes, National High School Sports-Related
+Injury Surveillance Study, US, 2006/2007-2011/2012
+Number of injuries and exposures Injury rates per 10 000 AEs
+Injury RR (95% CI) *% of all injuries that
+were overuse injuries Overuse injuries, n Total AEs Overall Competition Practice
+Total 2834 18 889 141 1.50 0.98 1.69 1.72 (1.56-1.90) 7.7
+Boys 1450 11 540 293 1.26 0.99 1.34 1.36 (1.20-1.55) 5.5
+Girls 1384 7 348 848 1.88 0.98 2.27 2.32 (2.00-2.70) 13.3
+Boys’ football 481 3 788 614 1.27 1.19 1.28 1.08 (0.84-1.38) 3.2Boys’ soccer 222 1 450 955 1.53 1.14 1.70 1.49 (1.09-2.05) 8.6Girls’ soccer 241 1 227 051 1.96 1.43 2.20 1.54 (1.14-2.09) 8.6Girls’ volleyball 176 1 285 415 1.37 0.60 1.76 2.91 (1.92-4.41) 12.6Boys’ basketball 137 1 691 624 0.81 0.60 0.90 1.51 (1.01-2.26) 5.5
+Girls’ basketball 202 1 362 330 1.48 0.83 1.77 2.14 (1.48-3.09) 8.5
+Boys’ wrestling 73 1 274 847 0.57 0.57 0.57 1.01 (0.60-1.70) 2.5Boys’ baseball 175 1 267 438 1.38 1.42 1.36 0.96 (0.71-1.31) 14.8Girls’ softball 152 954 185 1.59 0.94 1.93 2.05 (1.38-3.04) 13.1Girls’ ﬁeld hockey 116 395 433 2.93 0.81 3.90 4.82 (2.52-9.22) 16.4Girls’ gymnastics 22 80 739 2.72 2.66 2.74 1.03 (0.35-3.04) 14.5Boys’ ice hockey 8 253 965 0.32 0.48 0.23 0.48 (0.12-1.93) 1.4
+Boys’ lacrosse 85 416 896 2.04 0.93 2.53 2.71 (1.47-5.00) 9.1
+Girls’ lacrosse 82 299 916 2.73 0.97 3.52 3.62 (1.81-7.23) 18.0Boys’ swimming 44 339 553 1.30 0.46 1.49 3.24 (1.00-10.46) 55.7Girls’ swimming 63 388 274 1.62 0.66 1.85 2.79 (1.12-6.95) 47.7Boys’ track and ﬁeld 224 1 000 193 2.24 1.26 2.47 1.95 (1.28-2.98) 28.5Girls’ track and ﬁeld 311 814 915 3.82 1.66 4.33 2.60 (1.74-3.89) 36.8
+Boys’ volleyball 1 56 208 0.18 - 0.27 - 2.4
+Cheerleading 19 540 590 0.35 0.49 0.38 0.78 (0.18-3.40) 5.5
+*Compares overuse injury rates during practice with the overuse injury rates during competition.THEJOURNAL OF PEDIATRICS /C15www.jpeds.com Vol. 166, No. 3
+602 Schroeder et al
+Time Loss Associated with Overuse Injury
+One-half all overuse injuries resulted in a time loss of
+<1 week, with few injuries causing the athlete to miss>3 weeks or resulting in medical disqualiﬁcation(Table III ). This ﬁnding was consistent across sexes.Overuse injuries in girls’ gymnastics, girls’ basketball, boys’
+baseball, and boys’ basketball most frequently resulted intime loss of >3 weeks. Medical disqualiﬁcation for theseason from an overuse injury occurred most frequently inboys’ wrestling and girls’ gymnastics.
+Figure. Interaction between sex and year in school with respect to overuse injury in US high school athletes, National High
+School Sports-Related Injury Surveillance Study, US, 2006/2007-2011/2012.
+Table II. Body sites of overuse injuries by sport, National High School Sports-Related Injury Surveillance Study, US,
+2006/2007-2011/2012
+Body site
+Total * Shoulder ElbowLower back/
+spine/pelvis HipThigh/upper
+leg Knee Lower leg Ankle Foot Other/unknown
+Overall 11.5% 2.8% 10.7% 7.3% 8.9% 15.9% 21.8% 4.3% 11.3% 5.4% 100%
+Boys 11.7% 3.5% 12.6% 7.6% 10.4% 14.7% 17.5% 3.9% 12.3% 5.8% 100%
+Girls 11.4% 2.1% 8.7% 7.1% 7.3% 17.2% 26.2% 4.6% 10.3% 5.0% 100%
+Boys’ football 6.0% 0.4% 15.8% 9.8% 12.7% 14.6% 15.6% 5.4% 12.5% 7.3% 100%Boys’ soccer 1.4% 0.0% 14.4% 7.7% 17.1% 14.4% 19.4% 5.4% 18.0% 2.3% 100%Girls’ soccer 0.4% 0.0% 7.1% 10.0% 13.3% 20.3% 29.9% 6.6% 11.6% 0.8% 100%Girls’ volleyball 27.3% 0.6% 16.5% 6.3% 2.3% 12.5% 10.2% 4.0% 10.8% 9.7% 100%Boys’ basketball 2.2% 0.0% 14.6% 3.6% 8.0% 23.4% 15.3% 4.4% 25.5% 2.9% 100%
+Girls’ basketball 2.5% 0.0% 11.4% 3.0% 3.5% 24.8% 26.7% 5.0% 18.3% 5.0% 100%
+Boys’ wrestling 30.1% 1.4% 17.8% 4.1% 2.7% 19.2% 5.5% 0.0% 5.5% 13.7% 100%Boys’ baseball 43.4% 24.6% 9.1% 2.9% 1.7% 4.6% 1.7% 0.6% 2.3% 9.1% 100%Girls’ softball 28.9% 17.1% 5.9% 3.9% 6.6% 15.1% 5.9% 1.3% 3.9% 11.2% 100%Girls’ ﬁeld hockey 1.7% 0.0% 12.1% 12.1% 12.1% 24.1% 20.7% 2.6% 10.3% 4.3% 100%Girls’ gymnastics 9.1% 4.5% 40.9% 0.0% 0.0% 4.5% 27.3% 4.5% 0.0% 9.1% 100%
+Boys’ ice hockey 0.0% 12.5% 37.5% 0.0% 25.0% 0.0% 0.0% 0.0% 12.5% 12.5% 100%
+Boys’ lacrosse 1.2% 1.2% 8.2% 3.5% 10.6% 12.9% 36.5% 1.2% 17.6% 7.1% 100%Girls’ lacrosse 0.0% 0.0% 2.4% 7.3% 8.5% 17.1% 43.9% 8.5% 11.0% 1.2% 100%Boys’ swimming 72.7% 4.5% 6.8% 0.0% 0.0% 6.8% 2.3% 0.0% 0.0% 6.8% 100%Girls’ swimming 69.8% 1.6% 6.3% 1.6% 4.8% 4.8% 1.6% 3.2% 0.0% 6.3% 100%Boys’ track and ﬁeld 1.3% 0.4% 5.8% 13.4% 11.2% 19.2% 33.5% 4.9% 8.5% 1.8% 100%Girls’ track and ﬁeld 3.2% 0.0% 2.6% 9.6% 7.7% 14.1% 45.3% 5.1% 10.3% 1.9% 100%
+Boys’ volleyball 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 100.0% 0.0% 0.0% 0.0% 100%
+Cheerleading 10.5% 0.0% 31.6% 0.0% 0.0% 21.1% 10.5% 0.0% 0.0% 26.3% 100%
+*Some totals do not sum to 100% because of rounding.March 2015 ORIGINAL ARTICLES
+Epidemiology of Overuse Injuries among High-School Athletes in the United States 603
+Evaluator of the Injured Athlete
+Just more than one-half of the athletes were evaluated bysomeone other than an AT (50.2%), and 49.8% of the athleteswith an overuse injury were evaluated by an AT alone. A totalof 26.0% of athletes were evaluated by a primary care physi-cian with or without an AT or mid-level provider (ie, nursepractitioner, physician assistant, chiropractor). A total of
+14.9% of athletes were evaluated by an orthopedic surgeon
+with or without an AT or mid-level provider; 4.7% of athleteswere evaluated by both a primary care physician and an or-thopedic surgeon with or without an AT or mid-level pro-vider; and 4.6% of athletes were evaluated by a mid-levelprovider with or without an AT.
+Discussion
+As the popularity of high school sports continues to in-crease, the number of high school athletes sustaining over-use injuries may also increase unless effective preventionprograms are developed.
+1-7,19An important ﬁnding of our
+study was that girls not only have greater overuse injury
+rates than boys, but a greater proportion of their overuse in-
+juries occurred earlier in their high school careers ascompared with boys. Overuse injuries make up a large pro-portion of all injuries in athletes participating in sportsrequiring repetitive movements, such as swimming and div-ing and track and ﬁeld. The body sites affected with overuseinjuries were sport speciﬁc. Identifying high school athletesat risk of overuse injuries is the ﬁrst step in working to pre-
+vent these injuries.
+19Our ﬁndings are supported in part by previous
+research.5,14Potential explanations for our ﬁndings and the
+sex variations include differences in biomechanics and thetime it takes to reach sexual maturity between girls andboys.
+20,21We hypothesize that these differences in injury
+rates may also be attributable to a selection of the elite ath-
+letes; meaning, those female athletes still participating insports as a senior in high school may have physical builds bet-ter able to withstand repetitive exercise, and those who sus-tained injuries at a young age no longer participate insports. On the other hand, boys who may experience growthspurts later in life may not realize their full risk of overuseinjury based on their mature physical build until their later
+high school years, after they have had many years of training
+and stress on their bodies. Further studies are necessary toestablish effective, targeted preventative measures and anydifferences in prevention strategies that are effective basedon sex.
+Previous studies reported overuse injuries account for
+nearly one-half of injuries in athletes of all age groups,
+1
+although the proportion of overuse injuries in high school
+athletes was far less. A possible explanation could be that
+high school athletes were more likely to participate in sportsthat cause a lower proportion of acute injuries (ie, football)than older athletes. In high school swimming and divingand track and ﬁeld athletes, the proportion of injuries attrib-uted to an overuse mechanism approaches the previously re-ported value of 50%,
+1which is consistent with several studies
+reporting that overuse injuries often are found in sports with
+long training sessions that require repetitive movements.22-24Table III. Time loss after an overuse injury by sport, National High School Sports-Related Injury Surveillance Study, US,
+2006/2007-2011/2012
+Time loss
+Total <1 wk 1-3 wk >3 wkMedical disqualiﬁcation
+for season Other/unknown *
+Overall 50.0% 29.6% 7.6% 4.5% 8.3% 100.0%
+Boys 50.1% 29.6% 7.6% 5.2% 7.5% 100.0%
+Girls 49.9% 29.7% 7.6% 3.8% 9.0% 100.0%
+Boys’ football 53.0% 27.2% 7.7% 6.2% 5.8% 100.0%Boys’ soccer 56.8% 23.9% 5.9% 5.4% 8.1% 100.0%Girls’ soccer 54.8% 27.4% 6.6% 4.1% 7.1% 100.0%Girls’ volleyball 53.4% 28.4% 5.1% 2.8% 10.2% 100.0%
+Boys’ basketball 46.7% 29.2% 10.2% 5.8% 8.0% 100.0%
+Girls’ basketball 43.6% 31.2% 13.4% 3.5% 8.4% 100.0%Boys’ wrestling 42.5% 30.1% 9.6% 9.6% 8.2% 100.0%Boys’ baseball 44.0% 30.9% 10.9% 4.0% 10.3% 100.0%Girls’ softball 54.6% 30.9% 3.3% 3.3% 7.9% 100.0%Girls’ ﬁeld hockey 56.9% 20.7% 8.6% 3.4% 10.3% 100.0%Girls’ gymnastics 31.8% 22.7% 13.6% 9.1% 22.7% 100.0%
+Boys’ ice hockey 75.0% 25.0% 0.0% 0.0% 0.0% 100.0%
+Boys’ lacrosse 55.3% 32.9% 3.5% 4.7% 3.5% 100.0%Girls’ lacrosse 52.4% 24.4% 9.8% 4.9% 8.5% 100.0%Boys’ swimming 56.8% 27.3% 4.5% 0.0% 11.4% 100.0%Girls’ swimming 42.9% 47.6% 1.6% 0.0% 7.9% 100.0%Boys’ track and ﬁeld 42.9% 38.4% 6.7% 3.1% 8.9% 100.0%
+Girls’ track and ﬁeld 44.7% 32.8% 8.4% 4.5% 9.6% 100.0%
+Boys’ volleyball 0.0% 100.0% 0.0% 0.0% 0.0% 100.0%Cheerleading 63.2% 21.1% 0.0% 5.3% 10.5% 100.0%
+*Other/unknown includes medical disqualiﬁcation for career (n = 1), athletes chooses not to continue (n = 45), athlete released from team (n = 6), othe r (n = 25), season ended before athlete returned
+to activity (n = 102), and unknown (n = 55).THEJOURNAL OF PEDIATRICS /C15www.jpeds.com Vol. 166, No. 3
+604 Schroeder et al
+The rates of overuse injury were greatest in girls’ lacrosse,
+girls’ ﬁeld hockey, and girls’ track and ﬁeld. This ﬁndingmay be solely due to differences between males and femalesor that these girls’ sports have larger teams with younger,skeletally immature girls who were not physically ready tohandle the repetitive motion associated with these sports.Athletes in these sports may beneﬁt most from overuse injury
+assessment and prevention.
+Consistent with previous reports, the lower leg was the
+most frequent site of overuse injury.
+3However, this study
+was the ﬁrst of our knowledge to describe the speciﬁc bodysite injured for multiple high school sports. As expected,sports requiring repetitive movements of the upper extrem-ity, such as volleyball, wrestling, baseball/softball, and swim-ming, have a greater proportion of shoulder injuries and
+sports requiring repetitive movements of the lower extremity
+such as track and ﬁeld and soccer have a higher proportion oflower leg injuries. Quantiﬁcation of body site injury by sportwill be extremely valuable when developing sport-speciﬁcpreventative measures and assessing the efﬁcacy of preven-tion strategies.
+Time loss after overuse injury varied by sport. Only one-
+half of overuse injuries resulted in time loss >1 week, but
+further studies are needed to determine whether athletes
+are taking adequate recovery time after an overuse injury.Studies assessing the frequency of occurrence in overuse in-juries and sex differences may provide guidelines for whenan athlete with an overuse injury should return to play andhow to prevent injury recurrence.
+This study has several limitations. The sample was limited
+to high schools with ATs, which restricted the study popula-
+tion but ensured that a medically trained professional docu-
+mented injuries. This likely increased data quality andconsistency, especially in classiﬁcation of an injury as “over-use,” but these necessary inclusion/exclusion criteria limit thegeneralizability of the ﬁndings to schools that do not have theservices of ATs. A convenience sample of US high schools wasused, which may also limit the generalizability of our ﬁnd-ings. However, this limitation was necessary to enable the
+comparison across a larger number of sports. Thus, although
+the convenience sample may not be nationally representative,it remains the largest national sample from which high schoolsports-related injuries have been captured to date. Secondly,the High School RIO surveillance system captures only time-loss injuries, and AEs were unit-based rather than time-basedbecause participation/exposures were not recorded in mi-nutes or hours. This limitation was necessary to reduce re-
+porter burden of the single AT from each high school
+participating in High School RIO; it undoubtedly resultedin an undercount of the true number of overuse injuriesand may have resulted in an inﬂation of the true time lossassociated with overuse injuries.
+In addition, there is debate regarding the clinical signiﬁ-
+cance of overuse injuries that do not restrict athletic activity.Some may see a limitation in the fact that injuries were re-
+ported by ATs and not physicians. However, more than
+one-half of the injured athletes were evaluated by a physicianor other mid-level provider in addition to the high school
+AT. Although this was perhaps a limitation to the study,the High School RIO surveillance system uses ATs to reportdata because this is the only feasible method of capturing datafrom such a large national sample of high schools and hasproven to be an accurate way to track injury incidence andexposure information as well as data such as time loss from
+sport.
+Finally, it was possible that athletes with overuse injuries did
+not report them to their AT and attempted to self-treat. Therealso may be sex differences in athletes’ willingness to reportoveruse injuries similar to the reported sex differences indi-cating girls may be more willing to report concussion symp-toms than boys.
+25Despite these limitations, this study was
+the largest and most recent analyses of overuse injuries among
+high school athletes and the ﬁrst to describe rates and patterns
+of overuse injuries across a large number of sports utilizing alarge national sample of US high schools.
+n
+We thank the athletic trainers who report injury data to High School
+RIO.
+Submitted for publication Jun 2, 2014; last revision received Aug 26, 2014;
+accepted Sep 19, 2014.
+Reprint requests: Allison N. Schroeder, BS, 488 West 3rdAve., Columbus,
+OH 43201. E-mail: allison.schroeder@osumc.edu
+References
+1.Herring SA, Nilson KL. Introduction to overuse injuries. Clin Sports
+Med 1987;6:225-39 .
+2.Winsley R, Matos N. Overtraining and elite young athletes. Med Sport
+Sci 2011;56:97-105 .
+3.Stracciolini A, Casciano R, Levey Friedman H, Meehan WP III,
+Micheli LJ. Pediatric sports injuries: an age comparison of childrenversus adolescents. Am J Sports Med 2013;42:965-72 .
+4.Fuller CW, Ekstrand J, Junge A, Anderson TE, Bahr R, Dvorak J, et al.
+Consensus statement on injury deﬁnitions and data collection proce-
+dures in studies of football (soccer) injuries. Br J Sports Med 2006;40:193-201 .
+5.Cuff S, Loud K, O’Riordan MA. Overuse injuries in high school athletes.
+Clin Pediatr (Phila) 2010;49:731-6 .
+6.Caine D, Maffulli N, Caine C. Epidemiology of injury in child and
+adolescent sports: injury rates, risk factors, and prevention. Clin Sports
+Med 2008;27:19-50. vii .
+7.Flachsmann R, Broom ND, Hardy AE, Moltschaniwskyi G. Why is the
+adolescent joint particularly susceptible to osteochondral shear fracture?Clin Orthop Relat Res 2000;212-21 .
+8.National Federation of State High School Associations [homepage on the
+internet]. Indianapolis: c1920-2014 [cited 2013 Sept 10]. 2012-13 HighSchool Athletics Participation Survey. http://www.nfhs.org/Partici
+pationStatics/ParticipationStatics.aspx . Accessed September 28, 2014.
+9.d’Hemecourt P. Overuse injuries in the young athlete. Acta Paediatr
+2009;98:1727-8 .
+10.Dalton SE. Overuse injuries in adolescent athletes. Sports Med 1992;13:
+58-70 .
+11.Devan MR, Pescatello LS, Faghri P, Anderson J. A prospective study of
+overuse knee injuries among female athletes with muscle imbalancesand structural abnormalities. J Athl Train 2004;39:263-7 .
+12.Dick R, Hertel J, Agel J, Grossman J, Marshal SW. Descriptive epidemi-
+ology of collegiate men’s basketball injuries: National Collegiate AthleticAssociation Injury Surveillance System, 1988-1989 through 2003-2004. J
+Athl Train 2007;42:194-201 .March 2015 ORIGINAL ARTICLES
+Epidemiology of Overuse Injuries among High-School Athletes in the United States 605
+13.Smoljanovic T, Bojanic I, Hannaﬁn JA, Hren D, Delimar D, Pecina M.
+Traumatic and overuse injuries among international elite junior rowers.Am J Sports Med 2009;37:1193-9 .
+14.Yang J, Tibbetts AS, Covassin T, Cheng G, Mayar S, Heiden E. Epidemi-
+ology of overuse and acute injuries among competitive collegiate ath-letes. J Athl Train 2012;47:198-204 .
+15.Adirim TA, Cheng TL. Overview of injuries in the young athlete. Sports
+Med 2003;33:75-81 .
+16.Centers for Disease Control and Prevention. Sports-related injuries
+among high school athletes–United States, 2005-06 school year.MMWR Morb Mortal Wkly Rep 2006;55:1037-40 .
+17.Rechel JA, Yard EE, Comstock RD. An epidemiologic comparison of
+high school sports injuries sustained in practice and competition. JAthl Train 2008;43:197-204 .
+18.United States Census Bureau. Census Regions of the United States.
+[Internet]. 2000 [cited August 14, 2013]. http://www.census.gov/prod/
+2002pubs/c2kprof00-us.pdf . Accessed September 28, 2014.
+19.Brenner JS. Overuse injuries, overtraining, and burnout in child and
+adolescent athletes. Pediatrics 2007;119:1242-5 .20.Bale P, Mayhew JL, Piper FC, Ball TE, Willman MK. Biological and per-
+formance variables in relation to age in male and female adolescent ath-letes. J Sports Med Phys Fitness 1992;32:142-8 .
+21.Quatman CE, Ford KR, Myer GD, Paterno MV, Hewett TE. The effects
+of gender and pubertal status on generalized joint laxity in young ath-letes. J Sci Med Sport 2008;11:257-63 .
+22.Bahr R, Reeser JC. Injuries among world-class professional beach volley-
+ball players. The F /C19ed/C19eration Internationale de Volleyball beach volleyball
+injury study. Am J Sports Med 2003;31:119-25 .
+23.Hootman JM, Dick R, Agel J. Epidemiology of collegiate injuries for 15
+sports: summary and recommendations for injury prevention initiatives.
+J Athl Train 2007;42:311-9 .
+24.Ristolainen L, Heinonen A, Turunen H, Mannstrom H, Waller B,
+Kettuen JA, et al. Type of sport is related to injury proﬁle: a study oncross country skiers, swimmers, long-distance runners and soccer
+players. A retrospective 12-month study. Scand J Med Sci Sports 2010;
+20:384-93 .
+25.Dick RW. Is there a gender difference in concussion incidence and out-
+comes? Br J Sports Med 2009;43:46-50 .
+50 Years Ago in THEJOURNAL OF PEDIATRICS
+Malabsorption Defect Induced by Ingestion of Beta Lactoglobulin
+Davidson, M. J Pediatr 1965;66:545-54
+This case study was conducted over a period of 8 years on a boy who developed diarrhea immediately after birth and
+continued to have both diarrhea and steatorrhea despite multiple formula changes. His diarrhea resolved only
+during periods of starvation. Lactose-free and hydrolyzed formula administration yielded the same results. Finally,
+he was fed Sobee, a soy-based formula, with improvement in diarrhea, steatorrhea, and weight.
+Once it was determined that the offending agent was likely related to cow’s milk protein, initial investigations were
+carried out to establish whether the casein or the whey fraction was the causal entity. Addition of whey protein to thesoy formula induced identical symptoms. Whey protein is made of two proteins, alpha lactalbumin and beta lacto-globulin. Next, the investigators separately added alpha lactalbumin and beta lactoglobulin to the formula andwere able to determine that it was the beta lactoglobulin that was the causative protein by calculating the coefﬁcientsof absorption of fat and wetness of the stool.
+In subsequent years, the patient was challenged with whey protein and whole milk and continued to have recurrence
+of diarrhea and steatorrhea. This pattern was maintained until he reached 6 years of age, at which time he no longerdeveloped symptoms with exposure to cow’s milk. Exposure to beta lactoglobulin with pin-prick skin allergy testingyielded a wheal reaction. The presence of bloody stools comprised only a brief period in an otherwise prolonged his-tory of symptoms. Today, the opposite is more often observed as bloody stools are considered a hallmark of cow’s milkprotein allergy. We also know that cow’s milk protein allergy is IgE-mediated and can cause the above symptoms.
+In this case study, the authors went to great lengths to determine the cause of this child’s illness, a rarity in today’s
+practice. Of course Dr Davidson went on to have a very fruitful and rewarding career in pediatric gastroenterology.
+The American Academy of Pediatrics annually bestows the Murray Davidson award to a clinician, educator, and sci-
+entist who has made signiﬁcant contributions to the ﬁeld of pediatric gastroenterology, a true honor.
+Karla Hicks, MD
+Division of Pediatric Gastroenterology,
+Hepatology, and Nutrition
+Cincinnati Children’s Hospital Medical Center
+Cincinnati, Ohio
+http://dx.doi.org/10.1016/j.jpeds.2014.09.045THEJOURNAL OF PEDIATRICS /C15www.jpeds.com Vol. 166, No. 3
+606 Schroeder et al

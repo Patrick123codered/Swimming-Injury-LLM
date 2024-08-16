@@ -1,0 +1,817 @@
+Original Article
+Swim Training Initiated Acutely after Spinal Cord
+Injury Is Ineffective and Induces Extravasation
+In and Around the Epicenter
+Rebecca R. Smith,1Edward H. Brown,1Alice Shum-Siu,1Ashley Whelan,1Darlene A. Burke,1
+Richard L. Benton,1,2and David S.K. Magnuson1,2
+Abstract
+Activity-based rehabilitation is a promising strategy for improving functional recovery following spinal cord
+injury (SCI). While results from both clinical and animal studies have shown that a variety of approaches can beeffective, debate still exists regarding the optimal post-injury period to apply rehabilitation. We recently demon-strated that rats with moderately severe thoracic contusive SCI can be re-trained to swim when training is
+initiated 2 weeks after injury and that swim training had no effect on the recovery of overground locomotion. We
+concluded that swim training is a task-speciﬁc model of post-SCI activity-based rehabilitation. In the presentstudy, we ask if re-training initiated acutely is more or less effective than when initiated at 2 weeks post-injury.Using the Louisville Swim Scale, an 18-point swimming assessment, supplemented by kinematic assessment ofhindlimb movement during swimming, we report that acute re-training is less effective than training initiated at2 weeks. Using the bioluminescent protein luciferase as a blood-borne macromolecular marker, we also show asigniﬁcant increase in extravasation in and around the site of SCI following only 8 min of swimming at 3 dayspost-injury. Taken together, these results suggest that acute re-training in a rat model of SCI may compromise
+rehabilitation efforts via mechanisms that may involve one or more secondary injury cascades, including acute
+spinal microvascular dysfunction.
+Key words: activity-based rehabilitation; microvascular; rat; spinal cord injury; swimming
+Introduction
+One of the most promising therapeutic approaches to
+the treatment of spinal cord injury (SCI) is body weight–
+supported step training (BWST) (Harkema et al., 1997; Beres-
+Jones et al., 2003). BWST is a speciﬁc form of activity-basedrehabilitation that seeks to re-train the spinal cord to generate
+functional stepping by exposing it to the speciﬁc pattern of
+afferent input associated with stepping, with assistance, ona treadmill. While the majority of clinical studies using
+BWST focus on chronic SCI (Pepin et al., 2003; Maegele et al.,
+2002; Abel et al., 2002; Gazzani et al., 1999; Felici et al., 1997;Harkema et al., 1997), a number of animal studies suggest that
+activity-based rehabilitation strategies may be more effective
+when initiated acutely, and that the beneﬁts may go beyondlocomotion to include pain, spasticity, muscle wasting andcardiovascular =respiratory function. For example, signiﬁcant
+beneﬁts were found for early ‘‘exercise’’ (Dupont-Versteegdenet al., 2004; Engesser-Cesar et al., 2007), and acute re-training on
+a treadmill appears to have signiﬁcant advantages over training
+in chronic rodent models (Gomez-Pinella et al., 2001, 2002;Hutchinson et al., 2004). Further, studies utilizing the com-pletely transected cat model also demonstrate enhanced efﬁ-
+cacy of rehabilitation initiated within days of injury (Boyce et al.,
+2007; Rossignol, 2002; DeLeon et al., 1998). Likewise, Multonet al. (2003) showed that rats that began treadmill training as
+early as 2–4 days after a compressive SCI had higher Basso,
+Beattie, and Bresnahan (BBB) scores compared to untrainedanimals. These data collectively support the concept that ini-
+tiating training acutely following an incomplete SCI may en-
+able activation of spinal circuitry during a period when theperceived plasticity in the system is high.
+1Kentucky Spinal Cord Injury Research Center, Department of Neurological Surgery, Louisville, Kentucky.
+2Department of Anatomical Sciences and Neurobiology, University of Louisville School of Medicine, Louisville, Kentucky.JOURNAL OF NEUROTRAUMA 26:1017–1027 (July 2009)
+ªMary Ann Liebert, Inc.
+DOI: 10.1089 =neu.2008.0829
+1017
+However, contusive injuries to the brain and spinal cord
+involve secondary injury cascades that encompass the acute
+and sub-acute post-injury time period and thus may compli-
+cate the optimization of the timing of acute rehabilitative in-tervention. For example, in a series of studies using the ﬂuid
+percussion model of traumatic brain injury (TBI) Greisbach
+et al. (2004a,b, 2007) have shown that voluntary exercisewithin the ﬁrst 7–10 days post-injury may be detrimental to
+functional outcome. While these data show that voluntary
+exercise can induce increases in growth factor expression andimproved functional outcome, these beneﬁcial effects werecompromised if initiated within the ﬁrst 7–10 days post-
+injury. The poor functional outcomes were accompanied by
+augmented epicenter histopathology, which the authors sug-gest may be correlated with a compromised blood-brain
+barrier. Whether or not similar principles apply to SCI is cur-
+rently not known.
+Many events occurring over the ﬁrst several days following
+a contusive SCI are believed to be crucial to the expandinglesion and secondary injury processes, and are therefore po-tential targets for therapeutic intervention. These include thebreakdown of the blood-spinal cord barrier (BSCB) (Whet-
+stone et al., 2003), which allows the inﬁltration of both cellular
+and non-cellular inﬂammatory mediators. The temporalcourse of permeability changes to the BSCB following con-
+tusive SCI has been demonstrated in the rat by Popovich et al.
+(1996). Their data show that permeability at or near the injuryepicenter is maximal at 3 days post-injury and concentrated
+within affected gray matter. The breakdown of the BSCB be-
+gins to resolve by 7 days, but is still not equivalent to unin-jured spinal cord at 14 days post-injury. More recently, this
+temporal course of BSCB compromise and reconstitution has
+also been observed following contusive SCI in the mouse(Whetstone et al., 2003). Importantly, this temporal progres-sion of known BSCB instability encompasses the acute and
+sub-acute time periods when therapeutic strategies, including
+activity-based rehabilitation, could realistically be initiated.
+We showed previously that adult female Sprague-Dawley
+rats can be re-trained to swim after a moderately severe tho-racic contusion injury, when the animals are re-introduced tothe water at 10 days, and rigorously re-trained (i.e., 6/C2 4-min
+swim sessions 4 times per week over 8 weeks). This inter-vention resulted in signiﬁcantly improved swimming as as-sessed by the Louisville Swim Scale (LSS) (Smith et al., 2006b)but did not translate to enhanced recovery of overground
+locomotion as assessed by the BBB Open Field Locomotor
+Scale (Basso et al., 1995). These observations lead us to con-clude that swim-training, when applied in the sub-acute
+phase of SCI recovery, is a task-speciﬁc model of activity-
+based rehabilitation, which could be used to investigate post-SCI plasticity, independent of over-ground locomotion.
+Common to all activity-based rehabilitation approaches is the
+fact that activity (exercise) induces increases in blood ﬂow,heart rate, and respiration rate. How the stresses associated
+with physical activity early after SCI alters the cascade of
+secondary injury events and the microvasculature surround-ing an injury epicenter is essentially unknown. Thus, the pri-mary goals of the current study were to examine the inﬂuence
+of swim-training initiated acutely (3 days) post-injury on
+the recovery of swimming and, subsequently, to investigatethe effects of swim-training sessions on the evolving micro-
+vascular plasticity in the injured spinal cord.Methods
+Experimental overview
+The experiments reported were completed in three phases
+according to the timelines shown in Figure. 1. The initial ex-
+periment (Phase 1) was designed to investigate rehabilitative
+effects of acute swim training. A secondary ﬁnding of thisstudy was that the control animals, which were assessed in the
+swimming pool twice each week, showed a signiﬁcant im-
+provement in swimming over time, suggesting that 8 min ofswimming each week was sufﬁcient to induce a training ef-fect. This question was addressed in Phase 2, where animals
+were also trained acutely and assessed weekly; however, an
+untrained control group was only assessed terminally (Fig. 1).Finally, based on the ﬁndings of Phases 1 and 2, a third study
+(Phase 3) was completed where animals were exposed to 2/C2 4-
+min training sessions, or cage rest, at 3 or 14 days post-SCI,
+with each animal assessed for overt signs of microvascular
+dysfunction (i.e., BSCB permeability).
+Pool design and baseline measurements
+All the animals were acclimatized to the training pool
+1 week before surgery. They were allowed to swim several
+laps in the pool each day for 5 consecutive days before sur-
+gery. The acclimatization period allowed the uninjured ani-mals to become comfortable with the handler and the pool,
+and allowed the trainers to observe whether any pre-injury
+deﬁcits were present. The pool is a clear Plexiglas tank 60inches long, 7 inches wide, and 12 inches deep. The pool was
+ﬁlled to a depth of 7–8 inches for the training sessions, and the
+water temperature was maintained at 25–28 8C. All swim
+training for these studies included supplementary cutaneousfeedback, in the form of suspended 1.5-ml centrifuge tubes, as
+described previously (Smith et al., 2006a,b). The centrifuge
+tubes provided cutaneous feedback to the hindpaws duringthe training session, but offered less than 1.2 g of buoyancy
+each. One end of the pool has an exit ramp covered with a
+neoprene pad, which allowed the animals to exit the pooleasily, even after injury. Baseline LSS, hindlimb kinematics
+during swimming, and BBB Open Field Locomotor scores
+were obtained prior to injury (Smith et al., 2006b; Basso et al.,1995).
+Spinal cord injury
+Twelve young adult female Sprague-Dawley rats (175–
+200 g) were used for each of the acute training studies (Phases
+1 and 2). The rats were anesthetized with Nembutal
+(0.8 cc =100 g, ip) and were given prophylactic antibiotics
+(Gentamicin, 15 mg =kg, sc). A single level laminectomy was
+performed at the T9 vertebra, and the spine was immobilizedusing clamps applied to the T8 and T10 spinous processes. An
+NYU Impactor was used to deliver a 25g-cm contusion injuryat the T9 =10 spinal level. After the injury, the wound was
+closed in layers and a topical antibiotic ointment applied tothe incision. The animals were placed on heating pads inclean, single cages overnight, and returned to their regularhousing room the following day. Bladder expression was
+performed twice daily until adequate spontaneous voiding
+occurred. Once training commenced (3 days post-injury),animals were housed two per cage for the duration of the
+study. In Phase 1, two animals were removed based on injury1018 SMITH ET AL.
+severity (displacement and=or velocity of impact), and one
+animal died after 4 weeks of training, leaving ﬁnal group sizes
+of ﬁve (swim-trained) and four (untrained). In Phase 2, one
+animal died within 3 days of injury, and two others wereremoved based on injury severity (displacement and =or ve-
+locity of impact), leaving ﬁnal group sizes of ﬁve (swim-trained) and four (untrained). An additional 48 young femaleSprague-Dawley rats were used to assess spinal microvas-
+cular permeability (Phase 3). All procedures were identical to
+those described above, except that the Inﬁnite Horizons Im-pactor was used to deliver a moderate (150-kD) contusioninjury.Phases 1 and 2: Acute post-injury swim training
+For the Phase 1 study, the animals in the trained group were
+introduced to the pool for 2 /C23-min training sessions beginning
+on post-injury day 3 and were assisted by handlers when
+necessary. This was increased to 4 /C23-min sessions on days 4
+and 5. Starting on day 8, the duration of each session was
+increased to 4 min, and by day 11, each animal was training
+for 6/C24-min sessions daily, for 4 days each week (Fig. 1).
+Untrained animals for this study remained caged (in pairs)
+in the swimming room during the training sessions. Un-trained animals were handled daily and received sweetenedday 0 day 3 day 7
+injury
+T9 25g-cmtraining
+2x3 minLSS*
+2x4 minday 11
+training
+4x6 mindays 14, 21,
+27, 32 42
+LSS*
+2x4 minday 35
+kinematicsday 42
+terminalgentling and
+baseline LSS
+day 0 day 7
+injury
+T9 25g-cmLSS*
+2x4 mindays 14, 21,
+27, 32 42
+LSS*
+2x4 minday 35
+kinematicsday 42
+terminalgentling and
+baseline LSSPhase 1
+Trained Group
+Control Group
+*LSS 4 minutes each with and without cutaneous feedback.
+day 0 day 3days 8, 23,
+37, 53
+injury
+T9 25g-cmtraining
+2x3 minLSS
+no feedbacktraining
+4x6 mindays 16,
+30, 44
+LSS
+feedbackday 53
+kinematics
+terminalgentling and
+baseline LSS
+day 0
+injury
+T9 25g-cmday 53
+kinematics
+LSS no feedback
+terminalgentling and
+baseline LSSTrained Group
+Control GroupPhase 2
+day 11
+day 44
+LSS
+feedback
+day 0d a y3o r1 4
+injury
+T9 150Kdluciferase i.v.
+250µ ggentling and
+baseline LSSSwimming GroupPhase 3
+time 0 +15 min
+swimming
+4m i n+105 min
+terminal+90 min
+swimming
+4m i n+75 min
+luciferase i.v.
+250µ g
+day 0d a y3o r1 4
+injury
+T9 150Kdluciferase i.v.
+250µ ggentling and
+baseline LSSCage Rest Group
+time 0 +15 min
+cage rest+105 min
+terminal+90 min
+cage rest+75 min
+luciferase i.v.
+250µ g
+FIG. 1. Shown are timelines for all three experiments. In Phase 1, both groups of animals were assessed using the Louisville
+Swim Scale (LSS) twice weekly, once with and once without cutaneous feedback. In Phase 2, the trained group was assessed
+once weekly, alternating between with and without cutaneous feedback. The control group was assessed only twice, on day
+44 with cutaneous feedback and on day 53 without feedback, during which video was made for kinematic assessment.Injuries for Phases 1 and 2 were moderately severe, delivered by the New York University (NYU) Impactor. Injuries for Phase3 were moderate, delivered by the Inﬁnite Horizons (IH) contusion device.ACUTE SWIM TRAINING AFTER SPINAL CORD INJURY 1019
+cereal treats, with the trained animals, at the completion of
+each training session. This study continued for 6 weeks.
+Training for Phase 2 was identical to Phase 1, however, this
+study continued for 7 weeks. As with Phase 1, untrained an-imals remained caged (in pairs) in the swimming room during
+the training sessions, were handled daily, and received cereal
+treats with the trained animals.
+Phases 1 and 2: Weekly assessments
+The BBB Open Field Locomotor Scale (Basso et al., 1995)
+was used to score overground locomotion of all animals on a
+weekly basis starting at 1 week post-injury, as previouslydescribed (Smith et al., 2006a,b). In addition, swimming
+function was assessed using the LSS (Smith et al., 2006b),
+which sensitively quantiﬁes swimming ability of SCI ratsutilizing an 18-point scale with three functional ranges: 0–5
+(poor swimmer), 6–11 (intermediate swimmer), and 12–17
+(good swimmer). Within the scale, hindlimb movement isassessed as absent (< 5% of the 4-min assessment time), oc-
+casional (6–50%), frequent (51–95% of the time), or consistent(>95%). For Phase 1, the trained and untrained animals were
+tested weekly both with and without supplemental cutaneousfeedback, making the total testing time 8 min per week. For
+Phase 2, the trained animals were assessed weekly (4 min =
+week). Testing was conducted with supplemental cutaneous
+feedback on weeks 2, 4, and 6 and without feedback on weeks
+1, 3, 5, and 7. The untrained animals were not tested at all until
+the last 2 weeks of the study. At this point, they were testedwith feedback on week 6 and without on week 7 (Fig. 1).
+Phases 1 and 2: Swimming kinematics
+One drawback of the LSS is that it scores hindlimb move-
+ment and alternation, but does not distinguish between small,
+ineffective movements or larger, more effective swimming
+strokes. To quantitatively assess swimming movements, ki-
+nematic analysis was done of the nine best swimming strokestaken from three different passes (pool lengths) both pre-
+injury and at week 5. This analysis represents the best
+movements that were produced during the trials, rather thanthose that are consistently produced.
+Before injury, each rat was shaved on the left side so that
+the iliac crest and hip could be easily palpated. A green tattoowas placed on the skin immediately overlying the iliac crestand greater trochanter of the femur (hip joint) using an Ara-
+mis micro-tattoo punch (Braintree Scientiﬁc, Braintree, MA).
+Before each ﬁlming session, the animal was shaved and ablack Sharpie pen was used to reinforce the original tattoo
+marks on the iliac crest and hip and to place additional marks
+on the ankle (lateral malleolus) and toe (metatarsophylangealjoint). Three complete swimming passes (pool lengths) where
+the hindlimbs remained vertical were recorded with a high-
+speed (60-Hz) Basler camera and saved as AVI ﬁles. Theseﬁles were opened in MaxTraq (Innovation Systems, Co-
+lumbiaville, MI), where the iliac crest (I), hip (H), ankle (A),
+and toe (T) were marked in a semi-automated fashion on eachframe of the digital video. Each pass was then divided intostrokes based on the peak extension of the hip–ankle–toe
+(HAT) angle and an angle-angle plot (iliac crest–hip–ankle
+[IHA] vs. HAT) was constructed for each stroke. An angle-angle plot of a normal stroke forms an ellipse, with the area
+representing the out-of-phase excursions of the proximal anddistal angles and the center of the ellipse (the centroid) re-
+presenting the mean of each angle taken from all the points
+used to create the plot. The area and centroid of each ellipse
+was calculated using an Elliptical Fourier Analysis freewareapplication (Ferson et al., 1985). Thus, each stroke was ob-
+jectively characterized using the ellipse area and the x- and
+y-values of the centroid. If the animals were unable to kick, the
+IHA=HAT values were broken into virtual strokes of 15
+frames each and analyzed in the same way.
+Phases 1 and 2: Histologic assessment
+After the terminal assessments, the animals were eutha-
+nized with an excess of anesthetic (Nembutal, 0.3 cc, ip) and
+perfused transcardially with calcium-free tyrodes and 4%
+paraformaldehyde. The spinal cords were removed and post-ﬁxed overnight followed by cryoprotection in 30% sucrose.
+Once the tissue was cryoprotected, a 6-mm segment of spinal
+cord containing the epicenter was blocked in the transverseplane, placed in molds with cutting media, frozen on dry ice
+and stored at /C0808C. Spinal cord tissue was cut transversely at
+30mm and mounted onto gelatinized glass slides. One set of
+slides was stained with Eriochrome Cyanin (Scheff et al., 2003)
+to enable the determination of spared white matter at the
+injury epicenter. Digitized images of stained sections were
+captured using a Spot camera (Diagnostic Instruments, Ster-ling Heights, MI) connected to a Nikon Eclipse E400 micro-
+scope. The images were opened in Appleworks 6.0, and the
+sections were traced using a Wacom Intuos drawing tablet(Vancouver, WA) and saved as uncompressed TIF ﬁles. Each
+TIF ﬁle was opened in Image J, and the area of the gray and
+white matter was calculated. The injured white matter area foreach epicenter was converted to a spared white matter per-centage using a mean uninjured thoracic white matter area
+calculation as the denominator.
+Phase 3: Assessment of microvascular dysfuction
+In this experiment, we examined the extravasation of the
+macromolecule luciferase into parenchyma of the spinal cord
+as a quantitative marker of BSCB dysfunction (Whetstoneet al., 2003). This was done using uninjured control and SCI
+animals subjected to 2 /C24-min swimming sessions (75 min
+apart) compared to cage-rested controls. We used six groups
+of six animals to compare uninjured controls with 3-day and14-day post-injury time points. Immediately before each
+swimming session, 250 ml of luciferase (1 mg =ml; Promega,
+Madison, WI) was administered intravenously via the lateral
+tail vein. Animals in the swim-trained group received 4 min of
+training starting 15 min after luciferase administration (Fig. 1).
+After the second and ﬁnal swimming session, the animalswere returned to their home cages for an additional 15 min
+prior to being euthanized with an excess of Nembutal (0.3 cc,
+i.p.) and perfused transcardially with 250 ml of 10mM phos-phate-buffered saline (PBS). Un-trained rats received lucifer-
+ase but remained in their home cages, singly housed. Three
+4-mm segments of spinal cord tissue, one centered on the
+injury epicenter
+and adjacent rostal =caudal segments, were
+rapidly removed, weighed, and homogenized in 250 mlo f
+luciferase lysis buffer (Promega). As an intra-animal tissuecontrol, a 4-mm segment was blocked from the mid-cervicalspinal cord (i.e., uninjured tissue). Samples were ﬂash-frozen
+on dry ice and stored at /C0808C until analysis. Luciferase ac-1020 SMITH ET AL.
+tivity in each experimental sample was determined using the
+Promega Luciferase Assay kit (no. E1501) according to the
+manufacturer’s protocol. Reacted samples were read on a
+Orion microplate luminometer with Simplicity 4.0 software(Berthold Detection Systems, Oak Ridge, TN). All samples
+were analyzed in triplicate, independently replicated, and
+normalized to wet-weight.
+Statistical analysis
+Behavioral data (BBB, LSS, and kinematics) and quantita-
+tive permeability data were analyzed using a repeated-
+measures analysis of variance (ANOVA), followed by a Tukey
+HSD post-hoc t-test to correct for small sample size and un-
+equal variance among groups. Spared white matter data wereanalyzed using a two-tailed independent t-test for equal or
+unequal variance as appropriate (Hays, 1981).
+Results
+Over-ground locomotion
+Animals in both the Phase 1 and 2 training studies were
+assessed weekly for changes in over-ground locomotion using
+the BBB Open Field Locomotor Scale (Basso et al.,1995). The
+mean terminal BBB scores for all the groups ranged from 9.2 to
+10.6, indicating that the animals recovered weight supportat stance and occasional weight-supported plantar stepping
+with a lack of forelimb=hindlimb coordination. The mean BBB
+scores for the trained and untrained groups in the Phase 2study were found to be statistically different, with the swim-trained animals displaying slightly poorer overground step-
+ping as compared to the untrained group (Table 1).
+Spared white matter
+The spared white matter at the injury epicenter is shown as
+a percent of uninjured tissue in Table 1. No group differences
+were found. For comparison purposes, the mean spared white
+matter from our previously published ‘‘standard’’ study is
+also shown. Note that the spared white matter was assessedusing cresyl violet stain in the standard study and eriochrome
+cyanin in the current studies.
+Swimming
+Phase 1: Acute training study. Pre-injury, all the animals
+in the Phase 1 study swam normally with LSS scores of 17.Post-injury assessments were done with supplemental cuta-
+neous feedback in the morning (Fig. 2A), and then without
+supplemental cutaneous feedback in the afternoon, 2 h later
+(Fig. 2B). At the ﬁrst post-injury LSS assessment on day 7, after4 days of swim training, both trained and untrained groups
+were assessed for 4 min, or as long as they could safely swim.
+At this time point, none of the animals moved their hindlimbs,and all had severe trunk rotation and= or severe body angle,
+illustrating that 4 days of swim training with supplementalcutaneous feedback, initiated at 3 days post-injury, had noinﬂuence on swimming (Fig. 2). However, after this timepoint, both groups showed improved LSS scores over time.
+There were no differences in LSS scores between the two
+groups at any time point, and only one animal recoveredeither occasional (6–50%) or frequent (51–95%) hindlimb
+movement. It was a trained animal that scored 3 on day 7 and
+scored 11 on day 42. These ﬁndings are in contrast to ourpreviously published study (standard study), wherein ani-
+mals that were swim trained with or without cutaneous
+feedback starting at 2 weeks post-injury scored signiﬁcantlybetter than untrained animals that were assessed weekly(Smith et al., 2006a). All the trained animals in the standard
+study recovered at least occasional hindlimb movement. For
+comparison, Figure 2 shows the 42-day LSS scores for groupsfrom the standard study that were trained with (A) or without
+(B) cutaneous feedback.
+Kinematic analysis was done to quantitatively describe
+hindlimb movement during swimming based on the excur-sions of the HAT and IHA angles. Figure 3A shows an angle-
+angle plot (HAT vs. IHA) from one baseline stroke, as anexample. The area of the ellipse represents the out-of-phase
+excursion of the two angles, and the centroid represents the
+mean position of the limb throughout the stroke cycle. Forexample, Figure 3B also shows a stroke produced by an un-trained animal that had a very extended ankle (x ¼166), but
+that still managed to generate a fairly large stroke with anangle-angle plot area of 28.
+Figure 3C shows that the mean angle-angle plot area was
+signiﬁcantly reduced at 5 weeks in the swim-trained groupas compared to baseline, but not for the untrained group. Thisreﬂects the fact that three out of four of the untrained animals
+recovered the ability to generate strokes with large angular
+excursions, compared to only one out of ﬁve of the trainedanimals. In addition, it suggests that only 8 min of swimmingper week is sufﬁcient to bring about some functional recovery
+Table 1.BBB Open-Field Locomotor Scores and Spared White Matter (%)
+Study Train Training Assessment BBB (/C6 SD) n SWM % (/C6 SD)
+StandardaSwim 10–60 dpi Weeks 1–9 9.9/C61.6 8 8.6/C65.3b
+StandardaNone Weeks 1–9 9.6/C61.4 7 8.8/C66.4b
+Phase 1 Swim 3–42 Weeks 1–6 9.2/C61.2 5 10.3/C63.2
+Phase 1 None Weeks 1–6 9.6/C61.0 4 9.0/C63.5
+Phase 2 Swim 3–35 Weeks 1–5 9.3/C60.5c6 11.5/C64.3
+Phase 2 None Weeks 1–5 10.6 /C61.0c5 13.6/C63.9
+aStandard study (Smith et al., 2006a).
+bSpared white matter assessed with cresyl violet.
+cUnpaired t-test assuming unequal variance, p<0.05.
+BBB Open-Field Locomotor Scale presented as mean /C6SD.
+Spared white matter (SWM) presented as percent /C6SD.
+Days post injury (dpi) presented as a range.ACUTE SWIM TRAINING AFTER SPINAL CORD INJURY 1021
+of hindlimb movement, including occasional swimming
+strokes that have a large excursion and are relatively effective.
+Figure 3D, showing the mean angle-angle plot centroids, in-dicates that both trained and untrained groups had a moreextended mean limb position while swimming, and the sig-
+niﬁcant x-shift illustrates that the distal limb segment (knee
+and ankle) were responsible for this difference. The large
+amount of variability, in particular in the HAT angle, shows
+that some animals swam with somewhat ﬂexed ankles and
+others with ankles that were very extended (Fig. 3B), whilelimb position during swimming was not positively inﬂuenced
+by acute training.
+Phase 2: Swim training and LSS assessments. In the
+Phase 2 study, the LSS scores of the trained animals did not
+show statistically signiﬁcant improvements over time(p¼0.102; Fig. 4). This is in part because only one of the ﬁvetrained animals recovered occasional to frequent hindlimbmovement by post-injury day 30, resulting in high statistical
+variability for the group. This hindlimb movement was ob-
+served only when the animal was assessed with cutaneousfeedback. None of the animals recovered even occasional hind-
+limb movement when assessed without cutaneous feedback
+(Fig. 4). Surprisingly, three out of four of the untrained ani-mals, which were not assessed until post-injury day 44, ex-
+hibited frequent to consistent hindlimb movement (LSS ¼12)
+and the fourth exhibited occasional hindlimb movement (5–
+50%; LSS ¼8). The mean score of 11 is signiﬁcantly higher
+than the mean (6.2) of the trained group ( p<0.05). Interest-
+ingly, the terminal (day 44) LSS score for the untrained groupwas 11.0 /C62.0 (n¼5) when assessed with cutaneous feed-
+back, which is similar to the 6-week score for the trained
+group from our published ‘‘standard’’ study (11.3 /C62.3,n¼8),
+where training was initiated at 2 weeks post-injury.
+Terminal kinematic analysis also showed that here were no
+differences between the trained and untrained groups (Fig.
+4B,C). Three animals in each group were able to generatesome kicks with substantial joint excursions resulting in largegroup standard deviations even if they could not achieve even
+occasional to frequent hindlimb movements during the 4-min
+LSS scoring session (LSS <6). Figure. 4C shows that the two
+groups also had similar mean limb positions as illustrated by
+the angle-angle plot centroid.
+Phase 3: Augmentation of BSCB dysfunction by acute
+swim training. As shown in Figure 5A, we found that only
+8 min of swim training at 3 days post-injury induced a sig-
+niﬁcant increase in luciferase content in spinal cord segments3 and 4, representing 0–4 mm on either side of the injuryepicenter, compared to the untrained animals ( p<0.01).
+Interestingly, segments 2 and 5, representing spinal cord 4–8 mm from the epicenter, also had much higher levels ofluciferase; however, these values were not statistically sig-
+niﬁcant. Uninjured control animals demonstrated extremely
+low levels of luciferase extravasation, whether or not theywere exposed to 8 min of swimming (data not shown). By
+14 days post-injury, there were no differences in extravasated
+luciferase between swim-trained and untrained animals.
+Discussion
+The goal of the present study was to use our swimming
+model of activity-based rehabilitation (Smith et al., 2006a) to
+investigate if re-training applied acutely after a moderatelysevere thoracic SCI is more or less effective than re-training
+initiated at 2 weeks post-injury. At 3 days post-injury, most
+animals have largely recovered from the surgical trauma, butfew have begun moving their hindlimbs (Multon et al., 2004);
+thus, it represents a feasible, acute time point to initiate
+training. We began with daily 2/C2 3-min training sessions and
+increased the number and duration of the sessions until each
+animal was completing 6/C2 4-min sessions daily starting on
+day 11 (Fig. 1). This is comparable to the 20–30-min daily
+training regimes used by a number of other groups that haveinitiated training acutely (Fouad et al., 2000; Hutchinson et al.,
+2004; Multon et al., 2004). Given that both the trained and
+untrained groups in the Phase 1 study showed modest im-provements in swimming over time (as assessed by the LSS;
+Fig. 2), our approach in the Phase 2 study was to compare0246810121416
+swim trained (3 days)
+untrained
+standard study (2 weeks)LSS score
+days post-injur yBSwimming without supplemental cutaneous feedback0246810121416
+51 0 15 20 25 30 35 4051 0 15 20 25 30 35 40swim trained (3 days; n=5)
+untrained (n=4)LSS score
+days post-injurystandard study (2 weeks; n=8)Swimming with supplemental cutaneous feedbackA
+FIG. 2. Shown are the Louisville Swim Scale (LSS) scores,
+over time, for swim-trained and untrained animals assessed
+with (A ) and without (B ) supplementary cutaneous feedback
+from the Phase 1 study. For comparison purposes, the 42-day
+LSS scores are shown for our previously published study
+(Smith et al., 2006a), where animals were swim trained start-ing at 2 weeks post-injury. The dashed line represents an LSSscore of 6, which marks the transition from low to moderate
+swimming and the recovery of at least occasional hindlimb
+movement occurring 6–50% of the 4-min assessment period.1022 SMITH ET AL.
+trained animals with a control group that was not assessed or
+exposed to the activity of swimming until the terminal time
+point. Both these approaches have drawbacks. The ﬁrst ap-pears to involve a ‘‘training effect’’ where 8 min of swimmingeach week, during the assessment of the untrained group,
+leads to a modest improvement in LSS scores equivalent to
+trained animals (Smith et al., 2006a), and the second approachinvolved assessing animals at 6 and 7 weeks post-injury
+where the behavior being assessed was novel (swimming af-
+ter SCI) and the animals had not been acclimated to the ap-paratus or activity post-injury.In Phase 1, both trained and untrained groups showed a
+modest but statistically signiﬁcant improvement in LSS scoreover time, but no group differences were found. The meanterminal LSS score was 6, illustrating that few animals de-veloped even occasional hindlimb movement. In contrast to
+our earlier results (Smith et al., 2006a) where trained animals
+recovered frequent hindlimb movement (LSS score of 11), thecurrent study indicates that daily swim training starting at
+3 days is no more effective than 2/C2 4-min swimming sessions
+each week and that both approaches are less effective than
+daily swim training initiated at 2 weeks post-injury.hip - ankle - toe (HAT) angleiliac crest - hip - ankle (IHA) angle75100125150175200225
+50 75 100 125 150 175baseline
+area 44.3
+x = 108.5y = 149.8power strokerecovery
++centroidglideA
+75100125150175200225
+75 100 125 150 175 200
+HAT angleIHA angle
+area = 28
+x = 166
+y = 126area = 3
+x= 123
+y = 204
+untrainedswim trained
+flexedextendedB
+05101520253035404550 swim trained (n=5)
+untrained (n=4)
+baseline
+baseline 5 weeks 5weeksarea of angle-angle plot*
+*C
+100120140160180200
+80 100 120 140 160 180baseline
+swim trained (n=5)
+untrained (n=4)
+x-shift
+HAT angleIHA angleD
+FIG. 3. (A) The angle-angle plot from a single normal swimming stroke is shown as an example. The iliac crest–hip–ankle
+(IHA) angle is plotted against the hip–ankle–toe (HAT) angle, with each point representing one frame of a digital video made
+at 60 Hz. The main power stroke involves the extension ﬁrst of the HAT (x -axis), followed by extension of the IHA angle
+(y-axis). This is followed by a recovery stroke involving HAT ﬂexion and period of glide with the limb ﬂexed (glide). (B )
+Single strokes from a swim-trained and an untrained animal, at 5 weeks post-injury, are shown to illustrate the extremes oflimb position and activity for this study. The angle-angle plot areas and centroids are shown. (C ) The mean angle-angle plot
+areas for the trained and untrained groups are shown. The mean area for the swim-trained group was found to be signiﬁ-
+cantly smaller at 5 weeks post-injury as compared to baseline (mean /C6SD,p<0.05). The mean areas for the untrained animals
+were found to be not different from baseline (mean /C6SD). (D) The mean centroids for the angle-angle plots from both trained
+and untrained groups were shifted on the x-axis, indicating an overall more extended limb position that was not positively
+inﬂuenced by acute swim training with supplementary cutaneous feedback (mean /C6SD).ACUTE SWIM TRAINING AFTER SPINAL CORD INJURY 1023
+In Phase 2, the trained group did not show signiﬁcant im-
+provements in LSS score over time; however, in agreement
+with the Phase 1 study, this group did achieve a score of 6
+when assessed with cutaneous feedback. It is interesting to
+note that the mean BBB overground locomotor score for thetrained group was lower, statistically, than the mean score forthe untrained group. The difference in the scores was slight(1.3) but indicates that, on average, the trained animals did
+not achieve weight-supported stepping lacking coordination
+while the untrained animals did. Somewhat unexpectedly, the0246810121416
+10 20 30 40 50trained - assessed without cutaneous feedback (n=5)
+trained - assessed with cutaneous feedback
+untrained - assessed with cutaneous feedback (n=4)
+untrained - assessed without cutaneous feedbackLSS score
+days post-injury*^
+*
+05101520253035404550
+swim traineduntrained100120140160180200
+80 100 120 140 160 180swim trained
+untrainedarea of angle-angle plot
+hip - ankle - toe angleiliac crest - hip - knee angleA
+BC^
+FIG. 4. (A) Shown are the Louisville Swim Scale (LSS) scores, over time, for the Phase 2 study. In red and black are the
+scores when assessed with or without supplementary cutaneous feedback, respectively. The open circle and triangle show the
+scores for the untrained group that were assessed only twice, at 44 days with supplementary cutaneous feedback and at
+53 days without cutaneous feedback. The untrained group scored signiﬁcantly better than the trained group at 44 days when
+assessed with supplementary cutaneous feedback (mean /C6SD, unpaired t-test, p<0.05), and signiﬁcantly better with cuta-
+neous feedback than without (mean /C6SD, ^, paired t-test, p<0.01). (B,C ) Shown are the angle-angle plot areas and centroids,
+at 53 days post-injury, which were not signiﬁcantly different for the trained and untrained groups.1024 SMITH ET AL.
+untrained group in the Phase 2 study had a mean LSS score of
+11 when ﬁrst assessed on post-injury day 44, signiﬁcantly
+better than the mean of 6 for the trained group and equivalentto the trained group from our standard study (Fig. 4). The
+untrained group also had a slightly higher (but not statisti-
+cally signiﬁcant) spared white matter (13.6% compared to11.5%; Table 1). While it is unlikely that a 2% increase in meanspared white matter at the injury epicenter could account for
+all of these changes, it may be a contributing factor. The LSS
+score of 11 indicates that these animals recovered frequenthindlimb movement despite having no exposure to the ac-
+tivity of swimming until post-injury day 44. This observation
+suggests that acute post-injury exposure to the novel, butnormal locomotor activity of swimming may in some way
+negatively alter the plasticity of the neural circuitry involved
+in swimming compared to cage rest or training initiated at2 weeks post-injury. The untrained group scored signiﬁcantly
+lower (LSS ¼6; Fig. 4) when assessed without cutaneous
+feedback suggesting that supplementary cutaneous feedbackmay be more effective at encouraging hindlimb movement in
+animals that are untrained and= or that are not exposed to
+swimming with feedback until after post-injury week 2.
+Swimming kinematics cannot be accurately assessed when
+supplemental cutaneous feedback is being used, so all the
+kinematic assessments were done without cutaneous feed-
+back. These analyses conﬁrmed that the trained groups inboth Phase 1 and 2 studies had signiﬁcant deﬁcits in hindlimb
+excursion after SCI, and that swim training initiated at 3 days
+was not able to bring about signiﬁcant improvements whencompared to the untrained groups (Figs. 3 and 4). Even in theabsence of supplementary cutaneous feedback, as a group the
+untrained animals had larger, more effective kicks as shown
+by greater out-of-phase angular excursions. Assessment of theangle-angle plot centroid, which represents the mean hind-
+limb position, shows that acute swim training did not have a
+positive effect on limb position (Figs. 3D and 4C), which wasnot signiﬁcantly different from the untrained groups.
+As an initial effort to explore potential causes for the lack of
+effectiveness of acute swim re-training, we utilized an inertmacromolecule, luciferase, as a surrogate to quantify theleakage of macromolecules from the blood stream into the
+parenchyma of the spinal cord. While a variety of surrogate
+markers have been used to examine the BSCB, includingradiolabeled AIB (Popovich et al., 2006) and Evans Blue
+(Kaptanoglu et al., 2004; Benton et al., 2008), a study by
+Whetstone et al. (2003) demonstrated beautifully in the mousethat luciferase can be used to document the temporal changes
+in the BSCB following a standard thoracic moderately severe
+contusion injury. Their data shows that, in addition to therapid and dramatic increase in luciferase extravasation at 24 h
+post-injury, a second peak of permeability can be observed
+during the 3–7-day period that includes not only the injuryepicenter but also extends rostrocaudally for up to 6 mm(Whetstone et al., 2003). All their assessments were in cage-
+rested animals. Our data shows that only 8 min of swim ex-
+ercise at 3 days post-injury is sufﬁcient to induce a signiﬁcantincrease in extravasated luciferase in the spinal cord, on either
+side of the injury epicenter, compared to similar segments
+taken from animals that were returned to their cages withoutexercise after receiving the intravenous injections of lucifer-
+ase. The 0–4-mm segments (i.e., those immediately adjacent to
+the injury epicenter) showed the greatest increases in lucif-erase, while the rostral and caudal segments 4–8 mm from theepicenter showed substantial increases that were not statisti-
+cally signiﬁcant because of variability. Interestingly, huge
+differences in luciferase activity were also seen when com-paring swim exercise at 3 and 14 days post-injury, suggesting
+that the BSCB had largely recovered by that time (Popovich
+et al., 2006), or that swimming at 14 days was less effective atbringing about an increase in blood pressure and =or ﬂow.
+When uninjured rats received 8 min of swim exercise thelevels of luciferase were undetectable. It is important to notethat the swimming sessions essentially exhausted the animals.
+While scheduled for 4 min each, many of the 3-day animals
+were not able to complete the sessions without signiﬁcantassistance. Nonetheless, the activity was brief and the animalsappeared to completely recover from each session within a
+few minutes, and returned to grooming or sleeping soon after
+being placed back in their home cages.
+In addition to the goal of improving overground loco-
+motion (mobility), activity-based rehabilitation approaches05001000150020002500
+Swim
+NonswimLuciferase Activity
+RLU/mg wet-weight
+8mm 4mm 4mm 8mm
+T9 Epicentercervical*
+*3 days post-SCI
+12 3 4 5
+020406080
+Swim
+NonswimLuciferase Activity
+RLU/mg wet-weight
+8mm 4mm 4mm 8mm
+T9 Epicentercervical14 days post-SCI
+12 3 4 5BA
+FIG. 5. Shown are the results for the luciferase assay of
+spinal cord tissue taken from injured rats after 8 min of
+swimming at 3 or 14 days post-injury. Segments of spinalcord (4 mm long) taken from the cervical enlargement (1)
+were compared to segments taken from just rostral and
+caudal to the injury epicenter. (A ) Segments 3 and 4 taken
+from the animal that swam for 8 min at 3 days post-injuryhad signiﬁcantly higher levels of luciferase activity than sim-
+ilar segments taken from cage-rested controls (mean /C6SD,
+p<0.05). (B ) By 14 days post-injury, the levels of luciferase
+activity were signiﬁcantly lower and were similar in cage-rested and animals exposed to 8 min of swimming (note scale
+differences of the y-axis in B; mean /C6SD,p<0.05). Luciferase
+activity was below detectable limits in uninjured controlanimals whether or not they were exposed to 8 min of
+swimming.ACUTE SWIM TRAINING AFTER SPINAL CORD INJURY 1025
+have also been shown to inﬂuence a number of systems, in-
+cluding pain (Hutchinson et al., 2004), bone and muscle
+wasting (de Bruin et al., 1999; Giagregoria et al., 2005; Liu et al.,
+2008), spasticity (Fung et al., 1990), and cardiovascular =
+respiratory function (Ditor et al., 2005). Thought to be
+common to all these studies is the involvement, either
+directly or indirectly, of trophic and =or growth factors,
+which respond to activity and exercise in both intact ani-
+mals and during post-injury rehabilitation (Gomez-Pinilla
+et al., 2002). However, increases in physical activity (ex-ercise) require variable increases in heart rate and bloodﬂow, depending on the level of activity. When initiated
+acutely, these increases occur at a time when the blood-
+brain barrier =BSCB is compromised (Popovich et al., 1997),
+potentially leading to exacerbation of inﬂammatory pro-
+cesses in and around the injury site (Griesbach et al., 2004).
+Thus, while activity-based therapeutic approaches initiatedacutely may beneﬁt functional recovery via growth factor
+production and other sources of neural plasticity, they may
+be detrimental to functional recovery due to exacerbationof the acute-phase inﬂammatory processes. Importantly, ithas been demonstrated that the temporal aspects of the
+inﬂammatory cascade following contusive spinal cord in-
+juries in the human population are fairly similar to thosedescribed in animal models (Fleming et al., 2006).
+Previous studies that have utilized acute re-training strat-
+egies following incomplete spinal cord injuries have relied ontreadmill step training (Fouad et al., 2000; Multon et al., 2004)
+and assessments of overground stepping as primary outcome
+measures. While Fouad et al. (2000) reported no improve-ments in overground stepping, grid-walking, or narrow-
+beam walking in animals with dorsal hemisections, Multon
+et al. (2004) reported modest improvements in stepping withtraining following thoracic contusion injuries. While tread-mill training involves some handling and stress for the ani-
+mals, these authors make no comment about the activity
+being physically tiring for the animals. It remains to be de-termined what levels of physical activity or exercise may
+be counter-productive during the acute and sub-acute post-
+injury time points and whether or not the detrimental inﬂu-ence is directly related to exercise-induced increases in heart
+rate and blood ﬂow or if the release of stress-related com-
+pounds may also play a role.
+In summary, these studies demonstrate that swim training,
+initiated at 3 days post-SCI is less effective at bringing about
+task speciﬁc improvements in swimming than when training
+is initiated at 2 weeks. Furthermore, our data suggest thatswimming, and perhaps any ‘‘forced exercise’’ that can sig-
+niﬁcantly increase the cardiovascular output at acute or
+sub-acute post-SCI time points, can bring about increasedextravasation of macromolecules into the spinal cord paren-
+chyma, potentially altering the progression of the secondary
+injury. To our knowledge, this is the ﬁrst demonstration ofactivity-dependent microvascular dysfunction following
+traumatic SCI. Further, these ﬁndings imply that secondary
+injury cascades may be directly inﬂuenced by even shortevents leading to increases in blood pressure during the acuteand sub-acute time periods. Events that lead to even short-
+lived peaks in cardiac output, as might be expected during
+routine treatment and the initialization of rehabilitation ef-forts, could have long-term negative consequences on func-
+tional outcome.Acknowledgments
+We would like to acknowledge the excellent technical as-
+sistance of Melissa Maddie, Christine Nunn, Kim Fentress,Aaron Puckett, Johnny Morehouse, and Victoria Druzhinina.
+These studies were supported by grants from the KentuckySpinal Cord and Head Injury Research Trust and the NIH
+(R01 NS052292, P20 RR015576, P20 RR015576).
+Author Disclosure Statement
+No competing ﬁnancial interests exist.
+References
+Abel, R., Schablowski, M., Rupp, R., and Gerner, H.J. (2002).
+Gait analysis on the treadmill-monitoring exercise in the
+treatment of paraplegia. Spinal Cord 40, 17–22.
+Basso, D.M., Beattie, M.S., and Bresnahan, J.C. (1995). A sensitive
+and reliable locomotor rating scale for open ﬁeld testing in
+rats. J. Neurotrauma 12, 1–21.
+Benton, R.L., Maddie, M.A., Minnillo, D.R., Hagg, T., and
+Whittemore, S.R. (2008). Griffonia simplicifolia isolectin B4
+identiﬁes a speciﬁc subpopulation of angiogenic blood vessels
+following contusive spinal cord injury in the adult mouse.
+J. Comp. Neurol. 507, 1031–1052.
+Boyce, V., Tumolo, M., Fischer, I., Murray, M., and Lemay, M.
+(2007). Neurotrophic factors promote and enhance locomotor
+recovery in untrained spinalized cats. J. Neurophysiol. 98,
+1988–1996.
+de Bruin, E.D., Frey-Rindova, P., Herzog, R.E., Dietz, V., Dam-
+bacher, M.A., and Stussi, E. 1999. Changes of tibia bone
+properties after spinal cord injury: effects of early intervention.
+Arch. Phys. Med. Rehabil. 80, 214–220.
+de Leon, R., Hodgson, J., Roy, R.R., and Edgerton, V.R. (1998).
+Locomotor capacity attributable to step training versus spon-
+taneous recovery after spinalization in adult cats. J. Neuro-
+physiol. 79, 1329–1340.
+Ditor, D.S., Kamath, M.V., MacDonald, M.J., Bugaresti, J.,
+McCartney, N., and Hicks, A.L. 2005. Effects of body weight-
+supported treadmill training on heart rate variability and
+blood pressure variability in individuals with spinal cord in-
+jury. J. Appl. Physiol. 98, 1519–1525.
+Dupont-Versteegden, E.E., Houle, J.D., Dennis, R.A., Zhang, J.,
+Knox, M., Wagoner, G., Peterson, C.A. (2004). Exercise-
+induced gene expression in soleus muscle is dependent on
+time after spinal cord injury in rats. Muscle Nerve 29, 73–81.
+Engesser-Cesar, C., Ichiyama, R.M., Nefas, A.L., Hill, M.A.,
+Edgerton, V.R., Cotman, C.W., and Anderson, A.J. (2007).
+Wheel running following spinal cord injury improves loco-
+motor recovery and stimulates serotonergic ﬁber growth. Eur.
+J. Neurosci. 25, 1931–1939.
+Ferson, S., Rohlf, F.J., and Koehn, R.K. (1985). Measuring shape
+variation of two-dimensional outlines. Syst. Zool. 34, 59–68.
+Felici, F., Bernardi, M., Rodio, A., Marchettoni, P., and Macaluso,
+A. (1997). Rehabilitation of walking for paraplegic patients bymeans of a treadmill. Spinal Cord 35, 383–385.
+Fleming, J.C., Norenberg, M.D., Ramsay Dam Dekaban, G.A.,
+Marcillo, A.E., Saenz, A.D., Pasquale-Styles, M., Dietrich,
+W.D., and Weaver, L.C. (2006). The cellular inﬂammatory
+response in human spinal cords after injury. Brain 129, 3249–
+3269.
+Fung, J., Stewart, J.E., and Barbeau, H. (1990). The combined
+effects of clonidine and cyproheptadine with interactive
+training on the modulation of locomotion in spinal cord in-
+jured subjects. J. Neurol. Sci. 100, 85–93.1026 SMITH ET AL.
+Gazzani, F., Bernardi, M., Macaluso, A., Coratella, D., Ditunno,
+Jr., J., Castellano, V., Torre, M., Macellari, V., and Marchetti,
+M. (1999). Ambulation training of neurologic patients on the
+treadmill with a new Walking Assistance and Rehabilitation
+Device (WARD). Spinal Cord 37, 336–344.
+Giangregorio, L.M., Hicks, A.L., Webber, C.E., Phillips, S.M.,
+Craven, B.C., Bugaresti, J.M., and McCartney, N. (2005). Body
+weight supported treadmill training in acute spinal cord in-
+jury: impact on muscle and bone. Spinal Cord 43, 649–657.
+Gomes-Leal, W., Corkill, D.J., and Picanco-Diniz, C.W. (2005).
+Systemic analysis of axonal damage and inﬂammatory re-
+sponse in different white matter tracts of acutely injured rat
+spinal cord. Brain Res. 1066, 57–70.
+Gomez-Pinilla, F., So, V., and Kesslak, J. (1998). Spatial learning
+and physical activity contribute to the induction of ﬁbroblast
+growth factor: neural substrates for increased cognition asso-
+ciated with exercise. Neuroscience 85, 53–61.
+Gomez-Pinilla, F., Ying, Z., Opazo, P., Roy, R.R., and Edgerton,
+V.R. (2001). Differential regulation by exercise of BDNF andNT-3 in rat spinal cord and skeletal muscle. Eur. J. Neurosci.
+13, 1078–1084.
+Gomez-Pinilla, F., Ying, Z., Roy, R.R., Molteni, R., and Edgerton,
+V.R. (2002). Voluntary exercise induces a BDNF-mediated
+mechanism that promotes neuroplasticity. J. Neurophysiol. 88,
+2187–2195.
+Griesbach, G.S., Gomez-Pinilla, F., and Hovda, D.A. (2004). The
+upregulation of plasticity-related proteins following TBI is dis-
+rupted with acute voluntary exercise. Brain Res. 1016, 154–162.
+Hagg, T., and Oudega, M. (2006). Degenerative and spontaneous
+regenerative processes after spinal cord injury. J. Neurotrauma
+23, 264–280.
+Harkema, S., Hurley, S., Patel, U., Requejo, P., Dobkin, B., and
+Edgerton, V.R. (1997). Human lumbosacral spinal cord inter-
+prets loading during stepping. J. Neurophysiol. 77, 797–811.
+Hausmann, O.N. (2003). Post-traumatic inﬂammation following
+spinal cord injury. Spinal Cord 41, 369–378.
+Hays, W. (1981). Statistics, 3
+rded. Holt, Rinehart and Winston:
+New York.
+Hutchinson, K., Gomez-Pinilla, F., Crowe, M., Ying, Z., and
+Basso, D.M. (2004). Three exercise paradigms differentially
+improve sensory recovery after spinal cord contusion in rats.
+Brain 127, 1403–1414.
+Kaptanoglu, E., Okutan, O., Akbiyik, F., Solaroglu, I., Kilinc, A.,
+and Beskonakli, E. (2004). Correlation of injury severity and
+tissue Evans blue content, lipid peroxidation and clinical eval-
+uation in acute spinal cord injury in rats. J. Clin. Neurosci. 11,
+879–885.
+Karimi-Abdolrezaee, S., Eftekhar, E., Wang, J., Morshead, C.,
+and Fehlings, M. (2006). Delayed transplantation of adult
+neural precursor cells promotes remyelination and functional
+neurological recovery after spinal cord injury. J. Neurosci. 26,
+3377–3389.
+Liu, M., Bose, P., Walter, G.A., Thompson, F.J., and Vanden-
+borne, K. (2008). A longitudinal study of skeletal muscle fol-lowing spinal cord injury and locomotor training. Spinal Cord
+46, 488–493.
+Loy, D.N., Crawford, C.H., Darnall, J.B., Burke, D.A., Onifer,
+S.M., and Whittemore, S.R. (2002). Temporal progression
+of angiogenesis and basal lamina deposition after con-
+tusive spinal cord injury in the adult rat. J. Comp. Neurol. 445,
+308–324.
+Magnuson, D.S.K., Smith, R.R., Brown, E.H., Enzmann, G.,
+Angeli, C., Quesada, P.M., and Burke, D. (2009). Swimming as
+a model of task-speciﬁc locomotor re-training after spinal cordinjury in the rat. Neurorehab. Neural Rep. (in press; DOI:10.1177 =1545968308331147).
+Maegele, M., Muller, S., Wernig, A., Edgerton, V.R., and Har-
+kema, S. (2002). Recruitment of spinal motor pools during
+voluntary movements versus stepping after human spinal
+cord injury. J. Neurotrauma 19, 1217–1229.
+Merrill, J.E., Ignarro, J.M., Sherman, P., Melinek, J., and Lane,
+T.E. (1993). Microglial cell cytotoxicity of oligodendrocytes is
+mediated through nitric oxide. J. Immunol. 151, 2132–2141.
+Muir, G.D., and Steeves, J.D. (1995). Phasic cutaneous input
+facilitates locomotor recovery after incomplete spinal cord
+injury in the chick. J. Neurophysiol. 74, 358–368.
+Multon, S., Franzen, R., Poirrier, A.-L., Scholtes, F., and Schoe-
+nen, J. (2003). The effect of treadmill training on motor
+recovery after a partial spinal cord compression- injury in the
+adult rat. J. Neurotrauma 20, 699–706.
+Pepin, A., Norman, K.E., and Barbeau, H. (2003). Treadmill
+walking in incomplete spinal-cord-injured subjects: 1. Adap-
+tation to changes in speed. Spinal Cord 41, 257–270.
+Popovich, P., Wei, P., and Stokes, B. (1997). Cellular inﬂamma-
+tory response after spinal cord injury in sprague-dawley andlewis rats. J. Comp. Neurol. 377, 443–464.
+Rabchevsky, A.G., and Streit, W.J. (1998). Role of microglia in
+postinjury repair and regeneration of the CNS. Ment. Retard.
+Dev. Disabil. Res. 4, 187–192.
+Rossignol, S. (2002). Locomotion and its recovery after spinal cord
+injury in animal models. Neurorehab. Neural Rep. 16, 201–205.
+Schnell, L., Fearn, S., Klassen, H., Schwab, M., and Perry, H.
+(1999). Acute inﬂammatory responses to mechanical lesions in
+the CNS: differences between brain and spinal cord. Eur.
+J. Neurosci. 11, 3648–3658.
+Schnell, L., Fearn, S., Klassen, H., Schwab, M., and Perry, H.
+(2006). Acute inﬂammatory responses to mechanical lesions
+in the CNS: differences between brain and spinal cord. Eur.
+J. Neurosci. 11, 3648–3658.
+Scivoletto, G., Morganti, B., and Molinari, M. (2005). Early ver-
+sus delayed inpatient spinal cord injury rehabilitation: an
+Italian study. Arch. Phys. Rehabil. 86, 512–516.
+Smith, R., Burke, D., Baldini, A., Shum-Siu, A., Baltzley, R.,
+Bunger, M., and Magnuson, D. (2006b). The Louisville Swim
+Scale: a novel assessment of hindlimb function following
+spinal cord injury in adult rats. J. Neurotrauma 23, 1654–1670.
+Smith, R., Shum-Siu, A., Baltzley, R., Bunger, M., Baldini, A.,
+Burke, D., and Magnuson, D. (2006a). Effects of swimming on
+functional recovery after incomplete spinal cord injury in rats.
+J. Neurotrauma 23, 908–918.
+Whetstone, W.D., Hsu, J.-Y.C., Eisenberg, M., Werb, Z., and
+Noble-Haeusslein, L.J. (2003). Blood-spinal cord barrier after
+spinal cord injury: relation to revascularization and wound
+healing. J. Neurosci. Res. 74, 227–239.
+Ying, Z., Roy, R.R., Edgerton, V.R., and Gomez-Pinilla, F.
+(2005). Exercise restores levels of neurotrophins and synapticplasticity following spinal cord injury. Exp. Neurol. 193, 411–
+419.
+Address correspondence to:
+David S.K. Magnuson, Ph.D.
+Kentucky Spinal Cord Injury Research Center
+Department of Neurological Surgery
+University of Louisville School of Medicine
+511 South Floyd Street, MDR 616
+Louisville, KY 40202
+E-mail: dsmagn01@louisville.eduACUTE SWIM TRAINING AFTER SPINAL CORD INJURY 1027
+

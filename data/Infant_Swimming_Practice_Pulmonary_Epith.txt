@@ -1,0 +1,802 @@
+DOI: 10.1542/peds.2006-3333 2007;119;1095 PediatricsAlfred Bernard, Sylviane Carbonnelle, Xavier Dumont and Marc NickmilderAllergic and Respiratory Diseases Later in ChildhoodInfant Swimming Practice, Pulmonary Epithelium Integrity, and the Risk of  
+  http://pediatrics.aappublications.org/content/119/6/1095.full.htmllocated on the World Wide Web at: The online version of this article, along with updated information and services, is 
+of Pediatrics. All rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.Boulevard, Elk Grove Village, Illinois, 60007. Copyright © 2007 by the American Academy published, and trademarked by the American Academy of Pediatrics, 141 Northwest Pointpublication, it has been published continuously since 1948. PEDIATRICS is owned, PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+ at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 
+ARTICLE
+Infant Swimming Practice, Pulmonary Epithelium
+Integrity, and the Risk of Allergic and Respiratory
+Diseases Later in Childhood
+Alfred Bernard, PhD, Sylviane Carbonnelle, MD, Xavier Dumont, BSc, Marc Nickmilder, PhD
+UnitofToxicology,DepartmentofPublicHealth,FacultyofMedicine,CatholicUniversityofLouvain,Brussels,Belgium
+Theauthorshaveindicatedtheyhavenoﬁnancialrelationshipsrelevanttothisarticletodisclose.
+ABSTRACT
+OBJECTIVE. Irritant gases and aerosols contaminating the air of indoor swimming
+pools can affect the lung epithelium and increase asthma risk in children. We
+evaluated the impact of infant swimming practice on allergic status and respiratory
+health later in childhood.
+METHODS. Clara cell protein, surfactant-associated protein D, and total and aeroal-
+lergen-speciﬁc immunoglobulin E were measured in the serum of 341 schoolchil-
+dren aged 10 to 13 years, among whom 43 had followed an infant swimming
+program. Asthma was deﬁned as doctor-diagnosed asthma and/or positive exer-
+cise-induced bronchoconstriction (15% decrease in postexercise forced expiratory
+volume).
+RESULTS. There were no signiﬁcant differences between the infant swimming group
+and the other children regarding the levels of exhaled nitric oxide and total or
+aeroallergen-speciﬁc serum immunoglobulin E. Children who swam as infants
+showed, by contrast, a signiﬁcant decrease of serum Clara cell protein and of the
+serum Clara cell protein/surfactant-associated protein D ratio integrating Clara cell
+damage and permeability changes of the lung epithelial barrier. These effects were
+associated with higher risks of asthma and of recurrent bronchitis. Passive expo-
+sure to tobacco alone had no effect on these outcomes but seemed to interact with
+infant swimming practice to increase the risk of asthma or of recurrent bronchitis.
+CONCLUSIONS. Our data suggest that infant swimming practice in chlorinated indoor
+swimming pools is associated with airways changes that, along with other factors,
+seem to predispose children to the development of asthma and recurrent
+bronchitis.www.pediatrics.org/cgi/doi/10.1542/
+peds.2006-3333
+doi:10.1542/peds.2006-3333
+KeyWords
+chlorine,trichloramine,nitrogen
+trichloride,babyswimming,Claracell
+protein,CC16,childhoodasthma,recurrent
+bronchitis
+Abbreviations
+NO—nitricoxide
+eNO—exhalednitricoxide
+EIB—exercise-induced
+bronchoconstriction
+FEV1—forcedexpiratoryvolumein1
+second
+CC16—Claracellprotein
+SP-D—surfactant-associatedproteinD
+IgE—immunoglobulinE
+OR—oddsratio
+CI—conﬁdenceinterval
+AcceptedforpublicationJan25,2007
+AddresscorrespondencetoAlfredBernard,
+PhD,UnitofToxicology,FacultyofMedicine,
+CatholicUniversityofLouvain,AvenueE
+Mounier53,Box53.02,B-1200Brussels,
+Belgium.E-mail:alfred.bernard@uclouvain.be
+PEDIATRICS(ISSNNumbers:Print,0031-4005;
+Online,1098-4275).Copyright©2007bythe
+AmericanAcademyofPediatrics
+PEDIATRICSVolume119,Number6,June2007 1095 at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 
+PUBLIC SWIMMING POOLS need to be disinfected, and
+usually this is done by water chlorination using
+sodium or calcium hypochlorite, chlorine gas, or
+chloroisocyanurates. These chlorine-based disinfectants,
+loosely referred to as “chlorine,” are added in water to
+release hypochlorous acid, a powerful oxidant that is the
+active biocide. When reacting with nitrogenous com-
+pounds originating from sweat, saliva, or urine brought
+by swimmers, hypochlorous acid generates a complex
+mixture of harmful byproducts, among which the most
+irritant are the chloramines. Monochloramine and di-
+chloramine (NH2Cl and NHCl2, respectively) are water
+soluble, and the sum of their concentrations in water are
+referred to as combined chlorine. By contrast, the tri-
+chloramine also called nitrogen trichloride (NCl3)i sa
+water-insoluble gas that, once formed, is immediately
+released in the air, which gives indoor pools their dis-
+tinctive “chlorine” smell. Depending on the bather’s hy-
+giene and the pool ventilation, mean levels of trichlora-
+mine in community indoor pools in Europe are in the
+range of 300 and 800 /H9262g/m3, which makes this gas one
+of the most concentrated air pollutants to which children
+of developed countries are regularly exposed.1–3The air
+of swimming pools, particularly just above the water’s
+surface, is also contaminated by mist or aerosols laden
+with hypochlorous acid, combined chlorine, and other
+water-soluble chlorination byproducts, all increasing the
+burden of oxidants actively inhaled by swimmers.
+The acute toxicity of chlorine-based disinfectants has
+been known for a long time. Case reports regularly
+describe lung injuries after community accidents in in-
+door swimming pools.4–7Inhalation of chlorine gas is
+usually responsible for the acute lung damage that for-
+tunately is usually transient with recovery of the lung
+function within a period of a few weeks. The possibility
+that the gaseous and aerosolized chlorination products
+building up in pool air can cause chronic respiratory
+effects in swimmers has, however, been acknowledged
+only recently. Our investigations on children attending
+indoor chlorinated swimming pools have shown that
+trichloramine, together probably aerosolized hypochlo-
+rous acid and chloramines, can damage the lung epithe-
+lium8and promote the development of asthma, espe-
+cially in atopic children.9–11These effects might lie behind
+the strong ecological associations that we have recently
+evidenced across Europe between childhood asthma
+prevalence and the availability of indoor chlorinated
+swimming pool.12Studies by other researchers con-
+ﬁrmed the detrimental effects of these chemicals on the
+airways of recreational swimmers,13including asthmat-
+ics,14while providing additional evidence that swimming
+pool attendance during infancy might contribute to the
+development of allergic diseases.15
+One of the most critical factors in determining the
+risks of chlorination products for children seems to be
+the timing of exposure. The risk of developing asthma orof lung inﬂammation as assessed on the basis of exhaled
+nitric oxide (eNO) seems to culminate when children
+regularly attend indoor pools before the age of 7
+years.9,11A likely explanation for this higher sensitivity
+of young children is that they cannot really swim before
+the age of 6 or 7 years and, therefore, have to attend the
+small heavily polluted pool. When playing or learning to
+swim, young children probably also inhale and swallow
+more aerosols and water droplets containing hypochlo-
+rous acid and soluble chloramines. Another likely expla-
+nation is that the lungs of very young children are still
+developing, thus they are presumably more vulnerable
+to the irritating effects of chlorine and its derivatives.16
+These ﬁndings unavoidably raise the question of the
+safety of infant swimming, especially because the higher
+water temperature and the greater organic pollution in
+swimming pools attended by young children are condi-
+tions favoring the formation of chlorination byproducts.
+In the United States, it is estimated that between 5 and
+10 million infants and preschool children participate in
+formal swimming instructions programs, and among
+them there are probably several million individuals who
+have learned swimming as infants.17Surprisingly, most
+industrialized countries have popularized this practice in
+the absence of reliable data concerning the possible con-
+sequences of exposing infants to the toxic gases and
+aerosols building up in the air of indoor pools. The only
+study having addressed this issue is that of Nystad et al,18
+who found that infant swimming practice was associated
+with an increased risk of recurrent respiratory tract in-
+fections and otitis media in the ﬁrst year of life. This
+study, however, did not report data on the levels of
+chlorine in the pools attended by the infants, nor did it
+assess the effects of infant swimming on the develop-
+ment of asthma and allergy later in childhood.
+In this cross-sectional study, we compared the respi-
+ratory health, allergic status, and pulmonary epithelium
+integrity of school-aged children who took part in an
+infant swimming program with that of their peers who
+did not. Whenever possible, objective outcome measures
+were used in addition to the traditional indicators of
+allergic and respiratory diseases assessed by question-
+naire.
+MATERIALSANDMETHODS
+Forty-three children having taken part in an infant
+swimming program were identiﬁed in a survey that in-
+volved a total of 341 schoolchildren 10 to 13 years of
+age. These children were recruited in 10 primary schools
+in southwestern Brussels. Levels of active and combined
+chlorine in the public swimming pool attended by swim-
+ming infants were within recommended limits at that
+time ( /H110211.5 and 2 mg/L, respectively). Concentrations of
+trichloramine in pool air, available from 2001 when the
+systematic survey of this gas started in Brussels, ranged
+from 170 to 540 /H9262g/m3(mean: 325 /H9262g/m3;n/H110057).
+1096 BERNARDetal at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 
+Levels of trichloramine were probably in the same range
+some 10 years ago because operating conditions and
+recommended limits of chlorine had remained un-
+changed since the 1980s. All children were examined in
+their school between March 28 and May 29, 2002, thus
+outside main periods of pollination in Belgium. The pro-
+tocol for examining children was described in detail
+elsewhere.12Brieﬂy, after their parents had given writ-
+ten informed consent, the children underwent a medical
+examination that included measurement of height and
+weight, collection of 1 blood sample (7 mL) after appli-
+cation of an anesthetic cream (EMLA, AstraZeneca,
+Karlskargo, Sweden). Asthma was screened by using the
+exercise-induced bronchoconstriction (EIB) test (on the
+basis of a 15% decrease of forced expiratory volume
+[FEV1] after a 6-minute roundabout indoors with sub-
+maximal effort),19a noninvasive test that has been found
+to be predictive of clinical asthma or asthma symptoms
+in several studies.20–22The examination also included the
+measurement of eNO23and serum Clara cell protein
+(CC16)24,25and surfactant-associated protein D (SP-D)
+(SPD ELISA kit, Yamasa Corporation, Tokyo, Japan), 2
+markers of the deep lung epithelium integrity.26,27Total
+immunoglobulin E (IgE) and IgE against the 12 most
+common aeroallergens were also measured in serum
+(Immulite Total and AlatTOP; Diagnostic Products Corp,
+Los Angeles, CA). Information about the respiratory
+health of children (respiratory symptoms during the pre-
+vious 12 months, doctor-diagnosed asthma, and recur-
+rent bronchitis) and their exposure to risk factors of
+asthma and allergy was obtained from the questionnaire
+ﬁlled in by the parents. The ethics committee of the
+Catholic University of Louvain approved the study pro-
+tocol. Statistical comparison was based on the /H92732test, the
+2-sided unpaired ttest, or the Mann-Whitney Utest.
+Bonferroni’s correction was applied to multiple compar-
+isons. Backyard multiple and logistic regression analyses
+were used to assess associations between infant swim-
+ming practice and outcomes. We tested a total of 23
+other potential predictors, including among others gen-
+der, total and aeroallergen-speciﬁc IgE, family history of
+allergic diseases, maternal smoking during pregnancy,
+parental smoking at home, siblings, housing density,
+exposure to pets, cumulated attendance at an indoor
+chlorinated pool, and the accessibility to a backyard
+chlorinated pool. In multiple regression analyses, cumu-
+lated pool attendance and the CC16/SP-D ratio that
+were not normally distributed were normalized by log-
+arithmic transformation. To enable the log transforma-
+tion, we set the minimum cumulated pool attendance at
+2.5 hours instead of 0 (2.5 hours was the lowest reported
+cumulated pool attendance). Independent variables in
+multiple regression analyses were entered at a Pvalue of
+.25 and kept in the model at Pvalue /H11021.05. In logistic
+regression analyses, adjustment was made for variables
+remaining with a Pvalue /H11021.1. These logistic regressionanalyses were repeated on children who were exposed
+to tobacco smoke during pregnancy or at home to detect
+the possible interactions of these 2 factors with infant
+swimming practice. Unless otherwise stated, only odds
+ratios (ORs) adjusted for covariates are reported. In ad-
+dition, we used 2-way analysis of variance to assess the
+changes in serum pneumoproteins associated with in-
+fant swimming practice, access to a backyard pool, or
+with exposure to tobacco smoke during pregnancy or at
+home, and the possible interactions between these fac-
+tors. Statistical analyses were performed by using SAS
+9.1.3 (SAS Institute, Inc, Cary, NC).
+RESULTS
+As shown in Table 1, children who had been swimming
+as infants did not differ from their peers with respect to
+age, gender, ethnicity, BMI, and family history of asthma
+or hay fever. Children in the swimming infant group
+were also not signiﬁcantly different from their peers
+regarding birth weight, number of siblings, housing den-
+sity, or proportions of children who were breastfed, at-
+tended day care, or lived with pets since birth. The
+proportions of children exposed to tobacco smoke at
+home or who had been exposed to tobacco smoke dur-
+ing pregnancy, as well as of children having access to a
+backyard chlorinated pool were, however, noticeably
+greater among swimming infant children. These children
+also had a signiﬁcantly greater cumulated attendance at
+indoor chlorinated swimming pools.
+The allergic status and the markers of lung inﬂamma-
+tion and epithelial integrity of children who swam as
+infants and controls are compared in Table 2. Mean
+levels of total serum IgE and the prevalences of IgE
+speciﬁc to major aeroallergens were similar between the
+2 groups. The rate of sensitization to dog-speciﬁc IgE was
+higher in children in the infant swimming group, a
+difference, however, that was no more statistically sig-
+niﬁcant after the application of the Bonferroni’s test.
+There were also no differences between the 2 groups
+regarding the mean levels and prevalences of elevated
+values of eNO. Most children positive in the eNO test ( n
+/H1100529) were sensitized against house-dust mite allergen
+(n/H1100521 [72.9%]) and aeroallergen-speciﬁc IgE ( n/H1100526
+[89.7%]). Children in the infant swimming group, by
+contrast, showed a signiﬁcant decrease of serum CC16
+and an even more signiﬁcant decrease of the CC16/SP-D
+ratio, an index integrating the damage to Clara cells and
+the permeability changes of lung epithelial barrier. In
+multivariate analysis, infant swimming emerged as the
+only statistically signiﬁcant predictor of serum CC16
+(partial r:/H110020.14; P/H11005.01), and this practice was the
+strongest determinant of the CC16/SP-D ratio (log-
+transformed values, partial r:/H110020.15; P/H11005.006), the
+latter being also inﬂuenced by day care attendance (par-
+tialr:/H110020.086; P/H11005.007), age (partial r:/H110020.058; P/H11005
+.009), breastfeeding (partial r;/H110020.080; P/H11005.022), and
+PEDIATRICSVolume119,Number6,June2007 1097 at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 
+ethnicity (partial r: 0.087; P/H11005.024). Passive exposure to
+tobacco smoke during pregnancy or at home as well as
+the access to a backyard pool had thus no inﬂuence on
+the serum levels of CC16 or on the serum CC16/SP-D
+ratio. Analysis of the effects of infant swimming and
+passive smoking on pneumoproteins by 2-way analysis
+of variance conﬁrmed the decrease of serum CC16 and
+CC16/SP-D ratio in children in the infant swimming
+group and found no interaction between infant swim-
+ming and passive smoking (all P/H11350.15).
+As shown in Table 3, changes observed in serum
+pneumoproteins were associated with poorer respiratory
+health. Children who swam as infants showed an in-
+creased risk of chest tightness. There were no statistically
+signiﬁcant differences in the other respiratory symp-toms, which tended to be more prevalent in the children
+in the infant swimming group. These children were also
+/H110113 times more likely to be positive in the EIB test, to
+have doctor diagnosed and/or EIB test-screened asthma,
+and to suffer from recurrent bronchitis. Of note, the lack
+of statistical signiﬁcance in the increased risk of doctor-
+diagnosed asthma with infant swimming was because of
+the inﬂuence of backyard pool (OR: 4.27; 95% conﬁ-
+dence interval [CI]: 1.05–17.4). Indeed, removal of the
+backyard pool factor from the list of predictors increased
+the OR for doctor-diagnosed asthma associated with in-
+fant swimming to a level that was signiﬁcantly /H110221 (OR:
+2.96; 95% CI: 1.08–8.11). No signiﬁcant association
+emerged between any of these outcomes or passive ex-
+posure to tobacco smoke at home or during pregnancy,TABLE1 CharacteristicsofChildrenWhoSwamasInfantsandTheirControls
+SwimmingInfants( N/H1100543) OtherChildren( N/H11005298) P
+Age,mean(SD),ya 11.5(0.6) 11.5(0.6) .98
+Boys,n(%)b 22(51.1) 150(50.3) .92
+White,n(%)b 35(81.4) 228(76.5) .48
+BMI,mean(SD),kg/m2a 18.5(2.7) 18.4(2.5) .81
+Motherand/orfatherwithasthma, n(%)b 6(14.0) 58(19.5) .39
+Motherand/orfatherwithhayfever, n(%)b 13(30.2) 87(29.2) .89
+Birthweight,mean(SD),kga 3.19(0.57) 3.34(0.54) .96
+No.ofsiblings,mean(SD)a 2.56(1.30) 2.68(1.28) .56
+Housingdensity,mean(SD),personsperrooma 0.83(0.36) 0.79(0.30) .36
+Breastfeeding, n(%)b 9(20.9) 34(11.4) .21
+Exposuretopetssincebirth, n(%)b 9(20.9) 47(15.8) .39
+Childcareattendance n(%)b 24(55.8) 151(50.7) .40
+Passivesmokingathome, n(%)b 18(41.8) 72(24.2) .014
+Maternalsmokingduringpregnancy, n(%)b 16(37.2) 46(15.4) .0005
+Backyardpool, n(%)b 6(14.0) 9(3.0) .0011
+Cumulatedindoorpoolattendance,median
+(interquartilerange),hc146(88–281) 83(42–182) .0002
+aBy2-sidedunpaired ttest.
+bBy/H92732test.
+cBy2-sidedMann-Whitney Utest.
+TABLE2 TotalandAeroallergen-SpeciﬁcSerumIgE,eNO,andSerumPneumoproteinsinChildrenWhoSwamasInfantsandTheirControls
+SwimmingInfants
+(N/H1100543)OtherChildren
+(N/H11005298)P
+TotalIgE,median(interquartilerange),kIU/La 54.7(24.6–162) 55.8(21.9–175) .96
+Aeroallergen-speciﬁcIgE
+Panelof12aeroallergens, n(%)b 13(30.2) 95(31.9) .83
+Housedustmite, n(%)b 6(14) 57(19.1) .40
+Cat,n(%)b 2(4.7) 17(5.7) .77
+Dog,n(%)b 4(9.3) 8(2.7) .03
+Pollen,n(%)b 7(16.3) 31(10.4) .26
+eNO
+Median(interquartilerange),ppba 10.2(7.15–14.1) 8.9(6.9–13.4) .51
+/H1102230ppb,n(%)b 3(7.0) 26(8.7) .70
+Pneumoproteins
+CC16,mean(SD), /H9262g/Lc,d 8.0(3.3) 10.4(4.2) .01
+SP-D,mean(SD), /H9262g/Lc 113(42) 100(45) .08
+CC16/SP-Dratio,median(interquartilerange)a,c 0.07(0.05–0.12) 0.10(0.07–0.16) .003
+aBy2-sidedMann-Whitney Utest.
+bBy/H92732test.
+cBy2-sidedunpaired ttest.
+dStatisticallysigniﬁcantafterapplicationoftheBonferroni’scorrectiontothemultiplecomparisonsofthelungepitheliummarkers(critical P/H11005.05/3).
+1098 BERNARDetal at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 
+except for the risk of wheezing that was increased by
+maternal smoking during pregnancy (OR: 2.75; 95% CI:
+1.04–6.61). Passive exposure to tobacco smoke and in-
+fant swimming seemed, however, to potentiate the det-
+rimental effects of infant swimming practice. The OR for
+asthma (doctor-diagnosed and/or screened with the EIB
+test) associated with infant swimming was indeed /H110222
+times greater when children were also exposed to pa-
+rental smoking (OR: 6.54; 95% CI: 1.18–36.4 vs OR:
+2.52; 95% CI: 0.86–7.39) although the odds for recur-
+rent bronchitis associated with infant swimming was /H110224
+times greater among children who had been exposed to
+maternal smoking during pregnancy (OR: 6.99; 95% CI:
+1.60–30.5 vs OR: 1.61; 95% CI: 0.71–3.65).
+To determine whether changes in serum pneumopro-
+teins were primarily because of the infant swimming
+practice and not the mere consequences of asthma or
+recurrent bronchitis that were more frequent in the
+children in the swimming infant group, we assessed by a
+2-way analysis of variance the effects of infant swim-
+ming practice, total asthma or recurrent bronchitis on
+serum pneumoproteins, and the possible interactions
+between these factors. As illustrated in Fig 1, asthma and
+recurrent bronchitis alone had no inﬂuence on the se-
+rum levels of pneumoproteins, which is in sharp contrast
+with the highly signiﬁcant decrease of serum CC16 and
+CC16/SP-D ratio associated with infant swimming activ-
+ity (P/H11021.001). This analysis clearly shows that the levels
+of serum CC16 were on average the lowest among the
+children in the infant swimming group who were asth-
+matic or recurrently suffered from bronchitis.
+DISCUSSION
+Our ﬁndings show that the infant swimming practice is
+associated with lung epithelium alterations that seem to
+predispose children to the development of asthma andrecurrent bronchitis. These effects cannot be explained
+by inherited differences in the genetic disposition to
+develop these diseases, because children who swam as
+infants were well matched with the others with respect
+to the family history of respiratory disease, as well as to
+the serum levels of total IgE. Our ﬁndings cannot be
+explained either by the fact that on average the children
+in the infant swimming group were more exposed to
+parental smoking or to chlorine from backyard pools. In
+our study, we found no evidence that infant swimming
+increased the risk of respiratory allergy. There was also
+no increase in the risk of airways inﬂammation as as-
+sessed by the eNO test, a ﬁnding that is not surprising
+given the very the close relationship between eNO and
+allergic sensitization observed by us and also reported by
+recent studies.28,29
+As with any epidemiologic study using data from
+self-administered questionnaires, our study can be prone
+to recall bias. We believe, however, that it is unlikely
+that our observations were generated or distorted by a
+systematic bias in the parental responses to the questions
+about their child’s health or swimming practice. The
+strongest argument against that possibility is that the
+most statistically signiﬁcant observations were made
+with objective outcome measures (serum pneumopro-
+teins and EIB test) that parents were not aware of when
+ﬁlling the questionnaires. The parents were also blinded
+to the tested hypothesis because initially the study was
+not designed to look speciﬁcally at the effects of infant
+swimming practice. In addition, the tested hypothesis of
+adverse respiratory effects associated with infant swim-
+ming is far from being common in the community. Ac-
+tually, this hypothesis is just the opposite of the belief
+that the parents probably have when they decide to take
+their infant to swimming pool. The possibility that theyTABLE3 SwimmingInfantPractice,RespiratorySymptoms,andRisksofAsthmaandRecurrentBronchitisLaterDuringChildhood
+Frequency, n(%) OR(95%CI) P
+SwimmingInfants
+(N/H1100543)OtherChildren
+(N/H11005298)Crude Adjusted
+Wheezing 6(14.0) 26(8.7) 1.7(0.7–4.4) 1.5(0.5–4.1)a .48
+Chesttightness 6(14.0) 13(4.4) 3.6(1.3–9.9) 3.8(1.2–12.1)b .03
+Shortnessofbreath 6(14.0) 18(6.0) 2.5(0.9–6.8) 2.4(0.8–7.3)c .11
+Cough 11(25.6) 51(17.1) 1.7(0.8–3.5) 1.8(0.8–3.8)d .13
+Doctor-diagnosedasthma 7(16.3) 23(7.7) 2.3(0.9–5.8) 2.2(0.77–6.5)e .10
+Exercise-inducedasthma(EIB) 4(9.3) 11(3.7) 2.7(0.8–8.8) 4.3(1.1–17.2)f .049
+Doctor-diagnosedasthmaand/orEIB 10(23.3) 33(11.1) 2.4(1.1–5.4) 3.0(1.3–7.4)g .01
+Recurrentbronchitis 26(60.5) 110(36.9) 2.6(1.4–5.8) 2.6(1.3–5.1)h .006
+aAdjustedforage,gender,atopy(IgE /H11022100IU/mL),maternalsmokingduringpregnancy,andparentalhayfever.
+bAdjustedforBMI,siblingstatus,parentalasthma,moldonthewallofroom,andsportpracticeotherthanswimming.
+cAdjustedforBMI,siblingstatus,maternalsmokingduringpregnancy,andparentalasthma.
+dAdjustedforbreastfeeding.
+eAdjustedforgender,parentalasthma,aeroallergen-speciﬁcIgE,exposuretopets,numberofsiblings,andbackyardpool.
+fAdjustedforage,parentalasthma,parentalsmokingathomeandaeroallergensspeciﬁcIgE.
+gAdjustedforage,parentalasthma;andaeroallergensspeciﬁcIgEinserum.
+hAdjustedforbirthweight,daycareattendance,housewithdouble-gazedwindows,anduseofchlorinebleachforhousecleaning.
+PEDIATRICSVolume119,Number6,June2007 1099 at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 
+could have biased their responses in favor of adverse
+effects seems thus unlikely.
+Our data suggest that the poorer respiratory health of
+children who swam as infants could be linked to distal
+airways damage detected by the assay of serum pneumo-
+proteins. The concentration of serum CC16 is a well-vali-
+dated marker of the lung epithelium barrier integrity, re-
+ﬂecting either the number of Clara cells lining terminal
+airways or the permeability of the alveolar-capillary barri-
+er.26,27When adjusted for the level of a surfactant-associ-
+ated protein, such as SP-D, the concentration of CC16
+proves to be an even more sensitive marker, probably
+because this ratio integrates both the damage to Clara cells
+and the increased leakiness of the alveolar-blood barrier.30
+A decrease in serum CC16 reﬂecting a parallel loss of Clara
+cells was demonstrated in humans and in rodents acutely
+or chronically exposed to a variety of lung toxicants.31For
+instance, active smoking leads to a 20% to 30% decrease ofserum CC16, mirroring a parallel decrease in the number
+of Clara cells.30–34A similar decrease of serum CC16 was
+observed after occupational exposures to crystalline silica35
+or ﬁresmoke.36The decrease of serum CC16 in children
+who swam as infants averaged 20%. Thus, it is almost of
+the same magnitude as that caused in adults by tobacco
+smoke or industrial chemicals. If one refers to the clinical
+consequences of active smoking or of occupational expo-
+sures to crystalline silica and other lung irritants, it would
+not be surprising that similar alterations of the respiratory
+epithelium in young children could make them more
+prone to develop some respiratory diseases. This interpre-
+tation is also consistent with the antiinﬂammatory proper-
+ties of CC16,37,38as well as with the ﬁnding that asthma39
+and other respiratory diseases40are associated with lower
+intrapulmonary pools of CC16 because of Clara cell dam-
+age or the intravascular leakage of the protein.
+Given the lack of data concerning the toxicity of
+FIGURE1
+Effectsoftotalasthma(A),recurrentbronchitis(B),andswimminginfantpractice(AandB)andoftheirpossibleinteractionsontheserumconcentrationsofCC16andSP-Dandthe
+serumCC16/SP-Dratio.Resultswereassessedby2-wayanalysisofvariancefollowedbyDunett’smultiple-comparisontest.Mean(withSE)valuesthataresigniﬁcantlydifferentfrom
+thatofcontrols:aP/H11021.05;bP/H11021.01.
+1100 BERNARDetal at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 
+swimming pool chemicals for the respiratory tract of
+infants and young children, the pool factor responsible
+for these airways alterations is difﬁcult to identify. We
+strongly suspect, however, that the chlorination prod-
+ucts that infants inhale as gases, aerosols, or even water
+repeatedly damage the airway epithelium. One culprit
+might be trichloramine, the highly volatile and reactive
+gas formed when chlorine reacts with organic matter
+brought by swimmers. This gas that gives indoor swim-
+ming pools their characteristic chlorine smell was, in-
+deed, found to cause asthma and pulmonary epithelium
+damage in lifeguards and recreational swimmers.8–11Be-
+cause their lungs are still developing, infants could be
+particularly sensitive to this irritant and be affected de-
+spite the rather limited time they spend in pools (usually
+20–30 minutes per session). The levels of trichloramine
+in the studied pool were on average below the provi-
+sional 2-hour air quality guideline of 500 /H9262g/m3recently
+recommended by the World Health Organization.41If
+trichloramine is responsible for the respiratory effects
+observed in our study, this would mean that the World
+Health Organization guideline is too high and should be
+lowered to be more in accordance with studies8,9show-
+ing that trichloramine can disrupt the lung epithelium
+barrier of swimmers at concentrations ranging from 355
+to 490 /H9262g/m3. Another important route of exposure that
+might cause signiﬁcant damage to infant’s lungs is the
+inhalation of aerosols or of small volumes of chlorinated
+water when the infants actively play or have their head
+under water. Damage to the respiratory tract caused by
+the inhalation of heavily chlorinated water seems espe-
+cially plausible because the maximum recommended
+levels for chlorine in the Brussels pool that our children
+attended when they were infants were relatively high.
+For instance, the recommended limit for combined chlo-
+rine was 2 ppm, a concentration twice higher than the
+current standard (0.8 ppm) and 10 times higher than the
+standard applied in Germany (0.2 ppm).15Because in-
+fants cannot control their breathing as well as when they
+get older, the infant swimming practice is considered to
+be safe because of the laryngeal or gag reﬂex that is
+triggered when water gets into infant’s mouth. By clos-
+ing off the larynx with the epiglottis, this reﬂex is sup-
+posed to keep pool water from entering the lungs.42
+However, the gag reﬂex, even if very effective, cannot
+prevent small amounts of chlorinated water deposited or
+trapped in the upper respiratory tract to be conducted
+more deeply in the lungs when the infant surfaces to
+breathe. Cases of hyponatremic described after dunking
+infants in swimming pools43,44attest to the amount of
+water that an infant can ingest and possibly inhale when
+being under water. Last, one cannot exclude the possi-
+bility that the inhalation of hypotonic water also causes
+some epithelial changes aggravating the effects of chlo-
+rination products.
+Although we did not speciﬁcally interview the par-ents about this issue, our study provides some interest-
+ing insights into the reasons why parents take their
+infant to swimming programs. As one could expect,
+prevention of drowning seems to be an important reason
+because there were 5 times more children having access
+to a backyard pool among the infant swimming group
+than among the other children. Although drowning is a
+leading cause of unintentional injury and death in chil-
+dren, frequently involving backyard pools, it should be
+noted that the protection offered by infant swimming
+programs is much debated. According to the American
+Academy of Pediatrics, there is indeed no clearcut scien-
+tiﬁc evidence that the likelihood of drowning is reduced
+by the participation to such programs.17The American
+Academy of Pediatrics argues that until the age of 4
+years, infants are not developmentally ready for formal
+swimming lessons and that the participation in such
+programs could give to parents a false sense of security
+about their child’s skill in water. The American Academy
+of Pediatrics did not consider chemical hazards, but if, as
+suggested by our ﬁndings, chlorine used to disinfect
+pools poses some threat to infants’ health, this would
+certainly further justify a critical appraisal of infant
+swimming programs. There might be, however, an even
+more debatable reason encouraging parents to partici-
+pate to swimming infant programs. Intriguingly, the in-
+fant swimming group included a much greater propor-
+tion of children who had been exposed to tobacco smoke
+in utero or at home. The origin of this difference is
+unclear, but we think it might reﬂect the will of the
+parents to mitigate for the adverse effects of passive
+smoking by giving their infant the possibility to practice
+a healthy activity. The unfortunate irony is that the
+result might well be just the opposite, because our study
+suggests that infant swimming activity interacts with
+passive smoking to greatly increase the risk of asthma or
+recurrent bronchitis.
+The major limitation of our study certainly lies in the
+relatively small size of the infant swimming group. With
+/H1102115% of Brussels schoolchildren participating in such
+programs, this was the maximum sample size we could
+achieve in a population-based study involving 341 chil-
+dren. The alternative would be to recruit children via
+infant swimming organizations. However, assuming that
+these organizations would be willing to collaborate in
+research exploring the risks linked to chlorinated pools,
+the study would then be confronted with the difﬁculty of
+avoiding response or selection bias and, above all, with
+the difﬁculty of recruiting a well-matched control pop-
+ulation. Fortunately, the limited statistical power of our
+study was balanced by the use of sensitive outcome
+measures, leading to particular strong associations that
+were unlikely to be explained by chance only. The small
+size of our study, however, did not enable us to draw
+deﬁnitive conclusions regarding the impact of backyard
+pool chlorine to which children in the infant swimming
+PEDIATRICSVolume119,Number6,June2007 1101 at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 
+group were more frequently exposed. Having access to a
+backyard chlorinated pool emerged, indeed, as a signif-
+icant predictor of doctor-diagnosed asthma, which
+slightly weakened the association emerging with infant
+swimming. This is clearly another unexplored area that
+warrants additional research, especially because residen-
+tial pools usually have higher levels of chlorine than
+public pools and offer children almost unlimited oppor-
+tunities for swimming during the hot season.
+CONCLUSIONS
+Our study shows that the infant swimming practice in
+indoor chlorinated pools can be associated with airways
+changes that predispose children to asthma and recur-
+rent bronchitis later in childhood. Given the increasing
+popularity of swimming pools, there is a deﬁnitive need
+to assess the effects of chlorination products on the
+respiratory tract of very young children. In the mean-
+time, because in most countries these products are not as
+strictly regulated and monitored as indicators of micro-
+bial risks, we can only recommend caution before regu-
+larly taking infants to poorly maintained swimming
+pools with excessive levels of chlorine in the water and
+in the air.
+ACKNOWLEDGMENTS
+This study was supported by the Brussels Capital Region.
+Dr Bernard is research director of the National Fund
+for Scientiﬁc Research in Belgium.
+REFERENCES
+1. Jessen HJ. Chloramine concentrations in the air of indoor baths
+[in German]. Z Gesamte Hyg. 1988;34:248–250
+2. Hery M, Hecht G, Gerber JM, Gendre J, Hubert G, Rebuffaud J.
+Exposure to chloramines in the atmosphere of indoor swim-
+ming pools. Ann Occup Hyg. 1995;39:427–439
+3. Fraunhofer Institute Umwelt, Sicherheit, Energietechniek
+(IUSE). Measuring Chloramines in the Air of Swimming Pools .
+Stolberg, Germany: IUSE; 2004
+4. Agibati N, Ancona C, Forastiere F, et al. Short term respiratory
+effects of acute exposure to chlorine due to swimming pool
+accident. Occup Environ Med. 2001;58:399–404
+5. Parimon T, Kanne JP, Pierson DJ. Acute inhalation injury with
+evidence of diffuse bronchiolitis following chlorine gas expo-
+sure at a swimming pool. Respir Care. 2004;49:291–294
+6. Bonetto G, Corradi M, Carraro S, et al. Longitudinal monitor-
+ing of lung injury in children after acute chlorine exposure in
+a swimming pool. Am J Resp Crit Care Med. 2006;174:545–549
+7. Vohra R, Clark RF. Chlorine-related inhalation injury from a
+swimming pool disinfectant in a 9-year-old girl. Pediatr Emerg
+Care. 2006;22:254–257
+8. Carbonnelle S, Francaux M, Doyle I, et al. Changes of serum
+pneumoproteins caused by short-term exposures to nitrogen
+trichloride in indoor chlorinated pools. Biomarkers. 2002;7:
+464–478
+9. Bernard A, Carbonnelle S, Michel O, et al. Lung hyperperme-
+ability and asthma prevalence in schoolchildren: unexpected
+associations with the attendance at indoor chlorinated swim-
+ming pools. Occup Environ Med. 2003;60:385–394
+10. Bernard A, Nickmilder M, Carbonnelle S, de Burbure C. Non-invasive biomarkers of pulmonary damage and inﬂammation:
+application to children exposed to ozone and trichloramine.
+Toxicol Appl Pharmacol. 2005;206:185–190
+11. Bernard A, Carbonnelle S, de Burbure C, Michel O, Nickmilder
+M. Chlorinated pool attendance, atopy and the risk of asthma
+during childhood. Environ Health Perspect. 2006;114:1567–1573
+12. Nickmilder M, Bernard A. Ecological association between
+childhood asthma and availability of indoor chlorinated swim-
+ming pools in Europe. Occup Environ Med. 2007;64:37–46
+13. Lagerkvist B, Bernard A, Blomberg A, et al. Pulmonary epithe-
+lial integrity in children: relationship to ambient ozone expo-
+sure and swimming pool attendance. Environ Health Perspect.
+2004;112:1768–1771
+14. Stav D, Stav M. Asthma and whirlpool baths. N Engl J Med.
+2005;353:1635–1666
+15. Kohlhammer Y, Do ¨ring A, Scha ¨fer T, Wichmann HE, Heinrich
+J; KORA Study Group. Swimming pool attendance and hay
+fever rates later in life. Allergy. 2006;61:1305–1309
+16. Finkelstein JN, Johnston CJ. Enhanced sensitivity of the post-
+natal lung to environmental insults and oxidant stresses. Pedi-
+atrics. 2004;113:1092–1096
+17. American Academy of Pediatrics, Committee on Sports Medi-
+cine and Fitness and Committee on Injury and Poison Preven-
+tion. Swimming programs for infants and toddlers. Pediatrics.
+2000;105:868–870
+18. Nystad W, Nja F, Magnus P, Nafstad P. Baby swimming in-
+creases the risk of recurrent respiratory tract infections and
+otitis media. Acta Paediatr. 2003;92:905–909
+19. McFadden ER, Gilbert IA. Exercise-induced asthma. N Engl
+J Med. 1994;330:1362–1367
+20. Jones A. Asymptomatic bronchial hyperreactivity and the de-
+velopment of asthma and other respiratory illness in children.
+Thorax. 1994;49:757–761
+21. Rasmussen F, Lambrechtsen J, Siersted HC, Hansen HS, Han-
+sen NC. Asymptomatic bronchial hyperresponsiveness to ex-
+ercise in childhood and the development of asthma related
+symptoms in young adulthood: the Odense Schoolchild Study.
+Thorax. 1999;54:587–589
+22. Porsbjerg C, von Linstov ML, Ulrik CS, Nepper-Christensen SC,
+Backer V. Outcome in adulthood of asymptomatic hyperre-
+sponsiveness to histamine and exercise-induced bronchospasm
+in childhood. Ann Allergy Asthma Immunol. 2005;95:137–142
+23. Silkoff PE, Carlson M, Bourke T, Katial R, Ogren E, Szeﬂer SJ.
+The Aerocrine exhaled nitric oxide monitoring system NIOX is
+cleared by the US Food and Drug Administration for monitor-
+ing therapy in asthma. J Allergy Clin Immunol. 2004;114:
+1241–1256
+24. Bernard A, Marchandise FX, Depelchin S, Lauwerys R, Sibille
+Y. Clara cell protein in serum and bronchoalveolar lavage. Eur
+Respir J. 1992;5:1231–1238
+25. Hermans C, Aly O, Nyberg BI, Peterson C, Bernard A. Deter-
+minants of Clara cell protein (CC16) concentration in serum: a
+reassessment with two different immunoassays. Clin Chim Acta.
+1998;272:101–110
+26. Hermans C, Bernard A. Pneumoproteinaemia: a new perspec-
+tive in the assessment of lung disorders. Eur Resp J. 1998;11:
+801–803
+27. Hermans C, Bernard A. Lung epithelium-speciﬁc proteins:
+characteristics and potential applications as markers. Am J Re-
+spir Crit Care Med. 1999;159:646–678
+28. Cardinale F, de Benedictis FM, Muggeo V, et al. Exhaled nitric
+oxide, total serum IgE and allergic sensitization in childhood
+asthma and allergic rhinitis. Pediatr Allergy Immunol. 2005;16:
+236–242
+29. Malinovschi A, Janson C, Holmkvist T, Norback D, Merilainen
+P, Hogman M. IgE sensitisation in relation to ﬂow-independent
+nitric oxide exchange parameters. Respir Res. 2006;7:92
+1102 BERNARDetal at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 
+30. Robin M, Dong P, Hermans C, Bernard A, Bersten AD, Doyle I.
+Serum levels of CC16, SP-A and SP-B reﬂect tobacco-smoke
+exposure in asymptomatic subjects. Eur Resp J. 2002;20:
+1152–1161
+31. Broeckaert F, Bernard A. Clara cell protein (CC16): character-
+istics and perspectives as lung peripheral biomarker. Clin Exp
+Allergy. 2000;30:469–475
+32. Bernard A, Roels H, Buchet JP, Lauwerys R. Decrease of serum
+Clara cell protein in smokers. Lancet. 1992;339:1620–1621
+33. Bernard A, Roels H, Buchet JP, Lauwerys R. Serum Clara cell
+protein: an indicator of bronchial cell dysfunction caused by
+tobacco smoking. Environ Res. 1994;66:96–104
+34. Shijubo N, Itoh Y, Yamaguchi T, et al. Serum and BAL Clara
+cell 10 kDa protein (CC10) levels and CC10-positive bronchio-
+lar cells are decreased in smokers. Eur Respir J. 1997;10:
+1108–1114
+35. Bernard A, Gonzalez J, Siles E, Trulillano G, Lauwerys R. Early
+decrease of serum Clara cell protein in silica-exposed workers.
+Eur Respir J. 1994;7:1932–1937
+36. Burgess JL, Witten ML, Nanson CJ, et al. Serum
+pneumoproteins: a cross-sectional comparison of ﬁreﬁghters
+and police. Am J Ind Med. 2003;44:246–253
+37. Johnston CJ, Mango GW, Finkelstein JN, Stripp BR. Alteredpulmonary response to hyperoxia in Clara cell secretory pro-
+tein deﬁcient mice. Am J Respir Cell Mol Biol. 1997;17:147–155
+38. Shijubo N, Itoh Y, Yamaguchi T, et al. Clara cell protein-
+positive epithelial cells are reduced in small airways of asth-
+matics. Am J Respir Crit Care Med. 1999;160:930–933
+39. Mattsson J, Remberger M, Andersson O, Sundberg B, Nord M.
+Decreased serum levels of Clara cell secretory protein (CC16)
+are associated with bronchiolitis obliterans and may permit
+early diagnosis in patients after allogeneic stem-cell transplan-
+tation. Transplantation. 2005;79:1411–1416
+40. Lesur O, Langevin S, Berthiaume Y, et al. Outcome value of
+Clara cell protein in serum of patients with acute respiratory
+distress syndrome. Intensive Care Med. 2006;32:1167–1174
+41. World Health Organization. Guidelines for Safe Recreational Water
+Environments: Vol 2—Swimming Pools and Similar Environments .
+Geneva, Switzerland: World Health Organization Press; 2006
+42. Freedman FB. Water Babies . London, United Kingdom: Lorenz
+Books; 2003
+43. Goldberg GN, Lightner ES, Morgan W, Kemberling S. Infantile
+water intoxication after a swimming lesson. Pediatrics. 1982;70:
+599–600
+44. Bennett HJ, Wagner T, Fields A. Acute hyponatremia and
+seizures in an infant after a swimming lesson. Pediatrics. 1983;
+72:125–127
+THEMOMMYTRACK
+“Why do women fall off academia’s science track at a faster clip than men?
+The cause is not innate sex differences, a new study suggests, but neither is it
+a simple matter of gender discrimination. If a problem exists, the authors
+conclude, it’s about motherhood, not women in general. Using the 1973–
+2001 Survey of Doctorate Recipients, the study found that while women are
+less likely than men to enter tenure-track positions in the sciences, the
+difference is explained completely by ‘fertility decisions.’ Single, childless
+women are between 11 percent (in the life sciences) and 21 percent (in the
+physical sciences) more likely to have a tenure-track job within ﬁve years of
+ﬁnishing their doctorate than single, childless men. . . . Children can hurt a
+woman’s chances signiﬁcantly: Having a child at pre-kindergarten age took 8
+percentage points off a woman’s chance of getting that tenure-track job.”
+GintherDK. Atlantic.March2007
+NotedbyJFL,MD
+PEDIATRICSVolume119,Number6,June2007 1103 at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 
+DOI: 10.1542/peds.2006-3333 2007;119;1095 PediatricsAlfred Bernard, Sylviane Carbonnelle, Xavier Dumont and Marc NickmilderAllergic and Respiratory Diseases Later in ChildhoodInfant Swimming Practice, Pulmonary Epithelium Integrity, and the Risk of  
+ ServicesUpdated Information &
+ tmlhttp://pediatrics.aappublications.org/content/119/6/1095.full.hincluding high resolution figures, can be found at:
+References
+ tml#ref-list-1http://pediatrics.aappublications.org/content/119/6/1095.full.hat:This article cites 41 articles, 18 of which can be accessed free
+Citations
+ tml#related-urlshttp://pediatrics.aappublications.org/content/119/6/1095.full.hThis article has been cited by 18 HighWire-hosted articles:
+Subspecialty Collections
+ cticehttp://pediatrics.aappublications.org/cgi/collection/office_praOffice Practicethe following collection(s):This article, along with others on similar topics, appears in
+Permissions & Licensing
+ mlhttp://pediatrics.aappublications.org/site/misc/Permissions.xhttables) or in its entirety can be found online at: Information about reproducing this article in parts (figures,
+ Reprints
+ http://pediatrics.aappublications.org/site/misc/reprints.xhtmlInformation about ordering reprints can be found online:
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.Grove Village, Illinois, 60007. Copyright © 2007 by the American Academy of Pediatrics. All and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elkpublication, it has been published continuously since 1948. PEDIATRICS is owned, published, PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+ at Indonesia:AAP Sponsored on May 30, 2013 pediatrics.aappublications.org Downloaded from 

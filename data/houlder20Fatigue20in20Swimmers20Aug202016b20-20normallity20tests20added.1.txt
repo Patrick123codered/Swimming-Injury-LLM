@@ -1,0 +1,514 @@
+ 
+1 The effects  of Swimming  Fatigue  on Shoulder  Strength,  Range  of Motion,  Joint  Control,  and 
+Performance  in Swimmers.   
+ 
+Abstract  
+Purpose:  To investigate  the effects  of training  induced  fatigue  on shoulder  strength,  ROM,  
+joint position  sense , and stroke  length  in elite competitive  swimmers . 
+Methods:  Seventeen  national  level  swimmers  performed  maximum  isometric  strength  
+(internal  and external  rotation) , ROM , and joint position  sense  tests before  and after a 
+fatiguing  8x100m  training  set. Stroke  length,  heart  rate, blood lactate  and blood  glucose  
+level s were  recorde d throughout.  
+Results:  Peak  blood  lactate , blood  glucose  levels , and heart  rate increase d significantly  
+(P<0.001) post-training  confirming  fatigue.  Reductions  were  observed  in stroke  length  of 
+both arms  (P<0.0 01), external  rotation  range  of motion  (P<0.00 1, -5.29°,  Right  shoulder;  
+P=0.04,  -3.18°,  Left shoulder)  and joint position  sense  in their dominant  (breathing  side)  arm 
+(P=0.03).   
+Conclusions:  This investigation  revealed  a reduction  in stroke  length  across  both arms  and 
+also an arm bias in swimming  whereby  a greater  reduction  in both external  rotation  range  
+and joint position  sense  was observed  in the dominant  arm when  fatigued.  This has 
+highlighted  a relationship  between  fatigue  and potential  mechanism  of shoulder  pathology  in 
+swimmers.   
+ 
+ 
+ 
+ 
+ 
+2 Introduction  
+ 
+Shoulder  pain in swimming  is a major  cause  for concern  (Beach  et al., 1992 ; Yanai  & Hay., 
+2000 ; Wolf  et al., 2009 ; Lynch  et al., 2010 ; Tate et al., 2012 ), with shoulder  injuries  
+occurring  in  30% to 91% of swimmers  (Beach  et al., 1992;  Wolf  et al., 2009 ; Walker  et al., 
+2011;   Tate et al., 2012),  and a wide  acceptance  that shoulder  pain is a normal  part of 
+swimming  (Hibberd  & Myer s., 2013 ). This pathology,  often  characterised  as pain following  
+repeated  shoulder  impingement  in swimmers , is described  as “swimmers  shoulder ” [sic] 
+(Kennedy  and Hawkins , 1974 ). 
+ 
+Competitive  swimmers  practice  6 -7 days a week , swim  on average  between  10,000m  and 
+14,000m  on each day (Kluemper  et al., 2006;  Lynch  et al., 2010;  Sein et al., 2010 ; 
+Allegrucci  et al., 1995), and perform  an estimated  16000 - 25000  shoulder  rotations  during  a 
+typical  training  week  (Scovazzo  et al. 1991).  With  80% of training  time spent  on freesty le 
+stroke  (Beach  et al., 1992) , and 90% of the propulsion  for this coming  from  the upper  
+extremities  (Barbosa  et al., 2008),  excessive  training  volumes  has been  identified  as a 
+possible  contributing  factor  to shoulder  pathology  (Beach  et al., 1992;  Tate et al., 2012;  
+Walker  et al., 2011;  Wolf  et al., 2009;  Hibberd  & Myers ., 2013 ).  There  is a clear  
+relationship  between  distances  trained  and shoulder  pathology , with swimmers  who train for 
+longer  distances  appear ing up to four times  as likely  to have  a shoulde r pathology  as those  
+who train for less (Beach  et al., 1992 ; Tate et al., 2012;  Walker  et al., 2011;  Sein et al., 
+2010).   
+ 
+Mechanisms  of overuse  shoulder  injury  appear  to be related  to the inability  to maintain  
+optimal  posture  and movement  patterns,  resulting  in continuous  aggravation  of susceptible  
+tissues  that is worsened  under  fatigue  due to detriments  in strength,  proprioception,  and 
+ 
+3 ROM  (Beach  et al., 1992;  Rupp  et al., 1995;  Pink & Tibone,  2000;  Yanai  & Hay,  2000;  
+Kluemper  et al., 2006;  Lynch  et al., 2010) . Competitive  swimmers  with decreased  muscle  
+endurance  in external  rotation  and abduction  may be more  likely  to develop  shoulder  
+pathology  (Beach  et al., 1992).  This may be compounded  by a protracted  shoulder  posture  
+further  predisposing  swimmers  to a higher  risk of shoulder  injuries  (Kluemper  et al., 2006;  
+Lynch  et al., 2010;  Pink & Tibone,  2000).  If infraspinatus  or teres  minor  are weak,  not 
+activating  correctly,  or are fatigued  (Tyler et al., 2000;  Michener  et al., 2003;  Koester  et al., 
+2005;  Heyworth  and Williams  2009;  Ellenbecker  and Cools  2010;  Heyworth  and Page  
+2011 ), or if the scapula  is already  in a forward  position , preventing  further  protraction,  
+(Kluemper  et al., 2006;  Lynch  et al., 2010;  Pink & Tibone,  2000) , abnormal  movement  of 
+the gleno -humeral  and scapulothoracic  joints  may predispose  an athlete  to compression  of 
+the sub-acromial  space,  leading  to impingement  of supraspinatus  tendon  and the subacromia l 
+bursa  (Yanai  & Hay,  2000;  Lynch  et al., 2010).  Shoulder  weakness  or fatigue  in outer  range  
+may result  in rotator  cuff impingement,  predominantly  of supraspinatus  during  the abduction  
+and internal  rotation  that is characteristic  of the recovery  phase  of the freestyle  stroke  (Yanai  
+& Hay,  2000).   
+ 
+It is also possible  that there  is a disparity  in the levels  of fatigue  observed  in different  
+muscles.  In tennis,  Ellenbecker  & Roetert  (1999)  observed  that the internal  rotator  muscles  
+were  more  fatigue  resistant  than external  rotators.  Although  this may not directly  replicate  
+fatigu e in swimming,  the relative  shift in internal  and external  rotator  strength  with fatigue  
+may indicate  that internal  rotators  retain  more  strength  under fatigue  than the much  smaller  
+external  rotators.  Indeed,  there is some  evidence  that training  the external  rotators  has a 
+positive  effect  on reducing  shoulder  pain in swimmers  (Lynch  et al., 2010).   
+ 
+ 
+4 As well as detriments  to strength,  several  studies  have also identified  a detrimental  effect  of 
+fatigue  on proprioception  (Skinner  et al., 1986;  Lee et al., 2003),  with as much  as a 73% 
+increase  in the threshold  of detection  of movement  (Carpenter  et al., 1993).  This may have  
+implications  for the accurate  replication  of movement  patterns  that are central  to both 
+performance  and injury  prevention.   
+ 
+These cumulative  effects  of fatigue  on strength,  range  of motion , and proprioception  appear  
+to have  a profound  impact  on swimming  performance.  Figueiredo  et al., (2012)  found  while 
+testing  10 male  competitive  swimmers  aged  21.6 (± 2.4) with 11.00  years  of comp etitive  
+swimming , a significant  decrease  in biomechanical  and coordinative  parameters  of 
+swimmers  occurred  under  fatigu e. Speed  decreased  by 13.8%  (P=0.00),  stroke  rate 
+(frequency)  by 5.1%  (P=0.00)  and stroke  length  by 6.9%  (P=0.01 ) with an increase  in blood  
+lactate  levels  of 11.12  mmol-1 (±1.65  mmol-1). This test was able to show  biomechanical  
+changes  due to fatigue,  but only over a very short  period  of time (96.1  seconds  ±2.1);  this is 
+representative  of a race distance  but does not mimic  the cumulative  effects  of training.  It 
+does however  show  that swim mers  have  reduced  joint control  and proprioception , which  
+may contrib ute to pathology  under  fatigue  (Carpenter  et al., 1993).   
+ 
+Previous  work  has suggested  that spatial  trajectory  and stroke  parameters  of intern ational  
+swimmers  is not easily  changed  even  by the impairments  imposed  by fatigue,  suggest ing 
+that stroke  rate becomes  the most  determinant  factor  of swimming  velocity  for top level  
+swimmers  and not stroke  length  (Anjouannet  et al., 2006 ; Toussanit  et al., 2006) . When  
+power  output  declines,  both swim  speed  and stroke  rate decrease , but stroke  length  remains  
+constant  (Toussanit  et al., 2006) . It appears  that the more  experienced  the swimmer  the less 
+deviation  in stroke  length  while  under  fatigue (Figueiredo  et al., 2012;  Anjouannet  et al., 
+ 
+5 2006)  and may be a factor  in the reduced  occurrence  in shoulder  pathology  observed  in more  
+experienced  swimmers  (Wolf  et al., 2009) .  
+ 
+It is therefore  hypothesised  that interventions  that mitigate  fatigue  and promote  the 
+maintenance  of optimal  posture,  proprioception,  mobility,  and movement  patterns  during  
+swimming  may reduce  the chances  of shoulder  pathology.   To identify  potentially  helpful  
+interventions  this study  aims  to investigate  the impact  of training  induced  fatigue  on 
+strength,  mobility,  joint reposition  ability,  and parameters  of performance.  
+ 
+ 
+ 
+Methodology  
+ 
+Participants  
+Seventeen  national  level  youth  (8 male,  9 female)  swimmers  from  a North  West  swimming  
+squad , aged  15.9 years  (±1.09),  height  174cm  (±7.52cm),  weight  66.06kg  (±8.07kg) , were  
+targeted  as part of a convenience  sample  and invited  to participate .  The seventeen  
+participants  constituted  every  member  of the youth  squad . Each  participant  gave informed  
+consent  prior  to participation  and gave permission  for all collected  data to be used in this 
+study.  All swimmers  competed  regularly  at national  level  championships , were  right  hand  
+dominant,  had approximately  7 years  of regular  training  experience , and considered  freestyle  
+their preferred  stroke . Ethical  approval  was gained  prior  to the study  from  the institution’s  
+RGEC.   
+Testing  procedure  
+ 
+6 Swimmers  completed  their normal  standardised,  pre-training , warm  up (1600m  
+consisting  of full stroke,  arms  only,  legs only,  and drills)  before  having  baseline  
+blood  lactate  and glucose  level s recorded .  
+ 
+Maximum  isometric  strength  was measured  in internal  and external  rotation  using  a 
+handheld  dynamometer  that had been  calibrated  with digital  scales  to a known  
+weight  and had previously  been  deemed  to be a reliable  method  (Dover  and Powers,  
+2003 ). Swimmers  stood  upright  and each arm was positioned  in 90° of shoulder  
+abduction  and 90° of elbow  flexion  in the frontal  plane.  The swimmer  then 
+positioned  themsel f so that the hand  held dynamometer  (Micro  FET 2, Hoggan  
+Health  Industries)  could  be pressed  maximally  against  a pillar,  with the swimmers  
+pressing  forwards  (to measure  internal  rotation  strength)  and backwards  (to measure  
+external  rotation  strength).  This position  was chosen  as it was deemed  to be the most  
+suitable  compromise  between  replicating  the arm position  during  the stroke,  while  
+also being  repeatable . Three  attempts  were  taken  with the best score  being  recorded.  
+Pilot  testing  was conducted  on the swimmers  prior  to this study,  during  which  the 
+repeatability  of each,  measure  was determined  using  intra-class  correlation  
+coefficient  (model  2,1). The comparison  of first and second  measurement  indicated  a 
+strong  correlation  between  the two measures  of .96 (p<0.01)  (internal  rotation)  and 
+.92 (p<0.01)  (external  rotation).   
+ 
+Internal  and external  range  of motion  was assessed  at the glenohumoral  joint using  a 
+goniometer  (Baseline  HiRes , 12-1000HR)  with arm abducted  to 90°, elbow  flexed  at 
+90° while  lying  on a mobile  plinth.  Swimmers  were  then instructed  to actively  move  
+their arm as far as they were  able into internal  and external  rotation.  Pilot  testing  was 
+ 
+7 conducted  on the swimmers  prior  to this study,  during  which  the repeatability  of 
+each,  measure  was determined  using  intra-class  correlation  coefficient  (model  2,1). 
+The comparison  of first and second  measurement  indicated  a strong  correlation  
+between  the two measures  of .92 (p<0.01)  (internal  rotation)  and .93 (external  
+rotation)  (p<0.01).   
+ 
+Joint  position  sense  was measured  with swimmers  lying  prone  with arm abducted  to 
+90°, elbow  flexed  at 90°. The arm was then passively  externally  rotated  to 45° before  
+returning  to the initial  position . With their eyes closed  swimmers  were  asked  to relax  
+and then to resume  the arm position  (Herrington  et al., 2010).   
+ 
+Following  the initial  test session,  swimmers  performed  8 x 100m  training  swims  off a 2-
+minute  interval . Target  times  were  prescribed  for each swimmer  based  on 85% of their best 
+100m  times  (Maglischo,  2003;  Barden  & Kell,  2009) . The 8 x 100m  swim  set of a 2-minute  
+interval  is a regular  training  session  undertaken  by these  participants  and was chosen  as it 
+was deemed  by the coaches  as the most  reliable  method  of inducing  fatigue  and that was 
+also representative  of typical  training  practice.  
+ 
+Immediately  on completion  of the last swim,  swimmers  exited  the pool and repeated  
+the isometric  strength , range  of motion,  and joint position  tests. Efforts  were  made  to 
+ensure  that this began  as soon  as possible  post-swim  (within  60s) and that the order  
+and timing  of the post-fatigue  tests replicated  those  of the pre-fatigue  tests. 
+Blood  sample s were  taken  3 minutes  post-exercise  (Gore,  2000 ; Maglischo,  2003 ; 
+Aujouannet  et al., 2006 ). 
+ 
+ 
+8 Swim  stroke  was recorded  using  a high-speed  camera  (Panasonic  Lumix  FT5)  at 30 frames  
+per second  (Anjouannet  et al., 2006 ; Toussanit  et al., 2006)  and was analysed  using  Quintic , 
+using  the 3rd 25m of each 100m  swim.  (Figure  1). 
+ 
+Data  analysis  
+All data were  analysed  using  SPSS  (Version  20) with ANOVA  and post-hoc tests used to 
+determine  difference  pre to post fatigue .  Prior  to analysis  both visual  inspection  of the 
+histogram  and Shapiro -Wilk  results  (no sig deviation  from  normality)  indicated  the data 
+were  normally  distributed.  Pearson’s  correlation  coefficient  was used to determine  the 
+correlations  between  stroke  length  and the tested  variables.   
+Results  
+Lactate   
+A significant  increase  (P<0.001; d = 4.8; r = .92) was found  in blood  lactate , post- 8 x100m  
+test, compared  to baseline  blood  lactate  (8.81 mmol-1 ± 2.09 vs 1.55 mmol-1 ± 0.42) . Blood 
+glucose  levels  also increased  from  5.01 mmol-1 ± 0.91 pre-test to 7.12 mmol-1 ± 1.22 post-
+test (P<0.001 ; d = 1.96;  r = .7)(Table  1), confirming  the high intensity  nature  of the training  
+session  (Pyne  et al., 2001 ; Aujouannet  et al., 2006 ; Anderson  et al., 2006 ; Anderson  et al., 
+2008 ; Carr et al., 2011;  Figueiredo et al ., 2012).  
+ 
+Time,  Heart  rate and stroke  length  
+Swimmers  were  asked  to maintain  swim  pace at a level  equivalent  to 85% of their best 100m  
+time. No significant  difference  was found  in swimming  times  during  the test (P=0.19)  
+demonstrating  that swimmers  maintained  an even  pace throughout.  A significant  increase  in 
+ 
+9 heart  rate was observed  between  the first (167 ± 17 BPM)  and final (199 ± 21 BPM)  
+repetitions  of the 8 x100m  training  set (P<0.001 ; d = 1.67;  r = .64). (Table  2) 
+A significant  reduction  in left arm stroke  length  (P<0.00 1; d = 1.26;  r = .53) and right  arm 
+stroke  length  (P<0.0 01; d = 1.14;  r = .5) was recorded  during  the test, from  1.36m (±0.1 4m) 
+left and 1.37m  (±0.14m)  right  on the first swim  to 1.22m (±0.07m)  left and 1.24m (±0.0 8m) 
+right  on the final swim.  (Table  3) (Figure  2.) 
+Joint  reposition  sense  
+A significant  increase  in mean  joint reposition  variance  (as defined  by the magnitude  of 
+error  from  the 45° reposition  target  angle)  was observed  following  fatigue  on the right  arm 
+from  4.92°  ± 4.71 pre to 9.62°±  6.63 post (P=0.03 ; Cohen’ s d = .82; r = .38), representing  a 
+95.31%  increase  in variance.  No significant  differences  were  observed  on the left arm. 
+(Table  4). 
+No significant  correlation  between  joint position  sense  and stoke  length  was found  pre- or 
+post- fatigue.    
+ 
+Range  of motion  
+Range  of motion  into external  rotation  was also significantly  reduced  in both right (-5.29° ; 
+P<0.001 ; d = .75; r = .35) and left arms  (-3.18° ; P=0.04 ; d = .42; r = .2) post fatigue . (Table  
+3). No significant  differences  were  observed  for internal  rotation.  
+No significant  correlation  between  external  rotation  range  and stoke  length  was found  pre- 
+or post- fatigue.   
+Strength  
+No significant  strength  differences  were  observed  pre- to post-fatigue  in either  the internal  or 
+external  rotators  of either  shoulder.    
+ 
+10 There  was, however,  a statistically  significant  relationship  between  right  external  rotation  
+strength  and stroke  length,  pre- (R=-0.635)  and post- (R=-0.643)  fatigue  using  a Pearson  
+correlation  coefficient.    
+ 
+Discussion  
+Following  8 x 100m  training  swims , off a 2-minute  interval  at 85% of maximum  swim  time, 
+several  changes  were  observed.  These  included  a significant  reduction  in stroke  length  in 
+both right  (13cm; P<0.001; d = 1.14;  r = .5) and left (14cm; P<0.001 ; d = 1.26;  r = .53), 
+arms , reduced  range  of motion  into external  rotation  in both right  (-5.29°;  P<0.0 01; d = .75; 
+r = .35) and left arms  (-3.18°;  P=0.04;  d = .42; r = .2), and a 95.3%  increase  in joint 
+reposition  variance  on the dominant  right  arm (P=0.03;  Cohen’s  d = .82; r = .38). 
+ 
+Using  Rhea ’s (2004)  interpretation  of effect  sizes  for highly  trained  individuals,  the 
+effect  of fatigue  on stroke  length  can be considered  as large;  the reduction  in the 
+right  and left arm range  of motion  can be considered  moderate -to-large  and moderate  
+respectively;  the increase  in joint reposition  variance  can be considered  moderate.  
+The observed  reduction  of stroke  length  under  fatigue  is in contrast  to previous  
+findings  (Anjouannet  et al., 2006) , but supports  Figueiredo et al., (2012) who 
+observed that the reduction in stroke length accompanied the rise in blood lactate 
+during a maximal 200m swim test, with stroke frequency increasing to maintain 
+velocity. The contr ast with Anjouannet et al may be due to the relatively low volume 
+of their fatiguing protocol (4 x 50m) compared with the volume  and intensity  of this 
+particular  swim  training  session  (8 x 100m).  Figueiredo e t al., (2012), also observed  that 
+the right arm phase took longer than the left arm phase, associating this with ‘handedness’ of 
+the swimmers and suggested that the dominant arm is preferentially  used for propulsion and 
+ 
+11 the non -dominant hand is preferentially  used for control and  support. This may explain our 
+findings that the  dominant  arm showed a  greater reduction  in external rotation range of 
+motion , compared to the non -dominant , and also a significant reduction in joint position 
+sense , that was not observed in the non -dominant. This fatigue in the dominant arm tends to 
+agree with previous results suggesting that fatigue affected  joint p osition sense and 
+proprioception  (Carpenter et al.,  1998 ; Lee e t al., 2003).  
+ 
+Although there were large  decreases observed in some individuals, f atigue , however,  had no 
+significant  effect on  maximal  isometric stren gth in both internal  and external rotation in 
+either arm  Despite  this, we still observed  a significant  strong  correlation  between  external  
+rotation  strength  and stroke  length,  both pre- and post- fatigue.  This may reflect  the fact that 
+there  was a general  (but non-specific)  trend  towards  reduced  strength  with fatigue.  This may 
+be related to  the muscle endurance cap abilities of swimmers  who re gularly undergo 
+endurance based swimming  training  (Kluemper  et al., 2006;  Lynch  et al., 2010;  Sein et al., 
+2010;  Allegrucci  et al., 1995) , with isometric strength , as assessed in this study , not directly 
+affected in the same way that joint position sense and range are . It is unlikely  that, due to the 
+repetitive  nature  of the sport , swimmers  ever produce  a maximal  internal  rotation  
+contraction  when  swimming . It is possible  that a muscle  strength  or local  muscular  
+endurance  test that focuses  on multiple  repetitions  may produce  different  results  with 
+endurance  trained  athletes , with previous  research  observ ing significant  reduction  in internal  
+and external  rotation  strength  over 50 repetitions  on an isokinetic  dynamometer  (Beach  et 
+al., 1992) .  
+ 
+Practical  Recommendations  
+These  results,  along  with the clear  link between  training  volume  and impingement  injuries  
+(Lynch  et al., 2010 ; Beach  et al., 1992 ; Walker  et al., 2011) , leads  us to question  the wisdom  
+ 
+12 of adolescents  swimming  the high volumes  reported  (Lynch  et al., 2010;  Sein et al., 2010;  
+Allegrucci  et al., 1995),  without  first having  an injury  prevention  and strengthening  
+programme  focused  on the functional  eccentric  strength  of the external  stabilising  muscles  
+of the shoulder.  In each concentric  ‘power  stroke’  the small  stabilising  muscles  must  work  
+synergistically  to prevent  the anterior  translation  of the humeral  head.  Continued  fatigue  and 
+poor joint position  sense  could  result  in anterior  humeral  head  translation  due to the 
+dominance  of overactive  pectoral  minor  and latisimus  dorsi  muscles  leading  to laxity  of the 
+weaker  posterior  muscles  (Tate  et al,. 2012) . Anterior  translation  places  the shoulder  in a 
+position  whereby  the subacromial  space  is compressed,  potentially  aggravating  tissues  such 
+as the subacromial  bursa  and supraspinatus , leading  to the impingement  syndrome  known  as 
+‘swimmers  shoulder’ .  Anterio r translation  will also cause  an internal  rotation  of the 
+hume rus putting  additional  strain  on the long head  of biceps  tendon .  
+ 
+Given  the significant  reduction  in external  rotation  range  and increased  proprioceptive  
+variance  as a result  of fatigue,  along  with the significant  correlation  observed  between  stroke  
+length  and strength,  it is possible  that competitive  swimmers  may benefit  from  a shoulder  
+external  rotation  strengthening  programme  that includes  inner  range  external  rotation  
+activities,  mobility  training  aimed  at restoring  external  rotation  range  of motion , and 
+proprioception  training .  It is possible  that such a programme  could  help swimmers  maintain  
+stroke  length  and external  rotation  range  after fatiguing  swimming.  This may be relevant  to 
+injury  prevention  because  it may help swimmers  offset  the pull from  the dominant  internal  
+rotators  and reduce  potential  for impingement  of supraspinatus  tendon  (Kluemper  et al., 
+2006).   
+ 
+Conclusion  
+ 
+13  
+This investigation  revealed  a reduction  in stroke  length  across  both arms  and also an arm 
+bias in swimming  whereby  a greater  reduction  in both external  rotation  range  and joint 
+position  sense  was observed  in the dominant  arm when  fatigued.  This has highlighted  a 
+relationship  between  fatigue  and potential  mechan ism of shoulder  pathology  in swimmers.  
+Competitive  swimmers  may benefit  from  a shoulder  external -rotation  strengthening  
+programme  that includes  inner  range  external  rotation  activities,  mobility  training  aimed  at 
+restoring  external  rotation  range  of motion , and proprioception  training.   It is possible  that 
+such a programme  could  help swimmers  maintain  stroke  length  and external  rotation  range  
+after fatiguing  swimming  with benefits  for both performance  and injury  prevention . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14  
+ 
+ 
+ 
+ 
+ 
+References.  
+Allegrucci,  M., Whitney,  S. L., Lephart,  S. M., Irrgang,  J. J., & Fu, F. H. (1995).  Shoulder  
+kinesthesia  in healthy  unilateral  athletes  participating  in upper  extremity  sports.  Journal  of 
+Orthopaedic  and Sports  Physical  Therapy , 21, 220-220. 
+Anderson,  M., Hopkins,  W., Roberts,  A., & Pyne,  D. (2006),  ‘Monitoring  seasonal  and long-
+term changes  in test performance  in elite swimmers’,  European  Journal  Of Sport  Science , 6, 
+3, pp. 145-154. 
+Anderson,  M., Hopkins,  W., Roberts,  A., & Pyne,  D. (2008),  ‘Ability  of test measures  to 
+predict  competitive  performance  in elite swimmers’,  Journal  Of Sports  Sciences , 26, 2, pp. 
+123-130. 
+Aujouannet,  Y. A., Bonifazi,  M., Hintzy,  F., Vuillerme,  N., & Rouard,  A. H. (2006).  Effects  
+of a high-intensity  swim  test on kinematic  parameters  in high-level  athletes.  Applied  
+Physiology,  Nutrition  & Metabolism , 31(2), 150-158. 
+Aydin,  T., Yildiz,  Y., Yanmis,  I., Yildiz,  C., & Kalyon,  T. (2001).  Shoulder  proprioception:  
+a comparison  between  the shoulder  joint in healthy  and surgic ally repaired  shoulders.  
+Archives  Of Orthopaedic  And Trauma  Surgery , 121(7),  422-425. 
+Barbosa,  T. M., Fernandes,  R. J., Keskinen,  K. L., & Vilas -Boas,  J. P. (2008).  The influence  
+of stroke  mechanics  into energy  cost of elite swimmers.  European  Journal  Of Applied  
+Physiology , 103(2), 139-149. 
+Barden,  J. M., & Kell,  R. T. (2009).  Relationships  between  stroke  parameters  and critical  
+swimming  speed  in a sprint  interval  training  set. Journal  Of Sports  Sciences , 27(3), 227-235. 
+ 
+15 Beach,  M., Whitney,  S., & Dickoff -Hoffman,  S. (1992).  Relationship  of shoulder  flexibility,  
+strength,  and endurance  to shoulder  pain in competitive  swimmers.  The Journal  Of 
+Orthopaedic  And Sports  Physical  Therapy , 16(6), 262-268. 
+Berg,  K.E. & Latin,  R.W.  (2008)  Essentials  of Research  Methods  in Health,  Physical  
+Education,  Exercise  Science,  and Recreation,  3rd ed. Baltimore  MD.  Lippincott  Williams  & 
+Wilkins.  
+Carpenter,  J. E., Blasier,  R. B., & Pellizzon,  G. G. (1998).  The effects  of muscle  fatigue  on 
+shoulder  joint position  sense.  / Effets  de la fatigue  musculaire  sur le sens de la position  de 
+l'articulation  de l'epaule. American  Journal  Of Sports  Medicine , 26(2), 262-265. 
+Carr,  A. J., Hopkins,  W. G., & Gore,  C. J. (2011).  Effects  of Acute  Alkalosis  and Acidosis  
+on Performance.  Sports  Medicine , 41(10),  801-814. 
+Cools  A, M., Witvrouw  E, E., Declercq  G, A., Vanderstraeten  G, G., & Cambier  D, C. 
+(2004).  Evaluation  of isokinetic  force  production  and associated  muscle  activity  in the 
+scapular  rotators  during  a protraction -retraction  movement  in overh ead athletes  with 
+impingement  symptoms.  British  Journal  Of Sports  Medicine , 38(1), 64-8. 
+Counsilman  JE: The Science  of Swimming,  Englewood  Cliffs,  NJ: Prentice  Hall 1968.  
+Dover,  G., & Powers,  M. E. (2003).  Reliability  of Joint  Position  Sense  and Force -
+Repr oduction  Measures  During  Internal  and External  Rotation  of the Shoulder.  Journal  Of 
+Athletic  Training , 38(4), 304-310. 
+Ellenbecker  T.S.,  & Cools  A. (2010).  Rehabilitation  of shoulder  impingement  syndrome  and 
+rotator  cuff injuries:  An evidence -based  review.  Br J Sports  Med. 44:319 -27. 
+Ellenbecker,  T. S., & Roetert,  E. P. (1999).  Testing  isokinetic  muscular  fatigue  of shoulder  
+internal  and external  rotation  in elite junior  tennis  players.  Journal  Of Orthopaedic  & Sports  
+Physical  Therapy , 29(5), 275-281. 
+ 
+ 
+ 
+16 Figueiredo,  P., Seifert,  L., Vilas -Boas,  J., & Fernandes,  R. J. (2012).  Individual  profiles  of 
+spatio -temporal  coordination  in high intensity  swimming.  Human  Movement  Science , 31(5), 
+1200 -1212.  
+Formosa,  D., Mason,  B., & Burkett,  B. (2011).  The force -time profile  of elite front  crawl  
+swimmers.  Journal  Of Sports  Sciences , 29(8), 811-819. 
+Gore,  C. J. (2000).  Physiological  tests for elite athletes . Champaign,  Ill.; United  States:  
+Human  Kinetics  
+Herrington,  L., Horsley,  I., & Rolf,  C. (2010).  Evaluation  of shoulder  joint position  sense  in 
+both asymptomatic  and rehabilitated  professional  rugby  players  and matched  
+controls.  Physical  Therapy  In Sport:  Official  Journal  Of The Association  Of Chartered  
+Physiotherapists  In Sports  Medicine ,11(1), 18-22. 
+Heyworth  B.E., & Page  P. (2011).  Shoulder  muscle  imbalance  and subacromial  
+impingement  syndrome  in overhead  athletes.  Int J Sports  Phys  Ther . 6:51-8.  
+Heyworth  B.E., & Williams  R.J. 3rd. (2009).  Internal  impingement  of the shoulder.  Am J 
+Sports  Med. 37:1024 -37.  
+Hung,  Y., & Darling,  W. G. (2012).  Shoulder  Position  Sense  During  Passive  Matching  and 
+Active  Positioning  Tasks  in Individuals  With  Anterior  Shoulder  Instability.  Physic al 
+Therapy , 92(4), 563-573. 
+Kennedy,  J.C., Hawkins,  R., Swimmers  Shoulder.  Phys  Sports  Med (1974;2:34 -38, Cited  in 
+Sein,  M., Walton,  J., Linklater,  J., Appleyard,  R., Kirkbride,  B., Kuah,  D., & Murrell,  G. 
+2010,  ‘Shoulder  pain in elite swimmers:  primarily  due to swim -volume -induced  
+supraspinatus  tendinopathy’,  British  Journal  Of Sports  Medicine , 44, 2, pp. 105-113).  
+Kluemper,  M., Uhl, T. L., & Hazelrigg,  H. (2006).  Effect  of Stretching  and Strengthening  
+Shoulder  Muscles  on Forward  Shoulder  Posture  in Competitive  Swimmers.  Journal  Of Sport  
+Rehabilitation , 15(1), 58. 
+Koester  M.C., George  M.S., & Kuhn  J.E. (2005).  Shoulder  impingement  syndrome.  
+ 
+17 j.amjmed . Volume  118, Issue  5, Pages  452–455 
+Lee, H., Liau,  J., Cheng,  C., Tan, C., & Shih,  J. (2003).  Evaluatio n of shoulder  
+proprioception  following  muscle  fatigue.  Clinical  Biomechanics ,18(9), 843 
+Lynch,  S., Thigpen,  C., Mihalik,  J., Prentice,  W., & Padua,  D. (2010).  The effects  of an 
+exercise  intervention  on forward  head  and rounded  shoulder  postures  in elite 
+swimmers.  British  Journal  Of Sports  Medicine ,44(5), 376-381. 
+Maglischo,  E. W. (2003).  Swimming  fastest:  the essential  reference  on technique,  training,  
+and program  design . Champaign,  Ill.; United  States:  Human  Kinetics  
+Michener  L.A., McClure  P.W., & Karduna  A.R. (2003).  Anatomical  and bio- mechanical  
+mechanisms  of subacromial  impingement  syndrome.  Clin Biomech ;18:369 -79.  
+Pink,  M., & Tibone,  J. (2000).  The painful  shoulder  in the swimming  athlete.  The 
+Orthopedic  Clinics  Of North  America , 31(2), 247-261. 
+Pyne , D. B., Lee, H. H., & Swanwick,  K. M. (2001).  Monitoring  the lactate  threshold  in 
+world -ranked  swimmers.  / Controle  du seuil  lactique  chez des nageurs  de classe  
+mondiale.  Medicine  & Science  In Sports  & Exercise , 33(2), 291-297 
+Richardson,  A., Jobe,  F., & Collins,  H. (1980).  The shoulder  in competitive  swimming.  The 
+American  Journal  Of Sports  Medicine ,8(3), 159-163. 
+Rupp,  S., Berninger,  K., & Hopf,  T. (1995).  Shoulder  problems  in high level  swimmers --
+impingement,  anterior  instability,  muscular  imbalance?. International  Journal  Of Sports  
+Medicine , 16(8), 557-562. 
+Scovazzo,  M.L.,  Browne,  A., Pink,  M., Jobe,  F.W.  & Kerrigan,  J. (1991).  The painful  
+shoulder  during  freestyle  swimming.  The American  Joumal  of Sports  Medicine,  19,577 -582.  
+Sein,  M., Walton,  J., Linklater,  J., Appleyard,  R., Kirkbride,  B., Kuah,  D., & Murrell,  G. C. 
+(2010).  Shoulder  pain in elite swimmers:  primarily  due to swim -volume -induced  
+supraspinatus  tendinopathy.  British  Journal  Of Sports  Medicine , 44(2), 105-113. 
+ 
+18 Skinner,  H., Wyatt,  M., Hodgdon,  J., Conard,  D., & Barrack,  R. (1986).  Effect  of fatigue  on 
+joint position  sense  of the knee.  Journal  Of Orthopaedic  Research:  Official  Publication  Of 
+The Orthopaedic  Research  Society , 4(1), 112-118. 
+Tate,  A., Turner,  G. N., Knab,  S. E., Jorgensen,  C., Strittmatter,  A., & Michener,  L. A. 
+(2012).  Risk Factors  Associated  With  Shoulder  Pain and Disability  Across  the Lifespan  of 
+Competitive  Swimmers.  Journal  Of Athletic  Training , 47(2), 149-158. 
+Toussaint,  H., Carol,  A., Kranenborg,  H., & Truijens,  M. (2006). Effect  of fatigue  on 
+stroking  characteristics  in an arms -only 100-m front -crawl  race.  Medicine  And Science  In 
+Sports  And Exercise , 38(9), 1635 -1642.  
+Tyler T.F., Nicholas  S.J., Roy T., & Glein  G.W.  (2000).  Quantification  of Posterior  Capsule  
+Tightness  and Motion  Loss in Patients  with Shoulder  Impingement . Am J Sports  Med 
+September  vol. 28 no. 5 668-673 
+Walker,  H., Gabbe,  B., Wajswelner,  H., Blanch,  P., & Bennell,  K. (2012).  Shoulder  pain in 
+swimmers:  A 12-month prospective  cohort  study  of incidence  and risk factors.  Physical  
+Therapy  In Sport , 13(4), 243-249 
+Warner,  J., Lephart,  S., & Fu, F. (1996).  Role  of proprioception  in pathoetiology  of shoulder  
+instability.  Clinical  Orthopaedics  And Related  Research , (330), 35-39 
+Weldon  III, E. J., & Richardson,  A. B. (2001).  Upper  extremity  overuse  injuries  in 
+swimming:  a discussion  of swimmer's  shoulder.  / Pathologies  de surmenage  des membres  
+superieurs  en natation  : etude  des problemes  de l ' epaule  du nageur.  Clinics  In Sports  
+Medicine , 20(3), 423-438. 
+Wolf,  B. R., Ebinger,  A. E., Lawler,  M. P., & Britton,  C. L. (2009).  Injury  Patterns  in 
+Division  I Collegiate  Swimming.  American  Journal  Of Sports  Medicine , 37(10),  2037 -2042.  
+Yanai,  T., Hay,  J., & Miller,  G. (2000).  Shoulder  impingement  in front -crawl  swimming:  I. 
+A method  to identify  impingement.  Medicine  And Science  In Sports  And Exercise , 32(1), 21-
+29. 
+ 
+19  
+ 
+Figure  1 – Picture  of calibration  square  used  to measure  stroke  length.  
+ 
+ 
+ 
+Table 1 – Table  showing  changes  in blood  lactate  and blood  glucose  pre- and post-test. 
+ Mean   SD 95%CI  TTest  
+Base  lactate  (mmol.l-1) 1.55 0.42 1.35 - 1.75  
+Peak  lactate  (mmol.l-1) 8.81 2.09 7.82 - 9.8 P<0.001  
+Base  glucose  (mmol.l-1) 5.01 0.91 4.58 - 5.44  
+Peak  glucose  (mmol.l-1) 7.12 1.22 6.54 - 7.7 P<0.001  
+ 
+
+ 
+20 Table  2 – Table  showing  changes  in joint  position  sense  (proprioception)  pre- and post-
+test.   
+ 
+Proprioception  Variance  Mean  SD 95%  CI % change  TTest  
+Pre-fatigue  Right  (°) 4.92 4.71 2.68 – 7.16   
+Post-fatigue  Right  (°) 9.62 6.63 6.47 – 12.77  95.31%  p=0.03  
+Pre-fatigue -Left (°) 7.85 6.25 4.88 – 10.82    
+Post-fatigue  Left (°) 9.08 6.50 5.99 – 12.17  15.69%  p=0.22  
+ 
+Table  3 – Table  showing  external  rotation  range  of motion  pre- and post-test. 
+ 
+External  Rotation  ROM  Mean  SD 95%  CI % Change  TTest  
+Right  Pre- (°) 19.35  9.01 15.07  – 23.63    
+Right  Post- (°) 14.06  4.28 12.03  – 16.09  -27.36%  p<0.001  
+Left Pre- (°) 19.41  9.24 15.02  – 23.8   
+Left Post- (°) 16.24  5.47 13.64  – 18.84  -16.36%  p=0.04  
+ 
+Figure  2 – Graph  showing  changes  in heart rate, stroke  length  and swim  time  
+ 
+21  
+ 
+ 
+ 1.101.201.301.40
+020406080100120140160180200220
+1 2 3 4 5 6 7 8
+Stroke lengthHeart Rate and Time 
+Swim NumberHeart rate, stroke length and swim time 
+across 8 x 100m  swims
+Heart Rate Time Left Sroke Length Right Stroke Length

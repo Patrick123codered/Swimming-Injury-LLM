@@ -1,0 +1,1092 @@
+Effects of an Aquatic Therapy
+Swimming Program on Adults
+with Spinal Cord Injuries
+Ellen Broach, Diane Groff and John Dattilo
+The majority of research examining the effects of participation in physical activity for
+individuals with disabilities supports the belief that physical and psychological benefits
+exist (Jackson & Davis, 1983; & Smith, 1992). However, many individuals with physical
+disabilities find it difficult to achieve aerobic fitness in land-based activity (Smith, 1992).
+An aquatic therapy (AT) program incorporating a leisure skill such as swimming may
+provide the person with a realistic and enjoyable alternative for achieving rehabilitation.
+Few studies have examined the efficacy of an AT program using swimming with adults
+who have spinal cord injury. Therefore, a single-subject, multiple baseline design was used
+with four adult volunteers with spinal cord injuries (ages 30 to 63) to determine the effects
+of swimming on physical condition. A single subject design can be an effective tool for
+clinical evaluation because it allows each individual to serve as his or her own control.
+Direct observations were used to assess endurance in swimming and forced vital capacity.
+The intervention consisted of an AT class (3 X week, 1 hour) using swimming instruction
+as a medium of therapy. For each participant, the dependent measure scores were calculated
+and plotted on a graph. Body fat tests and social validity interviews occurred the first day
+of baseline and at follow-up as secondary measures. While no changes were observed in
+Ellen Broach and Diane Grojf are doctoral candidates and John Dattilo is a Professor in
+the Department of Recreation and Leisure Studies at the University of Georgia.
+The authors would like to thank the participants as well as Judy Askins, Stacy Green,
+and Melissa Stratton of the Shepherd Center in Atlanta, Georgia for their assistance and
+support in the organization of this project. This research was conducted in part through
+funds provided by the U.S. Department of Education, Office of Special Education,
+Preparation of Leadership Personnel, Project #HO29D30051 titled ' 'Doctoral Level
+Training for Therapeutic Recreation Specialists.''
+160 Therapeutic Recreation Journal
+vital capacity, a positive relationship between the AT program and cardiovascular endurance
+was replicated across all participants and was supported by a decrease in body fat scores.
+Social validity interviews revealed that participants perceived improved fitness, enjoyed
+their participation, and reported a desire to continue swimming.
+KEY WORDS: Aquatic Therapy, Cardiovascular Endurance Swimming, Spinal Cord In-
+jury, Therapeutic Recreation, Vital Capacity
+Approximately 9,000 people acquire spi-
+nal cord injuries (SCI) in the United States
+every year (National SCI Statistical Center,
+1995). Of those injured, approximately 75%
+will be men between the ages of 16 and 30
+(National SCI Statistical Center, 1995). The
+post-injury employment outlook for individ-
+uals with SCI's suggests that less than 40%
+of individuals with paraplegia and 25% of
+individuals with quadriplegia will return to
+work (National SCI Statistical Center, 1995).
+Therefore, not only must individuals with
+SCI's psychologically and physically cope
+with a newly acquired disability, they must
+adjust to increased free time. Krause and
+Kjorsvig (1992) concluded that regardless of
+level of injury, individuals who remain phys-
+ically active after sustaining a SCI are better
+adjusted, more satisfied with life, and sub-
+stantially increase their life expectancy.
+Given this relationship, and the fact that
+medical advances have steadily increased the
+average life expectancy of individuals with
+SCI's (DeVivo, 1990; National SCI Statisti-
+cal Center, 1995), community-based pro-
+grams and services designed to reduce sec-
+ondary complications and promote the inde-
+pendence and health of individuals with
+SCI's have become increasingly important
+(Frieden, 1990; Lee, Brock, Dattilo, &
+Kleiber, 1993). Coyle, Shank, Kinney and
+Hutchins (1993) suggested that leisure inter-
+ventions designed to promote independence
+and health are an excellent way to enhance
+the quality of life of individuals with SCI's.
+Research has demonstrated that individu-
+als with physical disabilities receive numer-
+ous benefits from participation in physically
+active recreation experiences (Coyle, Shank,Kinney, & Hutchins, 1993; Jackson & Davis,
+1983). The benefits of participation in physi-
+cal activities include improved cardiovascu-
+lar fitness, flexibility, weight control, muscu-
+lar strength, and endurance (Dishman, 1994).
+The psychological benefits include de-
+creased depression, increased perceived con-
+trol, mastery, competence, empowerment,
+self-esteem, and overall feelings of well-be-
+ing (D'Urso & Logue, 1988). Individuals
+with physical disabilities may experience
+positive social integration and increased ac-
+ceptance from others without disabilities
+through participation in physical activity
+(Hedrick, 1982, 1986; Williams, 1995).
+However, not all physical activity is capable
+of producing these benefits for individuals
+with disabilities. Because of physical limita-
+tions, many individuals with physical disa-
+bilities are unable to independently achieve
+cardiovascular fitness in land-based activity
+(Campion, 1990; Cooper, 1982). Some of
+these limitations may be offset in aquatic
+related activities.
+Hurley and Turner (1991) suggested that
+for many individuals with disabilities the
+buoyancy, increased resistance and warmth
+of the water create an environment that is
+more conducive to achieving treatment goals
+than some land-based exercises. Physical ef-
+fects of activity in the water may include
+improved pulmonary functioning, strength,
+range of motion, circulation, balance and co-
+ordination, and decreased spasticity (Garvey,
+1991). Psychological benefits of AT include
+improved mood, enhanced self-esteem, body
+image, and decreased anxiety and depression
+(Benedict & Freeman, 1993; Berger &
+Owen, 1992).
+Third Quarter 1997 161
+In addition to physical and psychological
+benefits, successful experiences during AT
+may promote the development of swimming
+skills or other water activities as lifetime lei-
+sure pursuits (Broach & Dattilo, 1996; Cam-
+pion, 1990). Specifically, activity which
+matches an individual's level of perceived
+competence with his or her perceptions of
+challenge associated with that activity has
+the potential to result in positive experiences.
+The psychological state achieved during
+these experiences, commonly referred to as
+"flow," is characterized by the individual
+exerting a more concentrated, focused effort
+which results in increased enjoyment and a
+desire to continue to participate in the activ-
+ity (Csikszentmihalyi, 1990) leading to ac-
+tivity adherence. An AT program incorporat-
+ing a leisure pursuit such as swimming may
+provide participants with a realistic alterna-
+tive for maintaining and enhancing physical
+fitness, while contributing to their enjoyment
+because participants are developing a poten-
+tially life long recreation activity that can be
+enjoyed with other people (Broach & Dat-
+tilo, 1996; Campion, 1990). Therefore,
+aquatic therapy (AT) utilizing swimming
+and/or exercise activity to improve function
+is a viable intervention for individuals with
+SCFs (Broach & Dattilo, 1996; Garvey,
+1991).
+Regardless of the potential benefits of
+AT, these authors could not find any empiri-
+cally based studies which examined the ef-
+fects of AT on individuals with SCI's. There-
+fore, this study was designed to measure the
+efficacy of an AT program using swimming
+on the cardiovascular endurance and vital
+capacity of individuals with SCI.
+Methods
+Participants
+The participants in the study were Joe,
+Mary, Paul, and Rick, each of whom had a
+spinal cord related disability from injury or
+illness and used a wheelchair for mobility.
+Participants responded to notices containinga description of the study and the name and
+phone number of the first author that were
+posted in the rehabilitation center where the
+study was conducted. Participants registered
+for the AT program at the rehabilitation cen-
+ter, obtained physician's permission to par-
+ticipate, and completed required registration
+forms. The required registration forms in-
+cluded: (a) Health History, (b) Aquatic Pro-
+gram Application and Release, (c) Consent
+to be Photographed, and (d) Research Con-
+sent Form. An in-depth interview designed
+to obtain the individual's personal history,
+leisure profile, and perceived physical be-
+havior was conducted with each participant
+on the first day of baseline. None of the parti-
+cipants had ever engaged in an AT program
+that focused on swimming, or utilized swim-
+ming as a form of exercise for at least 7
+months prior to the intervention.
+Joe. Joe was a 63 year old Caucasian man
+who experienced a spinal stroke two years
+before this study which resulted in a T-7
+SCI. He is married, has two children and
+owns a consulting business. Joe stated that
+prior to the AT program, he exercised in the
+pool but did not swim laps, and lifted
+weights two times per week. In his free time,
+Joe stated that he watches two to three hours
+of television per day, enjoys spectator sports,
+driving and playing computer games. He
+stated that he has a swimming pool at home,
+but that he could not use it because he was
+not able to exit the pool independently. Re-
+garding his current activity level and endur-
+ance he stated:
+I'm bored. I've been considerably less
+active since my injury. Let's put it this
+way, if I tried to roll this chair for a
+mile I would be pretty pooped. I have
+a little problem getting in the car. . . .
+I can take care of myself, shower and
+stuff. Do I get tired? Yeah, I get tired
+of being in the chair and sitting all the
+time. I need to get out and stretch.
+162 Therapeutic Recreation Journal
+Joe stated that "I haven't learned much else
+but the computer" since his injury.
+Mary. Mary was a 29 year old Caucasian
+woman who has a T-10 SCI from contracting
+transverse mylitis at the age of 9. Mary is
+employed part-time at a rehabilitation facil-
+ity. She reported that her motivation to par-
+ticipate in AT stemmed from her desire to
+increase her physical activity and overcome
+a fear of swimming in a prone position. Rela-
+tive to her motives to participate in AT Mary
+stated:
+I want to be more physical. I have a
+lot of spacticity, and my legs are tight,
+tight, tight. That inhibits me some-
+time. This is why I was excited when
+I saw the flyer. I felt this is what I
+needed to get me going. ... I became
+afraid to swim on my stomach after I
+became paralyzed. ... I decided to
+teach myself how to swim last year
+but I wasn't very productive.
+Mary has a bachelors degree in fine arts and
+plans to continue her education in interpre-
+tive studies. She stated that during her free
+time she enjoys cooking, reading and camp-
+ing. Mary noted that time and fear of failure
+are primary factors that inhibit her from be-
+ing more active, "If I can't do it just right,
+I just won't do it."
+Paul. Paul was a 35 year old Caucasian
+man who sustained a T-6 level SCI six years
+ago. He is divorced and maintains dual cus-
+tody of two children whom he cares for every
+other weekend. Paul works 68-80 hours per
+week as a computer programmer and stated
+that his work prevents him from being more
+physically active. However, he tries to lift
+weights 2-3 times per week and enjoys the
+outdoors. Paul suggested that his free time
+is influenced by his social disposition and
+he considers himself a "hermit:" "I avoid
+social situations. I spend time with my kids.
+We go out and play and do stuff together."
+Prior to his injury, Paul spent much of histime in outdoor activity as indicated by his
+statements:
+I was a hiker-backpacker type person
+and then I got married and I sorta got
+out of it because she was not inter-
+ested. But I started returning to back-
+packing before the injury. I now like
+to look at stars so I do the telescope
+thing some.
+In regards to the aspects of his current leisure
+lifestyle that he would like to change, Paul
+stated that:
+I probably need to quit drinking. Uh,
+I guess that is about all I would
+change. Not that I am an alcoholic.
+Well, I would also like to be stronger.
+I am better, but it is not as much as I
+want. About a 5 on a scale of 1 to 10
+(in strength) and I am definitely short
+on stamina.
+Rick. Rick was a 34 year old African
+American man who sustained a T-12/L-1
+SCI 14 years ago. Rick is unemployed and
+engaged to be married. He stated that he ex-
+ercises at home 3 days per week. He enjoys
+staying active in his church, reading, and
+spending time with his children in recreation
+activities. Rick stated that he receives mas-
+sages and occasionally stands with the use
+of a walker to stimulate his thigh muscles
+and to decrease the spasticity in his legs. In
+regards to his independence he stated: ' 'I am
+a very independent person. I do not need
+help with much. I can do most of what I
+could do back then. Thank God for that."
+Rick's motivation for participating in the AT
+program was to increase his strength and en-
+durance and learn how to swim better. How-
+ever, he stated that he has a tendency to get
+frustrated when learning new skills because
+he wants to be good at it initially.
+Setting
+The study was conducted at the aquatics
+center of a large rehabilitation facility lo-
+Third Quarter 1997 163
+cated in the southeastern United States. The
+aquatic center has a fully accessible pool (25
+yds. in length) that offers multiple methods
+of entry including the following: 3' wide
+stairs with handrails, transfer wall, indepen-
+dently operated chair lift, a ramp, and net
+lift. The pool has a 30' long, 1 V2' deep area
+for sitting and is equipped with a 10' long,
+3-4' deep therapy area with a handrail. The
+water temperature was regulated from 86-
+90 degrees during the AT program.
+Design
+A single subject, multiple baseline design
+was used with four adults with SGI to deter-
+mine the effects of swimming on cardiovas-
+cular endurance and vital capacity. Al-
+though, Mary participated in the program for
+only 10 weeks due to scheduling conflicts
+with school, the three other participants re-
+mained in the program for 15 weeks. Joe
+began the intervention first after 5 baseline
+measures, Mary was second with 8 baseline
+measures, Paul began after 11 baseline mea-
+sures, and Rick after completing 12 out of
+a possible 15 baseline measures. Rick was
+absent for some measures because of illness.
+Although follow-up observation occurred
+with Joe, Paul and Rick 2.5 weeks after the
+conclusion of the intervention, Mary's fol-
+low-up was 3.5 weeks after the end of inter-
+vention due to scheduling conflicts.
+Experimental Procedures
+The study consisted of three phases: base-
+line, intervention, and follow-up. Baseline
+was used to establish each participant's sta-
+ble level of physical functioning for all de-
+pendent measures. The intervention con-
+sisted of 30 minutes of swimming instruction
+and 30 minutes of lap swimming. Swimming
+instruction was based on the Halliwick
+method (Campion, 1990). The Halliwick
+method is a ten point psychomotor learning
+process used to help individuals with disabil-
+ities become independent moving in the wa-
+ter (Lambeck, 1986). According to Lambeck(1986), this method does not use buoyancy
+aids and focuses on developing participant's
+water comfort, rotational control, balance,
+and basic movement. After participants be-
+came independent, the instruction was pro-
+vided to increase stroke efficiency, stroke
+repertoire, and range of motion. Lap swim-
+ming was designed to practice technique and
+improve strength and endurance. The in-
+structor was a certified therapeutic recreation
+specialist who was an aquatic therapist certi-
+fied in the Halliwick method, and water
+safety instruction. At the completion of the
+intervention, a follow-up phase was con-
+ducted to establish the maintenance effect of
+the intervention and to ascertain measures of
+social validity.
+Baseline
+During the baseline period, participants
+were asked to come to the rehabilitation cen-
+ter three times per week to complete the
+Cooper 12 Minute Swim Test, and measure
+their forced vital capacity, heart rate (HR),
+and blood pressure (BP). After testing, parti-
+cipants were offered the opportunity to en-
+gage in free swim.
+Intervention
+The intervention consisted of three regu-
+larly scheduled days in which participants
+arrived at the pool at least 30 minutes prior
+to the swimming program. Participants were
+tested with the identical procedures used dur-
+ing baseline. After testing, participants en-
+tered the pool for the Cooper 12 Minute
+Swim Test and then participated in swim-
+ming instruction. Specifically, over the
+course of the intervention, participants re-
+ceived 30 minutes of swimming instruction
+in comfort, rotational control, the elementary
+back stroke, front crawl, back crawl and
+breast stroke. After instruction, the partici-
+pants completed the 12 minute Cooper Swim
+Test and then participated in approximately
+30 minutes of lap swimming to practice their
+strokes and receive further individual in-
+struction regarding stroke technique.
+164 Therapeutic Recreation Journal
+Follow-up
+Participants were tested 2.5-3.5 weeks
+post-intervention to determine the mainte-
+nance effect of the program. Identical proce-
+dures associated with the baseline were fol-
+lowed with the addition of an in-depth social
+validity interview to ascertain the partici-
+pants' perceptions of the effects of the AT
+program.
+Data Collection
+The primary method of data collection
+included observations of endurance and
+forced vital capacity which was collected in
+a time series manner. Secondary measures
+which were not collected throughout the in-
+vestigation were obtained via a body fat test
+and social validity interviews. These mea-
+sures were used to provide additional infor-
+mation to improve understanding of the in-
+tervention but were not considered primary
+measures because data were not collected at
+regular intervals throughout the study.
+Direct Observations
+Endurance. The Cooper 12 Minute Swim
+Test was used to assess participants cardiore-
+spiratory fitness through swimming (Cooper,
+1982). A concurrent validity coefficient of
+.90 was demonstrated for the test using the
+rate of maximal oxygen uptake that males
+between the ages 17 to 52 consumed on a
+treadmill (Cooper, 1982). Treadmill tests us-
+ing the rate of oxygen consumption also re-
+vealed concurrent validity score of .90 for
+14 year old and college age males (Safrit,
+1986). Reliability coefficients generated
+from additional studies conducted with boys
+and girls ages 10 to 12 and boys ages 11 to
+13 ranged from .75 to .92 respectively. No
+reliability or validity scores are available for
+individuals with disabilities. The Cooper 12
+Minute Swim Test was conducted as fol-
+lows: participants began in the shallow end
+of the pool and on the signal to start, they
+pushed off from the side and swam as far as
+possible in 12 minutes using any stroke andresting when necessary. The trained observer
+recorded the lengths the participants com-
+pleted in the 12 minute period. After the test
+was completed, the participants continued
+slowly swimming to cool down.
+Vital Capacity. Vital capacity (VC) was
+measured using a respirometer to gauge
+forced expiratory volume. To measure VC,
+participants were asked to insert a mouth-
+piece, take as deep a breath as possible, and
+blow out to the maximum extent possible.
+The forced volume in cubic centimeters (cc)
+were recorded. The participants' vital capac-
+ity measures were taken prior to entering and
+immediately after they exited the pool.
+Observer Accuracy. To establish ob-
+server accuracy, the investigators observed
+volunteers performing the dependent mea-
+sures (i.e., 12 minute Swim Test and forced
+vital capacity). The first author conducted an
+initial measurement and recorded the scores.
+To increase accuracy, scores for each of the
+measures were recorded by two other trained
+observers. When the scores between the first
+author and the other two observers resulted
+in at least a 90% agreement, the investigators
+were deemed ready to collect data.
+Observer Agreement. To assess reliabil-
+ity, a primary and secondary observer re-
+corded measurements during 20% of the ses-
+sions (N = 12). Observer agreement was cal-
+culated by the number of agreements divided
+by the number of agreements plus the num-
+ber of disagreements on dependent mea-
+sures. Inter-rater agreement on the measures
+was consistently above 85%.
+Secondary Measures
+Body Fat Testing. Body fat testing was
+administered at the beginning of baseline and
+at the end of the intervention using a Futrex-
+5000A Body Fat and Fitness Computer. The
+accuracy level of this instrument is ± 2%
+(Futrex, Version 7.0). Body fat testing refers
+to the percentage of total body weight that
+is fat (Horvat & Kalakian, 1996). According
+to Horvat and Kalakian (1996), ideal fatness
+for good health ranges from 10-15% in
+Third Quarter 1997 165
+males and 15-20% in females. The authors
+added that ideal fatness promotes good
+health and motor skills.
+Social Validity Interviews. Initial and fol-
+low-up interviews were conducted by the au-
+thors using an interview guide. The purpose
+of the interviews were to ascertain partici-
+pants' perceptions of (a) study goals, (b) ef-
+fects of the intervention, (c) their physical
+functioning, and (d) their leisure participa-
+tion. The final interview was conducted after
+the study was completed to explore percep-
+tions of the program and assess participants'
+perceptions of the social validity of goals,
+procedures, effect and optimal level of per-
+formance (Wolf, 1978).
+Data Analysis
+The primary dependent measures for each
+participant were calculated and plotted on a
+graph. This procedure allowed the partici-
+pants' performance to be visually inspected
+and evaluated for change in trends, perfor-
+mance and levels of measurements. To help
+assess the level of each phase, the median
+score for each was calculated.
+The results of the secondary measure of
+body fat were recorded on a table for obser-
+vations of changed scores. Because repeated
+measurements of body fat were not collected
+during this study, these data were viewed as
+secondary sources of information to provide
+insight into the primary data measures ob-
+tained via observation.
+Based on suggestions by Patton (1990),
+the social validity interviews were tran-
+scribed and analyzed by coding the re-
+sponses to identify categories associated
+with the (a) program goals and (b) the effects
+of the program. Categories which emerged
+from the data included participants' percep-
+tions of how AT influenced their physical,
+social and leisure behaviors. The material
+was synthesized for each participant to estab-
+lish meaning related to perceptions of the
+AT program's social validity.Results
+The following data were observed during
+the baseline, intervention and follow-up
+phases for lap swimming and vital capacity.
+Results of the body fat tests and social valid-
+ity interviews provided additional informa-
+tion regarding the effects of the AT program.
+Lap Swimming
+Figure 1 shows the number of lengths it
+took Joe, Mary, Paul and Rick to complete
+the swimming task. During baseline, the par-
+ticipants swam a median of 10, 10, 11 and
+11 lengths, respectively. All participants
+demonstrated a stable trend across baseline
+prior to intervention. During intervention, all
+participants had an increasing trend with me-
+dian scores improving at least one length
+over the course of the program. Joe swam a
+median of 12 lengths (range 10-13) with at
+Baseline Swimming Intervention Follow-up
+FIGURE 1. NUMBER OF LENGTHS
+SWAM IN 12 MINUTES ACROSS FOUR
+PARTICIPANTS.
+166 Therapeutic Recreation Journal
+least a 50 yard improvement over baseline.
+Mary swam a median of 11 lengths (range
+10-12) with the last two weeks of interven-
+tion demonstrating a consistent score of 12
+lengths. Paul swam a median score of 12
+lengths (range 11-14) with the last 3 weeks
+of intervention averaging 14 lengths. Rick
+swam a median of 12 lengths (range 11-
+13). While Rick's median score did improve,
+Rick experienced considerable pain and
+spasticity over the course of the intervention
+due to a chronic urinary tract infection. This
+condition resulted in variable scores and ab-
+sences during the study. Although partici-
+pants' follow-up scores improved from base-
+line, their follow-up scores were below their
+average intervention scores.
+Vital Capacity
+Figure 2 shows the VC in cubic centime-
+ters for Joe, Mary, Paul and Rick before and
+after swimming. During baseline, partici-
+pants showed non-accelerating trends in VC.
+Specifically, Joe had a pre-swim median
+score of 3.8 (range 3.8-3.83) and a 3.9 post-
+swim score (range 3.82-3.42). Mary had a
+median pre-swim score of 3.2 (range 3.08-
+3.25) and 3.25 post-swim score (range 3.06-
+3.3). Paul had a median pre-swim score of
+5.0 (range 4.69-5.2) and 5.2 post-swim
+score (range 4.85-5.35). Finally, Rick had
+a median pre-swim score of 3.2 (range 2.5-
+3.28) and a post-swim score of 3.25 (range
+2.55-3.78).
+The intervention median VC scores for
+Joe were variable but accelerating with pre-
+swim scores of 4.55 (range 4-5.43) and
+post-swim scores of 5.3 (range 4.05-6.4). A
+comparison of the test scores from baseline
+to intervention reflect a .7 to 1.4 improve-
+ment in pre and post VC respectively, with
+a two point improvement in general acute
+scores. During intervention Mary had a me-
+dian pre-swim score of 3.2 (range 3.14-
+3.35) and a post-swim score of 3.4 (range
+3.2-3.6). Mary showed little improvement
+in VC when pre and post test median scores
+were compared from baseline to interventionBaseline Swimming Intervention Follow-up
+5 ... .10. . . .15. . ...... .25. . . .30. . . .35. . . .40. .......
+Sessions
+FIGURE 2. CUBIC CENTIMETERS OF
+FORCED VITAL CAPACITY ACROSS
+FOUR PARTICIPANTS.
+(0 and .2 pre to post test scores, respec-
+tively). Paul had a median pre-swim score
+of 4.9 (range 4.7-5.2) and a median post
+swim score of 5.0 (range 4.75-5.23). These
+results demonstrate a small improvement in
+acute scores of .1 and decelerating median
+scores of . 1 and .2 for pre and post test VC,
+respectively. However, Paul reported on his
+24 hour medical history that he had quit
+smoking during the fourth week of interven-
+tion and this may have affected his scores.
+Finally, Rick had a median pre-swim score
+of 3.1 during intervention (range 2.8-3.7)
+and a post-swim median score of 3.3 (range
+3.1-3.7). Although these scores show a
+small acute improvement of .25 during the
+intervention for post-swim scores, the scores
+decreased slightly by .1 from baseline pre-
+swim scores.
+Third Quarter 1997 167
+The pre and post swim scores during fol-
+low-up showed a maintenance effect for Joe
+with pre and post swim scores of 4.6 and
+5.4, respectively. Both scores were above his
+average intervention score. Mary had scores
+that were above baseline averages but not
+above post intervention median scores and a
+decelerating acute score with scores of 3.4
+and 3.3 for pre and post swim scores respec-
+tively. Paul's follow-up scores demonstrated
+a small acute improvement with pre and post
+swim scores 4.9 to 5.0, respectively. These
+scores were equal to intervention medians.
+Rick showed improved median scores from
+the intervention phase with pre and post
+swim scores of 3.5 and 3.55 respectively. In
+general, all participants showed a mainte-
+nance effect for the follow-up measures of
+VC for at least 2.5 weeks post intervention.
+Secondary Measures
+Body Fat Test. The body fat tests were
+administered prior to the intervention and
+after the intervention. Measures taken 2.5
+weeks post intervention indicated a decrease
+in body fat for all participants (see Table 1).
+The minimal change in Mary's body fat may
+have been influenced by Mary not receiving
+her post-intervention test for 3.5 weeks after
+the end of intervention or that she only re-
+mained in the intervention for 10 weeks due
+to a scheduling conflict.
+Social Validity Interviews. Interviews
+were conducted with each participant prior
+to and after the intervention to ascertain their
+perceptions of the AT program. Each partici-
+Percentage
+Participant
+Joe
+Mary
+Paul
+RickTable 1.
+of Body Weight that is
+Pre
+32.7
+25.7
+13.9
+14.4Fat
+Post
+24.6
+25.0
+11.9
+12.7pant reported numerous benefits related to
+the program.
+Participants' exit interview focused on
+the perceived physical and leisure benefits
+of the AT program. When asked about the
+difference between swimming and the exer-
+cise he was doing prior the intervention Joe
+stated:
+Swimming has improved my endur-
+ance and breathing. Swimming also
+exercises my arms in a different way
+than weights did. Let's face it, when
+I was walking, I never swam twelve
+consecutive minutes. I feel it has
+helped me keep my weight down. I
+feel the additional strength helps me
+in activities of daily living and it has
+improved my stamina (in activity).
+Joe emphasized the importance of being in-
+dependent in swimming which allowed him
+to continue participating in this activity: "I
+feel it was remarkable that I learned to propel
+myself in the water. Now I can do laps too.
+I plan on continuing three times per week."
+Regarding the social importance of the expe-
+rience Joe stated:
+I think it is a good experience because
+it teaches swimming while building
+strength and endurance and gives me
+a focus. I think it is good for handi-
+capped people to get in a pool rather
+than mold to a chair and watch TV.
+Mary expressed positive feelings regarding
+the physical effects of participation in the
+swim program when she stated:
+It made me feel good. Sometimes it
+was a little too structured, but I felt
+good getting the exercise. Physically,
+I felt different. I felt stronger and in
+better shape. I hope to continue if I
+can find the time. My comfort (in the
+water) has improved.
+168 Therapeutic Recreation Journal
+Mary commented on her unique perspective
+of being the only women in the program and
+how that played a role in the socialization
+which occurred during the program:
+I think it was interesting that I came
+to like the other guys. I remember the
+first day when I saw them and I went
+oh, I am the only female here and I
+do not have much in common with
+them. But they were really nice and I
+enjoyed being with them. So the so-
+cialization part ended up being nice.
+Paul's final interview reflected percep-
+tions of improved physical well-being and
+changes in patterns of exercise as he stated:
+I used to only workout in the weight
+room. This (swimming) is more aero-
+bic. I can feel the difference in my
+pushing. Me and my girls will some-
+times walk down to the bridge. It is
+about a half mile to the bridge and I
+can tell the difference on the hill. I am
+not breathing as hard and I can carry
+on a conversation with my girls rather
+than trying to catch my breath.
+In addition, Paul discussed how participation
+in the program had influenced his drinking
+patterns:
+I have been on the wagon for a week
+or so now. I am probably not an alco-
+holic but I was spending too much
+time in the bars. It made me sit back
+and think about my goals and what I
+wanted to do and that I wasn't going
+to accomplish it if I was going to con-
+tinue drinking and not reach the physi-
+cal condition I could reach.
+Regarding the program in general, Paul em-
+phasized that he was glad to increase his
+knowledge and skills in swimming when he
+stated that:It gives me something to do that is
+healthy and fun and does not cost any
+more money. Plus getting in better
+shape so I can do other things and
+meeting the nice people (are benefits
+of the program).
+In terms of his future plans, Paul stated that,
+"I will continue swimming. I will try to do
+at least a mile, and when I can do that I will
+increase my distance. That is my goal."
+Rick reported experiencing various phys-
+ical benefits from swimming especially in
+regards to the tightness in his legs and his
+spasticity, as he stated:
+It seems to help the legs and the whole
+body. I am not stiff like I use to be. I
+use to have to sit in the shower and
+let the water run over my body just to
+let it relax. My whole body is relaxed
+when I get home after swimming.
+Swimming is also a good workout for
+me. When you lift weights, you only
+work one portion of the body at a time.
+But in the water, you work every mus-
+cle just by swimming.
+Regarding the value of the program, Rick
+stated:
+All people in wheelchairs should do
+this. I think if a lot of people knew
+really how the water was, they would
+do it. I had no idea until I got in it. I
+didn't think I could do it. You can do
+more than you think. I am joining a
+swim team.
+Discussion
+Measurement of the effects of an AT
+swimming program (10-15 weeks, 3 X
+week) on participants with SCI, as measured
+by the Cooper 12 minute swim test, revealed
+that endurance increased for these four indi-
+viduals. Although follow-up scores of endur-
+Third Quarter 1997 169
+ance indicated that these effects decreased
+over time, follow-up scores still remained
+above baseline scores indicating a residual
+effect for a period of 2.5 weeks after the
+conclusion of the program. This finding sug-
+gests that although there is some residual
+effect from participation in an AT program,
+continued participation appears necessary to
+maintain gains in endurance. In addition, al-
+though small improvements in acute pre and
+post-test scores were demonstrated by all
+participants in VC, improved scores for VC
+were not observed.
+These results support literature examin-
+ing the effects of AT on endurance. For ex-
+ample, in an initial experiment by Edlund
+(1980) and a subsequent report by Edlund et
+al. (1986) the effects of a 12-week swim-
+ming therapy program on the strength, en-
+durance and pulmonary function of 12 chil-
+dren with cystic fibrosis and 11 children who
+did not receive AT were examined. Although
+a significant improvement was found in their
+clinical state of disease (p < .05) for both
+studies, the children did not significantly im-
+prove 'their pulmonary function. They did,
+however, show a statistically significant im-
+provement over the control group in endur-
+ance (p < .01). In another study with indi-
+viduals without disabilities, Burke and Kee-
+nan (1984) examined five women (M age 37)
+and five men (M age 33) volunteers using the
+elementary backstroke at various intensities
+(mild, medium and fast) to examine energy
+cost and to determine if heart rate and per-
+ceived exertion are useful for monitoring in-
+tensity. The American College of Sports
+Medicine's recommendations that healthy
+individuals work at 60%—90% of their maxi-
+mal heart rate reserve and reach a score be-
+tween 12-14 on the Borg Perceived Exer-
+tion Scale (Borg, 1970) were achieved dur-
+ing the medium and fast intensity periods.
+Endurance was examined by Wright and
+Cowden (1986) who measured the effect of
+swim training on teenagers with mental re-
+tardation in a non-randomized, pre-test/post-
+test control group study with one group of25 who participated in a training program
+and a control group of 25 who did not partici-
+pate in exercise. Results showed that this
+program contributed to a significant increase
+in cardiovascular endurance (p < .05) for
+participants in the experimental group when
+compared to the control group. Similarly, the
+results of this study with participants who
+have SCI supports the potential effects for
+AT to have a positive influence on partici-
+pants endurance.
+Although repeated measures of body fat
+were not taken, decreased levels of partici-
+pants' percentage of body fat from the begin-
+ning of the program provide some support
+that participants increased their fitness level.
+Must, Jacques, Dallali, Bajema, and Dietz
+(1992) emphasized that as many as 40 mil-
+lion or more Americans are obese, which
+means their body fat content exceeds 25%
+(men) or 30% (women) of their total body
+weight. While these figures are not specific
+to people with disabilities, considering these
+data in conjunction with Krause and Crew's
+(1987) observation that after injury individu-
+als with SCI increased their sedentary activ-
+ity creates reason for concern. While de-
+creased body fat was observed for all four
+participants, there was an indication that the
+program may have an even greater effect
+for those considered to be overweight. For
+example, prior to the program, Joe's body
+fat was 32.7%, the highest of all participants.
+Joe reduced his total percentage of body fat
+to 24.6 over the course of the intervention.
+Based on the social validity interviews,
+all participants indicated a desire to continue
+to swim after the conclusion of the study.
+This choice supports the conclusion drawn
+from an AT study conducted with individu-
+als with multiple sclerosis (Broach, Groff,
+Dattilo, Yaffe, & Gast, 1996) that one advan-
+tage of teaching leisure skills during therapy
+is that it can enhance physical functioning
+while encouraging participation in that activ-
+ity. The desire to continue to swim is evi-
+denced in the interview statements by parti-
+cipants in regards to their goals to continue
+170 Therapeutic Recreation Journal
+swimming. The positive responses reported
+and a desire to continue swimming suggest
+that participants may have viewed swim-
+ming as a leisure experience.
+Recommendations for Research
+This study provides support for the use
+of an AT swimming program to improve the
+endurance of individuals with SCI. Further
+research is needed to replicate these findings
+and improve the external validity of the
+study. In addition, more research is needed
+to examine alternatives to passive exercise
+for individuals with SCI and to more fully
+understand how swimming influences func-
+tioning. Future studies with individuals with
+SCI may benefit from examination of per-
+ceived exertion and range of motion. Studies
+which include measures of flow, social inter-
+action, enjoyment and affect could help ex-
+amine the psychological impact of AT. Ex-
+ploration of factors that contribute to a desire
+to continue an activity may assist therapists
+using AT interventions to work toward con-
+tinuing participants' active leisure lifestyle
+after rehabilitation goals have been achieved.
+In addition, to increase the precision of infor-
+mation derived from lap swimming, future
+studies using these methods may include
+measurements reported in yards rather than
+pool lengths. Finally, involving participants
+with other disabling conditions such as those
+with acute injuries, cystic fibrosis, muscular
+dystrophy, exercise induced asthma or those
+who have higher cervical or thoracic injuries
+may be helpful.
+Recommendations for Practice
+According to Lee, Brock, Dattilo, and
+Kleiber (1994), SCI is an injury that influ-
+ences all aspects of an individual's life. The
+authors concluded from an examination of
+the literature that increased free time associ-
+ated with many who acquire a disability re-
+sults in an increase in the value of leisure
+participation. Therefore, therapeutic recre-
+ation specialists are encouraged to providetherapy that not only improves physical
+function, but facilitates adherence to activi-
+ties after rehabilitation. Accordingly, facili-
+tating independence in a leisure activity such
+as swimming though an AT intervention is
+recommended for appropriate participants'
+with SCI. In addition, because inpatient
+lengths of stay are decreasing (Carter, 1991),
+practitioners are sometimes unable to pro-
+vide extensive therapeutic recreation ser-
+vices. Therefore, opportunities for individu-
+als with SCI to receive post-discharge com-
+munity based rehabilitation using therapeutic
+recreation resources are recommended. AT
+is one modality that therapeutic recreation
+specialists can use to assist an individual
+with SCI to improve function while learning
+a life-time leisure skill.
+Conclusion
+This study provides support for the use
+of an AT swimming to improve the endur-
+ance of adults with SCI. Although results of
+the Cooper 12 minute swim test revealed that
+endurance increased for these four individu-
+als, scores for improved VC were not ob-
+served. The finding that the follow-up scores
+of endurance decreased but were still above
+baseline scores suggested that, although
+there is some residual effect from participa-
+tion in an AT program, continued participa-
+tion in aquatic activity is necessary to main-
+tain gains in endurance. The positive re-
+sponses and desire to continue participation
+in the program reported by the participants
+during the social validity interviews sug-
+gested that participants may have viewed
+swimming as a leisure experience.
+References
+Benedict, A. & Freeman, R. (1993). The effect
+of aquatic exercise on aged person's bone density,
+body image and morale. Activities, Adaptation &
+Aging, 17, 67-85. Champaign, IL: Human Kinet-
+ics Publishers.
+Berger, B. & Owen, D. (1992). Mood alteration
+Third Quarter 1997 171
+with yoga and swimming: Aerobic exercise may
+not be necessary. Perceptual and Motor Skills, 75,
+1331-1343.
+Broach, E. & Dattilo, J. (1996). Aquatic ther-
+apy: A viable therapeutic recreation intervention.
+Therapeutic Recreation Journal, 30, 213—239.
+Broach, E., Groff, D., Dattilo, J., Yaffe, R., &
+Gast, D. (in press). The effects of aquatic therapy
+on adults with multiple sclerosis. Annual in Thera-
+peutic Recreation.
+Borg, B. V. (1970). Perceived exertion as an
+indicator of somatic stress. Scandinavian Journal
+of Rehabilitation Medicine, 2, 92-98.
+Burke, E. J. & Keenan, M. D. (1984). Energy
+cost, heart rate, and perceived exertion during the
+elementary backstroke. The Physician and Sports
+Medicine, 12(12), 75-79.
+Campion, M. R. (1990). Adult hydrotherapy.
+Oxford: Heinemann Medical Books.
+Campion, M. R. (1985). Hydrotherapy in pedi-
+atrics. Oxford: Heinemann Medical Books.
+Carter, M. J. (1991). Designing therapeutic
+recreation programs in the community. Reston,
+VA: AAHPERD.
+Cooper, K. H. (1982). The aerobics program
+for total well-being. New York: M. Evans and
+Company.
+Coyle, C. P., Shank, J. W., Kinney, W. T., &
+Hutchins, D. A. (1993). Psychosocial functioning
+and changes in leisure lifestyle among individuals
+with chronic secondary health problems related to
+spinal cord injury. Therapeutic Recreation Jour-
+nal, 27, 239-252.
+Csikszentmihalyi, M. (1990). Flow: The psy-
+chology of optimal experience. New York: Harper
+Collins.
+Dishman, R. (1994). Advances in exercise ad-
+herence. Champaign, IL: Human Kinetics.
+D'Urso, M. & Logue, G. (1988). Competitive
+adapted sport for impaired older adults. Therapeu-
+tic Recreation Journal, 22, 56—64.
+DeVivo, M. J. (1990). Life expectancy and
+causes of death for persons with spinal cord injur-
+ies. In D. F. Apple & L. M. Hudson (Eds.), Spinal
+cord injury: The model proceedings of the national
+consensus conference on catastrophic illness and
+injury (pp. 66—71). Atlanta: Shepherd Center.
+Edlund, L. D. (1980). Effects of a swimming
+program on cystic fibrosis children. DissertationAbstracts International, 35(01), (University Mi-
+crofilms No. H420E414.E33).
+Edlund, L. D., French, R. W., Herbst, J. J.,
+Ruttenberg, H. D., Ruhling, R. O., & Adams, T. D.
+(1986). Effects of a swimming program on chil-
+dren with cystic fibrosis. American Journal of Dis-
+eases in Children, 140, 80-83.
+Frieden, L. (1990). Community integration and
+follow-up. In D. F. Apple and L. M. Hudson
+(Eds.), Spinal cord injury: The model proceedings
+of the national consensus conference on cata-
+strophic illness and injury (pp. 38-41). Atlanta:
+Shepherd Center.
+Garvey, L. A. (1991). Spinal cord injury and
+aquatics. Clinical Management, 11, 21-24.
+Hedrick, B. N. (1982). Promoting the active
+sport participation of the physically disabled by
+enhancing their perceptions of competence. In G.
+Hitzhusen (Ed.) Expanding horizons in therapeutic
+recreation, IX (pp. 155-167). Missouri: Curators
+University of Missouri.
+Hedrick, B. N. (1986). Wheelchair sport as a
+mechanism for altering the perceptions of the non-
+disabled regarding their disabled peers' compe-
+tence. Therapeutic Recreation Journal, 20, 72-84.
+Horvat, M., & Kalakian, L. (1996). Assessment
+in adapted physical education and therapeutic rec-
+reation. Dubuque, IA: Brown & Benchmark.
+Hurley, E., & Turner, C. (1991). Neurology
+and aquatic therapy. Clinical Management, 11(1),
+26-30.
+Jackson, R. W., & Davis, G. M. (1983). The
+value of sports and recreation for the physically
+disabled. In M. Korn (Ed.), Orthopedics Clinics
+of North America, 14 (pp. 301-315). Philadelphia:
+W. B. Saunders.
+Krause, J. S., & Crew, N. M. (1987). Predic-
+tion of long-term survival of persons with spinal
+cord injury: An 11 year prospective study. Reha-
+bilitation Psychology, 32, 205-213.
+Krause, J. S., & Kjorsvig, J. M. (1992). Mor-
+tality after spinal cord injury: A four-year prospec-
+tive study. Archives of Physical Medicine and Re-
+habilitation, 73, 558-563.
+Lee, Y., Brock, S., Dattilo, J., & Kleiber, D.
+(1993). Leisure and adjustment to spinal cord in-
+jury: Conceptual and methodological suggestions.
+Therapeutic Recreation Journal, 27, 200—211.
+Must, A., Jacques, P., Dallali, G. E., Bajema,
+C. J., & Dietz, W. H. (1992). Long-term morbidity
+and mortality of overweight adolescents. New En-
+gland Journal of Medicine, 372, 1350-1355.
+172 Therapeutic Recreation Journal
+Patton, M. Q. (1990). Qualitative evaluation Williams, T. (1995). Disability sport socializa-
+and research methods. Newbury Park, CA: Sage tion and identity construction. Adapted Physical
+Publications. Activity Quarterly, 11, 14-31.
+Safrit, M. J. (1986). Introduction to measure- Wolf, M. (1978). Social validity: The case for
+ment in physical education and exercise science. subjective measurement or how applied behavior
+St. Louis: Times Mirror/Moseby. analysis found its heart. Journal of Applied Behav-
+ior Analysis, 11, 203-214.
+Smith, R. (1992). Kids take the plunge. Reha-
+bilitation Management, 12, 31-36. . Wright, J., & Cowden, J. E. (1986). Changes
+in self-concept and cardiovascular endurance of
+National SCI Statistical Center (1995). Spinal mentally retarded youths in a Special Olympics
+cord injury: Facts and figures at a glance. Bir- swim training program. Adapted Physical Activity
+mingham, AL: Spain Rehabilitation. Quarterly, 3, 177-183.
+Third Quarter 1997 173

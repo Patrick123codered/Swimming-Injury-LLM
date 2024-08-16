@@ -1,0 +1,1529 @@
+Aquatic  Toxicology  126 (2013) 116–  127
+Contents  lists  available  at  SciVerse  ScienceDirect
+Aquatic  Toxicology
+jou  rn  al  h  om  epa  ge:  www.elsevier.com/locate/aquatox
+Subtle  alterations  in  swimming  speed  distributions  of  rainbow  trout  exposed  to
+titanium
+ dioxide  nanoparticles  are  associated  with  gill  rather  than  brain  injury
+David Boylea,  Genan  A.  Al-Bairutya,  Christopher  S.  Ramsdena,  Katherine  A.  Slomanb,
+Theodore
+ B.  Henrya,c,  Richard  D.  Handya,∗
+aEcotoxicology Research  and  Innovation  Centre,  School  of  Biomedical  and  Biological  Sciences,  University  of  Plymouth,  Devon,  UK
+bSchool  of  Science,  University  of  the  West  of  Scotland,  Paisley,  UK
+cDepartment  of  Forestry  Wildlife  and  Fisheries,  and  Center  for  Environmental  Biotechnology,  The  University  of  Tennessee,  Knoxville,  TN  37996,  USA
+a  r  t  i  c  l  e  i  n  f  o
+Article  history:
+Received  26  July  2012
+Received
+ in  revised  form  5  October  2012
+Accepted
+ 9  October  2012
+Keywords:
+Locomotion
+Oncorhynchus mykiss
+Hypoxia
+Bioenergetics
+Nanomaterials
+Neurotoxicitya b  s  t  r  a  c  t
+The  effects  of  engineered  nanomaterials  on  ﬁsh  behaviours  are  poorly  understood.  The  present  study
+aimed  to  determine  the  locomotor  behaviours  of  trout  during  waterborne  exposure  to  titanium  dioxide
+nanoparticles (TiO 2NPs)  as  well  as  inform  on  the  underlying  physiological  mechanisms  involved.  Trout
+were exposed  to  either  control  (without  TiO 2),  1  mg  l−1TiO 2NPs  or  1  mg  l−1bulk  TiO 2for  14  days.  Titanium
+dioxide exposure  resulted  in  31  (bulk)  and  22  fold  (nano)  increases  in  the  Ti  concentrations  of  gill  tissue
+compared  to  controls,  but  there  were  no  measurable  increases  of  Ti  in  the  internal  organs  including  the
+brain.  Gill  pathologies  were  observed  in  both  TiO 2treatments.  Locomotor  behaviours  were  quantiﬁed
+using video  tracking  software  and  the  proportion  of  time  spent  swimming  at  high  speed  (>20  cm  s−1)  was
+signiﬁcantly decreased  in  ﬁsh  exposed  to  TiO 2NPs,  compared  to  controls,  but  not  ﬁsh  exposed  to  bulk
+TiO 2.  The  shift  in  swimming  speed  distribution  in  the  TiO 2NP-exposed  ﬁsh  was  associated  with  decreased
+area  of  red  pulp  in  the  spleen,  increases  in  haematocrit  and  whole  blood  haemoglobin,  all  consistent  with
+a compensation  for  respiratory  hypoxia  without  the  accumulation  of  plasma  lactate.  Fish  exposed  to
+TiO 2NPs  also  retained  competitive  abilities  when  paired  with  controls  in  aggressive  social  encounters.
+The duration  of  competitive  contests,  the  level  of  aggression  and  contest  outcome  were  not  affected  by
+NP exposure.  Neurological  injury  did  not  explain  the  changes  in  locomotor  behaviour,  although  there
+was  some  apparent  enlargement  of  the  blood  vessels  on  the  brain.  Whole  brain  homogenates  showed  a
+statistically signiﬁcant  increase  in  oxidative  stress  defences  such  as  the  total  glutathione  pool,  but  without
+loss of  Na+K+-ATPase  or  acetylcholinesterase  activities.
+© 2012 Elsevier B.V. All rights reserved.
+1.  Introduction
+The ecotoxicity  of  engineered  nanomaterials  (ENMs)  has  been
+the subject  of  intense  research  in  the  last  ﬁve  years  (reviews,
+Moore,  2006;  Handy  et  al.,  2008;  Klaine  et  al.,  2008;  Kahru  and
+Dubourguier, 2010;  Klaine  et  al.,  2012 ).  Concerns  have  been  raised
+about the  effects  of  nano  metals  on  ﬁshes  (Shaw  and  Handy,  2011 ),
+and also  on  the  sublethal  effects  of  ENMs  on  the  different  body  sys-
+tems of  ﬁsh  (Handy  et  al.,  2011 ).  In  general,  sparingly  soluble  metal
+or metal oxide ENMs are acutely toxic to ﬁshes at high mg l−1con-
+centrations, with  sublethal  effects  on  body  systems  occurring  at
+concentrations around  1  mg  l−1or  less  (Handy  et  al.,  2011 ).
+∗Corresponding
+ author  at:  School  of  Biomedical  and  Biological  Sciences,  Univer-
+sity  of  Plymouth,  Drake  Circus,  Plymouth  PL4  8AA,  UK.  Tel.:  +44  1752  584630;
+fax:
+ +44  1752  584605.
+E-mail  address:  r.handy@plymouth.ac.uk (R.D.  Handy).Sublethal
+ effects  associated  with  exposure  to  TiO 2nanoparticles
+(TiO 2NPs) in  the  laboratory  are  documented  for  some  body  systems
+in ﬁshes.  These  include  damage  to  the  gill  epithelium  and  some  loss
+of sinusoid  space  with  foci  of  lipidosis  in  the  liver  of  rainbow  trout
+(Oncorhynchus
+ mykiss )  during  14  day  exposures  to  1  mg  l−1TiO 2
+NPs (Federici  et  al.,  2007 ).  Alterations  of  the  proportions  of  red  and
+white pulp  in  the  spleen  have  also  been  observed  in  trout,  with  con-
+cerns for  the  function  of  the  haematopoietic  system  (Handy  et  al.,
+2011 ).  Renal  function  appears  to  be  largely  unaffected  by  injec-
+tions of TiO 2NPs in  trout  (Scown  et  al.,  2009 ).  However,  the  effects
+of
+ ENMs  on  the  central  nervous  system  of  ﬁshes  are  poorly  under-
+stood (see  discussion  in  Handy  et  al.,  2011 ).  The  brain  is  known  for
+its lack  of  tolerance  to  hypoxia  and  sensitivity  to  oxidative  stress.  In
+the brain  of  carp  (Cyprinus  carpio )  TiO 2NPs  caused  dose-dependent
+increases
+ in  thiobarbituric  acid  reactive  substances  (TBARS),  a
+marker of  lipid  peroxidation  (Hao  et  al.,  2009 ).  Changes  in  TBARS
+were also  reported  in  whole  brain  homogenates  from  rainbow  trout
+exposed
+ to  1  mg  l−1TiO 2NPs  (Federici  et  al.,  2007 ).  There  are  also
+concerns for  the  electrical  properties  of  the  nervous  system,  with
+0166-445X/$  –  see  front  matter ©   2012 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.aquatox.2012.10.006
+D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127 117
+inhibition of  Na+/K+-ATPase  in  trout  brain  following  chronic  dietary
+exposure
+ to  TiO 2NPs  (Ramsden  et  al.,  2009 ).  However,  electrophys-
+iological studies  on  isolated  crab  nerve  preparations  indicate  the
+ability of  peripheral  nerve  to  generate  action  potentials  may  not  be
+affected (Windeatt  and  Handy,  2012 ).  Some  subtle  brain  patholo-
+gies
+ are  also  reported  in  ﬁsh  (Federici  et  al.,  2007 )  and  mammals
+(Wang  et  al.,  2007 )  during  exposures  to  TiO 2NPs.  Together,  these
+studies raise  the  possibility  that  the  brain  may  be  a  sensitive  target
+for the  effects  of  TiO 2NPs  with  implications  for  neural  functions,
+and consequently,  animal  behaviours.
+The
+ idea  that  contaminants  can  alter  the  behaviour  of  ﬁshes
+is well  known,  and  effects  on  behaviour  can  occur  at  much  lower
+exposure concentrations  than  expected  for  traditional  toxicological
+end points  (see  Scott  and  Sloman,  2004  for  a  review).  Behaviour  is
+therefore
+ regarded  as  a  sensitive  indicator  of  pollutant  exposure  in
+ﬁshes. It  is  also  ecologically  relevant  in  terms  of  bioenergetics  and
+the survival  of  ﬁsh  populations.  In  active  ﬁshes  such  as  trout,  indi-
+viduals may  spend  around  two  thirds  of  their  daily  energy  budgets
+on locomotion  (Priede,  1985 )  as  part  of  essential  behaviours  like
+foraging, evading  predators  and  defending  territories.  In  addi-
+tion,
+ many  ﬁshes  live  in  schools  and  social  interactions  between
+conspeciﬁcs often  determine  their  position  in  hierarchies,  and  con-
+sequently their  access  to  food.  In  salmonids,  these  interactions  can
+be aggressive  and  are  characterised  by  increased  metabolic  rate
+and mobilisation  of  energy  reserves;  often  revealing  ﬁtness  dis-
+parities
+ between  ﬁsh  (Sloman  et  al.,  2000 ;  review  by  Sloman  and
+Armstrong, 2002 ).  Metal  exposures  can  have  profound  effects  on
+ﬁsh behaviour.  For  example,  trout  exposed  to  dietary  copper  will
+reduce
+ locomotion  in  order  to  preserve  growth,  body  maintenance,
+and tissue  repair  (Handy  et  al.,  1999 )  and  may  even  lose  daily  cir-
+cadian rhythms  of  activity  (Campbell  et  al.,  2002 ).  Metals  also  alter
+the ability  of  ﬁsh  to  form  social  groups  (e.g.  Cd,  Sloman  et  al.,  2003a,
+2003b ; Cu,  Campbell  et  al.,  2005 ).  However,  the  behavioural  effects
+of
+ ENMs  are  largely  unknown.
+The aims  of  this  study  were  ﬁrstly  to  determine  whether  or  not
+TiO 2NPs caused  changes  in  the  locomotor  behaviour  or  competi-
+tive abilities  of  trout,  and  if  so,  whether  or  not  this  was  associated
+with underlying  changes  in  the  animal’s  physiology.  Neurotoxicity
+is
+ only  one  of  several  possible  explanations  for  changes  in  animal
+behaviour and  our  approach  was  therefore  to  take  an  overview  by
+measuring Ti  metal  concentrations  in  the  tissues,  adverse  effects
+on several  physiological  processes  (osmoregulation,  haematology,
+defences
+ to  oxidative  stress),  as  well  as  organ  pathologies  including
+the brain.  Finally,  the  effects  of  ordinary  titania  on  ﬁsh  behaviours
+have not  been  described,  and  a  bulk  TiO 2treatment  was  included  to
+revisit the  assumption  that  bulk  titania  is  not  hazardous  to  ﬁshes.
+2.
+ Materials  and  methods
+2.1. Experimental  design
+Juvenile
+ rainbow  trout  (24.0  ±  3.7  g,  mean  ±  standard  devia-
+tion (S.D.),  n  =  32)  were  obtained  from  a  local  supplier  (Torre
+ﬁshery, Watchet,  Somerset,  UK)  and  maintained  in  aerated,  dechlo-
+rinated, recirculating  Plymouth  tap  water  (see  below  for  ionic
+composition)
+ for  three  weeks  prior  to  onset  of  experimentation.
+The background  concentration  of  Ti  in  the  water  was  below  the
+detection limit  (<1.3  /H9262g  l−1,  n  =  6  samples,  see  Section  2.4).  Stock
+ﬁsh
+ were  fed  twice  daily  with  a  commercial  trout  diet  (EWOS,
+Westﬁeld, UK)  until  48  h  prior  to  experimentation.  Fish  were  ran-
+domly allocated  to  experimental  glass  tanks  containing  20  l  of
+Plymouth  tap  water.  The  continuously  aerated  water  had  the  fol-
+lowing  composition  (means  ±  S.D.  n  =  36–156  measurements,  in
+mmol l−1):  Ca2+,  0.52  ±  0.07;  K+,  0.06  ±  0.01;  Mg2+,  0.17  ±  0.01;  Na+,
+0.75  ±  0.11;  pH  7.2  ±  0.2;  dissolved  oxygen  8.3  ±  0.5  mg  l−1;  NH3,0.008
+ ±  0.003  mg  l−1;  temperature,  15  ±  1◦C.  Fish  were  held  in  a
+14 h light: 10 h dark photoperiod (350–400 lux  lighting  to  comply
+with
+ ethical  approval)  and  were  allowed  to  rest  overnight  (unfed)
+prior to  the  ﬁrst  dosing.
+Fish were  exposed  to  either  a  control  (without  TiO 2),  1  mg  l−1
+TiO 2NPs, or  1  mg  l−1bulk  TiO 2in  a  quadruplicate  test  design
+(n =  4  replicate  aquaria/treatment;  equating  to  14  ﬁsh/tank  or  56
+ﬁsh/treatment)
+ for  14  days.  The  exposure  concentrations  were  cho-
+sen to  enable  direct  comparison  with  our  previous  studies  on  trout
+(Federici  et  al.,  2007 ).  After  14  days  tissues  were  collected  imme-
+diately from  8  ﬁsh  (2/tank)  from  each  treatment  to  assess  Ti  metal
+concentrations in  the  tissues,  trace  element  homeostasis,  haema-
+tology, histopathology, as well as for biochemistry (Sections 2.3,
+2.4, 2.5  and  2.6).  At  14  days,  additional  randomly  selected  ﬁsh
+from each  treatment  were  also  subject  to  behavioural  measure-
+ments. These  were  either  an  assessment  of  spontaneous  swimming
+speeds by  video  tracking,  or  competitive  interactions  studies  with
+pairs
+ of  ﬁsh  from  the  different  treatment  group  to  (Sections  2.7
+and 2.8).  No  ﬁsh  was  used  in  both  behavioural  assays.  Plasma
+and tissue  samples  were  also  collected  from  ﬁsh  that  were  video
+tracked for  biochemical  assays  (Section  2.5).  The  exposures  in  half
+the tanks  were  staggered  by  48  h  for  logistical  reasons  to  enable  all
+the
+ behavioural  measurements  to  be  made,  as  it  was  only  possi-
+ble to  perform  behavioural  observations  in  n  =  8  pairs  of  trout  and
+record movements  of  n  =  8  ﬁsh  using  video  tracking  software  per
+day
+ (Sections  2.7  and  2.8).
+The dosing  was  achieved  using  the  semi-static  exposure  method
+of Federici  et  al.  (2007) ,  with  minor  modiﬁcations.  Brieﬂy,  each  tank
+was dosed  with  2  ml  of  the  appropriate  stock  dispersion  (Section
+2.2)  with
+ the
+ aeration
+ rapidly
+ spreading
+ the
+ material
+ in
+ the
+ tank
+water.
+ An  80%  water  change  was  conducted  every  12  h,  and  the
+relevant tanks  re-dosed  with  either  1.6  ml  of  bulk  TiO 2or  TiO 2NP
+as appropriate.  To  minimise  the  normal  aggressive  behaviours  of
+hungry trout  (essential  to  animal  husbandry),  ﬁsh  were  fed  twice
+during
+ the  experiment  (days  8  and  12)  with  a  1.5%  body  weight
+maintenance ration.  This  was  done  post  water  change  but  prior  to
+re-dosing to  minimise  the  risk  of  ingestion  of  TiO 2during
+ feeding.
+All food  was  consumed  immediately  in  all  tanks  on  both  occasions.
+The entire  experiment  was  under  ethical  approval  and  ﬁsh  were
+subject
+ to  independent  health  checks  during  the  work.
+2.2.  Titanium  dioxide  stock  suspensions
+Nano and  bulk  forms  of  TiO 2were  obtained  from  DeGussa
+AG (“Aeroxide”  P25,  supplied  by  Lawrence  Industries,  Tamworth,
+UK) and  ACROS  (New  Jersey,  USA)  respectively.  The  P25  material
+was
+ the  same  batch  used  by  Federici  et  al.  (2007)  and  accord-
+ing to  the  manufacturer’s  revised  information  was  25%  rutile:  75%
+anatase, >99%  purity  as  TiO 2(maximum  stated  impurity,  1%  Si)
+with a  mean  particle  size  of  21  nm  and  a  speciﬁc  surface  area
+of 50  ±  15  m2g−1.  The  manufacturer’s  data  on  the  bulk  TiO 2was
+limited
+ to  purity  information  (98–100.5%  pure  TiO 2).  However,
+our scoring  of  the  different  proportions  of  the  crystal  structures
+from transmission  electron  micrographs  (TEM,  JEOL  12000EXII,
+Tokyo, Japan)  showed  mineral  composition  was  (means  ±  S.D.,
+n
+ =  10  micrographs)  25  ±  5%  rutile  and  75  ±  5%  anatase.
+Stock dispersions  (500  ml)  of  10  g  l−1bulk  TiO 2or  TiO 2NPs
+(nominal concentrations)  were  prepared  in  ultrapure  water  (Milli-
+Q®,
+ Millipore  Corporation)  and  stored  in  acid-washed  Nalgene
+bottles. Stocks  were  stirred  overnight  (2400  rpm,  Magnetic  Stir-
+rer SM1,  Stuart  Scientiﬁc,  UK)  and  then  subsequently  the  entire
+500  ml  was  sonicated  (500  ml,  4◦C,  35  kHz  frequency,  Fisherbrand
+FB  11010,  Germany)  for  1  h.  The  sonication  step  was  repeated
+each day immediately prior to dosing the experimental tanks to
+ensure  reasonably  dispersed  material  was  added  to  the  tanks.
+118 D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127
+Measurement of  primary  particle  sizes  was  done  manually  from
+TEM
+ images  of  1  g  l−1dilution  of  the  stocks  above  (to  enable
+visualisation of  the  particles).  The  primary  particle  sizes  were
+(means ±  S.D.,  n  =  100)  134  ±  42  nm  and  24  ±  10  nm  of  bulk  TiO 2
+and TiO 2NPs  respectively.  Dispersion  of  the  10  g  l−1bulk  TiO 2and
+TiO 2NPs
+ stocks  above  were  conﬁrmed  by  nanoparticle  tracking
+analysis of  10  mg  l−1dilutions  of  the  10  g  l−1stocks  that  were  pre-
+pared in  ultrapure  water  immediately  after  sonication  (Nanosight
+LM 10,  Nanosight,  Salisbury,  UK).  Mean  aggregate  sizes  of  TiO 2were
+(means ±  S.D.,  n  =  3):  211  ±  3  nm  and  96  ±  40  nm  for  bulk  TiO 2and
+TiO 2NPs
+ respectively.  Particle  size  distributions  of  bulk  TiO 2and
+TiO 2NPs were  signiﬁcantly  different  (p  =  0.023,  n  =  3,  two  sample
+Kolmogorov–Smirnov test).
+2.3.
+ Haematology  and  plasma  analysis
+Haematological analyses  were  performed  according  to  Handy
+and Depledge  (1999) .  Brieﬂy,  two  ﬁsh  per  tank  (8/treatment)  were
+terminally anaesthetised  in  buffered  MS222,  weighed  and  the  total
+length recorded.  Blood  was  immediately  withdrawn  by  caudal
+puncture
+ with  a  heparinised  syringe  and  sub-samples  of  whole
+blood were  collected  in  haematocrit  tubes  for  measurement  of
+packed red  blood  cell  volume  after  centrifugation  (13000  rpm,
+2 min,  Heraeus  pico  17  microcentrifuge),  and  the  percent  haema-
+tocrit (HCT)  recorded.  Then,  20  /H9262l  of  whole  blood  was  diluted
+to
+ 5  ml  with  Drabkin’s  reagent  (Sigma–Aldrich,  UK)  to  measure
+haemoglobin (Hb).  A  further  20  /H9262l  of  whole  blood  was  ﬁxed  in
+Dacie’s ﬂuid  (0.1  M  tri  sodium  citrate,  2.5  mmol  l−1cresyl  blue,  in
+1%
+ formalin)  for  red  blood  cell  counts.  The  remaining  blood  was
+centrifuged (MSE  microcentaur,  13,000  rpm,  2  min)  and  osmolar-
+ity (Osmomat  030,  Gonotec,  UK),  Na+and K+(Model  420  Flame
+Photometer, Sherwood  Scientiﬁc  Ltd,  UK)  were  measured  in  the
+plasma. After  sampling,  tissues  were  dissected  in  the  order  of  gill,
+intestine,
+ liver,  spleen,  kidney,  muscle  and  brain  for  trace  element
+analysis (Section  2.4).
+2.4. Tissue  ion  analysis
+The
+ methodology  for  Ti  determination  from  TiO 2particles
+involved a  modiﬁed  acid  digestion  and  sample  preparation  with
+Triton-X100 that  eliminates  the  need  for  strong  hydroﬂuoric  acid
+digestion to  dissolve  Ti,  and  enables  the  detection  of  Ti  directly  from
+dispersed
+ particles  by  inductively  coupled  plasma  optical  emis-
+sion spectrophotometry  (ICP-OES,  Ramsden  et  al.,  in  review,  patent
+pending). Brieﬂy,  samples  (approximately  0.1–0.5  g)  of  gill  (second
+and third  gill  arches),  brain,  liver,  spleen,  kidney,  muscle  (imme-
+diately beneath  dorsal  ﬁn)  of  the  ﬁsh,  and  part  of  mid-intestine
+were
+ oven  dried  to  a  constant  weight  and  digested  (60◦C)  for
+2 h  in  1  ml  of  concentrated  HNO 3(68%  nitric  acid,  trace  element
+grade, Fisher  Scientiﬁc,  UK).  Following  digestion,  samples  were
+diluted to  4  ml  with  Triton-X100  (Sigma,  UK)  and  ultrapure  water,
+to give  a  ﬁnal  Triton-X100  concentration  of  2%  in  the  acidiﬁed  sam-
+ple
+ digest.  Samples  were  stirred  or  vortexed  while  being  drawn
+into the  instrument  and  analysed  in  triplicate  for  Ca2+,  Cu,  Fe,  K+,
+Mg2+, Na+,  Ti,  and  Zn  by  ICP-OES  (Varian  725-ES).  Matrix  matched
+element standards  (acidiﬁed  and  in  2%  Triton-X100)  were  mea-
+sured
+ every  10–15  samples  to  monitor  the  instrument  for  drift.
+Recovery of  metals  from  tissue  digests  were  calculated  for  kid-
+ney (0.07–0.12  g  dry  weight,  dw)  and  gill  (0.02–0.06  g  dw)  excised
+from
+ non-experimental  stock  trout,  digested  as  above  and  spiked
+with element  standards  and  either  bulk  TiO 2or  TiO 2NPs.  Calculated
+mean recoveries  were  not  signiﬁcantly  different  between  tissues.
+Calculated  combined  recoveries  for  both  tissues  were  >90%  for  dis-
+solved  metals  (n  =  12  spiked  samples,  data  not  shown).  Recovery
+of bulk TiO 2and  TiO 2NPs  from  tissue  digests  were  84.3  ±  2.7%
+and  93.9  ±  1.5%,  respectively  (data  are  means  ±  S.D.,  n  =  6).  Theprocedural
+ detection  limit  for  Ti  in  acid  digests  of  tissue  sam-
+ples
+ (n  =  10  procedural  blanks)  was  4.54  /H9262g  l−1,  and  for  a  typical
+tissue weight  this  equates  to  around  0.36  /H9262g  g−1dry  weight  of
+Ti metal.  All  tissue  metal  concentrations  are  reported  g−1dry
+weight.
+For
+ analysis  of  Ti  concentrations  in  stock  suspensions  aliquots
+were diluted  with  Milli-Q  water  and  analysed  directly  by  ICP-
+OES and  compared  to  acidiﬁed  (2%  HNO 3)  standards  of  dissolved
+Ti metal  made  in  deionised  water.  Similarly,  water  samples
+taken from  the  exposure  tanks  were  also  analysed  for  Ca2+,  K+,
+Mg2+,
+ Na+and  Ti  directly  by  ICP-OES.  The  instrument  detection
+limit for  Ti  for  analysis  of  water  samples  and  stock  suspen-
+sions (no  Triton  X-100  in  the  standards,  nor  acidiﬁed)  was
+1.3 /H9262g  l−1,  calculated  from  3  ×  S.D.  of  n  =  10  measurements  of  the
+blank.
+2.5. Biochemical  analyses
+Biochemical analyses  were  performed  on  selected  tissues  (gill,
+brain
+ and  kidney)  according  to  methods  outlined  in  Smith  et  al.
+(2007) with  minor  modiﬁcation.  A  further  two  ﬁsh  per  tank  were
+terminally anaesthetised  and  tissues  excised  (Section  2.3),  then
+snap frozen  in  liquid  N2and  stored  at  −80◦C  until  required.  Tis-
+sues (30–150  mg)  were  thawed  on  ice  and  then  homogenised
+(3
+ ×  10  s  with  2  min  rests  at  17,500  rpm,  Cat  X520D  with  a  T6
+shaft, medium  speed,  Bennett  &  Co.,  Weston-super-Mare)  in
+5 volumes  of  ice  cold  isotonic  buffer  (300  mmol  l−1sucrose,
+20 mmol  l−1HEPES,  0.1  mmol  l−1EDTA,  pH  7.8).  Homogenates
+were centrifuged at 13,000 rpm for 2 min and the supernatants
+decanted and  stored  at  −80◦C  until  analysed.  Total  glutathione
+(GSH) was  quantiﬁed  in  20  /H9262l  of  tissue  supernatant  in  tripli-
+cate reactions  in  300  /H9262l  buffer  with  ﬁnal  assay  concentrations
+of 76.5  mmol  l−1phosphate  buffer  (pH  7.5),  3.8  mmol  l−1EDTA,
+glutathione
+ reductase  (0.12  U/ml),  0.6  mmol  l−15′5′-dithiobis-2-
+nitrobenzoic acid  (DTNB),  0.2  mmol  l−1ß-Nicotinamide  adenine
+dinucleotide phosphate  tetrasodium  salt  (NADPH)  and  absorbance
+at 412  nm  monitored  for  20  min  on  a  Versa  Max  microplate  reader
+(Molecular
+ Devices  (UK)  Ltd,  Wokingham,  UK).  Activity  of  Na+/K+-
+ATPase was  measured  in  20  /H9262l  of  supernatants  according  to  an
+original protocol  by  Silva  et  al.  (1977)  and  as  described  in  Smith
+et
+ al.  (2007) .  Brieﬂy,  Na+/K+-ATPase  activity  was  measured  as
+the release  of  inorganic  phosphate  from  Na2ATP  after  a  20  min
+incubation with/without  the  Na+K+-ATPase  inhibitor,  1  mmol  l−1
+ouabain. Following  addition  of  a  colour  reagent  (9.6%  FeSO 4,
+1.15% (NH 4)6Mo7O24)  absorbance  at  660  nm  was  recorded  against
+0–2
+ mmol  l−1phosphate  standards.  The  concentrations  of  thiobar-
+bituric reactive  substances  (TBARS)  were  measured  according  to
+an original  protocol  in  Camejo  et  al.  (1998) .  In  triplicate  reactions
+40 /H9262l  of  supernatants  were  diluted  in  140  /H9262l  of  phosphate  buffer
+(100 mmol  l−1,  pH  7.5),  treated  with  10  /H9262l  of  1  mmol  l−1butylated
+hydroxytoluene
+ to  reduce  spontaneous  oxidation  of  samples  and
+de-proteinated with  50  /H9262l  50%  trichloroacetic  acid  (TCA).  Sam-
+ples were  centrifuged  13,000  rpm  for  2  min  and  150  /H9262l  supernatant
+transferred to  microplate  with  75  /H9262l  of  1.3%  thiobarbituric  acid  in
+0.3% NaOH  and  incubated  at  60◦C  for  60  min.  Absorbance  at  530  nm
+was
+ recorded  against  0–50  /H9262mol  l−11,1,3,3-tetraethoxypropane
+standards (Sigma,  UK).  For  all  assays,  appropriate  negative  con-
+trols substituting  isotonic  buffer  for  tissue  supernatants  were
+included in  every  run.  Data  from  our  laboratory  demonstrates
+TiO 2NPs do  not  interfere  with  GSH,  TBARS  and  Na+/K+-ATPase
+assays
+ used  (data  not  shown).  The  concentration  of  GSH,  TBARS
+and activity  of  Na+/K+-ATPase  was  normalised  to  total  pro-
+tein  in  the  supernatant  using  the  Bradford’s  reagent  according
+to  the  manufacturer’s  protocol  (Product  B6916,  Sigma–Aldrich,
+UK).
+D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127 119
+2.6. Histopathology
+At
+ day  14  of  the  exposure  two  ﬁsh  per  tank  were  anaesthetised
+in buffered  MS222  and  organs  carefully  collected  into  buffered  for-
+mal saline  and  processed  to  wax  (Leica  TP1020,  Leica  TPEG1150H,
+Wetzlar,
+ Germany),  then  7  /H9262m  sections  were  cut  for  routine  histo-
+logical examination  as  described  in  Smith  et  al.  (2007) ,  with  minor
+modiﬁcations. After  ﬁxation,  the  second  gill  arch  of  each  ﬁsh  was
+decalciﬁed (Rapid  Decalciﬁer,  CellPath  plc,  UK)  prior  to  processing
+and sectioning.  Gills  were  stained  with  Mallory’s  trichrome.  Spleen,
+a
+ piece  of  skeletal  muscle  from  the  ﬂank  of  the  ﬁsh,  liver,  pos-
+terior kidney  and  whole  brain  were  ﬁxed,  processed,  sectioned,
+and then  stained  with  haemotoxylin  and  eosin  to  show  general
+architecture. Images  were  recorded  using  an  Olympus  Vanox  –  T
+microscope
+ and  an  Olympus  digital  camera  (C-2020  Z).  In  gills,
+the incidence  of  lesions  was  scored  on  80–100  secondary  lamellae
+from two  randomly  selected  primary  ﬁlaments  from  the  middle  of
+the second  gill  arch  on  each  ﬁsh.  The  total  number  of  secondary
+lamellae with  lesions,  and  the  percentage  incidence  of  each  type  of
+lesion were  recorded.  Sagittal  sections  of  whole  brains  were  made
+and
+ total  dimensions  (height)  of  the  tissue  layers  in  the  mesen-
+cephalon and  cerebellum  of  the  brain  were  measured  manually,
+in triplicate  from  three  random  images  from  each  ﬁsh.  Fractional
+areas of  tissues  in  organs  were  counted  manually  from  randomly
+selected areas  on  a  section  from  each  ﬁsh  using  the  point  count-
+ing
+ method  of  Weibel  et  al.  (1966)  where  the  fractional  volume
+(area) Vi=  Pi/PT;  and  Piis  the  number  of  points  counted,  PTis  the
+total number  of  points  on  the  counting  grid.  This  method  was  used
+to
+ calculate  the  proportion  of  red  and  white  pulp  and  sinusoid
+space in  the  spleen,  sinusoid  space  in  the  liver  and  fractional  ﬁbre
+areas in  skeletal  muscle.  Mean  numbers  of  melanomacrophages
+in spleen,  liver  and  kidney  were  counted  in  53,200,  53,200  and
+212,400 /H9262m2of  tissue  (i.e.  per  ﬁeld  of  view)  respectively  at  ×400
+magniﬁcation.
+2.7.  Swimming  behaviour
+Following the  14  day  experimental  exposure  swimming
+behaviour
+ of  trout  was  assessed  in  1  or  2  randomly  selected  ﬁsh  per
+tank (n  =  5/6  per  treatment)  with  video  tracking  software  (Ethovi-
+sion XT  v.  7.1,  Noldus  Information  Technology,  The  Netherlands).
+Fish were  netted  from  the  exposure  aquaria  and  transferred  to
+chambers
+ (65  cm  ×  40  cm  ×  30  cm)  ﬁlled  with  30  l  of  aquarium
+water (for  water  quality  parameters  see  Section  2.1)  and  with  video
+cameras directly  overhead.  All  behavioural  measurements  were
+carried out  in  clean  water  to  avoid  particle  interference  with  video
+recordings. Chambers  were  separated  from  the  rest  of  the  aquarium
+by
+ a  curtain  to  minimise  disturbance  and  left  to  acclimate  to  con-
+ditions overnight  (16  h).  Between  10:00  and  13:00  the  following
+day behaviours  were  recorded.  The  software  captured  the  position
+of the  ﬁsh  in  each  arena  expressed  as  x,  y  coordinates,  together
+with time,  at  a  data  capture  rate  of  6.25  locations  s−1.  During  sub-
+sequent
+ analysis  of  sample  tracks  all  recordings  were  viewed  and
+processed to  correct  miss-tracks  and  remove  noise  which  may
+otherwise overestimate  distance  moved  by  removing  small  move-
+ments of  <0.4  cm  between  consecutive  time  points.  Positional  data
+for
+ ﬁsh  were  then  analysed  to  express  ﬁsh  movements  as  total
+distance moved,  time  inactive,  mean  velocity  when  active  and
+time spent  at  low  (0.4–10  cm  s−1),  medium  (10–20  cm  s−1)  and
+high
+ speeds  (20+  cm  s−1)  following  an  approach  previously  used
+to assess  effects  of  Cu  on  activity  levels  in  trout  (Handy  et  al.,  1999;
+Campbell et  al.,  2002 ).
+Immediately  after  tracking  had  ﬁnished  some  biochemistry  was
+also  performed  on  the  plasma  and  brain  of  ﬁsh.  Fish  were  termi-
+nally anaesthetised and plasma isolated from blood (see Section
+2.3),  then  the  whole  brain  was  excised  and  homogenised  in  isotonicsucrose
+ buffer  and  then  centrifuged  to  isolate  the  supernatant  (see
+Section
+ 2.5).  Activity  of  acetylcholinesterase  (AChE)  was  measured
+according to  an  original  protocol  by  Ellman  et  al.  (1961)  adapted  for
+the microtitre  plate  by  recording  absorbance  at  405  nm  for  10  min
+of a  reaction  mixture  containing  50  /H9262l  of  brain  supernatant,  50  /H9262l
+of
+ 3  mmol  l−1acetylthiocholine  iodide  and  150  /H9262l  of  0.27  mmol  l−1
+DTNB. Appropriate  sample  blanks  (isotonic  buffer  without  tissue
+homogenate) were  included  in  every  run.  Activity  of  AChE  was
+expressed relative  to  protein  concentration  in  each  homogenate,
+measured with  Bradford’s  reagent.  Plasma  glucose  concentrations
+were
+ analysed  according  to  the  manufacturer’s  protocol  (Product
+G3293, Sigma–Aldrich,  UK).  Lactic  acid  was  analysed  in  depro-
+teinated (equal  volume  of  5%  TCA),  pH  neutralised  serum  according
+to Gutmann  and  Wahlefeld  (1974) .  Brieﬂy,  10  /H9262l  serum  was  diluted
+in
+ 200  /H9262l  glycine-hydrazine  buffer  (0.4  M,  pH  9)  containing  10  /H9262l  of
+40 mmol  l−1NAD  and  1  U  lactate  dehydrogenase  and  incubated  for
+2 h  at  37◦C.  Absorbance  at  340  nm  was  then  compared  to  appropri-
+ate 0–8  mmol  l−1lactic  acid  standards.  Appropriate  sample  blanks
+(isotonic buffer  without  tissue  homogenate)  were  included  in
+every run.
+2.8.
+ Competitive  interaction
+These
+ measurements  broadly  followed  the  methodology  of
+Sloman  et  al.  (2000) .  Behavioural  interactions  were  observed  in
+pairs of  rainbow  trout  from  the  following  treatment  groups:  (1)
+aTiO 2NP exposed  ﬁsh  paired  with  a  control  ﬁsh  (n  =  8  pairs),  and
+(2)
+ a  TiO 2NP  exposed  ﬁsh  paired  with  a  bulk  TiO 2exposed  ﬁsh
+(n =  8  pairs).  Following  the  14  day  exposure,  ﬁsh  were  lightly  anaes-
+thetised to  facilitate  handling  (50  mg  l−1MS222,  buffered  to  ∼pH
+7), weighed  and  total  length  measured.  Size  matched  pairs  of  ﬁsh
+(±2
+ mm  length,  ±1  g  weight)  were  then  selected  and  the  caudal  ﬁn
+injected with  Alcian  blue  to  enable  identiﬁcation  during  observa-
+tions, a  process  which  did  not  have  lasting  effects  on  behaviour.  Fish
+were revived  in  strongly  aerated  aquarium  water  and  the  two  indi-
+viduals of  each  pair  were  placed  in  a  20  l,  aerated,  glass  aquarium
+on
+ either  side  of  an  opaque  partition.  Again,  no  nanoparticles  were
+added to  the  water  to  enable  behavioural  observations.  Once  ﬁsh
+had been  allowed  to  rest  and  acclimate  to  the  conditions  for  24  h,
+the opaque  partitions  were  removed  and  interactions  between  ﬁsh
+observed for a 30 min period commencing from the ﬁrst aggressive
+act (bite  or  charge).  Interactions  were  scored  according  to  the  num-
+ber of  aggressive  acts  by  each  ﬁsh  (subsequently  identiﬁed  as  the
+subordinate or  dominant  ﬁsh  during  data  analysis)  and  the  time  of
+retreat of  the  subordinate  ﬁsh  (recorded  as  the  time  after  which
+no further  aggressive  behaviours  were  observed).  Subordinate  ﬁsh
+typically
+ retreated  to  the  surface  of  the  water  and  maintained  this
+position in  the  water  column.  Dominant  ﬁsh  were  easily  identiﬁed
+in interactions  from  the  timeline  of  aggressive  behaviours  observed
+and there  were  typically  large  differences  in  the  observed  numbers
+of aggressive  behaviours  between  ﬁsh.
+2.9.
+ Data  handling  and  statistical  analyses
+Statistical
+ analyses  were  performed  using  SPSS  (version  18.0  for
+Windows). All  data  were  tested  for  normality  (Shapiro–Wilk  test)
+and homogeneity  of  variances  (Levene’s  test).  Where  data  were  not
+normally
+ distributed  log-transformation  was  applied.  Statistically
+signiﬁcant differences  between  treatment  groups  were  determined
+by ANOVA  with  Tukey’s  test  aposteriori .  Where  log-transformation
+failed, the  Kruskal–Wallis  test  or  the  Mann–Whitney  U-test  with
+Bonferroni  correction  was  applied  as  appropriate.  A  p  value  of
+≤0.05  was  considered  signiﬁcant.  Data  from  competitive  interac-
+tions  between  pairs  of  ﬁsh  were  analysed  with  Student’s  t  test  or
+Mann–Whitney U-test  as  appropriate.
+120 D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127
+Table 1
+Tissue  concentration  of  Ti  in  rainbow  trout  exposed  to  control  (no  added  TiO 2),
+1
+ mg  l−1of  bulk  TiO 2or  1  mg  l−1TiO 2NPs  for  14  days.
+Tissue Control Bulk  TiO 2 TiO 2NPs
+Gill  1.4  ±  0.5a43.3  ±  12.1b31.3  ±  8.1b
+Intestine 4.8
+ ±  2.5  11.4  ±  3.8  8.3  ±  3.8
+Liver 1.9  ±  0.4  0.8  ±  0.2  2.3  ±  0.2
+Kidney  3.6  ±  1.2  2.3  ±  0.6  4.4  ±  1.8
+Spleen
+ 8.2  ±  3.3  5.4  ±  1.6  11.1  ±  4.7
+Brain
+ 0.9  ±  0.3  2.0  ±  0.8  1.9  ±  0.6
+Tissue  concentrations  are  Ti  metal  expressed  as  /H9262g  g−1dry  weight  of  tissue.  Data
+are
+ means  ±  S.E.M.  (n  =  7/8).  Tissue  concentration  of  Ti  (/H9262g  g−1dry  weight)  in  initial
+ﬁsh
+ at  day  0  were  (means  ±  S.E.M.,  n  =  7/8):  1.0  ±  0.2  Gill;  1.8  ±  0.6  Intestine;  0.2  ±  0.1
+Liver;  0.8  ±  0.4  Kidney;  1.6  ±  0.5  Spleen;  5.9  ±  1.9  Brain.  Values  with  different  letters
+within  rows (treatment-effect) were signiﬁcantly different (ANOVA, p ≤ 0.05). Rows
+with
+ no  labels  were  not  signiﬁcantly  different  from  each  other.
+3. Results
+3.1. Conﬁrmation  of  waterborne  TiO2exposure  and  tissue  Ti
+accumulation
+Waterborne
+ exposure  to  TiO 2in  experimental  aquaria  was
+conﬁrmed by  ICP-OES  of  water  samples.  Measured  concen-
+trations of  Ti  metal  in  water  samples  taken  5  minutes  after
+dosing were  (means  ±  S.D.,  n  =  6);  <1.3  /H9262g  l−1,  0.67  ±  0.02  mg  l−1
+and
+ 0.64  ±  0.01  mg  l−1for  control,  bulk  TiO 2and  TiO 2NPs  respec-
+tively, corresponding  to  1.11  ±  0.03  mg  l−1and  1.07  ±  0.02  mg  l−1
+concentrations of  TiO 2in  the  bulk  and  nano  treatments.  The
+exposures were  sub-lethal  as  no  mortalities  occurred  in  any  of
+the treatment  groups.  Titanium  metal  concentrations  in  the  tis-
+sues
+ are
+ shown
+ in
+ Table
+ 1.
+ Overall,
+ there
+ was
+ some
+ detectable
+background
+ Ti  in  the  control  ﬁsh,  but  apart  from  the  gills,  there
+were no  increases  in  Ti  concentration  in  the  internal  organs
+of the  ﬁsh  in  the  TiO 2treatments  and  no  signiﬁcant  difference
+between ﬁsh  exposed  to  bulk  or  nano  TiO 2(no  “material-
+type”
+ effect).  At  the  end  of  the  exposure  (day  14)  the  gills  of
+ﬁsh exposed  to  bulk  or  TiO 2NPs  contained  (means  ±  standard
+error (S.E.M.),  n  =  8)  43.3  ±  12.1  and  31.3  ±  8.1  /H9262g  g−1respectively,
+compared to  the  controls  (1.4  ±  0.5  /H9262g  g−1);  a  31  and  22  fold
+increase
+ in  Ti  metal  in/on  the  gill  tissue  compared  to  the  con-
+trols (ANOVA,  p  <  0.001).  There  was  no  indication  of  increasing  Ti
+concentration in  liver,  spleen,  kidney  and  brain  in  the  ﬁsh  from
+the
+ TiO 2treatments  compared  to  controls  at  day  14  (ANOVA,
+p >  0.05).
+3.2.
+ Haematology  and  plasma  ions
+Fish exposed  to  TiO 2NPs,  but  not  the  bulk  material,  exhib-
+ited some  changes  in  haematocrits  and  whole  blood  haemoglobin
+compared to  control  ﬁsh  by  the  end  of  the  exposure  (Table  2).
+For
+ example,  in  ﬁsh  from  the  TiO 2NP  treatment  haematocrit  was
+34% compared  to  26  and  28%  in  the  bulk  TiO 2and  control  ﬁsh.
+A corresponding  increase  of  whole  blood  haemoglobin  concen-
+tration was  also  apparent  in  ﬁsh  exposed  to  TiO 2NPs  (6.9  g  dl−1)
+compared to  controls  (5.3  g  dl−1),  a  23%  increase  in  haemoglobin
+concentration,
+ but  there  was  no  signiﬁcant  increase  in  mean  cor-
+puscular haemoglobin  concentration.  The  absence  of  changes  in
+these parameters  in  the  ﬁsh  from  the  bulk  TiO 2treatment  com-
+pared to  ﬁsh  exposed  to  TiO 2NPs  (Table  2)  also  indicated  a
+material-type  effect.  There  were  no  treatment-dependent  changes
+in  plasma  ions  (Table  2).  Plasma  osmolarity,  K+and  Na+were  not
+signiﬁcantly  different  from  controls  following  exposure  to  bulk
+TiO 2or TiO 2NPs.3.3.
+ Tissue  electrolytes
+Tissue
+ electrolyte  and  trace  element  proﬁles  were  generally
+unaffected by  either  bulk  or  TiO 2NP  exposure,  apart  from  some
+perturbations to  electrolytes  in  the  brain  and  gill  (Fig.  1).  Quality
+assurance
+ evaluation  indicated  that  usable  data  were  not  obtained
+for spleen  Ca2+.  The  concentrations  of  Cu  are  not  shown  in  Fig.  1  due
+to the  low  concentration  of  this  essential  element  in  tissues.  Cop-
+per concentrations  in  gill,  liver,  kidney,  spleen  and  muscle  were
+not affected  by  exposure  to  both  forms  of  TiO 2(data  not  shown).
+However,
+ the  Cu  concentration  was  signiﬁcantly  higher  (ANOVA,
+p =  0.013)  in  brains  of  ﬁsh  exposed  to  TiO 2NPs  (means  ±  S.E.M.,
+n =  7/8),  0.11  ±  0.01  /H9262mol  g−1,  compared  to  ﬁsh  exposed  to  bulk
+TiO 2, 0.07  ±  0.01  /H9262mol  g−1although  neither  NPs  nor  bulk  expo-
+sure
+ caused  a  signiﬁcant  change  in  Cu  concentration  compared
+to controls,  0.08  ±  0.01  /H9262mol  g−1(ANOVA,  p  >  0.05).  Exposure  to
+TiO 2NPs also  caused  disturbances  in  other  brain  electrolytes  with
+evidence of  a  material-type  effect  (Fig.  1).  Notably,  brain  K+was
+signiﬁcantly elevated  in  ﬁsh  exposed  to  NPs,  839  ±  118  /H9262mol  g−1
+compared to  544  ±  50  /H9262mol  g−1and  505  ±  60  /H9262mol  g−1in  controls
+and
+ ﬁsh  exposed  to  the  bulk  TiO 2,  respectively  (Fig.  1,  ANOVA,
+p =  0.011).  Whole  brain  Na+was  elevated  in  the  TiO 2NP  treat-
+ment only  compared  to  both  the  bulk,  but  not  the  controls.  In
+the case  of  Ca2+,  exposure  to  TiO 2NPs  elevated  Ca2+compared  to
+the control  but  there  was  no  material-type  effect.  For  the  trace
+metals,
+ Zn  concentrations  in  the  brains  of  ﬁsh  exposed  to  TiO 2
+NPs (1.48  ±  0.22  /H9262mol  g−1)  were  65%  higher  (ANOVA,  p  =  0.011)
+than either  the  controls  (0.91  ±  0.08  /H9262mol  g−1)  or  trout  exposed  to
+bulk
+ TiO 2(0.89  ±  0.09  /H9262mol  g−1).  Brain  Fe  concentrations  showed
+a small  but  statistically  signiﬁcant  (Kruskal–Wallis,  p  =  0.019)
+decrease in  the  bulk  TiO 2treatment compared  to  either  the  controls
+or TiO 2NP  treatment.
+The concentration  of  Mg2+in  the  gill  of  trout  exposed  to  1  mg  l−1
+TiO 2NPs
+ (49.4  ±  1.3  /H9262mol  g−1)  was  signiﬁcantly  lower  than  gills
+from the  controls  (55.8  ±  2.2  /H9262mol  g−1)  or  from  the  bulk  material
+treatment (54.4  ±  1.7  /H9262mol  g−1,  ANOVA,  p  =  0.041).  Consequently,
+there was  a  material-type  effect  associated  with  TiO 2NPs.  The  con-
+centrations of  the  other  ions  in  the  gill  were  not  altered  by  either
+bulk
+ or  TiO 2NP  exposure  (Fig.  1).
+3.4. Biochemical  markers  of  oxidative  injury  and  ionoregulatory
+dysfunction
+Tissue  concentrations  of  total  glutathione,  TBARS  and  Na+/K+-
+ATPase activity  are  shown  in  Fig.  2.  Overall,  there  was  some
+evidence of  oxidative  disturbances  in  the  brain  and  kidney,  but  no
+effects
+ on  the  gill.  The  concentration  of  total  GSH  in  the  gill  and  kid-
+ney was  not  affected  by  TiO 2NPs  exposure  (Fig.  2,  ANOVA,  p  >  0.05).
+However there  was  a  statistically  signiﬁcant  increase  in  GSH  in
+brains of  ﬁsh  exposed  to  TiO 2NPs  or  bulk  TiO 2compared  to  con-
+trols. There  was  also  evidence  for  a  material  type-effect.  The  con-
+centration
+ of  GSH  was  signiﬁcantly  higher  in  brains  in  ﬁsh  exposed
+to NPs  compared  to  bulk.  The  GSH  concentration  in  brains  of  ﬁsh
+exposed to  TiO 2NPs  was  22.5  ±  1.0  nmol  mg−1protein  compared
+to 18.7  ±  0.2  nmol  mg−1protein  and  20.4  ±  0.6  nmol  GSH  mg−1pro-
+tein
+ in  brains  of  controls  and  ﬁsh  exposed  to  bulk  TiO 2, respectively
+(Kruskal–Wallis, p  =  0.001).
+There was  also  an  increase  of  TBARS  in  the  brains  of  ﬁsh
+exposed
+ to  TiO 2NPs  only,  indicating  a  material-type  effect  in
+this organ  (Fig.  2).  TBARS  in  the  brains  of  ﬁsh  exposed  to  TiO 2
+NPs was  elevated  to  1.7  ±  0.2  nmol  mg−1protein,
+ compared  to
+controls, 1.0  ±  0.2  nmol  mg−1protein  and  bulk  TiO 2exposed  ﬁsh
+0.7  ±  0.1  nmol  mg−1protein  (ANOVA,  p  <  0.001).  The  concentration
+of TBARS in kidney was also signiﬁcantly increased in ﬁsh exposed
+to  TiO 2NPs  or  bulk  TiO 2compared  to  the  controls  (Kruskal–Wallis,
+D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127 121
+Table 2
+Haematology  and  plasma  ions  in  rainbow  trout  exposed  to  control  (no  added  TiO 2),  1  mg  l−1of  bulk  TiO 2or  1  mg  l−1of  TiO 2NPs  for  14  days.
+Parameter  Control  Bulk  TiO 2 TiO 2NPs
+Haematocrit  (%)  27.6  ±  1.7a26.4  ±  0.6a33.5  ±  1.8b
+Haemoglobin  (g  dl−1)  5.26±  0.56a5.16  ±  0.18a6.93  ±  0.35b
+Red
+ blood  cells  (cell  ×106mm3)  0.62  ±  0.04ab0.54  ±  0.03b0.72  ±  0.03a
+Mean corpuscular  haemoglobin  (pg  cell−1)  84.1  ±  8.9  93.9  ±  4.8  94.0  ±  4.1
+Osmolarity
+ (mOsm  kg−1)  282  ±  4  279  ±  5  288  ±  6
+Plasma
+ Na+(mmol  l−1)  119.4  ±  1.2  122.8  ±  2.5  123.2  ±  3.4
+Plasma  K+(mmol  l−1)  3.19  ±  0.12  3.51  ±  0.18  3.49  ±  0.23
+Data  are  means  ±  S.E.M.  (n  =  7/8).  Haematology  and  plasma  ions  in  initial  ﬁsh  at  day  0  were  (means  ±  S.E.M.,  n  =  7/8):  HCT,  27.9  ±  2.0%;  Haemoglobin,  5.53  ±  0.40  g  dl−1;
+Red
+ blood  cells,  0.56  ±  0.03  cell  ×  106mm3;  Osmolarity,  287  ±  4  mOsm  kg−1;  Plasma  Na+,  130.8  ±  1.4  mmol  l−1;  Plasma  K+,  3.68  ±  0.26  mmol  l−1.  Values  with  different  letters
+within
+ rows  (treatment-effect)  were  signiﬁcantly  different  (ANOVA  or  Kruskal–Wallis,  p  ≤  0.05).  Rows  with  no  labels  were  not  signiﬁcantly  different  from  each  other.
+p  =  0.001,  Fig.  2),  but  with  no  difference  between  bulk  and  nano
+TiO 2.
+Activity
+ of  Na+/K+-ATPase  in  gill,  brain  and  kidney  was  not  sig-
+niﬁcantly different  in  ﬁsh  exposed  to  TiO 2NPs  compared  to  TiO 2
+bulk or  the  control  ﬁsh  (ANOVA,  p  >  0.05,  Fig.  2).  For  example,  activ-
+ity of  Na+/K+-ATPase  in  the  brains  of  the  ﬁsh  exposed  to  TiO 2
+NPs was  5.1  ±  1.6  /H9262mol  Pi  mg−1protein  h−1,  compared  to  controls5.5
+ ±  1.0  /H9262mol  Pi  mg−1protein  h−1and  ﬁsh  exposed  to  bulk  TiO 2
+5.8 ±  0.9  /H9262mol  Pi  mg−1protein  h−1.
+3.5. Histological  observations
+Waterborne
+ exposure  to  both  forms  of  TiO 2caused  gill  pathol-
+ogy. At  the  end  of  the  exposure,  all  eight  ﬁsh  examined  from  each  of
+Fe Zn Ca Mg Na Kµµµµmol g-1 dw
+0369150300450600
+Fe Zn Ca Mg Na K
+µµµµmol g-1 dw
+051015250500750100 0
+Fe Zn Ca Mg Na K
+µµµµmol g-1 dw
+0123200400600800
+Fe Zn Ca Mg Na Kµµµµmol g-1 dw
+0153045150300450600Fe Zn Ca Mg Na K
+µµµµmol g-1 dw
+0369150300450600
+Fe Zn Ca Mg Na Kµµµµmol g-1 dw
+0369150300450600
+abaaaaaaa
+aaa
+aaaaaaaaa
+aaaaaa
+aaaaaaaaa
+aaaaaaaaa
+aa aa
+aa
+aa
+aa
+a
+aaaa
+a
+a a
+aa
+aaa
+aaaaaaaaaaaa aa
+aaa
+aabb
+baa abaab
+ababa
+ababababA B
+C D
+E FGil l Brain
+Liver Kidn ey
+Splee n Musc le
+Fig.  1.  Concentration  (/H9262mol  g−1dry  weight)  of  ions  in  (A)  gill,  (B)  brain,  (C)  liver,  (D)  kidney,  (E)  spleen  and  (F)  muscle  of  rainbow  trout  exposed  to  control  (closed  bars),
+1
+ mg  bulk  TiO 2l−1(open  bars)  and  1  mg  TiO 2NPs  l−1(hatched  bars)  for  14  days.  Data  are  means  ±  S.E.M.  (n  =  6–8).  Different  lower  case  letters  denote  signiﬁcant  difference
+between
+ treatment  groups  (p  ≤  0.05).  See  text  for  Cu  concentration  in  tissues.
+122 D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127
+Gill Brain Kidn eyGSH (nmol mg-1 Protein)
+051015202530
+Gill Brain Kidney
+Na+/K+ ATPase activity
+(µµµµmol Pi mg-1 protein h-1)
+02468
+Gill Brain Kidn eyTBARS (nmol mg-1 Protein)
+0.00.51.01.52.0
+abc
+aaaaa
+aaa
+aaa
+aaaaa
+a
+a
+ab
+abb
+aA B C
+Fig.  2.  Concentration  of  (A)  total  glutathione  (GSH;  nmol  mg−1protein),  (B)  thiobarbituric  reactive  substances  (TBARS;  nmol  mg−1protein)  and  (C)  activity  of  Na+/K+-ATPase
+(/H9262mol Pimg−1protein  h−1)  in  tissues  of  rainbow  trout  exposed  to  control  (closed  bars),  1  mg  bulk  TiO 2l−1(open  bars)  and  1  mg  TiO 2NPs  l−1(hatched  bars)  for  14  days.  Data
+are means  ±  S.E.M.  (n  =  7/8).  Different  lower  case  letters  denote  signiﬁcant  difference  between  treatments  (p  ≤  0.05).
+the  bulk  and  nano  TiO 2treatments  showed  pathology.  The  injuries
+included hyperplasia  of  the  primary  and  secondary  lamellae,  evi-
+dence of  oedema  and  club  tips  in  the  secondary  lamellae,  as  well  as
+swollen
+ mucocytes  in  the  gill  epithelium  (Fig.  3).  A  quantitative
+analysis of  the  incidence  of  gill  injuries  conﬁrmed  these  obser-
+vations with  a  statistically  signiﬁcant  increase  in  the  incidence
+of hyperplasia  (means  ±  S.E.M.,  n  =  8)  in  the  TiO 2NP  treatment
+(7.4 ± 0.6%), and the bulk TiO 2treatment (6.5  ±  0.6%)  compared  to
+the
+ unexposed  control  (0.7  ±  0.3%)  at  day  14  (ANOVA,  p  <  0.001,
+Fig.  3).  The  incidence  of  club  tips  on  the  lamellae  increased  from
+(means ±  S.E.M.,  n  =  8)  2.2  ±  0.7%  in  the  controls  to  11.1  ±  1.0  and
+18.1 ±  1.4%  in  the  bulk  and  nano  TiO 2treatments  respectively,
+and with a statistically signiﬁcant material-type effect (greater in
+ﬁsh exposed  to  TiO 2NPs,  ANOVAs,  p  <  0.001).  Similarly,  the  inci-
+dence of  swollen  mucocytes  increased  from  (means  ±  S.E.M.,  n  =  8)
+2.7 ±  0.7%  in  the  controls  to  17.9  ±  2.0  and  11.9  ±  2.0%  in  the  bulkand  nano  TiO 2treatments  respectively,  also  with  a  statistically  sig-
+niﬁcant material-type  effect  (higher  incidence  in  ﬁsh  exposed  to
+bulk TiO 2,  ANOVAs,  p  <  0.001).  There  were  also  statistically  signiﬁ-
+cant
+ increases  in  the  incidence  of  aneurisms  on  the  lamellae,  fusion
+of lamellae  and  necrotic  cells  in  the  gill  epithelium  with  both  the
+bulk and  nano  treatments,  but  these  all  remained  below  a  5%  inci-
+dence rate  (data  not  shown).
+There were  some  subtle  perturbations  in  the  structure  of  spleen
+in
+ ﬁsh  exposed  to  either  1  mg  l−1TiO 2NPs  or  the  bulk  material
+at day  14  (Fig.  4).  There  was  generally  no  material-type  effect
+in the  spleen  structure  with  both  bulk  and  nano  forms  caus-
+ing similar  changes  in  the  spleen.  The  fractional  volume  of  red
+pulp was signiﬁcantly decreased in trout exposed to bulk and NPs
+with a  concomitant  increase  in  sinusoid  space  when  compared
+to controls  (Fig.  4,  ANOVAs,  p  =  0.001).  Notably,  there  was  also  a
+statistically signiﬁcant  increase  in  number  of  melanomacrophages
+Fig. 3. Gill morphology in rainbow trout after 14 days of waterborne exposure to (A) control, (B) 1 mg l−1bulk  TiO 2and  (C)  1  mg  l−1TiO 2NPs.  Scale  bar  indicates  magniﬁcation
+(×400).
+ Sections  were  7  /H9262m  thick  and  stained  with  Mallory’s  trichrome.  Panel  (D)  %  secondary  gill  lamellae  showing  hyperplasia  (Hp,  closed  bars),  clubbed  tips  (Ct,  open
+bars)
+ and  swollen  mucocytes  (SM,  hatched  bars).  Data  are  means  ±  S.E.M.  (n  =  8).  Different  lower  case  letters  denote  signiﬁcant  difference  between  treatments  (p  ≤  0.05).
+D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127 123
+Fig.  4.  Spleen  morphology  in  rainbow  trout  after  14  days  of  waterborne  exposure  to  (A)  control,  (B)  1  mg  l−1bulk  TiO 2and (C) 1 mg l−1TiO 2NPs. Scale  bar  indicates
+magniﬁcation
+ (×400).  Sections  were  7  /H9262m  thick  and  stained  with  haematoxylin  and  eosin.  Increased  deposition  of  melanomacrophages  (M)  and  decreased  red  pulp  (RP)
+were
+ observed  in  ﬁsh  exposed  to  TiO 2bulk  and  TiO 2NPs  (p  ≤  0.05).  There  was  no  signiﬁcant  change  in  the  proportion  of  white  pulp  (WP).  Panel  (D)  fractional  volume  of
+red  pulp  (closed  bars),  white  pulp  (open  bars)  and  sinusoid  space  (hatched  bars).  Data  are  means  ±  S.E.M.  (n  =  8).  Different  lower  case  letters  denote  signiﬁcant  difference
+between  treatments  (p  ≤  0.05).
+(means  ±  S.E.M,  counts/ﬁeld  of  view  of  53,200  /H9262m2,  n  =  8)  from
+58.8 ±  3.2  (control)  to  138.2  ±  5.8  (bulk)  and  195.0  ±  9.0  (TiO 2NPs)
+(ANOVA,
+ p  <  0.001).  This  melanomacrophage  inﬁltrate  was  greater
+in the  nano  than  bulk  treatment  (statistically  signiﬁcant  material-
+type effect).
+Liver and  kidney  were  also  examined.  The  livers  of  ﬁsh  exposed
+to
+ either  bulk  or  nano  TiO 2showed  very  minor  changes  com-
+pared to  the  controls  with  some  mild  lipidosis,  but  there  were
+increases of  melanomacrophage  deposits.  For  the  latter,  the  num-
+ber
+ of  deposits  (means  ±  S.E.M,  counts/ﬁeld  of  view  of  53,200  /H9262m2,
+n =  8)  increased  from  6.5  ±  1.3  (control)  to  17.0  ±  0.7  (bulk)  and
+18.0 ±  3.0  (TiO 2NPs). The  differences  from  the  control  were  sta-
+tistically signiﬁcant,  but  with  no  material-type  effect  (ANOVA,
+p <  0.05).  The  liver  also  showed  a  small  increase  in  the  propor-
+tion
+ of  sinusoid  space  of  a  few  percent  in  both  TiO 2treatments
+compared to  the  controls  (data  not  shown).  In  the  kidney,  both
+bulk and  nano  TiO 2treatments  showed  some  injuries  including
+mild necrosis  of  a  few  individual  renal  tubules  with  separation
+of the epithelium, and enlargement of the Bowman’s space; but
+with no  clear  material-type  effect  in  these  injuries  at  day  14
+(data not  shown).  The  kidney  also  showed  melanomacrophage
+activity, with  a  statistically  signiﬁcant  increase  in  number
+of melanomacrophages  (means  ±  S.E.M,  counts/ﬁeld  of  view  of
+212,400
+ /H9262m2,  n  =  8)  from  230.3  ±  18.0  (control)  to  295.3  ±  15.2
+(bulk) and  295.5  ±  13.2  (TiO 2NPs)  (ANOVA,  p  <  0.001).  There  was
+no material-type  effect  in  the  melanomacrophage  inﬁltrate  in  the
+kidney.
+Excitable tissues  were  also  examined  including  the  skeletal
+muscle and  the  brain.  The  muscle  of  control  ﬁsh  showed  normal
+morphology  and  the  muscle  for  both  bulk  and  nano  treatmentsshowed
+ increased  extracellular  space  around  the  muscle  ﬁbre
+bundles. This  was  reﬂected  in  a  small  but  statistically  signiﬁcant
+decrease in  the  proportional  area  of  the  muscle  as  ﬁbre  bundles
+by day  14  (means  ±  S.E.M,  %  area,  n  =  8)  from  71.4  ±  1.3  (control)
+to 60.4  ±  2.6  (bulk)  and  61.0  ±  2.2  (TiO 2NPs).  The  differences  from
+the
+ control  were  statistically  signiﬁcant,  but  with  no  material-type
+effect (ANOVA,  p  <  0.05).
+The brains  from  the  control  ﬁsh  were  normal,  and  the  gross
+morphology of  brains  of  trout  exposed  to  either  bulk  or  nano
+TiO 2was
+ mainly  normal,  although  very  subtle  structural  changes
+in the  brain  were  observed.  The  mesencephalon  was  normal  in
+ﬁsh from  all  treatments  at  day  14  (data  not  shown)  with  the
+exception
+ of  a  contraction  in  the  St.  periventricular  layer  in  trout
+exposed to  TiO 2NPs  only  (%  thickness  of  the  mesencephalon  lay-
+ers, means  ±  S.E.M.,  n  =  8);  31.2  ±  1.2  (control),  31.9  ±  1.0  (bulk)  and
+27.0 ±  1.2  (TiO 2NPs).  This  change,  although  small,  was  statisti-
+cally signiﬁcant  ANOVA,  p  =  0.005).  In  the  cerebellum  some  subtle
+changes
+ in  the  proportions  of  the  tissue  layers  were  also  observed,
+with a  slight  but  statistically  signiﬁcant  (ANOVA,  p  =  0.004)  thick-
+ening of  the  outer  capsule  layer  of  the  brain  in  ﬁsh  exposed  to  the
+bulk TiO 2only;  with  the  relative  thickness  of  the  capsule  layer
+being 1.9  ±  0.2,  2.8  ±  0.5  and  1.7  ±  0.2%  in  control,  bulk  and  NP
+exposed
+ ﬁsh  respectively.  Notably,  enlarged  blood  vessels  were  also
+observed on  the  surface  of  the  cerebellum  in  ﬁsh  exposed  to  both
+nano and  bulk  TiO 2(Fig.  5).
+3.6.
+ Spontaneous  swimming  activity
+Analysis  of
+ spontaneous
+ swimming
+ in
+ rainbow
+ trout
+ (Fig.
+ 6)
+showed  no  statistically  signiﬁcant  effects  of  either  bulk  or  nano
+124 D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127
+Fig.  5.  Cerebellum  morphology  in  rainbow  trout  after  14  days  of  waterborne  exposure  to  (A)  control,  (B)  1  mg  l−1bulk  TiO 2and  (C)  1  mg  l−1TiO 2NPs.  Abnormal  blood  vessels
+(AB)  were  observed  at  the  surface  of  the  cerebellum  in  ﬁsh  exposed  to  nano  and  bulk  TiO 2.  Scale  bar  indicates  magniﬁcation  (×400).  Sagittal  sections  were  7  /H9262m  thick  and
+stained  with  haematoxylin  and  eosin.
+TiO 2compared  to  the  controls  on  the  total  distance  moved
+by ﬁsh  during  the  3  h  tracking  period  (ANOVA,  p  =  0.193),  or
+the mean  velocity  of  ﬁsh  movements  when  they  were  active
+(ANOVA,
+ p  =  0.307).  However,  when  activity  levels  were  analysed
+for time  spent  moving  at  different  speeds  a  signiﬁcant  shift  to
+decreased time  spent  moving  at  high  speed  was  observed  in  ﬁsh
+exposed to  TiO 2NPs  compared  to  controls  but  there  was  no  evi-
+dence
+ of  a  material-type  effect.  Activity  proﬁles  of  trout  from
+all treatment  groups  were  characterised  by  extended  inactive
+periods (<0.4  cm  s−1)  and  moving  at  low  speed  (0.4–10  cm  s−1)
+with less  time  spent  moving  at  medium  (10–20  cm  s−1)  and
+high
+ (>20  cm  s−1)  speeds  (Fig.  6).  There  was  no  signiﬁcant  dif-
+ference in  time  spent  being  inactive  (ANOVA,  p  =  0.283),  or  time
+moving at  low  (ANOVA,  p  =  0.468)  and  medium  speeds  (ANOVA,
+p =  0.262)  in  ﬁsh  exposed  to  TiO 2NPs  compared  to  controls
+(Fig.  6). However, time spent moving at high velocity (>20 cm s−1)
+was signiﬁcantly  lower  in  ﬁsh  exposed  to  TiO 2NPs  compared
+to control  ﬁsh  (ANOVA,  p  =  0.036,  Fig.  6).  Time  spent  moving  at
+high speed  in  ﬁsh  exposed  to  bulk  TiO 2was  not  signiﬁcantly
+different from  controls  or  ﬁsh  exposed  to  TiO 2NPs  (ANOVA,
+p
+ >  0.05).
+Analysis of  AChE  activity  in  brain  of  ﬁsh  assayed  immediately
+after tracking  ﬁsh  movements  indicated  no  signiﬁcant  difference
+between ﬁsh  exposed  to  controls,  bulk  TiO 2and  TiO 2NPs  (ANOVA,
+p =  0.078).  Measured  AChE  activity  levels  were  (means  ±  S.E.M.,
+n
+ =  4–6);  107.7  ±  3.7,  123.8  ±  8.2,  108.7  ±  3.0  nmol−1min−1mg−1
+protein for  controls,  bulk  TiO 2and  TiO 2NP  exposed  ﬁsh,  respec-
+tively. Plasma  glucose  and  serum  lactate  concentrations  were
+also not  signiﬁcantly  different  in  ﬁsh  from  different  treat-
+ment groups (ANOVAs, p > 0.05). Glucose concentrations were
+3.66 ±  0.27,  3.16  ±  0.18  and  3.66  ±  0.3  mmol  l−1and  lactate  concen-
+trations 4.1  ±  0.8,  3.0  ±  0.9  and  1.9  ±  0.6  mmol  l−1in  ﬁsh  exposed  to
+control, bulk  TiO 2and  TiO 2NPs,  respectively.3.7.
+ Behavioural  observations  of  competitive  interactions
+Behavioural observations  of  competitive  interactions  of  trout
+indicated
+ no  statistically  signiﬁcant  effect  of  exposure  to  TiO 2
+NPs on  competitive  ability  compared  to  controls  or  bulk  TiO 2.
+Interactions between  ﬁsh  were  usually  characterised  by  rapid
+engagement, the  ﬁrst  aggressive  act  typically  occurring  1–4  min
+following
+ removal  of  the  partition,  escalation  of  the  contest  and
+withdrawal of  the  subordinate  ﬁsh  from  the  interaction  within
+the 30  min  period  of  observation.  Dominant  and  subordinate  ﬁsh
+were identiﬁable  in  all  contests  with  the  exception  of  two  pairs
+of ﬁsh  which  did  not  interact  during  the  3  h  period  allocated  for
+behavioural
+ observations;  one  pair  each  from  (a)  control  paired
+with NP  exposed  ﬁsh  and  (b)  bulk  exposed  paired  with  a  NP
+exposed ﬁsh.  These  ﬁsh  were  removed  from  subsequent  analy-
+sis leaving  n  =  14  remaining  pairs  of  ﬁsh.  Where  TiO 2NP  exposed
+ﬁsh were  paired  with  control  ﬁsh  the  outcome  of  the  interaction
+was
+ not  affected  by  exposure:  in  3/7  interactions  the  TiO 2NP-
+exposed ﬁsh  emerged  as  the  dominant  ﬁsh  in  the  interaction.  The
+number of  aggressive  acts  in  30  min  was  also  not  affected  by  expo-
+sure (means  ±  S.E.M.,  Student’s  t  test,  n  =  3/4,  p  =  0.57),  83  ±  41  and
+123
+ ±  55  aggressive  acts  in  control  ﬁsh  and  dominant  TiO 2NP-
+exposed ﬁsh,  respectively.  Time  of  retreat  of  the  subordinate  ﬁsh
+was also  not  signiﬁcantly  different  (means  ±  S.E.M.,  n  =  3/4,  Stu-
+dent’s t  test,  p  =  0.19),  15  ±  7  and  5  ±  2  min  in  subordinate  control
+and NP  exposed  ﬁsh  respectively.  Where  a  TiO 2NP-exposed  ﬁsh
+was
+ paired  with  a  bulk  material-exposed  ﬁsh,  treatment  was  also
+not a  factor  in  outcome  of  interaction;  in  4/7  interactions  the  TiO 2
+NP-exposed ﬁsh  emerged  as  the  dominant  ﬁsh  in  the  interaction.
+The number  of  aggressive  acts  in  30  min  was  also  not  affected  by  the
+type
+ of
+ material
+ used
+ for
+ exposure
+ (means
+ ±
+ S.E.M.,
+ Student’s
+ t
+ test,
+n
+ =  3/4,  p  =  0.46),  71  ±  34  and  44  ±  13  aggressive  acts  in  dominant
+ﬁsh that  had  been  exposed  to  bulk  TiO 2and  TiO 2NPs,  respectively.
+Control  Bulk NPTotal distance moved (m)
+0150300450600750
+Control  Bulk NPVelocity when active (cm s-1)
+0246810
+A B
+Inactive  Low Medium  High
+Time (%)
+024255075
+a
+ba,baaaaaaaaaC
+Fig. 6. Swimming behaviour in rainbow trout exposed to control (closed bars), 1 mg bulk TiO 2l−1(open  bars)  and  1  mg  TiO 2NPs  l−1(hatched  bars)  for  14  days.  Fish
+movements
+ (A)  total  distance  moved  (m),  (B)  velocity  when  active  (cm  s−1)  and  (C)  time  (%)  moving  at  low  (0–10  cm  s−1),  medium  (10–20  cm  s−1)  and  high  (>20  cm  s−1)  speed
+were
+ analysed  for  3  h  during  daylight  hours.  Data  are  means  ±  S.E.M.  (n  =  4–6).  Different  lower  case  letters  denote  signiﬁcant  difference  between  treatments  (p  ≤  0.05).
+D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127 125
+Time of  retreat  of  the  subordinate  ﬁsh  was  also  not  signiﬁcantly
+different
+ (means  ±  S.E.M.,  Mann–Whitney  U-test,  n  =  3/4,  p  =  0.29),
+8 ±  4  and  9  ±  2  min  in  subordinate  bulk  and  TiO 2NP-exposed  ﬁsh
+respectively.
+4. Discussion
+The present  study  has  demonstrated  that  exposure  to  1  mg  l−1
+TiO 2NPs
+ for  14  days  can  cause  changes  in  the  locomotor  activity
+of rainbow  trout  which  involve  the  exposed-ﬁsh  spending  propor-
+tionally less  time  at  high  swimming  speeds  compared  to  controls.
+Notably, there  was  no  clear  material-type  effect  on  locomotor  activ-
+ities, but  both  materials  caused  gill  injury.  The  decrease  in  the
+proportion
+ of  time  spent  at  high  swimming  speeds  is  most  easily
+explained by  respiratory  hypoxia  rather  than  neurotoxicity,  with
+increases of  HCT,  Hb  and  changes  in  the  proportion  of  red  pulp
+in
+ the  spleen  indicating  some  physiological  compensation;  albeit
+with some  subtle  differences  between  the  bulk  and  nano  TiO 2in
+this response.  The  animals  remained  able  to  compete  in  aggres-
+sive interactions,  and  exposure  to  either  bulk  or  nano  TiO 2had  no
+effect on  the  outcome  of  these  bouts.  Overall,  the  data  shows  that
+trout
+ will  moderate  their  swimming  speed  in  response  to  water-
+borne TiO 2exposure,  but  retain  the  physiological  capacity  for  short
+periods of  energetically  demanding  activities  such  as  defending
+themselves in  a  dominance  contest.
+4.1. Toxicity  from  waterborne  exposure  to  TiO2
+Waterborne
+ exposure  to  either  bulk  or  nano  TiO 2was  charac-
+terised by  some  Ti  accumulation  on/in  the  gill  tissue,  but  with  no
+measurable increases  in  the  Ti  concentrations  in  the  internal  organs
+(Table 1).  Our  previous  study  on  rainbow  trout  (Federici  et  al.,
+2007 )  also  found  no  treatment-dependent  increases  in  Ti  metal
+concentrations in  the  internal  organs.  However  unlike  the  present
+study, Federici  et  al.  (2007)  did  not  detect  measurable  increases
+in the  gill  tissue.  This  difference  is  partly  due  to  the  lower  back-
+ground Ti  concentrations  in  the  ﬁsh  used  here  (Ti  concentrations
+vary
+ with  the  source  and  feeding  history  of  the  ﬁshes,  see  discus-
+sion in  Ramsden  et  al.,  2009 );  but  mainly  due  to  improvements
+in the  ICP-MS  method  in  the  present  study  which  enable  differ-
+ences in  the  gill  to  be  detected  that  could  not  be  measured  before.
+Nonetheless,
+ the  Ti  concentrations  on/in  the  gills  (Table  1)  remain
+at /H9262g  g−1concentrations  for  an  exposure  at  mg  l−1levels,  indicat-
+ing only  a  fraction  of  the  exposure  dose  became  associated  with
+gill tissue.  The  absence  of  increases  in  the  Ti  concentrations  of  the
+internal organs,  and  only  modest  increases  in/on  the  gill  tissue  of
+trout,
+ from  waterborne  TiO 2exposure  is  consistent  with  Johnston
+et al.  (2010)  who  conducted  Coherent  Anti-Stokes  Raman  Scat-
+tering (CARS)  microscopy  on  the  gill  of  rainbow  trout  exposed  to
+5 mg  l−1TiO 2NPs  for  10  days.  Johnston  et  al.  (2010)  showed  that
+(for TiO 2NPs  at  least)  most  of  the  TiO 2aggregates  on  the  surface  of
+the
+ gill  epithelium,  with  the  occasional  aggregate  appearing  within
+the secondary  lamellae.  Nonetheless,  exposure  in  this  study  was
+conﬁrmed by  measurable  Ti  concentrations  in  the  exposure  tanks,
+and similar  to  Federici  et  al.  (2007) ,  histological  examination  of
+the
+ gills  of  ﬁsh  conﬁrmed  respiratory  irritation  in  trout  exposed  to
+bulk and  nano  TiO 2.  Gills  showed  an  increased  incidence  of  swollen
+mucocytes that  was  greatest  for  the  bulk  material  (Fig.  3).  The
+mucus
+ defences  were  partially  successful  with  a  lower  incidence
+of clubbed  tips  in  the  bulk  compared  to  nano  TiO 2treatment.  The
+hyperplasia in  the  gill  epithelium  of  ﬁsh  exposed  to  TiO 2NPs
+ or
+bulk TiO 2compared  to  controls  (Fig.  3)  was  similar  to  the  ﬁndings
+of  Federici  et  al.  (2007) .  Gill  injury  has  also  been  reported  in  other
+species of ﬁsh e.g. Cyprinus carpio , exposed to waterborne TiO 2NPs
+(Hao  et  al.,  2009 ).The
+ gill  is  an  important  organ  for  both  osmoregulation  and  respi-
+ratory
+ gas  exchange.  In  the  present  study  the  general  absence  of
+disturbances to  plasma  ions  and  osmolarity  (Table  2),  the  nor-
+mal gill  tissue  Na+and  K+concentrations  (Fig.  1A),  as  well  as  the
+absence of  inhibition  of  branchial  (or  renal)  Na+/K+-ATPase  (Fig.  2C)
+indicates
+ that  the  gill  injury  was  not  sufﬁcient  to  cause  major
+osmoregulatory disturbances  within  14  days  (similar  to  the  con-
+clusions of  Federici  et  al.,  2007 ).  However,  thickening  of  the  gill
+epithelium due  to  hyperplasia  and  oedema  (Fig.  3)  will  increase  the
+diffusion distance  for  gas  exchange;  and  even  small  increases  can
+have
+ profound  effects  on  the  efﬁciency  of  oxygen  transfer  across
+the gill  (Malte,  1992 ).  Gill  injury  from  metal  exposures  is  known  for
+being associated  with  a  decrease  in  arterial  oxygen  tension  (PaO2),
+which may  be  recoverable  depending  on  the  extent  of  the  injury
+(e.g.,
+ Zn,  Lappivaara  et  al.,  1995 ).  Decreases  in  PaO2in  ﬁsh  exposed
+to Ag  NPs  have  also  been  reported  (Bilberg  et  al.,  2010 ).  It  therefore
+seems probable  that  the  gill  injury  reported  here  (Fig.  3)  would
+cause some  hypoxia.
+A 5%  increase  in  HCT  values,  and  a  subtle  but  statistically  sig-
+niﬁcant increase  of  1.7  g  dl−1in  the  haemoglobin  concentration  of
+blood
+ was  observed  in  the  TiO 2NP  treatment  compared  to  con-
+trols (Table  2);  partly  supporting  the  idea  of  compensation  for  a
+systemic hypoxia.  A  trend  of  increasing  haemoglobin  (not  statis-
+tically signiﬁcant)  was  noted  by  Federici  et  al.  (2007) .  However,
+the variations  in  haematology  in  both  studies  are  within  physio-
+logical
+ limits.  For  example,  temporal  changes  in  the  control  HCTs
+in Federici  et  al.  (2007)  was  around  6%,  exceeding  the  increase
+observed here.  Interestingly,  despite  similarities  in  the  incidence
+of
+ hyperplasia  in  the  gill  caused  by  exposure  to  TiO 2NPs  or  bulk
+TiO 2(Fig.  3),  and  the  subtly  increased  HCT  values  (Table  2);  this
+effect was  only  apparent  in  trout  exposed  to  TiO 2NPs and  not  the
+bulk TiO 2.  However,  both  materials  resulted  in  comparable  pro-
+portional decreases  in  the  area  of  red  pulp  in  the  spleen  (Fig.  4),
+consistent
+ with  the  release  of  red  cells  from  the  spleen  stores
+into the  circulation  in  response  to  hypoxia  (see  Handy  et  al.,  2011
+for  discussion  on  the  spleen).  However,  the  spleen  of  the  NP-
+exposed ﬁsh  showed  more  melanomacrophage  inﬁltrate  than  the
+controls or  bulk  material  treatment.  These  deposits  reﬂect  the
+normal
+ activity  of  the  spleen  in  processing  damaged  blood  cells,
+indicating the  spleen  was  working  harder  to  maintain  the  nor-
+mal counts  of  circulating  blood  cells,  especially  in  the  NP-exposed
+ﬁsh.
+Regardless
+ of  the  material-type,  the  haematological  response
+appears to  have  been  successful  in  terms  of  decreasing  any  hypoxia-
+driven oxidative  stress.  Hypoxia  is  known  to  cause  oxidative  stress
+in the  internal  tissues  of  ﬁsh,  (Luschak  and  Bagnyukova,  2007 ),
+and exposure  to  Ag  NPs  appears  to  reduce  the  hypoxia  tolerance
+of
+ the  Eurasian  perch  Perca  ﬂuviatilis  (Bilberg  et  al.,  2010 ).  In  the
+present study  biomarkers  of  oxidative  stress  in  the  gill  (total  glu-
+tathione, TBARS,  Fig.  2)  did  not  change,  presumably  because  this
+external epithelia  was  bathed  in  well  oxygenated  water  throughout
+the experiment.  In  Federici  et  al.  (2007)  the  branchial  glutathione
+only
+ increased  by  1  /H9262mol  g−1tissue  (probably  not  physiologically
+important), and  the  TBARS  increased  by  about  3  nmol  mg  protein−1
+due to  TiO 2NP  exposure.  These  are  arguably  only  subtle  differences
+in the  biochemical  responses  of  the  gills  between  the  two  stud-
+ies,
+ and  in  the  absence  of  glutathione  depletion  in  the  gills,  both
+studies suggest  that  oxidative  stress  was  not  the  likely  cause  of
+gill pathology.  However,  the  situation  was  different  for  the  inter-
+nal
+ organs,  with  both  the  kidney  and  brain  showing  increases  in
+TBARS (Fig.  2)  without  measurable  increases  in  brain  Ti  concen-
+tration (Table  1).  Federici  et  al.  (2007)  also  observed  elevations  of
+TBARS  in  the  brain  without  changes  in  Ti  concentration  of  the  organ.
+This  is  suggestive  of  an  indirect  effect  of  TiO 2NPs  on  the  brain  via
+systemic hypoxia. The brain, being a critical organ to protect from
+hypoxia,  also  showed  an  increased  total  glutathione  pool;  with  the
+126 D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127
+biggest changes  in  the  TiO 2NP-exposed  ﬁsh  (Fig.  2)  consistent  with
+the
+ material-type  effect  in  the  haematological  response  above.
+The absence  of  changes  in  oxidative  stress  parameters  in  the
+external epithelia  (no  change  in  branchial  total  glutathione  or
+TBARS, Fig.  2),  and  the  moderately  low  lux  of  the  laboratory  lighting
+used
+ in  the  present  study,  suggests  that  ultraviolet  (UV)  activa-
+tion of  reactive  oxygen  species  generation  by  the  TiO 2NPs  was  not
+likely in  the  experiment.  Using  the  same  TiO 2NPs,  Reeves  et  al.
+(2008) found  that  relatively  high  UVA  dose  rates  of  2.5  kJ  m−2were
+needed to  produce  oxidative  DNA  damage  in  ﬁsh  skin  cell  lines
+(GFSk-S1
+ cells).  The  modest  changes  in  oxidative  stress  param-
+eters in  the  internal  organs  (Fig.  2)  are  therefore  best  explained
+by some  systemic  hypoxia  associated  with  gill  injury.  Ecologically,
+rainbow trout  prefer  shade  and  areas  of  low  light  in  rivers  and
+one
+ might  therefore  expect  this  ﬁsh  to  avoid  the  worst  of  any
+theoretical UV-dependent  reactive  oxygen  releases  from  TiO 2in
+the wild.
+4.2. Effects  of  TiO2on  behaviour  of  trout
+Rainbow
+ trout  can  spend  two  thirds  or  more  of  their  daily  energy
+expenditure on  swimming,  and  consequently,  changes  in  locomo-
+tor activity  could  have  profound  effects  on  their  overall  energy
+budget and  probability  of  survival  (Priede,  1985 ).  From  a  biome-
+chanics perspective,  high  speed  swimming  is  (exponentially)  much
+more
+ energetically  expensive  than  low  or  moderate  speeds,  and  ﬁsh
+therefore rarely  attain  maximum  velocities  at  the  limit  of  aerobic
+metabolic scope  (Young  et  al.,  1972;  Priede,  1977 ).  This  is  reﬂected
+in
+ the  normal  locomotor  activity  pattern  reported  here,  with  ﬁsh
+spending most  of  their  time  at  low  or  moderate  speeds,  and  only
+with the  occasional  short  burst  of  high  speed  swimming  (Fig.  6C).
+This observation  is  also  consistent  with  our  previous  recordings  for
+juvenile rainbow  trout  (Handy  et  al.,  1999;  Campbell  et  al.,  2002 ).
+In
+ ﬁsh  exposed  to  TiO 2NPs  only,  the  proportion  of  time  spent
+swimming at  high  speed  (>20  cm  s−1)  was  signiﬁcantly  decreased
+compared to  the  unexposed  controls,  although  there  was  no  over-
+all difference  in  mean  swimming  speed  distributions  between  bulk
+and nano  TiO 2(Fig.  6C).  Consequently,  the  mean  velocity  of  ﬁsh
+when
+ active  was  unchanged  (Fig.  6B).  This  effect  of  metals  has  pre-
+viously been  reported  in  ﬁsh  exposed  to  dietary  Cu  where  mean
+swimming speeds  and  total  distanced  moved  show  limited  or  no
+overall change,  but  the  ﬁsh  had  altered  swimming  speed  distri-
+butions
+ in  favour  of  lower  speeds  (Handy  et  al.,  1999;  Campbell
+et al.,  2002 ).  This  phenomenon  has  been  explained  in  terms  of  a
+metabolic trade  off  in  the  energy  budget  of  the  animal,  where  Cu-
+exposed ﬁsh  redirect  energy  from  locomotion  to  tissue  repair  in
+order to  maintain  normal  growth  and  physiology  during  chronic
+Cu
+ exposure  (Handy  et  al.,  1999 ).  In  the  case  of  waterborne  TiO 2
+exposure, the  situation  is  analogous  in  that  the  ﬁsh  have  damaged
+gills (Fig.  3)  and  are  evidently  expending  energy  to  maintain  the
+circulating red  blood  cells  (Table  2);  and  probably  on  osmoregula-
+tion to  keep  all  the  tissue  electrolytes  generally  normal  (Fig.  1)  in
+the
+ face  of  a  leaky  (damaged)  gill  epithelium.  The  overall  strategy
+of TiO 2-exposed  ﬁsh  appeared  to  be  effective  because  the  ﬁsh  had
+normal blood  glucose  concentrations,  and  did  not  show  elevations
+of plasma  lactate  (i.e.,  no  build-up  of  an  oxygen  debt)  at  the  end  of
+the
+ experiment.
+However, the  question  arises  as  to  whether  the  TiO 2-exposed
+ﬁsh “voluntarily”  adopt  this  behavioural  strategy  of  less  time  at
+high
+ swimming  speeds,  or  are  simply  forced  to  do  it  because  they
+are physiologically  incapable  of  bursts  of  heavy  exercise.  The  latter
+seems unlikely  because  there  was  no  effect  of  TiO 2on
+ competitive
+ability. The  duration  of  each  contest,  the  level  of  aggression  and  the
+outcome  were  not  affected  by  TiO 2NP  exposure.  Previous  studies
+on exercise physiology have also demonstrated that ﬁsh can sustain
+considerable  loss  of  respiratory  function  before  swimming  ability  iscompromised.
+ For  example,  Duthie  and  Hughes  (1987)  report  >30%
+reduction
+ in  functional  gill  area  was  required  to  reduce  maximum
+sustained speed  in  exercised  ﬁsh.
+4.3.
+ Neurotoxicity  and  behaviour
+An alternative  hypothesis  to  gill  injury  (systemic  hypoxia  risk)
+driving the  haematological  and  behavioural  changes  observed  in
+the
+ present  study  is  direct  neurotoxicity  of  TiO 2NPs.  However,
+several lines  of  evidence  suggest  this  is  unlikely,  including  no
+detectable increases  of  Ti  in  the  brain  tissue,  although  secondary
+neurotoxicity associated  with  hypoxia  remains  possible.  The  lev-
+els of  pathologies  observed  in  brains  were  minimal,  and  unlikely
+to
+ compromise  the  role  of  the  cerebellum  (hind  brain)  in  co-
+ordinating motor  functions.  The  presence  of  enlarged  blood  vessels
+on the  surface  of  the  cerebellum  (Fig.  5)  may  not  be  pathological,  but
+simply part  of  a  prolonged  vasodilation  response  to  ensure  oxygen
+supply to  the  brain  to  compensate  for  the  gill  damage.  The  con-
+traction of  the  St.  periventricular  layer  in  the  mesencephalon  was
+most
+ likely  due  to  a  simple  ﬂuid  shift,  from  the  tissue  layer  into  the
+underlying ventricle.  This  observation  and  the  elevation  of  the  main
+electrolytes in  the  brain  tissue  of  the  TiO 2NP-treated  ﬁsh  (Fig.  1)
+suggest some  dehydration.  If  this  explanation  is  correct,  there  is
+also
+ a  theoretically  possible  that  an  electrolyte  and  ﬂuid  imbalance
+in the  brain  could  also  affect  motor  outputs  (locomotion).  In  clin-
+ical terms,  these  sorts  of  injuries  might  cause  some  discomfort  or
+delay
+ in  processing  of  stimuli  (i.e.,  a  ﬁsh  with  a  “headache”,  but  still
+functioning behaviourally).
+The data  supporting  electrical  properties  (Na+/K+-ATPase,  ratio
+of Na+:  K+in  the  tissue)  and  activity  of  AChE  in  the  brains  of  ﬁsh
+exposed to  TiO 2NPs  were  normal.  Loss  of  sympathetic  tone  (i.e.,
+pathology
+ of  motor  neurons  in  the  peripheral  nervous  system)  also
+seems unlikely  with  no  evidence  of  muscle  atrophy.  The  spleen  also
+retained its  ability  to  change  the  proportions  of  the  red  and  white
+pulp; a  function  that  can  only  be  achieved  with  intact  sympathetic
+control of  the  organ.  Windeatt  and  Handy  (2012)  also  recently
+showed
+ no  effects  on  action  potential  generation  with  direct  appli-
+cations of  1  mg  l−1TiO 2NPs  onto  isolated  crab  nerve  preparations
+in vitro.
+4.4.  Conclusions
+In conclusion,  this  study  demonstrates  that  juvenile  rainbow
+trout exposed  to  1  mg  l−1TiO 2NPs  for  14  days  spend  propor-
+tionally
+ less  time  at  high  swimming  speeds.  The  cause  of  this
+change in  swimming  speed  distribution  is  more  easily  explained
+by damage  to  the  gill  epithelium  with  a  subsequent  hypoxia  rather
+than direct  neurotoxicity  of  TiO 2.  Indirect  toxicity  through  hypoxia
+is
+ supported  by  a  decrease  in  the  red  pulp  in  the  spleen  and  a
+compensatory increase  in  HCT.  Subtle  changes  in  brain  histol-
+ogy with  enlarged  vasculature  are  also  consistent  with  systemic
+hypoxia. While  there  was  no  overall  material-type  effect  on  animal
+behaviour,
+ there  were  some  differences  between  bulk  and  nano
+TiO 2on the  organ  pathologies,  as  well  as  the  underlying  haema-
+tological responses  of  the  ﬁsh;  with  the  NP-exposed  ﬁsh  generally
+working harder  to  compensate  for  the  disturbances.  The  reasons
+for
+ these  material-type  effects  in  the  cardiovascular  physiology  of
+ﬁshes require  further  investigation.  However  when  challenged,  the
+animals retained  the  physiological  ability  to  compete  in  aggres-
+sive encounters.  From  an  ecological  perspective,  both  bulk  and
+nano TiO 2-exposed  ﬁsh  can  maintain  routine  swimming  speeds
+for
+ activities  like  foraging  behaviours,  as  well  as  defend  them-
+selves from  aggressors.  However,  bursts  of  high  speed  swimming
+may  be problematic for the TiO 2-NP  exposed  ﬁsh  in  particu-
+lar.
+D.  Boyle  et  al.  /  Aquatic  Toxicology  126 (2013) 116–  127 127
+Acknowledgements
+The  authors  wish  to  thank  A.  Atﬁeld,  C-P.  Chineegadoo,  B.
+Eynon, P.  Bond  and  M.  Hockings  for  technical  assistance.  This  work
+was funded  by  a  Natural  Environment  Research  Council  UK  grant
+(NE/G0018182/1)
+ awarded  to  R.  D.  Handy.  Genan  Al-Bairuty  was
+funded by  PhD  studentship  from  the  Iraqi  Government.
+References
+Bilberg, K.A.,  Malte,  H.,  Wang,  T.,  Baatrup,  E.,  2010.  Silver  nanoparticles  and  sil-
+ver
+ nitrate  cause  respiratory  stress  in  Eurasian  perch  (Perca  ﬂuviatilis ).  Aquatic
+Toxicology 96,  159–165.
+Camejo, G.,  Wallin,  B.,  Enojärvi,  M.,  1998.  Analysis  of  oxidation  and  antioxidants
+using
+ microtiter  plates.  In:  Armstrong,  D.  (Ed.),  Methods  in  Molecular  Biology,
+vol.
+ 108.  Humana  Press  Inc,  New  Jersey,  pp.  377–386.
+Campbell, H.A.,  Handy,  R.D.,  Sims,  D.W.,  2002.  Increased  metabolic  cost  of  swimming
+and
+ consequent  alterations  to  circadian  activity  in  rainbow  trout  (Oncorhynchus
+mykiss )
+ exposed  to  dietary  copper.  Canadian  Journal  of  Fisheries  and  Aquatic
+Sciences
+ 59,  768–777.
+Campbell, H.A.,  Handy,  R.D.,  Sims,  D.W.,  2005.  Shifts  in  a  ﬁsh’s  resource  holding
+power during  a  contact  paired  interaction:  the  inﬂuence  of  a  copper-
+contaminated
+ diet  in  rainbow  trout.  Physiological  and  Biochemical  Zoology  78,
+706–714.
+Duthie,
+ G.G.,  Hughes,  G.M.,  1987.  The  effects  of  reduced  gill  area  and  hyperoxia
+on
+ the  oxygen  consumption  and  swimming  speed  of  rainbow  trout.  Journal  of
+Experimental
+ Biology  127,  349–354.
+Ellman, G.L.,  Courtney,  K.D.,  Andres,  V.,  Feather-Stone,  R.M.,  1961.  A  new  and  rapid
+colorimetric determination  of  acetylcholinesterase  activity.  Biochemical  Phar-
+macology 7,  88–95.
+Federici,
+ G.,  Shaw,  B.J.,  Handy,  R.D.,  2007.  Toxicity  of  titanium  dioxide  nanoparticles
+to rainbow  trout,  (Oncorhynchus  mykiss ):  gill  injury,  oxidative  stress,  and  other
+physiological
+ effects.  Aquatic  Toxicology  84,  415–430.
+Gutmann, I.,  Wahlefeld,  A.W.,  1974.  l-(+)-lactate  determination  with  lactate  dehy-
+drogenase
+ and  NAD+.  In:  Bergmeyer,  H.U.  (Ed.),  Methods  of  Enzymatic  Analysis,
+vol. 3.  Academic  Press  Inc,  New  York,  pp.  1464–1468.
+Handy, R.D.,  Depledge,  M.H.,  1999.  Physiological  responses:  their  measurement  and
+use as  environmental  biomarkers  in  ecotoxicology.  Ecotoxicology  8,  329–349.
+Handy,
+ R.D.,  Sims,  D.W.,  Giles,  A.,  Campbell,  H.A.,  Musonda,  M.M.,  1999.  Metabolic
+trade-off between  locomotion  and  detoxiﬁcation  for  maintenance  of  blood
+chemistry and  growth  parameters  by  rainbow  trout  (Oncorhynchus  mykiss )  dur-
+ing
+ chronic  dietary  exposure  to  copper.  Aquatic  Toxicology  47,  23–41.
+Handy, R.D.,  von  der  Kammer,  F.,  Lead,  J.R.,  Hassellöv,  M.,  Owen,  R.,  Crane,  M.,  2008.
+The ecotoxicology  and  chemistry  of  manufactured  nanoparticles.  Ecotoxicology
+17, 287–314.
+Handy,
+ R.D.,  Al-Bairuty,  G.,  Al-Jubory,  A.,  Ramsden,  C.S.,  Boyle,  D.,  Shaw,  B.J.,  Henry,
+T.B., 2011.  Effects  of  manufactured  nanomaterials  on  ﬁshes:  a  target  organ  and
+body systems  physiology  approach.  Journal  of  Fish  Biology  79,  821–853.
+Hao, L.,  Wang,  Z.,  Xing,  B.,  2009.  Effect  of  sub-acute  exposure  to  TiO 2nanoparticles
+ on
+oxidative stress  and  histopathological  changes  in  Juvenile  Carp  (Cyprinus  carpio ).
+Journal of  Environmental  Sciences  21,  1459–1466.
+Johnston, B.D.,  Scown,  T.M.,  Moger,  J.,  Cumberland,  S.A.,  Baalousha,  M.,  Linge,  K.,  van
+Aerle,
+ R.,  Jarvis,  K.,  Lead,  J.R.,  Tyler,  C.R.,  2010.  Bioavailability  of  nanoscale  metal
+oxides TiO 2,  CeO 2,  and  ZnO  to  ﬁsh.  Environmental  Science  and  Technology  44,
+1144–1151.
+Kahru,
+ A.,  Dubourguier,  H-C.,  2010.  From  ecotoxicology  to  nanoecotoxicology.  Tox-
+icology
+ 269,  105–119.
+Klaine, S.J.,  Alvarez,  P.J.J.,  Batley,  G.E.,  Fernandes,  T.F.,  Handy,  R.D.,  Lyon,  D.Y.,  Mahen-
+dra,
+ S.,  McLaughlin,  M.J.,  Lead,  J.R.,  2008.  Nanomaterials  in  the  environment
+behavior,
+ fate,  bioavailability,  and  effects.  Environmental  Toxicology  and  Chem-
+istry 27, 1825–1851.Klaine, S.J.,  Koelmans,  A.A.,  Horne,  N.,  Carley,  S.,  Handy,  R.D.,  Kapustka,  L.,  Nowack,
+B.,
+ von  der  Kammer,  F.,  2012.  Paradigms  to  assess  the  environmental  impact
+of manufactured  nanomaterials.  Environmental  Toxicology  and  Chemistry  31,
+3–14.
+Lappivaara,
+ J.,  Nikinmaa,  M.,  Tuurala,  H.,  1995.  Arterial  oxygen  tension  and  the
+structure
+ of  the  secondary  lamellae  of  the  gills  in  rainbow  trout  (Oncorhynchus
+mykiss ) after  acute  exposure  to  zinc  and  during  recovery.  Aquatic  Toxicology  32,
+321–331.
+Luschak,
+ V.I.,  Bagnyukova,  T.V.,  2007.  Hypoxia  induces  oxidative  stress  in  tissues  of
+a goby,  the  rotan  Percottus  glenii .  Comparative  Biochemistry  and  Physiology  Part
+B 148,  390–397.
+Malte,
+ H.,  1992.  Effect  of  pulsatile  ﬂow  on  gas  exchange  in  the  ﬁshgill:  theory  and
+experimental data.  Respiration  Physiology  88,  51–62.
+Moore,
+ M.N.,  2006.  Do  nanoparticles  present  ecotoxicological  risks  for  the  health  of
+the aquatic  environment?  Environment  International  32,  967–976.
+Priede,
+ I.G.,  1977.  Natural  selection  for  energetic  efﬁciency  and  relationship  between
+activity
+ level  and  mortality.  Nature  267,  610–612.
+Priede, I.G.,  1985.  Metabolic  scope  in  ﬁshes.  In:  Tytler,  P.,  Calow,  P.  (Eds.),  Fish  Ener-
+getics:
+ New  Perspectives.  Croom  Helm,  London,  pp.  33–64.
+Ramsden, C.S.,  Smith,  T.J.,  Shaw,  B.J.,  Handy,  R.D.,  2009.  Dietary  exposure  to  tita-
+nium dioxide  nanoparticles  in  rainbow  trout,  (Oncorhynchus  mykiss ):  no  effect
+on
+ growth,  but  subtle  biochemical  disturbances  in  the  brain.  Ecotoxicology  18,
+939–951.
+Reeves,
+ J.F.,  Davies,  S.J.,  Dodd,  N.J.,  Jha,  A.N.,  2008.  Hydroxyl  radicals  (•OH)  are
+associated with  titanium  dioxide  (TiO 2)  nanoparticle-induced  cytotoxicity  and
+oxidative DNA  damage  in  ﬁsh  cells.  Mutation  Research  640,  113–122.
+Scott,
+ G.R.,  Sloman,  K.A.,  2004.  The  effects  of  environmental  pollutants  on  complex
+ﬁsh
+ behaviour:  integrating  behavioural  and  physiological  indicators  of  toxicity.
+Aquatic Toxicology  68,  369–392.
+Scown, T.M.,  van  Aerle,  R.,  Johnston,  B.D.,  Cumberland,  S.,  Lead,  J.R.,  Owen,  R.,
+Tyler,
+ C.R.,  2009.  High  doses  of  intravenously  administered  titanium  dioxide
+nanoparticles
+ accumulate  in  the  kidneys  of  rainbow  trout  but  with  no  observable
+impairment of  renal  function.  Toxicological  Sciences  109,  372–380.
+Silva, P.,  Soloman,  R.,  Spokes,  K.,  Epstein,  F.H.,  1977.  Ouabain  inhibition  of  gill
+Na+K+ATPase:
+ relationship  to  active  chloride  transport.  Journal  of  Experimental
+Zoology 199,  419–426.
+Shaw,
+ B.J.,  Handy,  R.D.,  2011.  Physiological  effects  of  nanoparticles  on  ﬁsh:  a
+comparison of  nanometals  versus  metal  ions.  Environment  International  37,
+1083–1097.
+Sloman,
+ K.A.,  Metcalfe,  N.B.,  Taylor,  A.C.,  Gilmour,  K.M.,  2000.  Physiological  effects  of
+dominance hierarchies  within  groups  of  brown  trout,  Salmo  trutta ,  held  under
+simulated natural  conditions.  Fish  Physiology  and  Biochemistry  22,  11–20.
+Sloman, K.A.,  Armstrong,  J.D.,  2002.  Physiological  effects  of  dominance  hierarchies:
+laboratory
+ artefacts  or  natural  phenomenon?  Journal  of  Fish  Biology  61,  1–23.
+Sloman, K.A.,  Baker,  D.G.,  Ho,  C.G.,  McDonald,  D.G.,  Wood,  C.M.,  2003a.  The  effects
+of
+ trace  metal  exposure  on  agonistic  encounters  in  juvenile  rainbow  trout,
+Oncorhynchus mykiss .  Aquatic  Toxicology  63,  187–196.
+Sloman, K.A.,  Scott,  G.R.,  Diao,  Z.,  Rouleau,  C.,  Wood,  C.M.,  McDonald,  D.G.,  2003b.
+Cadmium affects  the  social  behaviour  of  rainbow  trout,  Oncorhynchus  mykiss .
+Aquatic Toxicology  65,  171–185.
+Smith,
+ C.J.,  Shaw,  B.J.,  Handy,  R.D.,  2007.  Toxicity  of  single  walled  carbon  nanotubes
+to rainbow  trout,  (Oncorhynchus  mykiss ):  respiratory  toxicity,  organ  pathologies,
+and
+ other  physiological  effects.  Aquatic  Toxicology  82,  94–109.
+Wang, J.,  Zhou,  G.,  Chen,  C.,  Yu,  H.,  Wang,  T.,  Ma,  Y.,  Jia,  G.,  Gao,  Y.,  Li,  B.,  Sun,  J.,
+Li, Y.,  Jiao,  F.,  Zhao,  Y.,  Chai,  Z.,  2007.  Acute  toxicity  and  biodistribution  of  dif-
+ferent
+ sized  titanium  dioxide  nanoparticles  in  mice  after  oral  administration.
+Toxicology
+ Letters  168,  176–185.
+Weibel,
+ E.R.,  Kistler,  G.S.,  Scherle,  W.F.,  1966.  Practical  steriological  methods  for
+morphometric
+ cytology.  Journal  of  Cell  Biology  30,  23–38.
+Windeatt, K.M.W.,  Handy,  R.D.,  2012.  Effect  of  nanomaterials  on  the  com-
+pound
+ action  potential  of  the  shore  crab,  Carcinus  maenas .  Nanotoxicology,
+http://dx.doi.org/10.3109/17435390.2012.663809 .
+Young, A.H.,  Tytler,  P.,  Holliday,  F.G.T.,  MacFarlane,  A.,  1972.  A  small  sonic  tag  for
+measurement
+ of  locomotor  behaviour  in  ﬁsh.  Journal  of  Fish  Biology  4,  57–65.

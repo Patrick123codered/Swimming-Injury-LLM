@@ -1,0 +1,566 @@
+Sep •  Oct 2020
+478Tooth et al
+Shoulder injuries are common in athletes. In baseball, for 
+example, 12% to 19% of injuries are located at the shoulder,
+42 whereas in swimming, shoulder injuries are 
+estimated to be between 23% and 38% within a single year.8,52Overhead athletes often perform shoulder movements with 
+high velocity and extreme range of motion, thus making them more likely to suffer from shoulder issues. Modifications can be found in these athletes’ shoulders not only after several years of 931764 SPHXXX10.1177/1941738120931764T ooth et alPORTS HEALTH
+research-article 2020
+Risk Factors of Overuse Shoulder  
+Injuries in Overhead Athletes:  
+A Systematic Review
+Camille Tooth, PT,*†‡ Amandine Gofflot, PT,‡ Cédric Schwartz, PhD,† Jean-Louis Croisier, PT, 
+PhD,†‡ Charlotte Beaudart, PhD,§ Olivier Bruyère, PhD,§ and Bénédicte Forthomme, PT, PhD†‡
+Context: Shoulder injuries are highly prevalent in sports involving the upper extremity. Some risk factors have been identified in the literature, but consensus is still lacking.
+Objectives: To identify risk factors of overuse shoulder injury in overhead athletes, as described in the literature.Data Sources: A systematic review of the literature from the years 1970 to 2018 was performed using 2 electronic 
+databases: PubMed and Scopus.
+Study Selection: Prospective studies, written in English, that described at least 1 risk factor associated with overuse 
+shoulder injuries in overhead sports (volleyball, handball, basketball, swimming, water polo, badminton, baseball, and tennis) were considered for analysis.
+Study Design: Systematic review.Level of Evidence: Level 3.Data Extraction: Data were extracted from 25 studies. Study methodology quality was evaluated using the Modified 
+Coleman Methodology Score.
+Results: Intrinsic factors, previous injury, range of motion (lack or excess), and rotator cuff weakness (isometric and 
+isokinetic) highly increase the risk of future injuries. Additionally, years of athletic practice, body mass index, sex, age, and level of play seem to have modest influence. As for the effect of scapular dysfunction on shoulder injuries, it is still controversial, though these are typically linked. Extrinsic factors, field position, condition of practice (match/training), time of season, and training load also have influence on the occurrence of shoulder injuries.
+Conclusion: Range of motion, rotator cuff muscle weakness, and training load are important modifiable factors associated 
+with shoulder injuries. Scapular dysfunction may also have influence. The preventive approach for shoulder injury should focus on these factors.
+Keywords: overhead athletes; sports; strength; range of motion; prevention
+From †Laboratory of Human Motion Analysis, University of Liège, Liège, Belgium, ‡Department of Physical Medicine and Rehabilitation, University of Liège, Liège, Belgium, 
+and §Research Unit in Public Health, Epidemiology and Health Economics (URSAPES), WHO Collaborating Centre for Public Health Aspects of Musculo-Skeletal Health and 
+Aging, University of Liège, Liège, Belgium
+*Address correspondence to Camille Tooth, PT, Laboratory of Human Motion Analysis, Department of Physical Medicine and Rehabilitation, University of Liège, 4000 Liège, Belgium (email: ctooth@uliege.be) (Twitter: @ToothCamille).The following author declared potential conflicts of interest: O.B. reports grants from Biophytis, IBSA, MEDA, Servier, SMB, and Theramex outside the submitted work.
+DOI: 10.1177/1941738120931764
+© 2020 The Author(s)
+SPORTS HEALTHvol. 12 •  no. 5
+479practice but also after a single season.49 Some authors have 
+measured an increase in external rotation as well as a decrease 
+in internal rotation and in total range of motion in overhead athletes.
+48,49 These changes tend to be prolonged in time3,28,54 
+and could be associated with an increase in humeral head retroversion.
+7,56 Shoulder strength is also modified because of 
+practice. Additionally, a decrease in the external rotators/internal rotators ratio is observed in overhead athletes.
+14,19,24,38 
+Scapular dyskinesis has been widely explored during the past few years because of its high prevalence among overhead athletes (61%) versus among nonoverhead athletes (33%).
+4 The 
+evidence has shown a lack of scapular upward rotation in baseball pitchers
+27 as well as an increase in scapular anterior 
+tilting in swimmers.22
+Nowadays, clinicians are looking for prevention strategies to 
+decrease injuries and time loss, resulting in enhanced performance.
+15 Prior to implementing a preventative program 
+for athletes, the first step is to identify the various risk factors associated with the sport in question. Without this approach, quality work cannot be achieved.
+At present, few systematic reviews have evaluated risk factors 
+for shoulder pain or shoulder injuries in overhead sports. Webster et al
+54 focused primarily on water polo, while 
+Challoumas et al6 focused on volleyball; however, their sample 
+sizes were too limited to draw any conclusions.
+Therefore, the objective of this systematic review is to 
+highlight risk factors for shoulder injuries in athletes practicing overhead sports with regard to other nonrelated sports.
+Methods
+The PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) checklist was used to gauge the quality of this systematic review.
+Research Strategy
+A search was performed at the beginning of October 2017 on the PubMed and Scopus databases. A combination of keywords and Medical Subject Headings terms was used, as shown in the Appendix (available in the online version of this article). Additional studies were found using the references of articles and were added to the database if they met the inclusion criteria. The study search was again performed in October 2018 to include articles published in 2018.
+Inclusion and Exclusion Criteria
+Articles included in the study needed to describe at least 1 possible risk factor associated with shoulder injuries in overhead sports. Only prospective studies were included, as that study design is the most efficient way to identify risk factors in a population.
+28 Athletes assessed in the retained studies needed to 
+practice 1 of the following sports: volleyball, handball, basketball, swimming, water polo, baseball, badminton, or tennis.
+Moreover, articles meeting at least 1 of the following criteria 
+were excluded from the study: (1) experimenting on animals, (2) not written in English, (3) not available in full text, (4) assessing a region other than the shoulder complex, (5) concerning traumatic or contact injuries, (6) not including patient examination, (7) including Paralympic athletes, and (8) concerning surgical procedures or outcomes.
+Study Selection
+Two investigators independently selected the articles based on title and abstract, in accordance with the inclusion and exclusion criteria. Investigators were not blinded to author names and affiliations or journal names. If there was disagreement between the 2 investigators, a third was consulted to find consensus. The full text of the selected articles was independently read by the 2 investigators to identify risk factors described in the articles, and only relevant articles were kept for analysis.
+Data Extraction and Quality Assessment
+The following data were extracted from the articles by the 2 investigators: author names, year of publication, country, number of participants, sex and age of participants, randomization, blinding method, incidence of shoulder injury, risk factors examined, risk factors identified, assessment method, outcome measures, length of tracking, definition of shoulder pain or shoulder injury, level of play, field position, percentage of participants who completed the study, and risk ratios (Table 1).
+The quality of the articles was assessed by each author 
+independently using the Modified Coleman Methodology Score (MCMS), adapted from Cowan et al
+13 and previously used and 
+described by Burn et al4 in 2016. The last 5 items were excluded 
+from the analysis because no data on treatment were provided in the included studies. Group comparability was also not considered for the analysis as it was not appropriated with prospective studies. A total score was calculated for each article by summing the different individual scores, with a maximum total of 64 points. Degree of agreement between investigators in the quality assessment was estimated using 2 statistical tests: a Student t test for absolute reproducibility and an intraclass correlation test (2-way mixed, single measures, absolute agreement) for relative reproducibility.
+Results
+Literature Search
+The search strategy identified 1214 potentially relevant  
+articles on PubMed and 2059 on Scopus, amounting to a total of 3273 articles. After title and abstract review, only 198 articles were retained and fully read. After screening the 198 articles, 180 were excluded from analysis. Seven other studies that met the inclusion criteria were added to the database based on references of other articles or systematic reviews. Finally, 25 articles were considered relevant and retained for analysis. This search strategy is outlined in Figure 1.
+Sep •  Oct 2020 Tooth et al
+480
+Table 1. Risk factors of shoulder injuries identified in the studies included, classified by sport
+Author, Year of 
+PublicationStudy Participants 
+(Age) Rate of Shoulder Injury Material, Equipment Risk Factors IdentifiedLength of 
+TrackingQuality 
+Score
+Baseball
+ Wilk et al, 
+201555296 pitchers 
+(≈25 ± 5.1 years)75 shoulder injuries and 
+20 shoulder surgeries in 
+51 pitchersBubble goniometer •	Side-to-side	difference	<5° in ER ROM (×2.2 
+shoulder injury and ×4 shoulder surgery)a8 seasons 32
+	Shanley	et al,	
+201542115 pitchers 
+(8-18	years)33 injured players Digital goniometer •	Side-to-side	difference	of	HA	ROM	>15° (×4 
+shoulder injury)a
+•	Side-to-side	difference	of	IR	ROM	>13° (×6 
+shoulder injury)a4 seasons 38
+ Tyler et al, 
+201450101 high school 
+pitchers19 shoulder injuries Goniometer, 
+handheld dynamometer•	<20°	or	no	IR	ROM	loss	(bilateral	difference)
+a
+•	Preseason	supraspinatus	weaknessa
+•	>75 pitches per matcha4 seasons 27.5
+	Shanley	et al,	
+201243103 female softball 
+and 143 male baseball players 
+(13-18	years)27	shoulder	and	elbow	
+injuries (9 in softball 
+and 18 in baseball)Bubble goniometer •	Decrease	in	HA	ROM•	GIRD	>25° (×4 upper extremity injuries) in 
+baseball players
+a
+•	Decrease	in	total	rotation	ROM	(>20°) (×1.5-2	
+upper extremity injuries)2 seasons 43
+ Byram et al, 
+20105144 professional 
+baseball pitchers41	shoulder	injuries,	with	
+12 shoulders treated operativelyHandheld	
+dynamometer•	Supraspinatus	weakness	injury
+a
+•	Low	ER	(prone	+ supine) strength surgerya
+•	Low	strength	ratio	ER/IR	(prone)	injurya5 seasons 25.5
+	Shitara	et al,	
+20174478 high school 
+baseball pitchers (15-17	years)21	shoulder	and	elbow	
+injuriesGoniometer, 
+handheld dynamometer•	Reduced	total	rotation	ROM
+a
+•	Decreased	IR	ROMa
+•	Decreased	prone	ER	ratio	(dominant/
+nondominant side)a1 season 37
+ Noonan et al, 
+201637255 pitchers 30 shoulder injuries Indirect	US	
+techniques + digital inclinometer•	Decrease	in	humeral	retrotorsion	(4°)
+a4 years 33
+	Smith	et al,	
+20154548 pitchers and 50 
+position players (≈14 years)49 injuries in 98 athletes 
+(61% involved the shoulder)Web-based	
+questionnaire•	Moment	of	the	season	(6	first	weeks)
+a
+•	Pitchers	> position playersa1 season 30.5
+(continued)
+SPORTS HEALTHvol. 12 •  no. 5
+481Author, Year of 
+PublicationStudy Participants 
+(Age) Rate of Shoulder Injury Material, Equipment Risk Factors IdentifiedLength of 
+TrackingQuality 
+Score
+ Fleisig et al, 
+201117481 pitchers  
+(9-14	years)5% (cumulative incidence) Annual	telephone	call •	Pitching	more	than	100	innings	in	a	year	(×3.5 
+shoulder injury)a
+•	Concomitantly	playing	catcher	and	pitcher10 years 26
+	Lyman	et al,	
+200130476 pitchers  
+(9-14	years)50%	(elbow	or	shoulder	
+pain)Questionnaires + 
+pitch count logs + video analysis•	Curveball	(52%	increased	risk)
+a
+•	Number	of	pitches	in	a	match	and	in	a	seasona1 season 33.5
+ Matsuura 
+et al, 201732900 players  
+(7-11	years)18.3% shoulder pain Follow-up	
+questionnaire after 1 year (mail)•	Pitcher	position
+a
+•	Catcher	positiona
+•	Longer	training	hours	per	weeka
+•	History	of	shoulder	or	elbow	paina1 year 23.5
+Handball
+ Forthomme 
+et al, 201818106	male	high-level	
+handball players 
+(24 ± 4 years)22% shoulder injuries 
+during the season  (14% microtraumatic 
+and 8% traumatic) 
+Incidence	rate	of	1.13	
+shoulder	injuries/1000	
+play hoursIsokinetic	
+dynamometer (Cybex)•	Backcourt	players	(×3.5 shoulder injury)
+a
+For traumatic injuries:•	Weakness	IR	conc	240	deg/s
+a
+•	More	game	hours	per	montha1 season 32.5
+	Clarsen	et al,	
+20149206 elite handball 
+players (≈24 years)28% of shoulder injuries Digital inclinometer, 
+handheld dynamometer•	Decrease	total	ROM
+a
+•	Decrease	ER	strengtha
+•	Obvious	scapular	dyskinesisa1 season 43
+ Möller et al, 
+201735 679 handball players 
+(14-18	years)106 shoulder injuries (85 
+in the dominant arm)
+Incidence	rate	of	1.4/1000	
+playing hoursGoniometer 
++ handheld dynamometer +	phone,	SMS,	
+and medical 
+examination•	Increasing	>60% handball load
+a
+•	Increasing	>60% handball load +	ER	weaknessa
+•	Increasing	20%-60%	handball	load	+ scapular 
+dyskinesisa
+•	Increasing	20%-60%	handball	load	+ ER 
+weaknessa31	weeks 29
+	Seil	et al,	
+199841186 handball players 
+(≈25.8 years)91 injuries (37% upper 
+limb)
+2.5	injuries/1000	play	
+hoursQuestionnaire •	Games	> training (×20)a
+•	Regional	level	> local level (practice)a
+•	Wing	players	(36%)	and	backcourts	players	(33%)a1 season 25.5
+(continued)Table 1. (continued)
+Sep •  Oct 2020 Tooth et al
+482
+Author, Year of 
+PublicationStudy Participants 
+(Age) Rate of Shoulder Injury Material, Equipment Risk Factors IdentifiedLength of 
+TrackingQuality 
+Score
+ Edouard et al, 
+20131416 female elite 
+handball players and 14 healthy 
+female nonathletes 
+(≈18 ± 1 years)9 injuries on the dominant 
+side
+Incidence	rate	of	1.07	
+injuries/1000	training	hoursIsokinetic	
+dynamometer (Con-Trex)•	ER	conc/IR	conc	at	240	deg/s	<0.69
+a
+•	IR	ecc/ER	conc	at	60	deg/s	>1.61a
+•	High	BMIa
+•	High	heighta1 season 24.5
+ Giroto et al, 
+201721339 handball players 
+(156 men and 183 women)	(≈23.4 ± 
+4.6 years)312 injuries and 201 
+athletes injured
+Incidence	rate	of	3.7/1000	
+training hours and 
+20.3/1000	game	hoursQuestionnaire Overuse injuries•	History	of	injury
+a
+•	Playing	1	more	match	per	weeka7 months 34.5
+Tennis
+	Hjelm	et al,	
+20122355 tennis players (35 
+men,	20	women) 
+(12-18	years)100	new	and	recurrent	
+injuries (39 players) (24% upper extremity)Goniometer, 
+inclinometer•	History	of	injury
+a
+•	Total	number	of	play	by	yeara
+•	Number	of	years	of	practicea2 years 35
+Basketball
+	Meeuwisse	
+et al, 200334318 basketball 
+players10 shoulder injuries Questionnaire •	Games	> practice (×3.7 injuries)a
+•	History	of	injurya2 years 25.5
+Volleyball
+ Forthomme 
+et al, 20131966 volleyball players 
+(first and second 
+division) (34 men, 
+32	women) 
+(24 ± 5 years)23% (15) of the volleyball 
+players experienced dominant shoulder painIsokinetic	
+dynamometer (Cybex)•	History	of	injury	(×9)
+a
+•	Less	ecc	60	deg/s	IR	strengtha
+•	Less	ecc	60	deg/s	ER	strengtha6 months 
+(indoor season 
+2008-2009)30
+ Wang and 
+Cochrane,	
+2001
+5316 elite volleyball 
+players7 patients had shoulder 
+injury or painGoniometer, 
+isokinetic dynamometer	(Kin-
+ComAP	Muscle	
+Testing	System)•	Ecc	ER	<	conc	IR
+a1 season 23
+(continued)Table 1. (continued)
+SPORTS HEALTHvol. 12 •  no. 5
+483Author, Year of 
+PublicationStudy Participants 
+(Age) Rate of Shoulder Injury Material, Equipment Risk Factors IdentifiedLength of 
+TrackingQuality 
+Score
+Swimming
+	Chase	et al,	
+2013834	swimmers	(16	
+men and 18 
+women)	 
+(≈19.5 ± 1.4 years)31 injuries in 20 
+swimmers	(13	by	 
+9 male and 18 by  
+11 female)
+Incidence	men	=	
+5.33/1000	hours;	
+incidence	women	= 6.5/1000	hoursInjury	report	
+interview•	History	of	injury	(at	the	same	localization	or	at	
+another	localization)8 months 21
+ Walker et al, 
+2012
+5274 competitive 
+swimmers	(37 men, 
+37 women)	 
+(≈15 ± 3 years)38% shoulder pain and 
+23% shoulder injury
+Incidence	shoulder	pain	
+=	0.3/1000	swim	km;	incidence shoulder injury = 0.2 injuries per 1000	swim	kmGoniometer •	ER	ROM	<93° (12.5× shoulder pain and 32.5× 
+shoulder injury) or >100° (8.1× shoulder pain and 35.4× shoulder injury)
+a
+•	History	of	injury	(4.1× shoulder pain and 11.3× 
+shoulder injury)a
+•		Training	(90%)	> competitiona1 year 26
+ McKenna 
+et al, 20123339	swimmers	and	43	
+nonswimmers	 (≈14 years)23.9% shoulder pain 
+in	swimmers	and	30.8% (12 of 39) in 
+nonswimmersMeasuring tape •	High	BMI
+•	Scapular	dyskinesis	(inferior	distance	scapula	
+and thoracic spine)
+•	Lower	horizontal	distance	between	anterior	part	
+of glenohumeral head and anterior part of the acromion (more posterior humeral head)1 year 31.5
+Others
+	Struyf	et al,	
+2014
+46113 recreational 
+overhead athletes 
+(59	women,	
+54 men) 
+(≈34 years)22% shoulder pain Sliding	caliper,	
+inclinometer, “Mean Disability 
+Shoulder	
+Questionnaire”•	Less	scapular	upward	rotation	at	45°	and	90°	of	
+shoulder abduction (frontal plane)
+a2 years 31.5
+BMI,	body	mass	index;	conc,	concentric;	ecc,	eccentric;	ER,	external	rotation;	GIRD,	glenohumeral	internal	rotation	deficit;	HA,	horizontal	adduction;	IR,	internal	rotation;	ROM,	range	of	motion;	SMS,	short	message	
+service	(text);	US,	ultrasound.
+aSignificant	risk	factor.Table 1. (continued)
+Sep •  Oct 2020 Tooth et al
+484Data Extraction and Quality Assessment
+The studies in this systematic review included participants from 
+6 different sports: baseball (n = 11), handball (n = 6), swimming (n = 3), volleyball (n = 2), tennis (n = 1), and basketball (n = 1). Additionally, 1 study included recreational overhead athletes without distinction between sports. Participant age ranged between 7 and 36.6 years. A total of 17 studies included male athletes, 7 included both male and female athletes, and 1 included only female athletes. The duration of follow-up was quite variable, ranging from 31 weeks to 10 years, with a mean (±SD) follow-up period of 2.23 ± 2.4 years. The standard deviation is larger than the mean, which shows an important interstudy variability in the length of follow-up.
+The level of evidence of the included articles was between 1 
+and 3, but it was not specified in 10 articles. The quality score of the articles was calculated as the average of the scores from the 2 investigators. Statistical analysis showed a very good interrater agreement both for t  test (P  = 0.752) and for intraclass correlation 
+coefficient (0.981; range, 0.958-0.992). The scores varied between 21 and 43 of a total of 64, with a mean score of 30.4 ±  6.00. The score assigned to each article can be found in Table 1. The score provided is the mean score from the 2 investigators.
+Risk Factors for Shoulder Injuries
+The different risk factors of shoulder injuries identified in the studies are summarized in Table 2 (intrinsic factors) and Table 3 (extrinsic factors).
+discussion
+The purpose of this systematic review is to identify risk factors of overuse shoulder injury in overhead athletes. Despite the important variability of the quality of the studies, several intrinsic and extrinsic risk factors have been highlighted among the 25 studies retained. All of these factors should be considered in managing overhead athletes, and the modifiable ones may be the subject of preventative strategies.
+1,10,11
+Glenohumeral internal rotation deficit resulting from posterior 
+shoulder stiffness40,47 is frequently observed after practice.2,9,20,23 
+Even though Burkhart et al3 suggested that an internal rotation 
+deficit less than 20° was acceptable, Shanley et al42 
+Figure	1.	 Research	strategy	using	the	PRISMA	(Preferred	Reporting	Items	for	Systematic	Meta-Analyses)	guidelines.
+SPORTS HEALTHvol. 12 •  no. 5
+485Table	2.	Intrinsic	risk	factors	of	shoulder	injuries
+Intrinsic Risk Factors Study For (+) or Against (-)
+History	of	shoulder	pain,	with	or	without	shoulder	
+injuryMeeuwisse	et al,	2003 +
+Walker et al, 2012 +
+Hjelm	et al,	2012 +
+Forthomme et al, 2013 +
+Chase	et al,	2013 +
+Giroto et al, 2017 +
+Matsuura et al, 2017 +
+Range of motion and shoulder flexibility Shanley	et al,	2012 +
+Tyler et al, 2014 −
+Shanley	et al,	2015 +
+Wilk et al, 2015 −
+Muscle	weakness	and	agonist/antagonist	
+imbalancesByram et al, 2010 +
+Forthomme et al, 2013 +
+Tyler et al, 2014 +
+Clarsen	et al,	2014 +
+Shitara	et al,	2017 +
+Scapular	dyskinesis McKenna et al, 2012 +
+Hjelm	et al,	2012 −
+Myers et al, 2013 −
+Clarsen	et al,	2014 +
+Struyf	et al,	2014 +
+Years of practice Hjelm	et al,	2012 +
+Chase	et al,	2013 −
+Clarsen	et al,	2014 −
+Body mass index McKenna et al, 2012 +
+Edouard et al, 2013 +
+Clarsen	et al,	2014 −
+Sex Forthomme et al, 2013 +
+Giroto et al, 2017 +
+Age Clarsen	et al,	2014 −
+Matsuura et al, 2017 −
+Level	of	play Seil	et al,	1998 +
+Clarsen	et al,	2014 −
+Sep •  Oct 2020 Tooth et al
+486demonstrated that, in baseball, a side-to-side difference of 13° 
+still increased the risk of shoulder injuries by a factor of 6. The sleeper stretch can be performed regularly by athletes with glenohumeral internal rotation deficit to loosen the shoulder joint.
+11,12 Moreover, an excess of external rotation range of 
+motion, which can increase anteroinferior instability,51 could be 
+modified by proprioception and motor control exercises.39
+Even if causes of scapular dysfunction are quite disparate, 
+Kibler26 recommend 2 different types of alterations: a lack of 
+extensibility and an altered motor pattern. Pectoralis minor stretching could be done in association with TheraBand exercises to normalize scapular motor pattern.
+25,31
+As demonstrated in this review, there should be a focus on 
+strengthening the external (concentric and eccentric modes) and internal (eccentric mode only) rotators to provide stability to the humeral head during movement of the upper extremity in overhead athletes. Athletic equipment such as elastic bands and dumbbells can be used, even if the gold standard remains the isokinetic dynamometer, which can instantly adapt the resistance to the individual strength of the athlete.
+The importance of optimal management of the training load 
+must be emphasized. The frequency of sports matches and the intensity of training have an important influence on shoulder issues, thereby amplifying strain injuries caused by inadequate movement and lack of recovery time.
+16,29,32 Coaches and trainers 
+should be aware of the importance of quantifying training load and adapt it to each athlete.
+This systematic review has several limitations. The first is the 
+variability of the different studies included in this review. The level of evidence varied between 1 and 3 for each study. Moreover, the MCMS scores of the included articles are between 21 and 43 out of a total of 64. It is clear that there are differences between articles regarding methodology and quality. Additionally, the populations that were examined varied in age, number of athletes included, sport practiced, hours of training, level of play, and history, which may influence the results. Finally, the length of study varied, with athletes examined between a 0- and 10-year time span.
+conclusion
+This systematic review highlights important risk factors for shoulder injuries in overhead athletes. Prevention is an existing topic, but the small numbers of prospective studies published on that topic in the literature and the important variability of the quality of the studies included in this systematic review show that risk factors of shoulder injuries in overhead sports are still not completely demonstrated. Biomechanics differs from one sport to another. Although there are 11 studies on baseball, there are other sports such as volleyball, tennis, and badminton that beg to be explored if prevention is to be mastered. The true efficiency of prevention programs to limit shoulder injuries in overhead athletes must also be further investigated.
+RefeRences
+ 1. Andersson SH, Bahr R, Clarsen B, Myklebust G. Preventing overuse shoulder 
+injuries among throwing athletes: a cluster-randomised controlled trial in 660 
+elite handball players. Br J Sports Med. 2017;51:1073-1080.
+ 2. Baltaci G, Johnson R, Kohl H. Shoulder range of motion characteristics in 
+collegiate baseball players. J Sports Med Phys Fitness. 2001;41:236-242.
+ 3. Burkhart SS, Morgan CD, Kibler WB. The disabled throwing shoulder: 
+spectrum of pathology part I: pathoanatomy and biomechanics. Arthroscopy. 
+2003;19:404-420.Table 3. Extrinsic risk factors of shoulder injuries
+Extrinsic Risk Factors Study For (+) or Against (-)
+Field position
+ 
+ 
+ Seil	et al,	1998 +
+Smith	et al,	2015 +
+Matsuura et al, 2017 +
+Forthomme et al, 2018 +
+Match or training
+ Seil	et al,	1998 +
+Walker et al, 2012 +
+Training	load/frequency	of	the	matches
+  
+ 
+  Lyman	et al,	2002 +
+Fleisig	and	Andrews,	2012 +
+Hjelm	et al,	2012 +
+Tyler et al, 2014 +
+Matsuura et al, 2017 +
+Møller et al, 2017 +
+SPORTS HEALTHvol. 12 •  no. 5
+487 4. Burn MB, McCulloch PC, Lintner DM, Liberman SR, Harris JD. Prevalence of 
+scapular dyskinesis in overhead and nonoverhead athletes: a systematic review. 
+Orthop J Sports Med. 2016;4:2325967115627608.
+ 5. Byram IR, Bushnell BD, Dugger K, Charron K, Harrell FE, Noonan TJ. Preseason 
+shoulder strength measurements in professional baseball pitchers. Am J Sports Med. 2010;38:1375-1382.
+ 6. Challoumas D, Artemiou A, Dimitrakakis G. Dominant vs non-dominant shoulder morphology in volleyball players and associations with shoulder pain and spike speed. J Sports Sci. 2017;35:65-73.
+ 7. Chant CB, Litchfield R, Griffin S, Thain LMF. Humeral head retroversion in competitive baseball players and its relationship to glenohumeral rotation range of motion. J Orthop Sports Phys Ther. 2007;37:514-520.
+ 8. Chase KI, Caine DJ, Goodwin BJ, Whitehead JR, Romanick MA. A prospective study of 
+injury affecting competitive collegiate swimmers. Res Sports Med. 2013;21:111-123.
+ 9. Clarsen B, Bahr R, Andersson SH, Munk R. Reduced glenohumeral rotation, 
+external rotation weakness and scapular dyskinesis are risk factors for shoulder injuries among elite male handball players: a prospective cohort study. Br J 
+Sports Med. 2014;48:1327-1333.
+ 10. Cools AM, Johansson FR, Borms D, Maenhout A. Prevention of shoulder injuries in 
+overhead athletes: a science-based approach. Brazil J Phys Ther. 2015;19:331-339.
+ 11. Cools AM, Johansson FR, Cagnie B, Cambier DC, Witvrouw EE. Stretching the posterior shoulder structures in subjects with internal rotation deficit: comparison of two stretching techniques. Shoulder Elbow. 2012;4:56-63.
+ 12. Cools AMJ, Struyf F, De Mey K, Maenhout A, Castelein B, Cagnie B. 
+Rehabilitation of scapular dyskinesis: from the office worker to the elite 
+overhead athlete. Br J Sports Med. 2014;48:692-697.
+ 13. Cowan J, Lozano-Calderón S, Ring D. Quality of prospective controlled 
+randomized trials. J Bone Joint Surg. 2007;89:1693-1699.
+ 14. Edouard P, Degache F, Oullion R, Plessis JY, Gleizes-Cervera S, Calmels P. Shoulder strength imbalances as injury risk in handball. Int J Sports Med. 2013;34:654-660.
+ 15. Eirale C, Tol JL, Farooq A, Smiley F, Chalabi H. Low injury rate strongly correlates 
+with team success in Qatari professional football. Br J Sports Med. 2013;47:807-808.
+ 16. Fleisig GS, Andrews JR. Prevention of elbow injuries in youth baseball pitchers. 
+Sports Health. 2012;4:419-424.
+ 17. Fleisig GS, Andrews JR, Cutter GR, et al. Risk of serious injury for young baseball 
+pitchers: a 10-year prospective study. Am J Sports Med. 2011;39:253-257.
+ 18. Forthomme B, Croisier J-L, Delvaux F, Kaux J-F, Crielaard J-M, Gleizes-Cervera S. Preseason strength assessment of the rotator muscles and shoulder injury in handball players. J Athl Train. 2018;53:174-180.
+ 19. Forthomme B, Wieczorek V, Frisch A, Crielaard J-M, Croisier J-L. Shoulder pain 
+among high-level volleyball players and preseason features. Med Sci Sports Exerc. 
+2013;45:1852-1860.
+ 20. Freehill MT, Archer KR, Diffenderfer BW, Ebel BG, Cosgarea AJ, McFarland EG. Changes in collegiate starting pitchers’ range of motion after single game and 
+season. Phys Sportsmed. 2014;42:69-74.
+ 21. Giroto N, Hespanhol Junior LC, Gomes MRC, Lopes AD. Incidence and risk factors of injuries in Brazilian elite handball players: a prospective cohort study. 
+Scand J Med Sci Sports. 2017;27:195-202.
+ 22. Hibberd EE, Laudner KG, Kucera KL, Berkoff DJ, Yu B, Myers JB. Effect of swim 
+training on the physical characteristics of competitive adolescent swimmers. Am J 
+Sports Med. 2016;44:2813-2819.
+ 23. Hjelm N, Werner S, Renstrom P. Injury risk factors in junior tennis players: a prospective 2-year study. Scand J Med Sci Sports. 2012;22:40-48.
+ 24. Hurd WJ, Kaplan KM, EIAttrache NS, Jobe FW, Morrey BF, Kaufman KR. A 
+profile of glenohumeral internal and external rotation motion in the uninjured 
+high school baseball pitcher, part I: motion. J Athl Train. 2011;46:282-288.
+ 25. Kibler WB, Sciascia AD, Uhl TL, Tambay N, Cunningham T. Electromyographic 
+analysis of specific exercises for scapular control in early phases of shoulder 
+rehabilitation. Am J Sports Med. 2008;36:1789-1798.
+ 26. Kibler WB. Scapular dyskinesis and its relation to shoulder injury. J Am Acad 
+Orthop Surg. 2012;20:364-372.
+ 27. Laudner KG, Lynall R, Meister K. Shoulder adaptations among pitchers and 
+position players over the course of a competitive baseball season. Clin J Sport 
+Med. 2013;23:184-189.
+ 28. Lee Johnson L. Design of observational studies. In: Gallin JI, Ognibene FP, eds. 
+Principles and Practice of Clinical Research. Academic Press; 2012:207-223.
+ 29. Lyman S, Fleisig GS, Andrews JR, Osinski ED. Effect of pitch type, pitch count, 
+and pitching mechanics on risk of elbow and shoulder pain in youth baseball 
+pitchers. Am J Sports Med. 2002;30:463-468.
+ 30. Lyman S, Fleisig GS, Waterbor JW, et al. Longitudinal study of elbow and shoulder pain in youth baseball pitchers. Med Sci Sports Exerc. 2001;33:  
+1803-1810. 31. Maenhout A, Benzoor M, Werin M, Cools A. Scapular muscle activity in a variety of plyometric exercises. J Electromyogr Kinesiol. 2016;27:39-45.
+ 32. Matsuura T, Iwame T, Suzue N, Arisawa K, Sairyo K. Risk factors for shoulder and elbow pain in youth baseball players. Phys Sportsmed. 2017;45:140-144.
+ 33. McKenna L, Straker L, Smith A. Can scapular and humeral head position predict shoulder pain in adolescent swimmers and non-swimmers? J Sports Sci. 
+2012;30:1767-1776.
+ 34. Meeuwisse, WH, Sellmer, R, Hagel, BE. Rates and risks of injury during 
+intercollegiate basketball. Am J Sports Med. 2003;31(3):379-385.
+ 35. Møller M, Nielsen RO, Attermann J, et al. Handball load and shoulder injury rate: a 31-week cohort study of 679 elite youth handball players. Br J Sports Med. 2017;51:231-237.
+ 36. Myers JB, Oyama S, Hibberd EE. Scapular dysfunction in high school baseball 
+players sustaining throwing-related upper extremity injury: a prospective study. 
+J Shoulder Elbow Surg. 2013;22:1154-1159.
+ 37. Noonan TJ, Thigpen CA, Bailey LB, et al. Humeral torsion as a risk factor for shoulder and elbow injury in professional baseball pitchers. Am J Sports Med. 
+2016;44:2214-2219.
+ 38. Pluim BM, Staal JB, Windler GE, Jayanthi N. Tennis injuries: occurrence, 
+aetiology, and prevention. Br J Sports Med. 2006;40:415-423.
+ 39. Reinold MM, Gill TJ. Current concepts in the evaluation and treatment of the shoulder in overhead-throwing athletes, part 1: physical characteristics and clinical examination. Sports Health. 2010;2:39-50.
+ 40. Rose MB, Noonan T. Glenohumeral internal rotation deficit in throwing athletes: 
+current perspectives. Open Access J Sports Med. 2018;19:69-78.
+ 41. Seil R, Rupp S, Tempelhof S, Kohn D. Sports injuries in team handball. A 
+one-year prospective study of sixteen men’s senior teams of a superior 
+nonprofessional level. Am J Sports Med. 1998;26:681-687.
+ 42. Shanley E, Kissenberth MJ, Thigpen CA, et al. Preseason shoulder range of motion screening as a predictor of injury among youth and adolescent baseball 
+pitchers. J Shoulder Elbow Surg. 2015;24:1005-1013.
+ 43. Shanley E, Thigpen CA, Clark JC, et al. Changes in passive range of motion and development of glenohumeral internal rotation deficit (GIRD) in the professional 
+pitching shoulder between spring training in two consecutive years. J Shoulder 
+Elbow Surg. 2012;21:1605-1612.
+ 44. Shitara H, Kobayashi T, Yamamoto A, et al. Prospective multifactorial analysis 
+of preseason risk factors for shoulder and elbow injuries in high school baseball 
+pitchers. Knee Surg Sports Traumatol Arthrosc. 2017;25:3303-3310.
+ 45. Smith MV, Davis R, Brophy RH, Prather H, Garbutt J, Wright RW. Prospective player-reported injuries in female youth fast-pitch softball players. Sports Health. 
+2015;7:497-503.
+ 46. Struyf F, Nijs J, Meeus M, et al. Does scalpular positioning predct shoulder pain 
+in recreational overhead athletes? Int J Sports Med. 2014;35:75-82.
+ 47. Takenaga T, Sugimoto K, Goto H, et al. Posterior shoulder capsules are thicker and stiffer in the throwing shoulders of healthy college baseball players. Am J Sports Med. 2015;43:2935-2942.
+ 48. Thomas SJ, Higginson JS, Kaminski TW, et al. A bilateral comparison of posterior capsule 
+thickness and its correlation with glenohumeral range of motion and scapular upward 
+rotation in collegiate baseball players. J Shoulder Elbow Surg. 2011;20:708-716.
+ 49. Thomas SJ, Swanik CB, Swanik K, Kelly JD. Change in glenohumeral rotation and scapular position after a Division I collegiate baseball season. J Sport 
+Rehabil. 2013;22:115-121.
+ 50. Tyler TF, Mullaney MJ, Mirabella MR, Nicholas SJ, McHugh MP. Risk factors 
+for shoulder and elbow injuries in high school baseball pitchers. The role of 
+preseason strength and range of motion. Am J Sports Med. 2014;42:1993-1999.
+ 51. Von Eisenhart-Rothe R, Matsen FA, Eckstein F, Vogl T, Graichen H. 
+Pathomechanics in atraumatic shoulder instability: scapular positioning 
+correlates with humeral head centering. Clin Orthop Relat Res. 2005;433:82-89.
+ 52. Walker H, Gabbe B, Wajswelner H, Blanch P, Bennell K. Shoulder pain in 
+swimmers: a 12-month prospective cohort study of incidence and risk factors. 
+Phys Ther Sport. 2012;13:243-249.
+ 53. Wang HK, Cochrane T. Mobility impairment, muscle imbalance, muscle 
+weakness, scapular asymmetry and shoulder injury in elite volleyball athletes. 
+J Sports Med Phys Fitness. 2001;41:403-410.
+ 54. Webster MJ, Morris ME, Galna B. Shoulder pain in water polo: a systematic 
+review of the literature. J Sci Med Sport. 2009;12:3-11.
+ 55. Wilk KE, Fleisig GS, Aune KT, et al. Deficits in glenohumeral passive range 
+of motion increase risk of shoulder injury in professional baseball pitchers: a 
+prospective study. Am J Sports Med. 2015;43:2379-2385.
+ 56. Wyland DJ, Pill SG, Shanley E, et al. Bony adaptation of the proximal humerus and glenoid correlate within the throwing shoulder of professional baseball 
+pitchers. Am J Sports Med. 2012;40:1858-1862.
+For article reuse guidelines, please visit SAGE’s website at http://www.sagepub.com/journals-permissions.

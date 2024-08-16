@@ -1,0 +1,547 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/259723320
+Sports-related inju ries in athletes with disabilities
+Article    in  Scandinavian Journal of Medicine and Scienc e in Sports  · Januar y 2014
+DOI: 10.1111/sms.12175  · Sour ce: PubMed
+CITATIONS
+144READS
+6,005
+2 author s:
+Kristina F agher
+Lund Univ ersity
+68 PUBLICA TIONS    755 CITATIONS    
+SEE PROFILE
+Jan L exell
+Lund Univ ersity
+322 PUBLICA TIONS    17,089  CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Jan L exell on 15 F ebruar y 2018.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+Review
+Sports-related injuries in athletes with disabilities
+K. Fagher1, J. Lexell1,2,3
+1Department of Health Sciences, Lund University, Lund, Sweden,2Department of Rehabilitation Medicine, Skåne University Hospital,
+Lund, Sweden,3The Swedish Sports Organization for the Disabled and The Swedish Paralympic Committee, Lund, Sweden
+Corresponding author: Kristina Fagher, RPT, MSc, Department of Health Sciences, Rehabilitation Medicine Research Group, LundUniversity, PO Box 157, 221 00 Lund, Sweden. Tel: +46 46 222 1991, Fax: +46 46 222 1808, E-mail: kristina.fagher@med.lu.se
+Accepted for publication 9 December 2013
+The number of athletes with disabilities participating in
+organized sports and the popularity of the ParalympicGames is steadily increasing around the world. Despitethis growing interest and the fact that participation insports places the athlete at risk for injury, there are fewstudies concerning injury patterns, risk factors, and pre-vention strategies of injuries in disabled athletes. In thissystematic literature search and critical review, we sum-marize current knowledge of the epidemiology of sports-related injuries in disabled athletes and describe theircharacteristics, incidence, prevalence, and preventionstrategies. The outcomes of interest were any injury,either an acute trauma or an overuse event. PubMed,EMBASE, CINAHL, and Google Scholar were systemati-
+cally searched and 25 of 605 identiﬁed studies met theinclusion criteria. Lower extremity injuries were morecommon in walking athletes, whereas upper extremityinjuries were more prevalent in wheelchair athletes. Themethodologies and populations varied widely between thestudies. Few studies were sports or disability speciﬁc,which makes it difﬁcult to determine speciﬁc risk factors,and few studies reported injury severity and preventionof injuries. Further longitudinal, systematic sports anddisability speciﬁc studies are needed in order to identifyand prevent injuries in athletes with disabilities.
+Exercise is frequently associated with health beneﬁts
+and is widely recommended as a proactive behavior toreduce the risk of several diseases such as osteoporosis,cardiovascular diseases, the metabolic syndrome, andcancer (Pedersen & Saltin, 2006). For a disabled person,it is even more important to be physically active toimprove and maintain cardiovascular ﬁtness, self-efﬁcacy, and self-perceived quality of life (Blauwet &Willick, 2012). Participation in organized sports is anatural way for people with disabilities to be physicallyactive, and the opportunities to take part in organizedsports have increased markedly during the last decades.
+However, participation in sports also increases the risk
+of sports-related injuries, either acute trauma or overuseinjury. An injury may lead to morbidity and mortality(Kjaer et al., 2005; Ljungqvist et al., 2009) and the indi-vidual could lose training time and working/school time.Furthermore, sports-related injuries can be a burden for thesociety, with medical treatment, rehabilitation, and reducedwork capacity (Kjaer et al., 2005). For the disabled athlete,an injury could also have more serious consequences com-pared with an able-bodied athlete. For example, an upperextremity muscle strain may inﬂuence the throwing in anable-bodied javelin thrower, whereas it will affect bothsports participation and activities of daily living in a dis-abled wheelchair javelin thrower (Vanlandewijck &Thompson, 2011). Despite the growing popularity andinterest in competitive and Paralympic sports, there has
+been little research on injuries caused by sports participa-tion among disabled athletes.
+In a health-care perspective, Paralympic sports poses
+many challenges not faced in Olympic sports (Webborn& Van de Vliet, 2012). Existing studies show that theoverall rates of injuries are considerably high andcomparable with injury rates in able-bodied athletes.However, data regarding the epidemiology of injuries,time loss due to injury, injury severity, and sports anddisability speciﬁc risk factors are very limited. Further-more, very few studies have assessed injury preventionstrategies. The aim of this systematic literature searchand critical review was therefore to bring togethercurrent knowledge about injury epidemiology with afocus on prevalence, incidence, etiology, risk factors,and prevention strategies of sports-related injuries in ath-letes with disabilities participating in organized sportsand Paralympic sports.
+Methods
+This review is based on a structured systematic literature search that
+was conducted in the following databases: PubMed, CINAHL,EMBASE, and Google Scholar. The ﬁrst database search wascompleted before the 25th of April 2013 and updated on 1st of June2013. The literature search employed the following keywords:“sports” AND “Paralympic” OR “disability” AND “wounds andScand J Med Sci Sports 2014: : –doi: 10. 1111/sms.12175© 2014 John Wiley & Sons A/S.
+Published by John Wiley & Sons Ltd
+1
+injuries” OR “injury” AND “epidemiology” NOT “review”. The
+search produced 605 results (Fig. 1). In addition, each reference listfrom the identiﬁed articles was cross-checked to verify that relevantarticles were not missed. The same eligibility criteria were consid-ered in the screening of titles, abstracts, and full text.
+Eligibility criteria and selection process
+To be eligible for inclusion, each study needed to be: (a) written inEnglish; (b) published in a peer-reviewed journal between January1985 and June 2013; (c) include disabled athletes participating inorganized sports or Paralympic sports; and (d) present adequatequantitative results. The conditions of interest were sports-relatedinjuries, either acute injury and/or overuse injury. A total of 43 poten-tially relevant studies were found, assessed, and evaluated against theeligibility criteria; 28 studies were not in the area of interest, and 14other studies were identiﬁed through other sources. Finally, 29studies were included for detailed evaluation; four were subsequentlyexcluded because they did not meet the eligibility criteria. Thus, 25remaining studies are included in this review (Fig. 1).
+Results
+Summary of search results
+Of the 25 included studies, 10 studies were prospective
+and 15 retrospective studies. Thirteen studies were olderthan 10 years, and 18 studies had a deﬁnition of injury.Ten studies used prevalence as outcome (9–86%), sevenreported incidence rate (IR), and eight of the studiesreported incidence. Fourteen studies separated the inju-ries as acute or nonacute, 12 reported disability-speciﬁcinjuries, and 20 reported sports-speciﬁc injuries. Ninestudies reported sports and disability speciﬁc injuries
+together. Sports that featured most were swimming,wheelchair basketball, and athletics. No studies reportedinjuries in triathlon or canoe. A majority of studiesreported injuries to the musculoskeletal system, i.e.,injuries to the upper or lower extremities, whereas veryfew reported other type of injuries, such as head injuries(concussion) or injuries to the internal organs.
+In the following section, we start by summarizing
+studies describing overall injury epidemiology, theninjuries speciﬁc to wheelchair athletes, injuries speciﬁ-cally reported during winter sports, and ﬁnally acute vsnonacute injuries. In Table 1, we present the character-istics of the 25 reviewed studies. In Fig. 2, the injuriesare described by body location in the 18 studies thatincluded these data, and in Table 2, studies reportingsports-speciﬁc injuries are presented.
+Overall injury epidemiology
+In this section, we describe the overall injury epidemiol-
+ogy of the reviewed studies. Lower extremity injuriesappeared to be more common in walking athletes [ampu-tees, visual impairments (VIs) and cerebral palsy (CP)](Athanasopoulos et al., 2009; Patatoukas et al., 2011;Magno e Silva et al., 2013b, c). During the 1996 SummerParalympic Games in Atlanta, USA, athletes with a uni-lateral amputation from Disabled Sports USA sufferedfrom a higher injury frequency in the ankle region
+Fig. 1. Flow chart of the literature search.Fagher & Lexell
+2
+Table 1. Characteristics of studies and type of injuries
+Author, (publication
+year), type of studyPopulation, disability, sports, and follow-up
+periodInjury deﬁnition Results Type of injuries
+Athanasopoulos
+et al. (2009
+Retrospectiven=n r
+Age: mean 31.4 yearsIPC impairments*Paralympic Sports
+†
+Physiotherapy Service at the Paralympic
+Summer Village Polyclinic 2004nr 131 athletes
+reportedinjuryAcute injuries 64.1%
+Overuse injuries 22.1%28.2% tendinopathyMost injuries to the upper extremity among
+(WA)
+Most injuries to the lower extremity among
+(VI)
+Bernardi et al.
+(2003)
+Retrospectiven= 227
+Age: range 12–60 yearsCP , SCI, amputees, “les autres”Swimming, track and ﬁeld, basketball1 yearAny muscle pain during the past 12
+months during sport activity atleast 1 dayPrevalence
+50.7%56% shoulder injuries
+Increased prevalence rate of sports-related
+muscle pain with increased trainingvolume
+Burnham et al.
+(1991)
+Retrospectiven= 151
+Age: nrIPC impairments*Paralympic Sports
+†
+Paralympic Summer Games 1988nr 84 injuries in
+151 athletesAcute injuries 49%
+Overuse injuries 51%21.4% of all injuries classiﬁed as rotator
+cuff impingement
+High number of lower extremity injuries in
+(VI)
+Chung et al.
+(2012)
+Prospectiven=1 4
+Age: mean 28.6Wheelchair athletesWheelchair foil fencing3 yearsTrauma that occurred during a
+training/competition and prohibitedthe athlete from continuing fencingactivity for at least 1 dayIncidence
+3.9/1000 h73.8% upper extremity injuries
+58.9% strainWheelchair fencers had a higher overall
+injury incidence rate than abled-bodiedfencers
+Curtis and Dillon
+(1985)
+Retrospectiven= 128
+Age: mean 29SCI, congenital disorders, postpolio,
+amputees, neuromuscular disorders
+Wheelchair sports; track, basketball, ﬁeld,
+swimming, road racing
+nrnr Prevalence 72% 33% soft tissue injuries
+A high number of training hours was related
+to a high number of injuries
+Curtis and Black
+(1999)
+Retrospectiven=4 6
+Age: mean 33Female wheelchair athletesWheelchair basketballOne tournamentThe Wheelchair User’s Shoulder Pain
+IndexPrevalence 52% 72% reported shoulder pain and 70%
+reported hand or elbow pain since start ofwheelchair use
+Ferrara and
+Davis (1990)
+Retrospectiven=1 9
+Age: mean 29.5Wheelchair athletesWheelchair; track and ﬁeld, shooting,
+swimming, table tennis
+1 yearAnything the athlete expressed
+concern about and caused loss ofparticipation due to injury or illness50 injuries in 19
+athletesAcute injuries 65%
+Overuse injuries 23%48% strains58% upper extremity injuries32% of the injuries caused a time loss of 22
+days or more of participation in sport
+Ferrara et al.
+(1992a)
+Retrospectiven= 426
+Age: mean 25.7Track, ﬁeld, weightlifting, swimmingWheelchair users, CP , VINational Competition 1989Any trauma to the participant that
+occurred during any practice,training, or competition sessionthat caused the athlete to stop,limit, or modify participation for 1day or morePrevalence 32% Acute injuries 45.9%
+Overuse injuries 54.1%44.3% upper extremity injuriesThe athletes with disability demonstrated
+approximately the same percentage ofinjury as the athlete without a disability insimilar sports activities
+Ferrara et al.
+(1992b)
+Retrospectiven=6 8
+Age: mean 29.6Amputees, SCI, VI, spina biﬁda, MS,
+muscular dystrophy
+SkiingSix monthsAny trauma to the participant that
+occurred during any practice,training, or competitive session thatresulted in the cessation, limitation,or modiﬁcation of the athlete’sparticipation for at least 24 h100 injuries in
+68 athletesAcute injuries 40%
+Overuse injuries 60%51% upper extremity injuries
+Ferrara et al.
+(2000)
+Prospectiven= 1360
+Age: nrWheelchair users, CP , VI, dwarfMultisports5 competitions, 6 yearsAny injury/illness that was evaluated
+by the U.S. medical staff during thestudy period1037
+injuries/1360athletesAcute injuries 67.9%
+Overuse injuries 20.6%22.1% sprainsThe most commonly body location was
+thorax/spine
+Magno e Silva
+et al. (2013b)
+Prospectiven
+=1 3
+A g e=n rVIBlind football4 years (5 competitions)Symptom 1 day or more Incidence 2.7
+Incidence rate
+0.12
+Prevalence 86%Acute injuries 80%
+Overuse injuries 20%31% contusionsMost common with lower extremity injuries
+Magno e Silva
+et al. (2013c)
+Prospectiven=4 0
+A g e=n rVITrack and ﬁeld4 years (5 competitions)Symptom 1 day or more Incidence 0.93
+Incidence rate
+0.39
+Prevalence 78%Acute injuries 18%
+Overuse injuries 82%26% spasmMost common with lower extremity injuries
+Magno e Silva
+et al. (2013a)
+Prospectiven=2 8
+A g e=n rVISwimming4 year (5 competitions)Any injury that caused an athlete to
+stop, limit, or modify participationfor 1 or more days.Incidence 1.5
+Incidence rate
+0.3
+Prevalence 64%Acute injuries 20%
+Overuse injuries 80%36.6% spasmMost common with injuries in the shoulder,
+29.3%Injuries in athletes with disabilities
+3
+Table 1. (continued)
+Author, (publication
+year), type of studyPopulation, disability, sports, and follow-up
+periodInjury deﬁnition Results Type of injuries
+McCormack
+et al. (1991)
+Retrospectiven=9 0
+Age = mean 28SCI, amputees, CP , spina biﬁda,neurological and congenital disorders,WA4 competitions, all past injuries recordedTrauma that incurred while training,
+practicing, or competing inwheelchair sports346 injuries/90
+athletes24.9% blisters
+Upper extremity injuries most common
+McCormick
+(1985a)
+Retrospectiven=6 0
+Age = mean 32Amputees, postpolio, VIAlpine skiing1 day, all past injuries recordednr Incidence
+2.0/1000 skiers
+days
+23 injuries in 60
+athletesKnee injuries most common, 17.4%
+Lower injury incidence compared with
+able-bodied athletes
+McCormick
+(1985b)
+Retrospectiven=2 3
+Age = range 22–54Paraplegia, amputees, brain trauma, MS,
+arthrogryposis,
+vascular diseaseSit skiers1 day, all past injuries recordednr Incidence
+16.1/1000 skiers
+day
+21 injuries in 23
+athletesMost common with shoulder injuries,
+33.3%
+Sit-skiers were eight times more likely to
+sustain an injury than disabled athletesnot using a sit ski
+Nyland et al.
+(2000)
+Prospectiven= 304
+Age = -nrIPC impairments*Paralympic Sports
+†
+Summer Paralympics 1996Soft tissue injuries; strain, sprain,
+tendonitis, bursitis, contusion254 injuries/304
+athletesAcute injuries 67%
+Overuse injuries 33%20.9% shoulder injuries
+Ramirez et al.
+(2009)
+Prospectiven= 210
+Age = mean 18Autism, emotional disturbance, mental
+retardation, learning disability,orthopedic disability, sensory disability
+Basketball, ﬁeld hockey, soccer, and
+softball
+4 seasonsEvents resulting in immediate removal
+of the athlete from the session andmedical treatment by school staffor transport to a hospital. Aphysical trauma that was sustainedto the body region of an athleteduring the injury event.Incidence 2.0
+injuries/1000sessionsplayed44.7% lower extremity injuries
+31.6% abrasionAthletes with autism, a history of seizure,
+and emotional disturbance had a higherinjury rate
+Reynolds et al.
+(1994)
+Retrospectiven= 203
+A g e=n rIPC impairments*Paralympic Sports
+†
+Summer Paralympics 1992nr 291 team
+members, 201attended themedical centerMost common with injuries in the upper
+extremity and the cervical spine
+The injury/illness proﬁle was similar to
+those in abled-bodied sport
+Patatoukas et al.
+(2011)
+Retrospectiven= 139
+Age: mean 32.8SCI, postpolio, CP , amputees, “les autres”Wheelchair basketball, track and ﬁeld,
+swimming, gym, powerlifting,wheelchair dancing, shooting
+1 competitionAny injury that caused an athlete to
+stop, limit, or modify participationfor 1 day or more, all injuries inathlete’s sport life includedIncidence SCI
+athletes 1.47,CP 0.97, otherdisabledathletes 1.16
+178 injuries in
+69 athletes58.9% soft tissue injuries
+The number of fractures signiﬁcantly higher
+in SCI athletes
+Sobiecka (2005)
+Retrospectiven= 114
+Age: mean 27 women, 30 menVI, amputees, SCI, CP , intellectual disabilityParalympic Sports
+†
+Summer Paralympics 2000nr 125 injuries/114
+athletesInjuries to the motor system
+Taylor and
+Williams(1995)
+Retrospectiven=5 3
+Age: nrWheelchair athletesWheelchair racing1 yearSymptom 1 day or more Prevalence 72% Acute injuries 16%
+Overuse injuries 52%52% upper extremity injuriesOveruse injuries recurred more often
+Webborn et al.
+(2006)
+Prospectiven= 416
+Age: mean 33.0IPC impairments*Paralympic Sports
+‡
+Winter Paralympics 2002 (20 days)Any injury during the games Prevalence 9% Acute injuries 77%
+Overuse injuries 15%32% sprains21% resulted in time lost from participating
+in sport
+Webborn et al.
+(2012)
+Prospectiven= 505
+Age: range 19–53IPC impairments*Paralympic Sports
+‡
+Winter Paralympics 2010Any sport-related musculoskeletal
+complaint that caused the athlete toseek medical attention during thestudy periodIncidence
+proportion23.8%Acute injuries 41%
+Overuse injuries 58%Increase of injuries in Paralympic Winter
+games
+Willick et al.
+(2013)
+Prospectiven= 3565
+Age: mean 30IPC impairments*Paralympic Sports
+†
+Summer Paralympics 2012Any sport-related musculoskeletal or
+neurological complaint promptingan athlete to seek medical attention,regardless of whether or not thecomplaint resulted in lost time fromtraining or competitionIncidence rate
+12.7/1000
+athlete days
+Injury proportion
+17.8/100athletesAcute injuries 51.5
+Overuse injuries 31.8Acute on chronic 16.7%50.2% upper extremity injuriesHigher injury rates in older athletes
+*IPC impairments: impaired muscle power, impaired passive range of movement, limb deﬁciency, leg length difference, hypertonia, ataxia, athetosi s, short stature, vision
+impairment, and intellectual impairment.
+†Paralympic Summer Sports (until 2012): football 5-a-side, powerlifting, goalball, wheelchair fencing, wheelchair rugby, athletics, judo, wheel chair tennis, table tennis,
+wheelchair basketball, football 7-a-side, seated volleyball, cycling track, equestrian, swimming, archery, boccia, cycling road, sailing, rowi ng, and shooting.
+‡Paralympic Winter Sports: alpine skiing, biathlon, cross-country skiing, wheelchair curling, ice sledge hockey.
+CP , cerebral palsy; MS, multiple sclerosis; nr, not reported; SCI, spinal cord injury; VI, vision impairment; WA, wheelchair athletes.Fagher & Lexell
+4
+compared with other categories of athletes (Nyland et al.,
+2000). A limitation of this prospective study is that onlysoft tissue injuries were reported (Table 1). Magno e Silvaet al. (2013b) reported an injury prevalence of 84.6% in apopulation of 13 male Brazilian soccer players with VIduring ﬁve major competitions; the clinical incidence was2.7 injuries per athlete. The most common injuries werecontusions and sprains, and 80% of the injuries wereacute. The most common injury site was the lower limb(80%), and 29% of the injuries occurred in the knee. Alimitation of this longitudinal study is that injuries wereonly reported during competitions. Similar injury pat-terns were seen in the Union of European Football Asso-ciations (UEFA) injury study in able-bodied soccerplayers, where 87% of the injuries occurred in the lowerextremity and 81% resulted from trauma. On average,each player suffered from 2.0 injuries/season (Ekstrandet al., 2011).
+Fig. 2. Injuries presented by body location in the 18 studies that
+included these data. Data are presented as minimum andmaximum, and range.
+Table 2. Studies reporting sports-speciﬁc injuries in current Paralympic Summer and Winter sports
+Summer sports Studies Winter sports Studies
+Archery Reynolds et al. (1994); Willick et al. (2013) Alpine skiing McCormick (1985a, b); McCormack et al.
+(1991); Webborn et al. 2006; 2012)
+Athletics Athanasopoulos et al. (2009); Bernardi et al. (2003);
+Curtis and Dillon (1985); Ferrara and Davis (1990);Magno e Silva et al. (2013c); McCormack et al. (1991);Patatoukas et al. (2011); Reynolds et al. (1994); Taylorand Williams (1995); Willick et al. (2013)Biathlon Webborn et al. (2012)
+Cross-country
+skiingWebborn et al. 2006; 2012)
+Ice sledge hockey Webborn et al. 2006; 2012)
+Wheelchair curling Webborn et al. (2012)
+Canoe –Cycling Athanasopoulos et al. (2009); Reynolds et al. (1994);
+Willick et al. (2013)
+Equestrian Athanasopoulos et al. (2009); Willick et al. (2013)Football 5-a-side Magno e Silva et al. (2013b); Willick et al. (2013)Football 7-a-side Reynolds et al. (1994); Willick et al. (2013)Goalball Athanasopoulos et al. (2009); Willick et al. (2013)Wheelchair dance
+sportPatatoukas et al. (2011)
+Judo Athanasopoulos et al. (2009); Reynolds et al. (1994);
+Willick et al. (2013)
+Powerlifting/
+weightliftingAthanasopoulos et al. (2009); McCormack et al. (1991);
+Patatoukas et al. (2011); Reynolds et al. (1994); Willicket al. (2013)
+Rowing Willick et al. (2013)Sailing Willick et al. (2013)Shooting Patatoukas et al. (2011); Reynolds et al. (1994); Willick
+et al. (2013)
+Volleyball Athanasopoulos et al. (2009); Reynolds et al. (1994);
+Willick et al. (2013)
+Swimming Athanasopoulos et al. (2009); Bernardi et al. (2003);
+Ferrara and Davis (1990); Magno e Silva et al. (2013a);Reynolds et al. (1994); McCormack et al. (1991);Patatoukas et al. (2011); Willick et al. (2013)
+Table tennis Athanasopoulos et al. (2009); Reynolds et al. (1994);
+Willick et al. (2013)
+Triathlon –Wheelchair
+basketballAthanasopoulos et al. (2009); Bernardi et al. (2003);
+Curtis and Dillon (1985); Curtis and Black (1999);McCormack et al. (1991); Patatoukas et al. (2011);Reynolds et al. (1994); Willick et al. (2013)
+Wheelchair
+fencingAthanasopoulos et al. (2009); Chung et al. (2012);
+Reynolds et al. (1994); Willick et al. (2013)
+Wheelchair rugby McCormack et al. (1991); Willick et al. (2013)Wheelchair tennis Athanasopoulos et al. (2009); Curtis and Dillon (1985),
+Reynolds et al. (1994); Willick et al. (2013)Injuries in athletes with disabilities
+5
+During the 2012 Summer Paralympic Games in
+London, UK, a prospective injury surveillance system wasused. Football 5-a-side had the highest injury IR with 22.4injuries/1000-athletes days (overall IR 12.7); 54% of theinjuries were acute. Football 7-a-side had a lower IR(11.2); 73% of these injuries were classiﬁed as acute(Willick et al., 2013). Goalball had the second highestinjury IR (19.5); 77% of the injuries were classiﬁed asacute. Sports speciﬁcity, age, gender, and disability classi-ﬁcation were included as baseline covariates in the studyfrom the 2012 Paralympic Games, and it is recommendedthat future studies follow a similar approach. Anotherstrength of this study is the reporting of incidence propor-tions and IRs based on exposure. However, disability-speciﬁc injuries were not reported (Willick et al., 2013).
+In a retrospective survey of 426 competitive disabled
+athletes in the United States, a high number of the lowerextremity injuries occurred in ambulatory athletes withpolio. In CP athletes, the knee (21%) was the most vul-nerable and injured body part. Also, VI athletes had ahigh percentage of lower extremity injuries (53%), andthe leg/ankle was involved in 26% of all injuries (Ferraraet al., 1992a). Soccer had the highest IR (3.7 injuries per1000 athlete exposure) in a population of 210 athletesparticipating in organized high school sport in the UnitedStates; 44.7% were lower extremity injuries and athleteswith autism, a history of seizure and emotional distur-bance had a higher injury rate. The athletes were fol-lowed during one season (Ramirez et al., 2009).
+Magno e Silva et al. (2013c) documented injuries lon-
+gitudinally during ﬁve major competitions in a popula-tion of 40 Brazilian track and ﬁeld athletes with VI,giving a prevalence of 78% and a clinical incidence of1.93 injuries per athlete. The most frequently reporteddiagnoses were spasms and tendinopathies, and 82%of the injuries occurred in the lower limbs (Magno eSilva et al., 2013c). Also Athanasopoulos et al. (2009)reported a high injury prevalence in track and ﬁeld ath-letes. Over half (51.2%) of the total number of injuriesthat were admitted to the physiotherapy department ofthe 2004 Summer Paralympic Village Polyclinic inAthens, Greece, occurred among track and ﬁeld athletes.Most of these injuries (22.1%) occurred in VI athletes.Lower extremity injuries were more common than inju-ries to the upper extremities in athletes with VI, CP, andamputation. The documentation of injuries was based onthe physiotherapy treatment reports, and a limitation ofthe study is that no deﬁnition of injury was present.During the 2012 London Paralympic Games, 216 inju-ries were reported in the 977 athletes participating intrack and ﬁeld. The IR was 15.8 injuries/1000 athletes-days (overall IR 12.7), and 50% of the injuries had anacute onset, whereas 21% were acute on chronic and29% were overuse injuries (Willick et al., 2013). At the1992 Summer Paralympic Games in Barcelona, Spain,80% of the track and ﬁeld athletes in the Britishteam suffered from an injury (Reynolds et al., 1994).However, this study has a poor description of method
+and injury deﬁnition. Patatoukas et al. (2011) showed ina retrospective survey that a population of Greek eliteathletes with locomotor disabilities participating instanding track and ﬁeld events had the second highestpercentage of injury (23.0%) among nine different sports(41 injuries were reported in 35 athletes). Burnham et al.(1991) showed in a retrospective cohort study that ath-letes involved in stand-up track events, long jump, andhigh jump had a signiﬁcantly higher frequency of lowerextremity injuries during the 1988 Paralympic Games inSeoul, South Korea, compared with athletes involved insports using predominantly their upper extremity.
+Swimming had a lower injury IR (8.7) compared with
+the overall injury IR (12.7) during the 2012 LondonParalympic Games; 47% of the injuries were classiﬁedas acute, whereas 37% were overuse injuries and 16%were acute on chronic injuries (Willick et al., 2013).During the Summer Paralympic Games 1992 in Barce-lona, 69% of the swimmers in the British team reportedan injury during the games (Reynolds et al., 1994).McCormack et al. (1991) reported that wheelchairswimmers had one of the lowest injury frequencies(1.2%) in a population of 90 wheelchair athletes.Patatoukas et al. (2011) reported 34 injuries in 51 swim-mers in their study among Greek elite athletes, andswimming had the third largest injury prevalence(19.1%). Magno e Silva et al. (2013a) reported a preva-lence of 64.3% and a clinical incidence of 1.5 in a pro-spective study among a population of 28 VI swimmers;80% of the injuries were overuse injuries, and the mostaffected body part was the shoulder (29.3%).
+Taken together, lower extremity injuries are common
+in walking athletes, especially in those with VI and inthose participating in ball sports and track and ﬁeld, andthe prevalence of injuries in swimming seems to vary.However, it is difﬁcult to compare the results as moststudies have used different rate denominators and deﬁ-nitions of injury.
+Wheelchair athletes
+Wheelchair sports are speciﬁc to disabled athletes, and
+the epidemiology of injuries occurring in these types ofsports are also speciﬁc to this population of athletes.Taylor and Williams (1995) reported an injury preva-lence of 72% during a 12-month period in a retrospectivestudy among a population of 53 British wheelchairracing athletes, where the most common disability wasspinal cord injury (SCI) (56%). Mostly, upper extremityinjuries were reported; 27% occurred in the hand andwrist followed by 25% in the upper arm and shoulder.Fifty injuries were reported in a population of 19 U.S.elite wheelchair athletes participating in track and ﬁeld,swimming, table tennis, and shooting (Ferrara & Davis,1990). In this retrospective study, a total of 60% of theinjuries occurred in track and ﬁeld, and 48% occurred
+Fagher & Lexell
+6
+during the competitive season. The most common type
+of injury was strain (48%), and the most frequentlyinjured area was the shoulder (27.6%). The authors con-cluded that the time loss factor appeared to be higher formajor injuries when compared with athletes without dis-ability. Only time-loss injuries were recorded, and theresults may therefore be biased.
+Curtis and Dillon (1985) retrospectively assessed the
+injury prevalence of 128 U.S. wheelchair athletes. Themost common disability was SCI, and the largest per-centage of athletes were involved in track and ﬁeld(79%) followed by basketball and swimming. As manyas 72% of the athletes reported that they had been injuredat some time during their career. Soft tissue injuries inshoulders, elbows, and wrists were the most frequentlyreported injuries. The sports associated with the highestinjury prevalence were track and ﬁeld (26%) and basket-ball (24%). A signiﬁcantly high proportion of injurieswere reported in athletes aged 21–30 years. Noteworthyis the low response rate – the questionnaire was distrib-uted to 1200 athletes (response rate just over 10%) – aswell as the possibility of recall bias. Ferrara et al.(1992a), also in a retrospective survey, reported that theupper extremity was involved in injuries twice as oftenas the lower extremity in athletes from the U.S. NationalWheelchair Athletics Association. A limitation of thisstudy is that only traumatic injuries were registered.
+During the Summer Paralympic Games 2004 in Athens,
+the majority of injuries reported to the Paralympic VillagePhysiotherapy Service occurred among wheelchair athletes(51.2%). The most common injury site in the 67 injuredwheelchair athletes was in the shoulder (50.1%) and spine(20.1%) (Athanasopoulos et al., 2009). During the samegames, athletes from the Wheelchair Sports USA had ahigher frequency of elbow, forearm, and wrist injuries thanother categories. However, wheelchair athletes had not ahigher frequency of shoulder injuries compared with othergroups (Nyland et al., 2000). Also, during the 2012 LondonParalympic Games, wheelchair athletes had high injuryrates. Wheelchair rugby (IR 16.3) and wheelchair tennis(IR12.8) had higher injury IRs than the overall injury IR(12.7). Upper extremity injuries were the most commonduring the 2012 London Games (Willick et al., 2013).
+McCormack et al. (1991) retrospectively surveyed
+90 Canadian wheelchair athletes participating in 18different wheelchair sports. In total, 346 injuries werereported. Upper extremity injuries were the mostcommon, and the authors suggested that the high fre-quency of upper extremity injuries were probably due towheelchair propulsion. A limitation of this study is thatjust trauma-related injuries were registered. Curtis andBlack (1999) showed in a retrospective study that 52%of a population of female wheelchair basketball playerssuffered from current shoulder pain during a tournament.A total of 70% of the athletes reported a history of elbowor hand pain after beginning with wheelchair driving,and 72% had a history of shoulder pain. The athletesparticipated in sports and leisure activities on average
+11 h per week. A limitation of this study is that justinjuries to the upper extremity were recorded.
+During the 2012 London Summer Paralympic Games,
+34 injuries were reported in 202 wheelchair basketballathletes (IR 12.0, overall IR 12.7) and 65% of theseinjuries had an acute onset (Willick et al., 2013). Duringthe Summer Paralympics 1992 in Barcelona, Spain, 79%of the British basketball team players suffered from aninjury (Reynolds et al., 1994). McCormack et al. (1991)reported that wheelchair basketball players were the ath-letes with the highest injury frequency (30.9%) in agroup of 90 Canadian wheelchair athletes, and upperextremity injuries were the most common. Also,Patatoukas et al. (2011) showed that wheelchair basket-ball was the sport with the highest percentage of injury(30.9) among a group of Greek elite athletes.
+Chung et al. (2012) demonstrated in a prospective
+study that wheelchair foil fencers had a higher overall IR(3.9/1000 h) compared with able-bodied fencers (2.4/1000 h). Furthermore, wheelchair athletes without activetrunk control were more susceptible to injury (4.9/1000 h) compared with athletes with good trunk control(3.0/1000 h). The most prevalent injuries in the wheel-chair athletes were upper extremity injuries (73.8%),whereas the able-bodied fencers had a higher percentageof lower extremity injuries. Four of the 14 wheelchairfencers were absent from their sport for more than 22days because of a major injury. Willick et al. (2013)reported an injury IR of 18.0 injuries/athletes-days(overall IR 12.7) in wheelchair fencing during the 2012London Paralympic Games; 58% of the injuries wereoveruse injuries. During the Paralympic Games 1992,71% of the fencers suffered from injury in the Britishteam (Reynolds et al., 1994).
+In summary, mostly upper extremity injuries, espe-
+cially in the shoulder, are reported in wheelchair athletes,conﬁrming that these types of injuries are overrepre-sented among these athletes. Once again, different ratedenominators and deﬁnitions of injury cause inconsis-tencies in the reported data and comparisons of resultsare therefore difﬁcult.
+Winter sports
+Five sports – alpine skiing, biathlon, cross-country
+skiing, ice sledge hockey, and wheelchair curling – areincluded in the Winter Paralympic Games. During the2002 Winter Paralympic Games in Salt Lake City, USA,the International Paralympic Committee (IPC) startedprospective injury surveillances. Alpine skiers were theathletes that experienced most injuries (62% of allinjuries), and 12.3% of all alpine skiers ( n=194) suf-
+fered from at least one injury. The most serious injuriesreported were anterior cruciate ligament ruptures, distalradius fractures, and concussions. One of the conclu-sions of the 2002 injury surveillance was that a risk
+Injuries in athletes with disabilities
+7
+factor for injury in alpine skiing may be failure of ski-
+bindings to release (Webborn et al., 2006). During the2010 Winter Paralympic Games in Vancouver, Canada,alpine skiing had the second highest injury incidenceproportion (21.6%). The sitting class athletes had ahigher injury rate with 1.7 injuries/100 race exposurescompared with 0.7 injuries/100 race exposures in VIathletes and standing class athletes (Webborn et al.,2012). Ferrara et al. (1992b) reported 100 time-loss inju-ries in a retrospective study in 68 skiers prior to theNational Games of Handicapped Sports and Blind Ath-letes in the United States 1989. Upper extremity injurieswere 1.4 times more common than lower extremity inju-ries; 60% of the injuries were classiﬁed as chronic. Theshoulder (30%) was the most vulnerable body location,and acute injuries were most prevalent in the thigh andknee (30%). A limitation of this study is that only traumaswere recorded. An IR of two injuries per 1000 skier-dayswas reported in a population of disabled alpine skiers inthe United States; 23 injuries were reported in 60 ath-letes, mostly amputees. The knee (17.4%) was the mostcommonly injured body location, and 21.6% of the inju-ries were fractures (McCormick, 1985a). A higher IR(16.1 injuries per 1000 skier-days) was shown in a similarstudy including 23 disabled sit-skiers. Individuals withSCI at T6 or above had a higher injury frequencycompared with those with paraplegia. Upper extremityinjuries were the most frequently reported injuries(McCormick, 1985b). Both studies were retrospectiveand did not report any deﬁnition of injury.
+Ice sledge hockey players had the highest rate of
+injury per 100 athletes (14%) during the 2002 WinterParalympic Games. Four of the injuries occurred fromcollisions that resulted in lower limb injuries (Webbornet al., 2006). Also, during the 2010 Winter ParalympicGames, ice sledge hockey had the highest incidence pro-portion (33.9%) of all sports. A total of 40 of 118 athletesrequired medical attention for musculoskeletal prob-lems. Of these, 60% of the injuries were classiﬁed asoveruse injuries, 52.5% of the injuries occurred duringcompetition time and 42.9 of these, in turn, were contactinjuries. Upper extremity injuries were most common(47.5%), followed by spine-related injuries (35%)(Webborn et al., 2012).
+Very few injuries were reported among the 134 ath-
+letes competing in the Nordic Skiing during the 2002Paralympic Games. Three injuries were reported, allinvolving the upper limbs (Webborn et al., 2006). A largeincrease in injury prevalence was seen during the WinterParalympic Games 2010; 26 injuries were reported in140 athletes resulting in an injury prevalence of 18.6%.Almost half (46.2%) of the injuries were classiﬁed asacute, including serious injuries like concussions, pneu-mothorax, and fractures. VI athletes had a higher IRbased on a new acute injury (two injuries/100 race expo-sures) compared with (1.3 injuries/100 race exposures)for standing class athletes (Webborn et al., 2012).Interestingly, a remarkable increase in injury incidence
+proportion was seen during the 2010 Paralympic WinterGames (IP =23.8%) compared with the Winter Games
+2002 (IP =9.4%), and a noteworthy high prevalence
+(57.5%) of overuse injuries was reported 2010. The authorssuggested that the high number of overuse injuries might bedue to an increased level of training during the precedingyears (Webborn et al., 2012). In conclusion, the reportedinjury prevalence in Paralympic Winter sports appears tovary. Injuries are reported both to the lower and upperextremities and seem to have both acute and chronic onset.
+Acute vs nonacute injuries
+Overuse injuries have lately gained increased attention in
+the literature of sports injury epidemiology. These inju-ries are frequently seen in sports involving repetitivemovements and could lead to devastating consequencesfor the athlete. The mechanisms of injury are often aresult of repeated micro-trauma to the tissue, with nosingle identiﬁable incident responsible for injury (Fulleret al., 2006). Clarsen et al. (2013) showed that overuseinjuries represented 49% of all health problems (acuteinjuries 13%) in 116 Norwegian Olympic and 26Paralympic athletes preparing for the 2012 SummerOlympic/Paralympic Games. This study is one of fewprospective studies reporting injuries during normaltraining and not only competition. During the WinterParalympic Games 2010, 57.5% of the injuries wereoveruse injuries (Webborn et al., 2012). Magno e Silvaet al. (2013c) reported that 82% of the injuries, mostly inthe lower extremity, were overuse injuries in their studyof VI track and ﬁeld athletes. Similar results have beendemonstrated in able-bodied track and ﬁeld athletes.Jacobsson et al. (2013) reported that 96% of the injurieswere nontraumatic, and 77% of the injuries were relatedto the lower extremity in a population of able-bodiedelite track and ﬁeld athletes in Sweden. In another studyof VI swimmers, 80% of the injuries were classiﬁed asoveruse injuries (Magno e Silva et al., 2013a). Also,Taylor and Williams (1995) reported a high prevalenceof overuse injuries in wheelchair athletes. Overuse inju-ries were more likely to recur within 12 months, espe-cially in those who started their training before the painof the injury had disappeared. In wheelchair racing ath-letes, 43% reported that they restarted training before thepain had disappeared, and 71% of the injuries preventedthe athlete from training (the median time off trainingwas 14 days). The authors suggested that there is a linkbetween overuse injuries, restarting exercise before painhas disappeared and the rate of recurrence of injury.
+In a population of 227 Italian athletes with locomotor
+disability, 51% experienced sports-related muscle pain thatoccurred during sports activity causing discomfort for atleast 1 day. A training volume above 7 h per week [oddsratio 3.8; 95% conﬁdence interval (1.4-10.0)] was associ-ated with pain (Bernardi et al., 2003). It has been suggested
+Fagher & Lexell
+8
+that there is a risk that the demands of sports activities
+together with daily wheelchair pushing result in insufﬁ-cient time for rest and recovery of the musculature inwheelchair athletes (Curtis & Black, 1999; Ferrara et al.,2000). Curtis and Dillon (1985) showed with time expo-sure data that a high number of hours per week spent ontraining were associated with signiﬁcantly higher injuryprevalence. Athletes who reported most injuries were thoseinvolved in repetitive wheelchair pushing. These resultsmight be related to overuse of soft tissue structures.
+Regarding traumatic injuries, Webborn et al. (2006)
+reported that 77% of all injuries during the WinterParalympic Games 2002, Vancouver, were acute inju-ries. During the 2012 Summer Paralympic Games inLondon, 51.5% of the injuries were classiﬁed as trau-matic injuries. Boccia had the highest proportion ofacute traumatic injuries (91%), followed by goalball(77%). Also wheelchair rugby, football 7-a-side, seatedvolleyball, and football 5-a-side had high proportions ofacute injuries (Willick et al., 2013). Ferrara et al. (2000)demonstrated that 65% of the injuries were acute in apopulation of elite wheelchair athletes; 32% of the inju-ries were classiﬁed as major (missing 22 days or more).In a longitudinal study following disabled U.S. athletesover ﬁve international competitions, including theSummer Paralympic Games 1992 and 1996, the authorsrecorded 1037 injuries in a total of 1360 participants;67.9% of these were classiﬁed as acute injuries. Most ofthe injuries occurred during the Summer ParalympicGames 1992 (37.3%) and 1996 (39.2%). Wheelchairathletes had the highest injury prevalence (27.8%) fol-lowed by CP athletes (24.3%). The most commonlyinjured body part was the thorax/spine.
+Athanasopoulos et al. (2009) reported that 64.1% of
+all registered injuries at the physiotherapy department ofthe Summer Paralympic Games, Athens, 2004, wereclassiﬁed as an acute injury. Similar patterns were seenin U.S. Paralympic athletes during the 1996 SummerGames, Atlanta, where 67% (170/254) of all soft tissueinjuries among 304 athletes had an acute onset (Nylandet al., 2000). Chung et al. (2012) showed that the injuryIR was signiﬁcantly higher during competition thantraining (5.1/1000 h vs 2.0/1000 h) in elite wheelchairfencers. Ferrara et al. (2000) suggested that the nature ofcompetitive events increases the incidence of acute inju-ries, and a limitation of some of the reviewed studiesis that injuries are just reported during competition(Table 1). In the UEFA injury study of soccer injuries inable-bodied athletes, the authors showed that 57% of theinjuries occurred during matches and 43% during train-ing. Overuse injuries were more frequent during the pre-season, and traumatic injuries were more commonduring the competitive season (Ekstrand et al., 2011).
+A strength of the study by Clarsen et al. (2013), in
+which a web-based prospective monitoring of illness andinjury in Norwegian elite athletes was performed, is thatinjuries were recorded both during training and competi-tion. The conclusion of this study is that this method was
+sensitive and valid for recording injuries in a large group.The authors also suggested that weekly reporting maylead to earlier and more comprehensive interventions ofhealth issues. A limitation of this study is, however, thesmall number of Paralympic athletes surveyed.
+In summary, a considerably high prevalence of sports-
+related overuse injuries has been demonstrated in ath-letes with disabilities. Two studies have shown that ahigh number of hours per week spent on training areassociated with higher injury prevalence. Overuseinjuries may be under-diagnosed, as some studiesjust include events related to trauma and competition intheir injury deﬁnitions (Table 1). Several authors havereported a high number of acute injuries during compe-tition, and it seems like athletes participating in ballsports are more prone to acute injuries.
+Risk factors and prevention of injuries
+In the sport medicine research area, preventative strategies
+have gained increased interest over the past years. Waldénet al. (2012) showed that anterior cruciate ligament injuriescould be reduced by 64% when implementing a preventa-tive training program in female soccer players. VanBeijsterveldt et al. (2013), however, reported conﬂictingevidence for the effectiveness of exercise-based programsto prevent soccer injuries and recommended high-qualitystudies investigating the best type and intensity of exer-cises. A limitation is that very few studies involving clini-cal trials exist within Paralympic sports. Already in 1985,Curtis and Dillon (1985) suggested that preventive strate-gies should be taken to decrease injury risks in disabilitysports. Ferrara and Davis (1990) reported the importanceof designing prevention programs including strength,endurance, and ﬂexibility for disabled athletes, and Curtisand Black (1999) recommended that warm-up strategies,stretching, and strengthening should be included in thetraining. McCormick (1985a) suggested focusing onstrengthening of the legs, improvement of cardiovascularﬁtness, and adequate equipment to help reduce the injuryrate among disabled skiers. Bernardi et al. (2003) showedthat a high training volume was associated with sports-related muscle pain in disabled athletes, and monitoring oftraining volume was suggested as part of injury prevention.Also, the authors of the injury surveillance study duringthe 2012 Paralympic Games recommended that injury pre-vention interventions should initially target high risk sports(Willick et al., 2013).
+According to the model that van Mechelen et al.
+(1992) presented for prevention of sports injuries, theﬁrst step is to evaluate the extent of the injury problemthrough injury surveillance. Thereafter, injury riskfactors and injury mechanisms could be established, andon the basis of this information preventive strategies canbe introduced. Risk factors for sports injuries are oftenclassiﬁed as intrinsic or extrinsic. Intrinsic risk factors
+Injuries in athletes with disabilities
+9
+are related to the athlete, whereas extrinsic risk factors
+are related to the environment.
+In disabled athletes, the disability itself could be con-
+sidered an intrinsic risk factor (Magno e Silva et al.,2013a). For example, during the Paralympic Games1988, 78% of all lower extremity injuries reported in theCanadian team occurred in the blind athletes (Burnhamet al., 1991) and during the Paralympic Games 2010,injuries from falls were more common in VI Nordicskiers (Webborn et al., 2012). Athanasopoulos et al.(2009) suggested that the high incidence of ankle injuriesin VI athletes may be related to poor proprioception, andit has been stated that postural stability is affected byvision (Aydog et al., 2006). Orthopedic deformities in thefoot and knee region are sometimes present in individualswith CP (Horstmann et al., 2009). Patatoukas et al.(2011) showed that CP athletes had a higher percentageof soft tissue injuries compared with other athletes, andthe authors suggested that limited range of motion, spas-ticity, and discoordination might cause additional stressto muscles, joints, and tendons. Athanasopoulos et al.(2009) proposed that the greater number of lower extrem-ity injuries in athletes with CP may be related toincreased tensile forces in the lower extremity as a resultof spasticity and deformities.
+Amputee athletes appeared to have a high prevalence
+of injury and pain (Nyland et al., 2000; Bernardi et al.,2003; Athanasopoulos et al., 2009), and it has been sug-gested that the high number of injuries might depend onaltered biomechanics in the lower extremity (Bernardiet al., 2003). Athletes with a unilateral amputation mayalso suffer from injuries in the intact lower limb due toasymmetrically higher forces during running (Nylandet al., 2000).
+In wheelchair athletes low bone mineral density could
+be considered as a possible intrinsic risk factor for injury.Osteoporosis occurs in almost every person with SCI,which results in an increase in the incidence of lowerextremity fractures (Jiang et al., 2006). McCormacket al. (1991) reported seven fractures among 90 wheel-chair athletes. Patatoukas et al. (2011) showed that SCIathletes had a signiﬁcantly higher prevalence of fracturescompared with other athletes. Four fractures werereported in ice sledge hockey players during the WinterParalympic Games 2002. A regulation change on protec-tive equipment and sledge height was implementedthereafter, and only one fracture was reported in 2010(Webborn et al., 2012), which should be considered asuccessful prevention work.
+Moreover, wheelchair athletes had a high frequency of
+upper extremity injuries (Burnham et al., 1991; Dermanet al., 2013), and these athletes often rely on their upperextremities both in their daily life as well as in sports,which could cause a high stress on their tissues. The dis-ability might also be associated with a seated posture, asmaller upper extremity musculature, denervated muscu-lature, ﬂaccidity, muscle spasms, and spasticity (Asayamaet al., 1985; McCormack et al., 1991), which all should be
+considered as intrinsic risk factors. Burnham et al. (1991)suggested that weakness of the external rotators and shoul-der adductor muscles can contribute to shoulder impinge-ment in these athletes. The problem is often exacerbatedbecause the sitting posture in a wheelchair is characterizedby internal rotation of humerus and scapular protraction.Upper extremity injuries were also the most frequentlyreported during the Summer Paralympic Games 2012, andit has been suggested that future research should putemphasis on understanding injury factors and preventionstrategies of these speciﬁc anatomical regions (Dermanet al., 2013). Also, the authors of the injury surveillancefrom the Olympic Games 2012 recommend further devel-opment of preventative measures tailored for each speciﬁcsport (Engebretsen et al., 2013).
+Very few of the studies reviewed have discussed
+intrinsic or extrinsic risk factors. Ferrara and Davis(1990) recommended physical screening of ﬂexibility,strength, and cardiovascular function of all athletes todetermine any deﬁciencies that might predispose theathlete for injury. Also, Reynolds et al. (1994) recom-mended pre-event screening of injuries to provide bettermedical support.
+Discussion
+It is apparent that existing studies within the area have
+poor injury deﬁnitions. The methodologies, rate denomi-nators, and populations have varied widely between thereviewed studies. Few studies are sports and disabilityspeciﬁc, and some studies use cross-disability design,which makes it difﬁcult to determine sports and disabil-ity speciﬁc risk factors. Many studies use the termwheelchair athlete. However, there are a variety of dis-abilities and classiﬁcation systems of wheelchair ath-letes, and each disability group may have differentmovement patterns and performance levels (Patatoukaset al., 2011). Magno e Silva et al. (2013b) stated that tobe able to recognize different risk factors within disabil-ity sports, it is important to report etiology and injuryprevalence by disability and sports. Few studies reportaccurate information on characteristics of the subjects,data collection, and surveys. Only three out of 25 studiesincluded the age range of the athletes studied, and this isa limitation that is suggested to be addressed in futurestudies. Only one of the studies reported that the injurysurvey was validated (Ferrara et al., 1992a). The samplesizes have sometimes been small, and some studies didnot report the speciﬁc nature of injury (Table 1). Also,the classiﬁcation systems of injury have varied betweenstudies. For example, Ferrara and Davis (1990) classiﬁeda minor injury as an injury that caused time loss fromtraining of 7 days or less, whereas one study include ablister as an injury (McCormack et al., 1991).
+Few studies report incidence, exposure, and time loss
+of training due to an injury. In injury epidemiology of
+Fagher & Lexell
+10
+able-bodied athletes, time loss of training is a commonly
+used parameter to describe severity of injury (Kjaeret al., 2005). Variations in the deﬁnitions and method-ologies used for studies of injuries in Paralympic sportstoday cause inconsistencies in reported data, and com-parisons of results are difﬁcult. Present studies justprovide information from short-term surveillance duringcompetitions, and most of the deﬁnitions used are notadopted for overuse syndromes that develop over time.
+In several sports for able-bodied athletes, consensus
+statements on deﬁnitions and data collection proceduresof sports injuries are available, and it is clear that similarconsensus is needed within Paralympic sports. In thefuture, it is recommended that larger and better designedstudies concerning injury epidemiology are conductedwithin the area of Paralympic medicine. Standardizationof injury deﬁnition, nature of injury, and surveys arerecommended. Sports and disability speciﬁc studies arepreferred, and risk factors should be evaluated. Very fewstudies present information regarding long-term conse-quences of an injury in disability sports. Therefore, lon-gitudinal studies following disabled athletes over timeare recommended, which would also allow researchersto estimate injury IRs based on athlete exposures. Fur-thermore, it is important to examine the consequences ofan injury upon quality of life.
+The injury surveillances conducted by the IPC at the
+Paralympic Games 2002, 2010, and 2012 have been verysuccessful and represent a huge step forward in under-standing injuries in Paralympic athletes during competi-tion. During the Summer Paralympics Games 2012, theinjury incidence proportion was 17.8 injuries/100 athletes(Willick et al., 2013) compared with the injury rate of 12.9injuries/100 athletes during the Summer Olympic Games(Engebretsen et al., 2013). These results suggest that theinjury panoramas today are almost equal in athletes withdisabilities compared with able-bodied athletes.
+However, there are still very few studies of injury
+incidence in disabled athletes during their normal trainingseason. Further research in this area could include thedevelopment of an international scientiﬁc injury surveil-lance system for athletes with disabilities, along the lineswith the system used during the Paralympic Games inLondon 2012. With continuous data over several seasons,it would be possible to observe the development of spe-ciﬁc trends over time and to monitor and assess the type oftraining, load, and exposure. This information could pos-
+sibly help coaches, trainers, physicians, and therapists tounderstand and reduce risk factors of injuries and to betterplan training and competition phases. An enhancedknowledge of injury epidemiology could also helpresearchers to better understand injury mechanisms andthereby develop and implement effective injury preven-tion programs. It is therefore recommended that futurestudies also examine the effects of prevention strategies inathletes with disabilities. And, most importantly, knowl-edge in this ﬁeld could also help athletes to increase theirsports performance and improve their quality of life.
+Perspectives
+The Paralympic Games is currently the world’s second
+largest sporting event with regard to the number of par-ticipants. Paralympic athletes have become elite in theirsport, and a consequence of this is increased ﬁtnesslevels and training time (Vanlandewijck & Thompson,2011). It is well known that participation in sports, espe-cially at elite levels, places the athlete at risk for muscu-loskeletal injury (Ljungqvist et al., 2009).
+Based on the information in this review, it is clear that
+the few existing studies of injuries in Paralympic sportsshow that overall rates seem to be high and comparablewith rates in able-bodied athletes. Epidemiological dataregarding the nature of injuries, and sports and disabilityrisk factors are very limited. Furthermore, few studieshave assessed injury prevention strategies. It is alsoapparent that some of the existing studies have poorinjury deﬁnitions and methodologies. In the future, con-sensus statements on sports injury deﬁnitions and datacollection procedures of sports injuries are recom-mended within Paralympic sports.
+Key words: Disability, epidemiology, paralympic, sports,
+wounds and injuries.
+Acknowledgements
+Kristina Fagher, MSc, RPT, is a contracted physiotherapist for the
+Swedish Paralympic Women’s Goalball Team. Jan Lexell, MD,PhD, is Chief Medical Ofﬁcer in The Swedish Sports Organizationfor the Disabled and The Swedish Paralympic Committee.
+References
+Asayama K, Nakamura Y, Ogata H,
+Hatada K, Okuma H, Deguchi Y.Physical ﬁtness of paraplegics in fullwheelchair marathon racing. Paraplegia1985: 23: 277–287.
+Athanasopoulos S, Mandalidis D,
+Tsakoniti A, Athanasopoulos I,Strimpakos N, Papadopoulos E, PyrrosDG, Parisis C, Kapreli E. The 2004Paralympic Games: physiotherapy
+services in the Paralympic VillagePolyclinic. Open Sports Med J 2009: 3:1–9.
+Aydog E, Aydog ST, Cakci A, Doral MN.
+Dynamic postural stability in blindathletes using the biodex stabilitysystem. Int J Sports Med 2006: 27:415–418.Bernardi M, Castellano V, Ferrara MS,
+Sbriccoli P, Sera F, Marchetti M.Muscle pain in athletes with locomotordisability. Med Sci Sports Exerc 2003:35: 199–206.
+Blauwet C, Willick SE. The Paralympic
+Movement: using sports to promotehealth, disability rights, and socialintegration for athletes withInjuries in athletes with disabilities
+11
+disabilities. PM R 2012: 4:
+851–856.
+Burnham R, Newell E, Steadward R.
+Sports medicine for the physicallydisabled: the Canadian team experienceat the 1988 Seoul Paralympic Games.Clin J Sports Med 1991: 1: 193–196.
+Chung WM, Yeung S, Wong AY, Lam IF,
+Tse PT, Daswani D, Lee R.Musculoskeletal injuries in eliteable-bodied and wheelchair foil fencers– a pilot study. Clin J Sport Med 2012:22: 278–280.
+Clarsen B, Ronsen O, Myklebust G,
+Florenes TW, Bahr R. The Oslo SportsTrauma Research Center questionnaireon health problems: a new approach toprospective monitoring of illness andinjury in elite athletes. Br J Sports Med2013: February: Epub ahead of print.
+Curtis KA, Black K. Shoulder pain in
+female wheelchair basketball players.J Orthop Sports Phys Ther 1999: 29:225–231.
+Curtis KA, Dillon DA. Survey of
+wheelchair athletic injuries: commonpatterns and prevention. Paraplegia1985: 23: 170–175.
+Derman W, Schwellnus M, Jordaan E,
+Blauwet CA, Emery C, Pit-GrosheideP, Marques NA, Martinez-Ferrer O,Stomphorst J, Van de Vliet P, WebbornN, Willick SE. Illness and injury inathletes during the competition periodat the London 2012 Paralympic Games:development and implementation of aweb-based surveillance system(WEB-IISS) for team medical staff. BrJ Sports Med 2013: 47: 420–425.
+Ekstrand J, Hagglund M, Waldén M.
+Injury incidence and injury patterns inprofessional football: the UEFA injurystudy. Br J Sports Med 2011: 45:553–558.
+Engebretsen L, Soligard T, Steffen K,
+Alonso JM, Aubry M, Budgett R,Dvorak J, Jegathesan M, MeeuwisseWH, Mountjoy M, Palmer-Green D,Vanhegan I, Renstrom PA. Sportsinjuries and illnesses during theLondon Summer Olympic Games 2012.Br J Sports Med 2013: 47: 407–414.
+Ferrara MS, Buckley WE, McCann BC,
+Limbird TJ, Powell JW, Robl R. Theinjury experience of the competitiveathlete with a disability: preventionimplications. Med Sci Sports Exerc1992a: 24: 184–188.
+Ferrara MS, Buckley WE, Messner DG,
+Benedict J. The injury experience andtraining history of the competitive skierwith a disability. Am J Sports Med1992b: 20: 55–60.
+Ferrara MS, Davis RW. Injuries to elite
+wheelchair athletes. Paraplegia 1990:28: 335–341.
+Ferrara MS, Palutsis GR, Snouse S, Davis
+RW. A longitudinal study of injuries toathletes with disabilities. Int J Sports
+Med 2000: 21: 221–224.
+Fuller CW, Ekstrand J, Junge A,
+Andersen TE, Bahr R, Dvorak J,Hagglund M, McCrory P, MeeuwisseWH. Consensus statement on injurydeﬁnitions and data collectionprocedures in studies of football(soccer) injuries. Clin J Sport Med2006: 16: 97–106.
+Horstmann HM, Hosalkar H, Keenan MA.
+Orthopaedic issues in themusculoskeletal care of adults withcerebral palsy. Dev Med Child Neurol2009: 51 (Suppl. 4): 99–105.
+Jacobsson J, Timpka T, Kowalski J,
+Nilsson S, Ekberg J, Dahlstrom O,Renstrom PA. Injury patterns inSwedish elite athletics: annualincidence, injury types and riskfactors. Br J Sports Med 2013: 47:941–952.
+Jiang SD, Dai LY, Jiang LS. Osteoporosis
+after spinal cord injury. Osteoporos Int2006: 17: 180–192.
+Kjaer M, Krogsgaard M, Magnusson P,
+Engebretsen L, Roos H, Takala T, WooS. Textbook of sports medicine: basicscience and clinical aspects of sportsinjury and physical activity. Oxford:Blackwell Publishing, 2005: 307–308.
+Ljungqvist A, Jenoure P, Engebretsen L,
+Alonso JM, Bahr R, Clough A,De Bondt G, Dvorak J, Maloley R,Matheson G, Meeuwisse W, MeijboomE, Mountjoy M, Pelliccia A,Schwellnus M, Sprumont D,Schamasch P, Gauthier JB, Dubi C,Stupp H, Thill C. The InternationalOlympic Committee (IOC) ConsensusStatement on periodic health evaluationof elite athletes March 2009. Br JSports Med 2009: 43: 631–643.
+Magno e Silva M, Bilzon J, Duarte E,
+Gorla J, Vital R. Sport injuries in eliteparalympic swimmers with visualimpairment. J Athl Train 2013a: 48:493–498.
+Magno e Silva MP, Morato MP, Bilzon
+JL, Duarte E. Sports injuries inbrazilian blind footballers. Int J SportsMed 2013b: 34: 239–243.
+Magno e Silva MP, Winckler C, Costa
+ESAA, Bilzon J, Duarte E. Sportsinjuries in paralympic track and ﬁeldathletes with visual impairment. MedSci Sports Exerc 2013c: 45: 908–913.
+McCormack DAR, Reid DC, Steadward
+RD, Syrotuik DG. Injury proﬁles inwheelchair athletes: results of aretrospective survey. Clin J Sports Med1991: 1: 35–40.
+McCormick D. Injuries in handicapped
+Alpine ski racers. Phys Sportsmed1985a: 13: 93–97.
+McCormick D. Skiing injuries among
+sit-skiers. SN’S 1985b: March–April:20–21.Nyland J, Snouse SL, Anderson M, Kelly
+T, Sterling JC. Soft tissue injuries toUSA paralympians at the 1996 summergames. Arch Phys Med Rehabil 2000:81: 368–373.
+Patatoukas D, Farmakides A, Aggeli V,
+Fotaki S, Tsibidakis H, Mavrogenis AF,Papathanasiou J, Papagelopoulos PJ.Disability-related injuries in athleteswith disabilities. Folia Med (Plovdiv)2011: 53: 40–46.
+Pedersen BK, Saltin B. Evidence for
+prescribing exercise as therapy inchronic disease. Scand J Med SciSports 2006: 16 (Suppl. 1): 3–63.
+Ramirez M, Yang J, Bourque L, Javien J,
+Kashani S, Limbos MA, Peek-Asa C.Sports injuries to high school athleteswith disabilities. Pediatrics 2009: 123:690–696.
+Reynolds J, Stirk A, Thomas A, Geary F.
+Paralympics-Barcelona 1992. Br JSports Med 1994: 28: 14–17.
+Sobiecka J. Injuries and ailments of the
+polish participant of the 2000Paralympic Games in Sydney. BiolSport 2005: 22: 353–362.
+Taylor D, Williams T. Sports injuries in
+athletes with disabilities: wheelchairracing. Paraplegia 1995: 33: 296–299.
+van Beijsterveldt AM, van der Horst N,
+van de Port IG, Backx FJ. Howeffective are exercise-based injuryprevention programmes for soccerplayers?: a systematic review. SportsMed 2013: 43: 257–265.
+van Mechelen W, Hlobil H, Kemper HC.
+Incidence, severity, aetiology andprevention of sports injuries. A reviewof concepts. Sports Med 1992: 14:82–99.
+Vanlandewijck YC, Thompson WR. The
+Paralympic athlete. Handbook of sportsmedicine and science. Oxford, UK:Wiley-Blackwell, 2011.
+Waldén M, Atroshi I, Magnusson H,
+Wagner P, Hagglund M. Prevention ofacute knee injuries in adolescent femalefootball players: cluster randomisedcontrolled trial. BMJ 2012: 344: e3042.
+Webborn N, Van de Vliet P. Paralympic
+medicine. Lancet 2012: 380: 65–71.
+Webborn N, Willick S, Emery CA. The
+injury experience at the 2010 winterparalympic games. Clin J Sport Med2012: 22: 3–9.
+Webborn N, Willick S, Reeser JC. Injuries
+among disabled athletes during the2002 Winter Paralympic Games. MedSci Sports Exerc 2006: 38: 811–815.
+Willick SE, Webborn N, Emery C,
+Blauwet CA, Pit-Grosheide P,Stomphorst J, Van de Vliet P,Patino Marques NA, Martinez-FerrerJO, Jordaan E, Derman W, SchwellnusM. The epidemiology of injuries at theLondon 2012 Paralympic Games. Br JSports Med 2013: 47: 426–432.
+Fagher & Lexell
+12
+View publication stats

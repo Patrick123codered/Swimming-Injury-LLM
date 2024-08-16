@@ -1,0 +1,1316 @@
+2396  |     Scand J Med Sci Sports. 2023;33:2396–2412. wileyonlinelibrary.com/journal/sms
+Received: 18 January 2023 | Revised: 10 June 2023 | Accepted: 13 July 2023
+DOI: 10.1111/sms.14454  
+REVIEW
+Shoulder pain and injury risk factors in competitive 
+swimmers: A systematic review
+Alec McKenzie1,2,3 |   Sophie-  Alexandra Larequi1 |   Andrea Hams1,3 |    
+Jonathon Headrick1 |   Rod Whiteley4 |   Steven Duhig1,3
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided 
+the original work is properly cited.
+© 2023 The Authors. Scandinavian Journal of Medicine & Science In Sports published by John Wiley & Sons Ltd.1School of Health Sciences and Social 
+Work, Griffith University, Gold Coast, 
+Queensland, Australia
+2Queensland Academy of Sport, 
+Brisbane, Queensland, Australia
+3Griffith Centre of Biomedical 
+and Rehabilitation Engineering 
+(GCORE), Menzies Health Institution 
+Queensland, Griffith University, Gold 
+Coast, Queensland, Australia
+4Rehabilitation Department, Aspetar 
+Orthopaedic and Sports Medicine 
+Hospital, Doha, Qatar
+Correspondence
+Alec McKenzie, School of Health 
+Sciences and Social Work, Griffith 
+University, Shop 6/58 Parklands Dr, 
+Southport, QLD 4215, Australia
+Email: alec.mckenzie2@griffithuni.
+edu.auAbstract
+Aim: To synthesize and assess the literature for shoulder pain and injury risk fac-
+tors in competitive swimmers.
+Design: Systematic review with best- evidence synthesis.
+Data Sources: CINHAL, SportDiscus, Scorpus, PubMed, and Embase databases 
+from 1966 to April 30 2022.
+Search and Inclusion: Cohort, cross- sectional, and case– control studies in-
+vestigating shoulder pain or injury risk factors in competitive swimmers were 
+included. Quality of eligible studies were assessed using a modified Newcastle– 
+Ottawa scale. Risk factors were divided into four categories: modifiable- intrinsic, 
+modifiable- extrinsic, non- modifiable, and other/secondary.
+Results: Of 1356 studies identified, 24 full texts were evaluated for methodo-
+logical quality, 22 met the criteria and were included in best evidence synthesis. 
+There was no strong evidence supporting or refuting the association between 80 
+assessed variables and shoulder injury or pain. The swimmers' competitive level 
+(nondirectional), and shoulder muscle recruitment profiles (e.g., increased activ-
+ity of serratus anterior) exhibited moderate evidence supporting an association. 
+Conversely, internal and external range of motion, middle finger back scratch 
+test, training frequency, specialty stroke, height/weight, sex, and age all had 
+moderate evidence opposing an association. Limited evidence was found for 58 
+variables, and conflicting for 8. The highest quality study (n = 201) suggested high 
+acute- to- chronic workload ratio and reduced posterior shoulder strength endur-
+ance are associated with injury.
+Conclusions: Due to the paucity of high- quality studies, future prospective stud-
+ies are needed to reevaluate known risk factor associations over exploring ad-
+ditional potential risk factors. Swimming practitioners should be aware of the 
+nondirectional association of a swimmer's competitive level and pain, as squad 
+changes could impact injury incidence. Moreover, swimmers experiencing 
+shoulder pain may show increased activity in shoulder stabilizers during specific 
+
+   | 2397
+McKENZIE et al.
+1 | INTRODUCTION
+Swimming is popular as both a form of recreational exer -
+cise1,2 and as a competitive sport, with over 22 000 swim-
+mers competing in the National (American) Collegiate 
+Athletic Association 2021– 2022 season.3 As a form of 
+recreation or exercise, swimming has numerous health 
+benefits with relatively minimal stress/load on bones and 
+joints,4,5 making it a popular activity for all ages.6 However, 
+competitive swimming involves consistently high training 
+volumes and intensities, increasing the risk of injury.7
+Notwithstanding swimming's benefits, shoulder pain 
+and injury prevalence and incidence is high in competitive 
+swimmers. Injuries in competitive swimmers are typically 
+ascribed to repetitive tissue strain.8 This is understandable 
+given that these athletes perform thousands of shoulder 
+revolutions each session for 10– 12 sessions/week,9 with 
+some swimmers covering up to 110 km/week.7 While in-
+juries are observed in the knee, lower back, and hip, the 
+shoulder is undoubtedly the predominant location of pain 
+and injury in competitive swimmers.10
+A recent review of injury in competitive swimmers 
+reported a total- body injury incidence of 2.6– 3.0 inju-
+ries per 1000 h of swimming and a shoulder-  specific in-
+jury prevalence of 23%– 51% and 33%– 41% in men and 
+women respectively.10 Further, previous research shows 
+self- reported shoulder pain in up to 97% of college- level 
+swimmers (n = 30; 17M, 13F) during strenuous exercise11 
+and 91% of elite junior competitors (n = 80; 42M, 38F) 
+over a 1- month period.7 Despite advancements in sports 
+science and rehabilitation, including improved under -
+standing of intrinsic and extrinsic risk factors, shoulder 
+pain and injury prevalence in competitive swimmers has 
+not decreased suggesting missing or misunderstood risk 
+factors. There may even be a rising trend for shoulder inju-
+ries given reports of a prevalence of 26% in 1993,12 34% in 
+2002,13 and 38% in 2012.14 These consistently high injury 
+rates warrant further investigation into identifying risk 
+factors to guide athlete screening/monitoring and injury 
+prevention programs.
+There is a growing body of evidence identifying pain 
+and injury risk factors. Struyf et al.15 reviewed the dif-
+ferences musculoskeletal dysfunctions in injured and 
+non- injured swimmer's shoulders. They suggested four 
+key areas for clinicians to be aware of when assessing and treating a swimmer's shoulder: (i) shoulder range of 
+motion (ROM), (ii) shoulder laxity and instability, (iii) 
+shoulder posture, and (iv) scapular dyskinesis. Hill et al.16 
+previously conducted a review of shoulder pain and in-
+jury risk factors, identifying 18 risk factors, which were 
+categorized into four groups: (i) shoulder joint anatomy 
+and strength, (ii) activity history, (iii) demographics, and 
+(iv) musculoskeletal determinants. This 2015 review in-
+cluded three prospective studies14,17,18; however, since this 
+review an additional six prospective studies (n = 457)19– 24 
+have been published and should be considered to fur -
+ther our understanding of shoulder injury risk factors in 
+swimmers. There is a clear need to synthesize these data 
+to aid practitioners in their athlete screening and injury 
+prevention strategies. Therefore, this review aims to sys -
+tematically synthesize the current literature and provide 
+an update on shoulder pain and injury risk factors in com-
+petitive swimmers.
+2 | METHODS
+This systematic review was conducted in accordance with 
+the Preferred Reporting Items for Systematic reviews and 
+Meta- Analyses (PRISMA)25 and registered on PROSPERO 
+(CRD42021234093).
+2.1 | Eligibility criteria
+Original cohort, cross- sectional, and case– control stud-
+ies, published in English were included in this review. 
+To be included, studies must (i) include competitive 
+swimmers aged from 10 to 40 years, this included any 
+article that stated their sample was “competitive”, (ii) 
+provide a definition of pain/injury (use of a valid pain-  
+scale tool or a positive orthopedic test were accepted), 
+(iii) report an outcome measure including at least one 
+potential shoulder pain or injury risk factor, (iv) use in-
+ferential statistics, and (v) in the event of multi- injury/
+sport studies were only included if shoulder data spe-
+cific to swimming was presented in isolation. Studies 
+were excluded if they: (i) did not include competitive 
+swimmers, (ii) if nonconservative/surgical interventions 
+were applied, (iii) involved participants with medical movements. Importantly, shoulder strength- endurance may be the most clini-
+cally relevant modifiable intrinsic risk factor.
+KEYWORDS
+athlete screening, injury prevention, rehabilitation, shoulder injury, shoulder pain, swimming
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2398 |   
+McKENZIE et al.
+conditions without reference to the shoulder, or (iv) in-
+volved cadavers and animal specimens.
+2.2 | Literature search strategy
+A librarian assisted with developing the electronic search 
+strategy. Potentially relevant studies were identified 
+through searching in CINHAL, SportDiscus, Scorpus, 
+PubMed, and Embase databases between 1966 and April 
+2022 by two authors (S- A.L. and S.D.). The main search 
+strings were “shoulder” AND “pain” OR “injur*” AND 
+“competitive swim” (swim*) AND “risk factor*” (see online 
+supplementary material S1 for full list). Synonyms, Medical 
+Subject Headings (MeSH), Emtree terms, and major con-
+cepts derived from the main terms were used to refine our 
+findings. Reference lists of all studies were reviewed for ad-
+ditional studies not found in the original search.
+2.3 | Study selection
+Articles from the initial database search results were im-
+ported into Endnote and duplicates removed. Remaining 
+articles were imported into Rayyan, with two reviewers 
+blinded before screening all titles and abstracts based 
+on the eligibility criteria. In the event of disagreement, 
+a third independent reviewer (S.D.) assisted to reach 
+consensus.
+2.4 | Study quality appraisal/risk of bias
+Prior to quality assessment of all articles, six articles were 
+chosen at random for independent evaluation to ensure 
+all screening items were clear and understood by three 
+reviewers (A.M., S- A.L., and S.D.). All disagreements 
+were discussed and clarified as a group before quality as-
+sessment was conducted. Next, two reviewers (A.M. and 
+S- A.L.) independently evaluated all articles with discrep-
+ancies mediated by a third researcher (S.D.).
+Quality assessment of all articles was conducted using 
+a modified Newcastle–  Ottawa Scale.26 This scale has pre -
+viously been used when appraising risk of bias in shoulder 
+injury risk factors in other sporting populations.27– 29 The 
+scale was modified to adjust to the specificity of the review 
+question of interest (online supplementary material S2). 
+Case–  control and cohort studies were evaluated on a nine- 
+item scale, with a maximum score of 12, whereas cross- 
+sectional studies were evaluated on a seven- item scale 
+with a maximum score of 10.
+Overall method quality was categorized using either 
+high, acceptable, borderline, or unacceptable quality (Table  1). To be included in the analysis a minimum score 
+of >33% of scale items was required, meaning that if a 
+study did not satisfy at least 4 out of 12 (cohort and case 
+control studies) or 4 out of 10 (cross-  sectional studies) 
+quality criteria, they were excluded from analysis. This 
+method quality scoring was adopted and modified based 
+on a previous systematic review on shoulder injury risk 
+factors.30
+2.5 | Data extraction
+Two authors (A.H. and S.D.) extracted half of the data into 
+online supplementary material S1 which was then cross- 
+checked (A.M.). Risk factors were categorized into one of 
+four: (i) modifiable- intrinsic, (ii) modifiable- extrinsic, (iii) 
+non- modifiable, and (iv) other/secondary risk factors and 
+defined as follows:
+ (i) Modifiable- intrinsic— any outcome measure with a 
+demonstrated ability to change over time, that are 
+measured on or within the individual (e.g., strength 
+and range of motion (ROM)).
+ (ii) Modifiable-  extrinsic— any outcome measure with a 
+demonstrated ability to change over time, that are 
+measured external to the individual, or work per -
+formed by an individual (e.g., training load).
+ (iii) Non- modifiable— any measure that has no demon-
+strated ability to change over time (e.g., injury 
+history).
+ (iv) Other/secondary— any measure that is potentially 
+modifiable but lacks strong evidence regarding their 
+modification (e.g., scapula position).
+2.6 | Synthesis of results
+This study used best evidence synthesis31 as an alternative 
+to meta- analysis due to the heterogeneity in outcome meas-
+ures. This method has been used in the past to present the 
+direction and strength of investigated risk factors.30 All risk 
+factors were provided an evidence strength, and a direc-
+tion of association. The strength of evidence was calculated 
+using the criteria previously applied to suit risk factors in 
+overhead sports,30 Table  2 describes these criteria. The 
+direction of association was indicated using either “for”, 
+meaning the evidence supports an association, or “against” 
+meaning the evidence does not support an association.
+Several articles reported significant associations in 
+a sub-  sample (i.e., different age ranges, or male vs. fe -
+male) of their study.7,23,24,32 The synthesized results re -
+ported in Table  4 only report associations found overall, 
+with all significant associations found in subsamples 
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 2399
+McKENZIE et al.
+reported in- text. Two articles only reported associations 
+in subsamples of their data, with no analyses of the total 
+data presented. When associations were not reported 
+consistently across subgroups, that is, significant associ-
+ations in one age group but not another, the authors of 
+the original research were contacted and asked to pro -
+vide their data to allow reanalysis following the methods 
+as described originally (i.e., pooled data rather than in 
+arbitrary age groups).
+3 | RESULTS
+3.1 | Study selection
+From the database search, a total of 1356 studies were 
+identified. After removing duplicates and excluding studies not addressing the objective of our review, 55 
+studies remained and were screened based on inclu-
+sion criteria. Reference lists of the relevant papers were 
+screened, and 5 additional studies were identified and 
+assessed. A total of 24 papers were evaluated for quality, 
+with 22 of these included in the best- evidence synthesis 
+(Figure  1).
+3.2 | Study characteristics
+Ten of the included studies were cross- sectional 
+designs,7,13,32– 39 seven cohort,14,19– 24 and seven case– 
+control.40– 46 Thirteen studies included both male and 
+female swimmers,7,14,19– 21,23,24,35,38,39,41,42,44 four with fe-
+males only,22,32,36,37 two had males only,13,43 and one failed 
+to disclose participant's sex.45 Seven studies involved Overall method qualityCohort and 
+case– controlCross- 
+sectional
+High quality
+Majority of criteria met. Little to no risk of bias. Results 
+unlikely to be changed by future research11– 12 (>90%) 9– 10 (>90%)
+Acceptable
+Most criteria met. Some flaws in the study with an 
+associated risk of bias. Conclusions may change in 
+the light of further research8– 10 (>65%) 7– 8 (>65%)
+Borderline
+Crude effect estimates have been presented or have 
+been calculated (thus no confounders have been 
+considered), but the study is otherwise acceptably 
+sound with respect to other possible biases4– 7 (>33%) 4– 6 (>33%)
+Unacceptable— reject
+Either most criteria not met, or significant flaws 
+relating to key aspects of study design. Conclusions 
+likely to change in the light of further research0– 3 (<33%) 0– 3 (<33%)
+Note: Categories of the overall method quality adopted from Asker et al.30TABLE 1 Criteria and definitions of 
+the overall method quality.
+Strong evidence
+Evidence provided by two or more high- quality studies and by generally 
+consistent findings across these studies (≥75% of the studies reported 
+consistent findings)
+Moderate evidence
+Evidence provided by one high- quality study and/or multiple studies of 
+acceptable quality and by generally consistent findings (≥75% of the 
+studies reported consistent findings)
+Limited evidence
+Evidence provided by one study of acceptable quality and/or one or more 
+studies of borderline quality
+Conflicting evidence
+Inconsistent findings in multiple studies (<75% of the studies reported 
+consistent findings)
+Note: Evidence criteria categories adopted from Asker et al.30TABLE 2 Evidence criteria for best 
+evidence synthesis.
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2400 |   
+McKENZIE et al.
+international level swimmers,7,14,21,38,41– 43 two studies 
+used division- 1 collegiate swimmers,35,37 two with divi-
+sion- 2 collegiate swimmers,22,36 five studies investigated 
+age- group swimmers,13,19,20,24,39 and three studies simply 
+reported their participants as competitve swimmers.23,32,44
+3.3 | Risk of bias within included studies
+Table  3 displays the overall method quality score for each 
+study, scoring for individual studies can be found in on-
+line supplementary material S3. No studies met the cri-
+teria30 for high- quality methodology. Eleven studies were 
+acceptable quality,7,14,19– 22,24,38,42– 44 eleven borderline qua
+lity,23,32– 35,37,39– 41,45,46 and two were deemed unacceptable and not included in the best evidence synthesis.13,36 The 
+least commonly met criteria across all studies was the fail-
+ure to calculate required sample size (see online supple-
+mentary material S3).
+3.4 | Synthesis of results
+The best evidence synthesis is presented in Table 4.
+4 | DISCUSSION
+This review included 22 studies that investigated at least 
+one shoulder pain or injury risk factor. No study was rated FIGURE 1 Flow diagram of literature search.
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 2401
+McKENZIE et al.
+high quality and half of the included articles were bor-
+derline, using modified best evidence synthesis criteria.30 
+Both muscle recruitment (via surface electromyography 
+[sEMG]) and the swimmer's competitive level had mod-
+erate evidence to support an association with shoulder 
+pain or injury. However, there was no direction of asso-
+ciation in the swimmers' competitive level, meaning that 
+some studies indicated a higher injury incidence in elite 
+swimmers whereas others indicated a higher incidence 
+in sub- elite swimmers (Table  4). This is likely a result of 
+different training practices of coaches. Similarly, various inconsistent findings were reported regarding muscle 
+activity in injured swimmers compared to non- injured 
+swimmers. Importantly, no study has investigated mus-
+cle activity using in- water sEMG, rather opting for non- 
+ecological tasks. Further, while studies consistently report 
+differences in either sEMG amplitude or onset timing, the 
+exact measures have not been replicated between studies. 
+For example, during a standardized functional upper limb 
+task Hidalgo- Lozano et al.41 reported increased activity of 
+scalene bilaterally in injured swimmers but no changes 
+in upper trapezius. Conversely, Sabzehparvar et al.43 re-
+ported increased upper trapezius, serratus anterior, and 
+latissimus dorsi, but not of middle or lower trapezius (fur-
+ther discussion can be found in Section 4.4).
+This review also found a moderate level of evidence 
+against the associations of several measures: external and 
+internal rotational ROM, middle finger distance (back- 
+scratch) test, weight, training frequency (sessions/week), 
+freestyle as a swimmers' specialty stroke, height, and sex. 
+Meta- analysis of data was not possible due to the hetero -
+geneity of studies including the lack of consistency in 
+shoulder pain or injury definitions and limited risk factor 
+reappraisal. Further, when risk factors were reappraised 
+researchers often used alternative methods such as differ -
+ent speeds for the same isokinetic strength test. Overall, 
+this review highlights the dearth of high-  quality research 
+investigating possible shoulder injury risk factors in com-
+petitive swimmers. We also highlight measures which 
+may, and may not, be relevant in swimmer screening pro -
+grams and future research.
+4.1 | Modifiable- intrinsic risk factors
+The literature has examined modifiable- intrinsic risk 
+factors across four key areas, related to: ROM, isomet-
+ric shoulder strength, isokinetic shoulder strength, and 
+other (non- shoulder) strength and strength endurance. 
+However, no modifiable- intrinsic risk factor had greater 
+than limited evidence in support.
+Improving shoulder ROM appears to be a common 
+focus in competitive swimming training and injury pre -
+vention programs, evidenced by the 12 articles included 
+in this review that investigated a ROM measure. While 
+several individual studies report significant associations 
+between ROM and shoulder pain or injury,7,14,19,21,24,34,37 
+the best evidence synthesis suggests the literature does 
+not support an association with any ROM measure. Of 
+the 13 ROM measures investigated, 35 statistical tests of 
+association were conducted, with only 8 reporting a signif-
+icant association. There is conflicting evidence regarding 
+the associations of pectoralis minor length, horizontal ab -
+duction ROM, glenohumeral laxity, and shoulder rotation TABLE 3 Study scores for risk of bias and overall method 
+quality.
+Study reference— 
+Separated by research 
+designMethod 
+quality 
+ratingOverall 
+quality
+Cross- sectional— Maximum (10)
+Matsuura et al.387 Acceptable
+Sein et al.77 Acceptable
+Bailón- Cerezo et al.336 Borderline
+Bansal et al.344 Borderline
+Beach et al.354 Borderline
+Harrington et al.376 Borderline
+Tate et al.325 Borderline
+Tessaro et al.394 Borderline
+Capaci et al.132 Unacceptable
+Dischler et al.363 Unacceptable
+Cohort— Maximum (12)
+Cejudo et al.198 Acceptable
+Drigny et al.208 Acceptable
+Feijen et al.2110 Acceptable
+Lippincott228 Acceptable
+Walker et al.148 Acceptable
+Mise et al.249 Acceptable
+McLaine et al.237 Borderline
+Case– control— Maximum (12)
+Hidalgo- Lozano et al.429 Acceptable
+Sabzehparvar et al.439 Acceptable
+Su et al.448 Acceptable
+Bak et al.405 Borderline
+Hidalgo- Lozano et al.417 Borderline
+Wadsworth and 
+Bullock- Saxton455 Borderline
+Abdelmohsen et al.465 Borderline
+Note: Studies were rated using a modified Newcastle– Ottawa Scale.26 The 
+maximum score for each study design indicated the lowest risk of bias. 
+The overall quality were then categorized using the Scottish Intercollegiate 
+Guidelines Network (SIGN) (http://www.sign.ac.uk/), as modified by Asker 
+etal.30, see Tables 1 and 2 for categorization of method quality.
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2402 |   
+McKENZIE et al.
+TABLE 4 Best evidence synthesis of shoulder injury risk factors in competitive swimmers.
+Risk factorStudies reporting significant 
+association with riskStudies reporting no association 
+with riskBest evidence synthesis 
+(strength, association)
+Modifiable- intrinsic risk factors (ROM- related)
+External and internal 
+rotation ROMRefs. [14,33] Refs. [19,22,24*,32,35,37,38,40]
+N = 214 (109M, 105F) N = 449 (104M, 344F)
+Middle finger distance 
+(back- scratch)Refs. [24,38]
+N = 288 (73M, 215F)
+Shoulder flexion Ref. [21] Refs. [19,32,35]
+N = 201 (96M, 105F) N = 204 (23M, 181F)
+Shoulder extension Refs. [19,35]
+N = 56 (23M, 33F)
+Shoulder horizontal 
+adductionRefs. [19,35]
+N = 56 (23M, 33F)
+Shoulder adduction Ref. [19]
+N = 24 (15M, 9F)
+Triceps brachii length Ref. [32]
+N = 148 (148F)
+Latissimus dorsi length Ref. [32]
+N = 148 (148F)
+Shoulder abduction Refs. [19,35]
+N = 56 (23M, 33F)
+Pectoralis minor length Ref. [37] Refs. [22,32]
+N = 37 (37F) N = 201 (201F)
+Shoulder horizontal 
+abductionRef. [19] Ref. [35]
+N = 24 (15M, 9F) N = 32 (8M, 24F)
+Glenohumeral laxity 
+(including instability)Refs. [7,33,34] Refs. [14,22]
+N = 381 (275M, 106F) N = 127 (37M, 90F)
+Shoulder rotation width Ref. [24] Ref. [38]
+N = 76 (37M, 39F) N = 64 (37M, 39F)
+Modifiable- intrinsic risk factors (isometric shoulder strength related)
+Flexion strength Refs. [23,40]
+N = 100 (46M, 54F)
+Extension strength Ref. [23*]
+N = 85 (37M, 48F)
+Flexion:extension strength 
+ratioRef. [23*]
+N = 85 (37M, 48F)
+Supraspinatus strength Refs. [22,40]
+N = 68 (9M, 59F)
+Lower trapezius strength Refs. [22,32]
+N = 201 (201F)
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 2403
+McKENZIE et al.
+Risk factorStudies reporting significant 
+association with riskStudies reporting no association 
+with riskBest evidence synthesis 
+(strength, association)
+Serratus anterior strength Refs. [22,32]
+N = 201 (201F)
+Teres minor, infraspinatus, 
+subscapularis, and upper 
+trapezius strengthRef. [22]
+N = 53 (53F)
+Abduction strength Refs. [37,40]
+N = 52 (9M, 43F)
+Internal rotation strength Refs. [23,32*,37]
+N = 270 (37M, 233F)
+External rotation strength Refs. [23,32,37]
+N = 270 (37M, 233F)
+Internal rotation:external 
+rotation strength ratioRef. [23]
+N = 85 (37M, 48)
+Scapula depression, 
+abduction, and adduction 
+strengthRef. [37]
+N = 37 (37F)
+Horizontal abduction 
+strengthRef. [32]
+N = 148 (148F)
+Middle trapezius and 
+scapula elevation 
+strengthRef. [32]
+N = 148 (148F)
+Modifiable- intrinsic risk factors (isokinetic shoulder strength related)
+Eccentric external 
+rotation:concentric 
+internal rotation strength 
+ratioRefs. [20,40]
+N = 33 (19M, 14F)
+Eccentric external 
+rotation:eccentric 
+internal rotation strength 
+ratioRef. [20]
+N = 18 (10M, 8F)
+Concentric and eccentric 
+external:internal rotation 
+strength ratioRef. [40]
+N = 15 (9M, 6F)
+Concentric external 
+rotation:concentric 
+internal rotation strength 
+ratioRefs. [20,35]
+N = 50 (18M, 32F)
+External and internal 
+rotations torqueRef. [40]
+N = 15 (9M, 6F)
+Eccentric internal 
+rotation:concentric 
+external rotation strength 
+ratioRef. [20]
+N = 18 (10M, 8F)
+Shoulder 
+abduction:adduction 
+strength ratioRef. [35]
+N = 32 (8M, 24F)TABLE 4 (Continued)
+(Continues)
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2404 |   
+McKENZIE et al.
+Risk factorStudies reporting significant 
+association with riskStudies reporting no association 
+with riskBest evidence synthesis 
+(strength, association)
+Concentric and eccentric 
+external rotation strengthRef. [40]
+N = 15 (9M, 6F)
+Concentric and eccentric 
+internal rotation strengthRef. [40]
+N = 15 (9M, 6F)
+Modifiable- intrinsic risk factors (other strength and strength- endurance measures)
+Weight Ref. [24] Refs. [14,19,32,33,39]
+N = 76 (37M, 39F) N = 583 (213M, 370F)
+Posterior shoulder 
+enduranceRef. [21]
+N = 201 (96M, 105F)
+External rotation 
+strength- enduranceRef. [35]
+N = 32 (8M, 24F)
+Abduction 
+strength- enduranceRef. [35]
+N = 32 (8M, 24F)
+Back static endurance test, 
+ball bridge test, unilateral 
+bridge test, and trunk 
+extension isokinetic 
+strengthRef. [46]
+N = 30 (16M, 14F)
+Closed kinetic chain upper 
+extremity test scoreRefs. [22,32]
+N = 201 (201F)
+Serratus anterior punch 
+repetition test 
+(strength- endurance)Ref. [22]
+N = 53 (53F)
+Fatigue- related muscle 
+weakness on shoulder 
+shrug and punchRef. [44]
+N = 40 (19M, 21F)
+Maximal plank time Refs. [32,37]
+N = 185 (185F)
+Internal rotation endurance Ref. [35]
+N = 32 (8M, 24F)
+Adduction endurance Ref. [35]
+N = 32 (8M, 24F)
+Trunk flexion isokinetic 
+strengthRef. [46]
+N = 30 (16M, 14F)
+Body mass index (BMI) Ref. [33] Refs. [19,32,39]
+N = 140 (72M, 68F) N = 369 (104M, 265F)
+Maximal side plank time Ref. [46] Refs. [32*,37]
+N = 30 (16M, 14F) N = 185 (185F)
+Modifiable- extrinsic risk factors
+Training frequency 
+(sessions/week)Refs. [22– 24,33,39]
+N = 551 (237M, 314F)TABLE 4 (Continued)
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 2405
+McKENZIE et al.
+Risk factorStudies reporting significant 
+association with riskStudies reporting no association 
+with riskBest evidence synthesis 
+(strength, association)
+Freestyle as specialty stroke Ref. [33] Refs. [7,14,32]
+N = 140 (72M, 68F) N = 302 (29M, 223F)
+Competitive level Refs. [7,21,38]
+N = 345 (174M, 171F)
+Incorrect hand entry (too 
+lateral)Ref. [21]
+N = 201 (96M, 105F)
+Acute:Chronic workload 
+ratioRef. [21]
+N = 201 (96M, 105F)
+Dryland warm- up less than 
+five times per weekRef. [39]
+N = 197 (89M, 108F)
+Dryland warm- up greater 
+than 10- minutesRef. [39]
+N = 197 (89M, 108F)
+Unilateral breathing Ref. [33]
+N = 140 (72M, 68F)
+Training time Ref. [7] Refs. [19,23,37,39]
+N = 80 (42M, 38F) N = 343 (141M, 202F)
+Sprint event as specialty Refs. [14,39]
+N = 271 (126M, 145F)
+Training distance Refs. [7,24] Refs. [14,22,33,39]
+N = 156 (79M, 77F) N = 464 (198M, 266F)
+Use of hand paddles Ref. [33] Refs. [14,32]
+N = 140 (72M, 68F) N = 22 (37M, 185F)
+Non- modifiable risk factors
+Height Refs. [14,19,24,32,33,37,39]
+N = 499 (163M, 202F)
+Sex Ref. [39] Refs. [7,19,33]
+N = 197 (89M, 108F) N = 244 (129M, 115F)
+Age Refs. [24,33] Refs. [14,19,22,23,32,39]
+N = 216 (131M, 105F) N = 572 (178M, 394F)
+History of shoulder pain or 
+injuryRefs. [14,22,33,34] Refs. [23,32]
+N = 428 (270M, 158F) N = 233 (37M, 196F)
+Years of competitive 
+swimmingRefs. [7,33] Refs. [19,24,32,37,39]
+N = 220 (114M, 106F) N = 482 (141M, 341F)
+Other/secondary risk factors
+Differences in muscle 
+recruitment profilesRefs. [42,43,45]
+N = 92 (24M, 68§)
+Supraspinatus tendon 
+thicknessRef. [7]
+N = 80 (42M, 38F)TABLE 4 (Continued)
+(Continues)
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2406 |   
+McKENZIE et al.
+width and injury. With regards to studies reporting associ-
+ations, several interesting findings should be highlighted. 
+In a prospective cohort study Walker et al.14 identified an 
+increased risk of injury in swimmers with glenohumeral 
+external rotational ROM <93° and ≥100°,14 suggesting 
+there is an optimal window of flexibility. Bansal et al.34 
+also reported greater rotational ROM in injured swimmers 
+in a cross-  sectional study; however, eight other studies 
+reported no association (Table  4). Further, when assess -
+ing males and females separately in a prospective study, 
+Mise et al.24 reported decreased shoulder rotation width 
+in males, and increased width in females were associ-
+ated with shoulder pain. Shoulder rotation width is a test 
+whereby the swimmer grasps a rod with both arms in full 
+elbow extension, the minimum hand- to- hand distance the 
+swimmer can move the rod from in front of their torso 
+to behind their torso is the score they receive. A smaller 
+distance indicates greater shoulder complex mobility. 
+Additionally, Mise et al.24 also found that decreased exter -
+nal rotation ROM was associated with pain in males' right 
+but not left shoulders, and not in either female shoulder. 
+No statistical association was found in the combined data 
+in the left and right shoulders of males and females, as 
+presented in Table  4. The pragmatism of identifying dif-
+ferent risk factors between left and right shoulder is 
+questionable, particularly when these findings are not re -
+produced across sexes. It could be argued that breathing 
+side may influence shoulder kinematics and thereby alter 
+risk between shoulders; however, unilateral breathing has 
+been assessed and found not to be associated with shoul-
+der pain.32 Finally, while glenohumeral laxity was not as -
+sociated with shoulder injury,7,22 Sein et al.7 did find joint 
+laxity to be associated with impingement and extreme 
+pain. However, these authors concluded that as joint lax -
+ity was not associated with training load, it is likely not 
+a main contributor to shoulder pain. Future work should be directed toward investigating the ROM with conflicting 
+evidence.
+Improving shoulder strength is also a common focus 
+for land training in swimmers.47– 49 However, of the 27 
+different isometric and isokinetic shoulder strength mea-
+sures investigated in six articles, only three significant 
+associations were reported by two articles.20,40 The three 
+significant associations were various external:internal ro -
+tational isokinetic strength ratios.20,40 In a cross-  sectional 
+study, Bak and Magnusson40 found significantly greater 
+eccentric external rotation:concentric internal rotation 
+in injured swimmers compared to healthy swimmers but 
+reported no difference in concentric external:concentric 
+internal or eccentric external:eccentric internal rotations. 
+Similarly, Drigny et al.20 reported an eccentric external 
+rotation:concentric internal rotation strength ratio <0.68 
+had a relative risk of 4.5, with eccentric external rota-
+tion:eccentric internal rotation strength ratio also demon-
+strating predictive ability for shoulder injury risk (<0.66) 
+in their prospective study. It should be noted that this 
+article found no association between concentric external 
+rotation: concentric internal rotation ratio, or eccentric 
+internal rotation ratio: concentric external rotation ratio 
+and shoulder injury. Further investigation should be di-
+rected toward understanding the clinical significance of 
+such ratios, especially regarding eccentric shoulder rota-
+tor contractions given their absence in swimming. While 
+rotational strength imbalances appear to be associated 
+with shoulder injury, maximal shoulder strength (relative 
+to bodyweight or absolute) does not. However, while cur -
+rent evidence is limited given the lack of replication, it is 
+plausible that shoulder strength-  endurance may be more 
+indicative of injury compared to maximal strength.
+The highest rated prospective cohort study included in 
+this review investigated the posterior shoulder endurance 
+test and its relationship to shoulder pain.21 The test, first Risk factorStudies reporting significant 
+association with riskStudies reporting no association 
+with riskBest evidence synthesis 
+(strength, association)
+Differences in pain- pressure 
+thresholdRef. [41]
+N = 34 (18M, 16F)
+Fatigue related scapula 
+positionRef. [44]
+N = 40 (19M, 21F)
+Scapula dyskinesis Refs. [22,32]
+N = 201 (201F)
+Note: Risk factors are presented with studies that found a significant association, studies that found no significant association, and the best evidence synthesis. 
+ Strong evidence,  moderate evidence,  limited evidence,  conflicting evidence,  against an association,  in favor of an association,  
+unknown association, an * indicates this study found a significant difference in a subsample of their studied cohort.
+Abbreviations: F; female; M, male, N, total sample size; ROM, range of motion; §, unknown sex.TABLE 4 (Continued)
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 2407
+McKENZIE et al.
+described in baseball players,50 involves an athlete laying 
+prone on a plinth with their test arm hanging vertically 
+off the side. The participant then raises their arm to 90° 
+horizontal abduction with a dumbbell weighing approxi-
+mately 2% of bodyweight, the participant repeats this until 
+volitional exhaustion.21,50 This exercise has been shown to 
+elicit high levels of activation in trapezius, supraspina-
+tus, and infraspinatus.50 In their sample of competitive 
+swimmers, Feijen et al.21 found for every one additional 
+repetition the swimmer performed, their risk of shoulder 
+pain decreased by 5%. Tate et al.11 modified the posterior 
+shoulder endurance test and found a significant increase 
+toward the end of the season. Unfortunately, this investi-
+gation did not statistically analyze the test's relationship 
+with shoulder pain. Beach et al.35 further support the as -
+sociation of strength-  endurance in abduction and external 
+rotation and pain. This cross-  sectional study found mean 
+peak torque (after 50 repetitions at 240°/sec) in both ex -
+ternal rotation and abduction accounted for 54% and 60% 
+of the variation in shoulder pain rating in left and right 
+arms, respectively. In addition to abduction and external 
+rotation endurance, one case–  control study found mul-
+tiple significant findings relating to various measures of 
+shoulder and core strength-  endurance.46 While being 
+careful not to overstate the clinical relevance of shoulder 
+strength-  endurance given its limited evidence, this is per -
+haps the modifiable- intrinsic risk factor with the greatest 
+supporting evidence. When combined with its capacity to 
+be modified with appropriate shoulder injury prevention 
+programs, strength-  endurance has potential to be a highly 
+clinically relevant measure. Due to the impact of shoul-
+der fatigue during swimming, it is possible that increased 
+endurance of the posterior rotator cuff can enhance the 
+stability of the humeral head in the glenoid. In turn, this 
+may help mitigate the shoulders tendency for functional 
+impingement, particularly during longer swimming 
+sets.51 Future studies should reappraise shoulder strength- 
+endurance, particularly the posterior shoulder test, to 
+confirm its association with shoulder pain or injury, and 
+whether any such association is causal or consequent.
+4.2 | Modifiable-  extrinsic risk factors
+Despite 81% of Olympic swimming events taking less than 
+140 s, training volume is relatively high compared to other 
+cyclical sports.52 Barry et al.53 surveyed 31 swim coaches 
+and support staff (78% of whom had >10 years experience 
+in competitive swimming) and found that 96% moni-
+tored training distance and 92% measured session rating 
+of perceived exertion (RPE). Of these experts, 38% per-
+ceived their training volume monitoring practices to be 
+either “very” or “extremely effective” in preventing injury. However, the current evidence does not support these ex-
+pert beliefs. This review found moderate evidence against 
+the association of training frequency (sessions/week) and 
+injury, limited evidence against training time, and con-
+flicting evidence supporting an association of training dis-
+tance and shoulder injury. No included study investigated 
+session RPE.
+Although perhaps logical to consider absolute training 
+load (i.e., training time and/or distance) as injury risk fac-
+tors, only two included articles reported a significant associ-
+ation between injury and training time7 or distance.7,24 Mise 
+et al.24 found injured swimmers swam significantly further 
+than non- injured swimmers when males and females were 
+pooled together. However, when separated by sex, there 
+was a significant difference in females only. Further, Sein 
+et al.7 found all who swam > 20 h/week, or >60 km/week 
+exhibited supraspinatus tendinopathy on MRI, and swim-
+ming >15 h/week doubled the chance of tendinopathy 
+while those swimming > 35 km/week had four times the 
+rate of supraspinatus tendinopathy. While these absolute 
+training load measures have some individual support as 
+shoulder injury risk factors, the overall evidence is not con-
+clusive. An earlier systematic review of swimming training 
+load and pain, injury, and illness54 also reported no clear 
+evidence of association between training volume and pain 
+but did present one article55 that found an association be -
+tween retrospectively reported yearly training distance and 
+injury. However, this article was excluded from the current 
+study as shoulder injury data were not presented separately 
+from other injuries. Another study13 did report a significant 
+association between weekly training time and pain but was 
+also excluded from the current study due to unacceptable 
+method quality (see online supplementary material S3).
+A possible reason why no clear association is seen be -
+tween training load and injury is that these absolute mea-
+sures fail to account for the rate of load application. For 
+example, this monitoring fails to differentiate between 
+swimming 1 km in 50 m maximal efforts, versus 1 km in 
+recovery. An example of a swimmer's relative training load 
+is in their acute:chronic workload ratio. In fact, this ratio 
+was monitored by 31% of coaches in Barry et al.53 sample 
+of expert practitioners. In swimming, acute:chronic work -
+load ratio has been investigated by one research team who 
+found every 1- unit increase in this ratio lead to a shoulder 
+injury odds ratio of 4.3.21 However, the use of this metric 
+has been scrutinized for its inaccuracies and statistical ar -
+tifacts and cannot currently be recommended for use in 
+reducing injury risk.56 With the advent of water- proof iner -
+tial measurement unit's, more specific shoulder measures 
+may become available to monitor including number and 
+velocity of shoulder revolutions, potentially increasing the 
+validity of relative training loads. Such research is currently 
+being conducted in water polo,57 and should be repeated 
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2408 |   
+McKENZIE et al.
+in swimming populations. Future studies should also con-
+sider monitoring internal load including RPE, sleep, and 
+psychological inventories as suggested by Soligard et al.58
+Further to training load, the swimmer's competitive 
+level had moderate evidence supporting its association 
+with shoulder injury. Two cross-  sectional and one cohort 
+study have analyzed competitive level, and all found a sig -
+nificant association.7,21,38 However, the direction of this 
+association is not clear. Sein et al.7 found that swimmers 
+who competed at a higher level had greater rates of su-
+praspinatus tendinopathy. Feijen et al.21 found regional 
+swimmers had a lower injury risk than club swimmers, 
+but no significant differences were present for national 
+versus club, or international versus club swimmers. 
+Matsuura et al.38 found that elite swimmers who made the 
+Japanese Olympic team had less injury prevalence than 
+the elite swimmers who did not qualify for the Olympics. 
+Matsuura et al.'s study is likely confounded as injured 
+swimmers would likely be underperforming, therefore 
+negatively impacting team selection. While there is mod-
+erate evidence suggesting different competitive levels have 
+different injury rates, the relationship between these is not 
+clear and is potentially an artifact of different training vol-
+umes or intensities, both in and out of the water.
+4.3 | Non- modifiable risk factors
+There was moderate evidence against an association be-
+tween height, sex, and age with shoulder pain. While there 
+was only limited evidence supporting shoulder injury his-
+tory and future injury, articles reporting an association 
+exhibited dramatic effect sizes.14,22,33 A history of shoul-
+der injury increased risk of future injury, by 4.7,33 7,22 and 
+4.1 times.14 Further, Walker et al.14 showed those with a 
+shoulder injury history were 11.3 times more likely to sus-
+tain a future shoulder injury lasting >2 weeks. These large 
+effects highlight the need for primary injury prevention 
+in adolescent swimmers. However, this may be somewhat 
+inflated due to articles potentially failing to differentiate 
+between an index injury, exacerbation, reinjury, and new 
+injury. These terms have previously been defined in a con-
+sensus statement on methodologies for injury surveillance 
+in aquatic sports.59 All future research should consider 
+adopting these terms to not only avoid the inflation of in-
+jury history as a risk factor, but also to improve inter- study 
+consistency allowing for future metanalyses.
+4.4 | Other/secondary risk factors
+Injured swimmers appear to exhibit different muscle activ-
+ity profiles when performing functional upper extremity tasks,41,43 and scapula elevation.45 This has led to thus far 
+unsupported speculation as being a possible causal mech-
+anism for injury recurrence and suggestions that motor 
+control exercises be used in injury rehabilitation.41,43,45 
+Similarly, it has been suggested that swimmers report-
+ing lower pain- pressure thresholds42 and fatigue- related 
+changes in scapula orientation44 are at higher risk of in-
+jury. However, caution is recommended when concluding 
+these are shoulder pain or injury risk factors. These arti-
+cles tested swimmers with and without shoulder pain in a 
+single session potentially experiencing some pain inhibi-
+tion requiring compensatory increases in activity of other 
+muscles. Due to the study designs, it is not possible to 
+conclude whether these other/secondary risk factors were 
+present prior to the shoulder pain or occurred with the 
+presence of pain. This is particularly relevant for Hidalgo- 
+Lozano et al.41 who claim the presence of trigger points 
+leads to the development of shoulder pain based on the 
+finding that swimmers with painful shoulders presented 
+with active muscle trigger points.
+4.5 | Findings from prior reviews
+The current study expands upon a 2015 systematic review 
+by Hill et al.16 who reported joint instability, internal and 
+external rotation ROM, pain history, and the swimmer's 
+competitive level as the shoulder injury risk factors with 
+the highest level of confidence. Our updated evaluation 
+incorporating recent research, challenges the perceived 
+association between rotational ROM and shoulder injury, 
+and downgrades joint laxity to a conflicting evidence. 
+Nevertheless, the updated evidence continues to support 
+the swimmer's competitive level (moderate evidence) and 
+pain history (limited evidence) as variables associated 
+with shoulder injury.
+Hill's review also reported several variables associated 
+with shoulder injury but supported with low confidence, 
+the majority of these now contravened by the most recent 
+evidence, including rotational strength, sex, and breath-
+ing side. In fact, training volume is the only variable that 
+is still supported by the current evidence. In addition, 
+years of swimming experience and use of hand paddles 
+currently displaying conflicting evidence, adding a layer 
+of complexity to their roles as potential contributors to 
+shoulder injury.
+4.6 | Limitations and recommendations
+Before swimming practitioners apply any of the current 
+review's findings, it is important to highlight that it is not 
+known whether the presented risk factors are causal or 
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 2409
+McKENZIE et al.
+noncausal. This review synthesizes known associations 
+between various measures and shoulder pain and injury, 
+some of these measures may occur concurrently with pain 
+or injury without being an underlying cause. Currently, it 
+is not known if altering any risk factor will decrease injury 
+incidence. Preliminary evidence suggests exercise- based 
+programs in swimmers could reduce shoulder injury inci-
+dence.48,51,60,61 Nevertheless, before meaningful conclusions 
+can be drawn, subsequent investigations should include the 
+following methodological improvements, larger samples, 
+refined pain definitions, and longer monitoring periods. For 
+swimming practitioners looking to use the presented evi-
+dence for their athlete monitoring or injury prevention pro-
+grams, we highlight the following areas for consideration:
+ (i) A swimmer's ROM is not likely a predictor of injury. 
+Monitoring changes throughout a season/career may 
+produce meaningful outcomes; however, it is not 
+clear if “improving” ROM is beneficial.
+ (ii) Maximal shoulder strength is likely not associated 
+with shoulder injury. While studies have associated 
+various shoulder rotation strength ratios with pain, 
+due to the lack of maximal eccentric contraction 
+during swimming, we do not believe these ratio's to 
+be practically relevant injury risk factors. Improving 
+shoulder strength-  endurance may be of more benefit.
+ (iii) Monitoring absolute training load as a means of 
+shoulder injury risk is not supported by the litera-
+ture. Relative training loads and new technologies 
+may be worth consideration.
+ (iv) Clinicians and coaches should be aware that previ-
+ously injured swimmers are at high risk of re- injury. 
+Greater care and monitoring for swimmers with 
+shoulder injury history is needed during their reha-
+bilitation and return- to- swim programming. Efforts 
+in primary injury prevention may be exponentially 
+beneficial.
+To improve on the current research, there is a need for 
+highly controlled prospective studies in competitive swim-
+mers. Risk factors presented in this review should be reap -
+praised using the same methods in different populations 
+to validate the measure and cutoff scores.62 We suggest the 
+need for risk factor reappraisal is greater than the need 
+for additional exploratory investigations given the current 
+body of knowledge. Excluding training load monitoring, 
+potential risk factors are typically monitored at a single 
+time point while the associated injury may occur several 
+months later. Future prospective studies should moni-
+tor modifiable- intrinsic risk factors at regular intervals 
+throughout the collection period (e.g., every 1– 3 months), 
+reflecting their modifiable nature. Tate et al.11 have shown 
+many shoulder metrics change throughout the season, including posterior shoulder endurance, horizontal ad-
+duction ROM, and internal and external ROM, highlight -
+ing the need to regularly monitor. However, this article 
+failed to statistically associate these variables with pain. 
+As more prospective studies are conducted, it is critical for 
+subsequent systematic reviews to consider their approach. 
+These reviews should exclusively include only prospec-
+tive designs or weight these studies greater than cross- 
+sectional studies due to their inherently greater quality. 
+Future research should adopt the injury definitions de -
+fined by Mountjoy et al.59, this is particularly relevant to 
+the definitions of pain and injury, index injury, exacerba-
+tion, reinjury, and new injury. Adopting these definitions 
+will allow future reviews to pool data between studies 
+improving inferences that can be drawn. New technolo -
+gies, such as inertial measurement units, should be inves -
+tigated particularly as they relate to relative training loads. 
+Finally, internal training loads such as RPE, sleep quality, 
+and other psychological metrics should be investigated for 
+their possible role in performance and injury.
+5 | PERSPECTIVES TO SPORTS 
+MEDICINE
+A thorough understanding of shoulder injury risk factors 
+is critical for the development of athlete screening and 
+injury prevention protocols in competitive swimmers. As 
+evidenced in this review, there is contention regarding 
+risk factors, with many researchers exploring new poten-
+tial risk factors as opposed to confirming existing risk fac-
+tors in new populations. While it is not known whether 
+the identified risk factors in this review are causal or non-
+causal, clinicians may use these risk factors to develop 
+screening protocols and injury prevention programs in 
+their athletes.
+AUTHOR CONTRIBUTIONS
+Initial literature search and title and abstract screening 
+was conducted by Sophie- Alexandra Larequi and Steven 
+Duhig. Article quality assessment was conducted by Alec 
+McKenzie and Sophie- Alexandra Larequi. Data Extraction 
+was completed by Andrea Hams and Steven Duhig and 
+cross- checked by Alec McKenzie. First draft methods 
+were completed by Sophie- Alexandra Larequi. First draft 
+introduction, results, discussion, conclusion, and abstract 
+were conducted by Alec McKenzie. The manuscript first 
+draft was sent to all authors, with multiple rounds of revi-
+sions completed Alec McKenzie.
+ACKNO  WLE DGE MENTS
+We would like to acknowledge the Queensland Academy 
+of Sport and Swimming Australia for the support of this 
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2410 |   
+McKENZIE et al.
+program of research. Open access publishing facilitated 
+by Griffith University, as part of the Wiley - Griffith 
+University agreement via the Council of Australian 
+University Librarians.
+FUNDING INFORMATION
+No funding was received to conduct this review.
+CONFLICT OF INTEREST STATEMENT
+Authors have no conflicts of interest to disclose.
+DATA AVAILABILITY STATEMENT
+All data are available as online supplementary material.
+ORCID
+Alec McKenzie   https://orcid.org/0000-0003-1071-4958 
+Andrea Hams   https://orcid.org/0000-0003-2908-4271 
+Jonathon Headrick   https://orcid.
+org/0000-0002-7591-1162 
+Rod Whiteley   https://orcid.org/0000-0002-1452-6228 
+Steven Duhig   https://orcid.org/0000-0002-4014-7731 
+REFERENCES
+ 1. Grieser M, Vu MB, Bedimo- Rung AL, et al. Physical activity atti-
+tudes, preferences, and practices in African American, Hispanic, 
+and Caucasian girls. Health Educ Behav. 2006;33(1):40- 51.
+ 2. Afonso C, Graca P, Kearney J, et al. Physical activity in 
+European seniors: attitudes, beliefs and levels. J Nutr Health 
+Aging. 2001;5(4):226- 229.
+ 3. NCAA. NCAA Sports Sponsorship and Participation Rates 
+Report (1956- 57 through 2020- 21). 2022.
+ 4. Lahart IM, Metsios GS. Chronic physiological effects of swim 
+training interventions in non-  elite swimmers: a systematic re -
+view and meta- analysis. Sports Med. 2018;48(2):337- 359.
+ 5. Lee B-  A, Oh D- J. Effect of regular swimming exercise on the 
+physical composition, strength, and blood lipid of middle- aged 
+women. J Exerc Rehabil. 2015;11(5):266- 271.
+ 6. Feijen S, Tate A, Kuppens K, Claes A, Struyf F. Swim-  
+training volume and shoulder pain across the life span of 
+the competitive swimmer: a systematic review. J Athl Train. 
+2020;55(1):32- 41.
+ 7. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite 
+swimmers: primarily due to swim-  volume- induced supraspina-
+tus tendinopathy. Br J Sports Med. 2010;44(2):105- 113.
+ 8. Gaunt T, Maffulli N. Soothing suffering swimmers: a systematic 
+review of the epidemiology, diagnosis, treatment and rehabili-
+tation of musculoskeletal injuries in competitive swimmers. Br 
+Med Bull. 2012;103(1):45- 88.
+ 9. Pink MM, Tibone JE. The painful shoulder in the swimming 
+athlete. Orthop Clin North Am. 2000;31(2):247- 261.
+ 10. Trinidad A, González-  Garcia H, López-  Valenciano A. An up -
+dated review of the epidemiology of swimming injuries. Phys 
+Med Rehabil. 2021;13(9):1005- 1020.
+ 11. Tate A, Sarver J, DiPaola L, Yim J, Paul R, Thomas SJ. Changes 
+in clinical measures and tissue adaptations in collegiate swim-
+mers across a competitive season. J Shoulder Elbow Surg. 
+2020;29(11):2375- 2384. 12. McMaster WC, Troup J. A survey of interfering shoulder pain 
+in United States competitive swimmers. Am J Sports Med. 
+1993;21(1):67- 70.
+ 13. Capaci K, Ozcaldiran B, Durmaz B. Musculoskeletal pain in elite 
+competitive male swimmers. Pain Clin. 2002;14(3):229- 234.
+ 14. Walker H, Gabbe B, Wajswelner H, Blanch P, Bennell K. 
+Shoulder pain in swimmers: a 12- month prospective co -
+hort study of incidence and risk factors. Phys Ther Sport. 
+2012;13(4):243- 249.
+ 15. Struyf F, Tate A, Kuppens K, Feijen S, Michener LA. 
+Musculoskeletal dysfunctions associated with swimmers' 
+shoulder. Br J Sports Med. 2017;51(10):775- 780.
+ 16. Hill L, Collins M, Posthumus M. Risk factors for shoulder pain 
+and injury in swimmers: a critical systematic review. Phys 
+Sportsmed. 2015;43(4):412- 420.
+ 17. Chase KI, Caine DJ, Goodwin BJ, Whitehead JR, Romanick 
+MA. A prospective study of injury affecting competitive colle -
+giate swimmers. Res Sports Med. 2013;21(2):111- 123.
+ 18. Greipp JF. Swimmer's shoulder: the influence of flexibility and 
+weight training. Phys Sportsmed. 1985;13(8):92- 105.
+ 19. Cejudo A, Sánchez-  Castillo S, Sainz de Baranda P, Gámez JC, 
+Santonja- Medina F. Low range of shoulders horizontal abduc-
+tion predisposes for shoulder pain in competitive young swim-
+mers. Front Psychol. 2019;10:478.
+ 20. Drigny J, Gauthier A, Reboursière E, Guermont H, Gremeaux 
+V, Edouard P. Shoulder muscle imbalance as a risk for shoulder 
+injury in elite adolescent swimmers: a prospective study. J Hum 
+Kinet. 2020;75(1):103- 113.
+ 21. Feijen S, Struyf T, Kuppens K, Tate A, Struyf F. Prediction of 
+shoulder pain in youth competitive swimmers: the develop -
+ment and internal validation of a prognostic prediction model. 
+Am J Sports Med. 2021;49(1):154- 161.
+ 22. Lippincott EL. Predictors of Shoulder Injuries in Female 
+Collegiate Swimmers. Nova Southeastern University; 2018.
+ 23. McLaine SJ, Bird M- L, Ginn KA, et al. Shoulder extension 
+strength: a potential risk factor for shoulder pain in young 
+swimmers? J Sci Med Sport. 2019;22(5):516- 520.
+ 24. Mise T, Mitomi Y, Mouri S, et al. Hypomobility in males and hy -
+permobility in females are risk factors for shoulder pain among 
+young swimmers. J Sport Rehabil. 2022;31(1):17- 23.
+ 25. Ardern CL, Büttner F, Andrade R, et al. Implementing the 27 
+PRISMA 2020 statement items for systematic reviews in the 
+sport and exercise medicine, musculoskeletal rehabilitation 
+and sports science fields: the PERSiST (implementing Prisma 
+in exercise, rehabilitation, sport medicine and SporTs science) 
+guidance. Br J Sports Med. 2022;56(4):175- 195.
+ 26. Wells GA, Shea B, O'Connell D, et al. The Newcastle-  Ottawa 
+Scale (NOS) for Assessing the Quality of Nonrandomised Studies 
+in Meta-  Analyses. The Ottawa Hospital Research Institute; 
+2000.
+ 27. Agresta CE, Krieg K, Freehill MT. Risk factors for baseball- 
+related arm injuries: a systematic review. Orthop J Sports Med. 
+2019;7(2):2325967119825557.
+ 28. Norton R, Honstad C, Joshi R, Silvis M, Chinchilli V, Dhawan 
+A. Risk factors for elbow and shoulder injuries in adoles -
+cent baseball players: a systematic review. Am J Sports Med. 
+2019;47(4):982- 990.
+ 29. Forrest MR, Hebert JJ, Scott BR, et al. Risk factors for non- 
+contact injury in adolescent cricket pace bowlers: a systematic 
+review. Sports Med. 2017;47(12):2603- 2619.
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+   | 2411
+McKENZIE et al.
+ 30. Asker M, Brooke HL, Waldén M, et al. Risk factors for, and 
+prevention of, shoulder injuries in overhead sports: a sys -
+tematic review with best-  evidence synthesis. Br J Sports Med. 
+2018;52(20):1312- 1319.
+ 31. Slavin RE. Best evidence synthesis: an intelligent alternative to 
+meta- analysis. J Clin Epidemiol. 1995;48(1):9- 18.
+ 32. Tate A, Turner GN, Knab SE, Jorgensen C, Strittmatter A, 
+Michener LA. Risk factors associated with shoulder pain and 
+disability across the lifespan of competitive swimmers. J Athl 
+Train. 2012;47(2):149- 158.
+ 33. Bailón-  Cerezo J, Torres- Lacomba M, Gutierrez-  Ortega C. 
+Shoulder pain prevalence in competitive swimmers: a pilot 
+study. Rev Int Med Cienc Act Fis Deporte. 2016;16(62):317- 334.
+ 34. Bansal S, Sinha AGK, Sandhu JS. Shoulder impingement syn-
+drome among competitive swimmers in India— prevalence, 
+evaluation and risk factors. J Exerc Sci Fit. 2007;5(2):102- 108.
+ 35. Beach ML, Whitney SL, Dickoff- Hoffman SA. Relationship 
+of shoulder flexibility, strength, and endurance to shoulder 
+pain in competitive swimmers. J Orthop Sports Phys Ther. 
+1992;16(6):262- 268.
+ 36. Dischler JD, Baumer TG, Finkelstein E, Siegal DS, Bey 
+MJ. Association between years of competition and shoul-
+der function in collegiate swimmers. Sports Health. 
+2018;10(2):113- 118.
+ 37. Harrington S, Meisel C, Tate A. A cross-  sectional study examin-
+ing shoulder pain and disability in division I female swimmers. 
+J Sport Rehabil. 2014;23(1):65- 75.
+ 38. Matsuura Y, Hangai M, Koizumi K, et al. Injuries and physical 
+characteristics affecting swimmer participation in the olym-
+pics: a prospective survey. Phys Ther Sport. 2020;44:128- 135.
+ 39. Tessaro M, Granzotto G, Poser A, Plebani G, Rossi A. Shoulder 
+pain in competitive teenage swimmers and it's prevention: a 
+retrospective epidemiological cross sectional study of preva-
+lence. Int J Sports Phys Ther. 2017;12(5):798- 811.
+ 40. Bak K, Magnusson SP. Shoulder strength and range of motion 
+in symptomatic and pain- free elite swimmers. Am J Sports Med. 
+1997;25(4):454- 459.
+ 41. Hidalgo- Lozano A, Calderón-  Soto C, Domingo-  Camara A, 
+Fernández-  de- las- Peñas C, Madeleine P, Arroyo- Morales 
+M. Elite swimmers with unilateral shoulder pain demon-
+strate altered pattern of cervical muscle activation during 
+a functional upper- limb task. J Orthop Sports Phys Ther. 
+2012;42(6):552- 558.
+ 42. Hidalgo- Lozano A, Fernández-  de- las- Peñas C, Calderón-  
+Soto C, Domingo-  Camara A, Madeleine P, Arroyo- Morales 
+M. Elite swimmers with and without unilateral shoulder 
+pain: mechanical hyperalgesia and active/latent muscle trig -
+ger points in neck–  shoulder muscles. Scand J Med Sci Sports. 
+2013;23(1):66- 73.
+ 43. Sabzehparvar E, Khaiyat OA, Namin BG, et al. 
+Electromyographic analysis in elite swimmers with shoul-
+der pain during a functional task. Sports Biomech. 
+2019;20:639- 649.
+ 44. Su KPE, Johnson MP, Gracely EJ, et al. Scapular rotation in 
+swimmers with and without impingement syndrome: practice 
+effects. Med Sci Sports Exerc. 2004;36(7):1117- 1123.
+ 45. Wadsworth D, Bullock-  Saxton J. Recruitment patterns of the 
+scapular rotator muscles in freestyle swimmers with subacro -
+mial impingement. Int J Sports Med. 1997;18(8):618- 624. 46. Abdelmohsen A, Elhafez S, Nabil B. Core stability in adolescent 
+swimmers with swimmer's shoulder syndrome. Physiother Q. 
+2021;29(1):33- 41.
+ 47. Hibberd EE, Oyama S, Spang JT, Prentice W, Myers JB. Effect 
+of a 6-  week strengthening program on shoulder and scapular- 
+stabilizer strength and scapular kinematics in division I colle -
+giate swimmers. J Sport Rehabil. 2012;21(3):253- 265.
+ 48. Manske RC, Lewis S, Wolff S, et al. Effects of a dry- land 
+strengthening program in competitive adolescent swimmers. 
+Int J Sports Phys Ther. 2015;10(6):858.
+ 49. Batalha N, Paixão C, Silva AJ, Costa MJ, Mullen J, Barbosa TM. 
+The effectiveness of a dry- land shoulder rotators strength train-
+ing program in injury prevention in competitive swimmers. J 
+Hum Kinet. 2020;71(1):11- 20.
+ 50. Moore SD, Uhl TL, Kibler WB. Improvements in shoulder en-
+durance following a baseball-  specific strengthening program in 
+high school baseball players. Sports Health. 2013;5(3):233- 238.
+ 51. Yoma M, Herrington L, Mackenzie TA. The effect of exercise 
+therapy interventions on shoulder pain and musculoskeletal 
+risk factors for shoulder pain in competitive swimmers: a scop -
+ing review. J Sport Rehabil. 2022;31(5):617- 628.
+ 52. Nugent F, Comyns T, Nevill A, Warrington GD. The effects 
+of low-  volume, high- intensity training on performance pa-
+rameters in competitive youth swimmers. Int J Sports Physiol 
+Perform. 2019;14(2):203- 208.
+ 53. Barry L, Lyons M, McCreesh K, Powell C, Comyns T. 
+International survey of training load monitoring practices in 
+competitive swimming: how, what and why not? Phys Ther 
+Sport. 2022;53:51- 59.
+ 54. Barry L, Lyons M, McCreesh K, Powell C, Comyns T. The rela-
+tionship between training load and pain, injury and illness in 
+competitive swimming: a systematic review. Phys Ther Sport. 
+2021;48:154- 168.
+ 55. Ristolainen L, Kettunen J, Waller B, Heinonen A, Kujala 
+UM. Training- related risk factors in the etiology of over -
+use injuries in endurance sports. J Sports Med Phys Fitness. 
+2014;54(1):78- 87.
+ 56. Impellizzeri FM, Tenan MS, Kempton T, Novak A, Coutts AJ. 
+Acute: chronic workload ratio: conceptual issues and funda-
+mental pitfalls. Int J Sports Physiol Perform. 2020;15(6):907- 913.
+ 57. King M, Lewis A, Watson K, et al. 209 performance of inertial 
+measurement units to classify different upper limb activities 
+in elite women's water- polo: a cross sectional study. Br J Sports 
+Med. 2021;55(Suppl 1):A81.
+ 58. Soligard T, Schwellnus M, Alonso J- M, et al. How much is too 
+much? (part 1) International Olympic Committee consensus 
+statement on load in sport and risk of injury. Br J Sports Med. 
+2016;50(17):1030- 1041.
+ 59. Mountjoy M, Junge A, Alonso J, et al. Consensus statement 
+on the methodology of injury and illness surveillance in FINA 
+(aquatic sports). Br J Sports Med. 2016;50(10):590- 596.
+ 60. Swanik KA, Swanik CB, Lephart SM, Huxel K. The effect 
+of functional training on the incidence of shoulder pain 
+and strength in intercollegiate swimmers. J Sport Rehabil. 
+2002;11(2):140- 154.
+ 61. Lynch SS, Thigpen CA, Mihalik JP, Prentice WE, Padua D. 
+The effects of an exercise intervention on forward head and 
+rounded shoulder postures in elite swimmers. Br J Sports Med. 
+2010;44(5):376- 381.
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2412 |   
+McKENZIE et al.
+ 62. Bahr R. Why screening tests to predict injury do not work— 
+and probably never will…: a critical review. Br J Sports Med. 
+2016;50(13):776- 780.
+SUPPORTING INFORMATION
+Additional supporting information can be found online 
+in the Supporting Information section at the end of this 
+article.How to cite this article: McKenzie A, Larequi 
+S-A, Hams A, Headrick J, Whiteley R, Duhig S. 
+Shoulder pain and injury risk factors in competitive 
+swimmers: A systematic review. Scand J Med Sci 
+Sports. 2023;33:2396-2412. doi:10.1111/sms.14454
+ 16000838, 2023, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/sms.14454, Wiley Online Library on [12/08/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

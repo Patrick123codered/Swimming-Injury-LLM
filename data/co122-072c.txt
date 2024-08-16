@@ -1,0 +1,346 @@
+72Spinal Musculoskeletal Injuries Associated with
+Swimming:A Discussion of Technique
+Henry Pollard  BSc, GradDipChiro, GradDipAppSc, MSportSc, PhD.  *
+Matt Fernandez  BSportSc, MChiro.  †
+Abstract
+Objectives:
+To review the biomechanics of the swimming stroke and examine common injuries which occur in swimming.  A reviewof diagnosis and management strategies of these injuries is also performed.
+Background:
+Most injuries and complaints encountered in swimming athletes occur because of repetitive microtrauma or overuse, withmany injuries originating from faulty technique and poor swimming biomechanics.  As a result, assessment of an injuredathlete requires the practitioner to have an understanding of the four swimming strokes and hydrodynamics.
+Methods:
+A Literature search of the MEDLINE and MANTIS databases was performed on all swimming related articles.
+Results:
+Twenty seven journal articles and 7 text books were chosen that satisfied the search criteria and related to the aims of thisreview.
+Discussion:
+The correct swimming technique  is discussed and predisposing factors to injury in the stroke are identified.  Specific
+injury sites are examined and pathologies to these areas are detailed.
+Conclusion:
+The shoulder, neck and back are the injuries considered in this review.  These regions are considered in the total trainingprogram of the athlete to identify other factors, such as weight training or other dry land programs that may be contributingto injury.  However, whilst rest or reduced training may be necessary for recovery, every effort must be made to keep theswimmer “in the water” as cessation of training may lead to a rapid detraining effect and loss of competitive advantage.
+Keywords
+Swimming, analysis and movement, wounds and injuries, review literature, chiropractic
+Introduction
+Swimming is an organized, fast growing sport withcompetitive swimmers found in abundance in all age groups.Included are those athletes who compete in formal eventssuch as age group, open and masters swimming programsand those who participate in events such as long distancechannel swimming, triathlons, surf life saving, generalrecreation, fitness and rehabilitation.  As a result of thewidespread participation, the need to investigate injury in
+* Senior Lecturer:
+Dept. Health & Chiropractic
+Macquarie University 2109
+Correspondence & Private Practice:
+PO Box 448Cronulla, New South Wales  2230. AUSTRALIAEmail:  hpollard@optushome.com.au
+† Private Practice:
+Email:  mattfernandez1@hotmail.comthese groups is evident.  In our search of the literature, injuriesto swimmers other than those of elite standard revealed fewarticles, but did suggest that non elite swimming injuriesclosely mirror those found in elite swimmers
+1.
+Swimming is unique in that it provides upper and lower body
+strength and cardiovascular training, which is performed in anon-weight bearing environment.  However the highlyrepetitive motion of swimming may predispose overuseinjury
+2-5.  To fully understand the mechanisms leading a
+swimmer to injury, a thorough knowledge of anatomy andstroke mechanics is essential
+2.  Additionally, knowledge on
+the types of drag (water resistance) and its affect on swimmersare important and will be discussed.  Swimmers are subjectedto the repetitive strain of many tissues of the spine and upperlimb and as a result require positioning themselves in unusualanatomical positions to maximize force production.  Poorflexibility of swimming stroke hampers the adaptation of suchpositions and may predispose to injury.  Knowledge of the
+73 Volume 12 • Number 2 • November 2004 | ACOintricacies of the stroke mechanics, the demands placed on
+the muscular system and how they can impact on normal jointfunctioning can help the practitioner form an accuratediagnosis of injury.  By utilizing knowledge of biomechanics,the practitioner can appropriately select and implementeffective treatment and management strategies to addresscommon and uncommon pain presentations.
+Methods
+A broad based search of the English literature was conductedby utilising the Cumberland College of Health Science’sPEDRO database.  Medline (1960 - 2001), Mantis (HealthIndex) (1900 - 2001) using key words: swimming, analysisand movement, wounds and injuries, review, biomechanics,therapy.  A manual search was also conducted of journalsand textbooks relating to swimming and musculoskeletaltherapies in the libraries of Macquarie University (RydeNSW), Sydney University (Lidcombe NSW), University ofNew South Wales (Kensington NSW), covering materials ofswimming, applied physiology, biomechanics, spinal stability,chiropractic, osteopathy, physiotherapy and manual medicine.
+R esults
+All reference materials were selected based on their relevanceto the key words.  Twenty-seven journal papers and seventextbooks contained information that related directly toswimming based spinal injury, swimming technique andmanual therapy.  All resultant papers satisfied the searchcriteria and related directly to the aims of this discussion.
+Discussion
+Swimming BiomechanicsStrokes and HydrodynamicsThe biomechanics of each swimming stroke are similar exceptfor breaststroke, which is unique in both the upper and lowerextremity motion.  The remaining strokes consist of freestyle,butterfly and backstroke.  These strokes can be divided intotwo main phases, the pull (or propulsive) and recovery phases.The pull phase provides movement with the use of two largemuscles, the pectoralis major and latissimus dorsi.  Theseact to move the arm through adduction and internal rotationstarting from a stretched position of abduction/externalrotation.  The recovery phase allows the return of the arm tothe stretched starting position while the opposite armcompletes its pull phase.  Efficient recovery is based on theparticipation of the external rotators and body roll
+6.
+To appreciate swimming mechanics, a basic understanding
+of hydrodynamics and related biomechanical issues is needed.Drag is the term commonly used when referring to waterresistance
+7.  There are three types of drag relevant to the
+swimmer: form, wave and friction drag.  Form drag is waterresistance that is dependent on body positioning.  The morehorizontal the body is positioned in the water, the less formdrag.  Wave drag is the turbulence at the water surface createdby the moving swimmer.  Wave drag can rebound from thesides or the bottom of the pool.  Frictional drag originatesfrom the contact of the skin and hair with the water.  Thecontroversy surrounding the early use of the swimmingbodysuit highlighted the role of the suit in minimisingfrictional drag and the potential unfair advantage that couldbe acquired through its use.  Whilst initially considered unfair,the suit is now acceptable to use in competition.  The dragforce is also used for propulsion during the pull pattern andthe kick.
+The lift component was first described by the Bernoulli
+principle.  This principle in swimming relates to water flowingaround the hand during the pull and meets on the back edgeof the hand.  The water flowing around the back of the handhas a longer distance to travel given the roundness of thethumb and pitch of the hand.  This pressure creates a resultantforce and is directed toward the low pressure zone and isknown as the lift force.  The lift force is perpendicular todrag force
+7.
+The path of the hand in the swim stroke is not linear.  As a
+swimmer’s hand moves through the water, energy is given tothe water and the water moves.  The swimmer essentiallypushes off “still water” which allows swimmers to generatemore force.  One of the main reasons swimmers use the “S”shaped pulling pattern is to continually find still water that isnot moving to propel themselves forward
+7.  These propulsive
+movements of the arm can be further divided into outsweep,downsweep, insweep and pull phases (see figure 1).  Theoutsweep is the first movement in the underwater stroke forbutterfly and breaststroke swimmers.  The downsweepperforms the same function for freestyle and backstroke.Neither of the sweeps are propulsive, but rather, they servethe arm to catch water before applying a propulsive force.The insweep is the first propulsive movement in freestyleand butterfly while it is the only propulsive movement inbreaststroke.  The push phase is the propulsive motion infreestyle and butterfly.
+It is clear from the above description, that during the
+swimming motion a great deal of emphasis is placed on thenearly global motion of the glenohumeral joint.  The greaterthe flexibility of this joint, the better the swimmer is able togenerate power through the entire pull-through phase.Spinal Musculoskeletal Injuries Associated with Swimming
+POLLARD / FERNANDEZ
+74than water, thus the pull phase is less stressful6.  The freestyle
+stroke depends mainly on the upper extremity for forwardpropulsion.  The adductors and internal rotators largelydominate the pull phase, with force being provided initiallyby the pectoralis major clavicular portion followed by thelatissimus dorsi.  Assistance is provided by the serratusanterior and the internal rotator functions of the subscapularisand teres major
+6.
+Efficient recovery is based on the participation of the external
+rotators and body roll.  Recovery is a small muscle dependantmovement with the rhomboid and middle trapezius retractingthe scapula as the posterior deltoid, teres minor andinfraspinatus externally rotate the shoulder.  Shoulderabduction is performed by the middle deltoid and is assistedby the supraspinatus.  The main role of the supraspinatus isto stabilize the humeral head in the glenoid thereby allowingthe rotator cuff to act efficiently off the base of support createdby the scapula stabilizers
+6.  In mid recovery for hand entry
+preparation, the serratus anterior and upper trapezius rotatethe scapula upward for shoulder stabilization.  Duringswimming the serratus anterior has been demonstrated tofunction at 75 percent of its maximum test ability.  Due to therepetitive nature of swimming, the lack of sufficient rest phasewill inevitably lead to some fatiguing of the serratus anterior
+6.
+Body roll cannot be underestimated during swimming.
+During each freestyle stroke, the upper body will roll throughnearly 160 degrees
+7.  This roll of the torso produces large
+forces that pull the hand and arm through the water and is aresult of the large paraspinal muscles of the back and theabdominal musculature
+7.  Perhaps the greatest difference
+between elite and novice swimmers is the lack of body rolland therefore power in the latter.  The efficient use of thebody roll helps to decrease the form drag associatedswimming as the cross sectional area of the body pushingthrough the water is decreased with its efficient use.
+The kick component for freestyle, butterfly and backstroke
+is performed by the repetitive movements of hip flexion andextension, knee flexion and extension, ankle plantar and dorsiflexion.  The power of the thigh and calf muscles, throughthe kicking action are purposely timed to enhance and providepower to body roll and therefore, pull-through power
+7.
+Lumbar spine mobility during the kick is also important.  Incontrast the breaststroke kick begins with hip and kneeflexion.  The knee then extends and abducts and brings theankles together at full knee extension.  At the termination ofthe kick the ankles are plantar flexed.Unfortunately the same flexibility may predispose the
+swimmer to shoulder joint instability
+8.
+The kick pattern most commonly used is the two-beat and
+six beat flutter kick.  The two beat flutter kick has one downbeat and one up beat of each leg during one stroke cycle.The six beat flutter kick has three down beats and three upbeats during once arm cycle
+7.
+Muscular Demands
+Today, the availability of computerised, technologicaladvances in sport science, allows for the analysis of criticalinformation than can lead to improved swimmingperformance
+7.  A discussion of the freestyle stroke follows,
+as it is often used as a training substitute for the other threestrokes
+6.  Freestyle muscle activity has been measured both
+in and out of the water.  This has clinical ramifications withregards to rehabilitation, since air provides less resistanceFigure 1.   Arm movement during freestyle seen
+from A the front and B below.  Adapted fromAllingham 1995; p366
+27.
+Spinal Musculoskeletal Injuries Associated with Swimming
+POLLARD / FERNANDEZ
+75 Volume 12 • Number 2 • November 2004 | ACOCommon Spinal Injury Sites,
+Diagnosis and Management
+Shoulder Neck Complex
+ShoulderAs there are muscles common to both shoulder and neckfunction, injuries to the shoulder may potentially effect theneck, and should not be ignored.  This section will discussthe shoulder and neck.  The majority of swimmers who suffershoulder impingement suffer because of glenohumeralinstability
+4,9-10.  In the unstable glenohumeral joint the humerus
+abnormally translates on the glenoid leading to instability.This instability causes the rotator cuff muscles to tighten tostabilize the joint.  This is further complicated by the increasedflexibility noted in swimmers.  The increase in shoulderflexibility correlates directly with swimming speed
+11.
+Although important for performance, if unattended, thesechanges could reduce stability of the glenohumeral joint, viaincreased capsuloligamentous laxity, thereby causing anincrease in rotator cuff activity to stabilise the joint
+11.
+The high reliance upon the shoulder adductors and internal
+rotators for forward propulsion results in excessive activityand development of the anterior chest and internal rotatormuscles.  Ultimately this creates internal and externalmusculature imbalance, thus creating the potential for anteriortranslation during period of co-contraction and hence, thecharacteristic posture noted in swimmers
+6.  Electrical activity
+measured in 25 breaststroke swimmers showed an increasein activity of the internal rotators muscles in swimmers withpainful shoulders.  There was decreased activity in the teresminor, supraspinatus and upper trapezius muscles.  Thesefactors increased the risk of impingement
+10.  The muscles
+that performed the greatest work in the normal shoulder arethe muscles most likely to fatigue, they being the serratusanterior and teres minor.  If left unattended, it could potentiallyencourage the forward translation of the humeral head causinga relative position of impingement
+10.
+With both freestyle and butterfly strokes, the supraspinatus
+and biceps tendon are called upon to work heavily.  Thesupraspinatus tendon passes over the humeral head directlybeneath the coracoacromial arch laterally as does the bicepstendon anteriorly.  As the result of muscular imbalance in theform of a loss of medial scapular stabilizers, the arm canadopt a position of abduction and forward flexion throughoutthe swimming stroke.  In these positions, the tendons of thesupraspinatus and bicep can be stressed throughout a regionof the tendons referred to the avascular zone
+3.  The effect of
+loading tendons in this region of hypovascularity has beensaid to predispose tendons to inflammation, mechanicalimpingement and ultimately partial or complete substancetears
+3.  Persistent inflammation causes scarring and / or
+hypertrophy of the affected tissues that may act as amechanical irritant to perpetuate the problem
+11.  Thus the
+“swimmers shoulder” has the potential to become adebilitating chronic injury.  This process can continue intomiddle age, where chronicity and bony changes, consistentwith erosion and osteophyte formation on the anterior inferiorsurface of the acromion can occur
+3.
+Swimmers have a tendency to be selectively hypermobile in
+the shoulder with the exception of a tight posterior capsule2.
+When the posterior capsule is tight, the hypermobile jointmay cause a functional anterior translation of the humerus.During the swimming stroke application of force to the palm,the hand propeller, results in a vector thrust at the shoulderin an anterior direction, thereby exacerbating anterior shear
+8.
+The sustained maximal ability to propel the body through
+the water may lead to dysfunction of the scapulothoracicmuscles, as seen by winging of the scapula
+9.  The
+scapulothoracic muscles are responsible for positioning thescapula and therefore the glenoid
+11.  This results in less
+concavity compression needed by the rotator cuff.  Thedysfunctional change in the stabilisation of thescapulothoracic articulation allows forward rotation of theshoulder, exacerbating any anterior instability.  Endurancebased swimming workouts may not only fatigue the scapula-positioning muscles but also the rotator cuff muscles
+11.
+Another cause of shoulder pain is a tear in the glenoid
+labrum12.  The labrum is a fibrous structure joined to the
+glenoid fossa.  Its major function is to deepen the concavityof the glenoid fossa, act as the origin for the glenohumeralligaments and has a role in resisting anterior translation ofthe humeral head.  Tears in the labrum can result fromrepetitive overhead movements and rotator cuff fatigue thatcauses forward translation of the humeral head via themechanism previously described.  In the presence ofinstability, a loss of attachment of the inferior glenohumeralligament (off the anterior-inferior glenoid rim) can occur.These changes result in clicking, catching or locking of theshoulder.  The pain from a labrum injury tends to be maximalmidway through the pull phase of the stroke
+12.
+Although often overlooked, the differential diagnosis of
+shoulder pain in aquatic athletes should include thoracic outletsyndrome
+13.  Freestyle, butterfly and backstroke all require a
+controlled repetitive power motion at the very extreme ofabduction and external rotation of the shoulder.  Tightnessand pain about the shoulder, neck and clavicle at the handentry position should alert the physician to the possibility ofSpinal Musculoskeletal Injuries Associated with Swimming
+POLLARD / FERNANDEZ
+76thoracic outlet syndrome.  A common but subtle presenting
+complaint is the inability to keep fingers together and controlthe movement of the hand during the pull phase of any of thefour strokes.  These symptoms are attributed to the loss ofstrength of the intrinsic muscles of the hand, representing acompromise of the C8 and T1 nerve roots, the medial cordand the ulnar nerve.  Compromised vascular structures givesymptoms of coolness and pain (subclavian artery occlusion)or a feeling of engorgement or fullness (subclavian veinocclusion)
+13.
+Therefore several different abnormalities of function can
+contribute to “swimmers shoulder”.  These abnormalitiesinclude laxity of anterior-inferior caspuloligamentous andmuscular structures leading to anterior instability, avascularityof the supraspinatus and biceps tendon, tendonitis andimpingement that is exacerbated by scapulothoracicdysfunction.  Thoracic outlet syndrome and neck dysfunctioncommonly refer pain to the shoulder
+8.
+Cervical Spine
+The neck and its related structures often cause radiating painto the shoulder joint
+8.  Younger age groups are less likely to
+be subjected to cervical spine degenerative disease.  Howeverin the older swimmer, disc dysfunction and spondylosis couldimpinge on nerve roots, particularly those at C4, C5 and C6levels, resulting in radiating pain to the shoulder joint andbeyond.  The athlete subjected to herniation of a cervicalnucleus pulpous at C5 to C6 or may present with pain,numbness and not uncommonly, weakness in the large motorgroups surrounding the shoulder girdle.  Such a deficit wouldmake swimming difficult due to the additional load placedon the neck.  This would be especially true of the butterflystroke.
+The neck is also subjected to sustained and repetitive
+movements, which can have implications for overuse injury.55% of total cervical movement (especially rotation) isprovided by the atlanto-axial joint (C1-C2), 5% by theocciput-atlas joint (C0-C1) and the remaining 40% is spreadbetween C2-C6
+4.  A study by Guth found that there was a
+greater mean range of cervical rotation in 14-17 year oldswimmers than non-swimmers.  In this study, the analysiswas made using goniometric measurement of cervicalrotation.  This result supported the concept that active motionthrough sporting activity will contribute to a greater degreeof flexibility
+22.
+If one considers the number of strokes a freestyle swimmer
+takes, i.e. up to 5000 strokes per session and they breatheevery 3 strokes then the swimmer would be turning their head1667 times to breath per session.  This is further complicated
+when the swimmer only breathes unilaterally for the entiresession, creating muscle imbalances.  Deviating the head fromthe axis of rotation i.e. looking or breathing forwardrepetitively can cause unnecessary neck problems due to theneck adopting an extended and rotated position, which isknown to stress the neck
+19.  The resultant overuse of a
+hyperextended cervical spine can predispose the athlete tocervicogenic based headaches
+23-24.
+Neck over-rotation loads cervical spine ligaments and
+muscles, which encourages asymmetrical development.  Theface emerges from the water into an air pocket at the bottomof the bow wave, which is created by the head pushing throughthe water in the same manner as a boat.  Due to the protectionof the bow wave, swimmers only need minimal rotation ofthe head to obtain a breath
+22.  Poor body rotation results in
+over-rotation of the neck in order to breathe.  If the body iswell rotated along its long axis then there is no requirementfor the neck to over-rotate.  Contributing to this error can bethe practice of breathing unilaterally.  Breathing only to thefavoured side leads to muscular imbalances within the neck,particularly in rotation.  Such muscular imbalance may beaggravated by forward head carriage, as the axis of rotationchanges resulting in greater body and cervical sidebend andextension to compensate for lost rotation range of motion
+20.
+Conversely, breathing to the “bad” side may not rotate thebody enough potentially contributing to over-rotation of theneck.  Thus, bilateral breathing should be encouraged whenpossible.
+Backstroke swimming requires the prolonged contraction of
+the anterior neck to keep the face above the water line, aposition, which may predispose cervical spine hyper flexion
+25.
+These muscles are prone to fatigue and can result in musclesoreness afterwards.  Poor body rotation places addedpressure on the shoulders by not allowing them to be deep inthe water, thus not allowing them to trace the required “S”shaped curve.  This in turn can affect the neck by increasingthe strain of anterior structures and encourage the forwardhead carriage posture
+19.  Practitioners noting such posture
+should liase with the swim coach in order to improve thetechnical aspects of the swim mechanics that lead to themaladapation.
+By contrast, breaststrokers must maintain the head and neck
+relative to the thorax.  The swimmers should rise for a breathfrom under the water with the body as one unit.  The headshould not be hyperextended to breathe as it predisposes tocervical facet joint compression and it slows the swimmerdown as it forces the hips to drop thus creating more drag
+6.Spinal Musculoskeletal Injuries Associated with Swimming
+POLLARD / FERNANDEZ
+77 Volume 12 • Number 2 • November 2004 | ACOIt is likely that poor control of neck flexors would also
+contribute to such a scenario.
+The butterfly stroke relies greatly on timing and appropriate
+sequencing of events.  The most common error is breathingtoo late, while both arms are already out of the water.  This isan awkward position as the shoulders are directed down andforward with the neck and head tilted up resulting inhyperextension of the neck.  As with breaststroke, the butterflystroke swimmers should maintain proper alignment of thehead, neck and back when breathing.  A weak kick, poorbody strength, or a combination of both may result inimperfect clearance of the head and face out of the watercausing the swimmer to hyperextend in order to breathe,resulting in possible neck hyperextension injury.
+Cervical vertebral movement is vital for effective, pain-free
+head turning in the recovery phase with the freestyle stroke
+6.
+Neck extension is required in breaststroke and butterflystrokes.  Like the low back, upper limb muscular imbalancesshould be assessed and corrected
+17.
+Treatment and Rehabilitation of the
+Shoulder and Cervical SpineThe initial aim of the practitioner is to reduce the pain andinflammation whilst maintaining function.  Rest, Ice,Compression and Elevation (RICE) along with non-steroidalanti-inflammatory drugs (NSAIDS) may be used in the acutephase.  Care should be taken with elevation as it can aggravateall mechanical lesions of the shoulder.  This is a positionadapted by all swimming strokes as well as many of thetraining drills (i.e. kick board).  Modalities like soft tissuemassage, ultrasound and electrical stimulation can also helpdecrease pain.  In the chronic case, transverse friction massagemay be beneficial. Cross friction promotes increased bloodflow, fiber mobility and alignment.  It should not be performedon the acutely injured rotator cuff.
+Thoracic function, in particular anterior chest muscles and
+the posterior capsule often need to be stretched to help restorenormal motion between internal and external rotators.  Thelatissimus dorsi, pectorals and shoulder internal rotatorscharacteristically shorten and the thoracic curvature increasescollectively leading to a loss of extension through the thorax.A scenario that functionally predisposes impingement, thispostural adaptation can result in a compressive force in theacromioclavicular joint and eventually, the sternoclavicularjoint
+14.  Thoracic spine extension is necessary for protecting
+the shoulder joint from injury.  The deltoid can be released,stretched and massaged to reduce upward migration of thehumeral head, a factor associated with mechanical disordersof the glenohumeral joint
+15.  Muscles should be stretched at
+least 3-5 times for 15-20 seconds for most benefit2.  Gentle
+manipulations and mobilisations of the scapula, humerus,acromioclavicular joint, sternoclavicular joint andcervicothoracic spine should be performed as required
+15.
+Scapular stabilization is required for shoulder rehabilitation16.
+The aim of this phase is to align the scapula as an appropriatebase of support for the action of the rotator cuff muscles.  Toachieve optimum function the shoulder is held back and downthrough scapular retraction exercises.  Swimmers with painfulshoulders have been found to recruit the rhomboid musclemore in the propulsive phase than non injured swimmers
+6.
+These muscles should be trained to contract in a normal state,which will reduce the forward shoulder posture and allowincreased subacromial space.  Consideration should also begiven to the lower trapezius as it counteracts the upwardscapula pull by the upper trapezius, which is active throughoutfreestyle stroke.  The serratus anterior is active throughoutthe entire stroke cycle and thus must be trained to resistfatigue.  Similarly, the rotator cuff muscles are also activethroughout the entire stroke range and may also be prone tofatigue related injury
+11.
+Stroke mechanics should be reviewed in consultation with
+the swimming coach.  Lack of body roll or the hand crossingthe midline in freestyle promotes impingement, as extremeinternal rotation and adduction is encouraged in this abnormalposition.  Maintaining a high elbow and breathing consistentlyto both sides reduces stress in the shoulder and neck bydistributing forces on the humeral head more evenly, hencebilateral breathing is recommended.  Swimming intensity andvolume should be monitored as shoulder muscles fatigue.The use of hand paddles and tethered swimming should beavoided as they have been identified as causative factors inshoulder injuries for swimmers
+8.  Other exercises like kicking
+with a kickboard for long periods not only affect the shoulderbut can hyperextend the neck also.  The use of drylandexercises such as tricep dips, bicep curls, bench press andshoulder overhead press in the weights room may promoteshoulder impingement if performed incorrectly.  By contrast,postural instruction for swimming may have long-termbenefits.  Benefits may include increased propulsion andreduced resistance of water to forward movement.  In mostcases, form drag can be reduced by the swimmer adopting aswim posture that is ‘streamlined’ or horizontal from head totoes.  Swimmers should also be encouraged to roll their bodiesfrom side to side when swimming freestyle (figure 1) andbackstroke (figure 2), thus reducing the tendency of bodyswinging from side to side as a result of alternating lateraland vertical movements of their arms.  Breaststroke (figureSpinal Musculoskeletal Injuries Associated with Swimming
+POLLARD / FERNANDEZ
+78manipulation and/or mobilisation of the neck and upper
+thoracic areas6.  Scapula stability and postural education is
+important for neck function.  Special consideration shouldbe given to the deep neck flexors (longus capitis and colli)and cervicothoracic extensors (semispinalis cervicis andlongissimus cervicis)
+26.  Motor control via endurance-based
+exercises should make up the core of cervical spinerehabilitation.  Eye-head-neck coordination training throughvarious reflexes should also be considered in those who sufferfrom neck injuries.  Specifically these reflexes include: thecervico-ocular reflex, vestibulo-ocular reflex, cervicocollicreflex, vestibulocollic reflex, optokinetic reflex, smoothpursuit and saccades
+27.  Correction of these reflexes can be
+performed in an unstable environment.  With the patientstanding on one (or two) legs and on a wobble board, a penis held in front of the patient so he or she can fix the gaze.The pen is then moved from side to side as the patient followsit freely with their head and eyes, stimulating the smoothpursuit reflex.  To stimulate the vestibuloocular and cervico-ocular reflexes, the patient fixes their gaze on the pen butonly the head will move in rotation.  To stimulate saccadicmovements of the eyes, a book or magazine is held in frontof the patient and they are asked to read aloud
+26.
+Lumbo Pelvic Complex
+Low back injuries in swimmers most often are caused byrepetitive stress during turns and the strain of poor head andbody position in the water
+2.  Torsional strain can occur when
+the body does not roll as a whole unit during the stroke causingabnormal loading at the point in the spine where the rollingstops
+2.  This predisposes the swimmer to overuse or acute
+injury or both.  Pelvic musculature, particularly tight hip
+Figure 3.   Arm movement pattern during breaststroke.
+Source: adapted from Costill, et al (1992).
+Figure 4.   Arm movement pattern during butterfly.
+Source: adapted from Falkel, et al (1988).
+Figure 2.   Arm movement pattern during backstroke.
+Source: adapted from Costill, et al (1992).3) and butterfly (figure 4) requires some undulating trunkmovement to increase propulsion and this has the potentialto cause drag.  However this movement increases propulsiveforce, making the trade-off advantageous for swimmingspeed.  Slicing the hands in the water while swimmingfreestyle, backstroke or butterfly can reduce wave drag.  Therecovery phase of the stroke is made over the water and istherefore not a factor.  This will also reduce the wave drag inbreaststrokers who recover their arms over the water.Frictional drag can be reduced by shaving body hair orwearing swim suits of low friction fabric, designed to fit likea second skin.  Such swimsuits have previously caused muchcontroversy at the elite level, as some commentators feel theyact as an aid to buoyancy.
+Surgery maybe considered for swimmers with chronicshoulder pain that does not respond to conservative treatment.A capsule-tightening procedure may be considered forswimmers with instability.  Subacromial decompressionshould be considered only for swimmers who have a type IIIhooked acromion
+16.  The anterior slope of the acromion in
+this case may reduce the effective space the supraspinatustendon has, when it slides in shoulder abduction.
+Shoulder rehabilitation is also relevant for the cervical spine.
+Swimmers with neck pain, particularly due to muscle spasmand/or restricted range of motion, are likely to benefit fromSpinal Musculoskeletal Injuries Associated with Swimming
+POLLARD / FERNANDEZ
+79 Volume 12 • Number 2 • November 2004 | ACOflexors can reduce hip extension resulting in hyperextension
+of the lumbar spine and anterior pelvic tilt17.  In addition,
+anterior pelvic tilting results in the pelvis assuming a lowerthan normal position in the water, creating increased drag
+19.
+Disc degeneration may occur in the older swimmer18.  While
+this isn’t thought to be caused by swimming, it may beaggravated by certain body positions held during variousindividual strokes.
+The hyperextension motion of the lumbar spine seen with
+butterfly and breaststroke can predispose to facet jointirritation, otherwise known as “Butterfly back syndrome”
+18.
+The power and range of the kick depends largely onlumbosacral mobility, as well as the flexibility of the hip,knee and ankle joints.  Butterfly requires repeated flexionand extension of the trunk.  The extension is necessary toelevate the shoulders to obtain clear water for the head in therecovery phase of the stroke.  The “Butterfly back syndrome”is made worse if the pelvis is tilted anteriorly as this positionwill cause facet joint compression.  If this compressionbecomes repetitive and chronic, it may progress to low gradejoint inflammation, leading to reflexive spasm of the backmuscles and pain can occur
+19.  With continued repetitive
+stress, low back problems like stress fractures of the parsinterarticularis (spondylolisthesis) can occur.
+Several changes in competitive swimming technique have
+emphasized the flexibility required of the torso
+20.  In the mid
+1980’s spectators were introduced to the underwaterbackstroke, where swimmers would dolphin kick almost theentire 50 meter pool length.  Although the rules have beenmodified, the practice of staying underwater for the first 15meters of a race is now standard
+20.  The underwater porpoise
+motion clearly places stress on the thoracolumbar paraspinousmusculature
+20.  A change to the breaststroke rules, now allows
+the head to dip underwater altering the breaststroke technique,whilst simultaneously allowing the heels to break the surfaceduring the kick.  As a result, the breaststroke mechanicsbecame similar to butterfly mechanics.  Both strokes requireconsiderable flexibility of the thoracolumbar spine.
+Research carried out at a London hospital investigated 50
+swimmers with lower back pain who regularly competed inbutterfly events and found that in this particular group ofsubjects, there was the high percentage (25%) having minorradiographic abnormalities such as old Scheuermann’sdisease from repetitive flexion loading of the thoracic spine.These findings could be developmental, traumatic or both
+18.
+Scoliosis has been found to be quite common in younger
+swimmers and may be exacerbated by swimming21.  Theincidence of structural scoliosis (deviation > 20 degrees with
+rotation, rib hump asymmetry) in athletes has been found tobe 1.6-2.0%.  However in swimmers, it has been found to beabout 7%.  Considerable controversy exists as to whethercompetitive swimming may actually worsen the scolioticcurve.  It has been speculated that the muscular imbalancebetween the anterior and posterior musculature, repetitivetorsional motion and arm dominance of the adolescent andpreadolescent swimmers may cause secondary adaptation invertebral structure leading to scoliosis
+21.
+Treatment and Rehabilitation of the Lumbo
+pelvic complexManaging swimmers back pain includes assessing andcorrecting spinal and pelvic joint mobility via various methodsthat can include manipulative and mobilising techniques.Muscle imbalances, particularly tight hip flexors and erectorspinae as well as inhibited gluteals and abdominals, shouldbe assessed and treated for long term improvement
+19.  Spinal
+stability and impaired motor control must be addressed.Motor control skill has been shown to be compromised underchallenging aerobic circumstances
+29.  The multifidus muscles
+of the lumbar spine are associated with atrophy in those withacute low back pain.  The atrophy was unilateral to the sideof pain and at the same level as the palpable jointdysfunction
+30.  Spinal stabilisation exercises (sometimes
+referred to as “core stability exercises”) have been shown toprevent multifidus muscle atrophy
+31.  Trunk muscle co
+activation using an abdominal bracing technique has beenshown to increase the margin of stability when performingactivities
+32.  Bracing requires a light contraction (5-10% of
+patients’ maximum voluntary contraction) with the breath notheld during the brace
+32.  Spinal stability training requires an
+emphasis on endurance33, rather than strength and upto three
+months is often required to prevent chronic pain34.  Flexibility
+and mobility are important but this should be emphasisedabove and below the lumbopelvic spine.
+Conclusion
+The management of swimming injuries must includeprevention based education and activity.  Effort should bemade to develop a team approach by talking to the swimmer’scoach, their support staff and to other practitioners.  Such anapproach is important in light of the fact that most injuriesoccur in training and are overuse in nature.  Knowledge ofswimming biomechanics and the demands placed on thespinal musculoskeletal system should aid the practitioner inthe diagnosis and management of injuries as well as gainingthe trust of the athlete and coach.  Most swimming injuriesare minor and can be treated with conservative care.  Thecriteria for return to swimming should include the restorationSpinal Musculoskeletal Injuries Associated with Swimming
+POLLARD / FERNANDEZ
+80of joint range of motion, the resolution of oedema, and the
+return of flexibility, strength and endurance.  As chiropractorscontinue to become involved in the treatment of swimmersat all levels, it is important to keep in mind the detrainingeffects on the swimmer if they are kept out of the water forany substantial period.  Every effort should be made to keepthe competitive swimmer “in the water”.
+References
+1. Richardson AB, Miller JW.  Swimming and the older athlete.  Clin
+Sports Med 1991; 10(2):301-18.
+2. Kenal KAF, Knapp LD.  Rehabilitation of Injuries in Competitive
+Swimmers.  J Sports Med 1996; 22(5):337-47.
+3. Kennedy JC, Hawkins MD, Krissoff WB.  Orthopedic manifestations
+of swimming.  Am J Sports Med 1978; 6(6):309-22.
+4. McLean ID.  Swimmer’s Injuries.  Aust Fam Physician 1984;
+13(7):499-502.
+5. McMaster WC.  Swimming injuries: An overview.  Sports Med 1996;
+22(5):332-6.
+6. Souza TA.  The Shoulder in Swimming.  In: Souza TA.  Sports injuries
+of the shoulder.  Conservative Management.  Churchill LivingstoneInc. 1994. p107-124.
+7. Troup JP.  The physiology and biomechanics of competitive swimming.
+Clin Sport Med 1999; 18(2):267-83.
+8. McMaster WC.  Shoulder injuries in competitive swimmers.  Clin
+Sport Med 1999; 18(2):349-59.
+9. Rupp S, Berninger K, Kopf T.  Shoulder problems in high level
+swimmers: impingement, anterior instability, muscular imbalance?Int J Sports Med 1995; 16(8):557-62.
+10. Ruwe PA, Pink M, Jobe FW, Perry J, Scovazzo ML.  The normal and
+the painful shoulders during the breaststroke.  Am J Sports Med 1994;22(6):789-96.
+11. Weldon EJ, Richardson AB.  Upper Extremity overuse Injuries In
+Swimming.  Clinics in Sports Medicine 2001; 20(3):423-37.
+12. McMaster WC.  Anterior glenoid labrum damage: a painful lesion in
+swimmers.  Am J Sports Med 1986; 14(5):383-7.
+13. Richardson AB.  Thoracic outlet syndrome in aquatic athletes.  Clin
+Sport Med 1999; 18(2):361-75.
+14. Innes KA.  The Effects of Gait on Extremity Evaluation.  In: Hammer
+WI. Functional Soft Tissue Examination and Treatment by ManualMethods. New Perspectives, 2nd Edition. Gaitherburg, MD: AspenPublishers, 1999. p357-68.
+15. Wise K, Huff L, Brady DM.  Shoulder Tendinitis/Bursitis.  In: Huff
+L, Brady DM.  Instant Access to Chiropractic Guidelines and Protocols.Mosby, Inc. 1999 p137-142.
+16. Kammer S, Young CC, Niedfeldt MW.  Swimming Injuries and
+Illnesses.  Physician Sports Med 1999; 27(4):51-4,57-60,109-11.17. Liebenson C.  Integrating Rehabilitation into Chiropractic Practice.
+In: Liebenson C.  Rehabilitation of the Spine.  Baltimore, Williamsand Wilkins. 1996, p13-43.
+18. Cameron JM.  Medical problems in competitive and recreational
+swimming.  In: Payne SDW.  Medicine Sport and the Law.  BlackwellScientific Publications. 1990. p285-289.
+19. Chek P.  Stabilisation for Propulsion: Abdominal training for
+Swimming.  The Official Magazine of the Strength and ConditioningAssociation 1996; 4(3):18-21.
+20. Ferrell MC.  The spine in swimming.  Clin Sport Med 1999; 18(2):389-
+93.
+21. Becker TJ.  Scoliosis in swimmers.  Clin Sport Med 1986; 5(1):193-
+246.
+22. Guth EH.  A Comparison of Cervical Rotation in Age-Matched
+Adolescent Competitive Swimmers and healthy Males.  J Orthop SportPhys Ther 1995; 21(1):21-7.
+23. Sjaastad O.  Cervicogenic headache: the controversial headache.  Clin
+Neurol Neurosurg 1992; 94Suppl:S147-9.
+24. Bogduk N.  The Anatomical Basis for Cervicogenic Headache.  J
+Manipul Physiol Therapeut 1992; 15(1):67-70.
+25. Hopkins TJ.  Rehabilitation of Athletes following spine injury.  Clin
+Sport Med 1993; 12(3):603-19.
+26. Murphy DR.  Sensorimotor training and cervical stabilization.  In:
+Murphy DR (ed.) Conservative Management of Cervical SpineSyndromes.  New York: McGraw-Hill, 1999:607-40.
+27. Murphy DR.  Normal function of the cervical spine II: neurophysiology
+and stability.  In: Murphy DR (ed.) Conservative Management ofCervical Spine Syndromes.  New York: McGraw-Hill, 1999; 45-70.
+28. Allingham C.  The shoulder complex.  In: Zuluaga M, Briggs C,
+Carlisle J, et al.  Sports Physiotherapy, Melbourne, ChurchillLivingstone, 1995; 366-8.
+29. McGill SM, Sharratt MT, Seguin JP.  Loads on the spinal tissues during
+simultaneous lifting and ventilatory challenge.  Ergonomics 1995;38:1772-92.
+30. Hides JA, Stokes MJ, Saide M, Jull Ga, Cooper DH.  Evidence of
+lumbar multifidus muscle wasting ipsilateral to symptoms in patientswith acute/subacute low back pain.  Spine 1994; 19(2):165-72.
+31. Hides JA, Richardson CA, Jull GA.  Multifidus muscle recovery is
+not automatic after resolution of acute, first-episode of low back pain.Spine 1996; 21(23):2763-9.
+32. McGill SM.  Building better Rehabilitation programs for Low Back
+Injuries.  In: McGill SM. Low Back Disorders: Evidence BasedPrevention and Rehabilitation. Human Kinetics Publishers,Champaign, Illinois, 2002; 205-22.
+33. McGill SM.  Low back exercises: evidence for improving exercise
+regimens.  Physical Therapy 1998; 78(7):754-64.
+34. Manniche C, Lundberg E, Christensen I, et al.  Intensive dynamic
+back exercises for chronic low back pain.  Pain 1991; 47:53-63.Spinal Musculoskeletal Injuries Associated with Swimming
+POLLARD / FERNANDEZ

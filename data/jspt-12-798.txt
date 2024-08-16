@@ -1,0 +1,329 @@
+ABSTRACT
+Background:  The term “swimmer’s shoulder” was first introduced in 1974 by Kennedy and Hawkins to describe a 
+common condition among competitive swimmers characterized by pain and dysfunction of the shoulder complex. Currently, the term does not define a specific clinical diagnosis and its etiology is considered to be multifactorial. In the literature shoulder pain prevalence varies according to the adopted definitions (from 3% to 91%); however, in the Italian environment there is no prevalence study regarding swimmer shoulder. Prevention by means of dry land activities may assist in delimiting shoulder pain in swimmers. 
+Purposes:  The purpose of this study was to investigate the prevalence of swimmer’s shoulder over the prior 12 
+months among teenage athletes and the preventive activities carried out across different sport’s teams. A second purpose was to determine whether the extent of the condition is affected by dry land preventive activity. And finally, to compare different preventive activities related to the prevalence of swimmer’s shoulder. 
+Study design:  Retrospective epidemiological cross-sectional study of prevalence  
+Methods:  Athletes from four levels of training: Esordienti A, Ragazzi, Juniores and Cadetti (according to Italian Swim-
+ming Federation F .I.N. ’s partition age) belonging to eight Italian swimming teams and their respective coaches were involved in this study. T wo types of questionnaires were created and completed by both the athletes and their coaches during May 2015. The collected data were analyzed by means of descriptive and inferential statistics.
+Results:  Shoulder pain prevalence over the previous 12 months from the completion of the survey was 51%. In six 
+out of eight of the societies a specific shoulder dry land warm-up was carried out before water training, whereas among seven out of eight societies also utilized weekly sessions of performance (physical) training. Statistically sig-nificant differences were noticed between shoulder pain and gender, weekly frequency and duration of dry land warm-up and duration of physical training. 
+Conclusion:  The results of the current study indicate that shoulder pain is prevalent in youth swimmers (51%) and 
+appears to be affected by dry land preventive activities. A weekly frequency of dry land warm-up more than five times appeared to protect swimmers from pain (p=0.044); whereas, a dry land warm-up duration greater than 10 minutes seems to cause shoulder pain (p=0.043). A single physical training duration lower than 45 minutes seems to be associated with pain (p=0.035). 
+Levels of evidence:  3a 
+Key words : Dry land warm-up, prevention, shoulder pain, swimmer’s shoulderIJSPTORIGINAL RESEARCH
+SHOULDER PAIN IN COMPETITIVE TEENAGE 
+SWIMMERS AND IT’S PREVENTION: A RETROSPECTIVE EPIDEMIOLOGICAL CROSS SECTIONAL STUDY OF PREVALENCE
+Monica Tessaro1
+Giorgio Granzotto2
+Antonio Poser3
+Giuseppe Plebani4
+Alex Rossi5
+1 Valdobbiadene, Treviso, Italy
+2 ULSS 2 Marca T evigiana, Treviso, Italy
+3 University of Padua, Padua, Italy
+4 University of Siena, Siena, Italy
+5 University of Rome “T or Vergata”, Rome, ItalyCORRESPONDING AUTHOR
+Monica T essaroValdo Salute, Valdobbiadene, Treviso, Italy,+393496692858E-mail: monicatessaro93@gmail.com
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 798
+DOI: 10.16603/ijspt20170798
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 799INTRODUCTION
+Swimmer’s shoulder
+The term “swimmer’s shoulder” does not define a specific clinical diagnosis, but rather indicates a typical condition among competitive swimmers characterized by pain and dysfunction of shoulder complex.
+1 This term was first used in 1974 by Ken-
+nedy and Hawkins to describe a common and pain-ful syndrome of repeated shoulder impingement in swimmers.
+2 Furthermore, this definition specifies 
+that the pain is referred to the anterior area of the shoulder during or at the end of training, compro-mising athletes’ performance during competitions.
+3 
+According to a study published in 1974,2 the preva-
+lence of shoulder pain in swimmers was 3% whereas in more recent publications the percentage has increased up to 91%. The considerable gap between the two 
+figure s lies both in the difference between 
+the underlying assumptions used to establish the definition of the painful event and also in the dif-ferent inclusion and exclusion criteria adopted. At
+ 
+present, a clear consensus is lacking regarding the causes of shoulder pain in swimmers and the eti-ology of swimmer’s shoulder is considered to be multifactorial.
+3
+Kennedy and Hawkins originally suggested that this syndrome was caused by repetitive primary shoulder impingement (outlet impingement) of the supraspi-natus tendon and/or the long head of biceps tendon under the anterior inferior one third of the coraco-acromial arch coupled with recurrent episodes of avascularity of these two tendons.
+3,4,5 However, there 
+is no evidence suggesting that the incidence of pri-mary impingement is greater in the swimming pop-ulation than in the ordinary population.
+5 
+T wo authors subsequently differentiated primary 
+from secondary impingement (or “non-outlet impingement”).
+3,6 Secondary impingement can be 
+defined as impingement secondary to the instability of the glenohumeral joint (GHJ). The term “instabil-ity”
+ is referred to  any structural or functional defi-
+cit in the GHJ leading to pathologic motion of this joint. Instability can be defined also as a symptom-atic laxity.
+5 Factors contributing to the development 
+of swimmer’s shoulder include: neuromuscular sys-tem alterations, joint overload, muscular soreness and imbalances, excessive or reduction of flexibility, 
+biomechanics of swimming, style technique and training mistakes.
+3,7,8 T o date, GHJ laxity is no longer 
+considered as one of the most important etiological factors.
+7
+Prevention of swimmer’s shoulderSeveral authors have suggested that prevention pro-grams based on dry land activities should be employed in order to reduce risk factors in predisposed subjects and to restrict the pathology’s onset in the other sub-jects.
+3,9,10,11 In a systematic review, the authors sug-
+gested that prevention may be especially important for collegiate freshman swimmers who in their early eligibility years are unaccustomed to the considerable collegiate level yardage that is required, and appear to be more prone to injury.
+11 This conclusion agrees 
+with the study result of Bak et al who found that the 
+main factor in the development of swimmer’s shoul-der seems to be the high training volume during adolescence without an organized dry land training program which affects muscular balance of the shoul-der complex.
+8 The proposed preventative activities 
+include the training of strength, resistance, balance, muscular flexibility and stability, the improvement of proprioception and neuromuscular control, and the correction of swimming technique. 
+It is important to point out that warm-up should not 
+lead to muscular fatigue because performance may be compromised. Several authors have investigated the use of warm-up for preventing injuries but there is a lack of studies regarding warm-up effectiveness in swimming.
+12,13 A recent systematic review also 
+pointed out the lack of research into prevention pro-grams in non-contact sports (such as swimming) and their effect on upper extremity injuries.
+14 Recent 
+authors have indicated that pre or post-exercise static muscle stretching in different sports neither reduces delayed-onset muscle soreness (DOMS) in young healthy adults,
+15 nor prevents injuries14 or 
+improves performance.16 Stretching can be effec-
+tive for people subject to serious muscular stiff-ness.
+15 Furthermore, there is strong evidence that 
+high load dynamic warm-up enhances upper body and strength performance through sport specific movements in different sports.
+16 A recent system-
+atic review and meta-analysis shows that strength 
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 800training seems to reduce muscle skeletal injuries to 
+less than one third, but no one of the included ran-domized controlled trials studied a swimmers popu-lation.
+14 Despite the lack of evidence related directly 
+to swimming, multiple types of warm-up programs may be useful for swimmers. 
+Painful shoulder biomechanics in swimmer
+In 1991 Pink et al conducted an electromyographic and cinematographic analysis of the normal free-style stroke and studied the main differences in muscular activity between the painful shoulder and the non-painful shoulder.
+4,17 The observed changes 
+of the phases of the stroke were at first considered as a direct effect of the attempt to avoid Neer’s sign.
+4 
+However, another study’s authors stateed that it is unknown whether the stroke alterations seen in painful swimmers are the cause or a consequence of the pain.
+17 Specifically, in swimmers with pain-
+ful shoulders the main difference in muscle action was markedly lower serratus anterior activity dur-ing middle-pull through resulting in shoulder insta-bility and in compensatory use of the rhomboids.
+4 
+Although this is not the only way to limit shoulder instability, these two muscles are designed to func-tion antagonistically so when the rhomboids con-tract, the direction of pull is directly opposed to that of the serratus anterior, causing asynchronous mus-cle action and poor steering of the scapula which affects GHJ stability.
+4 Another asynchrony is related 
+to the decrease in activity of the subscapularis dur-ing mid-recovery and an overall general increase of activity of the infraspinatus muscle.
+4 Similar to the 
+serratus anterior, the subscapularis is susceptible to fatigue because of its continual activity in swim-mers. Moreover, the subscapularis may decrease its function to avoid the painful degree of internal rotation required during the freestyle stroke. Dur-ing hand entry in swimmers with painful shoul-ders, there is a decrease in activity of the anterior and middle deltoids and in the upper trapezius and rhomboids; at hand exit there is also a reduction in activity of the two heads of the deltoid. This reduced activity is related to the dropped elbow position seen during recovery which is one of the hallmark signs of injury. The dropped elbow allows the swimmer to decrease the degree of humeral internal rotation in order to avoid pain and lets the swimmers enter the water with a wider hand entry.
+4 The swimmer 
+with shoulder pain may present an asymmetric pull: the painful arm may not generate forces equal to the contralateral side causing difficulties in staying at the center of the lane and consequently leading to compensation by decreasing the pull on the con-tralateral side or by changing the beat of the kick. In order to recognize this painful condition, it is impor-tant to pay attention to other signs such as the early hand exit and the excessive body roll.
+4 
+In subsequent years, other studies by Pink and 
+Ruwe analyzed the electromyography and cinemat-ographic activity of the painful shoulder related to butterfly stroke
+ and to breaststroke finding similar 
+pathological signs.17 
+Despite a many studies regarding differences in 
+muscular activity and stroke biomechanics between athletes with painful and non-painful shoulders, a cause and effect relationship between these two ele-ments cannot be inferred.
+17 However, most believe 
+that shoulder pain is mainly a biomechanical prob-lem due to muscular dysfunction and imbalances. Therefore, the purpose of this study was to inves-tigate the prevalence of swimmer’s shoulder over the prior 12 months among teenage athletes and the preventive activities carried out across different sport associations. A second purpose was to deter-mine whether the extent of the condition is affected by dry land preventive activity. And finally, to com-pare different preventive activities related to the prevalence of swimmer’s shoulder.
+METHODS
+Study designThis was  a retrospective observational study. It was 
+achieved through the creation and  completion of  
+questionnaires  by competitive teenage swimmers 
+belonging to different sports teams and categories, and their coaches. 
+Setting
+Eight Italian competitive sports teams affiliated with the Italian Swimming Federation (F .I.N) par-ticipated in the study. There were 274 athletes affiliated with these teams. Before the survey dis-tribution, authorizations from all sport’s teams’ presidents were obtained. Each participant agreed 
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 801to personal data processing and signed the form in 
+compliance with the Italian Legislative Decree no. 196 dated 30/06/2003. In May 2015 the paper ques-tionnaires were delivered personally to one coach for each sports team who allocated them to their athletes. After three to four weeks as arranged with the coaches, the questionnaires were collected and withdrawn by the author. 
+Participants
+The inclusion criteria for questionnaire assignment were: competitive swimmers belonging to any of the following four categories of Italian swimmers: Esordienti A, Ragazzi, Juniores and Cadetti. These categories are defined according to F .I.N. ’s partition age: Esordienti A= Males (M) 12-13 years old, and females (F) 11-12 years old; Ragazzi= M 14-16 years old, and F 13-14 years old; Juniores= M 17-18 years old, and F 15-16 years old; and Cadetti= M 19-20 years old, and F 17-18years old. All subjects (athletes and trainers) agreed to allow personal data process-ing giving their informed consent. Athletes belong-ing to other categories were excluded; as were as athletes with previous history of injury that required a following operation to one or both shoulders before the survey. 
+Variables
+The questionnaire for the athletes was organized into five sections: 1) the study introduction letter; 2) the form for informed consent in compliance with the Italian Legislative Decree no. 196 dated 30/06/2003; 3) personal and anthropometric data (name, date of birth, gender, weight, height), swim-ming data and training data (years of competitive swimming, specialty, weekly frequency and dura-tion of training, weekly volume) and other sports data (current or past practice of other sports, level, years of practice, weekly frequency, duration train-ing); 4) shoulder pain prevalence and characteristics of pain (number of events, work load, side, age at the first or unique event, period of the last event, train-ing phase, numerical pain scale (NPRS) regarding pain intensity, stroke, objects, consequences, pain reliefs); 5) shoulder pain prevention strategies uti-lized (dry land warm-up and general physical train-ing and information regarding prevention exercises usefulness).The questionnaire for the coaches was organized 
+in three sections: 1) the study introduction letter; 2) personal data (name, society name, years as coach), training data (trained categories, range of age trained, weekly frequency, duration and volume of the training and weekly volume); 3) six questions regarding: warm-up activity (mobilizations/ over-head activities/stretching/muscular strengthen-ing) and their characteristics (frequency, duration) and the reasons if they were not performed; physi-cal training (period of practice, weekly frequency, duration, presence of a physical trainer); the most common stroke used during training; the need for changing programs because of shoulder pain experi-enced by swimmers; eventual drop out from compe-titions due to shoulder pain; the overall knowledge about “swimmer’s shoulder” .
+Bias
+The questionnaires were pilot tested with two ath-letes and two coaches in advance to assess their understandability. After analyzing the contribu-tions of the pilot subjects, three questions were adjusted. All athletes filled out the questionnaires in the same month during the survey to avoid pos-sible differences regarding the training session and competitions. 
+This study could present a selection bias: the ques-
+tionnaire was assigned to all athletes of the eight sport’s teams but there were different rates of com-pliance among the eight teams. Moreover, some sport societies may have chosen only the strongest athletes to be part of the team. For these reasons, the results of this study sample may not be representa-tive of all swimmers. 
+Extent of the study
+Statistical methods
+Data was managed and processed in an Excel spread-sheet. The Analysis T ool Pak that the application provides was used to conduct both descriptive and inferential statistics. The sample used for the main analysis of causality between pain and different training variables consists of a total of 166 obser-vations. The sample has been divided in two sub-groups where the discriminant is the presence of pain versus no pain. The sub-group size is of 87 and 
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 80279 observations respectively. The Student’s T -T est 
+was used to investigate differences between groups.
+The T -T est was performed under the hypothesis 
+of unpaired samples with different variances. The alpha value was set at p<0.05, as is commonly accepted in scientific publications. 
+RESULTS
+274 athletes were recruited for the participation and received the questionnaire; 204 completed it. Seven of those were excluded from the analysis because one of them was filled out illegibly and the remain-ing six had been completed by athletes belonging to not-included categories. Thus 197 questionnaires were included in the survey and used for statisti-cal analysis. The rate of athletes’ compliance was 71.9% (197/274) (
+T able  and Figure  1). All 19 coaches 
+that were solicited participated in the study, for a response rate of 100% (19/19).
+Athletes sample description
+The sample consisted of 54.82% females and 45.18% males. The average age and its standard deviation (±) was 14.01 (±2.12) years. The average BMI was 18.96 (±2.42). According to F .I.N. categories the sam-ple was composed of 36.04% Esordienti A, 39.09% Ragazzi, 17.26% Juniores and 7.61% Cadetti. Regard-ing the complete sample, the average number of weekly training sessions was 5.27 (±0.81), with 2.12 
+(±0.28) hours for each training session, and 25.31 (±9.02) kilometers per week (
+T able s 2 & 3 ).
+Coaches sample description
+The average years of participation in coaching for the coaches was 10.5 (±6). They were distributed between societies: two coaches for Society 1, three coaches for Societies 2-3, one coach for Society 4, two coaches for Societies 5-6-7 and fours coaches for Society 8.
+Prevalence of shoulder pain
+The total sample prevalence of shoulder pain related to the 12 months prior to the questionnaires’ compilation was 51% (101/197): 51% belonging to Esordienti A, 47% to Ragazzi, 67% Juniores and Table 1. Athletes’ rate of compliance speciﬁ  c for each sport society (sports team) and 
+athletes’ number divided into Italian Swimming Federation (FIN) categories.
+Figure 1. Athletes general rate of survey completion.
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 80340% Cadetti’ categories. Moreover, the total sample 
+with pain was composed 56% (61/108) of women and 45% (40/89) of men. With reference to “pain” sample, 71.29% (72/101) showed the symptoms within six months of the questionnaires’ comple-tion, 28.71% (29/101) between six months and 12 months of the questionnaires’ completion. Sixteen point six percent (16/96) did not experience shoul-der pain in the prior 12 months to completion of the survey and 83.33% (80/96) did not ever experience it during their sport career (
+T able  4). T able  5 reports  
+shoulder pain prevalence related to athletes among sport’s teams. Shoulder pain in relation to anthropometric 
+and sport variablesThere was a statistically significant relation between shoulder pain and gender, with females more likely to experience pain (p= 0.048). No statistically signifi-cant differences were found between shoulder pain and weight (p= 0.386), height (p= 0.273), BMI (p= 0.495) and age (p= 0.317). With reference to sport variables, no statistically significant differences were found between pain and years of competitive swim-ming (p= 0.479), weekly training frequency (p= 0.114), training duration (p= 0.161) and weekly vol-ume (p= 0.309).Table 2. Training frequency and volume related to categories, reported by 
+athletes.
+Table 3. Training frequency and volume related to categories reported by coaches.
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 804Table 4. Distribution of pain episodes by categories and interval.
+Table 5. Pain prevalence among societies.
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 805There were no statistically significant differences 
+between pain and the current or past practice of another sport which demands overhead activities (such as volleyball, handball and tennis) in addition to swimming; however, such values approached sta-tistical significance  (current overhead  sport practice 
+p= 0.091; past  overhead  sport practice p= 0.106). 
+Pain was more frequent in the sprinter swimmers 
+(50 m and 100 m) with a respective prevalence of 12% and 41% (
+Figure  2). In reference to the swim-
+ming specialty the following prevalence of shoulder pain was experienced by the sample of the study: 54.7% freestyle, 56.5% butterfly, 40.3% backstroke, 44.9% breaststroke and 70% medley (
+Figure  3). 
+Characteristics of pain
+The average number of pain episodes was two to three for the 51% of the subjects in pain sample. In pain sample, 31% has been forced to reduce the swimming 
+volume, that is stopping training and/or skipping the following trainings, whereas 69% did not reduce the swimming volume. Pain came out after 4.88 (±2.80) years of competitive swimming practice. The unique or the first pain event happened in a specific period of age: 15% at 11 years old, 22% at 12 years old and 16% at 13 years old. The most recent event occurred within one week of the questionnaire’s compilation for 22%, within previous month for the 44%, within the prior six months for 20%, and within the prior six and 12 months for 14% (
+Figure  4). The average 
+duration of the pain episode was 4.5 days (±10). With regard to the timing of appearance of pain, 10% reported it during warm-up, 27% experienced it dur-ing the first half of training and the 47% experienced it during the second half of training, and the residual 16% said it began when out of the water after training. 
+Shoulder pain intensity during training was evalu-
+ated by means of NPRS was 4.58 (±1.71), specifi-cally 4.66 (±1.72) reported by women and 4.43 (±1.69) by men. Regarding stroke type, the pain was produced during freestyle for 52.44%, butterfly stroke for 27.19%, backstroke for 13.04% and 7.33% for breaststroke. Considering the specific phase of freestyle stroke, pain appeared during early-pull-through phase (30.1%), late-pull through phase (27.4%), recovery phase (24%) and glide phase (18.5%) (
+Figure  5). All coaches stated freestyle as 
+the most frequently performed stroke during train-ing, even if they attempted to train the athletes using all the four strokes. After pain’s appearance, 45.33% of the swimmers reported that they would “continue the training even if I would need to stop, but with reduced intensity and effort”, 34% stated “I 
+Figure 2. Pain and distance specialty.
+Figure 3. Pain and stroke specialty.
+Figure 4. Onset of most recent pain episode.
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 806can continue the training with no changes”, 16.33% 
+chose “I temporally stop and then I restart” and 4.33% signaled “I have to finish the training as I can-not carry on” (
+Figure  6). Figure  7 shows the reliefs 
+taken by swimmers to resolve the pain. Moreover, some athletes reported that their pain was produced 
+or aggravated by the use of hand paddles (13 ath-letes), elastic bands (14), kick boards (10), and iso-tonic machines (2).
+Swimmer’s shoulder prevention
+Dry land shoulder-specific warm-up carried out before training in the pool was practiced by six out of eight societies included in the study, in particu-lar 155 out of 197 athletes and 14 out of 19 coaches. Dry land shoulder-specific warm-up was carried out an average weekly frequency of 5.79 (±2.05) times with average duration 20.36 (±13.02) minutes (
+T able  
+6). The lack of dry land warm-up was justified by 
+the coaches of the relevant societies due to insuffi-cient time and the skills of the athletes being inade-quate to for correct and efficient performance of the 
+Figure 5. Pain in relation to freestyle stroke phases.
+Figure 6. Pain effects on training.
+Figure 7. Reliefs for pain.
+Table 6. Frequency and duration of dry land warm-up for societies 
+(sports teams).
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 807exercises. Physical performance enhancement train-
+ing was carried out by all societies except one at the beginning of the sport season or during the year with an average weekly frequency of 2.08 (±0.70) times and an average duration of 1.48 (±0.77) hours. In four out of seven societies coaches were supported by an athletic trainer (
+T able  7). Dry land program 
+activities were based on the interactions with other coaches/sports trainers/physical therapists 54.8% of the time, on personal research (such as academic studies) 26.2% of the time, and on research material supplied by S.I.T. in 19%. 
+Figure  8 shows the involved body regions included 
+in dry land warm-up, the core and the lower limbs were the less trained areas during physical train-ing. 
+Figure  9 shows the different warm-up activities; strength training and active mobilization of the 
+shoulders were performed more than stretching and overhead exercises. Finally, 12 out of 19 coaches stated that they were rarely forced to change train-ing programs because of shoulder pain complained of by swimmers, only one coach declared he often changes his training programs and the remaining six coaches never needed to change their training pro-grams because of athlete’s shoulder pain.
+Shoulder pain in relation to dry land 
+warm-up and physical training variablesSeveral variables of physical training showed sta-tistically significant differences between the pain sample and the no pain sample. The weekly fre-quency of warm-up of the pain sample and the no pain one is on average respectively 4.70 and 5.13 Table 7. Frequency, duration, and timing of physical training for societies.
+Figure 9. Activities included in dry-land warm up.
+Figure 8. Body regions involved in dry land warm up.
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 808(p= 0.044), indicating that swimmers with a weekly 
+frequency of more than five has less pain. Dry land warm-up minutes differed between the two groups (p= 0.043), indicating that a dry land warm-up dura-tion of greater than 10 minutes was associated with greater shoulder pain. Finally training duration of a session was statistically different between groups, (p= 0.035), a training duration more than 45 min-utes appearing to benefit the athletes. There were no other statistically significant differences in train-ing variables between groups.
+DISCUSSION
+Shoulder pain in relation to anthropometric and sport variablesThe present study observed that the prevalence of swimmer’s shoulder was moderate among competi-tive teenage swimmers, with 51% of the participating athletes reporting at least one painful event during the 12 months preceding the collection of data. This value is greater than the results of the other interna-tional studies published in literature where preva-lence ranges between 18% to 38%.
+1,9,18,19 Only Sein 
+et al in their study found a higher prevalence value than the current study, equal to 91%.
+7 The variabil-
+ity of the results can be attributed to the different inclusion and exclusion criteria utilized in the stud-ies; however, another plausible explanation may be athletes’ inability (in particular athletes belonging to the younger age categories such as Esordienti A) to differentiate between pain and soreness. It could be important that coaches define and teach this dif-ference and their respective signs and symptoms to athletes in order to make swimmers aware of this condition, and to minimize the potential for cumu-lative damage as well as hasten the return to sport after an injury as Pink and Tibone stated in their study.
+4 
+The correlation between shoulder pain and sex was 
+found to be statistically significant for females (p= 0.048). This result could be attributed to arm strokes being shorter than those of their male colleagues, which enhances the risk of suffering from an over-use injury due to the higher amount of arm revolu-tions per lap.
+3 Although this difference is small for 
+short distances, it becomes significant for long dis-tances, potentially causing major shoulder overload for female swimmers. Another reason for this sta-
+tistically significant correlation and for NPRS values regarding shoulder pain intensity which was higher among female swimmers (4.66 [±1.72]) than among male swimmers (4.43 [±1.69]) could be the differ-ent pain perception between sexes
+20. The literature 
+shows that women have a lower pain thresholds in comparison with men and this seems to be affected by multiple biological (sex hormones) and psycho-social processes.
+21 Although there are described dif-
+ferences in laxity between males and females, it is likely not the major contributor to the multifactorial etiology of swimmer’s shoulder.
+1,7,9
+Because the difference approached statistical signifi-cance (p= 0.091), it could be suggested that prac-ticing another sport in addition to swimming that overloads upper limbs, may promote the onset of pain. T o benefit from the effects of cross-training and to prevent the onset of shoulder pain, it may important to practice a sport or another physical activity which trains strength and core stability or develops aerobic capacity rather than impact sports and sports that use the upper extremities primarily, as Auvinen et al have suggested.
+22
+In accordance with other publications,9,11,18 the 
+results of this study did not demonstrate a statisti-cally significant correlation between shoulder pain and weekly volume of training (p= 0.309); which contrasts with the popular opinion that swimmer’s shoulder is a consequence of volume of load on the shoulder’s complex. 
+Characteristics of pain
+Seventy percent of the total sample experienced shoulder pain one to three times during the 12 months before data collection. The average dura-tion of pain episodes was 4.5 days (±10) and pain relief strategies used to address the painful episode (49.5% do nothing and 6.4% rest and interrupt train-ing) seem to indicate the self-resolving character of pain, which is likely due to soft tissue inflammation. 
+The results of this study concur with the findings of 
+Sein et al.
+7 and T ate et al.19 that specific swimming 
+strokes have little effect in predisposing elite swim-mers to shoulder pain and that early pull-through phase and late pull-through phase of freestyle stroke 
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 809are the part of the stroke with a high frequency of 
+pain onset (30% during early pull-through phase and 27% during late pull-through phase). It has been suggested that if during glide phase the  rhom-
+boids, anterior serratus and upper trapezius muscles are strained or are not recruited with the correct activation timing, they cannot allow a good GHJ stabilization predisposing swimmers to shoulder impingement.
+19 
+Shoulder pain in relation to dry land 
+preventive activities The lowest percentage of injury was seen in Soci-ety (sports team) 2 equal to 36.67% (compared to the average injury percentage=55.96%); this value approached to critical value equal to 30.12%. Para-doxically Society 2 is one of the two societies that did not perform dry land warm-up, although physical 
+training was utilized during the entire competitive season with the participation of a sports trainer. Con-versely, Society 5 did not perform dry land warm-up but included physical training in September without participation of a sport trainer; in this case injury percentage was equal to 57.14% (greater than the general average). However, this result could be due to athletes’ rate of compliance to respond to the questionnaire which was the lowest one for Society 2 among the eight involved societies. Conversely, Society 4 showed an injury percentage among the highest, (equal to 75%) and this is the only society that did not utilize physical training. Therefore, from this qualitative comparison of data and con-sidering sample differences it can be deduced that physical training represents an element which may significantly affect the onset and prevalence of pain. A separate comment is required for Society 6, which trains only athletes belonging to the Esordienti A category (youngest swimmers), who then move to Society 3 as they reach the adequate age. By compar-ing injury percentage, it can be noticed that Society 6 presents the highest value equal to 77.78% (rate of questionnaire compliance=100%) and Society 3 a value equal to 42.22% (rate of questionnaire com-pliance=81.82%). The considerable difference may be explained as the younger athletes’ difficulty dis-tinguishing pain from soreness, as previously sug-gested, but also as the consequence of a natural selection according to which only athletes with good physical condition or a low enough pain are the ones 
+to continue competitive swimming. 
+From the statistically significant correlations found 
+in this study it appears that considering the quantity of warm-up in terms of both frequency and dura-tion and the quality of warm-up are of fundamental importance. With regard to the statistically signifi-cant findings related to physical training, it can be observed that training, apart from swimming may play an important preventative role. Warm-up dur-ing physical training should include a general warm-up including activities of moderate intensity which require use of large muscles and that enhance body temperature (such as cyclette or a light run) and a dynamic warm-up specific to activating muscles used in swimming through use of dynamic motions and elastic band exercises (for example: arm revolu-tions, dry land swimming movements, trunk rota-tions, internal/external GHJ rotation).
+23 From the 
+results of recent studies in different sports (except swimming), static stretching should be performed only in the specific case of stiffness and muscular or capsular shortening as it does not show any pro-tective injury effect, while strength training can improve performance and reduce muscle skeletal injuries.
+14
+Results of the current study indicate that the core and lower limbs are the less trained areas during physical training; however, it is important to work intensely on core stability since a recent study noticed statistically significant correlations between shoulder pain and a low core performance assessed using the side bridge test, the prone bridge test and the closed kinetic chain upper extremity stability test.
+19 Other authors have stated that endurance 
+training of core muscles is an essential component in any injury prevention program.
+3 Adequate core-
+stability allows for efficiency during swimming, it facilitates powerful and efficient strokes and kicks without excess energy dispersion, contributes to the production of body rotation in freestyle and back-stroke, and manages or controls body undulations in breaststroke and buttefly
+24. Training of the lower 
+limbs serves a fundamental preventive role as it helps develop an adequate balance with the other elements of the kinetic chain reducing the risk of shoulder overload. This supports the findings of Bak 
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 810et al. who stated that it was necessary to associate 
+training in water with dry land training in order to influence muscular balance in particular during adolescence when the athlete’s bodies are continu-ously changing.
+8 
+Limitations 
+The main limitation of this study is the question-naire that was utilized. The authors developed this questionnaire for this research only and did not establish any reliability or validity statistics for it. Some pilot testing was utilized for clarifications, but no further analysis was performed. The struc-ture of the questionnaire did not allow for deeper analysis by inferential statistics related to dry land preventive activities. Secondly, the lack of studies published in the literature regarding the prevention of injuries in swimming or upper limb injury pre-vention did not allow comparison of the results of this study with other evidence. Finally, as the study specifically excluded former-athletes who left their swimming career due to shoulder pain, it was not possible to examine how or whether this condition led to ceasing competition or training.
+CONCLUSION 
+The results of this study demonstrate that swim-mer’s shoulder is a prevalent condition among com-petitive adolescent swimmers and that it is related to by warm-up and dry land physical training prac-tices. Although this study included about 200 com-petitive teenage swimmers, further investigations are needed to analyze the preventive role of dry land programs on swimmer’s shoulder.
+REFERENCES 
+1. Mc Master WC, Roberts A, Stoddard T. A correlation 
+between shoulder laxity and interfering pain in competitive swimmers, Am J Sports Med . 1998; 
+26(1):83-86.
+2. Kennedy JC, Hawkins RJ. Swimmer’s shoulder. Phys 
+Sports Med . Vol. 2. McGraw-Hill, New York, 1974:35-
+38.
+3. Wanivenhaus F , Fox A, Chaudhury S, et al. 
+Epidemiology of injuries and prevention strategies in competitive swimmers. Orthop Surg . 2012; 
+4(2):246-251.
+4. Pink M, Tibone J. The painful shoulder in the 
+swimming athlete. Orthop Clin North Am . 2000; 
+31:247-261.5. Blanch P . Conservative management of shoulder 
+pain in swimming. Phys Ther Sport . 2004; 5:109-124.
+6. Belling, Sørensen AK, Jørgensen U. Secondary 
+impingement in the shoulder. Scand J Med Sci Sports . 
+2000; 10:266–278
+7. Sein M, Walton J, Linklater J, et al. Shoulder pain in 
+elite swimmers: primarily due to swim-volume-induced supraspinatus tendinopathy. Br J Sports 
+Med. 2010; 44(2):205-213.
+8. Bak K. The practical management of swimmer’s 
+painful shoulder: etiology, diagnosis and treatment. Clin J Sport Med . 2010; 20(5):386-90.
+9. Walker H, Gabbe B, Wajswelner H, et al. Shoulder 
+pain in swimmers: a 12 months prospective cohort study of incidence and risk factors. Phys Ther Sports . 
+2012; 13:243-249.
+10. Borsa PA, Scibek JS, Jacobson JA, et al. Sonographic 
+stress measurement of glenohumeral oint laxity in collegiate swimmers and age matched controls. Am J 
+Sports Med . 2005; 33:1077-1084.
+11. Wolf B, Ebinger A, Lawler M, et al. Injury patterns in 
+Division I collegiate swimming. Am J Sports Med . 
+2009; 37(10):2037-41.
+12. Neiva HP , Marques MC, Barbosa TM, et al. Warm-up 
+and performance in competitive swimming, Sports 
+Med. 2014; 44:319-330.
+13. Balilionis G, Nepocatych S, Ellis CM, et al. Effects of 
+different types of warm-up on swimming performance, reaction time and dive distance.J Strength Cond Res . 2012; 26(12): 3297–3303.
+14. Lauersen JB., Bertelsen DM, Andersen LB. The 
+effectiveness of exercise interventions to prevent sports injuries: a systematic review and meta-analysis of randomised controlled trials. Br J Sports 
+Med. 2014; 48:871-877.
+15. Herbert RD, de Noronha M, Kamper SJ. Stretching to 
+prevent or reduce muscle soreness after exercise. Cochrane Database of Systematic Reviews . Issue 7. Art. 
+No.: CD004577. DOI: 10.1002/14651858.CD004577.pub3; 2011.
+16. McCrary JM, Ackermann BJ, Halaki M. A systematic 
+review of the effects of upper body warm-up on performance and injury. Br J Sports Med . 2015; 
+49:935–942.
+17. Heinlein S, Cosgarea A. Biomechanical 
+considerations in the competitive swimmer’s shoulder. Sports Phys Ther . 2010; 6:519-525.
+18. Bailón-Cerezo, J. T orres-Lacomba, M. y Gutiérrez-
+Ortega, C. Prevalencia del dolor de hombro en nadadores de competición: estudio piloto / Shoulder Pain Prevalence in Competitive Swimmers: A Pilot Study. Rev Int Med Cienc Act Fís Deporte . 2016; 
+16:317-334. 
+The International Journal of Sports Physical Therapy | Volume 12, Number 5 | October 2017 | Page 811and exercise activities in youth. Med Sci Sports Exerc . 
+2008; 40(11):1890-1900.
+23. Salo D, Riewald S. “Riscaldamento e raffreddamento” 
+In La preparazione atletica per il nuoto . Libreria dello 
+Sport; 2013:19-32.
+24. Salo D, Riewald S. “Esercizi per la stabilità del 
+tronco” In La preparazione atletica per il nuoto . 
+Libreria dello Sport; 2013:87-110.19. T ate A, T urner G, Knab S, et al. Risk factors 
+associated with shoulder pain and disability across the lifespan of competitive swimmers. J Athl Train . 
+2012; 47(2):149-158.
+20. Rollmann GB, Lautenbacher S. Sex differences in 
+muscoloskeletal pain. Clin J Pain . 2001; 17:20-24.
+21. 
+Bartley EJ, Fillingim RB. Sex differences in pain : a 
+brief review of clinical and experimental ﬁ  ndings.  Br. 
+J. Anaesth.  2013;111(1):52-58.
+22. Auvinen JP , T ammelin TH, T aimela SP , et al. 
+Muscoloskeletal pains in relation to different sport 

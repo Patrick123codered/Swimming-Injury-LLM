@@ -1,0 +1,430 @@
+EDITED BY
+Higinio González-García,
+International University of La Rioja, Spain
+REVIEWED BY
+Naama W. Constantini,
+Shaare Zedek Medical Center, Israel
+Francisco Hermosilla Perona,Alfonso X el Sabio University, Spain
+*
+CORRESPONDENCE
+Ane Begoñe Rincón
+anerincon30@gmail.com
+Alfonso Trinidad
+alfonso.trinidad@universidadeuropea.es
+Alejandro López-Valenciano
+alejandro.lopezvalenciano@uchceu.es
+RECEIVED 02 May 2023
+ACCEPTED 04 September 2023
+PUBLISHED 15 September 2023
+CITATION
+Rincón AB, Trinidad A and López-Valenciano A(2023) Bibliometric study on artistic swimming.
+Front. Sports Act. Living 5:1196144.
+doi: 10.3389/fspor.2023.1196144
+COPYRIGHT
+© 2023 Rincón, Trinidad and López-
+Valenciano. This is an open-access article
+distributed under the terms of the Creative
+Commons Attribution License (CC BY) . The use,
+distribution or reproduction in other forums is
+permitted, provided the original author(s) and
+the copyright owner(s) are credited and that theoriginal publication in this journal is cited, inaccordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with theseterms.Bibliometric study on artistic
+swimming
+Ane Begoñe Rincón1*, Alfonso Trinidad1*and Alejandro López-
+Valenciano2*
+1Aqualab Research Group, Departamento de Educación y de Humanidades, Facultad de Ciencias Sociales
+y de Comunicación, Universidad Europea de Madrid, Madrid, Spain,2Department of Education Science,
+Universidad Cardenal Herrera-CEU, CEU Universities, Castellon de la Plana, Spain
+Introduction: The objective of this paper is to study the research trends in the
+sport modality of artistic swimming and to analyse the scienti ﬁc production
+regarding this sport.
+Methods: Two hundred and twenty articles related to the theme were selected
+after a search in the PubMed, SPORTDiscus and Web of Science databases and
+some additional records, using the theme “synchronised swimming OR artistic
+swimming ”up to December 2022. The variables scrutinized were the following:
+(1) title, (2) discipline, (3) type, (4) sample size and (5) sporting level.
+Results: The results indicate that (1) 53.6% of the artistic swimming articles were
+case studies, (2) 23.2% talked about physiology, (3) 32.7% had a sample of 11 –50
+participants, and (4) 30.9% of the sample was elite/international swimmers.
+Discussion: Over the years there has been a considerable increase in studies on
+artistic swimming; the topics of greatest interest in artistic swimming have beenphysiology, sports performance and injuries. Even so, it seems that for the
+moment artistic swimming has little impact, probably due to its status as a
+minority sport and it having limited social and economic impact.
+KEYWORDS
+bibliometrics, artistic swimming, injuries, sport, research
+Introduction
+Physical activity and sports sciences have experienced a huge rise in recent decades,
+becoming one of the scienti ﬁc branches with the highest number of publications per year.
+This has made it possible to carry out reviews and meta-analyses that compile the
+greatest ﬁndings in each discipline and thus improve different areas of sports training and
+injury prevention in most sports disciplines, such as football, basketball or tennis ( 1,2).
+However, other sports considered minority ones have not had this level of repercussion
+and therefore there is no documentation that describes all the scienti ﬁc literature and help
+available to professionals in a sports area as occurs in the sport of artistic swimming.
+Artistic swimming is an Olympic sport that involves swimming, dance and ballet.
+Swimmers (solo, duet or team) perform a synchronised routine of elaborate movements
+in and under the water, accompanied by music ( 3). Its practice requires demanding
+advanced skills, such as great strength, stamina, ﬂexibility, grace, artistry and precise
+synchronisation ( 3,4), but given the multidisciplinary nature of this sport ( 5), it is
+necessary to know exactly the ﬁelds in which scienti ﬁc production develops.
+To create a systematic review or meta-analysis on artistic swimming that allows us to
+synthesise the results of different empirical studies on the effect of one or more variables
+on a precise ﬁnal result, the existence of a signi ﬁcant and representative number of
+investigations on the subject is necessary. As it is a minority sport with many aspects to
+work on but with few resources in its facilities ( 3), artistic swimming does not arouseTYPE Original Research
+PUBLISHED 15 September 2023| DOI10.3389/fspor.2023.1196144
+Frontiers in Sports and Active Living 01 frontiersin.org
+great scienti ﬁc appeal and does not allow for revisions with this
+level of importance. Despite this, it is an increasingly well-known
+sport with a notable growth in licences in some countries, which
+has allowed an increase in research in recent years that needs to
+be synthesised and compiled. In addition, other tools allow the
+analysis of existing research on artistic swimming, such as
+bibliometric studies. Knowing and/or being able to quantify the
+scienti ﬁc production of a certain area arouses great interest in
+the research community, which is why bibliometric techniques
+enjoy great applicability by theorists and/or scholars of any
+branch of scienti ﬁc knowledge ( 6), in this way, experts in the
+area consider bibliometric studies on artistic swimming as the
+future result of a scienti ﬁc development that will gradually adapt
+to the needs of the sport.
+The creation of said documents or scienti ﬁc studies, their
+analysis and the criticism carried out by the community itself are
+essential to building knowledge about the research activity, thus
+making the examiner ’s work credible ( 7). The analysis shows
+where the researchers are focused, making clear that the
+drawbacks are the main lines of action and research trends ( 6–9).
+Given the absence of reviews or bibliometric studies that compile
+and describe the existing literature on artistic swimming, the
+main objective of this research is to perform a bibliometric
+analysis of artistic swimming that allows knowing the research
+trends and analysing the scienti ﬁc production regarding this sport.
+Methods
+Design and procedures
+The bibliographic search was carried out in the PubMed, Web
+of Science, and SPORTDiscus databases. Subsequently, a search for
+additional resources was carried out through Google Scholar or
+based on the articles from primary sources. The following
+keywords in English “synchronised swimming ”and “artistic
+swimming ”and “natación sincronizada ”and “natación artística ”
+in Spanish were used and were combined using AND/OR
+Boolean markers up to December 2022.
+As inclusion criteria, all articles that included a sample of
+synchronised swimming or artistic swimming athletes in any
+branch of the sport in scienti ﬁc documents were selected. For the
+storage and organisation of the selected studies, a database was
+generated that can be obtained from the corresponding author.
+Data collection and analysis
+The initial search returned 537 results identi ﬁed in the PubMed
+database, 1,837 results found in the SPORTDiscus database and
+574 recognised results in the Web of Science database. Three
+hundred and twenty-eight articles from the different platforms
+were selected for a detailed evaluation of them ( n= 328). One
+hundred and eight of the initial 328 studies were duplicates;
+therefore, the ﬁnal study sample was 220 publications: 107 from
+PubMed, 81 from SPORTDiscus, 16 from Web of Science and 16from additional sources. The ﬂow diagram of the selection of
+studies for the review is shown in Figure 1 .
+The following variables were recorded and analysed concerning
+5 categories and 40 different subcategories within the theme: (1)
+title, (2) main discipline of the study (injuries, sports
+performance, physiology, physical analysis, physical analysis for
+talent detection, body dissatisfaction and eating disorders,
+historical data, artistic swimming technique analysis, training
+theory, physical activity and health, biomechanics, doping and
+other substances, psychology, nutrition, didactics and/or others),
+(3) type of study (correlational, case, experimental, documentary,
+longitudinal and/or descriptive), (4) sample size and (5) sporting
+level of the sample (initiation, regional, national, elite/
+international or several). The classi ﬁcation of the categories
+associated with these variables was carried out based on the
+category systems used by various authors ( 10–13).
+To assess the inter-reviewer reliability of the coding process,
+two researchers performed the search and coding process for the
+articles. For qualitative variables, Cohen ’s kappa coef ﬁcients were
+applied. On average, the Kappa coef ﬁcient was 0.86 (range: 0.81 –
+0.97), which can be considered highly satisfactory. Inconsistencies
+between the two coders were resolved by consensus, and when
+the inconsistency was due to database ambiguity, this was
+corrected. Any disagreements were resolved by mutual consent in
+consultation with a third review author.
+Results
+AsFigure 2 shows, three periods are clearly differentiated in terms
+of the evolution of the number of publications. In the ﬁrst period, from
+1962 to 1979, the number of publications on artistic swimming is very
+low. In the second period, from 1980 to 2004 approximately, there is a
+slight increase in the number of publications (2 –11 publications per
+year). And ﬁnally, in the third period from 2005 to 2022, the level
+of production increases in a very notable way, reaching a maximum
+level of publications in 2021 (with a total of 43 publications).
+Regarding the language of publication, 210 of the 220 papers were
+published in English and 10 in Spanish. Of all the information
+presented, no study included male subjects.
+The results shown in Table 1 show that there is a high
+percentage of case studies in artistic swimming in the last almost
+60 years, whose purpose is to analyse an aspect of the subject in
+a single athlete or a very small sample of them (53.6%). Also
+worth noting is the importance of documentary research
+(selected publications on a speci ﬁc topic that analyse the
+information and present it in a discussion) and conclusions, with
+the second highest percentage (16.8%).
+Studies on physiology are the main theme of the studies
+conducted (23.1%), followed by sports performance (12.2%). A
+wide range of other disciplines also provide information on
+different topics but with lower percentages, such as injuries,
+analysis of artistic swimming technique, physical analysis and/or
+historical data ( Table 2 ).
+The number of swimmers analysed in each study varies
+remarkably ( Table 3 ), with a high percentage of studies that had aRincón et al. 10.3389/fspor.2023.1196144
+Frontiers in Sports and Active Living 02 frontiersin.org
+sample of 11 –50 participants (32.7%). Likewise, it is worth noting the
+studies that do analyse subjects but do not detail how many people
+the group is made up of (20% of the total articles collected). There
+are few investigations with large samples since only 7.2%
+correspond to studies with 51 –100 swimmers or more than 100.
+As an exceptional fact, it should be noted that the study with the
+largest sample is the one that was conducted by Prien et al. ( 14)
+in 2017 with 1,194 participants, which analyses and compares
+the results of three FINA World Championships to see the riskof injury in the competition of this sport.
+In relation to the characteristics of the analysed sample
+(Table 4 ), the studies with elite-level artistic swimmers represent
+the highest percentage (30.9%), followed by those with a wide
+variety of levels. Studies with national-level samples exist in a
+much smaller proportion (7.7%). Likewise, studies with athletes
+of a lower level or initiation levels are very scarce. Finally, the
+high percentage of publications in which the level of the athletes
+is not speci ﬁed is noteworthy.Discussion
+The objective of this work was to know the research trends in the
+sport modality of artistic swimming and to analyse the scienti ﬁc
+production regarding this sport. The number of publications on
+artistic swimming in comparison to other sports is still very low
+(15,16), which does not allow for large compilations of
+information, except for with regard to injuries and physiology,
+which help to establish a homogeneous and valid scienti ﬁcb a s ei n
+artistic swimming. However, the publication of articles on the
+subject has been increasing considerably in recent years (especially
+from 2005 to 2022), reaching a maximum level of publications in
+2021 (with a total of 43 publications). For this reason, it is
+considered a booming sport, and it is necessary to carry out
+reviews that collect said information as in this bibliometric study.
+It is relevant that the largest numbers of publications on artistic
+swimming are case studies or documentary research. This may be
+due to the dif ﬁculty of obtaining a high and homogeneous sample.
+FIGURE 1
+Flow chart of the selection of studies in the system review.Rincón et al. 10.3389/fspor.2023.1196144
+Frontiers in Sports and Active Living 03 frontiersin.org
+Even though the number of licenses and participation in international
+championships has been increasing in the last decade ( 17), it is one of
+the sports with the fewest licenses wo r l d w i d e .F o rt h i sr e a s o n ,i tc o u l dbe speculated that one of the reasons researchers opt for the
+development of research with small samples is due to the limited
+e x i s t e n c eo ff e d e r a t i v el i c e n s e si na r t i s t i cs w i m m i n gc o m p a r e dt o
+other sports modalities, which leads to a possible lack of
+participants for conducting a study.
+Given the multidisciplinary nature of artistic swimming ( 5), the
+ﬁelds in which scienti ﬁc production has been analysed are very
+different. Even so, it seems that today the main concerns with
+respect to achieving high performance in artistic swimming are
+injury epidemiology and physiology. This may be directly
+related to the great physiological demands that athletes are
+subjected to in a different environment than usual and the
+FIGURE 2
+Evolution of the number of publications in PubMed, SportDiscus and Web of Science in artistic swimming.
+TABLE 1 Type of publications.
+Discipline Count %
+Case study 118 53.6
+Documentary research 37 16.8Correlational study 26 11.8Experimental study 19 8.6Descriptive study 14 6.4Longitudinal study 12 5.5
+TABLE 2 Main disciplines of the studies analysed.
+Discipline Count %
+Physiology 51 23.2Sports performance 27 12.3Injuries 26 11.8Analysis of the technique in artistic swimming 18 8.2Physical analysis
+a15 6.8
+Historical facts 14 6.4Physical activity and health 12 5.5
+Others
+b12 5.5
+Physical analysis for talent detection 10 4.5Biomechanics 10 4.5Body dissatisfaction and eating disorders
+b10 4.5
+Psychology 6 2.7Training theory 5 2.3Nutrition 4 1.8Doping and other substances 3 1.4Didactics 2 0.9
+aAnalysis of different physical capacities, such as speed, coordination, explosive
+force, elastic force, reactive force, resistance or analysis of the physique of artisticswimming swimmers.
+bThis category includes papers such as sports judging, score review
+in competition …which do not have enough articles to create a new category.TABLE 3 Sample size of the studies analysed in artistic swimming.
+Sample intervals Count %
+No samplea39 17.7
+Doesn ’t specify sample sizeb44 20
+From 1 to 10 32 14.5
+From 11 to 50 72 32.7
+From 51 to 100 16 7.3More than 100 16 7.3
+aIt refers to studies without sample (documentary studies).
+bIt refers to studies that do not report the size of the sample analysed, although
+they used human sample.
+TABLE 4 Level of the sample analysed in artistic swimming.
+Level Count %
+Does not specify 41 18.6
+Initiation 6 2.7Regional 5 2.3National 17 7.7Elite/International 68 30.9Mixed 40 18.2Rincón et al. 10.3389/fspor.2023.1196144
+Frontiers in Sports and Active Living 04 frontiersin.org
+possible injury situations to which athletes are subjected due to
+overuse during sports practice ( 5,18). Artistic swimming
+requires a large number of hours of daily training that expose
+the body to great stress and the joints to great wear ( 5), thus
+documenting many injuries at the competitive level, with a high
+prevalence of shoulder, knee and lower back injuries among
+swimmers due to overuse as well as short-term injuries in
+tendon muscles ( 19–22).
+Also noteworthy are the studies that analyse the recovery effect
+or body changes after several years, due to dedication, demands
+and practical execution ( 18,23–25). In addition, topics such as
+nutrition, biomechanics or psychology should not be left aside,
+and their research should be promoted since their direct
+relationship with performance in artistic swimming has beenamply demonstrated ( 26–28).
+Regarding the sample, the data found and re ﬂected in the
+results are in line with the low number of federated swimmers in
+artistic swimming ( 29), which makes access to said sample
+difﬁcult. Thus, the main investigations have stood out for the
+study of cases or documentary research; for this reason, it can be
+afﬁrmed that the creation of new facilities that adapt to the
+needs of the sport is necessary and/or that more publicity about
+the practice of this discipline should be generated; in this way,
+there is the possibility of carrying out investigations with more
+than 100 participants (at the moment only 7.27% correspond to
+them) as occurs in much more popular sports.
+Regarding the performance level of the sample, the percentage of
+elite swimmers studied in the literature was higher than in other
+swimming categories. This may be because there is a greater
+interest within the scienti ﬁc community in high-performance
+artistic swimming. Generally, since it is not a common topic
+investigated in the scienti ﬁc community, the research groups that
+are interested in artistic swimming are made up of members with
+former practitioners or are usually related to or involved in the
+sport itself, and for this reason, they have access to high-level
+samples. Therefore, it would be necessary for researchers to take
+into account not only highly competitive swimmers but also other
+swimming categories for future studies. This allows the
+establishment of sports strategies adapted to each age group.
+Finally, a possible weakness of the study that must be
+highlighted is the probability of the existence of a publication
+bias due to the low signi ﬁcance of the art in certain scienti ﬁc
+ﬁelds that causes them to be published in journals of low
+scienti ﬁc quality, which are not included in the databases used.
+Likewise, most of the studies continue to be heterogeneous,
+which makes it dif ﬁcult to combine research by branch. The
+main solution to these problems is the promotion and creationof more studies on the subject as well as its corresponding
+promotion that would increase the relevance of the subject and
+decrease the heterogeneity of the matter.Conclusions
+Over the years there has been a considerable increase in studies
+on artistic swimming, especially those with smaller samples (1 –50
+swimmers) and professional athletes. Besides, the topics of greatest
+interest in artistic swimming have been physiology, sports
+performance and injuries. Even so, it seems that for the moment
+artistic swimming has little impact, probably due to its status as
+a minority sport and it having limited social and economic
+impact. This study highlights the need to increase scienti ﬁc
+research in artistic swimming that allows for reviews that
+establish more homogeneous and relevant conclusions for this
+sport ﬁeld. Likewise, a greater impulse is needed from the
+environment of this sport (federations, organisations, clubs, and
+athletes) to improve knowledge about their area; following this
+path will achieve an increase in its performance by coaches and
+athletes as well as an increase in its social repercussions.
+Data availability statement
+The original contributions presented in the study are included
+in the article/Supplementary Material, further inquiries can be
+directed to the corresponding authors.
+Author contributions
+AR has been the main author, AT thesis director, reviewer and
+co-author and AL-V co-author, reviewer and collaborator. All
+authors contributed to the article and approved the submitted version.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could
+be construed as a potential con ﬂict of interest.
+Publisher ’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their af ﬁliated
+organizations, or those of the publisher, the editors and thereviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed
+or endorsed by the publisher.
+References
+1. Abdullah KH, Sofyan D, Roslan MF, Oluwatoyin IM, Osiobe EU. A literature
+review and bibliometric-analysis of the game of basketball: a case study onIndonesia and Malaysia. Int J Basketb Stud . (2022) 1(1):32 –42. doi: 10.31949/ijobs.
+v1i1.3753Rincón et al. 10.3389/fspor.2023.1196144
+Frontiers in Sports and Active Living 05 frontiersin.org
+2. Macedo A, Ferreira Dias M, Mourão PR. A literature review on the European
+super league of football —tracing the discussion of a Utopia. J Sport Policy . (2022)
+14(3):563 –79. doi: 10.1080/19406940.2022.2064895
+3. Peric M, Zenic N, Mandic GF, Sekulic D, Sajber D. The reliability, validity and
+applicability of two sport-speci ﬁc power tests in synchronized swimming. J Hum
+Kinet . (2012) 32:135 –45. doi: 10.2478/v10078-012-0030-8
+4. Gabrilo G, Peric M, Stipic M. Pulmonary function in pubertal synchronized
+swimmers: 1-year follow-up results and its relation to competitive achievement. Med
+Probl Perform Artists . (2011) 26(1):39 –43. doi: 10.21091/mppa.2011.1006
+5. Mountjoy M. Injuries and medical issues in synchronized Olympic sports. Curr
+Sports Med Rep . (2009) 8(5):255 –61. doi: 10.1249/JSR.0b013e3181b84a09
+6. Ortega Toro E, Valdivia Moral PÁ, Hernán Villarejo D, Olmedilla Zafra A.
+Análisis de los proyectos de investigación concedidos por el consejo superior dedeportes (2006 –2012), desde una perspectiva de género. Rev Psicol Deporte . (2014)
+23(1):95 –100.
+7. Devís JD, Jimeno LA, Herrera MV, Doña AM, Valcárcel JV. Las revistas
+cientí ﬁco-técnicas españolas de las ciencias de la actividad física y el deporte:
+inventario y análisis de la calidad de contenido y difusión. Rev Esp Doc Cient .
+(2003) 26(2):177 –90. doi: 10.3989/redc.2003.v26.i2.136
+8. Olmedilla A, Abenza L, Serrano A, Muñoz AM, García-Angulo A, Ortega E.
+Estudio bibliométrico de tesis doctorales sobre psicología del deporte. Cuad Psicol
+Deporte . (2017) 17(2):121 –30.
+9. Peset F, Ferrer-Sapena A, Villamón M, González LM, Toca-Herrera JL,
+Aleixandre R. Scienti ﬁc literature analysis of judo in Web of Science. Arch Budo .
+(2013) 9(2):81 –91. doi: 10.12659/AOB.883883
+10. García-Angulo A, Ortega E. Análisis bibliométrico de la producción cientí ﬁca
+sobre el portero en fútbol. Rev Iberoam Psicol Ejerc Deporte . (2015) 10
+(2):1886 –8576. https://accedacris.ulpgc.es/jspui/handle/10553/13611.
+11. Olmedilla A, Ortega E, González J, Hernán-Villarejo D. Análisis de los proyectos
+de investigación de ﬁnanciación pública en psicología del deporte. An Psicol . (2013)
+29(3):714 –23. doi: 10.6018/analesps.29.3.175851
+12. Ortega E, Valdivia P, Olmedilla A, Martínez MT, Villarejo D. Estudio
+bibliométrico del papel de la mujer en las tesis doctorales de ciencias del deporte.J Sports Health Res . (2015) 7(2):139 –48.
+13. Palazón MA, Ortega E, García-Angulo A. Análisis bibliométrico de la
+producción cientí ﬁca en el fútbol sala. Sport TK-Rev EuroAm Cienc Deporte . (2015)
+4(2):19. doi: 10.6018/242901
+14. Prien A, Mountjoy M, Miller J, Boyd K, van den Hoogenband C, Gerrard D,
+et al. Injury and illness in aquatic sport: how high is the risk? A comparison of
+results from three FINA world championships. Br J Sports Med . (2017) 51
+(4):277 –82. doi: 10.1136/bjsports-2016-09607515
+15. Blanca-Torres JC, Ortega E, Nikolaidis PT, Torres-Luque G. Bibliometric
+analysis of scienti ﬁc production in badminton. J Hum Sport Exerc . (2020) 15(2):
+267–82. doi: 10.14198/jhse.2020.152.0316. Shilbury D. A bibliometric study of citations to sport management and
+marketing journals. J Sport Manag . (2011) 25(5):423 –44. doi: 10.1123/jsm.25.5.423
+17. World Aquatics. (2023). Available at: https://www.worldaquatics.com/artistic-
+swimming/competitions.
+18. Ponciano K, Miranda ML, Homma M, Miranda JMQ, Figueira Júnior AJ, Meira
+Júnior CDM, et al. Physiological responses during the practice of synchronized
+swimming: a systematic review. Clin Physiol Funct Imaging . (2018) 38(2):163 –75.
+doi: 10.1111/cpf.12412
+19. Aguado-Henche S, Slocker de Arce A, Carrascosa-Sánchez J, Bosch-Martín A,
+Cristóbal-Aguado S. Isokinetic assessment of shoulder complex strength in
+adolescent elite synchronized swimmers. J Bodyw Mov Ther . (2018) 22(4):968 –71.
+doi: 10.1016/j.jbmt.2018.01.018
+20. Fukutake T, Hattori T. Reversible hydromyelia in a synchronised swimmer with
+recurrent thoracic girdle pains. J Neurol Neurosurg Psychiatry . (1998) 65(4):606.
+doi: 10.1136/jnnp.65.4.606
+21. Gaudet S, Begon M, Tremblay J. Cluster analysis using physical performance and
+self-report measures to identify shoulder injury in overhead female athletes. J Sci Med
+Sport . (2019) 22(3):269 –74. doi: 10.1016/j.jsams.2018.09.224
+22. Mountjoy M. The basics of synchronized swimming and its injuries. Clin J Sports
+Med. (1999) 18(2):321 –36. doi: 10.1016/s0278-5919(05)70148-4
+23. Alentejano TC, Bell GJ, Marshall D. A comparison of the physiological responses
+to underwater arm cranking and breath holding between synchronized swimmers andbreath holding untrained women. J Hum Kinet . (2012) 32:147 –56. doi: 10.2478/
+v10078-012-0031-7
+24. Bante S, Bogdanis GC, Chairopoulou C, Maridaki M. Cardiorespiratory and
+metabolic responses to a simulated synchronized swimming routine in senior (>18years) and comen (13 –15 years) national level athletes. J Sports Med Phys Fitness .
+(2007) 47(3):291 –9.
+25. Coates AM, Cheung CP, Currie KD, King TJ, Mountjoy ML, Burr JF. Differences
+in left ventricular function at rest and during isometric handgrip exercise in eliteaquatic sport athletes. Med Sci Sports Exerc . (2022) 54(3):507 –16. doi: 10.1249/MSS.
+0000000000002812
+26. Gomes LE, Diogo V, Castro FA, Vilas-Boas JP, Fernandes RJ, Figueiredo P.
+Biomechanical analyses of synchronised swimming standard and contra-standardsculling. Sports Biomech . (2019) 18(4):354 –65. doi: 10.1080/14763141.2017.1409258
+27. Mountjoy M, Junge A, Magnusson C, Shahpar FM, Ortiz Lizcano EI, Varvodic J,
+et al. Beneath the surface: mental health and harassment and abuse of athletesparticipating in the FINA (aquatics) world championships, 2019. Clin J Sport Med .
+(2022) 32(2):95 –102. doi: 10.1097/jsm.0000000000000971
+28. Robertson S, Benardot D, Mountjoy M. Nutritional recommendations for
+synchronized swimming. Int J Sport Nutr Exerc Metab . (2014) 24(4):404 –13.
+doi: 10.1123/ijsnem.2014-0013
+29. Real Federación Española de Natación. (2023). Available at: https://rfen.es/
+section/noticias-natacion-artistica.Rincón et al. 10.3389/fspor.2023.1196144
+Frontiers in Sports and Active Living 06 frontiersin.org

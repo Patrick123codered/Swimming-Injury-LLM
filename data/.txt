@@ -1,0 +1,844 @@
+Evidence Summary: 
+Swimming 
+Clodagh Toomey PT, PhD 
+Version 1 
+February 2018 
+
+The Bri tish Columbia Injury Research and Prevention Unit (BCIRP U) was established by the Ministry of 
+Health and the Minist er’s Injury Prevention Advisory Committe e in August 1997. BCIRP U is housed within 
+the Evidence to Innovation research them e at BC Children’s Hospital (BCCH ) and supported by the 
+Provincial Health Service s Authority (PHSA) and the University of British Columbia (UBC). BCIRP U’s vision 
+is to be a leader in the production and transfer of injury prevention knowledge and the integration of 
+evidence-based injury prevention practices into the daily lives of tho se at risk, tho se who care for them, 
+and those with a mandate for public health and safety in British Columbia.  
+Autho r: Clodagh Toomey 
+Editors:  Sarah A Rich mond, Amanda Black 
+Reproduction, in its original form, is permitted for background use for private study, education instruction 
+and research, provided appropriate credit is given to the BC Injury Research and Prevention Unit. Citation 
+in editorial copy, for newsprint, radio and television is permitted. The material may not be reproduced for 
+commercial use or profit, promotion, resale, or publication in whole or in part without written permission 
+from the BC Injury Research and Prevention Unit. 
+For any questions regarding this repo rt, contact: 
+BC Inju ry Research and Prevention Unit 
+F508 – 4480 Oak Street 
+Vancouv er, BC V6H 3V4 
+Email: bcinjury1@cw.bc.ca 
+Phone: (604) 875-3776 
+Fax: (604) 875-3569 
+Website: www.injuryresearch.bc.ca  
+Suggested Citation: 
+Toomey C, Black A, Richmond SA, Pike I, Babul S. Evidence Summary: Swimming.  Active & Safe Central. BC 
+Injury Research and Prevention Unit: Vancouver, BC; 2018. Available at http://activesafe.ca/ .
+
+Evidence synthesis tool  
+SPORT:  Swimming  Target Group:  Competitiv e (high schools and club -level to elite professionals) 
+and recreational swimmers  
+Injury Mechanisms:  All Injury: Musculoskeletal or concussion injury sustained while swimming (competitive or recreational). Shoulder injury, low er back pain 
+(LBP) and knee injury reported separately. Not including submersion or drowning injury.  
+Incidence/Prevalence  Risk/Protective Factors  Interventions  Implementation/Evaluation  Resources  
+All Injury (competitive)  
+Injury prevalence  in elite 
+swimmers (all ages)  is reported as 
+between 32.2% and 74.6%. The 
+shoulder accounts for the highest 
+proportion of injury (30.8 -62.4%), 
+followed by the knee (12.9 -49.9%) 
+and lower back (6.2 -17%). 1–7 
+In elite competitive swimmers 
+(age 15 -35y), injury incidence  for 
+all injury is 2.64 per 1000 AE, for 
+acute injury is 1.1 per 1000 AE and 
+for overuse injury is 1.48 per 1000 
+AE.2 
+In collegiate (NCAA) swimmers,  
+injury incidence ranges from 1.63 
+to 6.06 injuries per 1000 athlete 
+exposures (AE) for females and 
+from 1.48 to 4.97 i njuries per 1000 
+AE for males.4,5,8 
+Injury rate during professional 
+games  (competition and practice) 
+is reported as 5.4% (2012 
+Olympics) and ranges from 21.8 to 
+60.1 per 1000 athletes in 
+swimming and 94.6 to 117 injuries 
+per 1000 athletes in open water Previous Injury  
+History of any injury  increases 
+elite collegiate swimmer's  rate of 
+injury (per 1000 AEs) more than 
+2.5 times (IRR= 2.74, 95% CI= 
+1.18, 6.37) after adjusting for the 
+other risk factors (gender, years 
+swimming). History of injury to 
+the same anatomical site  
+increases injury risk almost 2 -fold 
+in the adjusted model (IRR= 1.75, 
+95% CI= 1.25, 2.45).4 
+Being a freshman in elite 
+collegiate swimmers  is a risk 
+factor for injury. The risk of injury 
+significantly decreased with 
+subsequent years of eligibility  for 
+women (x2, P = .03) and for 
+combine d men's and women's 
+teams (x2, P = .04).8  
+Swimmers specializing in strokes 
+other than freestyle  exhibited a 
+33% greater risk (RR, 1.33 [1.001 -
+1.77]) of injury than swimmers 
+primarily specializing in freestyle.8 
+ There have been no RCTs or 
+other quality studies carried out 
+to assess effectiveness of an 
+injury prevention program on all 
+musculoskeletal injury risk in 
+competitive or  recreational 
+swimmers. Descriptive reviews 
+have pointed to potential 
+interventions based on 
+biomechanical studies of injury 
+risk:  
+Careful monitoring of training 
+volume, intensity, and duration by 
+coaches and physicians will 
+minimize overuse injuries and 
+identify athletes at risk of 
+swimming injury.29 
+ 
+Shoulder Injury  
+One RCT30 has assessed a 
+prevention program for shoulder 
+pain (pain being a secondary 
+outcome). Additional 
+interventions are based on non -
+RCT tested interventions from 
+descriptive reviews:  There is insufficient evidence 
+for interventions to warrant 
+studies on implementation/ 
+evaluation.  
+One study, measuring the 
+attitudes and behaviours 
+concerning shoulder pain in 
+high school competitive club 
+swimmers, found that the 
+majority of swimmers believe 
+that mild and moderate 
+shoulder pain is normal in 
+swimming and should be 
+tolerated to complete practice. 
+This may be a potential barrier 
+to implementing an injury 
+prevention program. The study 
+suggests tha t education 
+programs that are focused on 
+informing athletes of the long -
+term consequences of 
+practicing and competing with 
+shoulder pain, the dangers of 
+long -term pain medication 
+usage, and the necessity of 
+taking time off when injured 
+may be effective in moderating 
+their behaviours.33  
+Websites  
+ 
+http://www.stopsportsinjuries
+.org/STOP/Prevent_Injuries/S
+wimming_Injury_Prevention.a
+spx 
+ 
+Australian Government Site  
+https://www.betterhealth.vic.
+gov.au/health/healthyliving/s
+wimming -preventing -injury  
+ 
+swimming (FINA World 
+Championships 2009 and 2013).9–11 
+Prevalence  of injury in elite 
+Paralympic swimmers  with sight 
+restriction is 64% or 0.3 injuries 
+per athlete per competition.12 
+All Injury ( Recreational)  
+A representative sample of US 
+emergency department reported 
+swimming injury  reported 88,891 
+annually or 1 swimming injury 
+every 6 minutes.13 In Australia, 
+there are 2.2 swimming -related 
+trauma or death incidents per 
+100,00 participants per year.14 
+Shoulder Injury  
+In competitive swimmers , point 
+prevalence  of shoulder injury 
+ranges from 12.3 to 91%, annual 
+prevalence  ranges from 23.9 -
+25.9%.15–18 Point prevalence  in 
+masters swimmers  is 19.4%.17 
+Prevalence of shoulder 
+impingement in competitive male 
+swimmers  is 17% and increases 
+with competition level - (state 12%, 
+national 20% and international 
+swimmers 35%).19 
+Exposure -adjusted incidence rates 
+for competitive club swimmers  is 
+0.2 injuries per 1000 swim km for 
+significant interfering shoulder pain 
+and 0.3 injuries per 1000 swim km 
+for a significant shoulder injury that 
+lasted >2 weeks.20 Shoulder Injury  
+From a systematic review, there 
+is a moderate level of certainty 
+that the following are risk factors 
+for shoulder injury at all 
+competition  levels: clinical joint 
+laxity and instability, decreased 
+internal and increased external 
+shoulder rotation range of 
+motion, previous history of 
+pain/injury and higher 
+competitive level.25 
+Knee Injury  
+Breaststroke swimmers have a 5 -
+fold higher risk of knee pain 
+(relative risk, 5.06, CI 2.07 -12.36; 
+p=0.001). Swimming for more 
+than four times a week has a 
+higher risk for knee injuries (RR 
+2.06, CI 1.21 -3.52).6 
+Protective Factors  
+Freestyle has a reduced relative 
+risk (0.45, CI 0.27 -0.77; p=0.03) 
+for knee pain. Stretching is 
+associat ed with a five - fold 
+reduced risk for overuse knee 
+injuries (RR 0.179; p=0.041).6 
+Lower Back Pain  
+Butterfly swimmers have an 
+increased risk of lower back pain 
+(RR, 2.49, CI 1.21 -5.09.36; 
+p=0.011).6 
+Torso hyperextension during 
+front crawl strokes is not a Descriptive reviews suggest that 
+coaches should encourage 
+increased body roll and scapula 
+retraction during forward crawl, 
+aiming at normal strength and 
+endurance of the cuff and 
+scapular stabilizers, as well as 
+improving the flexibility of the 
+anterior ca psule to prevent 
+shoulder injury. This can be done 
+through an endurance training 
+and strengthening program for 
+the shoulder and periscapular 
+muscles with emphasis placed on 
+the serratus anterior, rhomboids, 
+lower trapezius and 
+subscapularis.29,31 
+An RCT investigating an 8-week 
+stretching and strengthening 
+programme  targeting periscapular 
+muscles in elite collegiate (NCAA) 
+swimmers  improved posture over 
+the course of the season. 
+However, there was no significant 
+change in pain and function 
+scores following the intervention 
+(F(1,26)=0.853; p=0.389; 
+1−β=0.145; ES 0.34). These 
+participants were not followed 
+throughout the season or longer 
+to assess to effectiveness of the 
+interventio n on prospective injury 
+risk.30 
+Otorrhea  
+In children aged 0 -14 years 
+following tympanostomy , an RCT  
+Low er Back Pain  
+In elite professional swimmers  
+(age 16 -25y), there is no difference 
+in prevalence  of self -reported LBP 
+compared to no sport controls 
+(52% vs. 64%; p=0.41).21 
+In university swimmers , LBP 
+prevalence  is 18.1% (point), 36.1% 
+(4-weeks) 34.1% (1 -year), 32.6% 
+(sports -life) and 47.8 -76.1% (life -
+time). 22,23 Odds ratio of LBP during 
+lifetime was 3.26 (CI 1.41 -8.01) 
+compared to non -athletes and OR 
+of deg enerative disc in swimmers 
+was 2.87 (CI 1.31 -6.44) compared 
+to nonathletes.23 
+In adolescent competitive 
+swimmers , swimmers had 
+increased odds of LBP prevalence  
+OR 1.61 (1.01 -2.57), particularly in 
+females OR 2.1 (1.08 -4.06) 
+compared to non -swimming 
+controls.24 
+ biomechanically viable major 
+cause of LBP.26 
+Glaucoma  
+Frequently wearing swim goggles 
+does not lead to an increased risk 
+of glaucoma over time in adults.27 
+Otorrhea  
+Children who swim without ear 
+protection following 
+tympanostomy tube placement 
+suffer the same number or fewer 
+episodes of otorrhea than 
+children who do not swim. 
+Pooled RD -5.04 ( -11.6 to  1.5).28 
+ found a statistically significant 
+reduction in the rate of otorrhoea 
+from 1.2 episodes to 0.84 
+episodes in the year of follow -up 
+(mean difference (MD) -0.36 
+episodes per year in th ose that 
+wore ear plugs  while swimming. 
+The absolute reduction is unlikely 
+to be clinically significant and 
+equates to an average child 
+having to wear ear plugs for 2.8 
+years to prevent one episode of 
+otorrhea.  
+In a second RCT, there was no 
+evidence of a reduction or 
+increase in the rate of otorrhea 
+(1.17 episodes per year in both 
+groups; MD 0 episodes, 95% CI -
+0.14 to 0.14) in those who 
+avoided water  versus those who 
+swam as usual.32 
+ 
+There are clear gaps in the 
+literature with regards to injury 
+prevention interventions in 
+swimming. There is a 
+requirement for large, high -
+quality RCTs to assess the 
+effectiveness of injury prevention 
+programs based on evidence -
+based risk factors for 
+musculoskeletal injury.  
+Works C ited:  
+1. Sambanis  M. A study of 
+musculoskeletal i njuries in Greek  
+male and female s wimmers. Works Ci ted: 
+4. Chase KI, Caine DJ, Goodwin BJ, 
+Whitehead JR, Romanick MA.  
+(2013). A prospective study of Works C ited:  
+29. Wanivenhaus F, Fox AJS, 
+Chaudhury S, Rodeo SA. (2012). 
+Epidemiology of injuries and Works C ited:  
+33. Hibberd EE, Myers JB. 
+(2013). Practice habits and 
+attitudes and behaviors  
+ 
+(2013). Journal of  Novel 
+Physiother apy, 3(2):2 -4.. 
+2. Ristolainen L, Heinonen A, 
+Turunen H, et al. (2010). Type of 
+sport is related to injury profile: a 
+study on cross country skiers, 
+swimmers, long -distance runners 
+and soccer players. A retrospective 
+12-month study. Scand inavian  
+Journal of  Med icine &  Science in  
+Sport , 20(3), 384-393 10p.  
+3. Venancio BO, Tacani  PM. (2012). 
+Pain prevalence in swimming 
+athletes of Sao Caetano Do Sul. 
+Rev Bras Med do Esporte . 18(6), 
+394-399.  
+4. Chase KI, Caine DJ, Goodwin BJ, 
+Whitehead JR, Romanick MA. 
+(2013). A prospective study of 
+injury affecting competitive 
+collegiate s wimmers. Research in  
+Sport Med icine , 21(2):11 1-123.  
+5. Kerr ZY, Baugh CM, Hibberd EE, 
+Snook EM, Hayden R, Dompier TP. 
+(2015). Epidemiology of National 
+Collegiate Athletic Association 
+men’s and women’s swimming and 
+diving injuries from 2009/2010 to 
+2013/2014. British  Journal of  
+Sports Med icine , 50(7):1 -8.  
+6. Knobloch K, Yoon U, Kraemer R, 
+Vogt PM. (2008). 200-400 m 
+breaststroke event sominate 
+among knee overuse injuries in 
+elite swimming athletes. 
+Sportverletzung -Sportschaden , injury affecting c ompetitive 
+collegiate swimmers. Research in  
+Sport Med icine , 21(2), 111-123.  
+6. Knobloch K, Yoon U, Kraemer 
+R, Vogt PM. (2008). 200-400 m 
+breaststroke event sominate 
+among knee overuse injuries in 
+elite swimming a thletes. 
+Sportverletzung -Sportschaden , 
+22(4), 213 -219.  
+8. Wolf BR, Ebinger AAE, Lawler 
+MP, Britton CL. (2009). Injury 
+patterns in Division I collegiate 
+swimming. American Journal of  
+Sports Med icine, 37(10), 2037 -
+2042.  
+25. Hill L, Collins M, Posthumus 
+M. (2015). Risk factors for 
+shoulder pain and injury in 
+swimmers: A critical systematic 
+review. Phys ician and 
+Sportsmedicine,  3847 , 1-9.  
+26. Du T, Narita I, Yanai T. (2016). 
+Three -dimensional torso motio n 
+in tethered front crawl stroke and 
+its implications on low back pain. 
+Journal of Appl ied Biomech anica, 
+32(1), 50-58.  
+27. Franchina M, Yazar S, Booth L, 
+et al. (2015). Swimming goggle 
+wear is not associated with an 
+increased prevalence of 
+glaucoma. British  Journal of  
+Ophthalmo logy, 99, 255-257.  
+28. Lee D, Youk A, Goldstein NA. prevention strategies in 
+competitive swimmers. Sports 
+Health , 4(3):246 -251. 
+30. Lynch SS, Thigpen C a, Mihalik 
+JP, Prentice WE, Padua D. (2010). 
+The effects of an exercise 
+interven tion on forward head and 
+rounded shoulder postures in 
+elite swimmers. British  Journal of  
+Sports Med icine , 44(5), 376-381. 
+31. Bak K. (2010). The practical 
+management of swimmer’s 
+painful s houlder: Etiology , 
+diagnosis  and treatment. Clinical 
+Journal of  Sport Med icine , 20(5), 
+386-390.  
+32. Moualed D, Masterson L, 
+Kumar S, Donnelly N. (2016). 
+Water precautions for prevention 
+of infection in children with 
+ventilation tubes (grommets). 
+Cochrane Database Systematic 
+Reviews , 2016(1) . 
+ concerning shoulder pain in 
+high school competitive club 
+swimmers.  Clinical Journal of  
+Sport Med icine , 0(0), 1-6.  
+ 
+22(4):213 -219.  
+7. de Almeida MO, Hespan hol LC, 
+Lopes AD. (2015). Prevalence of 
+musculoskeletal pain among 
+swimmers in an elite national 
+tournament. International  Journal 
+of Sports Phys ical Ther apy, 10(7), 
+1026 -1034.  
+8. Wolf BR, Ebinger  AAE, Lawler 
+MP, Britton CL. (2009). Injury 
+patterns in Division I collegiate 
+swimming. American Journal of  
+Sports Med icine , 37(10), 2037 -
+2042. 
+9. Engebretsen L, Steffen K, Alonso 
+JM, et al. (2013). Sports injuries 
+and illnesses during the London 
+Summer Oly mpic Games 2012. 
+British  Journal of  Sports Med icine , 
+44(11), 772-780.  
+10. Mountjoy M, Junge A, Alonso 
+JM, et al. (2010). Sports injuries 
+and illnesses in the 2009 FINA 
+World Championships (Aquatics). 
+British  Journal of  Sports Med icine , 
+44(7), 522-527. 
+11. Mountjoy M, Zorzoli M, Pipe A, 
+et al. (2015). Competing with 
+injuries: injuries prior to and 
+during the 15th FINA World 
+Championships 2013 (aquatics). 
+British  Journal of  Sports Med icine , 
+26(1), 37-43. 
+12. Magno E Silva M, Bilzon J, 
+Duarte E, Gorla J, Vital R . (2013). (1999). A meta -analysis of 
+swimming and water precautions. 
+Laryngoscope , 109(4), 536-540.  
+Sport injuries in elite paralympic 
+swimmers with visual impairment. 
+Journal of  Athletic Train ing, 48(4), 
+493-498.  
+13. Pollard KA, Gottesman BL, 
+Rochette LM, Smith GA. (2013). 
+Swimming injuries treated in US 
+EDs: 1990 to 2008. American  
+Journal of  Emerg ency  Med icine , 
+31(5) , 803-809.  
+14. Andrew NE, Gabbe BJ, Wolfe R, 
+Cameron PA. (2012). Trends in 
+sport and active recreation injuries 
+resulting in major trauma or death 
+in adults in Victoria, Australia, 
+2001 -2007. Injury , 43(9), 1527 -
+1533.  
+15. Mohseni -Bandpei MA, 
+Keshavarz R, Minoonejhad H, 
+Mohsenifar H, Shakeri H. (2012). 
+Shoulder pain in iranian elite 
+athletes: The prevalence and risk 
+factors. Journal of Manipulative 
+Physiol ogical  Ther apy, 35(7), 541-
+548.  
+16. McKenna L, Straker L, Smith A. 
+(2012). Can scapular  and humeral 
+head position predict shoulder 
+pain in adolescent swimmers and 
+non-swimmers? Journal of  Sports 
+Science , 30(16), 1767 -1776.  
+17. Tate A, Turner GN, Knab SE, 
+Jorgensen C, Strittmatter A, 
+Michener LA. (2012). Risk factors 
+associated with shoulder pain and 
+disability across the lifespan of 
+competitive swimmers. Journal of 
+Athletic Train ing, 47(2), 149-158.  
+18. Sein ML, Walton J, Linklater J, 
+et al. (2010). Shoulder pain in elite 
+swimmers: primarily due to swim -
+volume -induced supraspinatus 
+tendinopathy. British  Journal of  
+Sport Med icine , 44, 105-113.  
+19. Bansal S, Sinha A, Sandhu J. 
+(2007). Shoulder impingement 
+syndrome among competitive 
+swimmers in India —Prevalence, 
+evaluation and risk f actors. Journal 
+of Exerc ise Science and  Fitness , 
+5(2):102 -108.  
+20. Walker H, Gabbe B, 
+Wajswelner H, Blanch P, Bennell K.  
+(2012).  Shoulder pain in 
+swimmers: A 12 -month 
+prospective cohort study of 
+incidence and risk factors. Phys ical 
+Ther apy in  Sport , 13(4), 243-249.  
+21. Folkvardsen S, Magnussen E, 
+Karppinen J, et al. Does elite 
+swimming accelerate lumbar 
+intervertebral disc degeneration 
+and increase low back pain? A 
+cross -sectional comparison. 
+European  Spine J ournal . 
+2016;25(9):2849 -2855.  
+22. Noormoham madpour P, 
+Rostami M, Mansournia MA, 
+Farahbakhsh F, Pourgharib Shahi 
+MH, Kordi R. (2016). Low back pain 
+status of female university 
+students in relation to different 
+sport activities. European Spine 
+Journal , 25(4) , 1196 -1203 .  
+23. Hangai M, Kaneoka K, Hinot su 
+S, et al. (2009). Lumbar 
+intervertebral disk degeneration in 
+athletes. American  Journal of  
+Sports Med icine , 37(1), 149-155.  
+24. Zaina F, Donzelli S, Lusini M, 
+Minnella S, Negrini S. (2015). 
+Swimming and spinal deformities: 
+A cross -sectional study. Journ al of  
+Pediatr ics, 166(1), 163-167.  
+Review of Sport Injury Burden, Risk Fac tors and Prevention  
+ 
+Swimming  
+Incidence and Prevalence  
+ 
+ Swimming is one of the most popular competitive Olympic sports with events in 
+backstroke, butterfly, breaststroke, freestyle and individual medley. In addition, swimming is an 
+extremely popular recreational sport, with participants across all age groups. D ue to the non -
+load bearing nature of swimming, the most common injury type is overuse injuries (Kerr et al., 
+2015) . 
+ 
+Elite Swimmers  
+ 
+ The prevalence of in elite swimmers across all ages is reported as between 32.2% and 
+74.6%. The shoulder accounts for the highest proportion of injury (30.8 -62.4%), followed by th e 
+knee (12.9 -49.9%) and lower back (6.2 -17%) (Chase et al., 2013; de Almeida et al., 2015; Kerr et 
+al., 2015; Knobloch et al., 2008; Ristolainen et al., 2010; Sambanis  et al., 2013; Venancio & 
+Tacani, 2012) . In elite competitive swimmers (ages 15 -35 years), the incidence of all injury is 
+reported as 2.64 per 1000 athletic exposures (AE), acute injury at 1.1 per 1000 AE and overuse 
+injury at 1.48 per 1000 AE (Ristolainen et al., 2010) . In collegiate (NCAA) swimmers, the injury 
+incidence  range from 1.63 to 6.06 injuries per 1000 AE for females and from 1.48 to 4.97 injuries 
+per 1000 AE for males (Chase et al., 2013; Kerr et al., 2015; Wolf et al., 2009) .  
+ 
+ The injury rate during professional games (competition and practice from the 2012 
+Olympic games) is reported to range from 21.8 to 60.1 per 1000 athletes in swimming and 94.6 
+to 117 injuries per 1000 athletes in open water swimming (FINA World Championships 2009 and 
+2013) (Engebretsen et al., 2013; Mountjoy et al., 2010, 2015) . The prevalence of injury in elite 
+Paralympic swimmers with sight restriction is 64%, or 0.3 injuries per athlete per competition 
+(Silva et al., 2013)  
+ 
+ Shoulder injury is the most com mon site of injury in swimmers. In competitive swimmers, 
+the point prevalence of shoulder injury ranges from 12.3 to 91%, and the annual prevalence 
+ranges from 23.9 -25.9% (McKenna et al., 2012; Mohseni -Bandpei et al., 2012; Sein et al., 2010; 
+Tate et al., 2012) . The point prev alence in masters level swimmers is reported at 19.4% (Tate et 
+al., 2012) . The prevalence  of shoulder impingement in competitive male swimmers is reported at 
+17% and increases with competition level (state 12%, national 20% and international swimmers 
+35%) (Bansal et al., 2007) . Exposure -adjusted incidence  rates for competitive club swimmers is 
+0.2 in juries per 1000 swim km for significant interfering shoulder pain and 0.3 injuries per 1000 
+swim km for a significant shoulder injury that lasted >2 weeks (Walker et al., 2012) . 
+ 
+ Lower back pain (LBP) is also commonly reported in all levels of swimming. In elite 
+professional swimmers (ages 16 -25 years), there was no difference in the prevalence of self -
+reported LBP comp ared to no sport controls (52% vs. 64%; p=0.41) (Folkvardsen et al., 2016) ; 
+however, in university swimmers, LBP point prevalence is 18.1%, 36.1% at 4 -weeks,  34.1% at 1 -
+year, 32.6% for sporting -life and 47.8 -76.1% for life -time prevalence (Hangai et  al., 2009; 
+Noormohammadpour et al., 2016) . Compared to non -athletes, the odds of LBP during a 
+swimmers lifetime was 3.26 higher (95% CI 1.41 to 8.01) compared to non -athletes and the odds 
+of degenerative disc disease in swimmers was 2.87 (95% CI 1.31 t o 6.44) higher compared to 
+non-athletes (Hangai et al., 2009) . In adolescent competitive swimmers, swimmers had an 
+increased odds of LBP [Odds Ratio (OR)=1.61, 95% CI 1.01 to 2.57], particularly in females 
+(OR=2.1, 95% CI 1.08 to 4.06), compared to non -swimming controls (Zaina et al., 2015) . 
+ 
+ Finally, the i ncidence of knee injury in c ompetitive high school male swimmers/divers is 
+reported as 1.5 per 1000 AE and in females as 2.5 per 1000 AE (Swenson et  al., 2013) . 
+ 
+Recreational Swimming  
+ 
+ The injury incidence rates for recreational swimmers are more difficult to calculate due a 
+lack of reporting or variability in reporting standards. A representative sample of US emergency 
+departments treating swimming injuries reported 88,891 injuries annu ally or 1 swimming injury 
+every 6 minutes (Pollard et al., 2013) . In Australia, there are 2.2 swimming -related trauma or 
+death incidents per 100,00 participants per year (Andrew et al., 2012) . 
+ 
+Risk and Protective Factors  
+ 
+ Many risk factors have been reported for all injury risk in swimmers. In elite collegiate 
+swimmers, previous history of any injury increases the risk of injury (per 1000 AEs) more than 2.5 
+times [Incidence rate ratio (IRR)= 2.74, 95% CI 1.18 to 6.37] after  adjusting for the other risk 
+factors (such as gender and years swimming). Previous history of injury to the same anatomical 
+site increases the risk of injury almost 2 -fold (IRR= 1.75, 95% CI 1.25 to 2.45) (Chase et al., 2013) .  
+ 
+ Being a freshman in elite collegiate swimming is a risk  factor for injury. Freshman men 
+and women had a mean of 1.20 injuries per swimmer compared to 0.57 injuries per senior 
+swimmer (P = .04) (Wolf et al., 2009) . Swimmers specializi ng in strokes other than freestyle 
+demonstrated a 33% greater risk of injury [Relative risk (RR)=1.33, 95% CI 1.00 -1.77] compared to 
+swimmers primarily specializing in freestyle (Wo lf et al., 2009) . 
+ 
+ Specific risk factors have been reported for shoulder injury in swimmers. A critical 
+systematic review on all swimming competition levels reported that clinical joint laxity and 
+instability, decreased internal and increased external shoulder rotation range of motion, previous 
+history of pain/injury and higher competitive level are moderate risk factors for shoulder injury  
+(Hill, Collins, & Posthumus, 2015) . 
+ 
+ For knee injury, breaststroke swimmers are reported to have a 5 -fold higher risk of knee 
+pain (RR=5.06,  95% CI 2.07 to 12.36) compared to other strokes (Knobloch et al., 2008) . 
+Additionally, swimming more than four times a week was assoc iated with a higher risk for knee 
+injuries (RR=2.06, 95% CI 1.21 to 3.52) relative to less than four times a week  (Knobloch et al., 
+2008) . Freestyle swimming reduces the risk of knee pain (RR=0.45, 95% CI 0.27 to 0.77) relative 
+to other strokes while stretching is reported to be associated with a five - fold reduced risk for 
+overuse knee injuries (RR=0.179; p=0.041) compared to no stretching (Knobloch et al., 2008) . 
+ 
+ For back injuries, butterfly swimmers have been found to have an increased risk of lower 
+back pain (LBP) compared to other strokes (RR=2.49, CI 1.21 to 5.09) (Knobloch et al., 2008) . 
+Torso hyperextension was previously thought to be a risk factor for LBP during front crawl 
+strokes; (Du et al, 201 6) however, an experimental study of experienced collegiate swimmers 
+reported that hyperextension was not a biomechanically viable cause of LBP, since no swimmer 
+extended beyond their active torso range of motion during front crawl (Du et al., 2016) . 
+ 
+ Previous literature has reported concerns regarding swimming and goggle use with eye 
+injury. Recent literature has shown that frequent goggles use does not lead to an increased  risk 
+of glaucoma in adults (Franchina et al., 2015) . Similar  concerns have been reported for otorrhoea 
+(discharge from the ears) in young swimmers; however, children who swim without ear 
+protection following tympanostomy  tube placement suffer the same number or fewer episodes 
+of otorrhoea than children who do not swim [Pooled Risk difference (RD)= -5.04, 95% CI -11.6 to 
+1.5] (Lee et al, 1999) . 
+ 
+ Although impairments associated with injury and pain in swimmers have been studied, 
+there is a lack of prospective research identifying the risk factors and protective factors for the 
+developmen t of overuse injury. Moreover, it is not clear to what extent these associated factors 
+are the cause or effect of the swimmers’ pain or if the impairment is a sport -specific adaptation 
+needed for high -level swimming performance (Struyf et al., 2017) .  
+ 
+Opportuni ties for Prevention: Effective I nterventions, Cost-Effectiveness, 
+Implementation and Evaluation  
+ 
+ There have been no randomized controlled trials (RCTs) or other quality studies carried 
+out to assess the eff ectiveness of an injury prevention program on musculoskeletal injury risk in 
+competitive or recreational swimmers. The heterogeneity of ‘swimmers’ shoulder’ and the lack 
+of knowledge regarding the etiology of swimming injury have reduced the ability to def ine and 
+develop successful interventions. Descriptive reviews have pointed to potential interventions 
+based on biomechanical studies of injury risk including careful monitoring of training volume, 
+intensity, and duration by coaches and physicians. These in terventions are deemed to minimize 
+overuse injuries and identify athletes at risk of swimming injury, (Wanivenhaus et al., 2012)  but 
+have not been rigorously tested.  
+ 
+ One RCT (Lynch et al., 2010)  assessed a prevention program for shoulder pain (pain as a 
+secondary outcome) but did not follow -up with the swimmers at the end of the season. 
+Additional interventions are based on non -RCT tested interventions from descriptive reviews. An 
+RCT investigating an 8 -week stretching and strengthening programme targeting periscapular 
+muscles in elite collegiate (NCAA) swimmers imp roved posture over the course of the season; 
+however, there was no significant change in pain and function scores following the intervention 
+(F(1,26)=0.853; p=0.389; 1−β=0.145; ES 0.34). These participants were not followed throughout 
+the season or longer to assess to effectiveness of the intervention on prospective injury risk 
+(Lynch et al., 2010) . 
+ 
+ Descriptive reviews suggest that coaches should encourage increased body roll and 
+scapula retraction during the forward crawl, aiming at normal streng th and endurance of the cuff 
+and scapular stabilizers, as well as improving the flexibility of the anterior capsule to prevent 
+shoulder injury. This can be done through an endurance training and strengthening program for 
+the shoulder and periscapular muscl es with emphasis placed on the serratus anterior, 
+rhomboids, lower trapezius and subscapularis (Bak, 2010 ; Wanivenhaus et al., 2012) . 
+ 
+ In relation to otorrhoea, an RCT with children ages 0 -14 years following tympanostomy 
+found a statistically significant reduction in the rate of otorrhoea from 1.2 episodes to 0.84 
+episodes in the year of follow -up [mean d ifference (MD) -0.36 episodes per year] in those that 
+wore ear plugs  while swimming. The absolute reduction is unlikely to be clinically significant and 
+equates to an average child having to wear ear plugs for 2.8 years to prevent one episode of 
+otorrhea (Moualed et al., 2016) . In a second RCT, there was no evidence of a reduction or 
+increase in the rate of otorrhoea (1.17 episodes per year in both groups; MD 0 episodes, 95% CI -
+0.14 to 0.14) in those who avoided water versus those who swam as usual (Moualed et al., 2016) . 
+ 
+ There are clear gaps in the literature with regards to injury prevention interventions in 
+swimming. There is a requirement for large, high -quality RCT s to assess the effectiveness of 
+injury prevention programs based on evidence -based risk factors for musculoskeletal injury.  
+ 
+Implementation/Evaluation  
+ 
+ There is insufficient evidence for interventions on swimming injury to permit studies on 
+factors that may facilitate implementation and/or evaluation. One study; however, measured the 
+attitudes and behaviours concerning shoulder pain in high school competitive club swimmers. 
+This study found that the majority of swimmers believe that mild and moderate shou lder pain is 
+normal in swimming and should be tolerated to complete practice. This may be a potential 
+barrier to implementing an injury prevention program. The study suggests that education 
+programs that are focused on informing athletes of the long -term c onsequences of practicing 
+and competing with shoulder pain, the dangers of long -term pain medication usage, and the 
+necessity of taking time off when injured may be effective in moderating their behaviours 
+(Hibberd & Myers, 2013) . 
+ 
+  
+References  
+Andrew, N. E., Gabbe, B. J., Wolfe, R., & Cameron, P. A. (2012). Trends in sport and active 
+recreation injuries resulting in major trauma or death in adults in Victoria, Australia, 2001 -
+2007. Injury , 43(9), 1527 –1533. http://doi.org/10.1016/j.injury.2011.01.031  
+Bak, K. (2010). The p ractical management o f swimmer’s painful s houlder : Etiology, diagnosis, and 
+treatment. Clinical Journal of Sports Medicine , 20(5), 386 –390.  
+Bansal, S., Sinha, A., &  Sandhu, J. (2007). Shoulder impingement syndrome among competitive 
+swimmers in India: Prevalence, e valuation and ri sk factors. Journal of Exercise Science and 
+Fitness , 5(2), 102 –108.  
+Chase, K. I., Caine, D. J., Goodwin, B. J., Whitehead, J. R ., & Romanick, M. A. (2013). A p rospective 
+study of injury affecting competitive collegiate s wimmers. Research in Sports Medicine , 
+21(2), 111 –123.  
+de Almeida, M. O., Hespanhol, L. C., & Lope s, A. D. (2015). Prevalence of musculoskeletal pain 
+among sw immers in an elite national t ournamen t. International Journal of Sports Physical 
+Therapy , 10(7), 1026 –34.  
+Du, T., Narita, I., & Yanai, T. (2016). Three -dimensional torso motion in tethered front crawl 
+stroke and its implications on low back pain. Journal of Applied Biomechanics , 32(1), 50–58. 
+http://doi.org/10.1123/jab.2015 -0024  
+Engebretsen, L., Steffen, K., Alonso, J. M., Aubry, M., Dvorak, J., Junge, A., … Wilkinson, M. 
+(2013). Sports injuries and illnesses during the London Summer Olympic Games 2012. British 
+Journal of Sports Medicine , 44(11), 772 –780. http://doi.org/10.1136/bjsm.2010.076992  
+Folkvardsen, S., Magnussen, E., Karppinen, J., Auvinen, J., Larsen, R. H., Wong, C., & Bendix, T. 
+(2016). Does elite swimming accelerate lumbar intervertebral disc degeneration and 
+increase low bac k pain? A cross -sectional comparison. European Spine Journal , 25(9), 2849 –
+2855. http://doi.org/10.1007/s00586 -016-4642 -x 
+Franchina, M., Yazar, S., Booth, L., Wan, S., Cox, K., Kang, M., … Mackey, D. (2015). Swimming 
+goggle wear is not associated with an in creased prevalence of glaucoma. British Journal of 
+Ophthalmology , 99, 255 –7. http://doi.org/10.1136/bjophthalmol -2014 -305498  
+Hangai, M., Kaneoka, K., Hinotsu, S., Shimizu, K., Okubo, Y., Miyakawa, S ., … Ochiai, N. (2009). 
+Lumbar intervertebral disk degener ation in a thletes. American Journal of Sports Medicine , 
+37(1), 149 –155. http://doi.org/10.1177/0363546508323252  
+Hibberd, E. E., & Myers, J. B. (2013). Practice habits and attitudes and behaviors concerning 
+shoulder pain in high school competitive club swim mers. Clinical Journal of Sport Medicine , 
+0(0), 1 –6. http://doi.org/10.1097/JSM.0b013e31829aa8ff  
+Hill, L., Collins, M., & Posthumus, M. (2015). Risk factors for shoulder pain and injury in 
+swimmers: A critical systematic review. The Physician and Sportsmed icine , 
+3847 (September), 1 –9. http://doi.org/10.1080/00913847.2015.1077097  
+Kerr, Z. Y., Baugh, C. M., Hibberd, E. E., Snook, E. M., Hayden, R., & Dompier, T. P. (2015). 
+Epidemiology of National Collegiate Athletic Association men’s and women’s swimming and 
+diving injuries from 2009/2010 to 2013/2014. British Journal of Sports Medicine , 50(7), 1 –8. 
+http://doi.org/10.1136/bjsports -2014 -094423  
+Knobloch, K., Yoon, U., Kraemer, R., & Vogt, P. M. (2008). 200 -400 m breaststroke event 
+dominate among knee overuse inj uries in elite swimming athletes. Sportverletzung -
+Sportschaden , 22(4), 213 –219. http://doi.org/10.1055/s -2008 -1027987  
+Lee, D., Youk, A., & Goldstein, N. A. (1999). A meta -analysis of swimming and water precautions. 
+The Laryngoscope , 109(4), 536 –40. http:// doi.org/10.1097/00005537 -199904000 -00003  
+Lynch, S. S., Thigpen, C. a, Mihalik, J. P., Prentice, W. E., & Padua, D. (2010). The effects of an 
+exercise intervention on forward head and rounded shoulder postures in elite swimmers. 
+British Journal of Sports Me dicine , 44(5), 376 –381. 
+http://doi.org/10.1136/bjsm.2009.066837  
+Magno E Silva, M., Bilzon, J., Duarte, E., Gorla, J., & Vital, R. (2013). Sport injuries in elite 
+paralympic swimmers with visual impairment. Journal of Athletic Training , 48(4), 493 –498. 
+http://doi.org/10.4085/1062 -6050 -48.4.07  
+McKenna, L., Straker, L., & Smith, A. (2012). Can scapular and humeral head position predict 
+shoulder pain in adolescent swimmers and non -swimmers? Journal of Sports Sciences , 
+30(16), 1767 –76. http://doi.org/10.1080 /02640414.2012.718092  
+Mohseni -Bandpei, M. A., Keshavarz, R., Minoonejhad, H., Mohsenifar, H., & Shakeri, H. (2012). 
+Shoulder pain in iranian elite athletes: The prevalence and risk factors. Journal of 
+Manipulative and Physiological Therapeutics , 35(7), 541 –548. 
+http://doi.org/10.1016/j.jmpt.2012.07.011  
+Moualed, D., Masterson, L., Kumar, S., & Donnelly, N. (2016). Water precautions for prevention 
+of infection in children with ventilation tubes (grommets). Cochrane Database of Systematic 
+Reviews , 2016 (1). htt p://doi.org/10.1002/14651858.CD010375.pub2  
+Mountjoy, M., Junge, A., Alonso, J. M., Engebretsen, L., Dragan, I., Gerrard, D., … Dvorak, J. 
+(2010). Sports injuries and illnesses in the 2009 FINA World Championships (Aquatics). 
+British Journal of Sports Medic ine, 44(7), 522 –527. 
+http://doi.org/10.1136/bjsm.2010.071720  
+Mountjoy, M., Zorzoli, M., Pipe, A., Garnier, P. Y., Vouillamoz, M., Dvorak, J., … Derman, O. 
+(2015). Competing with injuries: injuries prior to and during the 15th FINA World 
+Championships 2013 (aquatics). British Journal of Sports Medicine , 26(1), 37 –43. 
+http://doi.org/10.1136/bjsports -2014 -093991  
+Noormohammadpour, P., Rostami, M., Mansournia, M. A., Farahbakhsh, F., Pourgharib Shahi, M. 
+H., & Kordi, R. (2016). Low back pain status of female uni versity students in relation to 
+different sport activities. European Spine Journal , 25(4), 1196 –1203. 
+http://doi.org/10.1007/s00586 -015-4034 -7 
+Pollard, K. A., Gottesman, B. L., Rochette, L. M., & Smith, G. A. (2013). Swimming injuries treated 
+in US EDs: 19 90 to 2008. American Journal of Emergency Medicine , 31(5), 803 –809. 
+http://doi.org/10.1016/j.ajem.2013.01.028  
+Ristolainen, L., Heinonen, A., Turunen, H., Mannström, H., Waller, B., Kettunen, J. A., & Kujala, U. 
+M. (2010). Type of sport is related to injury  profile: a study on cross country skiers, 
+swimmers, long -distance runners and soccer players. A retrospective 12 -month study. 
+Scandinavian Journal of Medicine & Science in Sports , 20(3), 384 –393 10p. 
+http://doi.org/10.1111/j.1600 -0838.2009.00955.x  
+Sambanis, M. (2013). A study of musculoskeletal injuries in Greek male and female s wimmers. 
+Journal of Novel Physiotherapies , 3(2), 2 –4. http://doi.org/10.4172/2165 -7025.1000140  
+Sein, M. L., Walton, J., Linklater, J., Appleyard, R., Kirkbride, B., Kuah, D. , & Murrell, G. A. C. 
+(2010). Shoulder pain in elite swimmers: primarily due to swim -volume -induced 
+supraspinatus tendinopathy. Br J Sports Med , 44, 105 –113. 
+http://doi.org/10.1136/bjsm.2008.047282  
+Struyf, F., Tate, A., Kuppens, K., Feijen, S., & Michener,  L. A. (2017). Musculoskeletal dysfunctions 
+associated with swimmers’ shoulder. British Journal of Sports Medicine , 51(10), 775 –780. 
+http://doi.org/10.1136/bjsports -2016 -096847  
+Swenson, D. M., Collins, C. L., Best, T. M., Flanigan, D. C., Fields, S. K., & Comstock, R. D. (2013). 
+Epidemiology of knee injuries among U.S. high school athletes, 2005/2006 -2010/2011. 
+Medicine and Science in Sports and Exercise , 45(3), 462 –469. 
+http://doi.org/10.1249/MSS.0b013e318277acca  
+Tate, A., Turner, G. N., Knab, S. E., Jorgensen, C., Strittmatter, A., & Michener, L. A. (2012). Risk 
+factors associated with shoulder pain and disability across the lifespan of competitive 
+swimmers. Journal of Athletic Train ing, 47(2), 149 –158. Retrieved from 
+http://www.ncbi.nlm.nih.gov/pubmed/22488280  
+Venancio, B. O., & Tacani, P. M. (2012). Pain Prevalence in Swimming Athletes of Sao Caetano Do 
+Sul. Revista Brasileira de Medicina Do Esporte , 18(6), 394 –399. 
+http://doi.org/http://dx.doi.org/10.1590/S1517 -86922012000600010  
+Walker, H., Gabbe, B., Wajswelner, H., Blanch, P., & Bennell, K. (2012). Shoulder pain in 
+swimmers: A 12 -month prospective cohort study of incidence and risk factors. Physical 
+Therapy in Sport , 13(4), 243 –249.  
+Wanivenhaus, F., Fox, A. J.  S., Chaudhury, S., & Rodeo, S. A. (2012). Epidemiology of injuries and 
+prevention strategies in competitive swimmers. Sports Health , 4(3), 246 –51. 
+http://doi.org/10.1177/1941738112442132  
+Wolf, B. R., Ebinger, A. A. E., Lawler, M. P., & Britton, C. L. (200 9). Injury patterns in Division I 
+collegiate swimming. American Journal of Sports Medicine , 37(10), 2037 –42. 
+http://doi.org/10.1177/0363546509339364  
+Zaina, F., Donzelli, S., Lusini, M., Minnella, S., & Negrini, S. (2015). Swimming and spinal 
+deformities: A  cross -sectional study. Journal of Pediatrics , 166(1), 163 –167. 
+http://doi.org/10.1016/j.jpeds.2014.09.024  
+ 
+ 

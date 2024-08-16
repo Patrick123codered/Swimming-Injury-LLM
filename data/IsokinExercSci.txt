@@ -1,0 +1,312 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/273657031
+Isokinetic Evaluation in Knee Muscles Elite Swimmers: A Comparison
+between Symmetric and Asymmetric Swimming Styles
+Article    in  Medicine and Scienc e in Sports and Ex ercise  · May 2011
+DOI: 10.1249/01.MS S.0000400992.13008.a4
+CITATIONS
+8READS
+820
+4 author s:
+Leonar do L uiz Barr etti Sec chi
+Univ ersidade F eder al de São Carlos
+16 PUBLICA TIONS    75 CITATIONS    
+SEE PROFILE
+Emmanuel Gomes Ciolac
+São P aulo St ate Univ ersity
+143 PUBLICA TIONS    2,595  CITATIONS    
+SEE PROFILE
+Mavi Diehl Mur att
+Univ ersity of São P aulo
+8 PUBLICA TIONS    100 CITATIONS    
+SEE PROFILE
+Julia Maria D' Andr ea Gr eve
+Univ ersity of São P aulo
+298 PUBLICA TIONS    4,255  CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Leonar do L uiz Barr etti Sec chi on 31 Januar y 2019.
+The user has r equest ed enhanc ement of the do wnlo aded file.
+Isokinetics and Exercise Science 19 (2011) 261–264 261
+DOI 10.3233/IES-2011-0422
+IOS Press
+Knee muscles isokinetic evaluation in short
+distance elite swimmers: A comparisonbetween symmetric and asymmetric
+swimming styles
+Leonardo L. B. Secchi∗, Mavi Diehl Muratt, Emmanuel G. Ciolac and J ´ulia M. D. Greve
+Institute of Orthopedics and Traumatolog y, School of Medicine, University of S ˜ao Paulo, Laboratory of
+Kinesiology, S ˜ao Paulo, Brazil
+Abstract .Objective: To compare knee extension- ﬂexion isokinetic performance between elite swimmers of simultaneous (SS –
+butter ﬂy and breaststroke) and alternated swimming (AS – front crawl and backstroke) styles.
+Method: Nineteen short distance elite swimmers (50 m, 100 m and 200 m events), divided into SS ( n=7; 23.3 ±5.6 years) and
+AS (n=12; 22.6 ±1.4 years) were tested for knee extension- ﬂexion isokinetic strength at 60◦/s (4 repetitions) and endurance
+at 300◦/s (30 repetitions).
+Results: There were no signi ﬁcant differences between groups or legs for concentric knee extension and ﬂexion variables.
+However, the agonist/antagonist (HQ) ratio was lower ( p=0.032) in AS than SS group for both legs.
+Conclusion: These results indicate the need for training programs to imp rove strength balance between hamstrings and quadriceps
+muscles in short distance elite swimmers.
+Keywords: Isokinetic evaluation, knee, muscle strength, swimming
+1. Introduction
+Swimming performance depends on optimizing
+propulsion and minimizing the opposing factors [1].Muscle power and endurance are among the main fac-
+tors that contribute to maximizing propulsion [2,3]. In
+this context, the shoulder complex has been previous-ly studied, in relation to muscle performance [4], itsbiomechanics [5] and injury incidence [6].
+Although the repetitive and continuous knee ﬂexion
+and extension is also important for swimming propul-sion, knee muscles performance have rarely been ex-
+amined among swimmers [1,7,8]. Moreover, there is
+no study to date comparing knee muscles performanceamong elite swimmers of different styles.
+∗Address for correspondence: Leonardo L.B.Secchi, Instituto de
+Ortopedia e Traumatologia, Laborat ´orio de Estudos do Movimento,
+Rua Dr. Ov ´ıdio Pires de Campos, 333 Ala C, Cerqueira C ´esar, CEP:
+05403-010 S ˜ao Paulo-SP, Brasil. E-mail: leob ﬁsio@usp.br.Therefore, it was the purpose of this investigation
+to compare knee extension- ﬂexion isokinetic perfor-
+mance between elite swimmers of simultaneous styles(SS – butter ﬂy and/or breaststroke) and alternated styles
+(AS – front crawl and/or backstroke).
+2. Methods
+2.1. Experimental design and subjects
+The present study used a crossectional design com-
+paring muscle isokinetic evaluation data of two groups
+of short distance young swimmers (50 m, 100 m and200 m events). Nineteen international or national eliteswimmers were recruited in national competitions, andwere divided into two groups on the basis of their swim-ming style specialization: SS (butter ﬂy(n=4) or
+breaststroke ( n=3) swimming styles) and AS (front
+crawl ( n=9) or backstroke ( n=3) swimming styles).
+ISSN 0959-3020/11/$27.50 2011 – IOS Press and the authors. All rights reserved
+262 L.L.B. Secchi et al. / Isokinetic evaluation in elite swimmers
+All volunteers were healthy and right leg dominant, did
+not have any injury for the last six month, and were in
+the pre-competition stage of their training. Although
+volunteers also used swimming styles different than
+their specialty during some phases of training session,most of the speci ﬁc training regimen consisted of their
+swimming specialty. Resistance exercise was included
+in the training regimen of all volunteers (for at least
+three years), and similar programs were performed by
+SS and AS groups during the season (including type,
+volume and intensity of exercises). Subjects’ charac-
+teristics and current training status are displayed in Ta-ble 1. There were no signi ﬁcant differences between the
+groups for these variables. The SS and AS groups per-
+formed muscle isokinetic evaluation at least two days
+after last competition or intensive training session, and
+were adequately familiarized with testing procedures.The research was approved by the ethics committee at
+our institution, and all subjects gave written informed
+consent after a thorough explanation of the study design
+and protocol.
+2.2. Isokinetic evaluation
+Knee extension- ﬂexion (concentric-concentric) isok-
+inetic evaluation was performed using a Biodex Multi-
+Joint System 3 dynamometer (Biodex Medical
+TM,
+Shirley, NY , USA). After a standardized warm-up, sub-
+jects were positioned according to the manufacturer’s
+manual (seated with arms hanging against the body,
+hands holding the lateral handles while strapped for
+stabilizing the trunk and thigh). Gravitational correc-tion was performed at 40
+◦of knee ﬂexion. Isokinet-
+ic testing at 60 and 300◦/s were used for data collec-
+tion. Subjects performed three submaximal repetitions
+at each angular speed prior to data collection. Five and
+thirty maximal repetitions were performed at 60 and
+300◦/sec, respectively. A 60-s rest period was used
+between velocities. Consistent verbal commands weregiven during the tests. All tests were conducted by
+the same experienced exam iner and were performed
+bilaterally.
+Peak torque (PT) and PT-based HQ ratio (heretofore
+the ratio) were the variables assessed at 60
+◦/s. The
+peak value of knee extension and ﬂexion across the
+ﬁve repetitions was considered the outcome measure.
+Total work and work fatigue index were the variables
+assessed at 300◦/s. Total work correspond to the work
+performed throughout the thirty repetitions measured inJoules. Work fatigue index was calculated as 1 – (mean
+peak torque from 1
+st10 repetitions – mean peak torque
+from the last 10 repetitions) / (mean peak torque from
+1st10 repetitions), and was reported as percentage.2.3. Statistical analyses
+All data are reported as means ±standard devia-
+tion. The SPSS 12.0 for Windows (SPSS Inc, Chica-
+go, IL, USA) was used for the statistical analysis.The Kolmogorov–Smirnov test was applied to ensure
+a Gaussian distribution of the data. Unpaired Student
+ttest was used to analyze differences in the subjects’
+characteristics and current tr aining status. Inter- and
+intra-group (right vs.left leg) comparisons of the isoki-
+netic variables were performed using a two-way ANO-
+V A. Bonferroni post hoc analysis was used to deter-
+mine signi ﬁcance of data that was indicated by two-
+way ANOV A. The signi ﬁcance level was set at P<
+0.05.
+3. Results
+Means and standard deviations of peak torque
+for concentric knee extension and ﬂexion and ago-
+nist/antagonist ratio at angular velocity of 60
+◦/s, and
+total work and work fatigue index at angular velocity
+of 300◦/s, for both right and left legs of both SS and AS
+group are presented in Table 2. The two-way ANOV A
+did not indicate signi ﬁcant differences between groups
+or between legs for the PTs, total work and work fa-
+tigue index. However, the ratio was lower in AS than
+SS group for both right and left legs (P =0.034).
+4. Discussion
+The main result of the present study was that SS
+group displayed a greater knee HQ ratio than AS group,
+although no signi ﬁcant difference was observed in the
+other variables. To the best of our knowledge, this is theﬁrst study to compare isokinetic muscle performance
+between competitive elite swimmers of different styles.
+Swimming (short distance events) is a power-limited
+sport [2,9], and the power generation during sprint
+swimming is dependent on the maximal force produc-tion and velocity potential of muscles’ contractile el-
+ements [10]. However, the ability to maintain a high
+percent of peak power associated with a good tech-nique and mechanical ef ﬁciency may be a more valu-
+able attribute [10]. Besides upper limb and trunk mus-
+cle performance, lower lim b muscular performance is
+also critical for reaching and maintaining fast swim-
+ming speeds but this has rarely been studied amongswimmers. Speci ﬁcally, knee extension and/or ﬂex-
+L.L.B. Secchi et al. / Isokinetic evaluation in elite swimmers 263
+Table 1
+Subjects characteristics
+Variable Symmetric swimming Asymmetric swimming
+N (male/female) 6/1 10/2Age (years) 23.3 ±5.6 20.1 ±2.8
+BMI (Kg/m
+2) 23.2±2.5 22.6 ±1.4
+Speci ﬁc training characteristics
+Frequency (days.wk−1)5 . 1 ±0.3 5.2 ±0.4
+Vo l u m e ( h . d ay−1)5 . 7 ±0.5 5.8 ±0.4
+Relative timing at specialty (%) 64.6±7.9 76.7 ±15.0
+Resistance training characteristics
+Frequency (days.wk−1)2 . 2 ±0.4 2.1 ±0.3
+Exercises/training (N) 6 ±06 ±0
+Sets/exercise (N) 2 ±02 ±0
+Table 2
+Isokinetic evaluation results (mean ±standard deviation) of the symmetric swimming and asymmetric swimming
+groups
+Variable Symmetric swimming Asymmetric swimming
+Right leg Left leg Right leg Left leg
+Knee extension
+Peak torque 60◦/sec (Nm) 229.5 ±59.6 223.9 ±59.1 215.4 ±59.4 204.2 ±59.4
+Total work 300◦/sec (J) 1798.7 ±463.6 1731.7 ±464.8 2128.5 ±842.0 1954.9 ±601.8
+Work fatigue 300◦/sec (%) 39.3 ±9.8 40.5 ±8.4 42.2 ±10.2 42.7 ±9.4
+Knee ﬂexion
+Peak torque 60◦/sec (Nm) 118.8 ±33.2 117.5 ±28.8 103.2 ±31.5 96.0 ±27.5
+Total work 300◦/sec (J) 941.5 ±268.2 916.7 ±292.4 1139.8 ±466.4 986.8 ±380.8
+Work fatigue 300◦/sec (%) 49.0 ±17.8 46.0 ±14.2 46.9 ±8.0 49.5 ±11.2
+Agonist /Antagonist ratio
+Peak torque 60◦/sec (%) 52.2 ±5.8 53.5 ±6.0 46.5 ±4.7 * 47.8 ±3.9 *
+*Signi ﬁcant different from symmetric swimming group ( P< 0.05).
+ion PT has served as the primary outcome measure for
+comparing swimmers of different ages [1], swimmersof different distance events [8], and swimmers and soc-cer players [7], but not between swimmers of differentswimming styles.
+Knee extension PT at angular velocities varying from
+48 to 240
+◦/s was compared among thirty elite long
+(400 m and longer events), middle (200 m and 400 mevents) and short (events shorter than 200 m) distanceswimmers. Signi ﬁcantly lower PT values were found in
+long compared to short distance swimmers, while mid-dle distance swimmers displayed intermediated val-ues [8]. However, the previous study did not analyzethe HQ ratio, and did not compare knee extension PTamong swimmers of different styles. When knee ex-tension and ﬂexion PT at 60, 120 and 180
+◦/s were com-
+pared among swimmers, soccer players and physically
+active controls, lower PTs were found in controls inall velocities, but not between swimmers and soccerplayers [7].
+In the present study, no signi ﬁcant difference in the
+PTs (60
+◦/s), total work (300◦/s) and work fatigue index
+(300◦/s) were found between SS and AS group. How-
+ever, SS group displayed greater levels of HQ ratio thanAS group. Differences in the biomechanics of swim-
+ming may account, at least in part, for the observed dif-ference in this ratio. In the symmetric swimming style,knee extension and ﬂexion are performed simultane-
+ously. In the butter ﬂy, quadriceps and hamstring per-
+formance are important for forward propulsion by kneeand hip extension and ﬂexion during trunk undulation,
+and in the breaststroke the quadriceps and hamstringactivity are mainly required at the end of the kick afterhip adduction and internal rotation [9]. On the otherhand, a fast and powerful knee extension and ﬂexion,
+performed alternately between the legs, is importantfor forward propulsion in the freestyle and backstrokestyles.
+One can argue that the reduced ratio in AS group
+may be a result of other training variables not relat-
+ed to swimming style, as for example the practice of
+resistance exercise or different training levels duringthe isokinetic evaluation. However, all athletes were insimilar training stage when isokinetic evaluation wasperformed, and performed similar protocols of resis-tance training as part of their physical conditioningtraining. Moreover, the resistance exercise was includ-ed in their training regim en for at least three years,
+264 L.L.B. Secchi et al. / Isokinetic evaluation in elite swimmers
+and similar programs were performed by SS and AS
+groups during the seasoning type, volume and intensityof exercises.
+Although the highest rate of sports related injury
+in elite swimmers occur in the shoulder, knee injuriesare frequently found in this population [11,12]. Knee
+pain ranks second to shoulder pain as a common com-
+plaint in competitive swimmers, and may accompanyall strokes [13]. Although several factors may predis-
+pose to knee pain and injury in elite swimmers, imbal-
+ance between hamstring and quadriceps strength (PT-based agonist/antagonist ratio) may have important im-
+plications [13–16].
+The HQ ratio of healthy knees has generally been
+varied from 55% to 77% at 60
+◦/s, with lower levels as-
+sociated with greater prevalence of injury [17]. In this
+context, the low ratio, observed mainly in AS group,
+suggests that swimmers may need a resistance exercise
+training program designed to improve strength balancebetween hamstrings and quadriceps muscle, although
+the relationship between this ratio and knee injury in
+swimmers, as well as the comparison of knee injuryprevalence between SS and AS swimmers, needs fur-
+ther investigation.
+It is also important to note that although the ratio was
+higher in SS than AS group, both groups displayed low
+levels of this variable when compared to both nonath-
+letes and athletes of other sports [17,18]. Because theselow HQ scores are probably a function of swimming
+biomechanics, one may ask whether an improved bal-
+ance may be negative for sports-speci ﬁc performance,
+although it may be positive for injury prevention. Fu-
+ture studies addressed to this issue are needed to answer
+this question.
+In summary, butter ﬂy and breaststroke short distance
+elite swimmers displayed greater knee muscles HQ ra-
+tio than front crawl and backstroke short distance eliteswimmers. No signi ﬁcant differences between groups
+were observed in the other isokinetic variables ana-
+lyzed. These results suggest the need of designing a re-
+sistance exercise training program to improve strength
+balance between hamstrings and quadriceps muscles offront crawl and backstroke short distance elite swim-
+mers.
+Acknowledgements
+We especially thank the La boratory of Kinesiolo-
+gy – Institute of Orthopedic and Traumatology. We
+also thank the coach Sergio Onhas Marques and mem-
+bers of the Athletic University of S ˜ao Paulo and Med
+Swimming and Running.References
+[1] G.D. Wells, J. Schneiderman-Walker and M. Plyley, Normal
+physiological characteristics of elite swimmers, Ped Exerc Sci
+172006, 30–52.
+[2] J.A. Hawley, M.M. Williams, M.M. Vickovic and P.J. Hand-
+cock, Muscle power predicts freestyle swimming perfor-
+mance, Br J Sports Med 26(1992), 151–155.
+[3] K. Wakayoshi, L.J. D’Acquisto, J.M. Cappaert and J.P. Troup,
+Relationship between oxygen uptake, stroke rate and swim-ming velocity in competitive swimming, Int J Sports Med 16
+(1995), 19–23.
+[4] G. Gozlan, L. Bensoussan, J.M. Coudreuse, J. Fondarai,
+V . Gremeaux, J.M. Viton and A. Delarque, Isokinetic dy-
+namometer measurement of shoulder rotational strength inhealthy elite athletes (swimming, volley-ball, tennis): com-parison between dominant and nondominant shoulder, Ann
+Readapt Med Phys 49(1) (Feb 2006), 8–15.
+[5] M. Pink, F.W. Jobe, J. Perry , J. Kerrigan, A. Browne and
+M.L. Scovazzo, The normal shoulder during the butter ﬂys w i m
+stroke. An electromyographic a nd cinematographic analysis
+of twelve muscles, Clin Orthop Relat Res 228(1993), 48–50.
+[6] M. Cohen, R.J. Abdalla, B. Ejn isman, S. Schubert, A.D. Lopes
+and K.S. Mano, Incid ˆencia de dor no ombro em nadadores
+brasileiros de elite, Rev Bras Ortop 33(1998), 930–932.
+[7] B. Ozcaldiran, Knee Flexibility and Knee muscles isokinetic
+strength in swimmers and soccer players, Isokin Exerc Sci 16
+(2008), 55–59.
+[8] E.S. Gerard, V .J. Caiozzo, B.D. Rubin, C.A. Prietto and D.M.
+Davidson, Skeletal muscle pro ﬁles among elite long, middle,
+and short distance swimmers, Am J Sports Med 14(1986),
+77–82.
+[9] D.L. Costill and J. Miller, Nutrition for endurance sport: Car-
+bohydrate and ﬂuid balance, Int J Sports Med 1(1980), 2–14.
+[10] J.P. Troup, The physiology and biomechanics of competitive
+swimming, Clin Sports Med 18(1999), 267–285.
+[11] R.E. Sallis, K. Jones, S. Sunshine, G. Smith and L. Simon,
+Comparing Sports Injuries in Men and Women, Int J Sports
+Med 22(2001), 420–423.
+[12] K.A. Kenal and L.D. Knapp, Rehabilitation of injuries in com-
+petitive swimmers, Sports Med 22(1996), 337–347.
+[13] S.A. Rodeo, Knee pain in competitive swimming, Clin Sports
+Med 18(1999), 379–387.
+[14] P. Renstrom, S.W. Arms, T.S. Stanwyck, R.J. Johnson and
+M.H. Pope, Strain within the anter ior cruciate ligament during
+hamstring and quadriceps activity, Am J Sports Med 14(1986),
+83–87.
+[15] K.R. Kaufman, K.N. An, W.J Litchy, B.F. Morrey and E.Y .
+Chao, Dynamic joint forces during knee isokinetic exercise,Am J Sports Med 19(1991), 305–316.
+[16] S. Hirokawa, M. Solomonow, Y . Lu, Z.P Lou and R.
+D’Ambrosia, Anteriorposterior and rotational displacement of
+the tibia elicited by quadriceps contraction, Am J Sports Med
+20(1992), 299–306.
+[17] A.S.A.P. Terreri, J.M.D. Greve and M.M. Amatuzzi, Avaliac ¸˜ao
+isocin ´etica no joelho do atleta, Rev Bras Med Esporte 5(2001),
+170–174.
+[18] T.G. Grace, E.R. Sweetser, M.A. Nelson, L.R. Ydens and B.J.
+Skipper, Isokinetic muscle imba lance and knee joint injuries,
+J Bone Joint Surg 66(1984), 734–740.
+View publication stats

@@ -1,0 +1,835 @@
+ 
+    
+     This file was dowloaded from the institutional repository Brage NIH - brage.bibsys.no/nih  
+ 
+ 
+  
+ 
+ 
+Mountjoy, M., Junge, A., Al onso, J. M., Engebretsen, L., Dragan, I., Gerrard,  
+D., Kouidri, M., Luebs, E., Shahpar, F.  M., Dvorak, J. (2010) Sports 
+injuries and illnesses in the 2009 FINA World Championships 
+(Aquatics). British Journal of Sports Medicine, 44,  522-527. 
+    
+ 
+ 
+Dette er siste tekst-versjon av arti kkelen, og den kan in neholde ubetydelige 
+forskjeller fra forlagets pdf-versjon. Forlagets pdf-versjon finner du på 
+bjsm.bmj.com: http://dx.doi.org /10.1136/bjsm.2010.071720     
+ 
+ 
+ 
+ This is the final text version of the article, and it may contain insignificant 
+differences from the journal's pdf versi on. The original publication is available 
+at bjsm.bmj.com: http://dx.doi.org/10.1136/bjsm.2010.071720
+           
+  
+ 
+ 
+    
+  
+Main Text 
+INTRODUCTION 
+Aquatic sports are enjoyed around the world from th e recreational level to the elite level.  FINA 
+(Federation Internationale de  Natation), which was founded in 1908, was one of the original 
+sports in the modern Olympic Games with th e inclusion of swimmi ng in 1896 (1). FINA has 
+global representation with a to tal of 202 member National Fede rations. FINA has organized 
+multidisciplinary aquatic World Championships since 1973 which are now held biannually. The 
+13th FINA World Championships held in Rome in  2009 was the largest aquatic event in the 
+world with 2592 athletes part icipating from 172 countries.  
+Injury surveillance during elite even ts is a duty of care to ensure safety for future athletes (2, 3). 
+FINA is increasingly emphasizing the protection of the health of the athlete. FINA Medical 
+Rules: Preamble Item 1.0: “FINA, in accomplis hing its mission, should take care that sport is 
+practised without danger to the he alth of the athletes ... To th at end, it takes the measures 
+necessary to preserve the health of athletes and to minimise the risks of physical injury.” (4). 
+Although the aquatic sports enjoy worldwide participation, litt le is known of the incidence of 
+injury for its participants at the elite level. Injury surveillance studies  have been conducted in 
+single sport events including football ( 5, 6, 7, 8, 9, 10), rugby (11, 12, 13, 14), handball (15), 
+athletics (16), karate (17, 18, 19) , ice hockey (20, 21), volleyball (22), beach volleyball (23), 
+cycling (24), and tennis (25). Injury surveillance studies have occurred in large multisport events 
+at the 2004 Athens Olympic Games for team s ports and for all sports at the 2008 Beijing 
+Olympic Games (26, 27). To the authors’ knowledge , no studies have been published on injuries 
+incurred during major events in elite aqua tics. One prospective five-year study on NCAA 
+collegiate swimmers has been published in the sc ientific literature on injury incidence (28). 
+Injury prevalence in aquatic sports is publis hed from the 2008 Beijing Olympic Games (27) and 
+for water polo in 2004 Athens Olympic Games (26). 
+Although there are a limited numb er of publications on illness su rveillance data at elite multi-
+sport events (29-31), aquatic specific illness incidence does not exist. Based on a previously 
+standardized injury reporting system by the Fe deration International de Football Association 
+(FIFA) in football (6-9), the IOC implemente d an injury surveillance program during the 2004 
+Athens Olympic Games for team sports (26) and the 2008 Beijing Olympic Games for all sports 
+(27, 32). In follow-up of the 2008 Beijing Olympic Games, the IOC decided to add illness 
+surveillance for the 2010 Vancouver Winter Olympi c Games. FINA conducted this current study 
+to establish the feasibility of  illness surveillance component as a pilot project for the 2010 
+Vancouver Winter Olympic Games. 
+The objectives of the current study were to record and analyze injuries and illnesses incurred 
+during the 13th FINA World Championships 2009.  
+METHODS 
+Implementation 
+In this study, the IOC Injury Surveillance system  (32) was implemented with the extension to 
+also survey illness.  All five disciplines of the 13th FINA World Championships 2009 
+(swimming, water polo, diving,  synchronized swimming, open water swimming) were included 
+as the study population. In preparation for the study, an information booklet was circulated one 
+month in advance to the medical representative s of all participating countries. A site visit 
+occurred one month prior to th e event by a member of the st udy group (MM) to educate the 
+medical team of the Local Organizing Committee (LOC ) on the logistics of the study.  On-site in 
+Rome, a voluntary information mee ting was held for the medical teams of the visiting countries 
+two days prior to the commencement of the Ch ampionships. These information sessions included 
+instructions on completion and submission of th e Reporting Forms.  Instructional booklets and 
+Reporting Forms were distribu ted. The team physicians, or in their absence, a team 
+physiotherapist were asked to daily report on th e occurrence (or non-occu rrence) of all newly 
+incurred injuries and illnesses. Reporting Forms could be submitted at a confidential mailbox 
+adjacent to swimming pools. Reporting Forms we re also accepted by fax and by electronic 
+submission.  Additional reporting forms were co mpleted daily by the LOC medical team from 
+each of the medical stations at the venues. Comp liance was encouraged by regular visits to the 
+national federation and LOC medical staff by memb ers of the FINA Sports Medicine Committee.  
+Definitions of Injury and Illness 
+The definition of injury was the same definition as used in the IOC Inju ry Surveillance system 
+(32), thus allowing comparison wi th previous studies (26, 27). An injury was defined as any 
+musculoskeletal complaint and/or concussion newly incurred due to competition and/or training 
+during the 13th FINA World Championships that received medical attention regardless of the 
+consequences with respect to absence from co mpetition and/or training. Pre-existing injuries 
+were not included unless there was an acute exacerbation during the time period of the Championships. Injuries occurri ng not during training or competi tion were also excluded.   
+The definition of an illness was developed based on the injury definition to ensure compatibility with the existing injury protocol and ease of understanding for the participating physicians. An 
+illness was defined as any physical complaint (not  related to injury) newly incurred during the 
+13th FINA World Championships that  received medical attention re gardless of the consequences 
+with respect to absence from competition or training. Chronic pre-existing illnesses were not 
+included unless there was an exace rbation requiring medical  attention during the Championships.   
+Injury and Illness Report Form 
+The injury part of the report form was identical in design to the IOC Injury Surveillance System 
+utilized during the 2008 Beiji ng Olympic Games (27, 32,). The following information was 
+required for documentation: athlete’s accreditation number, sport/ev ent, heat/training, date and 
+time of injury, injured body part/s ide, type and cause of injury, and estimated duration of the 
+subsequent absence from competition and/or tr aining. The illness part of the report form was 
+located directly below the injury part on the same page. The following information was required 
+for documentation: athlete’s accreditation number,  sport/event, diagnosis, date, main symptoms, 
+cause of illness, and estimated duration of the subsequent absence from competition and/or 
+training. Definitions of injury and illness parameters were stated on the back of the form. Examples of injuries and illnesses to be incl uded on the report form were illustrated in the 
+Instructional Booklet. The inju ry and illness report form wa s available in five languages 
+(English, French, Spanish, Italian, and Russian). 
+Confidentiality & Ethical Approval 
+Completed injury and illness report forms were stored during the Champi onships in a locked 
+storage cabinet. The accreditation number of the at hlete was used to ensure  that duplication of 
+reporting was avoided from the team doctor a nd the LOC physicians, and to facilitate the 
+determination of age and gender of the athlete from the FINA database. After the 
+Championships, the forms were made anonymous to ensure that no individu al athlete or National 
+Federation could be identified. Ethical approval was obtained from the Ethical Committee of the 
+Oslo University School of Medicine.   
+Data analysis  
+All data were processed using Excel and SPSS. Response rate, coverage and incidences were 
+calculated in accordance with the IOC approach fo r injury surveillance (32). Statistical methods 
+applied were descriptive statistics, frequencies and cross-tabulations. For incidence rates, 95% 
+confidence intervals (CIs) were calculated as th e incidence 6 1.96 times the incidence divided by 
+the square root of the number of injuries. 
+Results   
+Response rate and coverage  
+A total of 2592 athletes from  173 registered countries  participated in the 13th FINA World 
+Championships. The medical staff from 73 countri es (42.2%) with a total of 1745 athletes 
+(67.3%) participated in  the project and returned at least one report form, resulting in a total of 
+495 report forms. Since some countries did not comp ete in all five disciplines of the FINA World 
+Championships, response rates were cal culated separately (see Table 1).  
+The response rate and coverage of athletes by team physician’s reports were highest for water 
+polo (53.4%) and lowest for swimming (21.8%).  
+Table 1 
+Acute injuries and illnesses were  reported daily by the physicians at the medical stations at the 
+different venues. The majority of injuries ( 140; 82.5%) were reported by the team physicians; 32 
+(17.5 %) injuries were reported by the LOC phys icians. Only one injury was reported by both 
+sources. About three quarters of  the illnesses (n= 133, 72.3%) were reported only by the team 
+physician, one quarter (n= 41, 22.3%) only from venues, and ten (5.4%) by both sources. 
+Frequency and characteristics of injury 
+There were 171 newly incurred acute injuries re ported during the Champions hips; equivalent to 
+an injury rate of 65.6/1000 athletes. Female athlet es had a higher risk of injury (n=88; 68.4 per 
+1000 athletes CI95% 54.1 – 82.7) th an male athletes (n=68; 5 2.1 per 1000 athletes CI95% 39.7 – 
+64.5). The oldest injured athlet e was 37 years old, the youngest 14 (in 57 cases age was missing). 
+Most injuries affected the uppe r extremity (n= 63; 36.8%), followed by the lower extremity (n= 
+47; 27.5%), head/neck (n= 33; 19.3 %) and trunk (n= 28; 16.4%). The most frequently injured 
+body parts were the shoulder (n=25; 14.6%), and head (n=21; 12.3%). The most common types 
+of injury were sprains (n=41; 24.0%) and skin lesions (n=32; 18.7%) (see Table 2). 
+Table 2 
+Approximately half of the injuries (n= 79;  49.7%) were incurred during training or in 
+competition (n=78; 49.1%), two injuries duri ng warm-up for competition (in 12 cases the 
+information was missing). On average, 7.2 in-compe tition injuries per 1000 st arting athletes were 
+reported. In most cases, the injury was caused by overuse (n=61; 37.5%). Other frequent causes 
+of injury were non-contact trauma (n=25; 15. 3%) and contact with a nother athlete (n=24; 
+14.7%).  
+Only 21 of the reported injuries (13.4%, 14 mi ssing values) resulted in  time-loss, which is 
+equivalent to an 8.1 time-loss inju ry per 1000 registered athletes or less than 1% of the registered 
+athletes. The five most severe injuries (estimated absence >=14 days) were a shoulder sprain, a 
+ligamentous rupture in the thoracic spine, a pa tellar subluxation, a tendon rupture in the hand and 
+a broken finger.  
+The general injury risk was highest for divi ng (134.1/1000 female athl etes) and lowest for 
+swimming (21.8/1000 female athletes), the risk of  an in-competition injury was highest in open 
+water swimming (57.7/1000 starts of  female athletes) and water polo (23.8/1000 star ts of male 
+athletes). There were no time-loss injuries  incurred in women’s open water swimming and 
+women’s diving.  Injuries expectin g a time-loss of greater than 14 days occurred in male water 
+polo, swimming and in male open water swimming (see Table 3). While in swimming, 
+synchronized swimming and diving most injuries were incurred during training, in open water 
+swimming, synchronized swimming and water polo the majority of inju ries occurred during 
+competitions.   
+Table 3 
+Frequency and characteristics of illness 
+A total of 184 acute illnesses were reported, which is equivalent to 7.1% of the registered 
+athletes suffering an illness duri ng the Championships. About half of the illnesses affected the 
+respiratory system (n= 91; 50.3%) and a fifth th e gastro-intestinal system (n= 36; 19.9%). The 
+most commonly reported symptom was pain. The most frequent diagnosis affected the upper 
+respiratory tract including “otitis”  (n= 31; 16.8 %) and “tonsillitis” (n= 18; 9.8%). Consequently, 
+the cause was most frequently classified as infection (n= 89; 49.2%) or environmental (n=50; 
+27.6%). 
+Thirty (16.3%) of the illnesses were  expected to result in time-lo ss from sport inferring that only 
+1.2% of all registered athletes incurred a time-loss illness. Ho wever, time-loss illnesses were 
+only reported from swimmers and male water polo players (see Table 3). No illness was 
+expected to result in absence fr om sport longer than a week.  
+Discussion 
+The aim of this study was to register and analy ze all newly incurred injuries and illnesses in 
+athletes participating in the 13th FINA World Championships 2009. To the authors’ knowledge, 
+this is the first injury and illness survey during an international aquatic event. The results indicate 
+that the surveillance system was feasible and a ccepted by both the team physicians and the local 
+medical staff. In all disciplines (except swimmi ng) over 50% of all athletes were covered by the 
+team physicians’ reports. Although medical reports were also received from LOC medical team 
+at the medical stations at each  competitive and training venues, the incidence of injuries and 
+illnesses may be under-estimated due to the response rate indicated above.  
+On average, less than seven percent of all registered athletes incurred injuries during the 
+Championships. This injury rate is consistent with the injury incidence in aquatics reported 
+during the 2008 Beijing Olympic Games (4.25%) (27). The incidence of acute injury in 
+swimming during the World Cham pionships was substantially lower than in a five-year 
+longitudinal study in NCAA Division I Colleges in  the United States (4/1000 exposures) (28), 
+which includes chronic injuries in ad dition to acute new onset injuries.  
+Most injuries incurred duri ng the FINA World Aquatic Cham pionships affected the upper 
+extremity followed by the lower extremity, trunk and head/neck. The most frequently injured body regions were the shoulder, lo w back and head. These findings  are consistent with other 
+published data in swimming where the shoulder wa s the most affected joint. (31, 33, 34, 35, 36) 
+These findings differ however from the 2008 Olympi c Games where about half of the injuries 
+affected the lower extremity (27) and the 2007  IAAF World Championships where 80% of all 
+injuries affected the lower extremity (16). This  discrepancy is not su rprising given the obvious 
+differences in biomechanics between swimming and athletic disciplines. The injury location data 
+obtained in this study illustrate the need in a quatic sport to focus injury prevention programs on 
+the shoulder. 
+In most cases, overuse injuries were reported as the cause of injury (37.5%). Other causes 
+identified were non-contact trauma (15.3%) and c ontact with another athl ete (14.7%). All five 
+time-loss injuries in water polo were caused by contact with another pl ayer, while seven time-
+loss injuries in swimming were caused by overu se and the other five by non-contact trauma. 
+Attention to the prevention of ove ruse injuries should be a focus of aquatic injury prevention 
+programs.  
+In the present study the proportion of in-competit ion injuries (50%) was lower than in team 
+sports during the 2004 Olympic Games (75%) ( 26), in athletics during the 2007 IAAF World 
+Championships (74%) (16) and all sports during th e 2008 Olympic Games (75%) (27). Only 21 
+injuries (13.4%) reported in the present study were expected to  result in time-loss from sport. 
+This proportion is substantially lower than reported from the 2008 Olympic Games (49.6% (27)), 
+the 2007 Athletics World Championships (56% (16)) and the recent FIFA World CupsTM (63-
+67% (8). The data from th e present study indicate that on average,  less than 1% of the registered 
+athletes incurred a time-loss injury during th e FINA World Championships 2009. Even if this 
+result may be an underestimation due to the mode rate response rate, these data would suggest a 
+relative low risk of serious time-loss injury in aquatic sports in comparis on with other sports.  
+During the FINA World Championships in Rome 2009 s lightly more illnesses than injuries were 
+reported. These data contrast with the findings at the 1996 Olympic Games where more athletes 
+were treated for injury (52%) th an for illness (43%) (31). The ove rall rate of illness from the 
+Rome data was 7.1% of registered  athletes. Approximately half of  the illnesses reported affected 
+the respiratory system. These findings are consis tent with prevalence data from other elite 
+sporting events such as the Olympic Game s in 1996 (31), 2000 (29), and 2004 (30). Results 
+published from a prospective analysis of upper resp iratory tract infections  (URI) in athletes 
+during training and in-competition shows that URI are more common in elite athletes than in non-competitive athletes (37). This is thought to be due to the increased risk of infection from such factors as over training-induced “immuno- suppression” and from crowding at competition 
+venues (38). This is supported by  the data from Rome where the highest incidence of illness was 
+reported in swimming with the highest number of  competitors exposed to more crowding in 
+warm-up areas and event call rooms. The most frequent diagnosis of illness was otitis (n=31). 
+Beck (38) reports that ea r infections are common in aquatic s ports relating to exposure to water 
+borne pathogens. No illness was expected to resu lt in absence from sport longer than one week. 
+Very few illnesses were related to exercise induced causes or environmental causes. This is in 
+contrast to the data reported in the literature on other elite sporting events such as marathon running (39). 
+At future FINA World Championships, attention to strategies to encourage compliance with 
+reporting will improve the quality of the injury and illness surveillance program. The institution of injury prevention programs based on the findi ngs from this study will be implemented and 
+evaluated at future FI NA World Championships. 
+ 
+Conclusion 
+The injury and illness surveillance system was accepted by the ma jority of the medical personnel 
+at the 13th FINA World Championships demonstrating its  feasibility for any large international 
+multidisciplinary event. Attention to improving compliance in reporting at future FINA World 
+Championships will strengthen the quality of the results. The findings are consistent with studies 
+in other sports using a similar methodology. Less th an seven percent of th e registered athletes 
+were injured during the Championships with most injuries caused by overuse. The most 
+commonly affected body part wa s the upper extremity. The inci dence and characteristics of 
+injury varied by discipline, with the lowest injury risk in swimmi ng and the highest in water polo 
+and open water swimming. Approximately seven perc ent of all registered athletes suffered an 
+illness during the Championships with about half affecting the respiratory system. In swimming, 
+prevention studies should focus on overuse in juries with emphasis on the upper extremity. 
+Medical care at future FINA Wo rld Championships should institu te measures to decrease the 
+incidence of respiratory illnesses.  
+Acknowledgements 
+The authors highly appreciate the cooperation of all team physicians and th e medical staff of the 
+FINA World Aquatic Championships 2009 who volunteered their time to  collect the data for this 
+project. We gratefully acknow ledge the Federation Internationale de Natation Association 
+(FINA), the International Olympic Committee (IOC) and the Federational Internationale de 
+Football Association (FIFA) fo r their support and the funding of  the study. We thank Ms. Agnes 
+Gaillard very much for her valuab le assistance in data collection. 
+Competing Interests 
+None declared 
+Provenance and Peer Review 
+Licence for Publication 
+"The Corresponding Author has the right to gran t on behalf of all authors and does grant on 
+behalf of all authors, an ex clusive licence (or non exclusive for government employees) on a 
+worldwide basis to the BMJ Publishing Group Ltd and its Licensees to permit this article (if 
+accepted) to be published in BJSM editions a nd any other BMJPGL products to exploit all 
+subsidiary rights, as set out in our licence(ht tp://group.bmj.com/products /journals/instructions-
+for-authors/licence-forms/)." 
+References 
+1. Aquatics 1908- 2008:  FINA – 100 years of Excelle nce in Sport.   ed. Lord, C. July 2008 
+FINA 
+2. Finch C, Valuri G, Ozanne-Smith J. Injury surveillance during medical  coverage of sporting 
+events: development and testing of a standard ised data collection form. J Sci Med Sport. 
+1999; 2:42–56. 
+3. Ljungqvist A, Jenoure P, Engebretsen L, et al. The International Olympic Committee (IOC) 
+Consensus Statement on Periodic Health Eval uation of Elite Athletes, March 2009. Clin J 
+Sport Med 2009; 19:347-365. Br J Sports Med. 2009;43:9,631-644 
+4. FINA Handbook 2009-2013  p 382 
+5. Junge A, Dvorak J, Graf-Baumann T. Foot ball injuries during the World Cup 2002. Am J 
+Sports Med. 2004; 32 (1 SSuppl):23S-7S. 
+6. Junge A, Dvorak J. Injuries in female football players in top-level inte rnational tournaments. 
+Br J Sports Med. 2007;41(Suppl 1):i3-7 
+7. Junge A, Dvorak J, Graf-Baumann T, et.al. Football injuries during FIFA tournaments and the Olympic Games, 1998–2001: development and implementation of an injury-reporting system. Am J Sports Me d. 2004; 32(1 Suppl):80S–9S 
+8. Dvorak J, Junge A, Grimm K, et.al. Me dical report from the 2006 FIFA World Cup 
+Germany. Br J Sports Med. 2007;41:578–581 
+9. Fuller C, Junge A, Dvorak J. A six year pr ospective study of the in cidence and causes of 
+head and neck injuries in international f ootball. Br J Sports Med. 2005; 39(Suppl 1):i3–9. 
+10. Yoon Y, Chai M, Shin D. Football injuries at  Asian tournaments. Am J Sports Med. 2004; 
+32 (1 Suppl):36S-42S 
+11. Best J, McIntosh A, Savage T. Rugby World Cup 2003 injury survei llance project. Br J 
+Sports Med. 2005; 39(11):812-817. 
+12. Fuller C, Laborde F, Leather RJ, et.al. International Rugby Board Rugby World Cup 2007 injury surveillance study. Br J Sports Med. 2008; 42(6):452-459. 
+13. King D, Gabbett T, Dreyer C, et.al. Incidence of injuries in the New Zealand national rugby 
+league sevens tournament. J Sci Med Sport. 2006; 9(1-2):110-118. 
+14. Wekesa M, Asembo J, Njororai W. Injury su rveillance in a rugby tournament. Br J Sports 
+Med. 1996; 30 (1):61-63 
+15. Langevoort G, Myklebust G, Dvorak J et al. Handball injuries during major international 
+tournaments. Scand J Med Sci Sports. 2007; 17:400-407 
+16. Alonso JM, Junge A, Renstrom P, et.al. Spor ts Injuries Surveillance During the 2007 IAAF 
+World Athletics Championships. Clin J Sport Med 2009;19:26–32 
+17. Arriaza R, Leyes M. Injury profile in comp etitive karate: prospective analysis of three 
+consecutive World Karate Championships.  Knee Surg Sports Traumatol Arthrosc. 
+2005;13(7):603-607. 
+18. Muller-Rath R, Bolte S, Petersen P, et.al. In jury profile in modern  competitive karate: 
+analysis of 1999 WKC-Karate World Champi onship Games in Bochum. Sportverletz 
+Sportschaden 2000; 14(1):20-24 
+19. Muller-Rath R, Miltner O, Mamarvar M, et.al.  Risk of injury in adolescent and junior 
+competitive karate. Sportverletz Sportschaden. 2005;19(4):191-194. 
+20. Roberts W, Brust J, Leonard B, et.al. Fair-p lay rules and injury re duction in ice hockey. 
+Arch Pediatr Adolesc Med. 1996;150(2):140-145 (a). 
+21. Roberts W, Brust J, Leonard B. Youth ice hock ey tournament injuries: rates and patterns 
+compared to season play. Med Sci Sports Exerc. 1999; 31(10:46-51 (b) 
+22. Schafle M, Requa R, Patton W, et.al. Inju ries in the 1987 national amateur volleyball 
+tournament. Am J Sports  Med. 1990; 18(6):624-631 
+23. Bahr R, Reeser J. Injuries  among world-class professional beach volleyball players: the 
+Federation Internationale de Volleyball beach  volleyball injury study. Am J Sports Med. 
+2003;31(1):119-125. 
+24. Brogger-Jensen T, Hvass I, Bugge S. Injuries  at the BMX Cycling European Championship, 
+1989. Br J Sports Med. 1990;24(4):269-270 
+25. Hutchinson M, Laprade R, Burnett Q, et.al. Injury surveillance at the USTA Boys’ Tennis 
+Championships: a 6-yr study. Med Sci Sports Exerc. 1995; 27(6):826-830. 
+26. Junge A, Langevoort G, Pipe A, et.al. Injuri es in team sport tournaments during the 2004 
+Olympic Games. Am J Sports Med. 2006; 34:565–576. 
+27. Junge A, Engebretsen L, Mountjoy M, et.al. Sports injuries duri ng the Summer Olympic 
+Games 2008. Am J Sports Med. 2009 
+28. Wolf B, Ebinger A, Lawler M, et.al. Injury pa tterns in division I collegiate swimming. Am J 
+Sports Med. 2009 Oct 37(10): 2037-4 
+29. Derman W. Medical care of the South African Olympic team  – the Sydney 2000 experience.  
+SAJSM 2003 pp 22-25. 
+30. Derman W. Profile of medical and injury consultations of Team South Africa during the 
+XXVIIIth Olympiad, Athens 2004 SAJSM Vol 20, No3, 2008: pp 72-76 
+31. Wetterhall S, Coulombier D, Herndon Jet.al . Medical Care Deliver y at the 1996 Olympic 
+Games J Am Med Assoc. 1998; 279(18):1463-1468 
+32. Junge A, Engebretsen L, Alonso JM, et al. Injury surveillance in multisport events – the IOC 
+approach. Br J Sports Med. 2008; 42:413–421. 
+33. Mountjoy M, Gerrard D. Preserving and promoti ng health in the aquatic athlete. In: The 
+World Book of Swimming: from Science to Perf ormance. Seifert L., Chollet D., Mujika I. 
+(Eds.), Nova Science Publishers, Hauppauge, New York. In press 
+34. Mountjoy M. Injuries and medical issues in  the synchronized Olympic sports.  Current 
+Sports Med Reports. 2009. 8(5): 255-261  
+35. Mountjoy M. Injury and illness in synchr onized swimming: 2008 Sixteenth FINA World 
+Sports Medicine Congress. J Sports Sci,26:1,3 
+36. Mountjoy M. The basics in synchronized swim ming and its injuries. Clin Sport Med 1999; 
+18 (2) 321-336 
+37. Spence L, Brown W, Pyne D, et.al. Incide nce, Etiology, and Symptomatology of Upper 
+Respiratory Illness in Elite Athletes. Med Sci Sports Exerc. 2007. 39(4): p. 577-586 
+38. Beck K. Infectious diseases in sports.  Med Sci Sports Exerc. 2000: 32 (7) 431-438. 
+39. Roberts W. A 12-yr profile of medical injury and illness for the Twin Cities Marathon. Med Sci Sports Exerc. 2000. 32(9): p. 1549-1555 
+Table 1: Characteristics and team physicians´ re sponse rates for the five aquatics disciplines  
+ 
+ Swimming Open Water 
+Swimming Diving Synchronized 
+Swimming Water Polo 
+No of 
+athletes 1502* 155* 200 281 461 
+No of 
+countries 170 41 42 41 21 
+Days of 
+competition 8 
+26.7. - 2.8. 5 
+19. - 25.7. 9 
+17. - 25.7. 8 
+18. - 25.7. 14 
+19.7.-1.8. 
+No of 
+returned 
+report forms 296 73 141 126 157 
+Response 
+rate 21.8% 35.6% 37.3% 38.4% 53.4% 
+Coverage of 
+athletes by 
+team 
+physicians 41.1% 56.5% 52.7% 53.1% 56.7% 
+* 7 athletes registered for Swimming and Open Water Swimming 
+ 
+ 
+Table 2: Number and diagnosis of all (time-lo ss) injuries in the ch ampionship and in the 5 
+disciplines 
+ 
+ number of all (time-loss ) injuries  
+Location and diagnosis total Swim
+ming Open 
+Water 
+Swimming Divin
+g Synchronized 
+Swimming Water 
+Polo 
+Head / face  
+ concussion 
+ sprain 
+ contusion 
+ skin lesion 
+ others 16 (3) 
+2 (2) 
+2 (0) 
+4 (0*) 
+4 (1) 
+4 (0) 5 (1) 
+1 (1) 
+-  
+1 (0) 
+-  
+3 (0) 1 (*) 
+-  
+-  
+1 (*) 
+-  
+-  0  
+-  
+-  -  -  
+- 1 (0) 
+-  
+-  
+1 (0) 
+-  
+-  9 (2) 
+1 (1) 
+2 (0) 
+1 (0) 
+4 (1) 
+1 (0) 
+Cervical spine / neck 
+ sprain / strain 
+ muscle cramps 
+  others 10 (1) 
+5 (0) 
+3 (1) 
+2 (0) 3 (1) 
+2 (0) 
+1 (1) 
+ 0  
+-  
+-  
+- 3 (0) 
+3 (0) 
+-  -  2 (0) 
+-  
+-  
+2 (0) 2 (0) 
+-  
+2 (0) 
+- 
+Lumbar spine / low back 
+ sprain / strain 
+ muscle cramps 
+  enthesopathy / fasciitis 15 (2) 
+7 (0) 
+6 (0) 
+2 (2) 5 (2) 
+3 (0) 
+-  
+2(2) 0  
+-  -  - 5 (0) 
+2  3  
+- 0  
+-  -  -  5 (0) 
+2  3  
+- 
+Other trunk 
+ thoracic spine 
+ sternum / rips / chest muscles 
+  abdomen  8 (1) 
+4 (1) 
+3 (0) 
+1 (0) 2 (0) 
+-  
+1 (0) 
+1 (0) 0  
+-  -  - 0  
+-  -  - 2 (0) 
+-  
+2 (0) 
+-  4 (1) 
+4 (1) 
+-  - 
+Shoulder 
+ dislocation 
+ sprain  
+ strain 
+ contusion 
+ tendinosis 
+ inflammation, bursitis  
+ impingement 
+ others 22 (4*)
+2 (1) 
+3 (0) 
+3 (2*) 
+4 (0) 
+4 (1) 
+2 (0) 
+2 (0) 
+2 (0) 9 (3) 
+1 (1) 
+1 (0) 
+1 (1) 
+2 (0) 
+2 (1) 
+1 (0) 
+1 (0) 
+- 3 (1*) 
+-  -  
+1 (1) 
+-  
+1 (*) 
+-  -  
+1 (*) 0 
+-  -  -  -  
+-  
+-  -  - 4 (0) 
+-  
+2 (0) 
+-  -  
+1 (0) 
+-  -  
+1 (0) 6 (0*)
+1 (0) 
+-  
+1 (*) 
+2 (0) 
+-  
+1 (0) 
+1 (0) 
+- 
+Arm / elbow  
+ sprain  
+ strain 
+ contusion 
+ tendinosis 
+ others 14 (0*)
+3 (0) 
+2 (0) 
+3 (0) 
+2 (0) 
+4 (0*) 0 
+-  -  -  -  - 2 (0*) 
+-  -  
+1 (0) 
+-  
+1 (*) 3 (0) 
+-  
+2 (0) 
+-  
+1 (0) 
+- 1 (0) 
+-  -  -  -  
+1 (0) 8 (0) 
+3 (0) 
+-  
+2 (0) 
+1 (0) 
+2 (0) 
+Wrist / hand 
+ fracture   tendon rupture 
+ sprain  
+ contusion 
+ skin lesion  21 (3) 
+2 (2) 
+1 (1) 
+7 (0) 
+2 (0) 
+9 (0) 9 (1) 
+1 (1) 
+-  
+1 (0) 
+2 (0) 
+5 (0) 0 
+-  -  -  -  
+- 5 (0) 
+-  
+-  
+3 (0) 
+-  
+2 (0) 1 (0) 
+-  -  -  -  
+1 (0) 6 (2) 
+1 (1) 
+1 (1) 
+3 (0) 
+-  
+1(0) 
+Table 2 continues  
+Table 2 continues  
+Location and diagnosis total  Swim
+ming Open 
+Water 
+SwimmingDiving Synchronized 
+Swimming Water 
+Polo 
+Hip / groin 
+ strain (hip/groin) 
+ tendinopathy (hip) 
+ impingement (hip) 10 (1) 
+6 (1) 
+3 (0) 
+1 (0) 5 (1) 
+3 (1) 
+2 (0) 
+- 0 
+-  
+-  - 0 
+-  -  - 2 (0) 
+2 (0) 
+-  - 3 (0) 
+1 (0) 
+1 (0) 
+1 (0) 
+Thigh / lower leg 
+ strain 
+ contusion 
+ skin lesion 
+ cramps 9 (0) 
+5 (0) 
+2 (0) 
+1 (0) 
+1 (0) 1 (0) 
+1 (0) 
+-  -  -  0  
+-  -  -  -  2 (0) 
+-  -  
+1 (0) 
+1 (0) 5 (0) 
+4 (0) 
+1 (0) 
+-  -  1 (0) 
+-  
+1 (0) 
+-  -  
+Knee  
+ subluxation 
+ sprain  
+ contusion 
+ tendinosis 
+ skin lesion 
+ Osgood-schlatter 10 (3) 
+1 (1) 
+3 (0) 
+2 (0) 
+1 (1) 
+2 (0) 
+1 (1) 3 (2) 
+1 (1) 
+-  
+1 (0) 
+1 (1) 
+-  -  0  
+-  -  -  -  
+-  
+-  4 (1) 
+-  
+1 (0) 
+1 (0) 
+-  
+1 (0) 
+1 (1) 2 (0) 
+-  
+2 (0) 
+-  -  
+-  
+-  1 (0) 
+-  -  -  -  
+1 (0) 
+-  
+Ankle / foot  
+ fracture 
+ sprain (ankle) 
+ sprain / strains (foot) 
+  contusion 
+ skin lesion# 16 (2) 
+2 (1) 
+3 (1) 
+5 (0) 
+2 (0) 
+4 (0) 1 (1) 
+-  
+1 (1) 
+-  -  - 0  
+-  -  
+-  
+-  - 9 (0) 
+1 (0) 
+2 (0) 
+2 (0) 
+1 (0) 
+3 (0) 4 (1) 
+1 (1) 
+-  
+2 (0) 
+1 (0) 2 (0) 
+-  -  
+1 (0) 
+ 
+1 (0)  
+Multiple  
+ eye bruise + shoulder - 
+subluxation 
+ eye contusion + hand  - sprain 
+ cervical + thorasic spine – 
+sprain 
+ cerv. spine, shoulder/arm - 
+strain 
+ neck + upper back – tight 
+muscles 
+ thor. spine, sternum/ribs – 
+sublux. 
+ thor. + lumb. spine - muscl. 
+spasm 
+ thigh + lower leg – skin lesion 
+ head + shoulder  - skin lesion 
+ head + arm / hand – skin lesion
+ multiple – skin lesion 13 (1) 
+ 
+1 (0) 
+1 (0) 
+ 
+1 (0) 
+ 
+1 (0) 
+ 
+1 (0) 
+ 
+1 (1) 
+ 
+2 (0) 
+1 (0) 
+1 (0) 
+2 (0) 
+1 (0) 5 (0) 
+ 
+1 (0) 
+-  
+ 
+1 (0) 
+ 
+1 (0) 
+ 
+1 (0) 
+ 
+-  
+ 
+-  -  
+-  
+-  
+1 (0) 4 (0) 
+ 
+-  
+1 (0) 
+ 
+-  
+ 
+-  
+ 
+-  
+ 
+-  
+ 
+-  -  
+1 (0) 
+2 (0) 
+- 2 (1) 
+ 
+-  -  
+ 
+-  
+ 
+-  
+ 
+-  
+ 
+1 (1) 
+ 
+-  
+1 (0) 
+-  -  - 2 (0) 
+ 
+-  -  
+ 
+-  
+ 
+-  
+ 
+-  
+ 
+-  
+ 
+2 (0) 
+-  
+-  
+-  - 0  
+ 
+-  -  
+ 
+-  
+ 
+- 
+ 
+-  
+ 
+-  
+ 
+-  -  
+-  
+-  - 
+missing information 6 (0)*  0  5 (0)*  0  1 (0)  0  
+ 
+* Information on time-loss is missing in at least one injury;  
+# Information on sport is missing in one case 
+ 
+Table 3. Injuries and illnesses occurring  during training and competition  including  time‐loss from sport at the FINA World Aquatic Championships.  
+ 
+  Swimminga  Open  water 
+swimminga Diving  Synchro  Water  polo  Total 
+ Women  Men  Women  Men  Women  Men  Women  Women  Men  
+Athletes  630  872  74  81  82  118  281  226  235  2592 
+Athletes ´starts    2369  2967  104  110  1325  1866  990  672  672  11075 
+Acute  injuriesb  22  19  7  8  11  14  28  23  21  171 
+Injuries per 1000 
+athletes 34.9  21.8  94.6  98.8  134.1  118.6  99.6  101.8  89.4  65.6 
+Training  13  13  0  1  8  9  12  7  11  79 
+Competition  9  6  6  7  3  5  7  16  10  80 
+Competition  
+injuries per 1000 
+starts 3.80  2.02  57.7  52.5  2.26  2.68  7.07  23.8  14.9  7.2 
+Time‐lossc  2  10  0  1  0  1  1  2  3  21 
+cdays    14 >  1  1  0  1  0  0  0  0  2  5 
+             
+Acute  illnesses  59  53  3  1  0  4  7  18  9  184 
+Illnesses per 
+1000 athletes 93.7  60.8  40.5  12.3  0  33.9  24.9  79.6  28.3  71.0 
+Time‐lossc  12  14  0  0  0  0  0  0  3  30 
+a 6 female and one male  athletes participated  in swimming  and open water swimming  
+b sex missing in 18 injuries and 28 illnesses, ctime  loss is missing in 14 injuries and 7 illnesses  
+ 

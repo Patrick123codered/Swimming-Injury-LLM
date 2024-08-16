@@ -1,0 +1,788 @@
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+ 
+ 
+ 
+ 
+Note:  This article will be published in a forthcoming issue of 
+the Journal of Sport Rehabilitation . The article appears here in 
+its accepted, peer-reviewed form, as it was provided by the 
+submitting author. It has not been copyedited, proofed, or 
+formatted by the publisher.  
+ 
+ 
+ 
+Section: Original Research Report  
+ 
+Article Title: Investigation of In-Water and Dry Land Training Programs for Competitive 
+Swimmers in the United States 
+ 
+Authors: Angela Tate1, Shana Harrington2, Melissa Buness3, Susan Murray4, Caitlin Trout1, and 
+Corinne Meisel5  
+ 
+Affiliations: 1Department of Physical Therapy, Arcadia University, Glenside, PA. 2Department 
+of Physical Therapy, Creighton University, Omaha, NE. 3Thomas Jefferson University Hospital, 
+Philadelphia, PA. 4ATI Physical Therapy, Bear, DE. 5NovaCare Rehabilitation, St. Cloud, MN.  
+ 
+Journal:  Journal of Sport Rehabilitation  
+ 
+Acceptance Date: October 14, 2014  
+ 
+©2014 Human Kinetics, Inc.  
+ 
+DOI: http://dx.doi.org/10.1123/jsr.2014-0205 
+ 
+  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+ 
+ 
+ 
+ 
+ 
+TITLE: Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers 
+in the United States 
+ 
+ 
+ 
+Tate, A. Arcadia University 
+ 
+Harrington, S. Creighton University  
+ 
+Buness, M.  Thomas Jefferson University 
+ 
+Murray, S.  ATI Physical Therapy  
+ 
+Trout, C. Arcadia University 
+ 
+Meisel, C. Nova Care Rehabilitation  
+ 
+  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+Abstract 
+Context: Youth through masters level competitive swimmers incur significant shoulder pain. 
+Risk factors associated with shoulder pain include high swimming yardage, a lack of cross 
+training, decreased shoulder strength and reduced core endurance, and limited posterior shoulder 
+and pectoral length. Since training, swimming exposure and physical performance measures 
+have all been associated with shoulder pain, the methods utilized to train swimmers may 
+influence the development of shoulder pain, yet studies delineating training methods are lacking. 
+Objectives : (1) To identify in-water and dry land practices among youth through masters level 
+swimmers in the United States, and (2) describe the potential effects of training practices on 
+swimmers’ shoulders. Design/Setting : A web based survey was developed to identify common 
+training practices in 5 areas: (1) quantification of swimming and dry land training, (2) in water 
+techniques such as kicking drills, (3) upper body stretching, (4) shoulder and core strengthening, 
+and (5) cross training. Participants : (N= 352) 156 swim team coaches or captains of youth, high 
+school, and college swim teams and 196 masters swimmers participated. There was geographic 
+representation from across the US. Results: Responses indicated diverse training practices. 
+However, most respondents used kicking drills, which may provoke shoulder pain due to 
+prolonged poor positioning. High yardage swum by high school and college teams increases their 
+risk of shoulder tendinopathy. Stretching and strengthening exercises and dosages commonly 
+utilized were inconsistent with current research recommendations and lacked specificity in terms 
+of addressing typical mobility restrictions and muscle weaknesses described in the swimming 
+literature. Core strengthening and cross training are frequently performed. Conclusions : Several 
+areas of in water and dry land practice were identified that may put swimmers shoulders at risk 
+for injury. Further research regarding the safety and efficacy of training programs is 
+recommended to determine optimal methods of injury prevention and performance enhancement. 
+  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+INTRODUCTION 
+Competitive swimmers place an extreme amount of stress on their shoulders due to the 
+repetitive nature of the sport.  Allegrucci and colleagues have reported that swimming 10,000 
+meters/day using 10 stroke cycles per lap equates to 4000 revolutions per day.1  Pink and Tibone 
+report that competitive swimmers may swim 10,000 to 15,000 meters a day, 6-7 days per week, 
+with most shoulder revolutions done repetitively without rest for muscle recovery.2  Those 
+swimming distance events may swim double this amount.2  Shoulder pain is a common problem 
+with a reported prevalence ranging from 40% to 91% among elite and non elite competitive 
+swimmers. 1,3-5  A recent study of high school competitive swimmers revealed that 72% used 
+pain medication in order to manage their shoulder pain during practice, with 47% using it 
+regularly.6  The reported pain may be so severe that it can lead to functional impairments and 
+may terminate swimming participation.7  
+In 1978, the term “swimmer’s shoulder” was used to describe anterior shoulder pain 
+during and after workouts.8  Sinc e swimmer’s shoulder was first coined, the term now represents 
+a group of symptoms rather than a specific diagnosis.9  High training volume during growth and 
+the absence of a well-designed and balanced dry-land training program have been cited as  main 
+factors in the development of swimmer’s shoulder.10  In order to minimize the incidence and 
+severity of swimmer’s shoulder, conditioning programs are often implemented as a part of a 
+competitive swim training program.11,12 Two common methods are in-water and dry land 
+training.  In-water training may utilize equipment such as kick boards, hand paddles, and 
+parachutes as well as activities isolating a specific portion of the stroke such as streamline 
+kicking in which the hands are clasped overhead with arms extended.  Dry land programs often 
+include strengthening, stretching and cross training activities.  The goals of both in-water and dry 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+land training programs are similar: to improve performance and/or to prevent injury.  Yet 
+commonly used in-water and dry land training programs have not been identified nor have their 
+effects on swimme rs’ shoulders. 
+Potentially modifiable factors associated with an increased prevalence of shoulder pain 
+have been researched.  Sein and colleagues used a survey to assess swimming exposure and 
+performed physical examinations and MRI studies on the shoulders of elite competitive 
+swimmers aged 13-25.4  They concluded that supraspinatus tendinopathy was the cause of 
+shoulder pain, as it was present in 69% of those undergoing imaging.4  Weekly mileage and 
+hours per week swum were highly associated with shoulder pain in this study.4 Tate et al 
+performed a cross sectional study of youth through masters level competitive swimmers.5  
+Participants completed a survey which included questions on demographics, quantity of 
+swimming regularly performed, and participation in other sports.5  They then underwent a 
+physical exam of their shoulder as well as measures of core endurance.5  Consistent with the 
+findings of Sein et al4, swimmers with high pain and disability performed greater swimming 
+yardage.5  A lack of cross training, decreased shoulder strength and reduced core endurance, and 
+limited posterior shoulder and pectoral length were also associated with those having greater 
+pain and disability.5 Symptomatic Division 1 collegiate swimmers were also found to have 
+reduced pectoral length compared to their less symptomatic colleagues.13  
+Given that swimming exposure, training methods, and physical performance measures 
+have all been associated with shoulder pain in competitive swimmers, it appears that the methods 
+utilized to train swimmers may influence the development of shoulder pain.  While severa l 
+studies have examined the effects of specific in-water and dry land training programs on 
+swimming performance 12,14-17, there is a lack of research describing commonly used team 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+training practices and their potential effects on competitive swimmers ’ shoulders .  Therefore, the 
+purposes of this study were to (1) identify in-water and dry land practices among youth through 
+masters level swimmers in the United States, and (2 ) describe the potential effects of these 
+practices on swimmers’ shoulders.   
+METHODS 
+Design 
+A web based survey was developed using Survey Monkey® (Palo Alto, CA) and 
+Vovici™ version 5 (Herndon, VA).  The survey requested demographic information regarding 
+the name of the team, number of participants, level of competition and city/state as well as the 
+person completing the survey, and their contact information.  This information was used to 
+accurately describe the subject pool, eliminate duplicate entries for teams, and to contact the 
+participant if needed to clarify a specific response.  In addition, the survey contained 25 
+questions covering 5 areas: (1) quantification of swimming and dry land training in terms of 
+frequency, yardage and time, (2) in-water training techniques such as use of various kicking 
+drills, paddles and drag clothing/apparatus, (3) upper body and core stretching, (4) shoulder and 
+core strengthening exercises, and (5) cross training.  Questions had multiple-choice responses, 
+and participants selected all appropriate responses for exercises in which they or their team 
+engaged.  Photographs of common stretching and strengthening exercises were provided so that 
+participants could more readily identify exercises they might be using.  (See Appendix).  
+Exercises described in research articles on competitive swimming were selected as well as those 
+used by teams on which the researchers or their family members previously belonged.  An 
+“other” response  was also provided where additional training methods/exercises could be input.  
+  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+Participants 
+This study was approved by the Institutional Review Boards at and Coaches and captains 
+aged 18 years or older of youth, high school, and college swim teams and members of masters 
+swim teams were identified by personal contacts or web based searches and then recruited by 
+word of mouth or email to participate in the web based survey.  Additionally , masters swimmers 
+and coaches were invited to participate by notices in the United States (US) Masters Swimming 
+newsletter, the Ocean City New Jersey Masters swim team newsletter, and Daily News of Open 
+Water Swimming  
+Statistical Analysis 
+Data was analyzed using SPSS® statistical software (version 19.0, SPSS Inc., Chicago, 
+IL).  Descriptive analysis included frequency of response for nominal data and means and 
+standard deviations for interval data.  Similar open-ended responses indicated as “other” were 
+categorized by the researchers and tabulated if there were 2 or more of the same/similar 
+response.  Responses that were unique to a single study participant were not included in the data 
+analysis. 
+RESULTS  
+Three hundred and fifty-two swimmers and coaches from the United States completed the 
+survey.  The data received from an additional two international swimmers was not used for data 
+analysis.  Masters swimmers comprised 196 of the subject pool, and these were responses of 
+individuals aged 18 or older not competing for a college team at the time of survey completion.  
+The remainder of the responses were from coaches or adult captains at the youth , high school or 
+collegiate level.  These responses represent team training practices with teams ranging from 2 to 
+over 100 participants.  One hundred eight (30.7%) of the study participants were from the 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+Northeast, 73 (20.7%) were from the Midwest, 84 (23.9%) were from the South, 73 (20.7%) 
+were from the West, and 14 (4.0%) did not disclose their location.  Table 1 provides the 
+breakdown of participants from each of the 4 training groups: youth (which was further divided 
+into competitive age groups: aged 8 and under, aged 9 and 10, aged 11 and 12, aged 13 and 14, 
+and aged 15 and over), high school, college, and masters.  Table 1 also includes the size of the 
+teams as well as quantification of dryland training and swimming exposure with respect to time 
+and distance for regular practices and training trips, if taken.  The practice model of the team is 
+also indicated with respect to whether all team members of similar age or ability complete 
+similar or different yardages during swimming practices.  Only the college teams had greater 
+than 5% of respondents reporting use of a training trip.  For this group, the mean reported 
+yardage and practice time prior to the trip were 7515.35 +/- 2201.68 meters/day and 3.28+/-1.92 
+hours respectively.  These values increased to 10043.16 +/-2569.15 meters/day and 4.32 +/-2.26 
+hours during the trip.  Table 2 contains the in-water kicking and upper body resistance training 
+practices.  Table 3 contains the methods by which stretching exercises are performed and the 
+dosage of stretching utilized (time and repetitions).  Table 4 details the stretching exercises 
+performed by each group.  Table 5 quantifies the types of dry land resistance training used and 
+how the amount of resistance is determined.  Table 6 details the upper extremity and core 
+strengthening exercises performed by each group, and Table 7 contains the types of dry land 
+training used.  For all categorical data in which subjects selected from the choices indicated in 
+the survey, table entries indicate percentage of respondents who selected each category unless 
+otherwise noted. 
+  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+DISCUSSION 
+To our knowledge, this is the first study to quantify both in water and dryland training 
+exposure and identify training methods used among all age groups of competitive swimmers 
+across the United States.  Our results indicate that training varies widely among swim teams and 
+masters swimmers but frequently utilized methods and mean quantity of training could be 
+identified.  
+Table 1 reveals both an increasing quantity of time performing dry land  training and 
+increasing distance swum per day from the youth through the college swimmers, then a reduction 
+in both measures for the masters swimmers.  We multiplied the reported distance swum by the 
+number of practices per week and found a mean high school weekly yardage of 37,000 meters 
+and mean college weekly yardage of over 44,000 meters.  A study by Seine and colleagues (Sein 
+et al., 2010 ) found that elite swimmers aged 13-25 swimming 35,000 or more meters per week 
+were four times more likely to have supraspinatus tendinopathy than swimmers completing less 
+yardage.  Both the high school and college teams exceeded this value, placing them at high er risk 
+for supraspinatus tendon injury and pain.  To our knowledge, no research is currently available to 
+determine safe yardage exposure or progression for youth swimmers so the effect of currently 
+reported yardage is unknown.  Also, only the collegiate teams consistently reported using 
+different yardages for sprint and distance swimmers, while the majority of other groups all 
+reported training the same distance without consideration for swimmer specialty as a sprinter or 
+distance swimmer.  Costill and colleagues 18 found that completing a high amount of yardage in 
+practice may reduce sprint capacity.  In this study, swimmers who completed 9435 meters/day 
+demonstrated a significant decrease in sprint velocity compared to those who completed 4950 
+meters/day of training.  Given that greater yardage has been correlated with shoulder pain and 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+supraspinatus tendinopathy, 4,5 and that it may reduce swimming performance, utilizing a varied 
+practice model based on swimmer specialty as a sprinter or distance swimmer appears warranted.  
+Among college teams engaging in a training trip, the mean distance swum during their training 
+trip increased 33.64% from pre trip yardage.  Although we are not aware of any research 
+identifying safe rates of progression for swimming yardage , the National Athletic Trainers’ 
+Position Statement recommends that, “progression of training intensity, load, time, and distance 
+should only increase by 10% each week to allow for adequate adaptation and to avoid 
+overload ”.19  Based on this, an increase in training by 33.6% over a short period, typically a 
+week, may put swimmers’ shoulders at risk for injury but furt her research is needed to define 
+safe rates of training progression.   
+Kicking drills including streamline kicking, standard kickboards use, and kick/pull drills 
+are frequently used by all groups surveyed.  Despite this consistent practice pattern, Costill and 
+colleagues have suggested limiting the amount of kickboard use to prevent shoulder 
+impingement resulting from prolonged positioning of the shoulder in hyper-abduction.20  
+O’Donnell and colleagues concluded that swimmin g with a kickboard may lead to shoulder 
+laxity due to arm positioning and increased resistance placed on the shoulder.21  In addition, 
+according to a survey of 1262 US age group, masters, or national teams swimmers, the use of 
+kickboards tended to aggravate already painful shoulders.3  Taken collectively, research suggests 
+that prolonged usage of kickboards may provoke or increase shoulder pain, but specific 
+guidelines for safe usage are lacking.  The use of streamline kicking was nearly as popular as 
+standard board use, but the sustained shoulder hyper-abduction positioning behind the ears has 
+also been cited as placing the swimmer’s shoulder at an increased risk of injury.2  In contrast, 
+kick/pull drills typically involve the use of kicking on one side with the ipsilateral arm overhead 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+for a designated quantity of kicks followed by a brief pull sequence followed by kicking on the 
+contralateral side with that arm overhead.  The advantage of these drills over the use of 
+streamline or a kickboards is that bilateral sustained overhead positioning is avoided and the 
+sidelying position may allow for reduced shoulder hyper-abduction.   
+Several authors have related shoulder pain in swimmers to postural mal-alignments 
+associated with a forward head position and rounded shoulders.1,22,23  Kendall, McCreary, and 
+Provance originally proposed that a prolonged forward head and rounded shoulder posture, 
+which is typical in swimmers due to the high demands on the shoulder adductor and internal 
+rotator musculature, can lead to the imbalance between weak elongated scapular retractors and 
+strong or tight pectoral muscles.24  In the presence of weak elongated posterior musculature, tight 
+anterior musculature may pull the shoulders forward and protract the scapula, thereby 
+contributing to subacromial impingement.2,22  Reductions in subacromial space with scapular 
+protraction have been demonstrated on MRI 25 and reduced length of the pectoralis minor may 
+additionally narrow the subacromial space by reducing scapular posterior tilt and external 
+rotation during arm elevation.26    
+By strengthening the antagonist muscles to those contributing to the forward head and 
+shoulder posture and by performing specific stretches, two studies have reported positive 
+alterations in competitive swimmers ’ posture.22,23  Kluemper et al used supervised partner 
+assisted pectoralis minor and major stretches along with scapular and posterior cuff 
+strengthening.22  Lynch et al implemented a self-stretching program using chin tucks, a pectoral 
+stretch over a foam roller, and a strengthening program for the serratus anterior and lower/middle 
+trapezius.23  In addition to improving posture, 79% of the latt er study’s  intervention group 
+experienced significant reduction in shoulder pain or were pain free post intervention.23  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+According to our survey, less than 10% of swimmers perform chin tucks and less than 20% 
+perform the foam roller stretch, although other pectoral stretches were frequently used.  Except 
+for college teams, less than one half of respondents perform scapular strengthening such as the 
+“T” and “Y” exercises, and few teams perform external rotation (posterior cuff) strengthening at 
+90 degrees.  Rotator cuff strengthening is indicated to center the humeral head in the glenoid 
+fossa during arm elevation and is considered an essential component of conservative 
+management for shoulder impingement.27  Posterior rotator cuff strengthening at multiple angles, 
+including at 90 degrees elevation which is mid pull for freestyle, has specifically been 
+recommended in a protocol for swimmer ’s shoulder.1  
+With respect to strengthening, our survey revealed that the most frequently reported 
+method of determining resistance was to have the swimmer choose their own weight, which may 
+put them at risk of injury if the weight chosen exceeds the swimmer’s capacity or may produce 
+less than optimal results i f too little resistance is used.  The American College of Sports 
+Medicine advocates the use of repetition maximum testing as the most effective way to strength 
+train.28  However, less than 41% of respondents from each of our groups select the amount of 
+resistance based on repetition maximum testing.   
+Consistent with findings in other athletes performing repetitive overhead activity, 
+reduced internal rotation range of motion (ROM) has been reported in competitive 
+swimmers.29,30  Reduced internal rotation is a measure of posterior shoulder tightness, which has 
+been shown to cause anterior and superior translation of the humeral head and therefore could 
+contribute to shoulder impingement.31  Respondents report ed using cross body adduction 
+frequently and the sleeper stretch infrequently, to target posterior shoulder tightness.  Use of the 
+sidelying sleeper stretch has been reported to more effectively stabilize the scapula to better 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+isolate the posterior glenohumeral tissues 32, so this method may be more effective in swimmers 
+who typically exhibit elongated scapular retractors but studies comparing these exercises in 
+swimmers are lacking .  Although some respondents reported using rapid arm circles, partner 
+pectoral stretches, and wall stretches (titled latissimus dorsi stretches on our survey), these 
+exercises may place the glenohumeral joint in extreme positions which exceed normal joint 
+ROM and  maystress on the anterior capsule which is often lax in swimmers.  Overstretching of 
+non-contractile tissues may increase the risk for instability and injury.2  
+As can be seen from the previously cited research, stretching should be performed 
+selectively for structures typically found to be restricted in competitive swimmers, namely the 
+pectoralis minor, posterior shoulder, and cervical musculature contributing to a forward head 
+posture.  Although most respondents engage in stretching, the stretching dosage utilized may not 
+be optimal to effect changes in tissue length.  Over half of swimmers perform the recommended 
+2 to 3 repetitions, but less than 7% of respondents hold stretches for 30 seconds or longer which 
+has been shown to effect significant changes in resting shoulder posture in elite high school and 
+college swimmers22 and in scapular position in healthy persons with moderate forward head and 
+rounded shoulder posture.33 One study also measured pectoral length directly.  Williams et al34 
+passively applied 2 repetitions of 30 second stretches into shoulder horizontal abduction in 
+collegiate swimmers and found increases in pectoralis minor length compared to the control 
+shoulder.  In contrast, Wang and colleagues saw no changes using a 10 second stretching 
+interval.35  Based on available research, 2 to 3 repetitions of 30-second hold times effect changes 
+in tissue length and currently reported dosages for pectoral stretching may not be adequate.   
+A variety of cross training techniques were used by our respondents to supplement 
+swimming workouts with running, cycling, and yoga used most frequently.  Wetzler and 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+colleagues hypothesized that cross training can relieve stress on injured areas and strengthen 
+muscles not used in swimming to help maintain cardiovascular fitness, muscle strength, and 
+muscular endurance all leading to a higher likelihood of injury prevention.36  Consistent with 
+this, youth and masters level competitive swimmers that engaged in cross training had less 
+shoulder pain and disability than their counterparts who were not engaged in these additional 
+modes of training.5  Auvien and colleagues concluded that adolescent swimmers who 
+participated in several cross training activities over the year were less likely to develop neck, 
+shoulder, and low back pain.37  They hypothesized that cross training likely improved the trunk 
+muscular endurance and strength, along with the overall fitness of swimmers, leading to a 
+decreased rate of injury in swimmers surveyed.37    
+Strong core stability has been linked to the maximal production, transfer, and control of 
+force and motion to terminal segments in athletes along with minimizing joint loads in a variety 
+of activities.38  The core musculature has been described a box consisting of 29 paired muscles 
+encompassing the abdominals anteriorly, the paraspinals and gluteals posteriorly, the diaphragm 
+superiorly, and the pelvic floor and hip girdle musculature inferiorly.39  Core musculature 
+weakness and lack of coordination have been associated with less efficient movements, 
+compensatory movement patterns, muscle strains, muscle overuse, and injury.  40   Although cross 
+training has been shown to be beneficial in cycling and running performance41and the theoretical 
+basis for use of cross training and core stability appear sound, the effects on swimming 
+performance or injury prevention have yet to be determined prospectively.  
+Limitations 
+Several limitations were identified for this study.  Data was obtained from a sample of 
+convenience of those swimmers and coaches who had access to the study information document 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+and desired to participate so it may not be representative of all coaches and masters swimmers.  
+Choices provided in the survey for strengthening, stretching, and cross training exercises were 
+based on exercises reported in the literature and use d by the study’s authors who were 
+competitive swimmers so they may not reflect the training practices of all coaches or masters 
+swimmers.  In order to capture additional responses, participants were permitted to write in 
+responses which were analyzed collectively as “other.”  
+CONCLUSION 
+Our survey has identified that a variety of training methods are used by coaches of youth, 
+high school, and college teams and by masters swimmers.  The authors are not aware of prior 
+studies encompassing both the in-water and dry land practices of competitive swimmers across 
+the United States.  In attempting to reduce the high prevalence of shoulder pain occurring in 
+these athletes, our study represents an initial step in identifying potential areas of in-water and 
+dry land training that may not address postural changes inherent to competitive swimmers or that 
+may have potentially adverse effects on their shoulders.   
+Among in water practices, kicking drills are frequently used but the sustained and 
+extreme shoulder positioning in several methods may contribute to pain or pathology.  The mean 
+yardage swum at both the high school and college levels was also identified as placing swimmers 
+at higher risk for shoulder pain and supraspinatus tendinopathy.  Regarding dry land training, 
+stretching and strengthening exercises and dosages commonly utilized were inconsistent with 
+current research recommendations and lacked specificity in terms of addressing typical mobility 
+restrictions and muscle weaknesses described in the swimming literature.  Cross training and 
+core strengthening appear to have sound theoretical bases but the efficacy of these methods for 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+performance enhancement and injury prevention in swimmers has not been established and 
+requires further research.    
+ACKNOWLEDGMENTS:   
+The authors would like to acknowledge Bruckner Chase, coach of the Ocean City Masters Swim 
+Team, Steven Munatones at the Daily News of Open Water Swimming, and United States 
+Masters Swimming  for permitting free distribution of our letter inviting swimmers and coaches 
+to participate.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+REFERENCES 
+1. Allegrucci M, Whitney S, Irrgang J. Clinical implications of secondary impingement o f the 
+shoulder in freestyle swimmers. The Journal of orthopaedic and sports physical therapy. 
+1994;20(6):307. 
+2. Pink MM, Tibone JE. The painful shoulder in the swimming athlete. Orthopedic Clinics of North 
+America. 2000;31(2):247-261. 
+3. McMaster WC, Troup J. A survey of interfering shoulder pain in United States competitive 
+swimmers. The American Journal of Sports Medicine. 1993;21(1):67- 70. 
+4. Sein ML, Walton J, Linklater J, et al. Shoulder pain in elite swimmers: primarily due to sw im-
+volume-induced supraspinatus tendinopathy. British journal of sports medicine. 2010;44(2):105-
+113. 
+5. Tate A, Turner GN, Knab SE, Jorgensen C, Strittmatter A, Michener LA. Risk Factors Associated 
+With Shoulder Pain and Disability Across the Lifespan of Competitive Swimmers. Journal of 
+Athletic Training. 2012;47(2):149-158. 
+6. Hibberd EE, Myers JB. Practice habits and attitudes and behaviors concerning shoulder pain in 
+high school competitive club swimmers. Clinical Journal of Sport Medicine : Official Journal of 
+the Canadian Academy of Sport Medicine. Nov 2013;23(6):450-455. 
+7. Pollard H, Croker D. Shoulder pain in elite swimmers. Australasia Chiropractic and Osteopathy. 
+1999;8(3):91-95. 
+8. Kennedy J, Hawkins R, Krissoff W. Orthopaedic manifestations of swimming. The American 
+Journal of Sports Medicine. 1978;6(6):309-322. 
+9. HeiŶleiŶ SA, Cosgarea AJ. BioŵechaŶical CoŶsideratioŶs iŶ the Coŵpetitiǀe Sǁiŵŵer’s Shoulder. 
+Sports Health: A Multidisciplinary Approach. 2010;2(6):519-525. 
+10. Bak K. The Practical Management of Swimmer's Painful Shoulder: Etiology, Diagnosis, and 
+Treatment. Clinical Journal of Sport Medicine. 2010;20(5):386-390. 
+11. Pichon F, Chatard JC, Martin A, Cometti G. Electrical stimulation and swimming performance. 
+Medicine and science in sports and exercise. 1995;27:1671-1676. 
+12. Tanaka H, Costill DL, Thomas R, Fink WJ, Widrick JJ. Dry-land resistance training for competitive  
+swimming. Medicine and science in sports and exercise. 1993;25(8):952. 
+13. Harrington S, Meisel C, Tate A. A cross-sectional study examining shoulder pain and disabi lity in 
+Division I female swimmers. Journal of sport rehabilitation. Feb 2014;23(1):65-75. 
+14. Garrido N, Marinho DA, Reis VM, et al. Does combined dry land strength and aerobic training 
+inhibit performance of young competitive swimmers. Journal of Sports Science and Medicine. 
+2010;9(2). 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+15. Girold S, Maurin D, Dugué B, Chatard J, Millet G. Effects of dry-land vs. resisted-and assisted-
+sprint exercises on swimming sprint performances. Journal of Strength and Conditioning 
+Research. 2007;21(2):599. 
+16. Mujika I, Busso T, Lacoste L, Barale F, Geyssant A, Chatard JC. Modeled responses to training and 
+taper in competitive swimmers. Medicine and science in sports and exercise. 1996;28(2):251. 
+17. Trappe SW, Pearson DR. Effects of weight assisted dry-land strength training on swimming 
+performance. The Journal of Strength & Conditioning Research. 1994;8(4):209-213. 
+18. Costill DL, Thomas R, Robergs RA, et al. Adaptations to swimming training: influence o f training 
+volume. Med Sci Sports Exerc. Mar 1991;23(3):371- 377.  
+19. Valovich McLeod TC, Decoster LC, Loud KJ, Micheli LJ, Parker JT, Sandrey M A, White C. National 
+Athletic Trainers' Association position statement: prevention of pediatric overuse injuries. J Athl 
+Train . Mar -Apr 2011;46(2):206-20.  
+20. Costill D, Thomas R, Robergs R, et al. Adaptations to swimming training: influence of  training 
+volume. Medicine and science in sports and exercise. 1991;23(3):371. 
+21. O'DONNELL CJ, Bowen J, Fossati J. Identifying and managing shoulder pain in competitive 
+swimmers. Physician and sportsmedicine. 2005;33(9). 
+22. Kluemper M, Uhl T, Hazelrigg H. Effect of stretching and strengthening shoulder muscles on 
+forward shoulder posture in competitive swimmers. Journal of sport rehabilitation. 
+2006;15(1):58. 
+23. Lynch SS, Thigpen CA, Mihalik JP, Prentice WE, Padua D. The effects of an exercise intervention 
+on forward head and rounded shoulder postures in elite swimmers. British journal of sports 
+medicine. 2010;44(5):376-381. 
+24. Kendall F, McCreary E, Provance P. Muscle testing and function 4th edition. Baltimore, 
+Maryland: Williams and Wilkins. 1993. 
+25. Solem-Bertoft E, Thuomas K, Westerberg CE. The influence of scapular retraction and 
+protraction on the width of the subacromial space. An MRI study. Clinical orthopaedics and 
+related research. 1993(296):99. 
+26. Borstad JD, Ludewig PM. The effect of long versus short pectoralis minor resting length on 
+scapular kinematics in healthy individuals. The Journal of orthopaedic and sports physical 
+therapy. 2005;35(4):227. 
+27. McClure PW, Bialker J, Neff N, Williams G, Karduna A. Shoulder function and 3-dimensional 
+kinematics in people with shoulder impingement syndrome before and after a 6-week e xercise 
+program. Physical therapy. 2004;84(9):832-848. 
+28. Rhea MR, Alvar BA, Burkett LN, Ball SD. A meta-analysis to determine the dose response for 
+strength development. Medicine and science in sports and exercise. 2003;35(3):456-464. 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+29. Beach M, Whitney S, Dickoff-Hoffman S. Relationship of shoulder flexibility, strength, and 
+endurance to shoulder pain in competitive swimmers. Journal of Orthopaedic and Sports 
+Physical Therapy. 1992;16:262-262. 
+30. Torres RR, Gomes JLE. Measurement of glenohumeral internal rotation in asymptomatic tennis 
+players and swimmers. The American Journal of Sports Medicine. 2009;37(5):1017-1023. 
+31. Harryman T, II MD, Sidles JA, Clark JM. Translation of the Humeral Head on the Glenoid with 
+Passive Glenohumeral Motion. 1990. 
+32. Laudner KG, Sipes RC, Wilson JT. The acute effects of sleeper stretches on shoulder range of 
+motion. Journal of Athletic Training. 2008;43(4):359. 
+33. Roddey T, Olson S, Grant S. The effect of pectoralis muscle stretching on the resting position of  
+the scapula in persons with varying degrees of forward head/rounded shoulder posture. Journal 
+of Manual & Manipulative Therapy. 2002;10(3):124-128. 
+34. Williams JG, Laudner KG, McLoda T. The acute effects of two passive stretch maneuvers on 
+pectoralis minor length and scapular kinematics among collegiate swimmers. International 
+journal of sports physical therapy. Feb 2013;8(1):25-33. 
+35. Wang AW, Gilbey HJ, Ackland TR. Perioperative exercise programs improve early return of 
+ambulatory function after total hip arthroplasty: a randomized, controlled trial. American 
+journal of physical medicine & rehabilitation. 2002;81(11):801-806. 
+36. Wetzler MJ, Rubenstein D, Gillespie M, Schenck R, Gloystein D. Shoulder injuries in swimmers: 
+Why they develop, how to treat them. JOURNAL OF MUSCULOSKELETAL MEDICINE. 
+2002;19(9):365-372. 
+37. Auvinen JP, Tammelin TH, Taimela SP, Zitting PJ, Mutanen P, Karppinen JI. Musculoskeletal p ains 
+in relation to different sport and exercise activities in youth. Medicine and science in sports and 
+exercise. 2008;40(11):1890. 
+38. Kibler WB, Press J, Sciascia A. The role of core stability in athletic function. Sports Medicine. 
+2006;36(3):189-198. 
+39.        Tan S, Cao L, Schoenfisch W, Wang J. Investigation of Core Muscle Function th rough 
+Electromyography Activities in Healthy Young     Men. Journal of Exercise Physiology online . 
+2013; 16(1):45- 52. 
+40. Fredericson M, Moore T. Muscular balance, core stability, and injury prevention for middle-and 
+long-distance runners. Phys Med Rehabil Clin N Am. 2005;16(3):669-689. 
+41. Millet G, Candau R, Barbier B, Busso T, Rouillon J, Chatard J. Modelling the transfers of trainin g 
+effects on performance in elite triathletes. International journal of sports medicine. 
+2002;23(1):55- 63. 
+ 
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+Table 1. Participant demographics, practice model, pool and dry land training exposure. Mean values with standard devi ations are reported.  
+ 
+Level N Size of team* Practice 
+model**   Hours 
+swum/day Practices 
+/week Distance swum  Dryland 
+training   
+    0-50 51-
+100 100 or 
+more Same  Different      Meters /day  Minutes/day Sessions/week 
+Age group 45 11.1 28.9 60 53.3 37.8 
+     8 and under       0.93 (.28) 3.08 ( 0.98) 1167.31 
+(878.28) 19.41 
+(13.45) 2.97 (1.49) 
+            
+9 and 10       1.19 (1.68) 3.77 (1.00) 1938.37 
+(1309.48) 23.85 
+(18.96) 2.71 (1.23) 
+            
+11 and 12       1.56 (.43) 4.49 (1.14) 3187.99 
+(1856.77) 28.79 
+(20.01) 3.16 (1.32) 
+            
+13 and 14       1.84 ( 0.47) 5.24 (1.27) 4420.54 
+(2133.02) 36.13 
+(27.17) 3.94 (2.26) 
+            
+15 through 
+18       2.18 (0.66) 6.12 (1.68) 5575.39 
+(2391.26) 41.45 
+(27.15) 4.22 (2.30) 
+            
+High School 45 52.3 29.5 18.2 64.4 31.1 2.35 (.57) 5.68 (.52) 6470.31 
+(3814.81) 44.58 
+(17.05) 3.38 (1.35) 
+            
+College 66 70.3 29.7 0 14.1 84.4  4.56 
+(4.84)*** 5.82 (0.53) 7753.27 (5.19) 47.26 
+(17.74) 3.82 (1.61) 
+            
+Masters 196 53.4 20.7 25.9 53.1 11.2 1.48 (.77) 4.14 (1.19) 3138.75 
+(808.35) 44.14 
+(22.06) 2.87 (1.32) 
+* Reported values are percentage of N teams having specified number of team members 
+* * Practice model refers to percentage of teams whose swimmers  perform the same amount of yardage or different am ounts of yardage 
+*** Data  was calculated from n=44  due to incomplete data set as some coaches did not complete this entry  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+Table 2. Percentage of respondents using in pool resistance training methods and various kicking methods 
+ 
+ Level N Bucket Parachutes  Bungee Paddles Other* Streamline 
+kick Kick: Pull 
+drills Standard board Triangular 
+board Other† 
+            Age group 45 8.9 28.9 44.4 62.2 26.7 68.9 51.1 62.2 6.7 37.8 
+            High 
+School 45 17.8 22.2 46.7 71.1 8.9 82.2 62.2 80 13.3 20 
+            College 66 28.8 54.5 72.7 75.8 27.3 70.8 53 75.8 16.7 30.3 
+            Masters 196 1.5 3.6 8.2 55.1 6.1 48.5 32.7 75 4.1 16.8 
+      * Other Nonkicking Methods included wearing shoes in &/or clothes in water and using pull buoys 
+      † Other Kicking Methods included using vertical kicking, fins, underwater kicking, or a 1/2  kickboard  
+ 
+  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+Table 3. Percentage of respondents using various methods and doses of stretching 
+ 
+Level N Self  Partner Partner & 
+Self None Repetitions      Stretch 
+Duration     
+              
+      1 2 to 
+3 > 
+3 No response 1-
+10sec 11-
+29sec >30sec No 
+response 
+              Age group 45 64.4 0 13.3 17.8 28.9 28.9 13 28.9 40 26.7 6.7 26.7 
+              High 
+School 45 71.1 0 20 6.7 33.3 51.1 4.4 11.1 42.2 40 4.4 13.3 
+              College 66 56.1 3 27.3 16.7 24.4 43.9 9.1 22.7 28.8 42.4 1.5 27.3 
+              Masters 196 63.8 0.5 2 25 18.4 32.7 13 36.2 37.8 23 4.6 34.7 
+               
+  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+Table 4. Percentage of respondents performing specific stretches* 
+ 
+Level N Partner 
+pectoral 
+† Cross 
+body ‡  Triceps 
+§ Foam 
+roller pecǁ Sleeper ¶ Arms 
+behind 
+** Chin 
+tuck †† Wall 
+pec ‡‡ Prayer 
+§§ Lat 
+stretch ǁǁ Arm 
+circles¶¶ Other*** 
+              Age group 45 2.2 64.4 66.7 6.7 8.9 13.3 2.2 44.4 31.1 35.6 42.2 6.7 
+              High 
+School 45 15.6 77.8 82.2 6.7 22.2 15.6 8.9 66.7 37.8 48.9 40 8.9 
+              College 66 13.6 60.6 59.1 16.7 18.2 25.8 3 59.1 45.5 45.5 37.9 10.6 
+              Masters 196 2.6 52.6 51 8.2 8.2 2.6 3.1 33.7 26 27.6 20.9 8.2 
+ 
+* Each stretch was accompanied by a photo to illustrate the technique 
+      † Swimmer holds arm at 90/90 and partner applies posterior pressure through forearm 
+    ‡ With arm across chest, swimmer uses other arm to apply posterior pressure to forearm  
+    § Swimmer reaches arm up overhead and behind back onto opposite shoulder blade and uses other arm to apply lateral force on elbow towards  
+   opposite shoulder 
+ǁ Swimmer lies on back with foam roller between shoulder blades and holds arms outstretched in 90/90 position 
+  ¶ Swimmer lies on side with upper arm parallel to the floor and the forearm perpendicular to the floor; the swimmer then applies a downward  
+   force on the back of the forearm to bring the hand towards the floor 
+** The swimmer holds arms behind his/her back and a partner pulls the arms together behind the back 
+   
+†† Lying on his/her back, the swimmer protracts their chin, pressing it towards the floor without flexing his/her neck   
+  
+‡‡ Swimmer holds arm at 90/90 against a wall and turns his/her body away from the wall 
+     
+§§ Swimmer starts in quadruped and rests back on heels with arms outstretched on the floor  
+     
+ǁǁ Swimmer places arms overhead against a wall and leans forward at the trunk to bring shoulders into extension 
+  
+¶¶ Swimmer rapidly swings arm in a circular motion  
+        
+*** "Other" is a combined % of participant responses including dynamic stretching, physical therapy exercises, and self pec stretch   
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+Table 5. Percentage of respondents using various types of resistance training and methods of resistance determination 
+ 
+Level N Free 
+weights Medicine 
+balls Body 
+weight Weight 
+machines Bands other* Same 
+resistance †  Swimmer 
+decides Rep 
+max ‡ Body 
+weight § Other ǁ Not 
+answered 
+              
+Age 
+group 45 24.4 42.2 68.9 22.2 42.2 2.2 2.2 2.2 28.9 8.9 51.1 6.7 
+              High 
+School 45 60 48.9 82.2 37.8 53.3 8.9 11.1 31.1 17.8 2.2 28.9 2.2 
+              College 66 86.4 74.2 87.9 51.5 72.7 16.7 3 34.8 40.9 4.5 9.1 7.6 
+              Masters 196 41.8 18.9 43.9 34.2 32.1 1.5 0.5 39.8 5.1 7.7 5.1 41.3 
+               
+* other resistive training includes kettle balls, TRX, and body  blade 
+† All swimmers of a specific group use same weight/resistance  
+‡ Repetition maximum determined for each swimmer individually  
+§ Swimmers use only body weight resistance (push up, plank, etc) 
+ǁ Other methods of determining resistance include letting the coach decide what resistance swimmers will use  
+ 
+  
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+Table 6. Percentage of respondents performing various upper extremity and core strengthening exercises *  
+ 
+Level N Ball 
+shoulder 
+† Ball 
+overhead 
+‡ T § W ǁ Y ¶ IR/ER at 
+0 ** IR/ER at 
+90 †† Diagonals 
+‡‡ Rows  
+§§ Push 
+ups  
+ǁǁ Back 
+extension 
+ ¶¶ Side 
+planks  
+*** Prone 
+planks 
+††† Sit 
+up 
+‡‡‡ Other 
+§§§ 
+Age 
+group 45 26.7 3.3 15.6 8.9 15.6 26.7/28.9 15.6/17.8 17.8 26.7 57.8 20 48.9 64.4 57.8 62.2 
+High 
+School 45 40 33.3 26.7 15.6 20 48.9/53.3 22.2/17.8 28.9 60 77.8 40 71.1 84.4 71.1 86.7 
+College 66 54.5 56.1 51.5 40.9 47 54.5/59.1 33.3/25.8 34.8 60.6 72.7 45.5 78.8 87.9 83.3 81.8 
+Masters 19
+6 12.3 12.3 14.4 9.7 13.3 23.6/28.2 16.9/15.9 13.8 30.3 36.9 19.5 31.3 45.6 51.3 25.6 
+ 
+* Each exercise was accompanied by a photo to illustrate the technique  
+       † Ball shoulder: Medicine ball toss at shoulder level or 90 degrees of flexion  
+      ‡ Ball overhead: Medicine ball toss with arms overhead 
+         § T: Prone on bench or stability ball with arms 90 degrees of shoulder abduction squeezing scapulae 
+    ǁ W: Prone on bench or stability ball with arms at 90 degrees of shoulder  abduction and elbows flexed to 90 degrees, then lif t arms performing a shoulder  
+   rotation 
+¶ Y: Prone on bench or stability ball with arms at 130-140 degrees of abduction, then raising arms and squeezing scapulae 
+  ** IR/ER at 0: With elbow at side, rotating arm across the stomach (Internal Rotatio n) or rotating arm away from the stomach out laterally (External Rotation)  
+††: IR/ER at 90: With the shoulder abducted to 90 degrees and the elbow flexed to 90 degrees rotating the arm towards the gro und (Internal Rotation)  
+      or rotating arm away from the ground towards the ceiling 
+‡‡ Diagonals: Raise arm at a 45 degree angle  
+          §§ Rows:  Squeezing scapulae together, moving from arms outstretched to  arms at the side 
+     ǁ ǁ Push ups: Performing push ups with or without a stability b all 
+       ¶¶ Back Extension: Prone on a stability ball, then extending back and r aising chest off the ball 
+     *** Side Planks: Laying on one side with legs extended and propped up  on one elbow, then lifting pelvis off the floor   
+  ††† Prone Planks: Laying prone propped up on both elbows and feet with the body parallel to th e floor 
+   ‡‡‡ Sit up: Laying on the floor raising scapulae up while contracting ab dominals 
+      §§§ Other: other types of core resistive exercise including leg lifts and V  sit ups 
+       
+“Investigation of In-Water and Dry Land Training Programs for Competitive Swimmers in the United States ” by Tate A et al.  
+Journal of Sport Rehabilitation  
+© 2014 Human Kinetics, Inc.  
+ 
+Table 7. Percentage of respondents performing cross training activities 
+ 
+  N Running Cycling Yoga Tai bo/ 
+Kick 
+boxing P90X Crossfit Aerobic/ 
+step Other * 
+          Age group 45 35.6 20 20 0 0 6.7 2.2 28.9 
+          High 
+School 45 31.1 22.2 15.6 0 6.7 6.7 0 51.1 
+          College 66 48.5 13.6 16.7 4.7 9.1 16.7 1.5 28.9 
+          Masters 196 27.6 19.4 9.2 1 4.1 4.6 1.5 25.5 
+           
+* Other includes walking, Pilates or elliptical training 

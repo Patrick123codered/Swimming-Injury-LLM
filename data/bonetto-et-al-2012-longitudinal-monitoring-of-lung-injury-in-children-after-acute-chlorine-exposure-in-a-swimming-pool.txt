@@ -1,0 +1,359 @@
+Longitudinal Monitoring of Lung Injury in Children
+after Acute Chlorine Exposure in a Swimming Pool
+Gea Bonetto, Massimo Corradi, Silvia Carraro, Stefania Zanconato, Rossella Alinovi, Giuseppina Folesani,
+Liviana Da Dalt, Antonio Mutti, and Eugenio Baraldi
+Department of Pediatrics, University of Padua, Padua; and Laboratory of Industrial Toxicology, Department of Clinical Medicine, Nephrology,
+and Health Sciences and National Institute of Occupational Safety and Prevention Research Center, University of Parma, Parma, Italy
+Rationale: Acute exposure to chlorine gas results in respiratory im-
+pairment, but few data are available on the pathobiology of theunderlying lung damage.Objectives: To assess lung function and potential lung damage path-
+ways in the acute phase and longitudinally over a 15-mo follow-up
+after acute chlorine exposure.Methods: Ten previously healthy children were accidentally exposed
+to chlorine gas at a swimming pool because of an erroneous servicingprocedure. The fraction of nitric oxide in exhaled air (F
+ENO), exhaled
+breath condensate compounds, and serum Clara cell–specific proteinCC16 were repeatedly measured.Main results: In the acute phase, all patients had respiratory distress
+(one child required mechanical ventilation) and reduced lung func-tion (median and interquartile range: FVC, 51 [43–60]% predicted;FEV
+1, 51 [46–60]% predicted). This was accompanied by low F ENO
+(4.7 [3.9–7.9] ppb), high exhaled breath condensate leukotriene B 4
+(LTB 4) levels (24.4 [22.5–24.9] pg/ml), and increased serum CC16
+levels (mean /H11006SEM, 23.4 /H110062.5/H9262g/L). Lung function returned to
+normal in 15 d (FVC, 97% predicted [82–108], and FEV 1, 92% predicted
+[77–102]). F ENOreached normal values after 2 mo (12.6 [11.4–15] ppb),
+whereas LTB 4levels were still increased (12 [9.3–17.1] pg/ml).
+Conclusion: Children acutely exposed to chlorine in a swimming
+pool presented a substantial lung function impairment associated
+with biochemical exhaled breath alterations, represented mainly
+by an increase in LTB 4and a reduction in F ENO. Although lung func-
+tion and F ENOimproved within a few weeks, the increased levels of
+exhaled LTB 4persisted for several months.
+Keywords: chlorine inhalation; exhaled breath condensate; exhaled
+nitric oxide; pneumoproteinemia; pulmonary function
+Acute chlorine inhalation results in a variety of dose-related lung
+effects ranging from respiratory mucous membrane irritation topulmonary edema with acute respiratory failure, but few dataare available on the pathobiology of lung damage underlyingthis intoxication (1–4). Although recovery is the most likelyoutcome, there is still concern as to the possibility of long-termsequelae (5–9).
+There has been increasing interest in the application of nonin-
+vasive methods to assess the pathobiological mechanisms under-lying respiratory disorders. In particular, the analysis of biomark-
+(Received in original form September 7 ,2005; accepted in final form June 6 ,2006 )
+Supported in part by grant 1R01 HL72323-01 from the National Heart, Blood,
+and Lung Institute (NHLBI; Bethesda, MD). Its contents are solely the responsibilityof the authors and do not necessarily represent the official views of the NHLBI or
+National Institutes of Health.
+Correspondence and requests for reprints should be addressed to Eugenio Baraldi,
+M.D., Department of Pediatrics, University of Padua, Via Giustiniani 3, 35128Padua, Italy. E-mail: baraldi@pediatria.unipd.it
+This article has an online supplement, which is accessible from this issue’s table
+of contents at www.atsjournals.org
+Am J Respir Crit Care Med Vol 174. pp 545–549, 2006
+Originally Published in Press as DOI: 10.1164/rccm.200509-1392OC on June 8, 2006
+Internet address: www.atsjournals.orgers in exhaled breath, considering exhaled gases and exhaled
+condensate, has been widely used in pulmonology research set-tings (10). Being completely noninvasive, the analysis of exhaledbreath has the potential for addressing unmet medical needs
+because the respiratory tract can be repeatedly sampled, en-abling longitudinal studies in a wide range of settings.
+Among the broad spectrum of gaseous compounds detectable
+in exhaled air, the fraction of nitric oxide in exhaled air (F e
+NO)
+is the most extensively studied marker. In the lung, NO plays akey role in the physiological regulation of vessel and airwaytone, and it can be altered in several heart–lung diseases (11).
+Exhaled breath condensate (EBC) is a ﬂuid obtained by freez-
+ing exhaled air under spontaneous breathing conditions andprovides a noninvasive means for exploring several aspects oflung biology and pathobiology. A great variety of moleculesoriginating from the surface of the airways can be measuredin EBC, including proinﬂammatory cytokines, oxidative stressindicators, and other compounds involved in airway inﬂamma-tion, such as arachidonic acid metabolites (12).
+Another noninvasive diagnostic approach to assess lung injury
+is the so-called pneumoproteinemia concept, that is, assaying lung-
+speciﬁc proteins (e.g., Clara cell–speciﬁc protein CC16) in serum
+(13). In fact, because CC16 is secreted mainly within the respira-tory tract, its occurrence in the vascular compartment suggestsleakage from the lung into the bloodstream and it is thought toreﬂect both the rate of synthesis and the permeability of thelung epithelium.
+Although noninvasive methods are being used for research
+purposes and are gradually being introduced in clinical settings(14), there have been no reports on their application in a realclinical scenario after acute exposure to and poisoning with pneu-motoxic substances.
+This article reports on the application of noninvasive methods
+to assess the possible pathways of lung injury, in the acute phaseand during a 15-mo follow-up, in a group of children accidentallyexposed to chlorine gases in a swimming pool.
+Some of the results of this study have been previously re-
+ported in the form of an abstract (15).
+METHODS
+On February 17, 2004, 18 children were accidentally exposed to chlorine
+gas during a swimming lesson. After an erroneous servicing procedure,an excessive quantity of chlorine was added to the pool; the water
+turned yellow and the children began to feel ill, with coughing, vomiting,
+dyspnea, and burning eyes and throat.
+Ten children (5 males and 5 females; age range, 6 to 12 yr) were
+taken to the emergency department of Padova children’s hospital
+(Padua, Italy); six were admitted to the pediatric ward and four to thepediatric intensive care unit.
+After admission, the children were evaluated, using standard medi-
+cal procedures. In addition, F e
+NO, spirometry, and EBC analyses were
+performed and serum was stored.
+FeNOmeasurement, spirometry, and EBC collection were done in
+the ﬁrst 24 h after exposure in nine children, and on Day 4 (after
+extubation) in one child needing mechanical ventilation.
+ 
+
+546 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 174 2006
+The children were then reassessed periodically (on Days 1, 3, 8, and
+15 and after 2, 4, 8, and 15 mo). At Month 8, the children also took
+an exercise challenge test.
+The follow-up protocol was approved by the local ethics committee
+and both the parents and the children gave their informed consent totake part in the study.
+Fe
+NOwas measured at a ﬂow rate of 50 ml/s with the NIOX system
+(Aerocrine, Stockholm, Sweden), using a single-breath online methodaccording to European Respiratory Society/American Thoracic Society
+recommendations (16). Lung function was analyzed by ﬂow–volume
+spirometry according to international recommendations. In addition, abronchodilation test was performed within 3 d of the intoxication.Exercise challenge was done on a treadmill as previously described
+(17).
+EBC was collected with a condenser formed by ﬁve components: a
+mouthpiece set up to work also as a saliva trap, a nonrebreathingpolypropylene valve, a 10-cm Tygon tube, a 50-ml polypropylene vial,
+and a Dewar ﬂask refrigerated with ice. Children breathed tidally
+through the mouth for 15 min, without using a nose clip. They main-tained a dry mouth during collection by periodically swallowing saliva.
+EBC samples were stored at –80 /H11034C in polypropylene tubes until analyti-
+cal determinations.
+EBC leukotriene B
+4(LTB 4) and EBC cysteinyl leukotrienes (Cys-
+LTs) were quantiﬁed by ELISA methods as previously described (17,
+18).
+Serum Clara cell–speciﬁc protein CC16 (collected 3–5 h after intoxi-
+cation) was determined by latex immunoassay (19).
+As a control group, we enrolled 10 healthy white children, relatives
+of doctors and nurses of our hospital, with no history of respiratorydiseases or atopy, matched for age and sex with the intoxicated patients(5 males and 5 females; age range, 6 to 12 yr).
+Statistical Analysis
+Results are expressed as median and interquartile range, except forCC16 values, which are expressed as mean and SEM, being normallydistributed. Data from intoxicated children were compared over time
+by repeated measures analysis of variance, followed by the Student-
+Newman-Keuls post hoc test. Correlations were tested by Spearman
+rank test. The Mann-Whitney U test was used to compare biomarker
+levels in exposed and control children. Statistical signiﬁcance was as-
+sumed for p values of less than 0.05. Statistical analysis was performedwith SigmaStat version 3.0 (SPSS, Chicago, IL).
+Seethe online supplement for additional details on the methods.
+RESULTS
+The past medical history of the poisoned children was essentially
+negative and none of them had ever had respiratory problems,in particular a diagnosis of asthma. Five children were atopicbut only one was suffering from mild recurrent allergic rhinitis.At the time of the accident, they were all healthy. Results of
+the standard medical procedures at admission are shown in Table1. In the ﬁrst hours after the poisoning, all of them were oxygen
+TABLE 1. INDIVIDUAL CLINICAL PRESENTATION
+Patient
+1†23 4 567 8 9 1 0
+Sex, age (yr) M, 12 F, 6 F, 8 M, 9 F, 7 F, 10 M, 9 M, 9 F, 8 M, 8
+Chest wall in-drawing Severe Mild Mild Moderate Mild Mild Absent Moderate Absent SevereNasal flaring Present Absent Absent Present Absent Absent Absent Absent Absent Present
+Sat.O
+2* at admission, % /H1102192 92–95 92–95 /H1102192 92–95 92–95 92–95 /H1102192 92–95 /H1102192
+Oxygen dependence, d 8 /H110211 /H1102113 /H110211 /H110211 /H1102112 /H1102114
+Chest X-ray at admission Diffuse interstitial and Normal Normal Interstitial and Normal Normal Normal Normal Mild interstitial Interstitial infil trate
+alveolar infiltrates alveolar infiltrates infiltrates
+Definition of abbreviations :F/H11005female; M /H11005male.
+* Sat.O 2/H11005oxygen saturation in room air, determined with a pulse oximeter.
+†Patient who needed mechanical ventilation.dependent, whereas four children needed more prolonged oxy-
+gen therapy (2–8 d after intoxication). A child needed mechani-
+cal ventilation for 4 d, during which time a bronchoscopy with
+bronchoalveolar lavage (BAL) was performed. Bronchoscopyrevealed wide areas of deepithelialization, with yellow mem-branes along the trachea and main bronchi. BAL ﬂuid analysisshowed that 90% of cells were neutrophils.
+All children were treated with oxygen therapy and inhaled
+steroids, and six were also given antibiotics and systemic steroids.The chest X-ray was pathologic in four children, with a pictureof interstitial involvement accompanied in two cases by patchyand irregular areas of density.
+FENO
+In the exposed children, the median F eNOlevels in the acute
+phase (4.7 [3.9–7.9] ppb) were signiﬁcantly lower than in healthy
+matched control subjects (10.8 [8.9–12.2] ppb) and gradually
+increased during follow-up, reaching normal values at 2 mo (12.6[11.4–15] ppb; Figure 1).
+Pulmonary Function Test
+Spirometric ﬁndings are shown in Figure 2. In the acute phase,there was evidence of an important reduction in FVC and FEV
+1
+(median value of 51% predicted for both), with a normal ratio.There was a signiﬁcant improvement in both parameters after3 and 8 d; normal spirometric values were reached 15 d after
+the exposure to chlorine (median FVC, 97% predicted; median
+FEV
+1, 92% predicted). In the acute phase, four patients pre-
+sented reversibility to /H92522-agonists, deﬁned as a more than 12%
+increase in FEV 1after salbutamol inhalation.
+Exhaled Breath Biomarkers
+At admission, LTB 4levels were signiﬁcantly higher in the EBC
+of the exposed children than in those of the healthy controlsubjects (24.4 [22.5–24.9] vs. 4.7 [3–10.9] pg/ml); their concentra-tion remained high after the ﬁrst 8 d (23.3 [22.4–25.8] pg/ml)and then progressively declined over 8 mo, when they were notsigniﬁcantly different from control subjects (2.5 [0.5–4.4] pg/ml;Figure 3).
+Cys-LT levels were also higher in exposed children at admis-
+sion than in control subjects (25.6 [13.1–38.3] vs. 7.2 [4–15.8] pg/ml) and then gradually dropped during the follow-up; at 8 mothey did not differ from control subjects (4.3 [2–5.9] pg/ml).
+Serum CC16
+Only one sampling time was available for CC16 (within 3–5 hof exposure); serum CC16 levels were signiﬁcantly higher in theexposed children than in healthy children (23.4 /H110062.5 vs. 9.5 /H11006
+0.5/H9262g/L).
+ 
+
+Bonetto, Corradi, Carraro, et al. : Chlorine Inhalation and Lung Injury 547
+Figure 1. Time course of exhaled nitric oxide (F ENO) levels
+(median and interquartile range [IQR]). F ENOwas measured
+on the day of admission in 9 out of 10 children and thenin all 10 patients during the follow-up after acute chlorineinhalation. (Control values, 10.8 [8.9–12.2] ppb.)
+Exercise Challenge Test
+The exercise challenge, performed 8 mo after the accident, re-
+vealed no exercise-induced bronchoconstriction; none of thechildren had a drop in FEV
+1greater than 12% and the mean
+FEV 1reduction was 5.5 /H110060.6%.
+Correlations
+There was a signiﬁcant negative correlation between EBC LTB 4
+levels and FEV 1% predicted (p /H110050.01,r/H11005–0.4) and between
+EBC LTB 4levels and F eNOvalues (p /H110050.03,r/H11005–0.04). F eNOand
+FVC% predicted were not correlated at any time point (p /H11022
+0.2 at all time points). F eNOvalues at admission were correlated
+with initial clinical severity (p /H110050.03,r/H11005–0.6) and with the
+length of oxygen dependence (p /H110050.01,r/H11005–0.7). Atopic and
+nonatopic children did not differ in any of the inﬂammatory
+markers studied, or in pulmonary function. Seethe online supple-
+ment for additional details on the results.
+Figure 2. Time course of FVC% predicted and FEV 1%
+predicted (median and IQR) after acute chlorine inhala-tion. Pulmonary function tests were performed on theday of admission and at several time points during the15-mo follow-up (FEV
+1/FVC ratio values, range: 84–87).
+(Spirometry was performed in 9 children on Days 1 and3 and then in all 10 patients during the follow-up.)
+DISCUSSION
+To our knowledge, this is the ﬁrst study in humans to have
+applied noninvasive techniques (exhaled breath analysis) to as-
+sess lung injury in a real clinical scenario after acute chlorineexposure and poisoning.
+Case reports of lung injuries after acute chlorine inhalation in
+occupational environments and also after community accidents
+have already been published (1, 3, 4), but they describe lung
+injuries in terms of lung function and imaging techniques,whereas little information is available on the underlying lung
+pathobiology after chlorine exposure in humans (9, 20).
+Biological events in the lung can be evaluated by invasive
+methods, such as bronchoscopy and BAL, which have providedimportant insight on the biological processes occurring in lung
+diseases, and they still represent the “gold standard.” However,
+these methods have limited applicability, mainly because of theinvasiveness of the sampling procedures, which makes them
+ 
+
+548 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 174 2006
+Figure 3. Time course of leukotriene B 4(LTB 4) levels (me-
+dian and IQR). LTB 4was measured in exhaled breath con-
+densate (EBC) collected on admission from 9 patients, andthen from all 10 patients 1 wk, 2 mo, and 8 mo after acutechlorine inhalation. (Control values, 4.7 [3–10.9] pg/ml.)
+unsuitable for repeated measurements, particularly in children.
+As an alternative, several lung disease biomarkers can be ana-
+lyzed from exhaled air and blood (10, 15, 21).
+Previous studies reported respiratory symptoms in the acute
+phase after chlorine exposure, accompanied by restrictive ormixed deﬁcits at pulmonary function tests, with symptoms fadingover a few days and pulmonary function test ﬁndings returningto normal over a few months in most cases (5, 6). Nevertheless,some authors reported persistent airway hyperresponsivenessand obstruction in association with exposure to respiratory irri-tants and physical exertion even years after intoxication (7, 9).
+In this longitudinal study, we found severe pulmonary func-
+tion derangement in the ﬁrst week after chlorine inhalation, withprogressive improvement leading to normalization after 15 d(Figure 2). At the exercise challenge performed 8 mo after theaccident, none of the children presented a signiﬁcant drop inFEV
+1, suggesting normal bronchial hyperresponsiveness to an
+indirect stimulus. However, because direct and indirect chal-lenges are weakly correlated and measure different mechanismsof bronchial hyperresponsiveness, we recognize that the choiceof an exercise challenge instead of a methacholine test may bea limitation of our study.
+Fe
+NOvalues were lower at admission and in the ﬁrst weeks
+by comparison with age-matched healthy control subjects andprogressively increased to normal levels after 2 mo. The low
+Fe
+NOlevels observed after chlorine inhalation may be the conse-
+quence of massive epithelial destruction with subsequent dam-age of NO-producing cells of the airway wall—that is, epithelial,endothelial, and nervous cells (11, 22). This hypothesis is sup-ported by the bronchoscopic ﬁndings of large areas of airwayepithelial loss with proteinaceous exudates in the child whounderwent endoscopy during mechanical ventilation.
+Another possible cause of low F e
+NOvalues could be the reduc-
+tion in lung volumes. However, this hypothesis seems unlikelybecause a nonsigniﬁcant relationship was found between vitalcapacity and F e
+NOvalues. Also, steroid therapy could have af-
+fected F eNOvalues; however, the lowest F eNOlevels were regis-
+tered at admission, when administration of steroids had been
+initiated a few hours previously. In addition, F eNOlevels progres-
+sively increased in the ﬁrst week, when all children were receivinginhaled steroids.The hypothesis of diffuse epithelial damage is also supported
+by the increased values of serum CC16 we observed in the
+intoxicated children, which may be interpreted as a sign of injury
+to the lung epithelial permeability barrier. CC16 is secretedby polarized cells in the lumen of the respiratory tract, so its
+occurrence in the vascular compartment is suggestive of its pas-
+sage from the lungs into the bloodstream via the bronchoal-
+veolar–blood barrier (13). Moreover, increased CC16 levels,
+together with the alveolar inﬁltrates on chest X-rays in two
+patients, suggest peripheral lung involvement after chlorine inha-
+lation, beside the bronchial damage shown by functional tests.
+EBC LTB
+4levels were clearly higher in our patients at admis-
+sion than in control children. Leukotrienes are potent lipid medi-
+ators derived from arachidonic acid metabolism; LTB 4is in-
+volved in a number of events, including stimulation of leukocyte
+migration from the bloodstream, neutrophil recruitment and
+activation, and increased interleukin production (23). The high
+EBC LTB 4levels that we observed in the intoxicated children
+may indicate active neutrophilic inﬂammation in the airways
+of these patients, with the subsequent release of proteolytic
+enzymes, O 2radicals, and lipid mediators, resulting in tissue
+damage. This is consistent with the differential cell count we
+observed in the child needing mechanical ventilation, whose
+BAL ﬂuid contained 90% neutrophils. The possible role of LTB 4
+in lung damage is further supported by its negative correlationwith the lung function test results. Published data on in vitro
+tests also indicate a role for neutrophils in the lung response to
+acute chlorine exposure in mice and rats (24, 25).
+The high LTB
+4levels observed 2 mo after the exposure sug-
+gest persistent neutrophilic inﬂammation despite the lack of
+respiratory symptoms and the normalization of routine lung
+function test ﬁndings. Neutrophil recruitment is probably not
+the only factor involved in the pathogenesis of lung injury due
+to chlorine inhalation; in fact, chlorine exposure also inducedan increase in EBC Cys-LT levels. These eicosanoids are
+produced by several cell types in the lung, including mast cells,
+basophils, eosinophils, and macrophages. It is known that Cys-
+LT production induces contraction of the airways and vascular
+smooth muscle, stimulates mucus secretion, and increases micro-vascular permeability (26).
+ 
+
+Bonetto, Corradi, Carraro, et al. : Chlorine Inhalation and Lung Injury 549
+Taken together, these latter ﬁndings led us to hypothesize a
+role for the arachidonic acid pathway in the lung damage seen
+in our children, and we speculate that, in addition to steroids,medication inhibiting the 5-lipoxygenase pathway and thus theproduction of LTB
+4and Cys-LTs may be useful in such cases
+of acute lung injury.
+In conclusion, children acutely exposed to chlorine in a swim-
+ming pool had substantial lung function impairment associated
+with biochemical exhaled breath alterations, represented mainlyby an increase in leukotrienes and a reduction in F e
+NO. Although
+lung function and exhaled NO improved within a few weeks,
+the increased levels of exhaled LTB 4persisted for several
+months. These ﬁndings shed new light on the pathobiology ofchlorine-induced lung damage and may suggest new therapeuticimplications for these patients.
+Conflict of Interest Statement :G.B. does not have a financial relationship with a
+commercial entity that has an interest in the subject of this manuscript. M.C.
+does not have a financial relationship with a commercial entity that has an interest
+in the subject of this manuscript. S.C. does not have a financial relationship witha commercial entity that has an interest in the subject of this manuscript. S.Z.does not have a financial relationship with a commercial entity that has an interest
+in the subject of this manuscript. R.A. does not have a financial relationship with
+a commercial entity that has an interest in the subject of this manuscript. G.F.does not have a financial relationship with a commercial entity that has an interestin the subject of this manuscript. L.D.D. does not have a financial relationship
+with a commercial entity that has an interest in the subject of this manuscript.
+A.M. does not have a financial relationship with a commercial entity that has aninterest in the subject of this manuscript. E.B. has served on the scientific advisoryboard for Aerocrine (Sweden).
+Acknowledgment :The authors thank Prof. A. Bernard and staff (University of
+Louvain) for CC16 analysis of serum samples. The authors also thank Dr. F. L. M.
+Ricciardolo (University of Genoa) for useful suggestions, and the children and
+parents for their enthusiastic participation in the follow-up study.
+References
+1. Sexton JD, Pronchik DJ. Chlorine inhalation: the big picture. Clin Toxicol
+1998;36:87–93.
+2. Mrvos R, Dean BS, Krenzelok EP. Home exposures to chlorine/chlora-
+mine gas: review of 216 cases. South Med J 1993;86:654–657.
+3. Agabiti N, Ancona C, Forastiere F, Di Napoli A, Lo Presti E, Corbo
+GM, D’Orsi F, Perucci CA. Short term respiratory effects of acute
+exposure to chlorine due to a swimming pool accident. Occup Environ
+Med2001;58:399–404.
+4. Parimon T, Kanne JP, Pierson DJ. Acute inhalation injury with evidence
+of diffuse bronchiolitis following chlorine gas exposure at a swimmingpool. Respir Care 2004;49:291–294.
+5. Jones RN, Hughes JM, Glindmeyer H. Lung function after acute chlorine
+exposure. Am Rev Respir Dis 1986;134:1190–1195.
+6. Abhyankar A, Bhambure N, Kamath NN, Pajankar SP, Nabar ST,
+Shrenivas A, Shah AC, Deshmukh SN. Six month follow-up of four-
+teen victims with short-term exposure to chlorine gas. J Soc Occup
+Med1989;39:131–132.
+7. Schwartz DA, Smith DD, Lakshminarayan S. The pulmonary sequelae
+associated with accidental inhalation of chlorine gas. Chest 1990;97:
+820–825.8. Brooks SM, Weiss MA, Bernstein I. Reactive airway dysfunction syn-
+drome (RADS): persistent asthma syndrome after high level irritant
+exposures. Chest 1985;88:376–384.
+9. Schonhofer B, Voshaar T, Kohler D. Long-term lung sequelae following
+accidental chlorine gas exposure. Respiration (Herrlisheim) 1996;63:
+155–159.
+10. Kharitonov SA, Barnes PJ. Exhaled markers of pulmonary disease. Am
+J Respir Crit Care Med 2001;163:1693–1722.
+11. Ricciardolo FL, Sterk PJ, Gaston B, Folkerts G. Nitric oxide in health
+and disease of the respiratory system. Physiol Rev 2004;84:731–765.
+12. Hunt J. Exhaled breath condensate: an evolving tool for noninvasive
+evaluation of lung disease. J Allergy Clin Immunol 2002;110:28–34.
+13. Hermans C, Bernard A. Lung epithelium–speciﬁc proteins: characteris-
+tics and potential applications as markers. Am J Respir Crit Care Med
+1999;159:646–678.
+14. Smith AD, Cowan JO, Brassett KP, Herbison GP, Taylor DR. Use of
+exhaled nitric oxide measurements to guide treatment in chronic
+asthma. N Engl J Med 2005;352:2163–2173.
+15. Bonetto G, Corradi M, Carraro S, Zanconato S, Bastardo C, Mutti A,
+Bernard A, Baraldi E. Swimming pool acute chlorine inhalation inchildren: pulmonary function and markers of lung damage over a8 month follow-up [abstract]. Eur Respir J 2005;26:395.
+16. Baraldi E, de Jongste JC. Measurement of exhaled nitric oxide in children,
+2001 [ERS/ATS statement]. Eur Respir J 2002;20:223–237.
+17. Carraro S, Corradi M, Zanconato S, Alinovi R, Pasquale MF, Zacchello
+F, Baraldi E. Exhaled breath condensate cysteinyl leukotrienes areincreased in children with exercise-induced bronchoconstriction.J Allergy Clin Immunol 2005;115:764–770.
+18. Bodini A, Peroni D, Vicentini L, Loiacono A, Baraldi E, Ghiro L, Corradi
+M, Alinovi R, Boner AL, Piacentini GL. Exhaled breath condensate
+eicosanoids and sputum eosinophils in asthmatic children: a pilot study.Pediatr Allergy Immunol 2004;15:26–31.
+19. Lagerkvist BJ, Bernard A, Blomberg A, Bergstrom E, Forsberg B,
+Holmstrom K, Karp K, Lundstrom NG, Segerstedt B, Svensson M,et al.Pulmonary epithelial integrity in children: relationship to ambient
+ozone exposure and swimming pool attendance. Environ Health
+Perspect 2004;112:1768–1771.
+20. Leroyer C, Malo JL, Infante-Rivard C, Dufour JG, Gautrin D. Changes in
+airway function and bronchial responsiveness after acute occupationalexposure to chlorine leading to treatment in a ﬁrst aid unit. Occup
+Environ Med 1998;55:356–359.
+21. Watson WP, Mutti A. Role of biomarkers in monitoring exposures to
+chemicals: present position, future prospects. Biomarkers 2004;9:211–
+242.
+22. de Gouw HW, Grunberg K, Schot R, Kroes AC, Dick EC, Sterk PJ.
+Relationship between exhaled nitric oxide and airway hyperrespon-siveness following experimental rhinovirus infection in asthmatic sub-jects. Eur Respir J 1998;11:126–132.
+23. Freeland HS, Schleimer RP, Schulman ES, Lichtenstein LM, Peters SP.
+Generation of leukotriene B
+4by human lung fragments and puriﬁed
+human lung mast cells. Am Rev Respir Dis 1988;138:389–394.
+24. Martin JG, Campbell HR, Iijima H, Gautrin D, Malo JL, Eidelman DH,
+Hamid Q, Maghni K. Chlorine-induced injury to the airways in mice.Am J Respir Crit Care Med 2003;168:568–574.
+25. Demnati R, Fraser R, Ghezzo A, Martin JG, Plaa G, Malo JL. Time-
+course of functional and pathological changes after a single high acuteinhalation of chlorine in rats. Eur Respir J 1998;11:922–928.
+26. Drazen JM, Israel E, O’Byrne PM. Treatment of asthma with drugs
+modifying the leukotriene pathway. N Engl J Med 1999;340:197–206.
+ 
+

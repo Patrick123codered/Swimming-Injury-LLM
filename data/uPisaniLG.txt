@@ -1,0 +1,2928 @@
+ 
+ 
+ 
+ 
+This work is licensed under a Creative Commons Attribution -NonCommercial -
+ShareAlike 4.0 International License . 
+ 
+ 
+How to cite this thesis  / dissertation  (APA referencing method) : 
+ 
+Surname, Initial(s). (Date). Title of doctoral thesis  (Doctoral thesis). Retrieved from 
+http://scholar.ufs.ac.za/ rest of thesis URL on KovsieScholar   
+Surname,  Initial(s). (Date). Title of master’s dissertation (Master’s dissertation). 
+Retrieved from http://scholar.ufs.ac.za/ rest of thesis URL on KovsieSchola r  
+
+Freestyle Biomechanics and Shoulder Injuries in Competitive Swimming 
+ 
+LOUIS GEORGE DU PISANI 
+ 
+In fulfilment of the degree  
+MAGISTER ARTIUM 
+(Biokinetics) 
+ 
+in the 
+ 
+Faculty of Humanities 
+ 
+(Department of Exercise and Sport Sciences) 
+at the 
+University of the Free State 
+ 
+Study Leader:  
+Prof. F.F. Coetzee 
+ 
+BLOEMFONTEIN 
+January 2018 
+ 
+i 
+ DECLARATION 
+THESIS TITLE: 
+Freestyle Biomechanics and Shoulder Injuries in Competitive Swimming 
+I, Louis George du Pisani, declare that the Master’s Degree research dissertation that 
+I herewith submit for the Master’s Degree qualification at the University of the Free 
+State is my independent work, and that I have not previously submitted it for a 
+qualification at another institution of higher education. 
+ 
+SIGNATURE:  
+DATE:      5 January 2018 
+  
+
+ii 
+ ACKNOWLEDGEMENTS 
+ 
+I would like to thank the following people for their contributions to this dissertation 
+through their assistance in the data collection and analysis: 
+ My Heavenly Father, for the grace and mercy to finish this work. 
+ My promoter , Prof. Derik Coetzee, I am eternally grateful to you for your 
+supervision. Your assistance, guidance and input in this dissertation are greatly 
+appreciated. Without you this would not have been possible. 
+ Prof. Robert Schall, University of the Free State, for your input and statistical 
+support. I am truly grateful. 
+ Marco Markgraaff, who made all his resources and club available for this study. 
+ This study would not have been possible without the consent of the swimmers, 
+for who I have great respect and feel much gratitude. 
+ My family, in particular my wife and father, for giving me continuous support 
+during this research. 
+  
+iii 
+ Table of Contents 
+1 CHAPTER ONE: Introduction and Problem Statement ................... 1  
+ Introduction ................................................................................................. 1  
+ Problem Statement ..................................................................................... 2  
+ Objectives of the Study .............................................................................. 2  
+ Hypothesis ................................................................................................... 3  
+2 CHAPTER TWO: Literature Review .................................................. 4  
+ Epidemiology of Injuries............................................................................. 4  
+ The Prevalence and Incidence of Shoulder Injuries in Freestyle ............ 5  
+ Aetiology of Overuse Injuries .................................................................... 6  
+ Definition of an Overuse Injury ........................................................... 7  
+ Overuse Shoulder Injuries in the Swimming Shoulder ............................ 9  
+ Causes of Shoulder Pain in Swimmers ............................................ 10  
+ Defining the Term ‘Swimmer’s Shoulder’ ............................................... 12  
+ Pathologies Associated with ‘Swimmer’s Shoulder’ ............................. 13  
+ Subacromial Impingement ................................................................. 14  
+ Supraspinatus Tendinopathy ............................................................ 14  
+ Risk Factors ............................................................................................... 14  
+ Non-modifiable Intrinsic Risk Factors .............................................. 15  
+ Modifiable Intrinsic Risk Factors ...................................................... 17  2.7.1.1 Age            15 
+2.7.1.2 Gender            16  
+2.7.1.3 Combination of Age and Gender         16  
+2.7.1.4 Previous Shoulder Injury          17  
+iv 
+ 
+ Non-Modifiable Extrinsic Risk Factors ............................................. 21  
+ Inciting Events .................................................................................... 21  
+ Potentially Modifiable Extrinsic Factors ........................................... 23  
+ Freestyle Stroke Biomechanics ............................................................... 24  
+ Hand entry ........................................................................................... 25  
+ The Pull Through ................................................................................ 26  
+ Recovery ............................................................................................. 26  
+ Functional Anatomy During Freestyle Swimming .................................. 27  
+ Freestyle Pathomechanics ....................................................................... 28  
+ Hand Entry Pathomechanics ............................................................. 28  
+ Hand/Arm Position at the end of the Hand Entry Pathomechanics 29  
+ Early Pull Through Pathomechanics ................................................ 29  
+ Late Pull Through Pathomechanics .................................................. 31  
+ Hand Exit Pathomechanics ................................................................ 31  
+ Recovery Phase .................................................................................. 31  2.7.2.1 Scapular Dyskinesis           17 
+2.7.2.2 Shoulder Laxity           18  
+2.7.2.3 Shoulder Instability          18  
+2.7.2.4 Range of Motion           18  
+2.7.2.5 Muscle Imbalance           19  
+2.7.2.6 Fatigue            20  
+2.7.2.7 Flexibility            20  
+2.7.3.1 Speciality (distance vs. sprint)          21
+2.7.4.1 Excessive Increase in Exercise Volume         21 
+2.7.4.2 Taking Time off from the Sport         23  
+2.7.5.1 Paddle Swimming            23 
+2.7.5.2 Technical Errors           23  
+v 
+ 
+ Catch-up Stroke .................................................................................. 32  
+3 CHAPTER THREE: Method of Research ........................................ 33  
+ Introduction ............................................................................................... 33  
+ Study Design ............................................................................................. 33  
+ Study Participants ..................................................................................... 33  
+ Inclusion and Exclusion Criteria .............................................................. 34  
+ Information Document and Informed Consent/Assent .......................... 34  
+ Demographic Data .................................................................................... 34  
+ Questionnaire ............................................................................................ 35  
+ General Swimming Information ......................................................... 36  
+ Swim Training Variables .................................................................... 36  
+ Injury Definition .................................................................................. 36  
+ Injury Classification............................................................................ 37  
+ Measurements ........................................................................................... 38  
+ Laboratory Testing ............................................................................. 38  
+ Freestyle Biomechanical Testing using the Aquanex+Video ......... 39  3.7.2.1 Frequency            36 
+3.7.2.2 Time            36  
+3.7.2.3 Distance            36  
+3.7.4.1 Mechanism and Side of Injury          37 
+3.7.4.2 Shoulder Pain/Symptoms and Functional Ability       37  
+3.7.4.3 Injury Severity           37  
+3.7.4.4 Other Injury Classification Issues         37  
+3.7.4.5 Painful Phases of the Freestyle Stroke        37  
+3.8.1.1 Height and Weight           38 
+3.8.1.2 Shoulder Range of Movement         38  
+vi 
+ 
+ Methodological and Measurement Errors ............................................... 41  
+ Pilot Study ................................................................................................. 41  
+ Ethical Aspects ......................................................................................... 41  
+ Analysis of the Data .................................................................................. 42  
+ Descriptive Statistics ......................................................................... 42  
+ Binary Risk Factors for Injury ........................................................... 42  
+ Quantitative Risk Factors for Injury .................................................. 43  
+4 CHAPTER FOUR: Results ............................................................... 44  
+ Participants ................................................................................................ 44  
+ Demographic Data .............................................................................. 44  
+ Questionnaire ............................................................................................ 45  
+ General Swimming Information ......................................................... 45  
+ Swim Training Variables .................................................................... 47  
+ Shoulder Injury ................................................................................... 48  
+ Freestyle Stroke Biomechanical Analysis Results .......................... 51  3.8.2.1 Testing Protocol            39 
+3.8.2.2 Validation            40  
+3.8.2.3 Freestyle Biomechanical Analysis         40  
+4.2.1.1 Years Participating           45 
+4.2.1.2 Stroke Preference           45  
+4.2.1.3 Distance Preference          46  
+4.2.1.4 Breathing Side           46  
+4.2.3.1 Prevalence of Shoulder Injuries          48 
+4.2.3.2 Mechanism and Side of Injury         50  
+4.2.3.3 Injury Severity           51  
+4.2.3.4 Painful Phases during the Freestyle Stroke        51  
+vii 
+ 
+ Aquanex+Video Quantitative Data Results ...................................... 58  
+5 CHAPTER FIVE: Discussion of Results ......................................... 62  
+ Participants ................................................................................................ 62  
+ General Swimming Information ............................................................... 63  
+ Years Participating ............................................................................. 63  
+ Stroke Preference ............................................................................... 63  
+ Distance Preference ........................................................................... 64  
+ Breathing Side .................................................................................... 64  
+ Swim Training Variables ........................................................................... 64  
+ Frequency ........................................................................................... 65  
+ Time ..................................................................................................... 65  
+ Distance ............................................................................................... 65  
+ Shoulder Injury .......................................................................................... 66  
+ Prevalence of Shoulder Injury ........................................................... 66  
+ Prevalence of Shoulder Injury and Gender ...................................... 67  
+ Prevalence of Shoulder Injury and Age ............................................ 68  
+ Mechanism of Injury ........................................................................... 68  
+ Side of Injury ....................................................................................... 68  
+ Injury Severity ..................................................................................... 69  
+ Painful Phases during the Freestyle Stroke ..................................... 69  
+ Freestyle Pathomechanics and Shoulder Injuries ........................... 70  4.2.4.1 Hand Entry Phase – Right Hand/Arm         55 
+4.2.4.2 Late Pull Through Phase (Push Phase) – Right Hand/Arm      55  
+4.2.4.3 Swimming Catch-Up Stroke – Right Hand/Arm       55  
+4.2.4.4 Hand Entry Phase – Left Hand/Arm        58  
+4.2.4.5 Early Pull Through Phase – Left Hand/Arm        58  
+4.2.4.6 Swimming Catch-up Stroke – Left Hand/Arm       58  
+viii 
+ 
+ Aquanex+Video Quantitative Data Analysis and Shoulder Injuries...... 74  
+6 Conclusion and Recommendations ............................................... 75  
+ Conclusion ................................................................................................. 76  
+ Recommendations .................................................................................... 76  
+7 Bibliography .................................................................................... 77  
+8 Appendices ...................................................................................... 84  
+ Appendix A - Permission Letter (Mr. M. Markgraaff) .............................. 84  
+ Appendix B - Permission Letter (Mr. D.B. Prinsloo) ............................... 86  
+ Appendix C - Ethical Clearance ............................................................... 88  
+ Appendix D - Information Document ....................................................... 89  
+ Appendix E - Informed Consent ............................................................... 90  
+ Appendix F - Under Aged Informed Assent ............................................ 91  
+ Appendix G - Aquanex Testing Sheet ..................................................... 92  
+ Appendix H - Sport and Symptom Survey Questionnaire ..................... 93  
+ Appendix I - Shoulder Range of Movement Sheet ................................. 96  
+ Appendix J - Freestyle Biomechanical Analysis Sheet ......................... 97  
+  5.4.8.1 Hand Entry            71 
+5.4.8.2 Hand/Arm Position at the end of the Hand Entry Phase      72  
+5.4.8.3 Early Pull Through Phase– Elbow Position        72  
+5.4.8.4 Early Pull Through Phase– Hand Position        73  
+5.4.8.5 Catch-up Stroke           73  
+ix 
+ Abstract 
+Introduction:   Epidemiologic studies have consistently noted a high incidence and 
+prevalence of shoulder pain and dysfunction in competitive swimmers.  The reasons 
+for this are probably not singular but many injuries originate from faulty techniques or 
+mechanisms.  Some specific freestyle technical flaws heavily stress the shoulders and 
+can lead to overuse.  An assessment of an injured swimmer’s biomechanics should 
+be conducted to identify factors that may contribute to injury.  Improving stroke 
+technique should be considered to prevent shoulder injuries. 
+Objectives:   To determine the prevalence of shoulder injuries at the University of the 
+Free State’s swimming club (Kovsie Aquatics) during the 2014/2015 swimming 
+season, and to investigate if a correlation between certain freestyle biomechanical 
+hand and arm positions and shoulder injuries under these swimmers exist. 
+Methods:   Sixteen competitive swimmers (6 male, 10 female) adhering to the 
+inclusion criteria participated in the study.  Demographic data, general swimming 
+information, data on swim training load and shoulder injuries were collected.  All 
+participants were subjected to laboratory testing, followed by Aquanex+Video testing 
+while sprinting freestyle over 10 metres.  Freestyle biomechanics was analysed with 
+the use of an analysis template.  Data captured by the Aquanex+Video hand sensors 
+were processed and analysed.  The association between binary risk factors and the 
+binary variable “shoulder injury” was assessed using Fisher’s exact test, and the 
+relevant P-value is reported.  Furthermore, the risks of injury for subjects with the risk 
+factor, and subjects without the risk factor are reported, together with an estimate and 
+an exact 95% confidence interval (CI) of the risk ratio (RR).  Similarly, the association 
+between quantitative risk factors and shoulder injury was assessed using one-way 
+ANOVA. 
+Results:  In this study 62.5% of the participants presented with a shoulder injury during 
+the 2014/2015 swimming season.  Eighty percent of the female swimmers in this 
+population presented with a shoulder injury, compared to 30% of the male swimmers.  
+The 17 to 18 years age category seemed to be most susceptible to injury, with 75% of 
+the swimmers in this age category presenting with a shoulder injury.  Bilateral shoulder 
+injuries were experienced by 70% of the injured swimmers, while 20% experienced 
+symptoms on the right side only, and 10% only on the left side.  Sixty percent of the 
+injured participants experienced their symptoms only during the early pull through 
+x 
+ phase while 10% of the swimmers experienced symptoms only during the recovery 
+phase.  Thirty percent of the swimmers experienced symptoms during both the early 
+pull through and recovery phase.  Although none of the risk factors investigated in this 
+study was statistically significant, the presence of the following freestyle 
+pathomechanics increased the risk of shoulder injury, and should be considered in 
+future research of this problem: 
+1. A right hand that crosses the midline upon hand entry; 
+2. Thumb first hand entry; 
+3. A left hand entering between the midline of the body and the shoulder 
+Hand/Arm position where the shoulder is in hyperflexion with the fingers facing 
+upward at the end of the entry phase; 
+4. Hand position outside the elbow during the early pull through phase; 
+5. Swimming ‘catch-up’ stroke. 
+Conclusion:  In the current study the prevalence of shoulder injuries is alarmingly 
+high at 62.5%.  Female swimmers seem to be at a higher risk for shoulder injuries than 
+their male counterparts.  A relationship between certain freestyle pathomechanics and 
+shoulder injuries in this population might exist, and some potential risk factors were 
+identified.  Due to the relatively small sample size of this study none of the risk factors 
+for shoulder injury based on freestyle pathomechanics was statistically significant, thus 
+only indications and directions for future research can be suggested. 
+Key words: Freestyle Biomechanics, Shoulder Injuries, Competitive 
+Swimming  
+xi 
+ List of Figures  
+Figure 2-1  The sequence of prevention of sports injuries .......................................... 4  
+Figure 2-2. Profile of chronic micro traumatic soft tissue injury (Leadbetter, 1992) .... 7  
+Figure 2-3.  The 'Iceberg' Effect (Fredberg & Stangaard-Pederson, 2008) ................ 8  
+Figure 2-4.  The 'Iceberg' Effect ................................................................................. 9  
+Figure 2-5.  Multifactorial model of athletic injury aetiology ...................................... 10  
+Figure 2-6.  Comprehensive model for injury causation ........................................... 11  
+Figure 2-7.  A dynamic recursive model of the aetiology of sport injuries................. 12  
+Figure 2-8.  Phases of the freestyle swimming cycle ............................................... 24  
+Figure 2-9.  Hand entry ............................................................................................ 26  
+Figure 2-10.  The recovery phase ............................................................................ 27  
+Figure 2-11.  Schematics of a dropped elbow .......................................................... 30  
+Figure 2-12.  Schematics of the high-elbow pull ....................................................... 30  
+Figure 3-1.  Painful phases of the freestyle stroke ................................................... 38  
+Figure 3-2.  Technique for testing shoulder rotational range of motion .................... 39  
+Figure 3-3.  Aquanex+Video camera view ............................................................... 40  
+Figure 4-1.  Age categories ...................................................................................... 44  
+Figure 4-2.  Level of qualification ............................................................................. 45  
+Figure 4-3.  Stroke preference ................................................................................. 46  
+Figure 4-4.  Distance preference .............................................................................. 46  
+Figure 4-5  Training load and shoulder injuries ........................................................ 48  
+Figure 4-6.  Prevalence of shoulder injuries ............................................................. 48  
+Figure 4-7.  Injured vs uninjured swimmers in age category .................................... 49  
+Figure 4-8.  Injured and uninjured swimmers represented in percentages ............... 49  
+Figure 4-9.  Injured side ........................................................................................... 50  
+Figure 4-10.  Injured side when differentiating between sides .................................. 50  
+Figure 4-11.  Distribution of the painful phases of the freestyle stroke ..................... 51  
+  
+xii 
+ List of Tables 
+Table 2-1  Aetiology of swimmer's shoulder ............................................................. 15  
+Table 2-2.  Functional anatomy during freestyle swimming ...................................... 28  
+Table 4-1.  Training variables ................................................................................... 47  
+Table 4-2.  Potential binary risk factors of right shoulder injury ................................ 53  
+Table 4-3.  Potential binary risk factors of left shoulder injury .................................. 56  
+Table 4-4.  Aquanex+Video quantitative data – bilateral shoulders.......................... 59  
+Table 4-5.  Aquanex+Video quantitative data – left shoulder ................................... 60  
+Table 4-6.  Aquanex+Video quantitative data – right shoulder ................................. 61  
+ 
+1 
+ 1 CHAPTER ONE: Introduction and Problem Statement 
+ Introduction 
+Swimming is a unique sport that combines upper and lower extremity strength 
+exercises with cardiovascular training in a non-weight bearing environment 
+(Wanivenhaus et al., 2012).  Competitive swimmers begin their swimming careers as 
+early as age seven, and most of them train and compete year round (Sein et al., 2010).  
+Intensive training starts early, typically at the age of eight to eleven years, and the 
+amount of training can be excessive (Bak, 2010). 
+Swim training involves repetitive overhead movement (Sein et al., 2010).  During 
+freestyle, 80% of the propulsion power is derived from the pull and 20% from the kick 
+(King, 1995).  In a competitive training program a swimmer can easily log up to a 
+million arm strokes per year (McMaster, 1999), and can exceed 4000 strokes for one 
+shoulder in a single workout, making swimming a common source of shoulder 
+pathology (Tovin, 2006).   
+Epidemiologic studies have consistently noted a high incidence and prevalence of 
+shoulder pain and dysfunction in competitive swimmers with the prevalence reported 
+to be between 12% and 91% (Beach et al., 1992; McMaster et al., 1998; Puckree & 
+Thomas, 2006; Bansal et al., 2007; Wolf et al., 2009; Sein et al., 2010; Tate et al., 
+2012) and incidence between 10% and 69% (Beach et al., 1992; McMaster & Troup, 
+1993).  Repetitive micro trauma or overuse account for most injuries in swimming 
+athletes, and with successful management usually do not require surgical intervention 
+(McMaster, 1996). 
+McMaster (1999) further stated that shoulder pain is not only the most common 
+complaint for swimmers it also has a high potential to have an impact on a swimmer’s 
+ability to compete.  It has been suggested that swimmers with interfering shoulder pain 
+might not progress in training and will therefore not compete as effectively (McMaster 
+& Troup, 1993), and injuries to the shoulder can be devastating (McMaster, 1999).  
+Shoulder problems under the swimming population resemble that of the disabled 
+thrower’s shoulder, but the clinical findings associated dysfunctions are not quite the 
+same (Bak, 2010).  Swimmers with shoulder pain should therefore be evaluated and 
+2 
+ treated as a separate clinical entity, aimed toward underlying pathology and 
+dysfunction (Bak, 2010). 
+ Problem Statement 
+The reasons for the high incidence and prevalence of shoulder injuries under 
+swimmers are probably not singular, and as result there seems to be no single 
+identifiable clinical entity of ‘swimmer’s shoulder’ (McMaster, 1996).  Although there is 
+a substantial amount of information on risk factors for shoulder injuries in swimmers, 
+up to date information on the correlation between specific freestyle stroke 
+biomechanics and shoulder injuries seem to be few and wide spread. 
+ Objectives of the Study 
+McMaster (1996) postulated that many injuries originate from faulty techniques or 
+mechanisms, and an assessment of injured athletes’ biomechanics must be made to 
+identify factors that may contribute to injury. 
+From of the literature freestyle pathomechanics correlating with shoulder injury 
+include: 
+ Hand entry: 
+o that crosses the midline of the long axis of the body (Johnson et al. , 
+2003); 
+o further from the midline and thus lateral to the shoulder (Scovazzo et al., 
+1991); 
+o with the thumb first (Johnson et al., 2003); 
+ Shoulder hyperflexion at the end of hand entry (Yanai & Hay, 1998; Yanai et 
+al., 2000; Becker & Havriluk, 2012); 
+ A dropped elbow during the early pull through phase (Yanai & Hay, 1998); 
+ An inability to generate force during the late pull through phase causing an 
+increase in force development during the vulnerable early pull through phase 
+of the contralateral arm (Pink & Tibone, 2000); 
+ Swimming catch-up stroke (Becker & Havriluk, 2012). 
+Therefore, the objectives of this study are to: 
+3 
+ 1. Determine the shoulder injury prevalence at the University of the Free State’s 
+swimming club (Kovsie Aquatics), during the 2014/2015 swimming season. 
+2. Investigate if a correlation between certain freestyle biomechanical hand and 
+arm positions and shoulder injuries amongst swimmers from the latter 
+swimming club exist. 
+ Hypothesis 
+The hypothesis for this study is: 
+ There is a correlation between certain freestyle biomechanical hand and arm 
+positions (pathomechanics) and shoulder injuries amongst swimmers from the 
+Kovsie Aquatics swimming club. 
+4 
+ 2 CHAPTER TWO: Literature Review 
+The high volume of training involved in competitive swimming result in cumulative 
+overload injuries (Rodeo, 1999).  Competitive swimmers practice 6 to 7 days a week 
+and swim on average between 10 000 and 14 000m each day (Sein et al., 2010).  Most 
+injuries and complaints encountered in swimming athletes are repetitive micro trauma 
+or overuse, and successful management does not usually require surgical intervention 
+(McMaster, 1996). 
+ Epidemiology of Injuries  
+Swimming has a distinct profile of injuries and medical conditions (Kammer et al., 
+1999).  Common problems seen among swimmers include ‘swimmers shoulder’, an 
+overuse injury that causes inflammation of the supraspinatus and/or the biceps brachii 
+tendon (Kammer et al., 1999).  Measurement of prevention of sports injuries cannot 
+be done in isolation.  They form part of what might be called a ‘sequence of prevention’ 
+(Figure 2-1; van Mechelen et al., 1992). 
+ 
+Figure 2-1  The sequence of prevention of sports injuries 
+According to van Mechelen et al. (1992) the problem should firstly be identified and 
+described in terms of incidence and severity of sports injuries.  Then the factors and 
+mechanisms that play a part in the occurrence of sports injuries should be identified.  
+The third step is to introduce measures that are likely to reduce the future risk and/or 
+severity of sports injuries.  The measure should be based on the aetiological factors 1.  Establish the 
+extend of the sports 
+injury problem:                                        
+* incidence                               
+* severity              
+2.  Establishing 
+aetiology and 
+mechanisms of 
+injuries.
+3.  Introducing 
+preventive measures.4.  Assessing their 
+effectivenes by 
+repeating step 1.
+5 
+ and the mechanisms as identified in the second step.  Finally, the effect of the measure 
+must be evaluated by repeating the first step (Van Mechelen et al., 1992)  
+ The Prevalence and Incidence of Shoulder Injuries in Freestyle 
+Four strokes are recognized in competitive swimming: freestyle, butterfly, backstroke, 
+and breaststroke (Wanivenhaus et al., 2012).  Regardless of the stroke performed in 
+competition, swimmers spend a considerable time swimming freestyle (Wanivenhaus 
+et al., 2012).  Kammer et al. (1999) enumerated that irrespective of the swimmers’ 
+speciality, 75% to 90% of training is done in freestyle. 
+An exceptionally low prevalence (3%) of shoulder pain was reported in competitive 
+Canadian swimmers (Kennedy & Hawkins, 1974).  More recent studies reported the 
+prevalence and incidence of shoulder injuries ranging from 17% to 91% (Beach et al., 
+1992; McMaster & Troup, 1993; McMaster et al., 1998; Puckree & Thomas, 2006; 
+Bansal et al., 2007; Wolf et al., 2009; Sein et al., 2010; Tate et al., 2012). 
+Wolf et al. (2009) not only found freestyle to be the most common stroke, it was also 
+associated with the highest total number of injuries in their five-year survey of 94 
+National College Athletic Association (NCAA) Division I swimmers from the University 
+of Iowa.  The region most often injured by both male and female swimmers, was the 
+shoulder and upper arm, which accounted for 31% and 36% respectively of the injuries 
+in each group.  Shoulder injuries were the most frequent injury to result in lost time 
+(Wolf et al., 2009).   
+In a cross sectional study done on a group of 80 elite swimmers, 43 (54%) reported 
+unilateral shoulder pain, and 30 (37%) others reported bilateral shoulder pain (Sein et 
+al., 2010).  Thus 73 (91%) of the swimmers included, presented with shoulder pain 
+and only the remaining seven swimmers (9%) stated they had no shoulder pain.  Thirty 
+five per cent of the swimmers specialized in freestyle and ninety per cent of the 80 
+swimmers spent more than 50% of their training time in freestyle (Sein et al., 2010).  
+The authors concluded that the injury risk for shoulder pain doubled if swim training 
+exceeded 15 hours per week, and swimmers were four times as likely to have shoulder 
+pain if swimming distance topped 35 km per week (Sein et al., 2010). 
+Sixty-four per cent (64%) of the usable respondents’ questionnaires, from Kwazulu 
+Natal South Africa, reported actual shoulder injuries (Puckree & Thomas, 2006).  
+6 
+ These included impingement, supraspinatus and bicipital tendonitis, bursitis and 
+muscle strain (Puckree & Thomas, 2006).  The majority (70%) of the swimmers 
+attributed their injuries to freestyle, which they swam most of the time (Puckree & 
+Thomas, 2006).  Similar to the results above, Beach et al. (1992) indicated that 87% 
+of their 32 Division I swimmers experienced shoulder pain in their lifespan, while 69% 
+experienced some degree of shoulder pain at the time of this study.  Thirty one percent 
+of the swimmers reported shoulder pain that was affecting their swimming ability 
+(Beach et al., 1992). 
+Bansal et al. (2007) found a prevalence of shoulder impingement syndrome at 17% in 
+their study of 161 male competitive swimmers.  McMaster and Troup (1993) concluded 
+that an incidence of about 10% in age group swimmers, 13% of senior development 
+swimmers and 26% of the elite team swimmers experienced current interfering 
+shoulder pain.  The prevalence of a shoulder injury seems to be higher at 47% for age 
+group, 66% for senior development and 73% for elite (McMaster & Troup, 1993).  
+Thirty five percent (14 swimmers) noted significant interfering shoulder pain to be 
+present at the time of assessment in their study on 40 senior national and elite 
+swimmers (McMaster et al., 1998). 
+The inconsistent findings may be due to the different study designs used (retrospective 
+vs. prospective), and the definition of the severity of the injury.  For instance, Wolf et 
+al. (2009) defined an injury as: “...any musculoskeletal problem suffered as a 
+consequence of team related activity that resulted in a visit to an athletic trainer or 
+physician”, whereas McMaster and Troup (1993) defined a shoulder injury as: “that 
+which interfered with training or progress in training as opposed to post exercise 
+muscle soreness”.  Notwithstanding, the high incidence and/or prevalence of shoulder 
+injuries in swimmers, the literature is beset with controversy surrounding its aetiology. 
+ Aetiology of Overuse Injuries 
+Overuse injuries are thought to be the predominant injury type in sports that involve 
+long, monotonous training sessions, for example, cycling, swimming and long-
+distance running, as well as in technical sports that involve the repetition of similar 
+movement patterns such as throwing and jumping (Clarsen et al., 2013). 
+7 
+ 
+ Definition of an Overuse Injury 
+In the consensus statements, an overuse injury is defined as “an injury caused by 
+repetitive microtrauma, without a single identifiable event responsible for the injury” 
+(Fuller et al., 2006).  Bahr (2009) reported that overuse injuries have also been defined 
+as ‘gradual onset injuries’, while Knight (2008) defined overuse injuries as: “Injuries 
+caused by low-intensity forces of long duration.”  The classification of acute and 
+overuse injuries is simple in most cases, but sometimes it may not be that obvious 
+(Bahr, 2009).  Occasionally symptoms may have a sudden onset, but in actuality the 
+injury is a result from a long-term process.  Bahr (2009) further remarked the cause of 
+overuse injuries to be repetitive low-grade forces exceeding the tolerance of tissues.  
+Figure 2-2. Profile of chronic micro traumatic soft tissue injuryillustrates the 
+pathological process that is often under way for a period of time before the athlete 
+notices the symptoms (Leadbetter, 1992).  If this process continues, the ability of the 
+tissue to repair and adapt, can be exceeded, resulting in a clinical overuse injury with 
+symptoms (Bahr, 2009). 
+ 
+Figure 2-2. Profile of chronic micro traumatic soft tissue injury (Leadbetter, 
+1992) 
+According to Fredberg and Stengaard-Pedersen's (2008) review article it seems 
+possible that tendons have a baseline mechanical strength, which are dependent on 
+the loading history of the tendon (training level).  Abate et al. (2009) remarked that 
+
+8 
+ exercise increases the strength of the tendon, but when the individual threshold is 
+overcome, micro-damage may occur.  The tendon may not be able to adapt fast 
+enough after a rapid increase in training load, frequency, or duration (Fredberg & 
+Stengaard-Pedersen, 2008) or have inadequate recovery time (Abate et al., 2009).  
+The mechanical strength of the tendon may be exceeded, and a small injury may 
+occur.  As a normal part of tendon remodelling and under normal circumstances, this 
+small injury will heal (Fredberg & Stengaard-Pedersen, 2008).  If the training and 
+overloading continues, these small injuries result in progressive tendon changes that, 
+after an asymptomatic period of several months, slowly aggravate and finally reach 
+the pain limit and become symptomatic as depicted in Figure 2-3 (Fredberg & 
+Stengaard-Pedersen, 2008). 
+ 
+Figure 2-3.  The 'Iceberg' Effect (Fredberg & Stangaard-Pederson, 2008) 
+
+9 
+  
+Figure 2-4.  The 'Iceberg' Effect 
+Abate et al. (2009) contends that a very thin line divides healthy and non-healthy 
+physical exercise (Figure 2-4).  When athletes resume sporting activities after an 
+inadequate rehabilitation period, during which pain recedes to just below the detection 
+threshold while most of the intra-tendinous abnormalities still exist, the ‘iceberg theory’ 
+explains the frequent relapse of symptoms. 
+ Overuse Shoulder Injuries in the Swimming Shoulder 
+Overuse injuries occur mostly in endurance sports that require long training sessions 
+and include monotonous routine (such as swimming, long-distance running, cycling 
+and cross-country skiing), and in more technical sports, which include a large number 
+of repetitive movements of same kind (i.e. tennis, high jumping and weight lifting), 
+(Bahr, 2009). 
+Swim training involves repetitive overhead movement (Sein et al., 2010).  In a 
+competitive training program a swimmer can easily log up to a million arm strokes per 
+year (McMaster, 1999) and can exceed 4000 strokes for one shoulder in a single 
+workout, making swimming a common source of shoulder pathology (Tovin, 2006).  
+Most of the swimming propulsive force is derived from the arms, with the legs adding 
+stabilization as well as propulsive force (McMaster, 1996).  King (1995) suggests that 
+80% of the propulsion power is derived from the pull and 20% from the kick during 
+freestyle.  Considering the above, it is not surprising that repetitive micro trauma or 
+overuse account for most injuries in swimming athletes (McMaster, 1996), but not all 
+swimmers who train under similar conditions develop significant interfering shoulder 
+
+10 
+ pain.  The reasons for this are probably not singular, and as result there seems to be 
+no single identifiable clinical entity of ‘swimmer’s shoulder’ (McMaster, 1996). 
+ Causes of Shoulder Pain in Swimmers 
+According to Sein et al. (2010) a clear consensus as to the cause of shoulder pain in 
+swimmers is lacking.  Bak (2010) stated that the significant challenge lies in identifying 
+which of the following is the root cause of shoulder injuries: scapular dysfunction, 
+anterior instability, or tendinopathy.  Sein et al. (2010) nominated supraspinatus 
+tendinopathy (i.e. supraspinatus tendinosis or tendonitis) as another candidate cause 
+of swimmer’s shoulder. 
+Contrary to this ‘one factor as the root cause’ approach, Meeuwisse (1994) suggested 
+a multifactorial approach (Figure 2-5) to advance the understanding of athletic injury, 
+and could be used to assess the aetiology or causation thereof.  This multifactorial 
+model attempted to account for the interaction of multiple risk factors, both 
+internal/intrinsic and external/extrinsic (Meeuwisse et al., 2007).  It highlighted the 
+importance of examining intrinsic predisposing factors as well as extrinsic factors that 
+interact to make an athlete susceptible to injury, before an injury-inciting event occurs 
+(Meeuwisse et al., 2007).   
+ 
+Figure 2-5.  Multifactorial model of athletic injury aetiology 
+Bahr and Krosshaug (2005) noted that especially for overuse injuries, the inciting 
+event can sometimes be distant from the outcome.  As an example, for a stress 
+fracture in a long distance runner, the inciting event is usually not the single training 
+session when pain became evident (referring to Figure 2-5), but the training and 
+
+11 
+ competition programme he or she has followed over the previous weeks or months 
+(Bahr & Krosshaug, 2005).  Until a complete description is available which includes 
+information on all the contributing factors, it may be difficult to predict which factors 
+may be modifiable through intervention (Bahr & Krosshaug, 2005). 
+After considering all of the above it seems logical that a critical step in the sequence 
+(Figure 2-1) is to establish the causes (Bahr & Krosshaug, 2005).  According to the 
+latter authors this includes obtaining information on why a particular athlete may be at 
+risk in a given situation (i.e. identify modifiable intrinsic and extrinsic risk factors), and 
+how injuries happen (injury mechanisms/inciting events).   
+Bahr and Krosshaug (2005) used Meeuwisse’s multifactorial model and applied it to 
+Anterior Cruciate Ligament and therefore acute injuries (Figure 2-6). 
+ 
+Figure 2-6.  Comprehensive model for injury causation 
+(BMD - Body Mass Index; ROM - Range of Motion)  
+Meeuwisse et al. (2007) elaborated on these previous models, and proposed an 
+updated version.  In a real-life sporting environment, a participant’s risks are dynamic 
+and can change frequently, where one exposure can alter an athlete’s intrinsic risk 
+factors and change their predisposition to injury (Meeuwisse et al., 2007).  The athlete 
+can then be exposed to the same or different extrinsic risk factors and have a different 
+
+12 
+ susceptibility (Meeuwisse et al., 2007).  This paints a recursive picture where an 
+athlete can enter a given athletic event cyclically with a differing set of risk factors even 
+though most other elements of the athlete and playing environment may remain 
+constant (Meeuwisse et al., 2007).   
+In 2007 the model seen in Figure 2-7 was proposed by Meeuwisse et al. (2007).  It is 
+recursive in that one exposure can alter risk factors and allow the athlete to cycle 
+through the model repeatedly.  Aside from the possibility of retirement from sport, this 
+model can be seen to operate independent of outcome (Meeuwisse et al., 2007). 
+Figure 2-7.  A dynamic recursive model of the aetiology of sport injuries 
+The contributing modifiable and non-modifiable risk factors (both internal and external) 
+in swimming can be illustrated by adopting and modifying the model proposed by 
+Meeuwisse et al. (2007).  This will illustrate the contribution and interaction of these 
+risk factors in terms of shoulder injuries in swimmers and enable the healthcare 
+professional to identify risk factors and manage modifiable risk factors.  By means of 
+elimination the best management strategy of the shoulder injury and injury risk can be 
+facilitated. 
+ Defining the Term ‘Swimmer’s Shoulder’ 
+
+13 
+ The term “Swimmer’s Shoulder” was first introduced by Kennedy and Hawkins in 1974 
+(Kennedy & Hawkins, 1974).  This term has been applied to a variety of complaints 
+involving pain in the shoulders of competitive swimmers without specific reference to 
+cause (McMaster et al., 1998).  According to Allegrucci et al. (1994) ‘Swimmer’s 
+Shoulder’ can be related to pathology of the acromioclavicular joint, rotator cuff, long 
+head of the biceps brachii, glenoïd labrum, or any form of shoulder instability.  Brushøj  
+et al. (2007) added that this term covers a variety of pathologies including labral 
+wearing and sub-acromial impingement.  Tovin (2006) suggested that ‘swimmer’s 
+shoulder’ is a musculoskeletal condition that results in symptoms in the area of the 
+lateral aspect of the shoulder, sometimes confined to the subacromial region.   
+Conversely, Van Dorssen et al. (2014) suggested that this term is nondescript and a 
+confusing catch all term which does not really advance our understanding.  The latter 
+authors further contended that this term ought to be replaced by an individualised and 
+more specific diagnosis.  It should account for individual contributing factors (intrinsic 
+and extrinsic) and suspected pathology of each injured swimmer.  This will allow for a 
+clearer approach and tailored treatment (van Dorssen et al., 2014).   
+Pink and Tibone (2000) suggested that global pain experience by swimmers has led 
+clinicians to make global diagnoses, such as swimmer’s shoulder.  They attribute the 
+creation of this catch all term to the delay of the swimmer to report the injury as soon 
+as symptoms are experienced.  Failing to do this causes inflammation to set in, 
+causing a more global pain, and masking the inciting symptoms (Pink & Tibone, 2000).  
+The reaction to this was non-specific treatment with limited success as demonstrated 
+by the fact that more than half of shoulder injuries in swimmers recur (Pink & Tibone, 
+2000). 
+ Pathologies Associated with ‘Swimmer’s Shoulder’ 
+Allegrucci et al. (1994) suggested that although the term ‘swimmer’s shoulder’ is not 
+an accurate clinical diagnosis, it discloses the fact that swimmers place high demands 
+on their shoulders.  The following section outlines pathologies associated with 
+‘swimmer’s shoulder’. 
+14 
+ 
+ Subacromial Impingement 
+The impingement of subacromial structures has been proposed as a major cause of 
+shoulder problems that often occur among freestyle swimmers (Yanai & Hay, 1998).  
+Impingement refers to the mechanical phenomenon in which contact between the 
+greater tuberosity of the humerus and the acromial arch creates compressive force on 
+the sub-acromial structures (Brushøj et al., 2007).  Shoulder impingement and 
+instability are two of the most common dysfunctions discussed in overhand athletes 
+according to Allegrucci et al. (1994).  Primary impingement can be defined as 
+impingement caused by outlet stenosis in the subacromial space in a stable shoulder 
+(Sorenson & Jorgenson, 2000).  However, Wanivenhaus et al. (2012) explained that 
+impingement in the competitive swimmer is typically caused by altered kinematics due 
+to muscle fatigue or laxity rather than subacromial pathological changes, which are 
+observed in other patient populations.  This secondary form of impingement can be 
+defined as impingement secondary to glenohumeral instability (Sorenson & 
+Jorgenson, 2000).   
+Subacromial or intra-articular impingement may occur in various positions during the 
+swimming stroke (Wanivenhaus et al., 2012).  In the case of subacromial 
+impingement, the bursal surface of the rotator cuff impinges against the anteroinferior 
+acromion, while in intra-articular impingement, the rotator cuff tendons and/or biceps 
+tendon impinges on the anterosuperior glenoid and labrum (Wanivenhaus et al., 
+2012). 
+ Supraspinatus Tendinopathy 
+Swim volume-induced supraspinatus tendinopathy with associated supraspinatus 
+tendon thickening may be an intrinsic factor for development of swimmer’s shoulder 
+(Sein et al., 2010). 
+ Risk Factors 
+Given the prevalence of shoulder injuries under swimmers, numerous risk factors for 
+shoulder injury in swimmers are proposed in the literature (van Dorssen et al., 2014). 
+ 
+Risk factors in sport are any factors that may increase the potential for injury (Emery, 
+2003).  Risk factors may be intrinsic (age, conditioning etc.) or extrinsic (weather, field, 
+conditions etc.) to the individual participating in the sport (Emery, 2003).  The latter 
+15 
+ author further explained that modifiable risk factors refer to those that have the 
+potential to be altered to reduce injury rates.  Risk factors that cannot be altered are 
+referred to as non-modifiable risk factors and may affect the relationship between 
+modifiable risk factors and injury.  Identification of these factors will assist in defining 
+high-risk populations (Emery, 2003). 
+However, Bak (2010) stated that the aetiology of swimmer’s shoulder related to 
+intrinsic and extrinsic factors, and these factors are listed below in Table 2-1. 
+ 
+Table 2-1  Aetiology of swimmer's shoulder 
+Extrinsic Factors Intrinsic Factors 
+Training volume – absolute and sudden 
+increases Excessive laxity/general joint 
+hypermobility 
+Technical Errors Isolated joint hyperlaxity 
+Hand paddles Posture, core stability, and increased 
+thoracic kyphosis 
+Scapular dyskinesis 
+Glenohumeral internal rotation deficit 
+(G.I.R.D.) 
+Rotator cuff imbalance 
+Lack of flexibility/stiffness (posterior 
+capsule, anterior capsule, anterior cuff, 
+and pectoralis minor) 
+ Non-modifiable Intrinsic Risk Factors 
+2.7.1.1 Age 
+Tate et al. (2012) reported high school swimmers to be most symptomatic in their study 
+of 236 female swimmers between 8 and 77 years of age.  According to Puckree and 
+Thomas (2006) swimmers between the ages of 15 and 16 years were significantly 
+more injured compared with the other age categories. 
+16 
+ 2.7.1.2 Gender 
+In the study done by Mountjoy et al. (2010) during the 13th FINA World Championships 
+2009, female athletes had a higher risk of injury than male athletes. However, contrary 
+to this, Ristolainen et al. (2009) found no correlation between risk of injury and gender. 
+2.7.1.3 Combination of Age and Gender 
+Becker (2011) reported that swimmer’s shoulder syndromes, under female swimmers, 
+are likely to occur approximately three times over a career span: 
+ The first occurrence is usually during early to mid-adolescence when the body 
+weight is likely to increase and arm strength is not fully developed while the 
+swimmer is moving to a higher age group. 
+ The second period is in the later stages of high school competition.  Although 
+the body weight is almost settled, the upper body is not sufficiently strong 
+enough to withstand the harder training. 
+ The third period is during the transition from high school to college swimming.  
+Collegiate swimming often entails dramatic increases in training volume and 
+intensity.  
+Becker (2011) further suggested that in males, two peak times for onset of injury occur: 
+ First, at the end of the second growth spurt, when the body size increases but 
+shoulder muscles are not yet developed. 
+ The second time when injury occurs is the high training point of the freshman 
+year, when the yardage exceeds previous distances and these increases occur 
+over a period of a few days. 
+It seems evident that some of the risk factors associated with shoulder injuries in the 
+developing body is a lack of strength due to growth (or in increase in body weight 
+without a subsequent immediate increase in strength) and an increase in training 
+volume and/or intensity.  Even though age and gender are not modifiable, the 
+prevention of shoulder injuries in swimmers lies in identifying those at risk, and 
+managing them accordingly.  Strength is a modifiable risk factor and shoulder injuries 
+can, according to Becker (2011), be prevented if dry land strengthening programs are 
+initiated.  Training volume and intensity should also be manipulated to manage 
+swimmers at risk of shoulder injury, and ensure pain free swimming participation. 
+17 
+ Abgarov et al. (2012) concluded in a study on 170 University swimmers, where he 
+found that the earlier males start swimming, the greater their risk of acquiring a 
+swimming related injury, thus supporting the notion that an early start (i.e., early 
+specialization) predisposes males to more injuries during their swimming careers. 
+2.7.1.4 Previous Shoulder Injury 
+Alarmingly, Walker et al. (2012) stated that the recurrence of shoulder injuries in 
+swimming is frequent.  Exploring the literature, there seem to be a significant 
+independent association between a positive past history of shoulder injury and 
+subsequent shoulder injury risk (Walker  et al., 2012; Abgarov et al., 2012).  These 
+authors further reported that swimmers with a history of interfering shoulder pain were 
+4.1 times more likely to sustain a recurring injury.  In the same study, swimmers with 
+a history of significant shoulder injury were 11.3 times more likely to sustain a recurring 
+injury.  
+To conclude, a history of shoulder injury is a non-modifiable risk factor, but it can be 
+used as a marker to identify swimmers at risk of injury and preventative efforts should 
+be implemented (Walker et al., 2012). 
+ Modifiable Intrinsic Risk Factors 
+Bansal et al. (2007) avers that intrinsic risk factors significantly associated with 
+shoulder impingement syndrome in swimmers include atraumatic anterior instability, 
+past history of shoulder pain and inadequate treatment.  The onset of symptoms may 
+be associated with impaired posture, glenohumeral joint mobility, neuromuscular 
+control, or muscle performance (Tovin, 2006).  Following are potentially modifiable 
+intrinsic risk factors as described in the literature. 
+2.7.2.1 Scapular Dyskinesis 
+Scapular dyskinesis is seen in the majority of overhead athlete’s shoulder with overuse 
+pain syndromes and may be caused by an inhibition on activation patterns of the 
+scapula stabilising muscles (i.e. serratus anterior and subscapularis etc.), (Burkhart et 
+al., 2003; Bak, 2010).  During activity, patients with shoulder pain and symptoms, the 
+scapula is placed in a more abducted, protracted, and laterally displaced position than 
+in symptom free subjects (Bak, 2010). 
+18 
+ According to Cools et al. (2003) overhead athletes presenting with impingement 
+symptoms showed a delay in muscle activation of the middle and lower trapezius 
+muscle and a lack of coordination between the different trapezius muscle parts (upper, 
+middle, and lower). 
+2.7.2.2 Shoulder Laxity 
+Proper joint mechanics necessitates gleno-humeral stability, and it’s absence is 
+associated with significant disability (McMaster et al., 1998).  The latter authors further 
+elaborated the degree of inherent shoulder laxity to be a common denominator in the 
+aquatic athlete with interfering shoulder pain.  While pathologic shoulder laxity may be 
+unidirectional, it is often multi directional in swimmers.  The superior migration of the 
+humeral head may lead to secondary definable causes of shoulder pain such as 
+impingement (McMaster et al., 1998).  The latter authors also found a significant 
+correlation between clinical score of glenohumeral joint laxity and interfering shoulder 
+pain in senior national and elite swimmers.  Sein et al. (2010), however, contends that 
+repetitive swimming does not increase shoulder joint laxity and doubts that joint laxity 
+is the major contributor to swimmer’s shoulder.  They found the high incidence of 
+tendinopathy to relate with the time spent in training (hours swum per week) and 
+distance per week. 
+In their review study Heinlein and Cosgarea (2010) compared studies that correlated 
+gleno-humeral joint laxity with shoulder pain to studies that found no significant 
+association.  The study indicated that the literature was inconclusive on whether gleno-
+humeral joint laxity is a primary cause of pain (Heinlein & Cosgarea, 2010). 
+2.7.2.3 Shoulder Instability 
+Allegrucci et al. (1994) suggested that glenohumeral instability can develop from 
+disruption of static stabilizers (ligaments, labrum, and capsule) or fatigue or weakness 
+of the dynamic stabilizers (musculature).  Secondary impingement can therefore be 
+caused by rotator cuff dysfunction (i.e. fatigue or injury) or as a result of instability due 
+to lax static stabilisers (Allegrucci et al., 1994). 
+2.7.2.4 Range of Motion 
+It is possible that swimmers with limited shoulder external rotation who performed their 
+stroke at the end of their available range of motion are at an increased risk of 
+impingement during arm recovery, particularly in the presence of overuse related 
+19 
+ tendon thickening (Walker et al., 2012).  In the same study, swimmers with greater 
+external rotation were also at increased risk of shoulder injury.  This might be explained 
+by the compromised ability of the passive structures to provide stability and detrimental 
+changes in the neuromuscular control of the active stabilizing musculature like the 
+subscapularis (Walker et al., 2012).  According to the latter authors swimmers with 
+shoulder external range of motion (ROM) of more than 100º or less than 93º were at 
+an increased risk of developing a shoulder injury than those with mid-range motion.  
+This supports the hypothesis by Blanch (2004) who avers that there is a ‘window’ of 
+optimal shoulder ROM.  Walker et al. (2012) further remarked that the literature 
+frequently describes that the loss of internal rotation ROM is due to tightness of the 
+posterior capsule but found no correlation between internal rotation ROM and 
+swimming shoulder injuries. 
+2.7.2.5 Muscle Imbalance 
+EMG analysis on swimmers with painful shoulders revealed that the most prominent 
+abnormality is a weakness of the serratus anterior and increased activity of the 
+rhomboids major and minor during the pull by Pink et al. (1991). The resulting 
+mechanical imbalance ("floating scapula") increases anterior impingement of the 
+biceps brachii and supraspinatus. 
+Based on the EMG (with fine wire electrodes) findings of 14 Collegiate and Masters 
+Swimmers while swimming freestyle, Scovazzo et al. (1991) found the following 
+differences between swimmers with painful shoulders and those with normal 
+shoulders: 
+ Hand Entry - Significantly less muscle activity in the rhomboids, upper 
+trapezius, middle and anterior deltoids in the swimmers with painful shoulders. 
+ Pulling - Significantly less activity in the serratus anterior and significantly more 
+in the rhomboids in those subjects with painful shoulders. At the exact time that 
+the serratus anterior was dysfunctioning and exhibiting abnormally low levels 
+of activity, the rhomboids were exhibiting significantly more in the painful 
+shoulder. 
+ Hand Exit and Early recovery – Significantly less muscle activity in the anterior 
+and middle deltoids and significantly more in the infraspinatus in the group with 
+20 
+ painful shoulders.  The infraspinatus externally rotates the humerus to avoid 
+the painful internal rotation. 
+ Mid-recovery – significantly less muscle action in the subscapularis for the 
+swimmers with painful shoulders. 
+Scovazzo et al. (1991) found no difference in the muscle firing pattern, nor amplitude, 
+between swimmers with painful and normal shoulders in the posterior deltoid, 
+supraspinatus, teres minor, pectoralis major, or latissimus dorsi during the freestyle 
+stroke. 
+2.7.2.6 Fatigue 
+According to Tovin (2006) symptoms that develop as a result of fatigue can also affect 
+stroke mechanics.  The author further elaborated that the proposed mechanism of 
+failure concerning the swimming shoulder joint, is initiated with fatigue. 
+The serratus anterior in the healthy shoulder stabilizes the scapula in upward rotation 
+and protraction (Tovin, 2006).  This position of upward rotation and protraction avoids 
+impingement of the biceps brachii tendon and rotator cuff by creating adequate 
+subacromial space (under the coraco-acromial arch) for the biceps brachii tendon and 
+rotator cuff to move (Scovazzo et al., 1991).  It also aids in maintaining a good 
+approximation between the humeral head and the glenoid fossa (Tovin, 2006).  Once 
+the scapula is in position, at the beginning of the pull through, it effectively reverses 
+the origin and the insertion and is used to pull the body over the arm.  If the serratus 
+anterior fatigues, it would not be able to add this propulsive motion (Scovazzo et al., 
+1991).  They also found a difference in muscle activity (as measured with a fine wire 
+EMG) between painful and normal shoulders. During the pull through, the serratus 
+anterior in the painful shoulders were not as active as it was in the normal shoulders 
+(Scovazzo et al., 1991).  Pink et al. (1991) agreed that the subscapularis and serratus 
+anterior are active throughout the stroke cycle in freestyle swimming, and therefore 
+susceptible to fatigue. 
+2.7.2.7 Flexibility 
+According to  Tovin (2006) the cause of primary impingement is usually a tight 
+posterior capsule (causing the humeral head to migrate anteriorly) or abnormal 
+acromial morphology.  The author elaborated that primary impingement syndrome is 
+less common than secondary impingement in competitive swimmers.  Tate et al. 
+21 
+ (2012) found a reduced latissimus dorsi flexibility in symptomatic young swimmers, 
+whereas pectoralis minor tightness and decreased core endurance were associated 
+with symptoms in swimmers aged 12 years and more. 
+ Non-Modifiable Extrinsic Risk Factors 
+Risk factors in sport are any factors that may increase the potential for injury 
+(Meeuwisse, 1991).  Risk factors may be intrinsic (age, conditioning etc.) or extrinsic 
+(weather, field, conditions etc.) to the individual participating in the sport (Emery, 
+2003).  Risk factors that cannot be altered are referred to as non-modifiable risk factors 
+and may affect the relationship between modifiable risk factors and injury (Emery, 
+2003). The following section shines some light on non-modifiable extrinsic risk factors 
+associated with swimming. 
+2.7.3.1 Speciality (distance vs. sprint) 
+According to Puckree and Thomas (2006) it seems evident that distance speciality 
+may play a role.  In their study the majority of specialist sprinters (70%), regardless of 
+gender, complained of shoulder injuries compared with long-distance swimmers.  
+Contrary to this, Wolf et al. (2009) reported that the risk of suffering an injury was not 
+significantly different between sprinters and distance swimmers. 
+ Inciting Events 
+Training errors such as overuse, misuse, abuse or disuse may contribute to shoulder 
+pain in swimmers (Tovin, 2006).  Following are some training factors that might incite 
+an injury. 
+2.7.4.1 Excessive Increase in Exercise Volume 
+Work in other sports suggest that week-on-week increases in load of up to 10% can 
+largely be tolerated, but increases beyond this are associated with a linear increase in 
+injury incidence (van Dorssen et al., 2014).   
+The main factor in the development of a swimmer’s shoulder seems to be the high 
+training volume, during growth, in the absence of a well-designed and balanced 
+dryland training program (Bak, 2010).  This affects the muscular balance of the core, 
+the scapulothoracic articulation, the rotator cuff, and glenohumeral mobility (Bak, 
+2010).  The author expressed that swimmers often report that their shoulder pain was 
+22 
+ related to an increase in the amount of training, typically during a training camp or in 
+conjunction with advancement to a higher training level. 
+Pink and Tibone (2000) suggested that the two factors that appeared to provoke 
+shoulder pain is an increase in the intensity and distance of the workout.  In line with 
+the above mentioned, Wolf et al. (2009) reported that freshmen had the highest total 
+number of injuries and the highest mean number of injuries per swimmer when 
+compared to the sophomore, junior and senior populations in their study.  The authors 
+proposed the high prevalence of injuries during the early college years are likely to be 
+explained by the transition from high school training regimens to that of collegiate level.  
+The increase in swimming yardage and the additional cross-training activities are often 
+substantially greater than what an athlete was accustomed to, and can lead to 
+overuse-type injuries early in a swimmer’s college career (Wolf et al., 2009).  They 
+further remarked that fewer injuries are experienced as the swimmer becomes 
+accustomed to the yardage and workout routine. 
+In their study on the cause of shoulder injuries in swimmers, Sein et al. (2010) found 
+that the incidence of supraspinatus tendinopathy was related to time spent training 
+(hours swim per week) and distance swim per week. Out of the latter research 
+swimmers who swam more than 15 hours per week were twice as likely to have 
+tendinopathy as those who trained for less time.  Swimmers who swam more than 
+35km per week were four times more likely than those who swam fewer kilometres 
+(Sein et al., 2010). 
+Besides these findings they further noted that a greater proportion of swimmers 
+competing at a higher level of competition had an increased incidence of 
+supraspinatus tendinopathy than swimmers at lower competitive levels.  These 
+findings are supported by the findings of Tate et al. (2012) who found that high school 
+swimmers practised on average 16 hours per week and had the highest prevalence 
+(22.6%) of symptomatic shoulders.  The latter authors further proposed that shoulder 
+pain, dissatisfaction and disability correlates positively with increased repetitive upper 
+extremity usage in terms of swimming or water polo exposure for mature swimmers. 
+To conclude, it seems evident that an excessive increase in exercise volume or 
+additional exercise (i.e. dry land training etc.) might play a significant role in the 
+prediction and/or prevention of overuse-type injuries. 
+23 
+ 2.7.4.2 Taking Time off from the Sport 
+Abgarov et al. (2012) found a negative effect for taking off from the sport of swimming.  
+The expectation was that taking time off would reduce injury risk but found an 
+increased risk of injury Instead.  Abgarov et al. (2012) further elaborated, that those 
+athletes who took time off placed unrealistic expectations on themselves once they 
+returned to the sport.  This attitude of attempting to make up for lost time and/or ‘catch- 
+up’ to familiar swimmers, would increase the risk of injury as time off from the sport 
+puts an athlete/swimmer behind with regards to their development or fitness levels. 
+ Potentially Modifiable Extrinsic Factors 
+Modifiable risk factors refer to those that have the potential to be altered by injury 
+prevention strategies to reduce injury rates (Meeuwisse, 1991).  Risk factors may be 
+intrinsic (age, conditioning etc.) or extrinsic (weather, field, conditions etc.) to the 
+individual participating in the sport (Emery, 2003).  The following section defines some 
+modifiable extrinsic risk factors associated with swimming. 
+2.7.5.1 Paddle Swimming 
+Hand paddles are used to increase resistance with the arm stroke (McMaster, 1999).  
+This increase in resistance leads to an increase in the load, which often results in 
+shoulder pain (McMaster, 1999).  Opposing this, Tate et al. (2012) did not find a 
+correlation between hand paddle use in swimming and shoulder injury.  According to 
+the authors this might be due to the change in paddle technology, from rectangular 
+and solid in design, to a shape that conforms to the hand with holes to reduce 
+resistance.  Paddle use itself might not elicit a shoulder injury, but excessive use of 
+paddles might as seen by work done by Tovin (2006).  Abuse is defined as having 
+excessive force going through normal tissues.  The example used is one of a swimmer 
+who trains excessively with hand paddles, increasing strain on the shoulder (Tovin, 
+2006). 
+2.7.5.2 Technical Errors 
+McMaster (1996) postulated that many injuries originate from faulty techniques or 
+mechanisms, and an assessment of injured athletes’ biomechanics must be made to 
+identify factors that may contribute to injury.  Some specific freestyle technical flaws 
+heavily stress the shoulders and can lead to overuse (Kammer et al., 1999).  This will 
+be the topic of discussion for the rest of this chapter. 
+24 
+ 
+ Freestyle Stroke Biomechanics  
+McMaster et al. (1998) stated that mechanical efficiency is an important factor to excel 
+at the sport of competitive swimming.  The swimming technique that produces the 
+greatest distance per stroke at the most efficient energy use will produce the best 
+result (McMaster et al.,1998).  Stroke mechanics not only seems important in injury 
+prevention, but the energy cost of freestyle swimming (ml/m) appears to be strongly 
+influenced by the swimmers lean body weight and the effective application of force 
+during the arm stroke (Costill et al., 1985). 
+Swimming is comprised of four different strokes of varying distances, including 
+freestyle (sometimes referred to as the crawl), butterfly, backstroke, and breast stroke 
+(van Dorssen et al., 2014).  The sport requires several different shoulder motions, most 
+being performed during circumduction in clockwise and counter-clockwise directions 
+with varying degrees of internal and external rotation and scapular protraction and 
+retraction (Tovin, 2006).  Most swimming strokes consist of a pull-through phase that 
+generates speed and a recovery phase where the arm is out of the water (Bak, 2010).  
+One of the methods explaining freestyle stroke biomechanics is stated by Tovin (2006) 
+where the stroke was divided into two primary phases referred to as the pull-through 
+and recovery.  The propulsion is achieved during the pull-through which was further 
+subdivided into different phases consisting of the hand entry, the catch, mid-pull, and 
+finish or end pull-through (Tovin, 2006).  Figure 2-8 depicts the phases of swimming 
+freestyle (Pink et al., 1991). 
+ 
+Figure 2-8.  Phases of the freestyle swimming cycle 
+The freestyle stroke pull-cycle can be divided in four phases (Fernándes et al., 2012): 
+
+25 
+ 1. Early pull-through: beginning with the hand entry into the water and ending 
+when the humerus is perpendicular to the axis of the torso. 
+2. Late pull-through: beginning at the completion of early pull-through and ending 
+as the hand leaves the water. 
+3. Early recovery: beginning at hand exit and ending when the humerus is 
+perpendicular to the water surface. 
+4. Late recovery: beginning at the completion of early recovery and ending at hand 
+entry. 
+ Hand entry 
+The hand usually enters the water close to the midline with the elbow above the 
+surface of the water (Tovin, 2006).  According to Pink et al. (1991) the hand enters 
+forward and lateral to the head, and medial to the shoulder.  The elbow is flexed, with 
+the elbow above the hand, so that the fingers are the first to enter the water (Pink et 
+al., 1991).  Johnson et al. (2003) advances that the hand should enter with the little 
+finger or fingers first, and not the thumb first.  This technique will keep the swimmer in 
+the impingement range for as short period as possible by avoiding excessive internal 
+rotation (Johnson et al., 2003).  The hand then continues to ‘reach’ forward, below the 
+surface of the water and towards (but not crossing) the midline of the body (Tovin, 
+2006).  Becker and Havriluk (2012) suggests that at the completion of the arm entry 
+the hand should be below shoulder level to minimise shoulder stress, maximise force 
+generation, and optimise arm synchronisation.  This was similar to the work done by 
+Yanai and Hay (1998) who suggested avoiding an impingement position during hand 
+entry by a reduction of the elevation angle, and to resist the forcible elevation of the 
+hand.  Figure 2-9 depicts hand entry during freestyle (Van Dorssen et al., 2014) 
+26 
+ Figure 2-9.  Hand entry 
+ The Pull Through 
+The underwater pull-through starts with the early pull-through phase, which is marked 
+by the initiation of the backward arm movement (Pink et al., 1991).  The palm and 
+forearm should face the backward direction with the fingertips pointing down for as 
+long as possible.  Thus the shoulder is abducted and internally rotated during this 
+phase (Yanai & Hay, 1998).  Johnson et al. (2003) suggested that the pull through 
+should be done in a straight line, and not in a S-shape.  The point at which the humerus 
+is perpendicular to the body is called the mid pull through (Pink et al., 1991).  Following 
+mid pull-through is the late pull through (Pink et al., 1991).  During this phase the hand 
+continues back and passes next to the hip until it exits the water, leading with the 
+elbow (Pink et al., 1991). 
+ Recovery 
+During the recovery phase, the shoulder abducts and rotates externally as the arm is 
+brought forward for arm entry (Yanai & Hay, 1998).  After the arm exits the water, the 
+recovery phase begins, when the arm is swung above the water to bring the arm into 
+position to enter once again (Pink et al., 1991).  Figure 2-10 illustrates recovery during 
+freestyle swimming (Van Dorssen et al., 2014). 
+
+27 
+  
+Figure 2-10.  The recovery phase 
+ Functional Anatomy During Freestyle Swimming 
+The shoulder complex is designed to achieve the greatest range of motion (ROM) with 
+the most degrees of freedom of any joint system in the body.  At the glenohumeral 
+joint, a complex ligamentous system contribute to primary stability and an 
+musculotendinous system serves as secondary stabilisers (Tovin, 2006).  The author 
+further noted that this support mechanism allows the shoulder to withstand large 
+external forces, while providing enough mobility for the upper extremity to accomplish 
+complex movement patterns. 
+Johnson et al. (2003) reported the normal freestyle arm stroke with fine-needle 
+electromyography (EMG) as follows:   
+ The normal "catch" occurs when the forward hand enters the water as the upper 
+trapezius elevates and the rhomboids retract the scapula.  The serratus anterior 
+protracts, upward rotates the scapula, and is highly active from this point in the 
+catch and through the pull.  These opposing actions hold the scapula in place.   
+ Just after the catch, the pectoralis major fires and adducts and extends the 
+humerus while internal rotation is balanced by the antagonistic external rotation 
+of the teres minor.   
+ The latissimus dorsi fires in concert with the subscapularis from the mid pull-
+through until the beginning of recovery.  The deltoid and supraspinatus are the 
+prime movers through recovery. 
+Wanivenhaus et al. (2012) summarized the phases of the freestyle stroke, shoulder 
+position, and muscle activation in the form of Table 2-2 below.  
+
+28 
+ Table 2-2.  Functional anatomy during freestyle swimming 
+ Freestyle Pathomechanics 
+McMaster (1996) postulated that many injuries originate from faulty techniques or 
+mechanisms, and an assessment of injured athletes’ biomechanics must be made to 
+identify factors that may contribute to injury.  Some specific freestyle technical flaws 
+heavily stress the shoulders and can lead to overuse (Kammer et al., 1999).   
+The impingement of sub-acromial structures has been proposed as a major cause of 
+shoulder problems that often occur among freestyle swimmers (Yanai & Hay, 1998).  
+In their study on 11 male College swimmers, Yanai and Hay (1998) found the mean 
+duration of impingement positioning during freestyle swimming to be up to 24.8%, with 
+14.4% of this occurring during pulling and 10.4% during recovery.  They found a 
+considerable variability in the mean value for the percentage stroke time among 
+subjects, and suggested that certain stroke techniques and/or physiques might be less 
+vulnerable to shoulder impingement than others (Yanai & Hay, 1998). 
+ Hand Entry Pathomechanics 
+Swimmers with painful shoulders had a different pattern of hand entry than those with 
+normal shoulders (Scovazzo et al., 1991).  According to them the hand entered further 
+away from the midline, and the humerus was lower in the water.  This position is 
+frequently described as a ‘dropped elbow’ position (Scovazzo et al., 1991).  They 
+further noted that in this position (hand entry further from the midline) the scapula 
+would not need to be upwardly rotated (associated with a weak serratus anterior) nor 
+retracted as much.  This position of hand entry avoids the classic impingement position 
+of flexion and internal humeral rotation (Scovazzo et al., 1991). 
+
+29 
+ Johnson et al. (2003) suggested that a hand entry that crosses the midline of the long 
+axis, of the body, causes mechanical impingement in the anterior shoulder including 
+the long head of the biceps and supraspinatus.  This is exacerbated by a thumb first 
+entry which further stresses the biceps brachii attachment to the anterior glenoïd 
+labrum (Johnson et al., 2003).  According to the latter authors, a crossover pull through 
+usually results from a crossover entry, and increases the time in the impingement 
+position. 
+ Hand/Arm Position at the end of the Hand Entry Pathomechanics 
+Yanai and Hay (1998) reported that the hydrodynamic force exerted on the hand 
+during entry could forcibly elevate the arm beyond normal maximum active flexion, 
+placing the shoulder in a position of hyperflexion, causing impingement.  In their study, 
+this mechanism appeared to cause shoulder impingement for approximately 10% of 
+the stroke time (Yanai & Hay, 1998).  In an effort to avoid this position Yanai and Hay 
+(1998) suggest a reduction of the elevation angle, and to resist the forcible elevation 
+of the hand.  They also remarked that at the point when the hand enters the water, the 
+hydrodynamic force applied on the hand generates a large moment in the shoulder 
+joint, causing elevation of the humeral head and subsequent impingement. 
+In line with this, Becker and Havriluk (2012) found that an intentional effort to complete 
+the arm entry with the arm parallel to the surface is a technique factor that contributes 
+to an ineffective arm position, increases shoulder stress, minimal force production and 
+gaps in propulsion.  Intentional maintenance of the arm in a position parallel to the 
+surface (as in catch-up stroke), causes torso rotation to increase the time of exposure 
+of the shoulder in a hyperflexed position, and exacerbates shoulder stress (Becker & 
+Havriluk, 2012). 
+ Early Pull Through Pathomechanics 
+Bak (2010) proposed that the anterior capsulolabral complex and the posterior-
+superior labrum are at risk of injury during the early pull-through.  One of the most 
+commonly described technical faults in freestyle swimming is called the “dropped 
+elbow” (Figure 2-11) and occurs during this phase (Yanai and Hay 1998).  Dropping 
+the elbow constitutes increasing shoulder external rotation, in an attempt to avoid the 
+painful internal rotation causing impingement (Richardson et al., 1980).  This position 
+places the muscles of propulsion at a mechanical disadvantage (Richardson et al., 
+1980).  It is still unknown whether the stroke alterations seen in swimmers with 
+30 
+ symptomatic shoulders are the cause or the consequence of pain (Heinlein & 
+Cosgarea, 2010). 
+ 
+Figure 2-11.  Schematics of a dropped elbow 
+The dropped elbow pull involves a relatively large shoulder external rotation with 
+horizontal adduction.According to Yanai and Hay (1998), Dr. Counsilman presented a 
+sequence of arm positions during the pull phase to define the “dropped elbow” pull 
+and the “correct high-elbow” pull (see Figure 2-11 above and Figure 2-12 below). 
+ 
+Figure 2-12.  Schematics of the high-elbow pull 
+The high-elbow pull appears to involve a combination of a relatively large shoulder 
+internal rotation with horizontal abduction.  The “dropped-elbow” technique involves a 
+combination of relatively large external rotation and horizontal abduction at the 
+shoulder, and the correct “high-elbow” technique involves a combination of a large 
+internal rotation and horizontal abduction).  Although the high-elbow technique is 
+known to place the muscles used to generate the propulsive force at a mechanical 
+advantage, it also tends to place the shoulder structures at risk because of 
+impingement (Yanai & Hay, 1998).  In the high elbow pull position, the backward pull 
+of the hand (in the early pull through phase) is initiated by the backward motion of the 
+hand relative to the elbow, thus the hand moves backward while the elbow remains 
+almost stationary. This backward motion of the hand relative to the elbow is associated 
+with an increase in the internal rotation angle.  Swimmers who executed the pull phase 
+
+31 
+ with a large internal rotation angle of the arm had an increased susceptibility to 
+impingement (Yanai & Hay, 1998).  Yanai and Hay (1998) recommended that 
+swimmers should adopt the high-elbow technique during the pull phase only within 
+their boundary ROM, so that the advantage of this technique can be obtained safely. 
+ Late Pull Through Pathomechanics 
+Pink and Tibone (2000) claims that a swimmer with a shoulder injury fails to generate 
+force from that arm during the late pull through phase.  Therefore, the swimmer must 
+rely on the contralateral arm to pull the body forward.  An increase in training intensity 
+will therefore result in an increase in propulsive forces of the opposite hand during the 
+early pull through phase. 
+ Hand Exit Pathomechanics 
+Scovazzo et al. (1991) reported that an early hand exit was associated with swimmers 
+with painful shoulders.  An early exit was defined as an exit that occurred before the 
+palm passed the thigh, with the elbow bent (Scovazzo et al., 1991).  They suggest that 
+this is an attempt to avoid the extremes of internal rotation that accompany the more 
+fully flexed elbow (Scovazzo et al., 1991).  Bak (2010) concluded that the 
+supraspinatus tendon is at risk of injury during the late pull-through. 
+ Recovery Phase 
+Yanai and Hay (1998) stated that shoulder impingement was most often found during 
+this phase of freestyle swimming.  Swimmers who spend the most stroke time in 
+internal rotation (17 to 19% of their stroke time) had a recovery pattern where the 
+elbow led the wrist and were likely to experience impingement (Yanai & Hay, 1998).  
+The swimmers, who exhibited the least percentage of stroke time in internal rotation 
+(0 to 3% of their stroke time) where the elbow barely preceded the wrist, were unlikely 
+to experience impingement.  
+A dropped elbow during the recovery phase was also associated with shoulder pain in 
+Scovazzo et al. (1991) study on 14 Collegiate and Masters Swimmers.  They noted 
+that by keeping the arm lower and shortening the arc of motion, these swimmers were 
+avoiding the painful impingement position (Scovazzo et al., 1991).  The latter 
+statement makes sense as a characteristic of the position eliciting subacromial 
+impingement symptoms, is forward flexion and internal rotation of the glenohumeral 
+32 
+ joint during the recovery phase (above-water portion) of the stroke (Wanivenhaus et 
+al., 2012). 
+ Catch-up Stroke 
+Becker and Havriluk (2012) avers that when swimming catch-up stroke, where the arm 
+is intentionally maintained in a position parallel to the surface at the end of arm entry, 
+torso rotation increases the time of exposure in a hyperflexed shoulder position (where 
+the hand is higher than the shoulder at the completion of the hand entry) and increases 
+shoulder stress. 
+  
+33 
+ 3 CHAPTER THREE: Method of Research 
+ Introduction 
+This chapter describes the protocol that was designed to investigate the objectives 
+stated in Chapter 1.  A description of the instruments and technique/s used for all the 
+measurements will be discussed.  
+The preparation for this dissertation was performed by reviewing literature from the 
+following electronic databases: Google Scholar, Ebscohost Web, Academic Search 
+Complete, CINAHL with Full Text, Health Source – Consumer Edition, Health Source: 
+Nursing/Academic Edition, MEDLINE with Full Text, MasterFILE Premier, 
+SPORTDiscuss with Full Text, ScienceDirect.  
+The following key words were used in the search: swimming/swimmer, shoulder, 
+injury/ies, biomechanics, freestyle, sports injury/ies, athletic injury/ies, and prevention, 
+preventive.  Various combinations of the key words were used.  In addition, the 
+reference lists of retrieved articles and relevant reviews were hand searched. 
+ Study Design 
+A cohort-analytical study design was used.  Demographic data was obtained using a 
+data sheet.  After completing a questionnaire, all participants were subjected to 
+laboratory testing, followed by Aquanex+Video testing. 
+ Study Participants 
+The study was conducted on swimmers from the Kovsie Aquatics Swim Club, 
+Bloemfontein, South Africa during the 2014/2015 swimming season (1 May 2014 to 1 
+May 2015).  For this purpose, a convenience sample of sixteen (n=16) swimmers were 
+recruited.  All participants were informed about the nature, potential risks and benefits 
+of the study, after which they signed a written informed consent document.  Although 
+it is a University swim club, the swimmers are aged from as young as 7 and older.  
+Confidentiality and anonymity of all participants were ensured, and ethical clearance 
+was obtained from the University of the Free State where the study was conducted, 
+with the ethical clearance number UFS-HSD2015/0526 (Appendix C). 
+ 
+34 
+ 
+ Inclusion and Exclusion Criteria 
+The target population for this study was the Kovsie Aquatics Swim Club from the 
+University of the Free State. 
+The following inclusion criteria was used: (1) aged between 10 and 25 years; (2) 
+having trained with a coach for a minimum of 2.5 years; (3) swimming at least 6 hours 
+per week; and (4) qualifying for level 2 and higher. The exclusion criteria were as 
+follow: (1) previous surgery on the involved shoulder; (2) previous fracture of the 
+shoulder; and (3) inability or unwillingness to participate in the testing with 
+Aquanex+Video, participating in the measurement taking (weight, height, shoulder 
+internal and external rotation) or completing the questionnaire. 
+ Information Document and Informed Consent/Assent 
+All the participants read and signed an information document (Appendix D) and an 
+informed consent (Appendix E) form.  If participants were younger than 18 years of 
+age, their parents/guardians signed the informed consent form and the participant 
+signed an informed assent form (Appendix F).  Any information that was acquired 
+during this study, and that can be identified with the participant, remains confidential 
+and will be disclosed only with permission of the participant or as required by law.  
+Confidentiality is maintained by means of allocating numbers to swimmers.  
+Information is being kept with the investigator only, and raw data held under lock and 
+key.  All processing of data is governed by a PC password protector.  Only the findings 
+were published with the strictest of confidentiality to the individual swimmers.  
+Participation in the study was voluntary.  Participants were permitted to withdraw from 
+the study at any time, and without consequences of any kind.  The swimmer was not, 
+in any way, affected if he/she chose not to participate in the study. 
+ Demographic Data 
+The following demographic data was documented on the day of the Aquanex+Video 
+testing (see Appendix G): 
+ Date of Birth (Age) 
+ Gender 
+ Highest swimming qualification 
+o Level 2; 
+35 
+ o Level 3; 
+o Senior/Youth Nationals; 
+o International Team 
+Level galas are grading galas for local competition in South Africa.  Swimmers must 
+be registered with Swimming South Africa and need to swim qualifying times at 
+qualifying club events.  Qualifying times are set by Swimming South Africa.  The level 
+ratings are as follows (http://www.nmb-aquatics.co.za/documents/men-galas-
+explained): 
+ Level 1:  Regional Gala 
+o This is the entry level into National galas and gives the swimmer 
+opportunity to compete against other swimmers from around the country.  
+This is swum as a club gala. 
+ Level 2:  Regional Gala 
+o Level 2 qualifying times are slightly more difficult to achieve.  This is 
+swum as a club event. 
+ Level 3:  National Gala 
+o This is the highest level before Senior Nationals. This is also swum as a 
+club event 
+ Senior/Youth Nationals 
+o Once a swimmer has met the qualifying times, a provincial team is 
+selected for Senior/Youth Nationals.  This is the highest level of local 
+competition in South Africa. 
+ Questionnaire 
+Al the participants completed a brief survey questionnaire titled ‘Sport and Symptom 
+Survey Questionnaire’ (Appendix H).  The survey questionnaire is a slightly altered 
+version of the questionnaire used by Harrington et al. (2014).  It was self-administered 
+under classroom-style supervision obtaining information regarding the 2014/2015 
+swimming season (1st of May 2014 to the 1st of May 2015).  The questionnaire 
+requested the following information:  
+36 
+ 
+ General Swimming Information 
+The participants were instructed to indicate the sum of years participating 
+competitively, their stroke preference and their favourite distance.  When swimming 
+freestyle, they were asked to specify whether they breathe unilaterally or bilaterally. 
+ Swim Training Variables 
+3.7.2.1 Frequency 
+Swimmers were instructed to document the amount of swimming sessions completed 
+on average per week. 
+3.7.2.2 Time  
+The questionnaire included reporting the average amount of swimming minutes per 
+session. 
+3.7.2.3 Distance 
+Participants were asked to report the kilometres covered on average per session. 
+ Injury Definition 
+Injuries occur when the energy is transferred to the body in amounts or at rates that 
+exceed the threshold for human tissue damage (Meeuwisse et al., 2007).  In the 
+consensus statements for Soccer (Fuller et al., 2006) an injury is defined as: 
+“Any physical complaint sustained by a player that result from a football match or 
+football training, irrespective of the need for medical attention or time-loss from football 
+activities.  An injury that results in a player receiving medical attention is referred to as 
+a ‘‘medical-attention’’ injury, and an injury that results in a player being unable to take 
+a full part in future football training or match play as a ‘‘time-loss’’ injury.” 
+In this study, a shoulder injury was classified as: 
+“Any physical complaint, concerning the shoulder, sustained by a swimmer that 
+resulted from swimming or swimming related training (including dry land training), 
+irrespective of the need for medical attention or time-loss from swimming activities.  
+An injury that resulted in a swimmer receiving medical attention is referred to as a 
+‘‘medical-attention’’ injury, and an injury that resulted in a swimmer being unable to 
+take a full part in future swim training or galas as a ‘‘time-loss’’ injury. 
+37 
+ 
+ Injury Classification 
+3.7.4.1 Mechanism and Side of Injury 
+Injuries were classified by the body side and the mechanism of injury (traumatic or 
+overuse).  In this context, a traumatic injury refers to an injury resulting from a specific, 
+identifiable event and an overuse injury to one caused by repeated micro trauma 
+without a single identifiable event responsible for the injury (Fuller et al., 2006). 
+3.7.4.2 Shoulder Pain/Symptoms and Functional Ability 
+Shoulder pain and symptoms were assessed using respective subscales of the Penn 
+Shoulder Score (Tate et al., 2012).  Pain was rated at rest, with normal activities 
+(eating, dressing, bathing), and with strenuous activities (sports, reaching, lifting) on a 
+scale of 0 ( no pain) to 10 (worst pain possible ).  The pain subscale total was calculated 
+by subtracting each of the 3 scores from 10 and then adding them for a total of 0 to 
+30, with 30 indicating no pain. 
+3.7.4.3 Injury Severity 
+The severity of the symptoms were categorised according to ability of the swimmer to 
+participate in swim training and competition found in the questionnaire of the study 
+done by Harrington et al. (2014). 
+1. No pain or shoulder symptoms 
+2. Pain/ache only after heavy workouts 
+3. Pain/ache (not disabling) during and after workouts 
+4. Disabling pain during and after workouts that interfered with your athletic 
+performance 
+5. Shoulder pain preventing competitive sport participation 
+3.7.4.4 Other Injury Classification Issues 
+Injuries were classified as to whether these occurred during a gala, training or dry land 
+training. 
+3.7.4.5 Painful Phases of the Freestyle Stroke 
+In a survey of 233 competitive swimmers on 17 collegiate teams, Pink and Tibone 
+(2000) found that the part of freestyle stroke most frequently linked to shoulder injury, 
+was the first half of the pull through phase (approximately 70% of symptoms were 
+noted at this time).  Another vulnerable point of the stroke appeared to be during the 
+38 
+ first half of recovery (18% of symptoms were elicited at this point according to the latter 
+authors).   
+Figure 3-1.  Painful phases of the freestyle stroke 
+Swimmers were asked to indicate during which part of the stroke the symptoms were 
+experienced as seen in Figure 3-1 above (Pink & Tibone, 2000). 
+ Measurements  
+ Laboratory Testing 
+3.8.1.1 Height and Weight 
+The following measurements were documented on the day of the Aquanex+Video 
+testing (Appendix G): 
+ Height (in centimetres) – using a standard stadiometer 
+ Weight (in kilograms) – using a calibrated scale 
+3.8.1.2 Shoulder Range of Movement 
+Active internal and external shoulder range of movement was measured at 90º of 
+gleno-humeral abduction (Appendix I).  This was done with a standard plastic long-
+armed (12 inch) goniometer with 1º increments, in the supine position (Boon & Smith 
+2000).  Each subject was tested by two Biokineticists. 
+The investigator described the technique in detail, and demonstrated the procedure, 
+including instruction in positioning seen in Figure 3-2 below (Boon & Smith, 2000).  
+One Biokineticist positioned the arm in internal rotation, and the second Biokineticist 
+measured and recorded the angle.  The scapula was stabilized by applying 
+anteropostero-directed force against the coracoid process and clavicle (Boon & Smith, 
+2000).  The first Biokineticist then moved the arm through full range of motion to 
+external rotation and the measurement was taken and recorded (Boon & Smith, 2000).  
+The procedure was repeated for the opposite shoulder. 
+
+39 
+  
+Figure 3-2.  Technique for testing shoulder rotational range of motion  
+ Freestyle Biomechanical Testing using the Aquanex+Video 
+3.8.2.1 Testing Protocol 
+Participants were instructed to warm-up with a 100m freestyle swim.  The standard 
+Aquanex+Video testing protocol as described by Becker and Havriluk (2010) was used 
+and is described below. 
+Sensors were positioned at the centre of the swimmer’s hands between the third and 
+fourth metacarpals to measure the pressure differential between the palmar and dorsal 
+surfaces.  The sensor and video output were connected to a computer via an interface 
+on the pool deck and synchronized the data from the sensors and video.  The 
+underwater camera was positioned at 30cm from the water surface at the end of the 
+pool. 
+Swimmers were instructed to sprint 20m toward the wall where the camera is mounted.  
+Underwater video and hand force data was collected over the last 10 m of each trial.  
+Two trails of each test were performed with 1-minute rest between each trail.  Figure 
+3-3 below illustrates the camera view. 
+
+40 
+  
+Figure 3-3.  Aquanex+Video camera view 
+3.8.2.2 Validation 
+The testing equipment was validated as explained by Havriluk (1988). 
+3.8.2.3 Freestyle Biomechanical Analysis 
+The video analysis was done on the video captured during the Aquanex+Video testing.  
+A stroke cycle was considered appropriate for analysis if the cycle was completely 
+within the camera view, with the body centred in the field of view.  After an in-depth 
+study on available literature regarding possible freestyle biomechanical errors 
+associated with shoulder pain and advantageous biomechanical positions, a freestyle 
+analysis template was assembled (Appendix J).  The first full stroke cycle to enter the 
+camera view that met the criteria was selected for analysis using the latter data sheet. 
+Data captured by the Aquanex+Video hand sensors (i.e. average peak force, stroke 
+velocity, stroke rate, stroke length, and active drag coefficient) were processed and 
+analysed.  
+
+41 
+ 
+ Methodological and Measurement Errors 
+According to Mouton (2001) the term “research methodology” is the term used to 
+describe the process followed to conduct a scientific study.  Thomas et al. (2011) 
+describe research as a systematic process of collecting data and logically analysing 
+this data to solve problems and to make significant contributions in the field of science, 
+for example in swimming.  Research also involves the application of various 
+techniques, methods, and approaches for investigating a problem or answering a 
+research question. 
+Errors in any research study is avoided as far as possible.  The researcher was 
+available to assist participants in case of any queries or uncertainties.  Measurement 
+errors were minimised by making use of a qualified Biokineticist to assist in taking 
+measurements.  In order to minimise equipment errors, all the equipment (scale and 
+Aquanex+Video) was calibrated before testing each participant.  Errors in the transfer 
+of data into an electronic format was avoided by thorough data checking. 
+ Pilot Study 
+Mouton (2014) stated that a pilot study is the extensive collection of data to gain a 
+comprehensive understanding of a single phenomenon on a particular group (ex. 
+swimmers), social setting or event.   A pilot study with three swimmers was conducted 
+6 weeks prior to the present study. It consisted of documenting demographic data, 
+measuring weight, height and shoulder internal and external range of movement.  This 
+was followed by filling out the questionnaire under classroom style supervision.  
+Aquanex+Video testing was done in the University of the Free State swimming pool.  
+Additionally, the duration of testing an individual swimmer was evaluated in order to 
+properly plan testing schedules.  Data sheets, equipment, and protocols were found 
+to be effective in testing the proposed objectives. 
+ Ethical Aspects 
+Marczyk et al. (2005) stated that all studies with human participants involve some 
+degree of risk.  The author further mentioned that the researcher must be aware that 
+these risks present him with an ethical dilemma.  Therefore, conducting research 
+requires integrity, responsibility and honesty in order to protect the rights of the 
+42 
+ participants.  To render the study ethical, the rights to confidentiality, self-
+determination, anonymity, and informed consent will be observed. 
+Written permission to conduct this research was obtained from the head coach of 
+Kovsie Aquatics, Marco Markgraaff (Appendix A), the director of Kovsie Sport, Mnr. 
+D.B. Prinsloo (Appendix B) and the Ethics committee of Humanities, University of the 
+Free State (Appendix C). 
+Basic elements of informed consent include the following: 
+ A fair explanation of the procedures to be followed; 
+ A description of the value and benefits of their participation; 
+ An offer to answer any enquiries concerning the processes; 
+ An indication that the participant is free to withdraw consent and to discontinue 
+participation on the project or activity at any time. 
+ The rights of the participant will be considered by the researcher; 
+ The right to privacy or non-participation; 
+ The right to remain anonymous; 
+ The right to confidentiality; and 
+ The right to expect experimenter responsibility. 
+ Analysis of the Data 
+Data was captured electronically in Microsoft Excel (Microsoft Office 2010).  The 
+statistical analysis described below was done by a biostatistician (Prof R. Schall of the 
+Department of Statistical Consultation Unit, Department of Mathematical Statistics and 
+Actuarial Science, University of the Free State) using SAS software (SAS; version 9.3 
+for Windows; Cary, NC).  
+ Descriptive Statistics 
+Descriptive statistics, namely frequencies and percentages for categorical data and 
+means and standard deviations or medians and percentiles for quantitative data were 
+calculated.  
+ Binary Risk Factors for Injury 
+The association between binary risk factors for injury, and the binary variable “shoulder 
+injury” (SI 3), was assessed using Fisher’s exact test.  A P-value for the null-hypothesis 
+43 
+ of no association between the risk factor in question and the outcome (shoulder injury) 
+is reported.  
+Furthermore, both the risk of shoulder injury in presence of the risk factor, and the risk 
+of injury in the absence of the risk factor was presented; finally, the risk ratio “Risk 
+factor present / Risk factor absent” of injury, as well as the exact 95% confidence 
+interval for the risk ratio, are reported. 
+ Quantitative Risk Factors for Injury 
+The association between the quantitative risk factors and the binary variable “shoulder 
+injury” (SI 3) was assessed using one-way ANOVA.  Here the quantitative variable 
+was the dependent variable, and the binary variable “shoulder injury” was the group 
+variable.  
+P-values associated with the null-hypothesis of zero mean difference between injured 
+and uninjured subjects are reported. Furthermore, the mean difference “Risk factor 
+present - Risk factor absent” of the quantitative variable, as well as a 95% confidence 
+interval for the mean difference, are reported. 
+  
+44 
+ 4 CHAPTER FOUR: Results 
+This chapter presents the results obtained from the demographic questionnaire, 
+laboratory testing and freestyle biomechanics analysis.  The results are displayed to 
+reflect the demographic information of this cohort of swimmers, followed by the data 
+on the prevalence of shoulder injuries and the data from the freestyle biomechanical 
+analysis. 
+The results are narrated in this chapter to highlight their significance within the 
+represented profiles.  Interpretation and discussion of the findings follow in Chapter 5. 
+ Participants 
+The demographic information displayed in this section provides an overview of the 
+cohort of swimmers from Kovsie Aquatics Swimming Club in the 2014/2015 season. 
+ Demographic Data 
+Descriptive statistics, namely frequencies and percentages for categorical data and 
+means and standard deviations or medians and percentiles for quantitative data were 
+calculated. 
+Sixteen (n=16) competitive swimmers (6 male, 10 female), adhering to the inclusion 
+criteria, participated in the study.  The age of the total sample ranged between 11 and 
+19 years with a mean age of 15.1 (± 2.78) years.  Most of the swimmers fell in the 13 
+to 14 years age group, totalling to 6 (37.5%) swimmers.  This was followed by 4 (25%) 
+in the 17 to 18 years category.  The distribution of the rest of the population is depicted 
+in Figure 4-1. 
+ 
+Figure 4-1.  Age categories 01234567
+11-12 years 13-14 years 15-16 years 17-18 years 19 or olderNumber of Participants (n)
+Age Categories
+45 
+ The mean height was 166.6cm (±11.09), while the mean body mass was 59.4 kg (± 
+12.03).  Nine (56.3%) of the swimmers qualified for Level 2.  The swimmers’ level of 
+qualification can be observed in Figure 4-2 below. 
+ 
+Figure 4-2.  Level of qualification 
+ Questionnaire 
+Data for 16 study participants were available. The questionnaire collected 
+demographic data, including data on shoulder injuries. 
+ General Swimming Information 
+4.2.1.1 Years Participating 
+Fifteen of the participants in this study had been swimming competitively for 5 years 
+or more with one swimmer swimming competitively for 3 to 4 years. 
+4.2.1.2 Stroke Preference 
+Freestyle was the most popular stroke with 9 (56.3%) swimmers preferring it.  Figure 
+4-3 illustrates the distribution of stroke preferences. 012345678910
+Level 2 Level 3 Junior Nationals Senior Nationals S.A. National
+TeamNumber of Participants
+Level of Qualification
+46 
+  
+Figure 4-3.  Stroke preference 
+4.2.1.3 Distance Preference 
+Middle distance was the favourite distance among the participants.  Ten (62.5%) of 
+the swimmers favoured 200m-400m while 4 (25%) preferred sprints (50m-100m) and 
+2 (12.5%) open water events.  None of the participants showed an interest in the 
+800m-1500m category. 
+ 
+Figure 4-4.  Distance preference 
+4.2.1.4 Breathing Side 
+Nine (56,3%) of the participants claimed to breath bilaterally while 7 (43.8%) breathed 
+to the right only. 012345678910
+Freestyle Butterfly Breaststroke Backstroke Individual
+MedleyNumber of Participants
+Stroke Preference
+024681012
+50m-100m 200m-400m Open WaterNumber of Participants
+Distance Preference
+47 
+ 
+ Swim Training Variables 
+A summary of various questions regarding the swimmers training variables is given in 
+Table 4-1.  Eight (50%) of the participants indicated swimming 3 to 4 sessions per 
+week while the other 8 (50%) trained more than 5 sessions per week.  Eight (50%) 
+swimmers trained for 90 minutes or more per training session while only 1 (6.25%) 
+indicated swimming 45 to 60 minutes per session.  Five (31.3%) participants swim on 
+average 3 to 4 kilometres per session, while the remaining 11 (68.8%) cover more 
+than 4 kilometres per session. 
+Table 4-1.  Training variables 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The sample was stratified into 2 groups.  One group reported swimming 5 sessions 
+(or more) per week and 5km (or more) per session.  This group consisted of five 
+swimmers.  The other group reported swimming less than 5 session per week or less 
+than 5km per session.  This group consisted of 11 swimmers.  Interestingly it seems 
+that participants with the higher training load were less prone to injury with only one 
+(20%) of the group with the higher training load reporting a shoulder injury.  Nine (82%) 
+of the 11 swimmers with a reduced training load reported a shoulder injury (refer to 
+Figure 4-5).  This however raises the question of whether participants reduced their 
+training load after injury.  Unfortunately, due to the retrospective nature of this study,   Frequency(n)  Percentage  
+Frequency 
+(sessions 
+per week) 1-2 0 0 
+2-3 0 0 
+3-4 8 50.00 
+4-5 0 0 
+5 or more  8 50.00 
+    
+Time (per 
+session) 30-45min 0 0 
+45-60min 1 6.25 
+60-75min 6 37.50 
+75-90min 1 6.25 
+90min or more  8 50.00 
+    
+Distance 
+(per 
+session) 1-2km 0 0 
+2-3km 0 0 
+3-4km 5 31.25 
+4-5km 4 25.00 
+5km or more  7 43.75 
+    
+48 
+ it is not possible to conclude whether training distance was reduced as a result of injury 
+or if a correlation between a lower training load and shoulder injury exist. 
+ 
+Figure 4-5  Training load and shoulder injuries 
+ Shoulder Injury 
+4.2.3.1 Prevalence of Shoulder Injuries 
+In this study 10 (62.5%) of the participants reported having a shoulder injury during 
+the 2014/2015 season.  Refer to Figure 4-6. 
+ 
+Figure 4-6.  Prevalence of shoulder injuries 024681012
+5 or more sessions per week
+and 5km or more per session5 or less sessions per week or
+less than 5 km per session
+Injured Swimmers Uninjured Swimmers
+024681012
+Injured Swimmers Uninjured SwimmersNumber of Participants
+49 
+ Eight (80%) of the injured swimmers were female and only 2 (20%) were male.  
+Female swimmers were more prone to injury than their male counterparts.  Eight 
+(80%) of the 10 female swimmers presented with a shoulder injury, while only 2 (33%) 
+of the six male participants reporting a shoulder injury.  
+Three (75%) in the category 17 to 18 years presented with a shoulder injury, while 4 
+(67%) of the 13 to 14 years category and 2 (67%) of the 11 to 12 years category 
+reported a shoulder injury.  One (50%) of the 2 swimmers between 15 and 16 years 
+sustained a shoulder injury. 
+ 
+ 
+Figure 4-7.  Injured vs uninjured swimmers in age category 
+ 
+Figure 4-8.  Injured and uninjured swimmers represented in percentages 01234567
+11 to 12 years 13 to 14 Years 15 to 16 years 17 to 18 years 19 to 20 years
+Injured Swimmers Uninjured Swimmers
+0%10%20%30%40%50%60%70%80%90%100%
+11 to 12 years13 to 14 Years15 to 16 years17 to 18 years19 to 20 years
+Injured Swimmers Uninjured Swimmers
+50 
+ 4.2.3.2 Mechanism and Side of Injury 
+All the injured swimmers indicated that the cause of the shoulder injury was due to 
+overuse during swim training and not due to trauma. 
+Figure 4-8 shows that 7 (70%) of the injured swimmers experienced bilateral shoulder 
+pain, with 2 (20%) swimmers experiencing symptoms only in the right shoulder and 1 
+(10%) only in the left shoulder. 
+ 
+Figure 4-9.  Injured side 
+In total, 56.25% (n=9) of the 16 right shoulders presented with an injury, while 50% 
+(n=8) of the 16 left shoulders were injured. 
+ 
+Figure 4-10.  Injured side when differentiating between sides 012345678
+Bilateral Right LeftNumber of Participants
+Injured Side
+0510
+Left RightNumber of Participants
+Injured Shoulders Uninjured Shoulders
+51 
+ 
+4.2.3.3 Injury Severity 
+Disabling pain during and after workouts that interfered with the swimmers’ 
+performance described 6 (60%) of the participants symptoms.  Three (30%) 
+participants experienced pain/ache (not disabling) during and after workouts.  Only 1 
+(10%) swimmer reported pain/ache after heavy workouts. 
+4.2.3.4 Painful Phases during the Freestyle Stroke 
+Six (60%) of the injured participants experienced their symptoms only during the early 
+pull through phase with 1 (10%) experiencing symptoms only during the recovery 
+phase.  However, 3 (30%) swimmers experienced symptoms during both the early pull 
+through and the recovery phase.  Figure 4-11 illustrates the distribution of the painful 
+phases of the freestyle stroke in this population. 
+ Early Pull Through Phase and Recovery (30%) 
+ 
+Hand Entry Early Pull Through Phase 
+(60%) Recovery (10%) 
+ 
+ 
+Figure 4-11.  Distribution of the painful phases of the freestyle stroke  
+ Freestyle Stroke Biomechanical Analysis Results 
+The association between binary risk factors for injury, and the binary variable “shoulder 
+injury” (SI 3), was assessed using Fisher’s exact test.  A P-value for the null-hypothesis 
+of no association between the risk factor in question and the outcome (shoulder injury) 
+is reported. 
+Furthermore, both the risk of shoulder injury in presence of the risk factor, and the risk 
+of injury in the absence of the risk factor was presented; finally, the risk ratio “Risk 
+factor present / Risk factor absent” of injury, as well as the exact 95% confidence 
+interval for the risk ratio, are reported. 
+52 
+ None of the risk factors that were investigated in this study was statistically significant.  
+It should however be noted that the low power to detect statistically significant risk 
+factors was due to the relatively small sample.  Nevertheless, the study results 
+presented below suggest variables which might be associated with an increased risk 
+for shoulder injury, and thus suggest a number of risk factors worthy of further study 
+in future research.
+53 
+ Table 4-2.  Potential binary risk factors of right shoulder injury 
+Risk Factor – Right Hand   
+ Risk of injury [%] Risk Ratio: Risk factor present / Risk factor 
+absent 
+Hand Entry Position Risk factor 
+present1 (n/N)  Risk factor 
+absent1 (n/N)  Estimate2 95% Confidence 
+Interval1 P-value3 
+Hand crossing the midline 71.4 (5/7) 44.4 (4/9)  1.61 0.67 to 3.83 0.3575 
+Thumb first hand entry 66.7 (4/6) 50.0 (5/10)  1.34 0.58 to 3.09 0.6329 
+Hand entering between the body midline and shoulder 42.9 (3/7) 66.7 (6/9)  0.64 0.09 to 1.69 0.6145 
+Hand entering in line with the shoulder 50.0 (1/2) 57.1 (8/14)  0.88 0.03 to 2.55 1.0000 
+Hand entering outside of the shoulder NA 56.3 (9/16)  NA NA NA 
+Hand/Arm Position at the end of the Hand Entry Phase       
+Hyperflexed shoulder with fingertips facing upward 100.0 (2/2) 50.0 (7/14)  2.00 0.21 to 4.34 0.4750 
+Arm Parallel to the water 54.6 (6/11) 60.0 (3/5)  0.90 0.36 to 6.48 1.0000 
+Fingertips pointing downward towards the bottom of the pool 25.0 (1/4) 66.7 (8/12)  0.37 0.01 to 1.41 0.2615 
+Early Pull Through Phase – Elbow Position       
+Dropped Elbow 54.6 (6/11) 60.0 (3/5)  0.91 0.36 to 6.48 1.0000 
+High Elbow 60.0 (3/5) 54.6 (6/11)  1.10 0.45 to 2.70 1.000 
+54 
+ NA: Not applicable; estimate and confidence for risk ratio cannot be calculated because no subjects has the risk factor in question 
+1Percentage of swimmers with injury.  
+2Point estimate and exact 95% confidence interval of the risk ratio “Risk factor present / Risk factor absent” of having a shoulder injury. 
+3P-value from Fisher’s exact test of the null-hypothesis of no association between risk factor and injury. Early Pull Through Phase – Hand Position       
+Hand inside the elbow and crossing the midline of the body NA 56.3 (9/16)  NA NA NA 
+Hand inside the elbow and not crossing the midline of the body 58.3 (7/12) 50.0 (2/4)  1.17 0.44 to 10.91 1.0000 
+Hand in line with the elbow NA 60.0 (9/15)  NA 0.00 to 1.93 0.4375 
+Hand outside the elbow 66.7 (2/3) 53.9 (7/13)  1.24 0.13 to 3.03 1.0000 
+Late Pull Through Phase / Push Phase – Force Production       
+Drop in force production 63.6 (7/11) 40.0 (2/5)  1.59 0.56 to 14.84 0.5962 
+Increase in force production 40.0 (2/5) 63.6 (7/11)  0.63 0.07 to 1.77 0.5962 
+Hand Exit Phase – Hand Position       
+Hand exits before the thigh 53.3 (8/15) 100.0 (1/1)  0.53 0.27 to 14.76 1.0000 
+Elbow bent during hand exit 53.3 (8/15) 100.0 (1/1)  0.53 0.27 to 14.76 1.0000 
+Catch-up Stroke       
+Swimming catch-up stroke 75.0 (3/4) 50.0 (6/12)  1.50 0.67 to 3.34 0.5846 
+55 
+ 4.2.4.1 Hand Entry Phase– Right Hand/Arm 
+The results in Table 4-2 indicate that 71.4% (5 out of 7) of the swimmers with a right 
+hand crossing the midline upon hand entry presented with an injury to the right 
+shoulder, compared to 44.4% (4 out of 9 swimmers) without this risk factor [Risk ratio 
+(RR) =1.61; 95%CI for RR 0.67 to 3.83].  Thus, swimmers with a right hand crossing 
+the midline upon hand entry were 1.6 times more likely to present with a right shoulder 
+injury than swimmers without. 
+Swimmers with a hand/arm position at the end of the entry phase where the right 
+shoulder was in hyperflexed with the fingertips facing upward were twice as likely to 
+present with a right shoulder injury [Risk ratio (RR) =2.00; 95%CI for RR 0.21 to 4.34]. 
+4.2.4.2 Late Pull Through Phase (Push Phase) – Right Hand/Arm 
+A risk ratio larger than 1.5 was observed for those swimmers with a drop in force 
+production during the late pull through phase [Risk ratio (RR) =1.59; 95%CI for RR 
+0.56 to 14.84]. 
+4.2.4.3 Swimming Catch-Up Stroke – Right Hand/Arm 
+Seventy five percent (3 out of 4) of the swimmers swimming ‘catch-up stroke’ with the 
+right hand/arm presented with a right shoulder injury, compared to 50% (6 out of 12) 
+of the swimmers without this risk factor on the same side [Risk ratio (RR) =1.50; 95%CI 
+for RR 0.67 to 3.34].  Swimmers presenting with this risk factor on the right hand/arm 
+were 1.5 times more likely to present with a right shoulder injury.
+56 
+ Table 4-3.  Potential binary risk factors of left shoulder injury 
+Risk Factor – Left Hand   
+ Risk of injury [%] Risk Ratio: Risk factor present / Risk factor 
+absent 
+Hand Entry Position Risk factor 
+present1 (n/N)  Risk factor 
+absent1 (n/N)  Estimate2 95% Confidence 
+Interval1 P-value3 
+Hand crossing the midline 42.9 (3/7) 55.56 (5/9)  0.77 0.13 to 2.28 1.0000 
+Thumb first hand entry 66.7 (4/6) 37.50 (3/8)  1.67 0.58 to 3.09 0.6084 
+Hand entering between the body midline and shoulder 62.5 (5/8) 66.67 (6/9)  1.67 0.57 to 9.43 0.6193 
+Hand entering in line with the shoulder 0.0 (0/1) 53.33 (8/15)  0.00 0.00 to 2.26 1.0000 
+Hand entering outside of the shoulder NA 50.00 (8/16)  NA NA NA 
+Hand/Arm Position at the end of the Hand Entry Phase       
+Hyperflexed shoulder with fingertips facing upward 75.0 (3/4) 41.67 (5/12)  1.80 0.33 to 5.00 0.5692 
+Arm Parallel to the water 28.6 (2/7) 66.67 (6/9)  0.43 0.12 to 1.51 0.3147 
+Fingertips pointing downward towards the bottom of the pool 60.0 (3/5) 45.45 (5/11)  1.32 0.23 to 3.77 1.0000 
+Early Pull Through Phase – Elbow Position       
+Dropped Elbow 54.6 (6/11) 40.00 (2/5)  1.36 0.43 to 14.84 1.0000 
+High Elbow 40.0 (2/5) 54.55 (6/11)  0.73 0.22 to 2.44 1.0000 
+57 
+ NA: Not applicable; estimate and confidence for risk ratio cannot be calculated because no subjects has the risk factor in question 
+1Percentage of swimmers with injury.  
+2Point estimate and exact 95% confidence interval of the risk ratio “Risk factor present / Risk factor absent” of having a shoulder injury. 
+3P-value from Fisher’s exact test of the null-hypothesis of no association between risk factor and injury.  Early Pull Through Phase – Hand Position       
+Hand inside the elbow and crossing the midline of the body NA 56.25(9/16)  NA NA NA 
+Hand inside the elbow and not crossing the midline of the body 40.0 (4/10) 66.67 (4/6)  0.60 0.24 to 0.61 0.6084 
+Hand in line with the elbow 0.0 (0/2) 57.14 (8/14)  0.00 0.00 to 1.61 0.4667 
+Hand outside the elbow 100.0 (4/4) 33.33 (4/12)  3.00 1.13 to 10.08 0.0769 
+Late Pull Through Phase / Push Phase – Force Production       
+Drop in force production 50.0 (7/14) 50.00 (1/2)  1.00 0.33 to 27.09 1.0000 
+Increase in force production 50.0 (1/2) 50.00 (7/14)  1.00 0.23 to 4.40 1.0000 
+Hand Exit Phase – Hand Position       
+Hand exits before the thigh 53.3 (8/15) 0.00 (0/1)  ∞ 0.44 to ∞ 1.0000 
+Elbow bent during hand exit 53.3 (8/15) 0.00 (0/1)  ∞ 0.44 to ∞ 1.0000 
+Catch-up Stroke       
+Swimming catch up stroke 75.0 (3/4) 43.67 (5/12)  1.80 0.33 to 5.00 0.5692 
+58 
+  4.2.4.4 Hand Entry Phase – Left Hand/Arm 
+Swimmers with a left thumb first hand entry were 1.67 times more likely to present with 
+a left shoulder injury than those without [Risk ratio (RR) =1.67; 95%CI for RR 0.58 to 
+3.09]. 
+Swimmers presenting with a left hand entering between the shoulder and the midline 
+of the body were also 1.67 times more likely to present with a left shoulder injury [Risk 
+ratio (RR) =1.67; 95%CI for RR 0.57 to 9.43]. 
+A hyperflexed left shoulder with the fingertips facing upward also seemed to increase 
+the risk of left shoulder injury.  Seventy five percent (3 out of 4) of the swimmers with 
+a left hyperflexe shoulder upon hand entry presented with a left shoulder injury, 
+compared with 41.67% (5 out of 12) of swimmers without this biomechanical 
+characteristic [Risk ratio (RR) =1.88; 95%CI for RR 0.58 to 3.09].  The presence of 
+this risk factor increases the risk of injury to the left shoulder by 1.88 times. 
+4.2.4.5 Early Pull Through Phase – Left Hand/Arm 
+Interestingly, 100% (4 out of 4) of the swimmers with a left hand position outside the 
+elbow during the early pull through phase had reported an injury to the left shoulder.  
+In contrast, only 33.33% (4 out of 12 swimmers) without this biomechanical 
+characteristic presented with a shoulder injury [Risk ratio (RR) =3.00; 95%CI for RR 
+1.13 to 10.08].  Swimmers with this risk factor on the left arm were 3 times more likely 
+to sustain a left shoulder injury. 
+4.2.4.6 Swimming Catch-up Stroke – Left Hand/Arm 
+In line with the findings for the right shoulder, swimming ‘catch-up stroke’ with the left 
+arm also seems to increase the risk for left shoulder injury by 1.8 times.  Seventy five 
+percent (3 out of 4) of the swimmers with this risk factor presented with a left shoulder 
+injury compared to 43.67% (5 out 12 swimmers) without this risk factor [Risk ratio (RR) 
+=1.80; 95%CI for RR 0.33 to 5.00]. 
+ Aquanex+Video Quantitative Data Results 
+The association between the quantitative risk factors and the binary variable “shoulder 
+injury” (SI 3) was assessed using one-way ANOVA.  Here the quantitative variable 
+was the dependent variable, and the binary variable “shoulder injury” was the group 
+variable.  
+59 
+  P-values associated with the null-hypothesis of zero mean difference between injured 
+and uninjured subjects are reported. Furthermore, the mean difference “Risk factor 
+present - Risk factor absent” of the quantitative variable, as well as a 95% confidence 
+interval for the mean difference, are reported. 
+Table 4-4.  Aquanex+Video quantitative data – bilateral shoulders 
+Variable Population 
+(N) Mean Standard 
+Deviation P-Value 
+Stroke Velocity (meter/sec) All (16) 1.41 0.20 
+0.2622 Injured (10) 1.36 0.14 
+Uninjured (6) 1.48 0.27 
+     
+Stroke Rate (cycles/sec) All (16) 0.70 0.11 
+0.3002 Injured (10) 0.67 0.09 
+Uninjured (6) 0.73 0.13 
+     
+Stroke Length (meter/cycle) All (16) 2.04 0.18 
+0.9247 Injured (10) 2.04 0.18 
+Uninjured (6) 2.03 0.19 
+     
+Active Drag Coefficient All (16) 0.88 0.12 
+0.6631 Injured (10) 0.90 0.11 
+Uninjured (6) 0.87 0.15 
+Table 4-4 suggests that the uninjured group outperformed the injured group in all the 
+variables except stroke length, although none of the differences is statistically 
+significant. 
+60 
+  Table 4-5.  Aquanex+Video quantitative data – left shoulder 
+Variable Population (N) Mean Standard 
+Deviation P-Value 
+Average Peak Force – 
+Left (Newton meter) All (16) 96.75 32.55 
+0.8211 Injured Left 
+Shoulders (8) 94.81 27.50 
+Uninjured Left 
+Shoulders (8) 98.69 38.80 
+     
+Stroke Velocity 
+(meter/sec) All (16) 1.41 0.20 
+0.3813 Injured Left 
+Shoulders (8) 1.36 0.16 
+Uninjured Left 
+Shoulders (8) 1.45 0.23 
+     
+Stroke Rate 
+(cycles/sec) All (16) 0.70 0.11 
+0.3164 Injured Left 
+Shoulders (8) 0.67 0.09 
+Uninjured Left 
+Shoulders (8) 0.72 0.11 
+     
+Stroke Length 
+(meter/cycle) All (16) 2.04 0.18 
+0.6536 Injured Left 
+Shoulders (8) 2.06 0.19 
+Uninjured Left 
+Shoulders (8) 2.02 0.16 
+     
+Active Drag Coefficient All (16) 0.88 0.12 
+0.2478 Injured Left 
+Shoulders (8) 0.92 0.10 
+Uninjured Left 
+Shoulders (8) 0.85 0.13 
+When isolating left shoulder injuries and comparing all the variables as set out in Table 
+4-5 it seems that the swimmers with a left shoulder injury had deficits in most of the 
+parameters determining swimming speed.  The only variable the injured group did 
+better in was stroke length. 
+61 
+  Table 4-6.  Aquanex+Video quantitative data – right shoulder 
+Variable Population (N) Mean Standard 
+Deviation P-Value 
+Average Peak Force – 
+Right (Newton meter) All (16) 90.09 32.82 
+0.4195 Injured Right 
+Shoulders (9) 84.01 21.50 
+Uninjured Right 
+Shoulders (7) 97.91 44.16 
+     
+Stroke Velocity 
+(meters/sec) All (16) 1.41 0.20 
+0.2162 Injured Right 
+Shoulders (9) 1.35 0.14 
+Uninjured Right 
+Shoulders (7) 1.48 0.27 
+     
+Stroke Rate 
+(cycles/sec) All (16) 0.70 0.11 
+0.1847 Injured Right 
+Shoulders (9) 0.66 0.09 
+Uninjured Right 
+Shoulders (7) 0.74 0.12 
+     
+Stroke Length 
+(meters/cycle) All (16) 2.04 0.18 
+0.7027 Injured Right 
+Shoulders (9) 2.05 0.18 
+Uninjured Right 
+Shoulders (7) 2.02 0.18 
+     
+Active Drag Coefficient All (16) 0.88 0.12 
+0.7512 Injured Right 
+Shoulders (9) 0.88 0.09 
+Uninjured Right 
+Shoulders (7) 0.90 0.16 
+  
+62 
+  5 CHAPTER FIVE: Discussion of Results 
+Four strokes are recognized in competitive swimming: freestyle, butterfly, backstroke, 
+and breaststroke (Wanivenhaus et al., 2012).  Regardless of the stroke performed in 
+competition, swimmers spend a considerable time swimming freestyle (Wanivenhaus 
+et al., 2012).  According to Sein et al., (2010) more than 90% of the swimmers in their 
+study spent more than 50% of their training time on freestyle.  Most of the swimming 
+propulsive force is derived from the arms, with the legs adding stabilization as well as 
+propulsive force (McMaster, 1996).  King (1995) stated that 80% of the propulsion 
+power is derived from the pull and 20% from the kick during freestyle.  In a competitive 
+training program a swimmer can easily log up to a million arm strokes per year 
+(McMaster, 1999) and can exceed 4000 strokes for one shoulder in a single workout, 
+making swimming a common source of shoulder pathology (Tovin, 2006).  The 
+monotonous nature and the high volume of training involved in competitive swimming 
+result in cumulative overload injuries (Rodeo, 1999).  Shoulder pain is not only the 
+most common complaint for swimmers, it has a high potential to have an impact on a 
+swimmer’s ability to compete (McMaster, 1999). 
+Epidemiologic studies have consistently noted a high incidence and prevalence of 
+shoulder pain and dysfunction in competitive swimmers (Beach et al., 1992; McMaster 
+et al., 1998; Puckree & Thomas, 2006; Bansal et al., 2007; Wolf et al., 2009; Sein et 
+al., 2010; Tate et al., 2012). 
+Prevention of injuries is an important aspect of athletic training.  Our current 
+understanding of injury causation is limited and must be improved to develop effective 
+interventions for modifying injury risk.  Identifying risk factors for shoulder injuries 
+associated with certain freestyle pathomechanics therefore might improve incidence 
+and/or prevalence of shoulder injuries under competitive swimmers. 
+ Participants 
+Competitive swimmers begin their swimming careers as early as age seven, and most 
+of them train and compete year round (Sein et al., 2010).  Swimmers start their 
+intensive training early, typically at the age of 8 to 11 years, and the amount of training 
+can be excessive (Bak, 2010).  Tate et al. (2012) found high school swimmers to be 
+63 
+  most symptomatic in their study of 236 female swimmers between 8 and 77 years of 
+age. 
+Sixteen (n=16) competitive swimmers (6 male, 10 female) participated in this study.  
+The age of the total sample ranged between 10 and 19 years with a mean age of 15.05 
+(± 2.78) years.  This was similar to the population studied by Sein et al., (2010) who 
+reported a mean age of 15.9 (± 2.78) years.  Ten (62.5%) of the swimmers were 
+female, and 6 (37.5%) were male.  In the study done by Sein et al., (2010), 42 (53%) 
+were male and 38 (47%) were female.  The mean height was 166.63cm (±11.09), 
+while the mean body mass was 59.44 kg (± 12.03).  Nine (56.25%) of the swimmers 
+qualified for Level 2, while two (12.5%) qualified for Level 3, one (6.25%) for Junior 
+Nationals, three (18.75%) for Senior Nationals and one (6.25%) receiving National 
+Colours. 
+ General Swimming Information 
+ Years Participating 
+The minimum participant requirements for participating in this study was swimming 
+competitively for at least two and a half years.  Most of the swimmers (n=15) in this 
+study have been swimming competitively for 5 or more years with only 1 swimmer 
+competing for 3 to 4 years.  All the swimmers included in the study by Sein et al., 
+(2010) had been coached for at least two and a half years.   
+ Stroke Preference 
+According to Wanivenhaus et al. (2012), regardless of the stroke performed in 
+competition, swimmers spend a considerable time swimming freestyle.  Kammer et al. 
+(1999) avers that most (75% to 90%) of training is done in freestyle, irrespective of the 
+swimmers’ speciality.  Not only was freestyle the most common stroke in a study by 
+Wolf et al. (2009), it was also associated with the highest total number of injuries in 
+their five-year survey of 94 National College Athletic Association (NCAA) Division I 
+swimmers from the University of Iowa.  Sein et al., (2010) reported that more than 90% 
+of the swimmers in their study spent more than 50% of their training time on freestyle.  
+They further noted that the swimmers approximately spent 13% of their training time 
+on butterfly, 21% on back stroke and 13% on breaststroke.  Considering the 
+swimmers’ main event in the latter study, 35% specialised in freestyle, 19% in butterfly, 
+64 
+  24% in backstroke and 5% were individual medley swimmers.  Puckree and Thomas 
+(2006) found that 69% of the swimmers in their study competed in freestyle. 
+In accordance with the above findings, freestyle was the most popular stroke in this 
+study with 9 (56.25%) swimmers preferring it.  Breaststroke, backstroke and individual 
+medley were respectively preferred by 2 (12.5%) swimmers and only 1 (6.25%) 
+swimmer preferred butterfly.  Recent research suggests that most swim training is 
+done in freestyle.  Therefore, analysis of freestyle biomechanics might play a role not 
+only in performance, but also in injury prevention. 
+ Distance Preference 
+Middle distance was the favourite distance among the participants with 10 (62.5%) of 
+the swimmers claimed to favour these distances (200m-400m).  Four (25%) preferred 
+sprints (50m-100m) and 2 (12.5%) open water events.  None of the participants 
+showed an interest in the 800m-1500m category.  These findings were different than 
+the findings by Puckree and Thomas (2006) who found most swimmers (70%) in their 
+study specialising in sprints.  Wolf et al. (2009) found that the risk of suffering an injury 
+was not significantly different between sprinters and distance swimmers.  This seems 
+true as the percentage injured swimmers in this study was in line with that found by 
+Puckree and Thomas (2006), despite the difference in distance preference. 
+ Breathing Side 
+Nine (56.25%) of the participants claimed to breath bilaterally while 7 (43.75%) 
+breathed to the right only.  None of the swimmers breathed to the left when swimming 
+freestyle. 
+ Swim Training Variables 
+Tovin (2006) remarked that training errors such as overuse, misuse, abuse or disuse 
+may contribute to shoulder pain in swimmers.  In their study on the cause of shoulder 
+injuries in swimmers, Sein et al. (2010) found that the incidence of supraspinatus 
+tendinopathy was related to time spent training (hours swim per week) and distance 
+swim per week.  From the latter research, swimmers who swam more than 15 hours 
+per week were twice as likely to have tendinopathy as those who trained for less time.  
+Swimmers who swam more than 35km per week were four times more likely than 
+those who swam fewer kilometres (Sein et al., 2010).  Besides these findings they 
+65 
+  further noted that a greater proportion of swimmers competing at a higher level of 
+competition had an increased incidence of supraspinatus tendinopathy than swimmers 
+at lower competitive levels.  These findings are supported by the findings of Tate et al. 
+(2012) who found that high school swimmers practised on average 16 hours per week 
+and had the highest prevalence (22.6%) of symptomatic shoulders.  Tate et al. (2012) 
+further proposed that shoulder pain, dissatisfaction, and disability correlates positively 
+with increased repetitive upper extremity usage in terms of swimming or water polo 
+exposure for mature swimmers. 
+ Frequency 
+The swimmers in the study done by Puckree and Thomas (2006) trained on average 
+11 sessions per week, which is much higher than the population in this study.  In this 
+study 8 (50%) of the participants indicated swimming 3 to 4 sessions per week while 
+the other 8 (50%) trained for more than 5 sessions per week.   
+ Time 
+Tate et al. (2012) found that high school swimmers practised on average 16 hours per 
+week had the highest prevalence (22.6%) of symptomatic shoulders.  The average 
+length of the swimmer’s training sessions in Puckree and Thomas’ (2006) study was 
+90 minutes.  In this study 8 (50%) trained for 90 minutes or more per session, 6 
+(37.5%) trained 60 to 75 minutes per session while 1 (6.25%) indicated training 45 to 
+60 minutes per session and 1 (6.25%) indicated training 75 to 90 minutes per session.  
+Sein et al., (2010) reported that the amount of time the swimmers practised in the 
+water varied between 9 and 110 km/week.  Time spent in the water training seems to 
+relate to the risk of shoulder injury and should accurately be captured in future studies 
+to determine its relevance to shoulder injury. 
+ Distance 
+The swimmers in the study by Sein et al., (2010) swam between 9 and 110 km/week 
+with a median distance of 40km/week.  In this study 5 (31.25%) swimmers on average 
+covered 3 to 4 kilometres per session, while 11 (68.75%) covered more than 4 
+kilometres per session. 
+  
+66 
+  
+ Shoulder Injury 
+Shoulder pain is not only the most common complaint for swimmers it has a high 
+potential to have an impact on a swimmer’s ability to compete (McMaster, 1999).  It 
+has been suggested that swimmers with interfering shoulder pain might not progress 
+in training and will therefore not compete as effectively (McMaster & Troup, 1993), and 
+injuries to the shoulder can be devastating (McMaster, 1999). 
+ Prevalence of Shoulder Injury 
+Recent studies reported the prevalence of shoulder injuries ranging from 17% to 91% 
+(McMaster & Troup, 1993; McMaster et al., 1998; Puckree & Thomas, 2006; Bansal 
+et al., 2007; Wolf et al., 2009; Sein et al., 2010; Tate et al., 2012) and an incidence 
+between 10% and 69% (Beach et al., 1992; McMaster & Troup, 1993).  An alarmingly 
+high prevalence of shoulder injury was found by Sein et al. (2010) who reported a 91% 
+of swimmers experienced shoulder pain.  This correlated with the work done by Beach 
+et al. (1992) who claimed a prevalence of 87% and an incidence of 69%. 
+In this study 10 (62.5%) of the participants reported having a shoulder injury during 
+the 2014/2015 season.  Similar to these results, Puckree and Thomas (2006) reported 
+that 70% of their respondents experienced shoulder pain, while 64% presented with 
+actual shoulder injuries.  Conflicting with this, Bansal et al. (2007) found a prevalence 
+of 17% of shoulder injuries in their study on 161 male swimmers, which was in line 
+with the findings of Tate et al. (2012) who reported a shoulder injury prevalence of 
+about 20%. 
+The inconsistent findings may be due to the different study designs used (retrospective 
+vs. prospective), and the definition of the severity of the injury.  For instance, Wolf et 
+al. (2009) defined an injury as: “...any musculoskeletal problem suffered as a 
+consequence of team related activity that resulted in a visit to an athletic trainer or 
+physician”, whereas McMaster and Troup (1993) defined a shoulder injury as: “that 
+which interfered with training or progress in training as opposed to post exercise 
+muscle soreness”.  Notwithstanding, the high incidence and/or prevalence of shoulder 
+injuries in swimmers, the literature is beset with controversy surrounding its aetiology. 
+67 
+  
+ Prevalence of Shoulder Injury and Gender 
+Eight (80%) of the injured swimmers in this study were female, while only 2 (20%) 
+were male.  Coincidentally eight (80%) of the 10 female swimmers presented with a 
+shoulder injury and only 2 (30%) of the 6 male swimmers were injured.  In line with the 
+above findings, a study done during the 13th FINA World Championships 2009 found 
+female athletes to be at a higher risk of injury than their male counter parts (Mountjoy 
+et al., 2010). Contrary to this finding, neither Ristolainen et al. (2009) nor Wolf et al. 
+(2009) found a correlation between risk of injury and gender. 
+Becker (2011) reported that swimmer’s shoulder syndromes, under female swimmers, 
+are likely to occur approximately three times over a career span: 
+ The first occurrence is usually during early to mid-adolescence when the body 
+weight is likely to increase and arm strength is not fully developed while the 
+swimmer is moving to a higher age group. 
+ The second period is in the later stages of high school competition.  Although 
+the body weight is almost settled, the upper body is not sufficiently strong 
+enough to withstand the harder training. 
+ The third period is during the transition from high school to college swimming.  
+Collegiate swimming often entails dramatic increases in training volume and 
+intensity.  In keeping with the latter Wolf et al. (2009) reported that the highest 
+total number of injuries and the highest mean number of injuries per swimmer 
+occurred during the freshman year of eligibility.  They concluded that this might 
+be due to an increase in swimming yardage and additional cross training 
+activities than at high school level. 
+Becker (2011) further suggested that in males, two peak times for onset of injury occur: 
+ First, at the end of the second growth spurt, when the body size increases but 
+shoulder muscles are not yet developed. 
+ The second time when injury occurs is the high training point of the freshman 
+year, when the yardage exceeds previous distances and these increases occur 
+over a period of a few days. 
+ 
+68 
+  The results of this study suggest that female swimmers are more at risk of 
+experiencing a shoulder injury.  When considering the work done by Becker (2011) it 
+seems that female swimmers are at risk of shoulder injury for most of their competitive 
+swimming careers.  Another contributing factor might be that there is probably no 
+differentiation made between the male and female swimmers’ training volume and 
+intensity.  Female swimmers practising at the same intensity and volume as their male 
+counterparts might be at an increased risk of shoulder injury.  This is should be 
+ventured in future research. 
+ Prevalence of Shoulder Injury and Age 
+Sein et al. (2010) found that 100% (8/8) of the swimmers between 17 to 18 in their 
+study presented with supraspinatus tendinopathy.  This was in line with the findings in 
+this study where the 17 to 18 years age category also seemed to be the most 
+susceptible to shoulder injury.  Three (75%) of the four swimmers in this age category 
+presented with a shoulder injury.  This was followed by the 13 to 14 years age category 
+with 67% (4 out of 6 swimmers) injured and 67% (2 out of 3) of the 11 to 12 years age 
+category reported a shoulder injury.  Differing results from Puckree and Thomas 
+(2006) was reported, where swimmers between 15 to 16 years of age seemed to have 
+a higher risk of shoulder injuries.  It is inconclusive whether certain age categories are 
+more at risk for experiencing shoulder injuries/pain than others. 
+ Mechanism of Injury 
+All the injured swimmers in this study averred that the cause was overuse during swim 
+training not due to trauma.  Opposing these findings, Puckree and Thomas (2006) 
+reported 65% of injuries due to overuse, and 25% traumatic injuries.  Wolf et al. (2009) 
+reported that nearly 60% of the injuries in their study was training/practice related, 
+while 38% was due to team activities out of the pool, including strength training and 
+dryland workouts. 
+ Side of Injury 
+Bilateral shoulder injuries were experienced by 7 (70%) of the injured swimmers in this 
+study, while 2 (20%) experienced symptoms right only, and 1 (10%) left only.  The 
+prevalence of bilateral shoulder pain was higher than that found by Sein et al. (2010).  
+In their cross-sectional study on a group of 80 elite swimmers, 43 (54%) reported 
+unilateral shoulder pain, and 30 (37%) others reported bilateral shoulder pain. 
+69 
+  
+ Injury Severity 
+Disabling pain during and after workouts that interfered with the swimmers’ 
+performance described 6 (60%) of the participants in this study’s symptoms.  Three 
+(30%) swimmers experienced pain/ache (not disabling) during and after workouts.  
+Only 1 (10%) reported pain/ache after heavy workouts.  Beach et al. (1992) found that 
+31% of their participants had a shoulder injury affecting their swimming ability. 
+None of the participants in this study stopped swimming as a result of shoulder pain 
+or injury, whereas Puckree and Thomas (2006) reported that 75% of the swimmers in 
+their study who complained of a shoulder injury, had to stop swimming temporarily for 
+2 to 3 weeks.  Interestingly Abgarov et al. (2012) found a negative effect for taking off 
+from the sport of swimming.  The expectation was that taking time off would reduce 
+injury risk but found an increased risk of injury instead.  They further elaborated, that 
+those athletes who took time off placed unrealistic expectations on themselves once 
+they returned to the sport.  This attitude of attempting to make up for lost time and/or 
+‘catch up’ to familiar swimmers, would increase the risk of injury as time off from the 
+sport puts an athlete/swimmer behind with regards to their development or fitness 
+levels (Abgarov et al., 2012). 
+ Painful Phases during the Freestyle Stroke 
+Swim training involves repetitive overhead movement (Sein et al., 2010).  In a 
+competitive training program a swimmer can easily log up to a million arm strokes per 
+year (McMaster, 1999) and can exceed 4000 strokes for one shoulder in a single 
+workout, making swimming a common source of shoulder pathology (Tovin, 2006).  
+Swimming requires several different shoulder motions, most being performed during 
+circumduction in clockwise and counter-clockwise directions with varying degrees of 
+internal and external rotation and scapular protraction and retraction (Tovin, 2006). 
+In their study on 11 male College swimmers, Yanai and Hay (1998) found the mean 
+duration of impingement positioning during freestyle swimming to be up to 24.8%, with 
+14.4% of this occurring during pulling and 10.4% during recovery.  The latter is in line 
+with the findings by Pink and Tibone (2000) who explained that the first half of the pull 
+through is the most frequently identified painful phase.  According to them, 
+approximately 70% of the symptoms noted when swimming freestyle occur during this 
+70 
+  phase.  They further acknowledged that the first half of the recovery is another 
+vulnerable point where 18% of symptoms are experienced. 
+In accordance to the above, 6 (60%) of the injured participants in this study only 
+experienced their symptoms during the early pull through phase while 1 (10%) 
+swimmer only experienced symptoms during the recovery phase.  However, 3 (30%) 
+experienced symptoms during both the early pull through and recovery phase.  This 
+is probably due to the to the arm being in the vulnerable impingement position 
+(shoulder in abduction and internal rotation) during both these phases.  Swimming 
+drills advancing increased time spent in these positions should be avoided in an 
+attempt to decrease the risk of shoulder injury. 
+ Freestyle Pathomechanics and Shoulder Injuries 
+McMaster (1996) mentioned that many injuries originate from faulty techniques or 
+mechanisms, and an assessment of injured athletes’ biomechanics must be made to 
+identify factors that may contribute to injury.  Some specific freestyle technical flaws 
+heavily stress the shoulders and can lead to overuse (Kammer et al., 1999).  Yanai 
+and Hay (1998) suggested that certain stroke techniques and/or physiques might be 
+less vulnerable to shoulder impingement than others.  Stroke mechanics not only 
+seems important in injury prevention, but the energy cost of freestyle swimming (ml/m) 
+appears to be strongly influenced by the swimmers lean body weight and the effective 
+application of force during the arm stroke (Costill et al., 1985).  Tovin (2006) suggested 
+that the treatment of competitive swimmers should focus on prevention and early 
+treatment, addressing the impairments associated with the condition, and analysing 
+training methods and stroke mechanics. 
+The freestyle stroke pull-cycle can be divided in four phases (José et al., 2012): 
+1. Early pull-through: beginning with the hand entry into the water and ending 
+when the humerus is perpendicular to the axis of the torso. 
+2. Late pull-through: beginning at the completion of early pull-through and ending 
+as the hand leaves the water. 
+3. Early recovery: beginning at hand exit and ending when the humerus is 
+perpendicular to the water surface. 
+4. Late recovery: beginning at the completion of early recovery and ending at hand 
+entry. 
+71 
+  Underwater video analysis was done on the 16 study participants to evaluate if certain 
+freestyle biomechanics or pathomechanics was associated with an increased risk of 
+shoulder injury.  The presence of the following freestyle pathomechanics increased 
+the risk of shoulder injury (observed risk ratio 1.5 or higher). 
+5.4.8.1 Hand Entry 
+Scovazzo et al. (1991) found that swimmers with painful shoulders had a different 
+pattern of hand entry than those with normal shoulders.  According to them the hand 
+entered further away from the midline.  None of the swimmers in this study presented 
+with this risk factor.  Contrary to this, Johnson et al. (2003) suggested that a hand entry 
+that crosses the midline of the long axis of the body, causes mechanical impingement 
+in the anterior shoulder, including the long head of the biceps and supraspinatus.  This 
+is exacerbated by a thumb first entry which further stresses the biceps attachment to 
+the anterior labrum (Johnson et al., 2003).  According to the latter authors, a crossover 
+pull through usually results from a crossover entry, and increases the time in the 
+impingement position. 
+In this study swimmers with a right hand crossing the midline upon hand entry were 
+1.6 times more likely to present with a right shoulder injury than swimmers without this 
+risk factor.  This finding was inconsistent with the corresponding data for the left 
+shoulder.  For swimmers with a left hand crossing the midline upon hand entry the risk 
+ratio of injury to the left shoulder was only 0.77.  However, swimmers entering with the 
+left hand between the midline of the body and the shoulder were 1.6 times more likely 
+to present with a left shoulder injury.  It is not clear whether entering with the hand 
+crossing the midline or entering with the hand between the midline of the body and the 
+shoulder increases the risk of shoulder injury due to the inconsistent findings between 
+right and left shoulders. 
+Interestingly, the analysis of the left shoulder revealed that swimmers entering with the 
+left thumb first had a 1.6 times higher risk of left shoulder injury than the swimmers 
+without this risk factor.  Swimmers with the same risk factor on the right side had a 
+moderately increased risk of presenting with a shoulder injury, and were 1.3 times 
+more likely to experience symptoms.  Although this is below the observed risk ratio of 
+1.5 it increases the risk of injury moderately. 
+72 
+  It seems that entering with the thumb first during hand entry increases the risk for 
+shoulder injury.  This is probably due to the fact that this position increases internal 
+rotation of the humerus, thus increasing the pressure on the subacromial structures 
+and producing symptoms.  We note again, however, that none of these biomechanical 
+variables correlated statistically significantly with an injury of the shoulder, 
+5.4.8.2 Hand/Arm Position at the end of the Hand Entry Phase 
+Yanai and Hay (1998) reported that the hydrodynamic force exerted on the hand 
+during entry could forcibly elevate the arm beyond normal maximum active flexion, 
+placing the shoulder in a position of hyperflexion, causing impingement.  In 
+accordance with this, Becker and Havriluk (2012) found that an intentional effort to 
+complete the arm entry with the arm parallel to the surface is a technique factor that 
+contributes to an ineffective arm position, increased shoulder stress, minimal force 
+production and breaks in propulsion.  This was consistent with the findings of this 
+study.  Both swimmers (2 out of 2;100%) with a hand/arm position where the shoulder 
+is in hyperflexion with the fingers facing upward on the right arm, presented with a right 
+shoulder injury (2/2; 100%), while 75% (3 out of 4) of swimmers with this risk factor in 
+the left arm reported a shoulder injury.  Swimmers had a risk ratio of 2.00 and 1.80 on 
+the right and left arm respectively, in the presence of this risk factor.  Although this is 
+not statistically significant due to the small sample size, this might be a risk factor to 
+consider in future studies. 
+5.4.8.3 Early Pull Through Phase– Elbow Position 
+According to Yanai and Hay (1998) the shoulder is abducted and internally rotated 
+during the pull phase.  One of the most commonly described technical faults in 
+freestyle swimming is called the “dropped elbow” (Figure 2-11) and occurs during this 
+phase (Yanai & Hay 1998).  Dropping the elbow constitutes increasing shoulder 
+external rotation, in an attempt to avoid the painful internal rotation causing 
+impingement (Richardson et al., 1980).  This position places the muscles of propulsion 
+at a mechanical disadvantage (Richardson et al., 1980).  It is still unknown whether 
+the stroke alterations seen in swimmers with symptomatic shoulders are the cause or 
+the consequence of pain (Heinlein & Cosgarea, 2010). 
+In this study, neither swimming with a high elbow, nor a dropped elbow seemed to 
+increase risk for a shoulder injury.  None of these biomechanical variables correlated 
+73 
+  significantly with an injury of the right shoulder, which can be attributed to the relatively 
+small sample size. 
+5.4.8.4 Early Pull Through Phase– Hand Position 
+In this study, it seemed that a left-hand position outside the elbow during the early pull 
+through phase increased the risk of injury to the left shoulder.  All (4 out of 4) swimmers 
+with this risk factor on the left arm presented with a left shoulder injury, compared to 
+33% (4 out of 12) injured swimmers without it.  Swimmers with this risk factor on the 
+left hand were 3 times more likely to sustain a shoulder injury.  Comparing this to the 
+findings of the right shoulder, in the presence of this risk factor swimmers were 1.24 
+times more likely to sustain a right shoulder injury.  Although this is below the observed 
+risk ratio of 1.5 it increases the risk of injury moderately. 
+It appears that swimming with a hand position outside the elbow during the early pull 
+through phase increases the risk of shoulder injury and should therefore be considered 
+for future research.  None of these biomechanical variables correlated statistically 
+significantly with an injury of the shoulder, which can be attributed to the relatively 
+small sample size. 
+5.4.8.5 Catch-up Stroke 
+Intentional maintenance of the arm in a position parallel to the surface (as in catch up 
+stroke), causes torso rotation to increase the time of exposure of the shoulder in a 
+hyperflexed position, and exacerbates shoulder stress (Becker & Havriluk, 2012).   
+In line with the above notion 75% (3 out of 4) of the swimmers swimming catch up 
+stroke with the right hand/arm had a right shoulder injury, compared with 50% (6 out 
+of 12) of the swimmers without this risk factor on the same side.  Swimmers presenting 
+with this risk factor in the right arm/hand were 1.5 times more likely to sustain a right 
+shoulder injury.  In line with the findings for the right shoulder, swimming ‘catch-up 
+stroke’ with the left arm also increases the risk for left shoulder injury.  Seventy five 
+percent (3 out of 4) of the swimmers with this risk factor left presented with a left 
+shoulder injury compared to 43.67% (5 out of 12) without this risk factor.  Swimmers 
+presenting with this risk factor in the left arm/hand were 1.8 times more likely to present 
+with a shoulder injury on the left shoulder. 
+Although this is not statistically significant due to the small sample size, this might be 
+a risk factor to consider in future studies. 
+74 
+  
+ Aquanex+Video Quantitative Data Analysis and Shoulder Injuries 
+When considering the Aquanex+Video data as outlined in Table 6 (Chapter 4) it 
+becomes apparent that the uninjured swimmers outperformed injured swimmers in all 
+the variables except stroke length.  The injured swimmers had an average stroke 
+velocity (meter per second travelled at the completion of one stroke cycle) of 1.36m/s, 
+while the uninjured swimmers had an average stroke velocity of 1.48m/s.  To calculate 
+the time to complete an event, the following equation can be used 
+Time = Distance (m)÷ Stroke Velocity (m/s) 
+This in turn means that the uninjured swimmers can, on average, do a 50m freestyle 
+sprint in 33.78s and the injured swimmers in 36.76s.  Swimmers with overuse injuries 
+seldom stop swimming, but the injury has a detrimental effect on performance.  
+Although these findings are to be expected, this data outlines the importance of injury 
+prevention.  
+75 
+  6 Conclusion and Recommendations 
+This study focused on a specific, small population.  The small sample size implied that 
+the study had low power to detect statistically significant risk factors.  Nevertheless, 
+the study results suggest that some freestyle bio- or pathomechanics might increase 
+the risk for shoulder injury and are therefore worthy of further research. 
+Objective 1:  Determine the shoulder injury prevalence at the University of the Free 
+State’s swimming club (Kovsie Aquatics), during the 2014/2015 swimming season. 
+The prevalence of shoulder injuries in this study was 62.5%.  All the injured swimmers 
+indicated that their injuries were caused by overuse during swim training.  Interestingly, 
+in this study, the female swimmers seem to be at a higher risk for shoulder injuries 
+than their male counterparts.  Eighty percent (8 out of 10) of the female swimmers in 
+this population presented with a shoulder injury, compared to 30% (2 out of 6) of the 
+male swimmers.  The 17 to18 age category seemed to be most susceptible to injury, 
+with 75% (3 out of 4) of the swimmers in this age category presenting with a shoulder 
+injury.  Bilateral shoulder injuries were experienced by 70% of the injured swimmers 
+in this study, while 20% experienced symptoms right only, and 10% left only. 
+Objective 2:  Investigate if a correlation between certain freestyle biomechanical hand 
+and arm positions and shoulder injuries amongst swimmers from the swimming club 
+exist. 
+In this study, 6 (60%) of the injured participants only experienced their symptoms 
+during the early pull through phase while 1 (10%) swimmer only experienced 
+symptoms during the recovery phase.  However, 3 (30%) experienced symptoms 
+during both the early pull through and recovery phase.  This is probably due to the to 
+the arm being in the vulnerable impingement position (shoulder abduction and internal 
+rotation) during both these phases.  Swimming drills advancing increased time spent 
+in these positions should be avoided in an attempt to decrease the risk of shoulder 
+injury.  Although none of the risk factors investigated in this study was statistically 
+significant, the presence of the following freestyle pathomechanics increased the risk 
+of shoulder injury (observed risk ratio 1.5 or higher), and should be considered in future 
+research of this problem: 
+76 
+  1. A right hand that crosses the midline upon hand entry (RR 1.61; 95% CI 0.67 
+to 3.83) 
+2. Thumb first hand entry (Right: RR 1.34; 95% CI 0.58 to 3.09; Left: RR 1.67; 
+95% CI 0.58 to 3.09) 
+3. A left hand entering between the midline of the body and the shoulder (RR 1.67; 
+95% CI 0.57 to 9.43) 
+4. Hand/Arm position where the shoulder is in hyperflexion with the fingers facing 
+upward at the end of the entry phase (Right: RR 2.00; 95% CI 0.21 to 4.34; Left: 
+RR 1.80; 95% CI 0.33 to 5.00) 
+5. Hand position outside the elbow during the early pull through phase (Right: RR 
+1.24; 95% CI 0.13 to 3.03; Left: RR 3.00; 95% CI 1.13 to 10.08) 
+6. Swimming ‘catch-up’ stroke (Right: RR 1.50; 95% CI 0.67 to 3.34; Left: RR 1.80; 
+95% CI 0.33 to 5.00) 
+ Conclusion 
+In the current study the prevalence of shoulder injuries is alarmingly high at 62.5%.  
+Female swimmers seem to be at a higher risk for shoulder injuries than their male 
+counterparts.  A relationship between certain freestyle pathomechanics and shoulder 
+injuries in this population might exist, and some potential risk factors were identified.  
+Due to the relatively small sample size none of the risk factors for shoulder injury, 
+based on freestyle pathomechanics, was statistically significant.  Only indications and 
+directions for future research can be suggested. 
+ Recommendations 
+This study was done retrospectively and some data recorded using questionnaires are 
+subjected to the memory of the participants.  An obvious shortcoming is the relatively 
+small sample size (16 participants) resulting that none of the findings were statistically 
+significant, which makes drawing conclusions difficult.  
+It is recommended that future research should be focused on injury prevention through 
+the development of consensus statements for swimming injuries.  This would further 
+our understanding of swimming related injuries and injury prevention. 
+  
+77 
+  7 Bibliography 
+Abate, M., Silbernagel, K.G., Siljeholm, C., Di lorio, A., De Amicis, D., Salini, V., 
+Werner, S. and Paganelli, R. (2009). Pathogenesis of tendinopathies: inflammation or 
+degeneration? Arthritis Research & Therapy , 11(3), p. 235. doi: 10.1186/ar2723. 
+Abgarov, A., Fraser-thomas, J. and Baker, J. (2012). Understanding trends and risk 
+factors of swimming-related injuries in varsity swimmers. Clinical Kinesiology , 66(2), 
+pp. 24–28. 
+Allegrucci, M., Whitney, S.L. and Irrgang, J.J. (1994). Clinical implications of 
+secondary impingement of the shoulder in freestyle swimmers. The Journal of 
+Orthopaedic and Sports Physical Therapy , 20(6), pp. 307–318. doi: 
+10.2519/jospt.1994.20.6.307. 
+Babbie, E. and Mouton, J. (2010) The Practice of Social Research. 10th Edition, 
+Republic of South Africa, Oxford University Press Southern Africa, Cape Town. 
+Bahr, R. (2009). No injuries, but plenty of pain? On the methodology for recording 
+overuse symptoms in sports. British Journal of Sports Medicine , 43(13), pp. 966–72. 
+doi: 10.1136/bjsm.2009.066936. 
+Bahr, R. and Krosshaug, T. (2005). Understanding injury mechanisms: a key 
+component of preventing injuries in sport. British Journal of Sports Medicine , 39(6), 
+pp. 324–9. doi: 10.1136/bjsm.2005.018341. 
+Bak, K. (2010). The Practical management of swimmer’s painful shoulder. Clinical 
+Journal of Sport Medicine , 20(5), pp. 386–390. 
+Bansal, S., Sinha, A.G.K. and Sandhu, J.S. (2007). Shoulder impingement syndrome 
+among competitive swimmers in India — prevalence, evaluation and risk factors. 
+Journal of Exercise Science and Fitness , 5(2), pp. 102–108. 
+Beach, M.L., Whitney, S.I. and Dickoff-Hoffman, S.A. (1992). Relationship of Shoulder 
+Flexibility, Strength, and Endurance to Shoulder Pain in Competitive Swimmers. 
+Journal of Orthopaedic & Sports Physical Therapy , 16(6), pp. 262-268. 
+78 
+  Becker, T. and Havriluk, R. (2012). Freestyle and arm entry effects on shoulder stress, 
+force generation, and arm synchronization. Biomechanics and Medicine in Swimming , 
+29, pp. 89–94. 
+Becker, T.J. (2011). Overuse Shoulder Injuries in Swimmers. Journal of Swimming 
+Research , 18, pp. 1-6. 
+Becker, T.J. and Havriluk, R. (2010). Quantitative Data Supplements Qualitative 
+Evaluations of Butterfly Swimming. Biomechanics and Medicine in Swimming XI , pp. 
+314–316. 
+Blanch, P. (2004). Conservative management of shoulder pain in swimming. Physical 
+Therapy in Sport , 5(3), pp. 109–124. doi: 10.1016/j.ptsp.2004.05.002. 
+Boon, A.J. and Smith, J. (2000). Manual scapular stabilization: Its effect on shoulder 
+rotational range of motion. Archives of Physical Medicine and Rehabilitation , 81(7), 
+pp. 978–983. doi: 10.1053/apmr.2000.5617. 
+Brushøj, C., Bak. K, Johannsen, H.V. and Faunø, P. (2007). Swimmers’ painful 
+shoulder arthroscopic findings and return rate to sports. Scandinavian Journal of 
+Medicine & Science in Sports , 17(4), pp. 373–7. doi: 10.1111/j.1600-
+0838.2006.00571.x. 
+Burkhart, S.S., Morgan, C.D. and Ben Kibler, W. (2003). The disabled throwing 
+shoulder: spectrum of pathology part III: the SICK scapula, scapular dyskinesis, the 
+kinetic chain, and rehabilitation. The Journal of Arthroscopic & Related Surgery , 19(6), 
+pp. 641–661. doi: 10.1016/S0749-8063(03)00389-X. 
+Clarsen, B., Myklebust, G. and Bahr, R. (2013). Development and validation of a new 
+method for the registration of overuse injuries in sports injury epidemiology: the Oslo 
+Sports Trauma Research Centre (OSTRC) overuse injury questionnaire. British 
+Journal of Sports Medicine , 47(8), pp. 495–502. doi: 10.1136/bjsports-2012-091524. 
+Cools, A.M., Witvrouw, E.E, Declercq, G.A., Danneels, L.A. and Cambier, D.C. (2003) 
+‘Scapular muscle recruitment patterns: trapezius muscle latency with and without 
+impingement symptoms. The American Journal of Sports Medicine , 31(4), pp. 542–
+549. 
+79 
+  Costill, D.L., Kovaleski, Porter, D., Kirwan, J.P., Fielding, R. and King, D. (1985) 
+‘Energy expenditure during front crawl swimming: Predicting success in middle-
+distance events. International Journal of Sports Medicine , 6(5), pp. 266–270. doi: 
+10.1055/s-2008-1025849. 
+Emery, C.A. (2003). Risk factors for injury in child and adolescent sport: a systematic 
+review of the literature. Clinical Journal of Sport Medicine,  13(4), pp. 256–268. doi: 
+10.1097/00042752-200307000-00011. 
+Fernandez, J.J.C., Verdugo, R.L., Feito, M.O. and Rex, F.S. (2012). Shoulder Pain in 
+Swimmers. Edited by S. Ghosh. InTech. doi: 10.5772/51013. Available from: 
+https://www.intechopen.com/books/pain-in-perspective/shoulder-pain-in-swimmers  
+Fredberg, U. and Stengaard-Pedersen, K. (2008). Chronic tendinopathy tissue 
+pathology, pain mechanisms, and aetiology with a special focus on inflammation. 
+Scandinavian Journal of Medicine & Science in Sports , 18(1), pp. 3–15. doi: 
+10.1111/j.1600-0838.2007.00746.x. 
+Fuller, C.W., Ekstrand, J., Junge, A., Andersen, T.E., Bahr, R., Dvorak, J., Hägglund, 
+M., McCrory, P. and Meeuwisse, W.H. (2006). Consensus statement on injury 
+definitions and data collection procedures in studies of football (soccer) injuries. 
+Scandinavian Journal of Medicine & Science in Sports , 16(2), pp. 83–92. doi: 
+10.1111/j.1600-0838.2006.00528.x. 
+Galas Explained [Online]. Available http://www.nmb-aquatics.co.za/documents/men-
+galas-explained [Cited 28 November 2017] 
+Harrington, S., Meisel, C. and Tate, A. (2014). A cross-sectional study examining 
+shoulder pain and disability in Division I female swimmers. Journal of Sport 
+Rehabilitation , 23, pp. 65–75. 
+Havriluk, R. (1988). Validation of a criterion measure for swimming technique – 
+Aquanex. The Journal of Swimming Research , 4(4), pp. 11–16. 
+Heinlein, S.A. and Cosgarea, A.J. (2010). Biomechanical Considerations in the 
+Competitive Swimmer’s Shoulder. Sports Health , 2(6), pp. 519–25. doi: 
+10.1177/1941738110377611. 
+80 
+  Johnson, J.N., Gauvin, J. and Fredericson, M. (2003). Swimming Biomechanics and 
+Injury Prevention - New Stroke Techniques and Medical Considerations. The 
+Physician and Sportsmedicine , 31(1), pp 41-46. 
+Kammer, S., Young, C.C. and Niedfeldt, M.W., (1999). Swimming Injuries and 
+Illnesses. The Physician and Sportsmedicine , 27(4), pp. 51-60. 
+Kennedy, J. and Hawkins, R. (1974). Swimmer's Shoulder. Physician Sports Medicine , 
+Volume 2, pp. 34-38. 
+King, D. (1995). Glenohumeral Joint Impingement in Swimmers. Journal of Athletic 
+Training, 30(4), pp. 333–337. 
+Knight, K.L. (2008). More precise classification of orthopaedic injury types and 
+treatment will improve patient care. Journal of Athletic Training , 43(2), pp. 117–8. doi: 
+10.4085/1062-6050-43.2.117. 
+Leadbetter, W.B. (1992). Cell-matrix response in tendon injury. Clinics in Sports 
+Medicine , 11(3), pp. 533–578. 
+Marcsyk, G.R.; Dematteo, D. and Festinger, D. (2005).  Essentials of Research Design 
+and Methodology.  Hoboken,  New Jersey: John Wiley & Sons, Inc. 
+McMaster, W.C., (1996). Swimming Injuries: An Overview. Sports Medicine , 22(5), pp. 
+332-336. 
+McMaster, W.C., (1999). Shoulder Injuries in Competitive Swimmers. Clinics in Sports 
+Medicine , 18(2), pp. 349-359. 
+McMaster, W.C. and Troup, J. (1993). A survey of interfering shoulder pain in United 
+States competitive swimmers. American Journal of Sport Medicine , 21(1), pp. 67-70. 
+McMaster, W.C., Roberts, A. and Stoddard, T. (1998). A correlation between shoulder 
+laxity and interfering pain in competitive swimmers. The American Journal of Sports 
+Medicine , 26(1), pp. 83–86. 
+Meeuwisse, W.H. (1994). Assessing causation in sport injury - a multifactorial model. 
+Clinical Journal of Sport Medicine , 4(3), pp. 166–170. 
+81 
+  Meeuwisse, W.H, Tyreman, H., Hagel, B. and Emery, C. (2007). A Dynamic Model of 
+Etiology in Sport Injury: The Recursive Nature of Risk and Causation. Clinical Journal 
+of Sport Medicine , 17(3), pp. 215–219. 
+Mountjoy, M., Junge, A. Alonso, J.M., Engebretsen, l. Dragan, I., Gerrard, D., Kouidri, 
+M., Luebs, E., Moradi, S.F. and Dvorak, J. (2010). Sports Injuries & Illnesses in the 
+2009 FINA World Aquatic Championships. British Journal of Sports Medicine , 44, pp. 
+522–527. 
+Pink, M., Perry, J., Browne, A., Scovazzo, M.L. and Kerrigan, J. (1991). The Normal 
+Shoulder During Freestyle Swimming. An electromyographic and cinematographic 
+analysis of twelve muscles. The American Journal of Sports Medicine , 19(6), pp. 569-
+576. 
+Pink, M.M. and Tibone, J.E. (2000). The Painfull Shoulder and the swimming Athlete. 
+Orthopedic Clinics of North America , 31(2), pp. 247–261. 
+Puckree, T. and Thomas, K.J. (2006). Shoulder injuries in competitive swimmers in 
+KwaZulu-Natal. South African Journal of Sports Medicine , 18(1), pp. 10–12. 
+Richardson, A.B., Jobe, F.W. and Collins, H.R. (1980). Shoulder in Competitive 
+Swimming. American Journal of Sports Medicine , 8(3), pp. 159-163. 
+Ristolainen, L., Heinonen, A. Waller, B., Kajula, U.M. and Kettunen, J.A. (2009). 
+Gender differences in sport injury risk and types of injuries: A retrospective twelve-
+month study on cross-country skiers, swimmers, long-distance runners and soccer 
+players. Journal of Sports Science and Medicine , 8(3), pp. 443–451. 
+Rodeo, S.A. (1999). Knee Pain in Competitive Swimming’. Clinics in Sports Medicine , 
+18(2), pp. 379–387. doi: 10.1016/S0278-5919(05)70152-6. 
+Scovazzo, M.L., Browne, A., Pink, M., Jobe, F.W. and Kerrigan, J. (1991). The painful 
+shoulder during freestyle swimming. The American Journal of Sports Medicine , 19(6), 
+pp. 577-582. 
+  
+82 
+   
+Sein, M. L., Walton, J., Linklater, J., Appleyard, R., Kirkbride, B., Kuah, B. and Murrell, 
+G.A. (2010). Shoulder pain in elite swimmers: primarily due to swim-volume-induced 
+supraspinatus tendinopathy. British Journal of Sports Medicine , 44(2), pp. 105–13. 
+doi: 10.1136/bjsm.2008.047282. 
+Sorenson, A.K.B. and Jorgenson, U. (2000). Secondary impingement in the shoulder. 
+An improved terminology in impingement. Scandinavian Journal of Medicine & 
+Science in Sports , 10, pp. 266–278. 
+Tate, A., Turner, G.N., Knab, S.E., Jorgensen, C., Strittmatter, A. and Michener, L.A. 
+(2012). Risk Factors Associated with Shoulder Pain and Disability Across the Lifespan 
+of Competitive Swimmers. Journal of Athletic Training , 47(2), pp. 149–158. 
+Tovin, B.J. (2006). Prevention and treatment of swimmer’s shoulder. North American 
+Journal of Sports Medicine , 1(4), pp. 166–175. 
+Van Dorssen, E., Whiteley, A., Ortega-Cebrian, S. and Dijkstra, P. (2014). Shoulder 
+Injuries in Swimming: Meeting the challenge. Aspetar Sports Medicine Journal , 3(3), 
+pp. 584-593. 
+Van Mechelen, W., Hlobil, H. and Kemper, H.C.G., (1992). Incidence, Severity, 
+Aetiology and Prevention of Sports Injuries. Sports Medicine , 14(2), pp. 82-99. 
+Walker, H., Gabbe, B., Wajswelner, H., Blanch, P. and Bennell, K. (2012). Shoulder 
+pain in swimmers: a 12-month prospective cohort study of incidence and risk factors. 
+Physical Therapy in Sport . 13(4), pp. 243–9. doi: 10.1016/j.ptsp.2012.01.001. 
+Wanivenhaus, F. Fox, A.J.S., Chaudhury, S. and Rodeo, S.A. (2012). Epidemiology 
+of injuries and prevention strategies in competitive swimmers. Sports Health , 4(3), pp. 
+246–51. doi: 10.1177/1941738112442132. 
+Wolf, B. R., Ebhinger, A.E., Lawler, M.P. and Britton, C.L. (2009). Injury Patterns in 
+division 1 Collegiate Swimming. The American Journal of Sports Medicine , 37, pp. 
+2037–2042. doi: 10.1177/0363546509339364. 
+83 
+  Yanai, T., Hay, J.G. and Miller, G.F. (2000). Shoulder impingement in front-crawl 
+swimming: I. A method to identify impingement. Medicine and Science in Sports and 
+Exercise , 32, pp. 21–29. 
+Yanai, T. & Hay, J. G., (1998). Shoulder impingement in front-crawl swimming: II. 
+Analysis of the stroking technique. Medicine and Science in Sports and Exercise , 
+32(1), pp. 30-40. 
+  
+84 
+  8 Appendices 
+ Appendix A - Permission Letter (Mr. M. Markgraaff) 
+ 
+
+85 
+   
+  
+
+86 
+  
+ Appendix B - Permission Letter (Mr. D.B. Prinsloo) 
+ 
+
+87 
+   
+  
+
+88 
+  
+  Appendix C - Ethical Clearance  
+ 
+  
+
+89 
+  
+ Appendix D - Information Document  
+ 
+Skool vir Aanvullende Gesondheidsberoepe (SAGB)/School for Allied Health Professions (SAHP)  
+Posbus/PO Box 339, Bloemfontein 9300, Republiek van Suid-Afrika/Republic of South Africa 
+Department of Exercise and Sport Sciences / Departement Oefen- en Sportwetenskappe  
+Freestyle Biomechanics and Shoulder Injuries in Competitive Swimming 
+Epidemiologic studies have consistently noted a high incidence and prevalence of 
+shoulder pain and dysfunction in competitive swimmers.  Although there is a 
+substantial amount of information on risk factors for shoulder injuries in swimmers, up 
+to date information on the correlation between specific stroke biomechanical errors 
+and shoulder injuries seem to be few and wide spread. 
+The goal of this study is to investigate if a correlation between certain freestyle 
+biomechanical hand and arm positions and shoulder injuries under swimmers from the 
+swimming club Kovsie Aquatics, of the University of the Free State, exist. 
+Data on freestyle biomechanics will be gathered through a freestyle stroke 
+biomechanics analysis with the Aquanex+Video (underwater camera system).  The 
+duration of the analysis is between 30 and 45 minutes, and will be done at swimming 
+pool of the University of the Free State.  The following measurements will be taken: 
+weight, height, shoulder internal and external rotation.  Medical and training history 
+data will be gathered through a survey questionnaire, self-administered under 
+classroom-style supervision obtaining information regarding the 2014/2015 swimming 
+season (1st of May 2104 to the 30 of April 2015) . 
+Your participation in this research project will be greatly appreciated.  Your 
+participation is voluntary.  The researcher undertakes to handle all personal 
+information in a confidential manner. 
+The results of the research study may be used by L.G. du Pisani and/or the 
+Department of Exercise and Sport Sciences of the University of the Free State for 
+presentations at national / international congresses and for articles published in health 
+journals. 
+Contact detail of researcher: 
+L.G. du Pisani  083 657 7568   
+ 
+Contact detail of Study Leader : 
+Prof. Derik Coetzee:   051 401 2944   
+  
+
+90 
+  
+ Appendix E - Informed Consent 
+ 
+Skool vir Aanvullende Gesondheidsberoepe (SAGB)/School for Allied Health Professions (SAHP)  
+Posbus/PO Box 339, Bloemfontein 9300, Republiek van Suid-Afrika/Republic of South Africa 
+Department of Exercise and Sport Sciences / Departement Oefen- en Sportwetenskappe  
+Freestyle Biomechanics and Shoulder Injuries in Competitive Swimming 
+Research is the process to learn the answer to a question.  L.G. du Pisani and the 
+Department of Exercise and Sport Sciences are conducting research on competitive 
+swimming at Kovsie Aquatics.  This research is done to improve the understanding of 
+the correlation between freestyle biomechanics and shoulder injuries under swimmers 
+affiliated with Free State Aquatics. 
+Data collected from each participant enrolled in this study will include: 
+ A Freestyle Stroke Biomechanics analysis with the Aquanex+Video (an 
+underwater camera system).  This will be done at the University of the Free 
+State swimming pool. 
+ The following measurements will be taken: weight, height, shoulder internal and 
+external rotation. 
+ Medical and training history through a survey questionnaire, self-administered 
+under classroom-style supervision obtaining information regarding the 
+2014/2015 swimming season (1st of May 2014 to the 30 of April 2015).  
+Participation is voluntary and refusal to participate will involve no penalty or loss of benefits to which the participant is otherwise 
+entitled; the participant may discontinue participation at any time without penalty or loss of benefits to which the participant is 
+otherwise entitled.  
+I have read the above and understand the nature of this study.  I understand that by 
+participating or allowing my child to participate in this study I may contact the 
+researchers at the University of the Free State at any time.  I voluntary agree to 
+participate or let my child participate in this study.  I understand that I may refuse that 
+me or my child participate and may withdraw from the study at any time without 
+prejudice. 
+I, ___________________________, parent/guardian of ______________________, hereby give 
+permission to participate in this study. 
+Parent/guardian’s Signature: ___________________    Date: __________________ 
+I, ___________________________, the participant, hereby give permission to participate in this study. 
+Participant’s Signature: _______________________    Date: __________________ 
+Researcher’s Signature: ______________________    Date: __________________ 
+  
+
+91 
+  
+ Appendix F - Under Aged Informed Assent 
+ 
+Skool vir Aanvullende Gesondheidsberoepe (SAGB)/School for Allied Health Professions (SAHP)  
+Posbus/PO Box 339, Bloemfontein 9300, Republiek van Suid-Afrika/Republic of South Africa 
+Department of Exercise and Sport Sciences / Departement Oefen- en Sportwetenskappe  
+Freestyle Biomechanics and Shoulder Injuries in Competitive Swimming 
+ 
+You are being asked to participate in a research study.  Research is the process to 
+learn the answer to a question.  L.G. du Pisani and the Department of Exercise and 
+Sport Sciences are doing research on competitive swimming at Kovsie Aquatics and 
+is inviting you to participate.  In this study we are interested in finding out what in your 
+freestyle stroke might cause a shoulder injury. 
+ 
+If you decide to take part in this study, the following will be expected from you: 
+ An underwater video of you swimming freestyle will be recorded for analysis.  
+When doing this, sensors will be placed between your fingers, which will give 
+the researcher feedback on how much force you are generating while 
+swimming.  This will be done at the University of the Free State swimming pool. 
+ The following measurements will be taken: weight, height, shoulder range of 
+motion. 
+ You will be asked fill out a questionnaire collecting information on possible 
+shoulder injuries, as well your training history, during the last year.  
+By signing this you are showing that you understand what is going to be happening 
+and have asked any questions you may have about the research. You can also ask 
+questions later if you cannot think of them now. Signing this form does not mean you 
+have to finish the study – you withdraw from this study at any time without giving 
+reasons for doing so. 
+ 
+ Child’s Signature: __________________________        Date: __________________ 
+  
+
+92 
+  
+ Appendix G - Aquanex Testing Sheet 
+Aquanex Testing Sheet 
+Code Swimmer  Date of Birth  
+(dd/mm/yy) Test Date 
+(dd/mm/yy)  Sex 
+(M/F) Length  
+(cm) Weight  
+(kg) Highest Qualifying Level 
+1               
+2               
+3               
+4               
+5               
+6               
+8               
+9               
+10               
+11               
+12               
+13               
+14               
+15               
+16               
+17               
+18               
+19               
+20               
+21               
+22               
+23               
+24               
+25               
+26               
+27               
+28               
+29               
+30               
+  
+93 
+  
+ Appendix H - Sport and Symptom Survey Questionnaire 
+Swimmer Code: _______ 
+General Swimming Information 
+1. What is your preferred stroke (please mark with X)? 
+Freestyle 
+Fly 
+Breaststroke 
+Backstroke 
+IM (Individual Medley) 
+ 
+2. How many years have you been swimming competitively?  
+1-2 
+3-4 
+5 or more 
+ 
+3. When swimming Freestyle, what side do you normally turn to breath?  
+Right 
+Left 
+Both 
+ 
+4. What is your favourite distance?  
+50-100m 
+200-400m 
+800-1500m 
+Open water (>1500m) 
+ 
+Swim Training Variables 
+1. How many sessions do you train on average per week? 
+ 1-2 
+ 3-4 
+ 5 or more 
+ 
+2. How many minutes do you train on average per session? 
+30-45min 
+45min-60min 
+60-75min 
+75min-90min 
+90min or more 
+ 
+3. How many kilometres do you cover on average per session? 
+ 1-2 
+ 3-4 
+ 4-5 
+ 5 or more 
+  
+94 
+  Shoulder Injury 
+1. Have you had previous surgery done on either one/both your shoulders? 
+YES 
+NO 
+ 
+2. Have you ever had a shoulder fracture? 
+YES 
+NO 
+ 
+3. Did you experience a shoulder injury (as a direct result of swimming or swimming 
+related activities – including dry land training) in the 2014/2015 season? 
+YES 
+ NO 
+If YES, please answer the following questions: 
+4. Did the injury occur during a gala, swim training or dry land training? 
+Gala 
+Swim Training 
+Dry Land Training 
+ 
+5. Injured side? 
+ Left 
+ Right 
+ Both 
+ 
+6. Did you receive medical attention (Doctor’s visit, Physiotherapy, Biokinetic 
+Rehabilitation) for the injury? 
+YES 
+ NO 
+ 
+7. Have you experience an injury of the same type and at the same site before the 
+2014/2015 season? 
+YES 
+ NO 
+ 
+8. Was the injury caused by overuse or trauma? 
+ Overuse 
+ Trauma 
+ 
+9. Did you experience the injury during Freestyle swimming? 
+YES 
+NO 
+  
+95 
+  
+If YES: 
+10. Where in the stroke?  (mark appropriate phase in the stroke with X-if more than one is 
+applicable please mark them as well) 
+ 
+ 
+For the questions below, please circle the number closest to your level of pain or dissatisfaction.  If 
+both shoulders are painful, please circle a number for each side and use R for right and L for left 
+above the number: 
+ 
+EXAMPLE  
+ 
+ 
+11. Pain at rest with your arm/s by your side: 
+ 
+ 
+12. Pain with normal activities:  
+(eating, dressing, bathing) 
+ 
+13. Pain with strenuous activities: 
+(sports, reaching, lifting) 
+ 
+14. How would you describe your shoulder related symptoms? (Check only one) 
+a. I had no pain or shoulder symptoms 
+b. Pain/ache only after heavy workouts 
+c. Pain/ache (not disabling) during and after workouts 
+d. Disabling pain during and after workouts that interfered with your athletic performance 
+e. Shoulder pain preventing competitive sport participation 
+  
+ R L 
+
+96 
+  
+ Appendix I - Shoulder Range of Movement Sheet 
+Swimmer Code: ___________________ 
+ Shoulder Internal Rotation Shoulder External Rotation 
+Right   
+Left   
+ 
+  
+97 
+  
+ Appendix J - Freestyle Biomechanical Analysis Sheet 
+Swimmer Code: ____________ 
+Hand Entry Phase 
+Hand Entry Position Right Left 
+1. Hand crossing the midline on entry YES NO YES NO 
+2. Thumb first entry (arm internally rotated) YES NO YES NO 
+3. Hand entering between the midline of the body and shoulder  YES NO YES NO 
+4. Hand entering in line with the shoulder YES NO YES NO 
+5. Hand entering outside the shoulder YES NO YES NO 
+ 
+Hand Position at the end of the Hand Entry Phase Right Left 
+1. Fingertips pointing upward towards the water surface 
+With the shoulder in a hyperflexed position YES NO YES NO 
+2. Arm parallel to the water surface YES NO YES NO 
+3. Fingertips pointing downward towards the bottom of the pool  YES NO YES NO 
+ 
+Early Pull Through Phase 
+Elbow Position Right Left 
+1. Dropped Elbow YES NO YES NO 
+2. High Elbow YES NO YES NO 
+ 
+Hand Position Right Left 
+1. Hand inside the Elbow and crossing the midline of the body YES NO YES NO 
+2. Hand inside the Elbow not crossing the midline of the body YES NO YES NO 
+3. Hand in line with the Elbow YES NO YES NO 
+4. Hand outside the Elbow YES NO YES NO 
+ 
+Late Pull Through Phase 
+Force Production Right Left 
+1. Drop in Force production YES NO YES NO 
+2. Increase in Force Production YES NO YES NO 
+ 
+Hand Exit Phase 
+Hand Position Right Left 
+1. Hand exits before thigh YES NO YES NO 
+2. Elbow bent during hand exit YES NO YES NO 
+ 
+Catch Up Stroke 
+Swimming Catch Up Stroke Right Left 
+1. Swimming catch up stroke YES NO YES NO 
+ 

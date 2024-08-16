@@ -1,0 +1,883 @@
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=ipsm20
+The Physician and Sportsmedicine
+ISSN: 0091-3847 (Print) 2326-3660 (Online) Journal homepage: http://www.tandfonline.com/loi/ipsm20
+Risk factors for shoulder pain and injury in
+swimmers: A critical systematic review
+Lee Hill, Malcolm Collins & Michael Posthumus
+To cite this article:  Lee Hill, Malcolm Collins & Michael Posthumus (2015) Risk factors for shoulder
+pain and injury in swimmers: A critical systematic review, The Physician and Sportsmedicine, 43:4,
+412-420, DOI: 10.1080/00913847.2015.1077097
+To link to this article:  https://doi.org/10.1080/00913847.2015.1077097
+View supplementary material 
+Published online: 14 Sep 2015.
+Submit your article to this journal 
+Article views: 1044
+View related articles 
+View Crossmark data
+Citing articles: 7 View citing articles 
+
+CLINICAL FEATURE
+REVIEW
+Risk factors for shoulder pain and injury in swimmers: A critical systematic
+review
+Lee Hill1, Malcolm Collins1and Michael Posthumus1
+1Division of Exercise Science and Sports Medicine, University of Cape Town, Boundary Road, Newlands, Western Cape 7700, South Africa
+Abstract
+Swimming is one of the most popular recreational and competitive sporting activities. In the
+2013/2014 swimming season, 9630 men and 12,333 women were registered with the National
+Collegiate Athletics Association in the USA. The repetitive nature of the swimming stroke and
+demanding training programs of its athletes raises a number of concerns regarding incidence
+and severity of injuries that a swimmer might experience during a competitive season. A number
+of risk factors have previously been identified but the level of evidence from individual studies,
+as well as the level of certainty that these factors predispose a swimmer to pain and injury, to our
+knowledge has yet to be critically evaluated in a systematic review. Therefore, the primary objec-
+tive of this review is to conduct a systematic review to critically assess the published evidence for
+risk factors that may predispose a swimmer to shoulder pain and injury. Three electronic data-
+bases, ScienceDirect, PubMed and SpringerLink, were searched using keywords “(Injury OR pain)
+AND (Swim*) ”and “(Shoulder) AND (Swim*) ”. Based on the inclusion and exclusion criteria,
+2731 unique titles were identified and were analyzed to a final 29 articles. Only articles with a
+level of evidence of I, II and III were included according to robust study design and data analysis.
+The level of certainty for each risk factor was determined. No studies were determined to have a
+high level of certainty, clinical joint laxity and instability, internal/external rotation, previous
+history of pain and injury and competitive level were determined to have a moderate level of
+certainty. All other risk factors were evaluated as having a low level of certainty. Although several
+risk factors were identified from the reviewed studies, prospective cohort studies, larger sample
+sizes, consistent and robust measures of risk should be employed in future research.Keywords:
+Predisposing, rotator cuff, shoulder, injury,
+swimming
+History
+Received 22 April 2015
+Accepted 24 July 2015
+Published online 6 August 2015
+Introduction
+Swimming is one of the most popular recreational and com-
+petitive sporting activities. In the 2013/2014 swimming sea-
+son, 9630 men and 12,333 women were registered with the
+National Collegiate Athletics Association Swimming and
+Diving program [1]. Since it was first introduced as an Olym-
+pic sport at the 1896 summer games [2], it has essentially
+developed into an all year-round sport with athletes maintain-
+ing significant training load (including swimming, strength
+and dry land conditioning) after a competitive season has
+ended [3]. This leads to an increased risk of sustaining an
+injury, particularly musculoskeletal soft tissue injuries, among
+swimmers. The repetitive nature of the swimming stroke and
+demanding training programs of its athletes raises a number
+of concerns regarding incidence and severity of injuries that a
+swimmer might experience during a competitive season [4,5].
+The most common site of injury is the shoulder [6 –8], with
+supraspinatus tendinopathy being the most common pathol-
+ogy [9 –12]. Kennedy and Hawkins [13] first described thecondition of “swimmer ’s shoulder ”as a “common, painful
+syndrome of repeated shoulder impingement in swimmers ”.
+It has been reported that 40 –91% of swimmers have experi-
+enced shoulder pain in and around the shoulder joint
+[12,14-16]. The shoulder pain may lead to functional impair-
+ments, termination of participation and disability [16].
+Despite the incidence and severity of shoulder pain and
+injury in swimmers being well established, there is however a
+lack of agreement as to the cause of shoulder pain in
+swimmers. It has been suggested that due to the pervasive
+and varied nature of swimmer ’s shoulder , it is unlikely that a
+single cause can adequately address its prevalence [4].
+A number of risk factors have however been identified but
+the level of evidence [17] from individual studies, as well as
+the level of certainty [18] that these factors predispose a
+swimmer to pain and injury, to our knowledge has yet to be
+critically evaluated in a systematic review. Therefore, the pri-
+mary objective of this review is to conduct a systematic
+review to critically assess the published evidence for risk
+Correspondence: Michael Posthumus, Division of Exercise Science and Sports Medicine, University of Cape Town, Boundary Road, Newlands,
+Western Cape 7700, South Africa. E-mail: mposthumus@me.comISSN: 0091-3847 (print)
+Phys Sportsmed, 2015; 43 (4): 412 –
+DOI: 10.1080/00913847.2015.1077097www.tandfonline.com/psm
+© 2015 Taylor & Francis420
+factors that may predispose a swimmer to shoulder pain and
+injury.
+Methods
+Search strategy
+Published articles that examined potential risk factors for
+shoulder injuries in swimmers were reviewed using the
+Preferred Reporting Items for Systematic Reviews and Meta-
+Analyses guidelines [19]. An electronic database search of
+SpringerLink, ScienceDirect and PubMed/Medline was con-
+ducted using the search terms “(Injury OR pain) AND (risk*
+OR incidence) AND (Swim* OR Triath*) ”,“(Injury OR pain)
+AND (Swim*) ”and “(Shoulder) AND (Swim*) ”. The data-
+base search was limited to articles between January 1985 and
+December 2014. During first round of article identification,
+all content on swimming was considered. This included
+consulting current contents, reviews, textbooks, specialized
+registers or experts in the particular field of study, and by
+reviewing the references in the studies found. The titles,
+abstracts and full texts were independently screened by two
+of the authors (LH and MP). Articles were excluded if they
+were unrelated to the topic or met the exclusion criteria out-
+lined in Table 1.
+Two rounds of reviewing the literature, using the three-
+step method in each round, was performed. The first round
+pertained to the review of articles from the search results of
+the databases and the second round involved reviewing the
+bibliography lists of identified articles from the first round.
+Thereafter, the identified articles were critically appraised
+according to the inclusion criteria outlined in Table 2.
+Level of evidence and certainty
+The 29 identified articles included in this review were
+appraised using two established methods, namely level of
+evidence and level of certainty [17,20], as recently applied insimilar systematic reviews [21,22]. According to the hierar-
+chy of evidence, randomized controlled trials and high-
+quality (all patients were enrolled at the same point in their
+disease course [inception cohort] with ‡80% follow-up of
+enrolled patients, large sample sizes, robust methodology),
+prospective cohort studies are considered to be level I; lower-
+quality (small sample sizes and weaker methodology), pro-
+spective studies and retrospective studies are considered to be
+level II; case –control and cross-sectional studies are consid-
+ered to be level III; case series studies are level IV and expert
+opinions are level V (Table 3) [17]. The authors LH and MP
+independently ranked each included study according to these
+criteria. The authors, LH and MP agreed on the level of
+evidence assigned to each study.
+In addition to evaluate the level of evidence of each study,
+a level of certainty to the risk factor being associated with
+shoulder injuries in swimming, was also incorporated into
+this review. The authors, LH and MP ranked each identified
+risk factor according to the US Preventative Service Task
+Force [18] as either a high, moderate or low level of
+certainty. The two authors agreed on the classification of
+each risk factor. This classification method of the risk factors
+identified in this review allows for a relative measure of
+strength that an identified risk factor is associated with shoul-
+der pain in swimmers. The levels are defined as shown
+in Table 4.Table 1. A summary of exclusion criteria applied to identify relevant
+articles.
+1 Commentaries, book chapters, letters, editorials, conference
+proceedings, case reports, conference, abstracts or non-peer-
+reviewed articles
+2 Studies not conducted in swimmers
+3 Studies examining shoulder/upper limb injuries without reference
+to shoulder pain or injury
+4 Studies of other medical/systemic conditions (e.g. diabetes,
+amyloidosis) without specific reference to shoulder pain/injuries
+5 Animal or cadaver studies
+Table 2. A summary of inclusion criteria applied to identify relevant
+articles.
+1 The article must include original data
+2 The article must be published in English
+3 The article must include a minimum of one potential risk factor for
+shoulder pain or injury in swimmers
+4 Provide a definition of pain/injury in the shoulder
+5 The article must include an association with the 95% CI, p<0.05Table 3. Level of evidence (I –V) definitions used for study evaluation,
+as previously defined by Wright et al. [20] and Obremskey et al. [17].
+Level of
+evidence Study types
+I Randomized controlled trials and high-quality (large sample
+sizes, robust methodology) prospective cohort studies
+II Lower quality (small sample sizes, weaker methodology)
+prospective and retrospective cohort studies
+III Case –control
+IV Case series
+V Expert opinions
+Table 4. Level of certainty (high-low) definitions used for risk assess-
+ment, as previously defined by Sawaya et al. [18] and modified by
+Posthumus et al. [22].
+Level of
+certainty Definition
+High The available evidence includes consistent results from
+level I studies. These studies provide a good estimate of
+risk and are unlikely to be strongly affected by future
+studies
+Moderate The available evidence includes sufficient evidence to
+determine that there is risk associated with the injury, but
+confidence in the estimate is constrained by factors such as
+the sample size and quality of studies, as well as inconsis-
+tency of findings across individual studies. As more infor-
+mation becomes available, the magnitude of risk could
+change or even alter the conclusion
+Low The available evidence is insufficient to assess risk. Evi-
+dence is insufficient because of the limited number or size
+of studies, and inconsistency of findings across individual
+studies. More information may allow an estimation of riskDOI: 10.1080/00913847.2015.1077097 Risk factors for shoulder pain and injury in swimmers 413
+Results and discussion
+The article selection process is outlined in Figure 1. In total,
+the 29 critically appraised articles identified 18 risk factors
+for shoulder injuries in swimmers which are discussed below
+and summarized in Table 3 and online Supplementary Table
+S1. However, a further five risk factors were assigned a low
+level of certainty as only a single supporting was available.
+The risk factors identified from the systematic literature
+search were categorized into four categories based on factors
+identified during the review process, namely shoulder joint
+anatomy and strength, activity history, demographics and
+musculoskeletal anatomy.
+Shoulder joint anatomy and strength
+Internal/external rotation
+Six studies investigated whether the internal/external rota-
+tion was associated with shoulder pain in swimmers (see
+online Supplementary Table S1). Three studies found an
+association between internal/external rotation and shoulder
+pain [5,8,23] and three studies found no association
+[9,24,25]. In a prospective study by Walker et al. [8],
+increased external range of motion and decreased internal
+range of motion were associated with significant interferingshoulder pain and significant sho ulder injury, after adjusting
+for swim training exposure. The study divided participants
+into either low, mid or high external rotation range of
+motion. The adjusted odds ratios indicated that swimmers in
+both the low and high external rotation range of motion
+groups were at increased risk of developing a shoulder
+injury than those in the mid-range group. Similarly, a cross-
+sectional study [5] reported a significant reduction in inter-
+nal rotation range of motion in the 8- to 11-year-old
+swimmers with shoulder pain compared with those
+swimmers without pain. However, shoulder range of motion
+was not associated with shoulder pain in any of the other
+age groups examined (12 –14, 15 –18 and Masters). Further-
+more, a cross-sectional study by Bansal et al. [23] found
+that swimmers with shoulder impingement pain had signifi-
+cantly decreased internal range of motion and a significantly
+increased external range of motion compared with
+swimmers without impingement pain. Although the term
+impingement pain has been abandoned due to its generality
+and poor correlation to what is occurring in the shoulder,
+Bansal et al. [23] used specific criteria to diagnose impinge-
+ment pain; this includes 1) history of exercise-related shoul-
+der pain, 2) positive Neer ’s or Hawkins ’impingement test
+a n d3 )p r e s e n c eo fa n yo ft h ef o l l o w i n g –painful arc,
+tenderness at the greater tuberosity or bicipital groove,
+953 titlesRound 1
+Round 2311 abstracts
+171 full texts
+4 articles 98 articles
+29 articlesPubmed: 643
+articlesScience direct: 909
+articles
+2731 titles
+440 titles
+94 articles158 abstractsSpringerlink: 1179
+articles
+Figure 1. Schematic diagram of systematic review process. Initially, 2731 unique articles (1179 SpringerLink, 909 ScienceDirect and 643 PubMed)
+were identified. Four-hundred and four, 158 and then 94 articles were identified after sequentially reviewing the titles, abstract and then the full text,
+respectively. An additional four articles were included from the 953 unique references cited by the original 94 articles. Finally, 69 articles were
+excluded from this review after inclusion criteria were applied. Therefore, 29 unique and original articles were included in this systematic review . Iden-
+tified articles were grouped into specific risk factors.L. Hill et al. 414 Phys Sportsmed, 2015; 43 (4 ):412 –420
+painful active contraction or any rotator cuff muscle. How-
+ever, a case –control [9] and two cross-sectional studies
+[ 2 4 , 2 5 ]f a i l e dt of i n das i g n ificant association between
+shoulder range of motion and shoulder pain. Sample sizes
+were however limited in these studies that failed to report
+any association. In summary, there is sufficient evidence
+that shoulder internal and external rotation range of motion
+is a risk factor for shoulder pain in swimmers. The confi-
+dence in the estimate is however constrained by factors such
+as sample size, study quality and inconsistency of findings
+across individual studies. Therefore, the level of certainty
+that this risk factor is associated with shoulder pain is
+moderate.
+Clinical joint laxity and instability
+Six studies examined whether there was an association
+between clinical joint laxity and instability and shoulder pain.
+Three studies found an association between clinical joint
+laxity and instability and shoulder pain [5,23,26] and three
+studies failed to show an association [8,27,28]. A cross-
+sectional study by McMaster et al. [26] found a significant
+correlation between a clinical shoulder exam score for joint
+laxity and shoulder pain in elite swimmers who reported hav-
+ing shoulder pain. Furthermore, Tate et al. [5] found that
+shoulder pain was significantly associated with self-reported
+shoulder instability in swimmers between the ages of 12 and
+19 years old but not in Masters swimmers. In addition, the
+cross-sectional study by Bansal et al. [23] found that atraumatic
+anterior instability was significantly associated with shoulder
+impingement pain in swimmers with impingement syndrome,
+but multidirectional instability was not found to be significantly
+associated with impingement pain. Bansal et al. [23] defined
+atraumatic anterior instability as a positive apprehension sign
+when the tested arm was abducted to 90 degrees and exter-
+nally rotated. A positive test suggests that there is increased
+anterior translation of the humeral head with concurrent
+posterior capsule tightness leading to anterior instability.
+Multidirectional instability is characterized as generalized
+capsular laxity and is considered to be atraumatic. There is
+therefore excessive mobility of the glenohumeral joint in all
+directions (anterior, posterior, superior and inferior). The
+tests used were the relocation test with a Sulcus sign and
+this would constitute a positive test for multidirectional insta-
+bility. However, two case –control studies [27,28] and a pro-
+spective study [8] failed to show that shoulder joint laxity
+was significantly associated with shoulder pain. In summary,
+the available evidence suggests that joint laxity and instabil-
+ity is a risk factor for shoulder pain in swimmers, but confi-
+dence is constrained by the quality of studies, as well as
+inconsistency of findings across individual studies. There-
+fore, the level of certainty that this risk factor is associated
+with shoulder pain is moderate.
+Internal/external rotation strength
+Five studies examined whether internal/external rotation
+strength was associated with shoulder pain. Two studies
+found an association between internal/external rotationstrength and shoulder pain [5,29] and three studies failed to
+show an association [9,10,25]. A cross-sectional study [5]
+reported that reduced internal rotation torque was associated
+with shoulder pain and disability in swimmers with shoulder
+pain. Although it does not provide evidence that decreased
+internal/external rotation strength is a risk factor for injury,
+a randomized control trial by Swanik et al. [29] found a
+significant decrease in the incidence of shoulder pain
+between the experimental group who underwent shoulder
+functional training to strengt hen the internal and external
+rotators compared with the control group. However, two
+case–control studies [9,10] and a cross-sectional study [25]
+f a i l e dt of i n da na s s o c i a t i o nb e t w e e ni n t e r n a la n de x t e r n a l
+rotation strength and shoulder pain. In summary, due to
+insufficient evidence, as well as inconsistency among the
+available studies, the level o f certainty that internal and
+external rotation strength is a risk factor for shoulder pain in
+swimmers is low.
+Shoulder flexibility
+Three studies examined whether shoulder flexibility was
+associated with shoulder pain. Two studies found an associa-
+tion between shoulder flexibility and shoulder pain [30,31]
+and one study didn ’t find an association [32]. In a prospective
+study by Greipp [30], anterior shoulder inflexibility was
+associated with shoulder pain in male and female swimmers.
+Similarly, a case –control study by Ozcaldiran [31], found that
+swimmers with shoulder pain had a significant positive corre-
+lation between total flexibility index scores and shoulder
+pain. However, there was no significant association between
+swimmers who reported shoulder pain and subjective level of
+joint flexibility in a cross-sectional study [32]. There is
+currently a lack of evidence and consistency between findings
+to suggest that shoulder flexibility is a risk factor for shoulder
+pain in swimmers. The level of certainty that this risk factor
+is associated with shoulder pain is therefore low.
+Glenohumeral translation
+Only two studies examined whether glenohumeral translation
+was associated with shoulder pain. Both studies found no
+association between glenohumeral translation and shoulder
+pain [27,33]. In a case –control study by Borsa et al. [27], no
+significant difference in glenohumeral joint displacement
+between swimmers and controls was found. In addition, no
+difference between joint displacement and swimmers with a
+history of shoulder pain was found. Furthermore, in a ran-
+domized intervention trial by Lynch et al. [33], a significant
+decrease in forward shoulder translation and forward head
+angle was found in the intervention group but not in the con-
+trol group. In the intervention group, a significant increase in
+shoulder girdle strength was found following the intervention.
+However, no significant interaction was found in pain score
+following the intervention and reduction of forward shoulder
+translation and forward head angle. In summary, there is
+currently insufficient evidence to suggest that glenohumeral
+displacement is a risk factor for shoulder pain in swimmers;
+therefore, the level of certainty is low.DOI: 10.1080/00913847.2015.1077097 Risk factors for shoulder pain and injury in swimmers 415
+Activity history
+Training load, volume and intensity
+Ten studies examined whether training load, volume and
+intensity was associated with shoulder pain. Four studies
+found an association between training load, volume and inten-
+sity and shoulder pain [5,12,34,35] and six studies didn ’t find
+an association [4,8,25,36-38]. A cross-sectional MRI study by
+Sein et al. [12] reported a significant correlation between train-
+ing load (number of hours swum per week and weekly mile-
+age) and increased risk of shoulder impingement pain. This
+study also showed that supraspinatus tendon thickening was
+significantly correlated with increased hours of training per
+week, weekly mileage and cumulative shoulder use. Further-
+more, two cross-sectional studies [5,34] showed that
+swimmers who swam a greater number of hours and mileage
+reported a significantly higher incidence of shoulder pain.
+Moreover, the retrospective study by Ristolainen et al. [35]
+showed that injured swimmers had reported swimming signifi-
+cantly more during the 12-month period than the uninjured
+swimmers and the mean number of kilometers swum was
+higher in swimmers with at least one injury joint compared to
+swimmers without an injury. However, the case –control study
+by Su et al. [36] found no significant difference between prac-
+tice duration (h/week) or practice distance (km/week) and
+shoulder impingement and pain in swimmers. Additionally,
+two recent prospective studies [4,8] reported that mileage and
+hours of practice were not associated with shoulder pain.
+Furthermore, two cross-sectional studies [39,38] also failed to
+find a correlation between shoulder pain intensity and hours
+per week of training. In summary, the studies which investi-
+gated training load, volume and intensity as a risk factor for
+shoulder pain are inconsistent. Therefore, the level of certainty
+that this risk factor associated with shoulder pain is low.
+Stroke distance and stroke specialty
+Eight studies examined whether stroke distance and stroke
+specialty was associated with shoulder pain. One study found
+an association between stroke distance and stroke specialty
+and shoulder pain [40] and seven studies found no associa-
+tion [3,5,8,12,30,34,41]. It has been reported that of all
+strokes, the butterfly stroke was the most likely to cause
+shoulder pain in males and females [40]. However, in a pro-
+spective study by Walker et al. [8] and a retrospective study
+by Wolf et al. [3], stroke specialty or stroke distance were not
+significantly associated with shoulder pain. Furthermore, four
+cross-sectional studies [5,12,34,41] and a prospective study
+[30] failed to find a significant association between stroke
+specialty or stroke distance with shoulder pain in swimmers.
+In summary, based on the available evidence it is unlikely
+that stroke distance and stroke specialty is a risk factor for
+shoulder pain in swimmers. Therefore, the level of certainty
+that this factor is associated with shoulder pain is low.
+Years of swimming experience
+Six studies examined whether years of swimming experience
+was associated with shoulder pain. Two studies found anassociation between years of swimming experience and
+shoulder pain [5,12] and four found no association
+[4,25,38,39]. In a cross-sectional MRI study by Sein et al.
+[12], increased supraspinatus tendon thickness was associated
+with years of swimming training experience demonstrated
+impingement pain and supraspinatus tendon thickening. Fur-
+thermore, a cross-sectional study by Tate et al. [5] found an
+association between swimmers with shoulder pain and years
+of swimming experience in 15- to 19-year-old swimmers, but
+not in the other age groups studied. However, in a recent pro-
+spective study by Chase et al. [4], years of swimming experi-
+ence was not significantly associated with shoulder injury. In
+addition, two further case –control studies [39,38] and a
+cross –sectional study [25] also failed to find an association
+between shoulder pain in swimmers and year of previous
+swimming experience. In summary, since the available evi-
+dence to assess years of swimming experience as a risk factor
+for shoulder pain in swimmer is insufficient, the level of cer-
+tainty that this factor is associated with shoulder pain is low.
+Breathing side
+Only two studies examined whether breathing side was associ-
+ated with pain. One study found an association between breath-
+ing side and shoulder pain [5] an one found no association [32].
+In a cross-sectional study by Tate et al. [5], bilateral breathing
+in the 8 to 11-year-old age group was found to be associated
+with shoulder pain but no associations were found in breathing
+side preference in the other age groups (12 –14, 15 –18 and
+Masters). Further, a cross-sectional study by Stocker et al. [32]
+failed to find a significant association between breathing side
+and shoulder pain in competitive collegiate and masters level
+swimmer. There is inconsistent and insufficient evidence that
+breathing side is a risk factor for shoulder pain in swimmers
+and therefore the level of certainty is low.
+Swimming training equipment
+Four studies examined whether swimming training equipment
+was associated with shoulder pain. Only one study found an
+association between swimming training equipment and shoul-
+der pain [40] and three studies found no association
+[5,32,42]. In a cross-sectional study by McMaster et al. [40],
+the use of hand paddles and kickboards were found to be
+significantly associated with shoulder pain in both male and
+female swimmers with shoulder pain. In three subsequent
+cross-sectional studies [5,32,42], the use of hand paddles
+were not significantly associated with shoulder pain or injury.
+In summary, there is no evidence that training equipment
+increases the risk of shoulder pain in swimmers. Therefore,
+the level of certainty that this risk factor is associated with
+shoulder pain is low.
+Cross training and stretching
+Four studies examined whether cross training and stretching
+was associated with shoulder pain. Two studies found an
+association between cross training and stretching and shoul-
+der pain [30,40] and two studies found no association [8,34].L. Hill et al. Phys Sportsmed, 2015; 43 (4 ):412 416 –420
+In a prospective study [30], increased weight training was
+associated with increased shoulder pain in male swimmers.
+Furthermore, increased stretching in both males and females
+was associated with increased incidence of shoulder pain in a
+cross-sectional study [40]. Additionally, shoulder pain was
+associated with strength training and weight training for both
+groups. However, in a prospective study by Walker et al. [8],
+the number of dry-land strength training sessions per week
+was not significantly associated with shoulder pain. More-
+over, a cross-sectional study by Kru €ger et al. [34] found that
+strength training was not associated with shoulder pain or
+injury. In summary, there is insufficient evidence and incon-
+sistent findings among the individual studies to suggest that
+cross training and stretching is a risk factor for shoulder pain
+in swimmers. Therefore, the level of certainty that this risk
+factor is associated with shoulder pain is low.
+Demographics
+Previous history of pain and injury
+Four studies examined whether history of previous pain and
+injury was associated with shoulder pain. Three studies found
+an association between previous history of pain and injury
+and shoulder pain [5,8,23] and one study found no associa-
+tion [34]. In a prospective study by Walker et al. [8],
+swimmers with a history of shoulder pain were 4.1 and
+11.3 times more likely to sustain a subsequent injury for sig-
+nificant interfering pain in the shoulder and a significant
+shoulder injury, respectively. A cross-sectional study by
+Tate et al. [5] found that previous history of pain or injury
+was significantly associated with shoulder pain in high school
+swimmers and masters ’level swimmers. Moreover,
+Bansal et al. [23] found a strong association between past
+history of shoulder pain and shoulder impingement syndrome.
+However, in a cross-sectional study by Kru €ger et al. [34], no
+association between previous history of injury and shoulder
+pain was found. In summary, there is sufficient evidence from
+both a level I and two level III studies to determine that previ-
+ous history of pain and injury is a risk factor for shoulder
+pain in swimmers. However, due to the inconsistent findings,
+and lack of repeated level I studies, there is only a moderate
+certainty that this risk factor is associated with shoulder pain.
+Sex
+Five studies examined whether sex was associated with
+shoulder pain. Only one study found an association between
+sex and shoulder pain [43] and four found no association
+[4,30,34,36]. A retrospective study by Sallis et al. [43]
+reported that female swimmers had significantly more shoul-
+der injuries than the male swimmers. However, a prospective
+study by Chase et al. [4] failed to find a significant difference
+in injury rates between male and female swimmers over the
+course of a competitive season. Furthermore, in a prospective
+study [30], a cross-sectional study [34] and a case –control
+study [36], it was found that sex was not significantly associ-
+ated with shoulder pain or injury. In summary, there is insuf-
+ficient evidence and inconsistencies among the individualstudies, to suggest that sex is a risk factor for shoulder pain
+in swimmers. Therefore, the level of certainty that gender is a
+risk factor for shoulder pain is low.
+Age
+Seven studies examined whether age was associated with
+shoulder pain. All seven studies found no association
+between age and shoulder pain [4,5,8,25,30,34,36]. In a pro-
+spective study by Greipp [30], the incidence of shoulder pain
+was not significantly associated with age. Similarly, the case –
+control study by Su et al. [36] found that age was not signifi-
+cantly different between swimmers with impingement and
+those without. More recently, two cross-sectional studies
+found no significant association with age of the swimmers
+and the incidence of shoulder pain [5,34]. In summary, there
+is currently no evidence that age is a risk factor for shoulder
+pain in swimmers and its certainty is therefore low.
+Competitive level
+Four studies examined whether competitive level was associ-
+ated with shoulder pain. Three studies found an association
+between shoulder pain and competitive level [12,34,44] and
+one study found no association [36]. In a description of elite
+and recreational swimmers [44], the elite group was found to
+have significantly higher incidence of shoulder overuse dys-
+function and pain than the recreational group. In addition, the
+cross-sectional MRI study by Sein et al. [12] found that com-
+petitive level was significantly associated with supraspinatus
+thickness and impingement pain and that athletes at higher
+levels of competition were more likely to have supraspinatus
+thickness and impingement pain than those at lower levels.
+Furthermore, the cross-sectional study by Kru €ger et al. [34]
+reported that competitive swimmers were found to have
+significantly higher incidence of shoulder pain compared with
+recreational swimmers. The case –control study by Su et al.
+[36] did not report an association, however only 20 injured
+swimmers were investigated and this study was not designed
+to investigate this risk factor. In summary, the available evi-
+dence is sufficient to conclude that competitive swimming, as
+appose to recreational swimming, is a risk factor for develop-
+ing shoulder pain. Therefore, the level of certainty that this
+risk factor associated with shoulder pain is moderate.
+Musculoskeletal
+Scapular kinematics, strength and dyskinesis
+Three studies examined whether scapular kinematics, strength
+and dyskinesis was associated with shoulder pain. Only one
+study found an association between scapular kinematics,
+strength and dyskinesis and shoulder pain [36] and two stud-
+ies found no association [5,25]. In a study of 20 swimmers
+with shoulder impingement and 20 healthy swimmers without
+history of shoulder pain [36]; shoulder impingement was
+significantly associated with reduced strength during the
+scapular strength test after swimming. In addition, swimmers
+with shoulder impingement also demonstrated less upwardDOI: 10.1080/00913847.2015.1077097 Risk factors for shoulder pain and injury in swimmers 417
+rotation at 45, 90 and 135 degrees of humeral elevation dur-
+ing arm abduction after swim training. Conversely, in the
+cross-sectional study by Harrington et al. [25], scapular
+depression, abduction and adduction strength were not signif-
+icantly associated with shoulder pain. Further, the frequency
+of obvious scapular dyskinesis was not found to be different
+between the swimmers who had shoulder pain and those that
+had no shoulder pain in any age group [5]. In summary, the
+evidence supporting scapular kinematics, strength and dyski-
+nesis as a risk factor for shoulder pain in swimmers is insuffi-
+cient and therefore the level of certainty that this risk factor is
+associated with shoulder pain is low.
+Core stability
+Only two studies examined whether core stability was associ-
+ated with shoulder pain. One study found an association
+between core stability and shoulder pain [5] and one study
+found no association [25]. In a cross-sectional study by
+Tate et al. [5], it was reported that youth swimmers
+(12–14 years old) with shoulder pain maintained a side
+bridge for significantly less time than uninjured swimmers.
+There was however no significant differences found in other
+age groups and between other tests of core stability (prone
+bridge and close kinetic chain bridge). A further study by
+Harrington et al. [25] found no association between side
+bridge and prone bridge endurance and shoulder pain. In
+summary, the evidence available on trunk muscle endurance
+as a risk factor for shoulder pain in swimmers is insufficient.
+Therefore, the level of certainty that this risk factor is
+associated with shoulder pain is low.
+Pectoral length
+Only two studies examined whether pectoral length was asso-
+ciated with shoulder pain. Both studies found an association
+between pectoral length and shoulder pain [5,25]. It has beendemonstrated by Borstad and Ludewig [45] that a short pec-
+toralis minor demonstrated scapular kinematics similar to the
+kinematics exhibited in earlier studies by subjects with shoul-
+der impingement. These results support the theory that an
+adaptively short pectoralis minor may influence scapular kine-
+matics and is therefore a potential mechanism for subacromial
+impingement. In a cross-sectional study by Tate et al. [5],
+a significant association was found in the resting normalized
+pectoralis minor length (normalized to clavicle length) at rest
+in the 15-year-old age group of girls with shoulder pain but
+not in any of the other age groups. Additionally, no associa-
+tions were found during pectoralis minor stretch and shoulder
+pain in any of the age categories. Furthermore, the cross-
+sectional study by Harrington et al. [25] found that pectoralis
+length at rest and at stretch was significantly associated with
+shoulder pain in Division I female swimmers. In summary,
+there is currently inconsistent evidence that pectoralis length
+is a risk factor for shoulder pain in swimmers; therefore, the
+level of certainty that this risk factor is associated with shoul-
+der pain is low.
+Conclusion
+The investigation of risk factors is an important initial step
+towards the understanding of the etiology of shoulder injuries
+in swimmers. Although, a number of risk factors were identi-
+fied in the included studies, poor study methodology or lim-
+ited available data caused constrained estimation of injury risk
+to the shoulder for almost all of the investigated risk factors.
+None of the identified risk factors were found to have a high
+level of certainty. Prospective cohort design and consistency
+of measurements of risk should be employed in future studies.
+Additionally, risk factors that were only investigated by a
+single study are assigned a low level of certainty as there is
+insufficient evidence to make a conclusion and require future
+investigation. These risk factors include: swimming scholar-
+ship status [3],inadequate treatment [23], triceps length [5],
+latissimus length [5] and internal/external rotation endurance
+[24]. Furthermore, some studies have suggested that changes
+in EMG activation of shoulder stability muscles are associated
+with shoulder pain during swimming [28,39,46-48]. However,
+further investigation is required in order to determine whether
+the changes in EMG activation shoulder stability muscles are
+a possible cause of shoulder pain in swimmers or that shoulder
+pain modifies EMG activation. Finally, some studies have sug-
+gested that a genetic predisposition to shoulder injury exists
+[49], however; no studies have investigated this in swimmers.
+It is therefore possible to suggest that overuse injuries in
+swimmers who have an already high volume of arm rotations
+may in some way be at additional risk for shoulder injury.
+Limitations
+There were several limitations to this systematic review.
+There was a clear lack of consistency of the definition of
+shoulder pain or injury. A number of studies utilized self-
+reported pain without an objective diagnosis of pathology.
+Additionally, several aspects of one shoulder pathology were
+investigated which may weaken the significance of factorsTable 5. Summary of the level of certainty of risk factors associated
+with shoulder injuries in swimmers.
+Level of certainty
+High Moderate Low
+_ Clinical joint laxity and
+instabilityYears of swimming experience
+Internal/external rotation Training load, volume and intensity
+Previous history of pain
+and injuryGender
+Competitive level Age
+Swimming training equipment
+Stroke distance and stroke specialty
+Breathing side
+Internal/external rotation strength
+Scapular strength
+Scapular dyskinesis
+Core stability
+Glenohumeral translation
+Swimming scholarship status
+Pectoral length
+Tricep length
+Latissimus length
+Inadequate treatment
+Shoulder flexibilityL. Hill et al. 418 Phys Sportsmed, 2015; 43 (4 ):412 –420
+with only a single supporting study. Therefore, it is possible
+that a single risk factor for shoulder pain such as scapular
+rotation may possibly be nullified as a risk factor as it doesn ’t
+show a correlation with scapular dyskinesis. Secondly, some
+studies were excluded because they were unavailable or in a
+foreign language. Finally, the systematic review was limited
+by the quality of studies available, as the majority of studies
+were case –control or cross-sectional in study design.
+This evidence-based systematic review provides descrip-
+tive analysis of several risk factors for shoulder injury in
+swimmers. Although the identified risk factors did not
+achieve a high level of certainty, several of the risk factors
+were moderately associated with shoulder pain and injury in
+swimming. In order to improve the definition and etiology of
+shoulder injuries in swimmers, more high-quality studies are
+required to improve the inconsistency of results. Finally, a
+shoulder injury can potentially be a career ending happen-
+stance, thus, an understanding of the factors that predispose a
+swimmer to shoulder injury can improve the quality of train-
+ing, reduce injury rates and prolong a career.
+Declaration of interest
+The financial assistance of the National Research Foundation
+(NRF) towards this research is hereby acknowledged. Opin-
+ions expressed and conclusions arrived at, are those of the
+authors and are not necessarily to be attributed to the NRF.
+The authors have no other relevant affiliations or financial
+involvement with any organization or entity with a financial
+interest in or financial conflict with the subject matter or mate-
+rials discussed in the manuscript apart from those disclosed.
+References
+[1] Kerr ZY, Baugh CM, Hibberd EE, Snook EM, Hayden R,
+Dompier TP. Epidemiology of National Collegiate Athletic Associ-
+ation men ’s and women ’s swimming and diving injuries from
+2009/2010 to 2013/2014. Br J Sports Med 2015;465 –71.
+[2] Lord C. Aquatics 1908-2008: FINA - 100 years of excellence in
+sport. FINA; Lausanne, Switzerland: 2008.
+[3] Wolf BR, Ebinger AAE, Lawler MP, Britton CL. Injury patterns in
+Division I collegiate swimming. Am J Sports Med 2009;37:2037 –
+42.
+[4] Chase KI, Caine DJ, Goodwin BJ, Whitehead JR, Romanick MA.
+A prospective study of injury affecting competitive collegiate
+swimmers. Res Sports Med 2013;21:111 –23.
+[5] Tate A, Turner GN, Knab SE, Jorgensen C, Strittmatter A ML.
+Risk factors associated with shoulder pain and disability across the
+lifespan of competitive swimmers. J Athl Train 2012;47:149 –58.
+[6] McMaster WC. Shoulder injuries in competitive swimmers. Clin
+Sports Med 1999. 18(2):349 –59, vii Available from http://www.
+ncbi.nlm.nih.gov/pubmed/10230570.
+[7] Weldon EJ, Richardson AB. Upper extremity overuse injuries in
+swimming. A discussion of swimmer ’s shoulder. Clin Sport Med
+2001. 20(3):423 –38. Available from http://www.ncbi.nlm.nih.gov/
+pubmed/11494832.
+[8] Walker H, Gabbe B, Wajswelner H, Blanch P, Bennell K. Physical
+Therapy in Sport Shoulder pain in swimmers: A 12-month prospec-
+tive cohort study of incidence and risk factors. Phys Ther Sport
+2012;13:243 –9.
+[9] Rupp S, Berninger K, Hopf T. Shoulder problems in high level
+swimmers –impingement, anterior instability, muscular imbalance?
+Int J Sport Med 1955;16:557 –62.
+[10] Bak K, Magnusson S. Shoulder strength and range of motion in
+symptomatic and pain-free elite swimmers. Am J Sport Med
+1997;25:454 –9.[11] Fredericson M, Ho C, Waite B, Jennings F, Peterson J, Williams C,
+et al. Magnetic resonance imaging abnormalities in the shoulder and
+wrist joints of asymptomatic elite athletes. PM R 2009;1:107 –16.
+[12] Sein ML, Walton J, Linklater J, Appleyard R, Kirkbride B,
+Kuah D, et al. Shoulder pain in elite swimmers: primarily due to
+swim-volume-induced supraspinatus tendinopathy. Br J Sports Med
+2008;44:105 –13.
+[13] Kennedy JC, Hawkins RJ. Swimmers Shoulder. Phys Sport
+1974;2:34 –8.
+[14] McMaster WC, Troup J. A survey of interfering shoulder pain in
+United States competitive swimmers. Am J Sports Med 1993. 21
+(1):67 –70. Available from http://www.ncbi.nlm.nih.gov/pubmed/
+8427371.
+[15] Allegrucci M, Whitney SL, Irrgang JJ. Clinical implications of sec-
+ondary impingement of the shoulder in freestyle swimmers.
+J Orthop Sports Phys Ther 1994. 20(6):307 –18. Available from
+http://www.ncbi.nlm.nih.gov/pubmed/7849751.
+[16] Pollard H, Croker D. Shoulder pain in elite swimmers. Australas
+Chiropr Osteopathy 1999. 8(3):91 –5. Available from http://www.
+pubmedcentral.nih.gov/articlerender.fcgi?
+artid=2051095&tool =pmcentrez&rendertype =abstract.
+[17] Obremskey WT, Pappas N, Attallah-Wasif E, Tornetta P,
+Bhandari M. Level of evidence in orthopaedic journals. J Bone Jt
+Surgery 2005;87-A:2632 –8.
+[18] Sawaya GF, Guiruis-Blake J, Harris R, Petitti D. US. Preventive
+Services Task Force. Update on the methods of the U.S. Preventive
+Services Task Force: estimating certainty and magnitude of net
+benefit. Ann Intern Med 2007;147:871 –5.
+[19] Liberati A, Altman DG, Tetzlaff J, Mulrow C, Gøtzsche PC,
+Ioannidis JPA, et al. The PRISMA statement for reporting systematic
+reviews and meta-analyses of studies that evaluate health care inter-
+ventions: explanation and elaboration. PLoS Med 2009;6:e1000100.
+[20] Wright RW, Brand RA, Dunn W, Spindler KP. How to write a sys-
+tematic review. Clin Orthop Relat Res 2007;455:23 –9.
+[21] Abrahams S, Fie SM, Patricios J, Posthumus M, September A V.
+Risk factors for sports concussion: an evidence-based systematic
+review. Br J Sports Med 2014;48:91 –7.
+[22] Posthumus M, Collins M, September AV, Schwellnus MP. The
+intrinsic risk factors for ACL ruptures: an evidence-based review.
+Phys Sportsmed 2011;39:62 –73.
+[23] Bansal S, Gaurang A, Sinha K, Sandhu JS. Shoulder impingement
+syndrome among competitive swimmers in India –prevalence. J
+Exerc Sci Fit 2007;5(2):102 –8.
+[24] Beach ML, Whitney SL, Dickoff-Hoffman S. Relationship of
+shoulder flexibility, strength, and endurance to shoulder pain in
+competitive swimmers. J Orthop Sport Phys Ther 1992;16:262 –8.
+[25] Harrington S, Meisel C, Tate A. A. Cross Sectional Study Examin-
+ing Shoulder Pain and Disability in Division I Female Swimmers.
+J Sport Rehabil 2014;23:65 –75.
+[26] McMaster WC, Roberts A, Stoddard T. A correlation between
+shoulder laxity and interfering pain in competitive swimmers. Am
+J Sports Med 1998;26:83 –6. Available from http://www.ncbi.nlm.
+nih.gov/pubmed/9474407.
+[27] Borsa PA, Scibek JS, Jacobson JA, Meister K. Sonographic stress
+measurement of glenohumeral joint laxity in collegiate swimmers
+and age-matched controls. Am J Sports Med 2005;33:1077 –84.
+[28] Santos MJ, Belangero WD, Almeida GL. The effect of joint insta-
+bility on latency and recruitment order of the shoulder muscles.
+J Electromyogr Kinesiol 2007;17:167 –75.
+[29] Swanik KA, Lephart SM, Swanik CB, Lephart SP, Stone DA,
+Fu FH. The effects of shoulder plyometric training on propriocep-
+tion and selected muscle performance characteristics. J Shoulder
+Elb Surg 2002;11:579 –86.
+[30] Greipp J. Swimmer ’s Shoulder: The influence of flexibility and
+weight training. Phys Sport 1985;13:92 –105.
+[31] Ozcaldiran B. A relation between static flexibility and shoulder pain
+in competitive age group swimmers. Pain Clin 2002;14:159 –63.
+[32] Stocker D, Pink M, Jobe F. Comparison of shoulder injury in
+collegiate-and master ’s-level swimmers. Clin J Sport Med 1995;
+Available from http://journals.lww.com/cjsportsmed/Abstract/1995/
+01000/Comparison_of_Shoulder_Injury_in_Collegiate__and.2.
+aspx. [Last accessed May 18, 2013.
+[33] Lynch SS, Thigpen CA, Mihalik JP, Prentice WE, Padua D. The
+effects of an exercise intervention on forward head and roundedDOI: 10.1080/00913847.2015.1077097 Risk factors for shoulder pain and injury in swimmers 419
+shoulder postures in elite swimmers. Br J Sports Med
+2010;44:376 –81.
+[34] Kru €ger PE, Dressler A, Botha M. Incidence of shoulder injuries
+and related risk factors among master swimmers in South Africa.
+African J Phys Heal Educ Recreat Danc 2012(Suppl):57 –76.
+[35] Ristolainen L, Kettunen JA, Waller B, Heinonen A, Kujala UM.
+Training-related risk factors in the etiology of overuse injuries in
+endurance sports. J Sport Med Phys Fit 2014;54:78 –87.
+[36] Su KPE, Johnson MP, Gracely EJ, Karduna AR. Scapular Rotation
+in Swimmers with and without Impingement Syndrome: Practice
+Effects. Med Sci Sports Exerc 2004;36:1117 –23.
+[37] Hidalgo-Lozano A, Caldero /C19n-Soto C, Domingo-Camara A, Fernán-
+dez-de-Las-Peñas C, Madeleine P, Arroyo-Morales M. Elite
+swimmers with unilateral shoulder pain demonstrate altered pattern
+of cervical muscle activation during a functional upper-limb task.
+J Orthop Sport Phys Ther 2012;42:552 –8.
+[38] Hidalgo-Lozano A, Fernández-de-las-Peñas C, Caldero /C19n-Soto C,
+Domingo-Camara A, Madeleine P, Arroyo-Morales M. Elite
+swimmers with and without unilateral shoulder pain: mechanical
+hyperalgesia and active/latent muscle trigger points in neck-
+shoulder muscles. Scand J Med Sci Sport 2013;23:66 –73.
+[39] Hidalgo-Lozano A. Elite swimmers with unilateral shoulder pain
+demonstrate altered pattern of cervical muscles activation during a
+functional upper limb task. J Orthop Sports Phys Ther
+2012;42:552 –9.
+[40] McMaster WC, Troup JP, Arrendondo S. The incidence of shoulder
+problems in developing elite swimmers. J Swim Res 1989;5:11 –16.
+[41] Wymore L, Reeve RE, Chaput CD. No correlation between stroke
+specialty and rate of shoulder pain in NCAA men swimmers. Int J
+Shoulder Surg 2012;6:71 –5.[42] Puckree T, Thomas KJ. Shoulder injuries in competitive swimmers
+in KwaZulu-Natal. South African J Sport Med 2006;18:10 –12.
+[43] Sa llis RE, Jones K, Sunshine S, Smith G, Simon L. Comparing
+sports injuries in men and women. Int J Sports Med
+2001;22:420 –3.
+[44] Zemek MJ, Magee DJ. Comparison of glenohumeral joint laxity in
+elite and recreational swimmers. Clin J Sport Med 1996;6:40 –7.
+[45] Borstad JD, Ludwig PM. Comparison of three stretches for the pec-
+toralis minor muscle. J Shoulder Elbow Surg 2006;15(1):324 –30.
+[46] Scovazzo ML, Browne A, Pink M, Jobe FW, Kerrigan J. The pain-
+ful shoulder during freestyle swimming. An electromyographic cin-
+ematographic analysis of twelve muscles. Am J Sport Med
+1991;19:577 –82.
+[47] Ruwe PA, Pink M, Jobe FW, Perry J, Scovazzo ML, Ruwe P,
+Pink M, et al. The normal and the painful shoulders during the
+breaststroke. Electromyographic and cinematographic analysis of
+twelve muscles. Am J Sport Med 1994;22:789 –96. Available from
+http://ajs.sagepub.com/content/22/6/789.short. [Last accessed May
+18, 2013.
+[48] Wadsworth DJ, Bullock-Saxton JE. Recruitment patterns of the
+scapular rotator muscles in freestyle swimmers with subacromial
+impingement. Int J Sport Med 1997;18:618 –24.
+[49] Motta GDR, Amaral MV , Rezende E, Pitta R, Vieira TC,
+Duarte ME, et al. Evidence of genetic variations associated with
+rotator cuff disease. J Shoulder Elb Surg 2014;23:227 –35.
+Supplementary material available online.
+Supplementary Table S1.L. Hill et al. 420 Phys Sportsmed, 2015; 43 (4 ):412 –420

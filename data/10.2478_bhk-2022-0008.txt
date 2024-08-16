@@ -1,0 +1,447 @@
+Biomedical Human Kinetics, 14, 61–66, 2022
+DOI: 10.2478/bhk-2022-0008Original Paper
+Are swimming coaches ready to help injured young swimmers?
+Goran Dimitrić1, Milorad Jakšić1, Filip Sadri1, Nataša Zenić2
+1 Faculty of Sport and Physical Education, University of Novi Sad, Serbia; 2 Faculty of Kinesiology, University of Split, 
+Croatia
+Abstract
+Study aim : This study aimed to determine the knowledge and skills of swimming coaches in providing first aid and cardiopul -
+monary resuscitation (CPR). 
+Material and methods : The sample consisted of 59 swimming coaches who responded to non-standardized questionnaire. The 
+collected data were processed by the statistical program IBM SPSS (20.0), using the Chi-square test with cross-tabulation, with 
+a level of statistical significance p ≤ 0.05. 
+Results : Obtained data showed a statistically significant difference in the knowledge of swimming coaches about first aid and 
+CPR in relation to coaching experience (p = 0.025); in the knowledge of providing first aid and CPR between coaches who 
+have a certificate of first aid and CPR and those who do not (p = 0.006) and in first aid and CPR knowledge between coaches 
+who have renewed their first aid and CPR knowledge and those who did not (p = 0.045). 
+Conclusion : Based on the findings of the present study, swimming coaches included in this research did not have enough 
+knowledge and skills in first aid and CPR, which makes swimming programs unsafe. By obliging swimming coaches to acquire 
+and constantly improve their knowledge and skills in first aid and CPR, the environment for all swimming programs would 
+become safer. 
+Keywords: First aid and CPR – Swimming pool – Coach – Knowledge – Skills
+Introduction
+Swimming has a positive impact on children and 
+adults. Children and adult swimmers are safer in and 
+around the water environment than non-swimmers. These 
+are perhaps the two most important reasons for the pres -
+ence of a large number of children and adults attending 
+various organized forms of swimming lessons. Never -
+theless, swimming activities and swimming training are 
+performed in the water, potentially dangerous environ -
+ment where fatal outcomes can occur. The presence of 
+lifeguards on the water, as well as a visibly marked first 
+aid and CPR kit, during the organization of an event on 
+the water surface, which includes all kinds of swimming 
+training sessions are legal obligations. In case of an injury 
+or unsafe situation, swimming coaches should be able to 
+provide first aid and resuscitation in a  timely and efficient 
+manner. After successfully preventing drowning or some 
+other injury that might occur in the swimming pool, until 
+the arrival of professional medical help, properly provided 
+first aid and resuscitation are essential and can save a  life. Watersports in swimming pools are considered healthy 
+and are always recommended for children and adults as 
+a form of recreation. Each sport has its specifics by which 
+it is recognizable and, as such, is attractive to a  particular 
+subset of the general population. A  large number of chil -
+dren are involved in swimming because it has a positive 
+effect on their growth and development. There is a pos-
+sibility of drowning during swimming training, so swim -
+mers and coaches must be careful.  Other injuries that can 
+occur are a consequence of the structure of the movements 
+performed by swimmers. In all activities in which specific 
+movements are performed in a much larger number than 
+the usual number of repetitions, injuries could occur. In 
+swimming and water polo, the movement structures are 
+similar, thus injuries of the spine, shoulder joint, and knee 
+joint are common. According to some authors, the most 
+common injury in swimmers is a  shoulder injury [1,  2], 
+which occurs in 40–91% of cases [3]. Knee injuries are 
+the second most common in swimming [4]. A  survey of 
+36 competitive swimmers found that 86% of the sample 
+reported at least one episode of sore knees [5]. The spi -
+nal column is also recognized as a location predisposed 
+Author’s address Goran Dimitrić, Faculty of Sport and Physical Education, University of Novi Sad, Ringgold standard institution, 
+Lovćenska 16, Novi Sad 21000, Serbia        dimitrg@gmail.com
+G. Dimitrić et al. 62
+to injuries in elite swimmers. [6] Reported that 33.3% of 
+swimmers who swim the dolphin technique and 22.2% 
+of swimmers who swim the breaststroke technique have 
+experienced back pain. [7] Determined a  50% incidence 
+of back pain for swimmers swimming the butterfly stroke 
+and 47% for breaststroke swimmers. Ear infections are 
+also present as a consequence of the presence of bac -
+teria in swimming pools. In addition to injuries caused 
+by repeating the exact movements of the arms and legs 
+(monostructural sport), all kind of swimmers can be in -
+jured in the pool in other ways as well. A  study of inju -
+ries at swimming pools in Austria, which included 764 
+pool attendants, showed that 19% of injuries were lip in -
+juries and 11.3% were dental injuries [8]. Due to a slip-
+pery floor, running around the pool or pushing by another 
+person can suffer forearm injuries due to a  fall. Injuries 
+caused by diving in the pool are often catastrophic and 
+have long-term consequences for both the injured and 
+their families [9].
+In countries where awareness of the importance of 
+having the knowledge of first aid and its application ex -
+ists, programs are being implemented for parents whose 
+children are enrolled in swimming schools. In the Unit -
+ed States, such program has contributed to improving 
+the knowledge and skills of providing first aid to parents 
+whose children are engaged in swimming. Compared to 
+the level of knowledge of 47.3% at the beginning of the 
+program, the average score immediately after the end 
+of the program was 93.5% (t = –12.176, p < 0.01) [10]. 
+Physical education teachers were examined about their 
+knowledge of first aid for dental injuries [11]. Among the 
+examined teachers, 64% did not know what to do when 
+a tooth fell out, while 43% knew. Although there is a legal 
+obligation that the presence of lifeguards is mandatory at 
+swimmers’ training in Serbia, their presence is noticeable 
+in a very small number of pools. The lifeguards are mostly 
+young people, quite inexperienced, poorly paid, and per -
+haps insufficiently motivated to work in such responsible 
+duty. As adolescents and young people, many lifeguards 
+are unprepared to deal with the responsibility of their posi -
+tions [12]. In such circumstances, it would be of great im -
+portance for swimming coaches in the Republic of Serbia 
+to have theoretical knowledge and skills to provide first 
+aid and CPR when necessary. The aim of this study is to 
+determine the level of knowledge and skills of providing 
+first aid and CPR of swimming coaches.
+Material and methods
+The sample consisted of 59 male coaches (aged 18–50; 
+work experience of 1–30 years), from the Autonomous 
+Province of V ojvodina, who voluntarily participated in 
+the research. According to the coaching experience, there were three groups of coaches. The first group of coaches is 
+the group with the least experience (1–10 years), the sec -
+ond group (11–20 years) with medium experience and the 
+third group (21–30 years) with the most experience. The 
+research had an empirically non-experimental character 
+of the transversal type, in which a non-standardized ques -
+tionnaire was used (Appendix). For the swimming train -
+ing safety in the area of AP V ojvodina, the knowledge and 
+skills of providing first aid and CPR of swimming coaches 
+are of great importance. For the purposes of this research, 
+it was necessary to create a questionnaire. The question -
+naire consisted of questions about having a first aid certifi -
+cate and CPR, experience in providing first aid and CPR 
+and existence of a first aid kit and CPR at the pool where 
+they work. The collected data were processed by the sta -
+tistical program IBM SPSS (20.0), using the Chi-square 
+test with cross-tabulation, with a level of statistical signifi -
+cance p ≤ 0.05. 
+Results 
+Table 1 shows the results of the analysis of whether 
+the knowledge and skills of swimming coaches differ in 
+relation to the years of coaching experience. Statistically 
+significant differences (p = 0.025) regarding the knowl -
+edge of first aid and CPR were found between coaches in 
+relation to their experience. Coaches (N = 12) with experi -
+ence up to 10 years have knowledge of first aid and CPR, 
+while their older colleagues with decades of experience 
+(21 to 30 years) do not have such knowledge. In the group 
+of coaches (N = 17) with coaching experience of 11 to 20 
+years, only two of them knew how to provide first aid and 
+CPR. No statistically significant difference (p = 0.131) 
+was found between the years of coaching experience and 
+their first aid and CPR skills. The most skilled in provid -
+ing first aid were coaches with coaching experience up to 
+10 years, and the least skilled coaches (N = 6) with coach -
+ing experience from 20 to 30 years.
+ It was also determined whether there is a difference in 
+the ability to provide first aid and CPR between coaches 
+who own first aid and CPR certificate and those coaches 
+who do not (Table 2). There was a statistically significant 
+difference (p = 0.006) in the knowledge of first aid and 
+CPR between coaches who have and those who do not 
+have this certificate. The majority of coaches (58.3%), al -
+though they have a first aid certificate and CPR, did not 
+give correct answers in the questionnaire. 
+The results of the research (Table 3) indicated that 
+the largest number of coaches, as many as 71.2%, did 
+not renewed their knowledge of first aid and CPR, and 
+there is a statistically significant difference (p = 0.045) 
+in the knowledge of first aid and CPR between coaches 
+who renewed their knowledge and those who did not. The 
+Are swimming coaches ready to help injured young swimmers? 63
+VariableGroup
+Total
+up to 10 11–20 21–30
+First aid and CPR 
+knowledgeKnowFrequency 12 2 0 14
+% in group 36.4% 11.1% 0% 23.3%
+% total 20.0% 3.3% 0% 23.3%
+Don’t knowFrequency 21 15 9 45
+% in group 63.6% 88.9% 100.0% 76.7%
+% total 35.0% 26.7% 15.0% 76.7%
+TotalFrequency 17 9 59
+% in group 100.0% 100.0% 100.0% 100.0%
+% total 55.0% 30.0% 15.0% 100.0%
+First aid and CPR 
+000skillsKnowFrequency 24 8 6 38
+% in group 72.7% 44.4% 66.7% 63.3%
+% total 40.0% 13.3% 10.0% 63.3%
+Don’t knowFrequency 9 9 3 21
+% in group 27.3% 55.6% 33.3% 36.7%
+% total 15.0% 16.7% 5.0% 36.7%
+TotalFrequency 33 17 9 59
+% in group 100.0% 100.0% 100.0% 100.0%
+% total 55.0% 30.0% 15.0% 100.0%Table 1. Contingency table of knowledge and skills of first aid and CPR in relation to the years of coaching experience of the 
+respondents
+Knowledge: ÷2 = 7.374, p = 0.025; skill: ÷2 = 4.063, p = 0.131.
+VariableGroup
+Total Have Don’t have
+First aid and CPR 
+knowledgeKnowFrequency 10 4 14
+% in group 41.7% 11.1% 23.7%
+% total 16.7% 6.7% 23.7%
+Don’t knowFrequency 14 31 45
+% in group 58.3% 88.9% 76.3%
+% total 23.3% 53.3% 76.3%
+TotalFrequency 24 35 59
+% in group 100.0% 100.0% 100.0%
+% total 39.0% 61.0% 100.0%Table 2. Frequencies of first aid and CPR knowledge responses between coaches who own a first-aid certificate and those who 
+do not
+÷2 = 7.516, p = 0.006.
+G. Dimitrić et al. 64
+majority of coaches (N = 10) who renewed their knowl -
+edge of first aid and CPR, according to the answers given 
+in the questionnaire, did not confirm it (Table 3).
+By analyzing the correct answers from the survey, the 
+skills of providing first aid and CPR to the swimming 
+coach were assessed. As many as 34 coaches would have 
+reacted wrongly if they encountered emergency situations, 
+which were described in the survey. It can be said that the 
+knowledge of swimming coaches about providing first aid 
+and CPR is insufficient.
+In addition to knowledge and skills, successful first 
+aid requires a positive attitude of the coach towards this 
+skill and its continuous improvement. It is expected that 
+the coaches are ready to continuously improve their first 
+aid skills. Positive attitude (desire and will) towards the 
+continuous improvement of knowledge and skills of first 
+aid and CPR, expressed by 57 swimming coaches.
+Discussion
+A survey was conducted on a sample of 59 swimming 
+coaches, who teach children aged 6–18 to swim or conduct 
+a training process on them. The safety of young swimmers 
+in the pools where the tested coaches are employed is low. 
+Most of the coaches (N = 46) reported that there were no 
+first aid kits and CPRs at the pools where they were em -
+ployed, as well as lifeguards during the training. Only 39 
+swimming coaches were certified to provide first aid and 
+CPR. Each respondent confirmed that the safety of swim -
+mers is very important. Out of a total of 59 coaches, 14 of 
+them would know and 38 would be able to provide first 
+aid and CPR. This result is very worrying. Unfortunately, 
+there are many worrying examples. A  questionnaire was 
+conducted on football officials responsible for dealing with injuries, who note that 34 out of 86 examinees had 
+a first aid certificate [13]. In Northern Ireland and the 
+Republic of Ireland, a survey was conducted on physical 
+education teachers and coaches from 450 schools. Based 
+on the analyzed answers, it was determined that 37% of 
+physical education teachers did not renew their knowl -
+edge of first aid [14]. In England, the qualifications and 
+knowledge of first aid among coaches and officials in 
+five non-elite youth sports were determined. It was found 
+that 80% of respondents have an updated first aid certifi -
+cate, but around 50% of total participants did not know 
+how to react properly in “collapsed player” and “choking 
+player” scenario [15]. Survey conducted in Turkey indi -
+cates insufficient level of knowledge about first aid among 
+surveyed preschool teachers [16], primary school teach -
+ers [17], physical education teachers [18], and university 
+sports team coaches [19]. Coaches are important figure in 
+transfering their knowledge and skills to younger and less 
+experienced athletes. 
+The most inexperienced trainers had the most knowl -
+edge in providing first aid and CPR. It could be assumed 
+that younger coaches were trained for the profession of 
+coach, so they are more aware of the importance of the 
+aspect of children’s safety in training. More experienced 
+coaches worked as coaches as additional work, without 
+any training. They did not have the opportunity to acquire 
+knowledge and skills in the field of this research. Know -
+ing that the safety of swimmers is of critical importance, 
+American Red Cross has a program named “Safety train -
+ing for Swim Coaches” and has made it mandatory for 
+every swimming coach across US. This program had the 
+aim to inform swimmers about possible life-threatening 
+situations in the water and around water and techniques 
+and skills to prevent and deal with them [20]. Most of the 
+surveyed coaches work with children, so they would have Table 3. Frequencies of knowledge in first aid between coaches who renew first aid and CPR knowledge and those who do not
+VariableGroup
+Total Renew Don’t renew
+First aid and CPR 
+knowledgeKnowFrequency 7 7 14
+% in group 41.2% 16.7% 23.7%
+% total 11.9% 11.9% 23.7%
+Don’t knowFrequency 10 35 45
+% in group 58.8% 83.3% 76.3%
+% total 16.9% 59.3% 76.3%
+TotalFrequency 17 42 59
+% in group 100.0% 100.0% 100.0%
+% total 28,8% 71,2% 100.0%
+÷2 = 4.017, p = 0.045.
+Are swimming coaches ready to help injured young swimmers? 65
+to master this knowledge and skills from a professional 
+and especially ethical point of view. Possession of a cer-
+tificate implies a level of training in an area. Coaches and 
+administrators have an ethical responsibility to prepare 
+for emergency care situations [21]. The obtained results 
+of this research deny this fact because more coaches with -
+out a first aid certificate and CPR had more knowledge 
+than their colleagues with the mentioned certificate. This 
+result can be a consequence of not using the mentioned 
+knowledge and learned skills or poorly performed first 
+aid and CPR certification renewal. In addition to knowl -
+edge and skills, successful first aid and CPR requires self-
+confidence, courage, and a positive attitude of the coach. 
+A positive attitude could contribute to encouraging and 
+raising the necessary self-confidence to master at least the 
+basic knowledge and skills of first aid and CPR. Most of 
+the swimming coaches included in this research expressed 
+a positive attitude. This indicates that coaches are aware of 
+the risks that can occur in the pool and the importance of 
+having the knowledge and skills in providing first aid and 
+CPR to those who need it. Safety conditions for swimming 
+training on the territory of AP V ojvodina are at a low level, 
+so it would be best to oblige all coaches by law to attend 
+a first aid course and CPR. Swimming coaches do not of -
+ten come to the situation that they have to save someone’s 
+life or provide first aid and CPR, so it would be good to 
+periodically update their knowledge or raise it to a higher 
+level. Even short lessons in CPR could improve self-con -
+fidence of medical and non-medical personnel [22]. The 
+results of this research indicate that most coaches do not 
+renew their knowledge of first aid and CPR. Training on 
+providing CPR for volunteers has been organized in the 
+UK. Six months after the training, of the total sample, only 
+7% managed to perform CPR safely [23]. Failure to renew 
+previously learned knowledge and skills reduces the qual -
+ity of their performance and self-confidence. 
+The limitations of this research are a small number of 
+coaches who agreed to participate in the research and test -
+ing of first aid and CPR skills. A  limitation of this study 
+was the use of a non-standardized questionnaire, which 
+was constructed for our study, so the results obtained can -
+not be compared with similar research. A wide range of 
+coaches age and work experience are llimitation also. 
+Conslusions
+The swimming coaches included in this research did 
+not show enough knowledge and skills in providing first 
+aid and CPR, which makes most of the swimming pro -
+grams unsafe. Lifeguards are present at a small number of 
+swimming pools in AP V ojvodina (Serbia) during swim -
+ming training, and life-threatening situations can occur. 
+Every coach should know how and be able to provide first aid and CPR. It is encouraging that less experienced 
+coaches have better first aid and CPR skills compared to 
+experienced coaches, despite the fact that some of the 
+older coaches have a first aid and CPR certificate. Young 
+swimmers could be safer if their coaches knew how to 
+provide first aid and CPR. By obliging swimming coaches 
+to attend first aid and CPR courses, the safety in swim -
+ming programs would be improved. The knowledge and 
+capability of providing first aid and CPR skills could be 
+a condition for obtaining a national license to work on the 
+pool. 
+Conflict of interest: Authors state no conflict of interest.
+References
+1. Abernethy L., Macauley D., McNally O., McCann S. 
+(2003) Immediate care of school sport injury. Inj. Prev., 
+9(3): 270-273. DOI: 10.1136/ip.9.3.270.
+2. Bak K. (2010) The practical management of swim -
+mer’s painful shoulder: etiology, diagnosis, and treat -
+ment. Clin. J Sport Med ., 20(5): 386-390. DOI: 10.1097/
+JSM.0b013e3181f205fa. 
+3. Barss P., Djerrari H., Leduc B.E., Lepage Y ., Dionne C.E. 
+(2008) Risk factors and prevention for spinal cord inju -
+ry from diving in swimming pools and natural sites in 
+Quebec, Canada: A  44-year study. Accident Anal. Prev ., 
+40(2): 787-797 DOI: 10.1016/j.aap.2007.09.017.
+4. Başer M., Coban S., Taşci S., Sungur G., Bayat M. (2007) 
+Evaluating first-aid knowledge and attitudes of a sample 
+of Turkish primary school teachers. J. Emerg. Nurs ., 
+33(5); 428-432. DOI: 10.1016/j.jen.2006.11.003.
+5. Brushoj C., Bak K., Johannsen H.V ., Fauno P. (2007) 
+Swimmers’ painful shoulder arthroscopic findings and 
+return rate to sports. Scand. J. Med. Sci. Sport , 17(4): 
+ 373-377. DOI: 10.1111/j.1600-0838. 2006.00571.x.
+6. Capaci K., Ozcaldiran B., Durmaz B. (2002) Musculoskel -
+etal pain in elite competitibe male swimmers. Pain Clinic , 
+14: 229-234. DOI: 10.1163/156856902320761432.
+7. Cunningham A. (2002) An audit of first aid qualifica -
+tions and knowledge among team officials in two English 
+youth football leagues: a preliminary study. Br. J. Sport 
+Med., 36: 295-300. DOI: 10.1136/bjsm.36.4.295.
+8. Dincer, C., Atakurt, Y ., Simsek, I. (2000) A study on the 
+lever of the first aid knowledge educators working in pre -
+schools. Journal of Ankara University Faculty of Medi -
+cine, 53(1): 31-38. (In Turkish). 
+9. Drori A., Mann G. Constantini N. (1996) Low back pain 
+in swimmers: is the prevalence increasing? In: The 12th 
+International Jerusalem Symposium on Sports Injuries; 
+Tel Aviv, Israel.
+10. Kobras M., Langewand S., Murr C., Neu C., Schmid J. 
+(2016) Short lessons in basic life support improve self-
+G. Dimitrić et al. 66
+assurance in performing cardiopulmonary resuscitation. 
+World Journal of Emergency Medicine, 7(4): 255-262. 
+DOI: 10.5847/wjem.j.1920-8642.2016.04.003.
+11. Korkusuz F., Tüzün M., Saraç L. (2005) First aid knowl -
+edge of physical education teachers. The ICHPER-SD 
+Annivarsary World Congress, Istanbul, 2005, November, 
+9-13.
+12. Lechner K., Connert T., Kühl S., Filippi A. (2017) Lip and 
+tooth injuries at public swimming pools in Austria. Dent. 
+Traumatol ., 33(3): 214-220. DOI: 10.1111/edt.12331.
+13. McCarrison R., Ren D., Woomer G.R. Cassidy B. (2017) 
+Evaluation of a Self-Instructional CPR Program for 
+Parents With Children Enrolled in Community Swim 
+Lessons. J. Pediatr. Health Car ., 31(3): 314-319. DOI: 
+10.1016/j.pedhc.
+14. Morgan C.L., Donnelly P.D., Lester C.A., Assar D.H. 
+(1996) Effectiveness of the BBC’s 999 training road -
+shows on cardiopulmonary resuscitation: video perform -
+ance of cohort of unforewarned participants at home 
+six months afterwards. BMJ (Clinical research ed.), 
+313(7062):  912-916. DOI: 10.1136/bmj.313.7062.912.
+15. Newman L.J., Crawford P.J. (1991) Dental injuries: “first 
+aid” knowledge of Southampton teachers of physical ed -
+ucation. Dent. Traumatol ., 7(6): 255-258. DOI:10.1111/
+j.1600-9657.1991.tb00213.x. 
+16. Robertello K., Barnes J., Stoll S. (2009) Ethical responsi -
+bilities of coaches in emergency care situations: are you 
+prepared? Western Society Review , 36.
+17. Rodeo S.A. (2004) Swimming. In: Krishnan S.G., 
+Hawkins R.J., Warren R.F. (eds.), The shoulder and the 
+overhead athlete. Philadelphia, PA: Lippincott: Williams 
+& WIlkins, p. 350.18. Rupp S., Berninger K., Hopf T. (1995) Shoulder prob -
+lems in high level swimmers: impingement, anterior in -
+stability, muscular imbalance? Int. J. Sports Med ., 16(8): 
+557-562. DOI: 10.1055/s-2007-973054.
+19. Schwebel D.C., Jones H.N., Holder E. Marciani F. (2010) 
+Lifeguards: A  Forgotten Aspect of Drowning Prevention. 
+J. Inj. Violence Res ., 2(1): 1-3. DOI: 10.5249/jivr.v2i1.32.
+20. Sein M.L., Walton J., Linklater J., Appleyard R., Kirk -
+bride B., Kuah D. Murrell G.A. (2010) Shoulder pain in 
+elite swimmers: primarily due to swim-volume-induced 
+supraspinatus tendinopathy. Br. J. Sport Med ., 44(2): 
+105-113. DOI: 10.1136/bjsm.2008.047282.
+21. The American Red Cross. (2008) “Safety Training for 
+Swim Coaches”. Retrived from https://www.redcross.
+org/content/dam/redcross/atg/PDFs/Take_a_Class/
+STSC_Supplement_071913.pdf.
+22. Tüzün M., Saraç L. (2005) A  descriptive study on the 
+knowledge of first aid among university sports team 
+coaches. Universiade 2005 İzmir FISU Conference. 
+12–14 August, Ege University Ataturk Cultural Center, 
+İzmir, Turkey.
+23. Whitaker J., Cunningham A., Selfe J. (2007) A  study to 
+determine the extent of first aid qualifications and knowl -
+edge among team officials in non-elite youth sport in 
+England. Int. J. Emerg. Med ., 3(2).
+Received 21.09.2021
+Accepted 06.11.2021
+© University of Physical Education, Warsaw, Poland

@@ -1,0 +1,523 @@
+Ecology of drowning risk at a public swimming pool☆
+David C. Schwebela,⁎, Jennifer Simpsonb, Sydneia Lindsaya
+aDepartment of Psychology, University of Alabama at Birmingham, 1300 University Blvd, CH 415, Birmingham AL 35294, USA
+bDepartment of Psychology, Northwestern University, USA
+Received 14 October 2006; received in revised form 31 December 2006; accepted 29 January 2007
+Available online 30 May 2007
+Abstract
+Introduction: The fourth-leading cause of death in middle childhood is drowning, but there is remarkably little known about swimmer or
+lifeguard behavior patterns at public swimming pools. Method: This study used non-intrusive obserxvational methodology to examine risk-
+taking by swimming patrons (predominantly children) and surveillance habits of lifeguards at a public swimming pool. The study also
+examined whether risk-taking behavior might be associated with density of swimmers, temperature, or lifeguard behaviors. Results: Results
+suggested risk-taking behavior was common, with dangerous incidents observed over 90 times per hour. Particularly high were rates of
+running on the deck, which exceeded 100 incidents per hour near the deepest water of the pool, and jumping into the water dangerously close
+to other swimmers, which was witnessed about once every two minutes in the shallow water of the pool. Lifeguards tended to scan the pool
+well, and remain attentive to the areas under their responsibility, but they were distracted about 10 times per hour and warned patrons only
+about once for every 14 dangerous incidents observed. Conclusions: No consistent correlates to risk-taking behavior by swimming pool
+patrons were identified. Results are discussed with respect to previous findings and implications for intervention. Impact on Industry: Findings
+emphasize the need to increase awareness and adherence to safety rules by swimmers at swimming pools; to educate and remind lifeguards a bout
+proper swimming pool surveillance techniques; and to consider environmen tal changes at public swimming pools t hat might increase swimmer safety.
+© 2007 National Safety Council and Elsevier Ltd. All rights reserved.
+Keywords: Drowning; Lifeguards; Risk-taking; Safety; Swimming
+1. Introduction
+Among the more popular summer recreational activities
+for children in the United States and much of the world isswimming. In general, swimming offers healthy and
+enjoyable exercise, but it also includes risk for drowning
+injury. In fact, among American children in middle
+childhood (ages 5 –11), drowning is the fourth leading
+cause of death overall (following motor-vehicle crashes,
+malignant neoplasms, and congenital anomalies). Among
+children of all ages, drowning is the second-leading cause of
+unintentional injury death in the United States ( National
+Center for Injury Prevention and Control [NCIPC], 2006 ).
+Despite the public health burden of drowning incidents,
+remarkably little is known about the process of drowning —
+especially in public swimming pools, where drownings are
+rare but highly visible and emotionally disturbing events.
+This study was developed to study the patterns of risk and
+prevention at a public swimming pool. Non-intrusive obser-
+vational methodology was used to measure two critical
+behavior patterns: risk-taking by swimming patrons and
+surveillance habits of the lifeguards.Journal of Safety Research 38 (2007) 367 –372
+www.nsc.org
+☆The second and third authors contributed equally to the research, and
+their authorship order was determined by coin toss. Thanks to Betty Masur,
+Bee Lewis, and Miriam Sokol of the JCC in Birmingham for their
+permission to work at the swimming pool and their patience with our
+requests and protocol. We thank Don Sanders, Assistant Director of the
+UAB Campus Recreation Center and Director of UAB Aquatics, for his
+insights and input. This study was funded by the UAB School of Social and
+Behavioral Sciences and Department of Psychology, and by the McNair
+Scholars Program. Communication should be directed to David C.
+Schwebel, Department of Psychology, University of Alabama at Birming-
+ham, 1300 University Blvd., CH 415, Birmingham, AL 35294 or by e-mail
+toschwebel@uab.edu .
+⁎Corresponding author. Tel.: +1 205 934 8745; fax: +1 205 975 6110.
+E-mail address: schwebel@uab.edu (D.C. Schwebel).www.elsevier.com/locate/jsr
+0022-4375/$ - see front matter © 2007 National Safety Council and Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jsr.2007.01.010
+The study had three primary objectives. First, we sought to
+quantify the risk-taking behavior swimming pool patrons –
+who were predominantly children –engaged in during their
+time at the pool. Second, we sought to quantify the surveillance
+behavior of lifeguards, to identify the extent to which they are
+distracted, the frequency of scanning the areas within their
+responsibility, and the extent to which they issue warnings to
+pool patrons. Third, we examined factors that might be related
+to risky behaviors at a pool. Is there more risk-taking during
+days when the pool is crowded? On hot days? When lifeguards
+are distracted? Each of the three objectives was accomplished
+through non-intrusive observational study of daily behavior at
+the pool.
+2. Methods
+2.1. Setting and Sample
+The study took place at an outdoor public swimming pool
+located in a Jewish Community Center (JCC) in Birming-
+ham, Alabama. The pool was open to the public but required
+a membership for entry; the patrons were disproportionately
+(about 50%) Jewish and almost all (about 95%) Caucasian.
+The pool was physically designed in a “U”-shape and cov-
+ered approximately 6,000 square feet. Between two and five
+lifeguards monitored the pool simultaneously from three
+tower-chairs and various deck stations, depending on the
+number of swimmers and various other factors.
+Observational data collection was timed to coincide with
+the busiest times at the pool, when children attending summer
+camps used the pool along with the public. On average, there
+were 60.81 people in the pool during observations ( SD=
+16.44; 92% of those individuals were children) and 20.97
+more people on the pool's deck ( SD=10.05; 60% children).
+Fourteen lifeguards worked at the swimming pool on a
+rotating basis. During observational times, there were typ-
+ically about five lifeguards on duty, serving in a rotational
+pattern with three or four actively watching the pool and the
+remainder taking a break. The lifeguards were a mean of
+20.50 years old ( SD=3.65, range=16 to 30), had a mean of
+5.11 years of lifeguarding experience ( SD=3.59, range=2 to
+15), and included eight women and six men. All but one
+were Caucasian.
+2.2. Protocol
+As part of a larger intervention study ( Schwebel, Lindsay, &
+Simpson, in press ), observational data were collected at the
+swimming pool four days per week, matching the busiest
+times in the pool. Data collection was cancelled when the
+pool was closed due to inclement weather. This report con-
+siders only pre-intervention data, and therefore represents
+typical behavior at the pool, prior to contamination from the
+intervention.
+In total, 20 days of pre-intervention observation were
+available, which is equivalent to roughly 70 hours of pool-observation, over 4,200 hours of individual swimmer ob-
+servation, over 1,500 hours of individual observation of
+patrons on the deck, and about 300 hours of individual
+lifeguard observation.
+For ethical reasons, lifeguards were informed at the start
+of the season that they might be observed by behavioral
+researchers, but were unaware of when observations were
+scheduled or occurring. Swimmers were unaware of the
+ongoing research program. Researchers completing the
+coding were young, dressed in swimming attire, and at-
+tempted to “blend in ”to the crowd at the pool. No empirical
+data on the success of blending were recorded; anecdotally, it
+appeared that lifeguards were occasionally aware of the
+active observations but usually not; swimmers appeared not
+to be aware of the ongoing research.
+2.3. Coding Patterns
+Two coders independently collected data. One coder
+rotated through three clearly defined sections of the pool,
+recording patron risk-taking in three-minute segments, and
+then began coding each lifeguard present for three minutes
+each in a counter-clockwise manner around the pool. At the
+end of those rotations, the number of children and adults in
+the pool and on the deck were recorded, and then the cycle
+began anew. The second coder followed the same pattern,
+but began with lifeguards and then switched to the sections
+of the pool, creating a situation whereby the coders rarely
+overlapped in their observations. Rotation times were indi-
+cated by a vibrating wristwatch, and coding was postponed
+for 10 minutes every hour, coinciding with lifeguard breaks
+(during those 10 minutes, only individuals over age 18 were
+permitted to swim); weather conditions were recorded during
+those break times.
+The three non-overlapping sections of the pool were as
+follows: the shallow area, which was where most young
+children swam and played, and which progressed from 3 to
+3.5 feet deep; the “middle depth ”area, which progressed
+f r o ma b o u t3f e e t ,4i n c h e st o4f e e t ,2i n c h e sd e e pa n dw a s
+an area where many older children swam, played games,
+and threw balls; and the deep area, which was 12.5 feet
+deep, and included three diving boards. Observation of each
+area encompassed the water as well as the surrounding deck
+areas.
+Inter-coder reliability was established during the first
+week of the study, during which observations were
+conducted simultaneously but independently. Reliability
+was excellent (all rsN.80, and 8 out of 9 rsN.90 for con-
+tinuous measures; kappa=1.00 for the single categorical
+measure).
+2.4. Measures
+While observing risky patron behavior in the three areas
+of the pool, coders tallied incidents of five types of dan-
+gerous behaviors: (a) pushing people under the water ,368 D.C. Schwebel et al. / Journal of Safety Research 38 (2007) 367 –372
+defined as one individual pushing another under water in an
+angry, aggressive, or malicious manner; (b) dangerous
+diving , defined as diving head-first into a shallow area of
+the pool; (c) aggressive acts , defined as behavior including
+hitting another person with hands or toys, throwing objects
+angrily at other people, or pushing people; (d) jumping into
+the water near someone else , defined as jumping into the
+water within an arms' reach of another person; and (e) run-
+ning on the deck , defined as having both feet off of the
+ground simultaneously while running to jump into the water,
+get to the diving board, or get elsewhere. These behaviors
+were chosen because they are among the primary riskbehaviors addressed in lifeguard training manuals (e.g.,
+American National Red Cross, 2001 ), although there is no
+empirical research definitively linking the behaviors to
+drowning incidents.
+Lifeguard observations occurred in a rotating counter-
+clockwise pattern, and included observation of all lifeguards
+on duty at that time. Four behaviors were coded: (a) looking
+at the pool , which was scored at a single moment, imme-
+diately after the wristwatch vibrated, as a binary measure —
+whether the lifeguard was looking toward his or her ap-
+pointed area or was distracted and looking elsewhere;
+(b)distractions , defined as intervals when the lifeguards'Table 1
+Descriptive Data and Repeated Measures ANOVA Comparisons
+Measure Pool Average Shallow End Middle Area Deep End F
+Descriptive Data
+Children in Pool 59.66 (15.80) 34.36 (7.49) 19.13 (5.95) 9.86 (4.36) 93.73 ⁎⁎
+Adults in Pool 4.38 (1.89) 1.42 (0.77) 2.31 (0.97) 1.00 (0.84) 11.48 ⁎⁎
+People on Deck 23.48 (12.15) ––– –
+Temperature (degrees F) 90.60 (4.36) ––– –
+Patron Behaviors
+Running 65.81 (19.26) 58.26 (25.76) 37.41 (17.62) 103.85 (64.57) 11.54 ⁎⁎
+Pushing Under 3.42 (3.38) 3.96 (5.95) 4.78 (7.08) 1.94 (4.16) 1.33
+Jumping Near Others 19.63 (15.92) 35.65 (36.93) 12.54 (15.09) 9.49 (13.28) 6.52 ⁎⁎
+Diving into Shallow Water 0.04 (0.19) 0.00 (0.00) 0.13 (0.57) – 1.00
+Aggression 2.47 (2.97) 1.50 (2.97) 1.67 (2.95) 3.89 (6.57) 0.95
+Composite 91.37 (25.59) 99.36 (49.87) 56.54 (28.10) 119.18 (64.63) 6.67 ⁎⁎
+Lifeguard Behaviors
+Looking (1=yes, 2=no) 1.09 (0.12) ––– –
+Distraction 9.78 (3.97) ––– –
+Scanning 369.49 (64.43) ––– –
+Warnings 12.77 (9.51) ––– –
+Note. All behavioral measures are frequency per hour, except the bivariate lifeguard looking measure. df=2, 34.
+⁎⁎pb.01.
+Table 2
+Correlation Matrix, Full Pool
+Measure 2 3 4 5 6 7 8 9 10 11 12 13 14
+Descriptive Data
+1. Children in Pool .27 .39 .50 ⁎ .09 .42+ .31 .07 −.07 .31 −.01 −.22 −.06 .39+
+2. Adults in Pool −.17 .65 ⁎⁎ .11 .21 .02 −.10 −.26 .09 .48 ⁎ .19 .08 .03
+3. People on Deck −.06 .16 −.39 .78 ⁎⁎ .29 −.24 .55 ⁎ −.25 −.20 −.29 .78 ⁎⁎
+4. Temperature (F) .27 .14 −.01 −.09 .19 .23 .23 −.07 −.08 .07
+Patron Risky Behaviors
+5. Running −.14 .13 −.00 −.14 .80 ⁎⁎ −.23 .56 ⁎ .10 .10
+6. Pushing Under −.24 −.12 .11 −.11 .12 −.18 .05 −.02
+7. Jumping Near Others .33 −.13 .67 ⁎⁎ −.14 −.01 .02 .74 ⁎⁎
+8. Diving, Shallow Water .07 .21 .31 −.16 .44+ .13
+9. Aggression −.06 .08 −.32 .21 −.18
+10. Composite −.23 .35 .12 .51 ⁎
+Lifeguard Behaviors
+11. Looking .16 .43+ −.38+
+12. Distraction .19 −.26
+13. Scanning −.36
+14. Warnings
+Note. df =18.
+⁎⁎pb.01.⁎pb.05. + pb.10.369 D.C. Schwebel et al. / Journal of Safety Research 38 (2007) 367 –372
+attention was distracted away from the target area for
+5 seconds or more (e.g., talking to a patron or other lifeguard,
+eating or drinking, applying sunscreen, etc.); (c) warnings ,
+defined as verbal or whistled warnings delivered to a patron
+or patrons in an attempt to curtail dangerous or risky be-
+havior; and (d) scans , defined based on Harrell's (1999)
+criteria as the movement of the lifeguards' gaze from one
+section of the pool to another, and evidenced by the shifting
+of the head. These behaviors were chosen because they have
+been linked to risk of patron drowning in previous empirical
+research ( Branche & Stewart, 2001; Study Shows Life-
+guards, 2002 ).
+3. Results
+Descriptive data concerning risky patron behaviors were
+examined first (see Table 1 ). Included in the descriptive analysis
+was a repeated measures ANOVA comparing measures in the
+shallow, middle, and deep depth areas of the pool.
+On average, there were almost 60 children in the pool at
+once. The children spent time in all parts of the pool, but
+were concentrated most in the shallow end. There were very
+few adults (on average, 4.38) in the pool during observa-
+tions. Since lifeguards are charged with protecting the safety
+of individuals on the pool deck as well as people in the pool,
+we also counted patrons on the deck; there was an average of
+23.48 people on the deck during our observations.
+Dangerous patron behaviors were surprisingly common.
+In fact, we observed patrons running on the deck more than
+once per minute, we witnessed dangerous jumps near other
+swimmers about once every three minutes, and we saw
+patrons pushing others under water and acting in aggressive
+manners a few times per hour each. A composite measure of
+all dangerous behaviors summed yielded a total of 91.37
+dangerous behaviors per hour. The dangerous behaviors
+occurred in all parts of the pool, but were most common in
+the deep end (especially running on the deck) and shallow
+end (especially running on the deck and jumping into the
+water too close to other swimmers).
+Table 1 also shows descriptive data concerning the
+lifeguards. The lifeguards warned swimmers about danger-
+ous behavior, on average, 12.77 times per hour. Stated
+differently, the lifeguards issued a warning roughly once for
+every 14 dangerous behaviors we witnessed. As to the
+lifeguards' tendency toward distraction, they were generally
+looking at their appointed area, but we did catch almost 10
+distractions per hour, suggesting attention was not optimal.
+Scanning behavior was strong, with lifeguards scanning their
+eyes over 360 times per hour (roughly once every
+10 seconds). Lifeguard measures were not available for
+specific areas of the pool because the areas of the pool that
+particular lifeguards were responsible for changed regularly,
+depending on the number of lifeguards on duty. Lifeguard
+domains of responsibility also overlapped with each other (as
+recommended by the American Red Cross), and therefore
+could not be measured independently.Our third research objective was to assess whether risky
+patron behavior at a swimming pool might be related to
+lifeguard behavior, the number of people present, or the
+weather. Table 2 illustrates a correlation matrix between all
+measures of the full swimming pool. Several expected
+relations emerged. For example, there were more people in
+the pool on hotter days. Most of the correlations, however,
+were not significant. The number of children in the pool was
+not associated with changes in risky patron behavior, and
+was only moderately associated with decreased distraction
+and increased warnings by lifeguards. The number of people
+on the deck was associated with increased patron running
+and with more lifeguard warnings, perhaps because people
+on the deck were running more often. Lifeguard warnings
+were associated with more frequent dangerous jumps into the
+Table 3
+Correlation Matrix, By Area in the Pool
+Measure 2 3 4 5678 9
+1. Children in Pool
+Shallow −.22 .15 .18 .04 .45+ – −.21 .41+
+Middle .06 .31 .24 .18 .19 −.02 .57 ⁎ .35
+Deep .61 ⁎⁎ .44+ .07 .04 .29 – −.25 .10
+2. Adults in Pool
+Shallow .44 ⁎−.33 .07 −.38+ – .28 −.43+
+Middle .47 ⁎−.14 .04 .24 .08 −.04 .05
+Deep .46+ −.17 −.17−.04 – −.15 −.20
+3. Temperature (F)
+Shallow −.35 .14 .04 – .20 −.12
+Middle −.31 −.01−.02 −.10 .31 −.18
+Deep .55 ⁎ .11−.14 – .04 .53 ⁎
+4. Running on Deck
+Shallow −.23 .37 – .03 .74 ⁎⁎
+Middle .26 .08 .30 .06 .75 ⁎⁎
+Deep .14 −.12 – −.11 .97 ⁎⁎
+5. Pushing Others Under Water
+Shallow −.37 – .48⁎−.25
+Middle .15 −.16 .11 .51 ⁎
+Deep −.05 – .45+ .23
+6. Jumping Near Others
+Shallow – −.06 .87 ⁎⁎
+Middle −.01 .45+ .67 ⁎⁎
+Deep – −.20 .07
+7. Diving into Shallow Water
+Shallow ––
+Middle −.14 .15
+Deep − –
+8. Aggression
+Shallow .09
+Middle .41+
+Deep −.02
+9. Risky Behavior Composite
+Note. df =16–18.
+⁎⁎pb.01.⁎p≤.05. + pb.10.370 D.C. Schwebel et al. / Journal of Safety Research 38 (2007) 367 –372
+pool, but not to other risky behaviors. Temperature was
+unrelated to any behavioral measures.
+We also examined correlations between measures within
+parts of the pool (see Table 3 ). As shown, the results
+corresponded to data from the entire pool reasonably well.
+In the shallow end, more dangerous jumping was witnessed
+when more children were present —not surprising since a
+greater density of people would create fewer safe jumping
+areas. In the middle depths, more aggression was witnessed
+when more children were present; again, this may be the
+result of increased density in that area. In the deep end of
+the pool, there was more running observed with hotter
+temperatures.
+4. Discussion
+This study had three primary objectives. First, we sought
+to understand the extent of risk-taking that takes place
+in public swimming pools. Results revealed substantial
+amounts of risk-taking. In particular, the extent of running on
+the deck (which exceeded 100 incidents per hour in the deep
+end of the pool) and jumping into the water dangerously
+close to others (about once every two minutes in the shallow
+part of the pool) were alarmingly high. The composite mea-
+sure suggested a pool average of dangerous incidents occur-
+ring over 90 times per hour. Further, the highest rate of risk-
+taking (almost 120 incidents/hour) was in the deeper end of
+the pool, where there were the fewest patrons swimming.
+The shallow end of the pool, which was the most crowded,
+had a rate of risky behavior around 100 incidents/hour and
+the middle depths the lowest rate (56 incidents/hour).
+The second objective of the study was to quantify life-
+guard behaviors. Here, we discovered some encouraging
+news. Lifeguards tended to be looking at their appointed
+areas and demonstrated frequent scanning behavior. In fact,
+the average scanning rate among our lifeguards was nearly
+10 times that reported previously ( Harrell, 1999 ). We did
+note about 10 incidents of lifeguard distraction per hour,
+however, which is contrary to lifeguard training guidelines
+from the American National Red Cross (2001) and a topic
+that should be addressed in intervention research. Lifeguards
+issued almost 13 warnings per hour to swimming pool pa-
+trons, many more than we anticipated based on previous
+research ( Harrell, 2001 ), but still disproportionate to the
+number of dangerous incidents witnessed.
+The study's third objective was to explore whether
+number of people in the pool, lifeguard behaviors, or tem-
+perature might be related to risk-taking by swimming pool
+patrons. Among the more consistent findings were relations
+between number of children in particular parts of the pool
+and dangerous behaviors there —when density of swimmers
+increased, dangerous behaviors also increased. There was a
+scattering of significant cor relations between lifeguard
+behaviors and risky swimming, but no consistent pattern of
+relation emerged. We also did not discover any consistent
+relations between temperature and risk-taking.In general, our findings did not correspond well to those
+reported previously by Harrell (1999, 2001, 2003) . This was
+particularly true of lifeguard scanning. Harrell reported
+negative correlations between scanning and number of
+swimmers ( Harrell, 1999 ) and between duration of looking
+at the pool and number of children swimming ( Harrell,
+2003 ); we failed to replicate these relations. There are a few
+possible explanations for the discordance in the research
+findings. Our pool was over twice the size of the average
+pool in Harrell's (1999) research, was located outside, and
+included more children and many fewer adults swimming.
+The populations were also different (indoor pools in Calgary
+vs. outdoor pool in Birmingham).
+4.1. Implications for Prevention
+Drowning remains a serious threat to children, even in
+public swimming areas that are lifeguarded ( Branche &
+Stewart, 2001 ). The results of this study suggest that patron
+risk-taking is alarmingly high at public swimming pools.
+Although lifeguard behaviors we witnessed were reasonably
+encouraging, there is still much room for improvement to
+prevent drowning incidents. Intervention efforts should
+target at least three domains: swimmers, lifeguards, and
+swimming environments.
+Results from this study suggest many swimmers are either
+unaware or neglectful of pool rules. Training on safe swim-
+ming habits should be a priority for lifeguards, especially
+when dealing with young children who may not have the
+capacity to learn and remember rules easily ( Morrongiello,
+Midgett, & Shields, 2001 ) and with excited, impulsive, or
+active children who may neglect rules that they understand
+(Schwebel & Barton, 2006 ). Lifeguards should be encouraged
+to rotate frequently to reduce the tendency toward distraction.
+Pool administrators should offer frequent reminders to life-
+guards about the importance of properly scanning the pool
+and reducing distraction tendencies ( Schwebel et al., in press ).
+Also important, based on the present results, is the need for
+lifeguards to warn patrons about dangerous activities. The
+present data suggest lifeguards only intervene for 1 out of 14
+dangerous behaviors that occur.
+Finally, environmental changes at swimming pools might
+improve safety. Harrell (1999) found the lifeguards scanned
+better while sitting in towers than while standing on the deck.
+Ropes dividing shallow and deep water areas are recom-
+mended (e.g., Association of Pool and Spa Professionals,
+2005 ). Emergency lifesaving supplies should be readily
+accessible, and frequent breaks offered to both swimmers
+and lifeguards.
+4.2. Limitations and Conclusions
+This study represents an initial glimpse at behavior pat-
+terns by swimmers and lifeguards at a public swimming
+pool. Despite the study's strengths –rich observational data
+collected over substantial periods of time in a poorly371 D.C. Schwebel et al. / Journal of Safety Research 38 (2007) 367 –372
+understood domain of knowledge –it also suffered from a
+few limitations. First, only observational data were available.
+Basic descriptive data of the swimmers are unavailable and,
+perhaps more important, we do not have detailed behavioral
+data, an understanding of motivations for lifeguard or patron
+behavior, or a full analysis of potential correlates to the
+behaviors studied.
+Second, we measured behaviors believed to be associated
+with drowning risk rather than actual drownings and near-
+drownings. Although public swimming pool drownings are a
+significant public health burden when considered broadly,
+drownings are rare events at individual pools. Most swim-
+ming pools have no drownings over the course of several
+summer seasons, and we witnessed no drownings or near-
+drownings during our observations. The patron behaviors we
+studied were selected because they are the behaviors targeted
+by most lifeguards, but there is only anecdotal evidence that
+they are directly related to injury or drowning incidents. If
+there is a link, the probability that any single instance of
+dangerous behavior would lead to an injury or a drowning
+incident is quite low.
+Unlike the patron behaviors we recorded, lifeguard
+surveillance behaviors are linked to drowning risk in a few
+small-scale empirical studies ( Branche & Stewart, 2001;
+Study Shows Lifeguards, 2002 ), but that link remains poorly
+understood. Future research is needed to consider both
+swimmer and lifeguard behaviors that serve as precursors to
+actual drowning or near-drowning incidents, perhaps via
+round-the-clock videotaping of pool activity in several
+swimming areas.
+A third limitation of this study is the poor statistical power
+available for inferential analyses. The correlation matrices
+presented in this article are valuable, but must be interpreted
+cautiously. Multiple tests were conducted, and Type I error
+inflated. Power to detect a large effect size in a correlation
+with N=20 is only .69; power to detect small and medium
+effect sizes is even poorer.
+In conclusion, this study presents heretofore uncollected
+data on the ecology of patron and lifeguard behavior at a
+public swimming pool. Drowning represents the second-
+leading cause of unintentional injury death during middle
+childhood, and the development of intervention techniques
+must be educated by an understanding of behavioral risks
+such as those reported.
+References
+American National Red Cross (2001). Lifeguard training. Yardley, PA:
+StayWell.
+Association of Pool and Spa Professionals (2005). The sensible way to enjoy
+your inground swimming pool. Alexandria, VA: Author.Branche, C. M. & Stewart, S. (Eds.). (2001). Lifeguard effectiveness:
+A report of the working group Atlanta: Centers for Disease Control and
+Prevention, National Center for Injury Prevention and Control.
+Harrell, W. A. (1999). Lifeguards' vigilance: Effects of child-adult ratio and
+lifeguard positioning on scanning by lifeguards. Psychological Reports ,
+84, 193−197.
+Harrell, W. A. (2001). Does supervision by a lifeguard make a difference in
+rule violations? Effects of lifeguards' scanning. Psychological Reports ,
+89, 327−330.
+Harrell, W. A. (2003). An information theory analysis of duration of
+lifeguards' scanning. Perceptual and Motor Skills ,97, 129−134.
+Morrongiello, B. A., Midgett, C., & Shields, R. (2001). Don't run with
+scissors: Young children's knowledge of home safety rules. Journal of
+Pediatric Psychology ,26, 105−115.
+National Center for Injury Prevention and Control [NCIPC]. (2006). WIS-
+QARS™(Web-based Injury Statistics Query and Reporting System).
+Retrieved September 22, 2006, from http://www.cdc.gov /ncipc/wisqars/
+Schwebel, D. C., & Barton, B. K. (2006). Temperament and children's
+unintentional injuries. In M. Vollrath (Ed.), Handbook of personality
+and health (pp. 51 −71). New York: Wiley.
+Schwebel, D. C., Lindsay, S., & Simpson, J. (in press). Brief report: A
+brief intervention to improve lifeguard surveillance at a public
+swimming pool. Journal of Pediatric Psychology .
+Study shows lifeguards can't see everything, always. (2002). Parks &
+Recreation ,37(2), 70 −72.
+David C. Schwebel , Ph.D., is Associate Professor and Vice Chair in the
+Department of Psychology at University of Alabama at Birmingham, USA.
+He earned his B.A. from Yale University in 1994 and his Ph.D. from
+University of Iowa in 2000. Trained as a child clinical psychologist, he has
+published widely on psychological aspects of understanding and preventing
+children's unintentional injuries. His research has been funded by CDC,
+DOT, and the Woodrow Wilson Foundation.
+Jennifer Simpson is an undergraduate psychology major at Northwestern
+University, with broad interests in child psychology. She plans to earn her
+PhD in clinical psychology.
+Sydneia Lindsay recently graduated as an undergraduate psychology major
+at University of Alabama at Birmingham, with broad interests in child
+psychology. She is a member of the McNair Scholars Program at UAB.372 D.C. Schwebel et al. / Journal of Safety Research 38 (2007) 367 –372

@@ -1,0 +1,637 @@
+ORIGINAL RESEARCH
+published: 09 June 2021
+doi: 10.3389/fpubh.2021.666019
+Frontiers in Public Health | www.frontiersin.org 1 June 2021 | Volume 9 | Article 666019Editedby:
+CaterinaLedda,
+UniversityofCatania,Italy
+Reviewedby:
+SitiMuniraYasin,
+MARAUniversityof
+Technology,Malaysia
+AngelaStufano,
+UniversityofBariAldoMoro,Italy
+*Correspondence:
+MartinaAnnaMaggioni
+martina.maggioni@charite.de
+†ORCID:
+MartinaAnnaMaggioni
+orcid.org/0000-0002-6319-8566
+StefanMendt
+orcid.org/000-0001-8227-9655
+Specialtysection:
+Thisarticlewassubmittedto
+OccupationalHealthandSafety,
+asectionofthejournal
+FrontiersinPublicHealth
+Received: 09February2021
+Accepted: 15April2021
+Published: 09June2021
+Citation:
+MeratiG,BonatoM,AgnelloL,
+GreversD,GungaH-C,MendtSand
+MaggioniMA(2021)Occupational
+Disorders,DailyWorkload,andFitness
+LevelsAmongFitnessandSwimming
+Instructors.
+Front.PublicHealth9:666019.
+doi:10.3389/fpubh.2021.666019Occupational Disorders, Daily
+Workload, and Fitness Levels Among
+Fitness and Swimming Instructors
+GiampieroMerati1,2,MatteoBonato3,4,LucaAgnello5,DorothéeGrevers6,
+Hanns-ChristianGunga6,StefanMendt6†andMartinaAnnaMaggioni4,6*†
+1DepartmentofBiotechnologyandLifeSciences(DBSV),Univ ersityofInsubria,Varese,Italy,2IRCCSFondazioneDonCarlo
+Gnocchi,Milan,Italy,3IRCCSIstitutoOrtopedicoGaleazzi,Milan,Italy,4DepartmentofBiomedicalSciencesforHealth,
+UniversitàdegliStudidiMilano,Milan,Italy,5IstitutodiMedicinadelloSportdiMilano,Milan,Italy,6Charité–
+UniversitätsmedizinBerlin,CorporateMemberofFreieUni versitätBerlinandHumboldt-UniversitätzuBerlin,Cente rfor
+SpaceMedicineandExtremeEnvironments,InstituteofPhysi ology,Berlin,Germany
+Few data have been published on occupational disorders amon g sports instructors,
+especially regarding those who are expected to continuousl y practice while teaching.
+As the number of sports instructors increases, new speciﬁc i nformation about their
+possibleinjuries,dailyworkload,andﬁtnesslevelsisnee ded.Theaimofthisstudywasto
+assessoccupationaldisorders,cardiorespiratoryﬁtness ,anddailyworkloadofﬁtness(FI)
+and swimming instructors (SI). An online survey addressing occupational disorders was
+conducted among 435 instructors (256 FI and 179 SI). In one su bgroup (57 FI and 42
+SI), cardiorespiratory ﬁtness levels were evaluated using maximal oxygen consumption
+(˙VO2max) as an indicator. Daily workload was assessed by monitoring the heart rate and
+perception of exertion (using the Borg scale). Of the two gro ups, FI exhibited a higher
+2-yearprevalenceofmusculoskeletalinjuriesandSIexper iencedmoreupperrespiratory
+tract infections. ˙VO2maxranged from 47.0 to 51.9 ml ·kg−1·min−1and was similar for
+both FI and SI. Regarding the daily workload, female SI had si gniﬁcantly higher mean
+heart rate and mean heart rate to maximal heart rate ratio com pared to female FI, but
+no signiﬁcant differences between male FI and SI were found. No signiﬁcant differences
+were observed between the perceivedexertion of FI and SI. Pr eventive strategies for the
+reduction of occupational disorders in FI and SI are needed.
+Keywords: occupational disorder, cardiopulmonary assessme nt, rate of perceived exertion, musculoskeletal
+disorders, heart rate monitoring
+INTRODUCTION
+The ﬁtness industry is booming: the last 10 years have shown a rapid increase in the number of
+ﬁtness club members and employees, with almost 750,000 ﬁtnes s employees in Europe alone ( 1).
+In particular, the ﬁtness industry includes both ﬁtness and/ or swimming pool centers. In ﬁtness
+centers,customerscanﬁndlotsofequipmentforcardioandwe ighttrainingorgroupﬁtnessclasses.
+Inswimmingpoolcenters,customerscanﬁnddiﬀerenttypesofsw immingclassesaswellaswater
+aerobicscourses.Fitness(FI)andswimminginstructors(S I)arethetwodiﬀerenttypesoftrainers
+usuallyemployedatthesecenters.FIgenerallylead,instruc t,andmotivateindividualsorgroupsin
+exercise activities, including cardiovascular exercises , strength training, and stretching. Typically,
+Merati et al. Occupational Disorders in Sport Instructors
+FI work with individual clients to design, explain, and
+demonstrate various exercises and routines, or they teach g roup
+classes where they organize and lead ﬁtness lessons lasting 30–
+90min. In these classes, instructors may set the music and
+choreography to exercise sequences, while often also using
+speciﬁc exercise equipment (e.g., stationary bicycles, weig hts,
+etc.). SI generally help people learn how to swim, improve
+swimming skills, and exercise in water. Moreover, they are
+also specialized in teaching water aerobics classes during w hich
+they perform aerobic exercises along with the water-immerse d
+participants. These classes focus on aerobic endurance, crea ting
+anenjoyableatmospherewithmusic.
+Both FI and SI professions are physically demanding. Most
+of the time, FI and SI ﬁnd themselves having to carry out
+the exercises themselves while teaching, and they may work
+nights, weekends, holidays, and may even have to travel to
+diﬀerentgymsortoclients’homestoteachclassesortocondu ct
+personal training sessions. However, despite the numerous
+health-related advantages of physical activity and exercis e, the
+risk of occupational disorders among FI and SI has been poorly
+addressed by academic research. To date, a high prevalence
+of musculoskeletal injuries in FI has been described ( 2–7):
+most of the injuries were to lower arms and lower back
+(12.9%), and they were associated with the number of times per
+week the instructors exercised. No clear relationship betw een
+musculoskeletal disorders and sex has been uncovered thus
+far(7).
+Inadditiontooverallstressonthemusculoskeletalsystem, FI
+and SI actively have to make use of their voices during classe s
+and rely on their voices in a similar way that vocal performers ,
+classroomteachers,salespeople,andothersinvocallydeman ding
+professions do ( 8). FI and SI have reported voice diﬃculties
+that appear to be the result of an interaction between both
+environmentalandphysiologicalstressplacedonthevoicegi ven
+thatspeaking/shoutingandvigorousexerciseoftenhavetoo ccur
+simultaneously during classes ( 9–11). Indeed, for FI and SI the
+voice is an essential professional asset used not only to provi de
+education and direction but also to motivate and encourage
+class participants to persevere ( 12). The vocal eﬀectiveness of
+the instructor has a direct inﬂuence on the satisfaction of c lients
+and keeps them motivated to return. Furthermore, the amount
+and type of verbal motivation required are often driven by the
+ﬁtness genre ( 8). There are also several factors that can add
+additional vocal strain, because instructors often vocali ze with
+musicandothernoisesourcesinthebackgroundandoftentea ch
+in acoustically poor spaces ( 12). As such, several papers found
+thatﬁtnessinstructorsexperiencedmorehoarsenessandepis odes
+of voice loss during and after instructing and had a signiﬁca ntly
+higher prevalence of laryngeal nodules ( 8,9,12). Finally, gender
+was shown to impact the occurrence of vocal disorders with
+femalesbeingmostcommonlyaﬀected( 13).
+Since studies on the occupational disorders experienced by
+FI and SI are limited, the primary purpose of this study was
+to investigate the 2-year prevalence of occupational disorde rs
+experienced by FI and SI employed in various ﬁtness center
+companies through a self-reported questionnaire. In additio n,
+we assessed the ﬁtness levels, workloads, and perceived exer tionduring a typical workday of SI and FI in order to explore the
+possible factors associated with occupational disorders in the se
+occupations. In particular, the possible eﬀects of sex, instruc tor
+type,andyearsofworkexperienceontheobservedoccupational
+disorderswereconsidered.
+METHODS
+Study Design
+Inordertoassessthe2-yearprevalenceofoccupationaldisord ers
+experienced by FI and SI, a retrospective, cross-sectional, se lf-
+reporting study was conducted. Subsequently, to investigat e
+physical ﬁtness and daily workload during a typical workday of
+FIandSI,aprospective,cross-sectional,substudywasperfor med.
+The outcome of the study was the prevalence of occupational
+disorders among FI and SI. We calculated a sample size taking
+the expected proportion of cases from previous literature data
+on musculoskeletal ( 7) and vocal disorders ( 8–11,13) among
+FI. The calculation led to a corresponding number of 270 and
+354 individuals, respectively (which included a predicted 20%
+rejection rate), which was needed to estimate the prevalence of
+musculoskeletalandvocaldisorders.
+Participant Screening
+Participantswererecruitedfromvariousﬁtnesscentersloc atedin
+the North of Italy. These centers employed both FI (e.g., danc e
+aerobics, step aerobics, spinning, pilates, yoga, low-back pa in
+exercise classes, strength training, boxing/kickboxing) and SI
+(e.g.,wateraerobics,swimmingcourses,mother/babyswim ming
+courses).Thequestionnaireswerecollectedfrom2008to20 10by
+activatingthecommunicationchannelsofthesportscenters and
+getting University students of the Faculty of Exercise Scienc es in
+Milan to directly contact their colleagues at the sports cente rs
+where they attended classes. The inclusion criteria were be ing
+an FI or SI instructor and teaching a minimum of one class
+a week. The exclusion criterion was being unable to ﬁll out
+the questionnaire, of which the English translation can be
+found in the SupplementaryMaterial . Potential participants’
+e-mail addresses were provided by the head of each center.
+The responders were contacted by email where they were fully
+informedaboutthestudy’sproceduresandthebeneﬁtsandris ks
+associated with participation. A consent form was sent to the
+participant viae-mail which then had to be signed and e-mailed
+back by the participant. At this point, the online survey was
+e-mailed to the participant who had agreed to participate and
+met the above inclusion criteria. Participants who agreed to also
+participate in the next part of the study (i.e., the physical ﬁtnes s
+assessment) were contacted by phone to organize the laborato ry
+testinganddailyworkloadmonitoring.
+The Online Survey
+The online survey was created according to the guidelines
+provided by Artino et al. ( 14). Subjects were requested to
+complete the survey within a 2-week period. The data retrieved
+from the online questionnaires was subsequently entered in a
+protected database, from which the data was reorganized in
+tabular form for the purpose of descriptive statistics. The surv ey
+Frontiers in Public Health | www.frontiersin.org 2 June 2021 | Volume 9 | Article 666019
+Merati et al. Occupational Disorders in Sport Instructors
+requested information regarding personal physical data as we ll
+as the frequency, duration, and time period (early morning,
+morning, afternoon, or evening) of class participation. For t he
+purposes of this study, all self-reported occupational disorde rs
+related to their work during the last 2 years were asked by
+having the participant answer the following question: “Have y ou
+experienced any occupational disorder as a FI or SI during the
+last 2 years?” ( 7). In the case of a positive response, participants
+had to specify each injury and the type of injury (acute/overus e)
+in accordance with the deﬁnitions provided by a consensus
+statement regarding disorder registration ( 15). A “disorder” was
+deﬁned as any condition causing pain and/or limiting activit y.
+Only those participants who saw a physician for their disorders
+were asked to report a diagnosis. Participants who did not see a
+physician were asked to report the location of the disorder. Th e
+extent of the disorder was examined by contingency question sregardingthelimitation(s)thattheinjuryplacedonactivi ty.The
+surveytook20–25mintoﬁllout.
+Physical Fitness Assessment
+Participants’ physical ﬁtness was assessed using maximal oxyg en
+consumption assessment ( ˙VO2max) in the laboratory of the
+UniversityofMilanuponindividualappointment.
+Thecardiopulmonaryexercisetestingwasperformedafterthe
+physical assessment session during work in order to avoid the
+possible carryover eﬀect of fatigue on the subsequent working
+days. Oxygen consumption ( ˙VO2), carbon dioxide production
+(˙VCO2),andpulmonaryventilation( ˙VE)weremeasuredusinga
+metabolicdeviceonabreath-by-breathbasis(Quarkb2,Cosmed,
+Rome,Italy)duringagradedrampcycleergometertest(Monark
+Ergomedicmod.839E,Monark,Vansbro,Sweden).Alltestswere
+carried out in a well-ventilated laboratory under standard ized
+FIGURE 1 | Study ﬂow diagram.
+Frontiers in Public Health | www.frontiersin.org 3 June 2021 | Volume 9 | Article 666019
+Merati et al. Occupational Disorders in Sport Instructors
+TABLE 1 | Results of whole sample questionnaires regarding demograp hics and
+job characteristics.
+FI SI
+Demographic and general characteristics
+All (n) 256 179
+Men (n, %) 152, 59 75, 41
+Women (n, %) 104, 41 104, 59
+Age (years) 28 ±7 30 ±8
+Height (m) 1.73 ±0.08 1.70 ±0.09
+Body mass (kg) 67.3 ±12.1 64.5 ±11.5
+BMI (kg·m−2) 22.2 ±2.4 22.1 ±2.7
+Job type
+FI/SI as main occupation (%) 41 46
+FI/SI as secondary occupation (%) 59 54
+Career duration
+<5 years (%) 52 41*
+5–10 years (%) 33 31
+>10 years (%) 15 28**
+Weekly working hours
+<10h (%) 51 31**
+10–30h (%) 37 54**
+>30h (%) 12 15
+FI, ﬁtness instructors; SI, swimming instructors. *p<0.05 between groups; **p<0.01
+betweengroups.
+constant ambient conditions (i.e., a temperature of 22 ±2◦C
+and humidity of <70%). The protocol consisted of 3min at 50
+W/min (warm-up and familiarization), followed by an increas e
+of 20W every min until exhaustion. Achievement of ˙VO2max
+was considered as the attainment of at least two of the followi ng
+criteria: (1) a plateau of ˙VO2levels despite increasing speed; (2)
+a respiratory exchange ratio above 1.1; and (3) a heart rate (H R)
+of±10 bpm of age-predicted maximal HR (i.e., 220 −age) (16).
+HR was recorded during the entire test using an HR monitor
+(Polar RS800, Polar Electro, Kempele, Finland). Maximal HR at
+exhaustionwasconsideredasHR max.
+Daily Workload Monitoring
+Each participant was equipped with the HR monitor and
+instructed to wear it during their typical workday for 1 week.
+We then evaluated the day of greatest work commitment of the
+weekforeachindividual,fromwhichweretrievedtheHRduri ng
+the peak 3h of the eﬀective work hours. HR recordings were
+expressed as the percentage of the maximum value (% HR max)
+reachedduringthemaximaloxygenconsumptionassessment.A ll
+the HRs obtained were then compared to the American College
+ofSportsMedicine’srecommendations( 17)forthedevelopment
+ofaerobicﬁtness,whichdeﬁnetherelationshipbetweenwor kHR
+ranges and work intensity. Participants were asked to contin ue
+their normal daily working routine and to maintain their usu al
+dietsduringthemonitoringperiod.Rating of Perceived Exertion Assessment
+The Borg CR100 scale ( 18) was selected to rate the perceived
+exertion of a typical lesson. A verbal-anchored scale was
+provided to the participants who were instructed to use it
+30min after the end of their workday. Each participant was
+preliminary familiarized with the Borg CR100 scale, including
+anchoringprocedures.
+Statistical Analysis
+Respondents with missing data were excluded from the analysis.
+Descriptive statistics (mean ±standard deviation) for the
+outcome measures were calculated. The normality of the
+distribution was checked using the Kolmogorov–Smirnov test .
+Since all anthropometric variables were normally distribute d,
+diﬀerences between male and female FI and SI were checked
+using an unpaired Student’s t-test. A Chi-square test was used
+to compare the questionnaire’s variables of educational lev el,
+professionalinformation,andjobcharacteristicsbetween FIand
+SI groups. Diﬀerences between the perceived exertion after the
+maximally fatiguing workday and the perceived exertion 30min
+after the end of the lessons of FI and SI were studied using the
+Student’s paired t-test. Intra- and intergroup diﬀerences (gender
+×instructortype)for ˙VO2max,HRmean,andHR maxbetweendaily
+workload for FI and SI were checked using two-way analysis of
+variancewithBonferroni’smultiple-comparisontest.Theleve lof
+statisticalsigniﬁcancewassetat p<0.05.Statisticalanalysiswas
+performedusingthesoftwareSTATISTICA(version7.1,StatS oft,
+Tulsa,OK,USA).
+RESULTS
+Participant Screening Results
+The study population included 472 participants of which 435
+instructors completed the online survey, (response rate: 92.2 %).
+Ninety-nine subjects (57 FI and 42 SI) agreed to also participat e
+in the next phase of the study during which their ﬁtness
+level, workload monitoring, and perceived exertion of a typica l
+workday were measured. The design of the study is shown
+inFigure1.
+Online Survey Results
+Table1shows the demographics of the participants. The
+participants in each group were similar in age, height, body
+mass, and body mass index (BMI). Only a small percentage of
+the participants had been active in their profession >10 years.
+The number of weekly work hours was <10h for more than
+half of all FI and between 10 and 30h per week for all SI. The
+presence of preexisting pathologies was not investigated in th is
+study. Most of the participants ( ∼70%) stated that they partake
+in both competitive and/or noncompetitive sports outside of
+their profession for an average of 5.4 ±4.2h per week. In Italy,
+SI and FI are obligated to obtain annual certiﬁcates of good
+healthfromasportsmedicinephysicianinordertopracticethei r
+profession.Theannualvisitincludesanaccuratemedicalhi story,
+anECGatrest(andduringexerciseincaseofagonisticactivi ty),
+aspirometricevaluation,andaclinicalphysicalexamination.
+Frontiers in Public Health | www.frontiersin.org 4 June 2021 | Volume 9 | Article 666019
+Merati et al. Occupational Disorders in Sport Instructors
+FIGURE 2 | The ﬁgure represents the proportion of individuals in the swi mming and ﬁtness instructor groups (SI, swimming instructors ,n=179; FI, ﬁtness instructors,
+n=256), who experienced speciﬁc musculoskeletal injury (A)or other disorders (B)in the last 2 years. * p<0.05 between groups.
+Frontiers in Public Health | www.frontiersin.org 5 June 2021 | Volume 9 | Article 666019
+Merati et al. Occupational Disorders in Sport Instructors
+TABLE 2 | Physiological variables during maximal oxygen consumptio n (˙VO2max)
+assessment and heart rate (HR) data during daily workload mo nitoring of ﬁtness
+instructors (FI) and swimming instructors (SI).
+Parameter Males Females
+FI (n=25) SI ( n=9) FI (n=32) SI ( n=33)
+Exercise test
+HRrest(beats·min−1) 66 ±14 62 ±14 66 ±13 65 ±10
+HRmax(beats·min−1) 186 ±5 186 ±4 187 ±4 187 ±5
+˙VO2max(mL·kg−1·min−1) 51.9±3.7 50.9 ±3.8 48.9 ±3.6 47.0 ±4.0
+Daily HR recording
+HRmean(beats·min−1) 127 ±28 144 ±6 126 ±21 139 ±19*
+HRmean/HRmax 0.69±0.14 0.78 ±0.40 0.68 ±0.11 0.75 ±0.10*
+*p<0.05betweengroups.
+Overall, a total of 621 musculoskeletal disorders and 521
+other types of disorders were reported in the study of 157
+FI (61% of 256 FI who completed the survey) and 155 SI
+(86% of 179 SI who completed the survey), that experienced
+two or more injuries during the last 2 years. Figure2
+illustrates the 2-year prevalence of occupational disorders that
+occurred in the FI and SI careers, divided into musculoskelet al
+and other disorders. The percentages of ankle, knee, and
+wrist sprains, shoulder dislocations, contusions, muscle pu lls
+and contractures, lower back pain, and articular pain were
+signiﬁcantly higher in the FI group vs. the SI group ( p
+=0.032). Non-musculoskeletal diseases such as bronchitis,
+sore throat/aphonia, and headache were signiﬁcantly more
+common in the FI group ( p=0.014), whereas warts and
+upper respiratory tract infections were more frequent in the SI
+group(p=0.025).
+Physical Fitness Results and Daily
+Workload Monitoring Results
+FI and SI groups did not diﬀer signiﬁcantly in ˙VO2max. The
+FI and SI ˙VO2max, HR at rest, and HR maxclassiﬁed by sex
+and instructor type are shown in Table2. FI and SI groups did
+not diﬀer signiﬁcantly in ˙VO2max, HR at rest, and HR max, and
+no interaction between sex and instructor type was observed
+betweengroups.Additionally,theHR meanduring3hofatypical
+workday and the ratio between HR meanand HR maxare shown
+inTable2. While there was no signiﬁcant main eﬀect found
+between male SI and FI, the female SI displayed signiﬁcantly
+higher HR meanand HR mean/HRmaxthan the female FI did ( p=
+0.018,p=0.022,respectively).
+Rating of Perceived Exertion Results
+The perceived level of exertion after a typical workday was 72. 3
+±16.2AU (i.e., arbitrary units in the CR100 scale, a point
+scale up to 100 with 100 being the maximum possible level of
+exertion)( 18)inFIand72.0 ±18.0AUinSI,withnosigniﬁcant
+diﬀerences between the groups. Figure3 shows the perceived
+physical exertion of a typical lesson conducted by FI and SI.
+About 50% of the SI group and 60% of the FI group reported
+feeling that their typical lesson was physically “hard,” with no
+signiﬁcant diﬀerences between groups. A signiﬁcantly higherpercentage of SI participants described the physical exertion of
+their lesson as “very hard” ( p=0.042 between groups, χ2test
+forpercentages).
+DISCUSSION
+To the best of our knowledge, the present study is one of the
+ﬁrst that investigated the prevalence of occupational disorde rs
+among FI andSI. Inparticular, we observed thatFI hada higher
+2-year prevalence of musculoskeletal occupational disorders,
+whereas SI experienced more acute and chronic voice disorders .
+Moreover, since FI and SI have to cope with physical exertion
+andpsychologicalstress,wehaveprovidedobjectivedataont heir
+physicalﬁtnesslevelandworkloadduringatypicalworkday.
+Regardingmusculoskeletaldisorders,weobservedthatmuscle
+tightness (i.e., a shortening of a muscle), ankle, knee, and w rist
+sprains, shoulder dislocations, contusions, low-back pain, and
+articular pain were very common among FI. Our results are
+in line with previous ﬁndings on FI occupational health ( 3–
+5,7,19). Hickey and Hager ( 19) showed that the most common
+chronic injuries in aerobic dance instructors were tendini tis,
+repetitivestraininjury,patello-femoraldiseases,andmedi altibial
+syndromes, followed by ankle sprain and low-back pain, as
+suggested by Rothenberger et al. ( 3). Also, du Toit et al. ( 4) and
+Bratland-Sanda et al. ( 7) reported that the lower-limb injuries
+were very common, with the ankle (32.8%) and the knee (20%)
+being the most common sites of injury. Generally, these types o f
+injuriesareclassiﬁedasoveruseinjuries,resultingfromr epetitive
+force applied to a tissue, joint, or ligament. Bratland-Sanda
+(7) stated that the greater risk of lower-limb musculoskeletal
+disorders in FI is related to the monotonous exercise modalit y,
+which is a primary risk factor for overuse injuries. In additio n,
+Sohl and Bowling ( 17) reported high-intensity training classes,
+unsuitable ﬂoors, shoe type, high number of workouts per day,
+diﬃcult choreography, and insuﬃcient warm-up as the factors
+that may contribute to more occupational disorders of the lowe r
+limbs. Finally, Scharﬀ-Olson ( 20) indicated that the number
+of weekly classes was an additional variable associated wit h
+musculoskeletaldisorders.Infact,fouraerobicdancesess ionsper
+week increasedthe injury incidence from 43% to 66% compared
+to subjects who exercised three times per week or less ( 20).
+On the contrary, we found that SI had a lower prevalence of
+musculoskeletaloccupationaldisorders.Thiswasnotunexpect ed
+seeing as SI work is largely done standing (e.g., classic swim
+classes) or is anti-gravitational (e.g., during water imme rsed
+aerobicclasses).
+With regard to the other disorders, the present investigation
+found that both FI and SI are at a higher risk of developing
+both acute and chronic voice diﬃculties associated with the
+development of sore throat, aphonia, and bronchitis. These
+results corroborate previous research that found that 58
+and 12% of group ﬁtness instructors experience hoarseness
+and voice loss immediately following classes ( 20). It seems
+reasonable to associate these disorders with the typical
+demands of the job that require loud verbal instructions
+while performing exercises, thereby making the control of
+Frontiers in Public Health | www.frontiersin.org 6 June 2021 | Volume 9 | Article 666019
+Merati et al. Occupational Disorders in Sport Instructors
+FIGURE 3 | Perceived exertion during a typical lesson (SI, swimming ins tructors,n=42; FI, ﬁtness instructors, n=57). *p<0.05 between groups.
+breathing and airﬂow movement more stressful. Indeed, it
+has been demonstrated that the interaction between both
+environmental and physiological stress leads FI and SI to
+assume a hyperfunctional behavior that could also be worsene d
+by postural misalignment, breathing patterns, and work
+environmentandthereforeleadtotheadoptionofcompensator y
+vocal behaviors ( 21). This has been observed especially in
+young and inexperienced instructors who risk developing
+voice overuse and laryngeal diseases in the long run ( 22).
+Another incidental factor may be the poor air quality (e.g.,
+dryness, dust) in the workplace that may cause allergic react ions
+or sinus infections ( 23). Finally, the use of chlorine-based
+products to sanitize swimming water in daily life may aﬀect
+the respiratory health of SI ( 24). Moreover, we observed
+that SI are at a higher risk to develop headache and warts
+compared to FI. Regarding headaches, we hypothesize that the
+warm temperatures and humidity typical of swimming pool
+environments may play a role, especially in individuals prone
+to migraine attacks ( 25). Regarding warts, it is well known that
+swimmingpoolsmaybeamorefavorableenvironmentforthese
+typesofinfections( 26).
+Regarding the ﬁtness level assessment, we are now able to
+provide evidence of the physicalﬁtness anddaily workload of FI
+and SI. In particular, we found that FI and SI showed the same
+˙VO2maxduring a graded maximal test and HR during a typical
+workday. Therefore, the aerobic ﬁtness level was comparable
+between FI and SI subjects, suggesting that both groups are
+probably exposed to a similar workload, and thus training,during a workday. Our results are similar to those found in
+the study of Wanke et al. ( 27), who assessed the work-related
+cardiovascular loads in professional dance teachers. They f ound
+that, depending on the dance style (e.g., jazz, modern dance,
+ballet, etc.), the average HR load during the lessons ranged
+between 56.7 and 63.6% of the individual HR max. Interestingly,
+we found a signiﬁcantly higher HR meanin women during a
+typical workday in SI with respect to FI. We could therefore
+speculate that female SI are more often involved in aqua gym
+classes or similar training sessions, which require active physical
+participationfromtheinstructor,whereasmaleSIaremoreli kely
+to be devoted to swimming instruction or training, which doe s
+notincludeactivephysicalinvolvement.
+This study had some limitations. Firstly, the questionnair e
+we used was custom-made and has not yet been validated
+nor checked for internal consistency. After its design, the
+questionnaire was only submitted to a small group of ﬁtness
+experts,whoevaluatedwhetherthequestionseﬀectivelycaptu red
+the topic under investigation. The data obtained with this
+questionnaireshouldthereforebeconsideredaspilotdata.
+Secondly, due to the paucity of research in this area, the
+ﬁrst part of this study was designed as a cross-sectional and
+exploratory study. Although this design is less expensive and
+can be performed within a shorter period of time, some
+confounding factors such as history of injuries and work
+habits prior to data collections cannot be controlled. There fore,
+antecedent–consequent relationships as well as occupational
+disorders and relative risk cannot be established through
+Frontiers in Public Health | www.frontiersin.org 7 June 2021 | Volume 9 | Article 666019
+Merati et al. Occupational Disorders in Sport Instructors
+this design. Thirdly, it was not possible to perform analysis
+of diﬀerences between respondents and nonrespondents. A
+possible selection bias is that the prevalence of injuries and
+musculoskeletal pain might have been higher among the
+respondents compared to the nonrespondents, thus aﬀecting
+the results and the external validity of the study. Finally, the
+self-reporting of injuries and musculoskeletal pain is also a
+limitation, since this method makes it impossible to verify th e
+injurylocationandtypebyathirdparty.However,theassessm ent
+of physical ﬁtness of FI and SI as well as daily workload and
+theirperceivedexertionarevaluableinformationtofocuso nand
+when designing future studies. We therefore suggest that fu ture
+research considers these factors to conduct more meaningfu l
+longitudinalstudiesonthistopic.
+CONCLUSION
+In conclusion, a high 2-year prevalence of instruction-relat ed
+musculoskeletaldisordersandvocalpathologieswasobserv edin
+FIandSI,respectively.Theroleoftheworkenvironmentshou ld
+be considered as an occupational hazard. Guidelines on the
+maximum weekly instruction load are therefore recommended
+forSIandFIprofessionals.
+DATA AVAILABILITY STATEMENT
+The data supporting the conclusions of this article will
+be made available by the authors, upon request, without
+unduereservation.
+ETHICS STATEMENT
+The studies were reviewed and approved by Scientiﬁc and
+Technical Committee of the ISPESL (Istituto Superiore
+Prevenzione e Sicurezza sul Lavoro, Italian Ministry of Heal th,n◦B19/DOC/03). The participants provided their written
+informedconsenttoparticipateinthisstudy.
+AUTHOR CONTRIBUTIONS
+MAM designed the study (with Prof. Arsenio Veicsteinas)
+and performed the data collection. MB, LA, GM, and
+SM analyzed the data, provided the ﬁgures, and together
+with DG wrote up the manuscript. MAM, H-CG, and
+GM did the critical revision of the manuscript. All
+authors contributed to the article and approved the
+submittedversion.
+FUNDING
+This study was supported by ISPESL ( Istituto Superiore
+PrevenzioneeSicurezzasulLavoro ),ItalianMinistryofHealth.
+ACKNOWLEDGMENTS
+The authors would like to dedicate this work in loving memory
+of Prof. Arsenio Veicsteinas. He conceived and designed thi s
+study along with many other experiments. He inspired all of us
+and remains a shining example with his visionary and open-
+minded approach to science and everyday life. Moreover, the
+authors wish to thank all the recruited instructors for thei r
+committedparticipation.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.338 9/fpubh.
+2021.666019/full#supplementary-material
+REFERENCES
+1. Deloitte and EuropeActive. European Fitness Market Continues to Grow.
+(2019).Availableonlineat:https://www2.deloitte.com/conten t/dam/Deloitte/
+es/Documents/acerca-de-deloitte/Deloitte-ES-TMT-European -Health-
+Fitness-Market-2019.pdf
+2. Garrick JG, Gillien DM, Whiteside P. The epidemiology of aerobic da nce
+injuries.AmJSportsMed. (1986)14:67–72.doi:10.1177/036354658601400111
+3. Rothenberger LA, Chang JI, Cable TA. Prevalence and types of
+injuries in aerobic dancers. Am J Sports Med. (1988) 16:403–7.
+doi:10.1177/036354658801600417
+4. du Toit V, Smith R. Survey of the eﬀects of aerobic dance on the lower
+extremity in aerobic instructors. J Am Podiatr Med Assoc. (2001) 91:528–32.
+doi:10.7547/87507315-91-10-528
+5. Romaine LJ, Davis SE, Casebolt K, Harrison KA. Incidence of inj ury
+in kickboxing participation. J strength Cond Res. (2003) 17:580–6.
+doi:10.1519/00124278-200308000-00026
+6. Malliou P, Rokka S, Beneka A, Gioftsidou A, Mavromoustakos S, G odolias
+G. Analysis of the chronic lower limb injuries occurrence in step aerob ic
+instructors in relation to their working step class proﬁle: a three yea r
+longitudinal prospective study. J Back Musculoskelet Rehabil. (2014) 27:361–
+70.doi:10.3233/BMR-1404567. Bratland-Sanda S, Sundgot-Borgen J, Myklebust G. Injuries an d
+musculoskeletal pain among norwegian group ﬁtness instructors. Eur J
+SportSci. (2015)15:784–92.doi:10.1080/17461391.2015.1062564
+8. Heidel SE, Torgerson JK. Vocal problems among aerobic instructors
+and aerobic participants. J Commun Disord. (1993) 26:179–91.
+doi:10.1016/0021-9924(93)90007-W
+9. Rumbach AF. Voice problems of group ﬁtness instructors: diagnosi s,
+treatment, perceived and experienced attitudes and expectations of the
+industry. JVoice.(2013)27:786.e1–9.doi:10.1016/j.jvoice.2013.03.012
+10. EstesC,SadoughiB,ColemanR,D’AngeloD,SulicaL.Phonotrau maticinjury
+in ﬁtness instructors: risk factors, diagnoses, and treatment me thods.J Voice.
+(2020)34:272–9.doi:10.1016/j.jvoice.2018.10.001
+11. GauvinN,FleuryA,ReynoldsV.Vocalhealthofsporting,ﬁtness ,andwellness
+leadersinnorthernNewYorkandvermont. LogopPhoniatrVocol. (2021)1–7.
+doi:10.1080/14015439.2021.1897671
+12. Long J, Williford HN, Olson MS, Wolfe V. Voice problems and
+risk factors among aerobics instructors. J Voice. (1998) 12:197–207.
+doi:10.1016/S0892-1997(98)80039-8
+13. Fontan L, Fraval M, Michon A, Déjean S, Welby-Gieusse M. Voc al
+problems in sports and ﬁtness instructors: a study of prevalence, risk fa ctors,
+and need for prevention in france. J Voice. (2017) 31:261.e33–261.e38.
+doi:10.1016/j.jvoice.2016.04.014
+Frontiers in Public Health | www.frontiersin.org 8 June 2021 | Volume 9 | Article 666019
+Merati et al. Occupational Disorders in Sport Instructors
+14. Artino AR, Durning SJ, Sklar DP. Guidelines for reporting survey -based
+research submitted to academic medicine. Acad Med. (2018) 93:337–40.
+doi:10.1097/ACM.0000000000002094
+15. Fuller CW, Ekstrand J, Junge A, Andersen TE, Bahr R, Dvorak J, e t al.
+Consensus statement on injury deﬁnitions and data collection proc edures
+in studies of football (soccer) injuries. Br J Sports Med. (2006) 40:193–201.
+doi:10.1136/bjsm.2005.025270
+16. Howley ET, Bassett DR, Welch HG. Criteria for maximal oxygen uptake :
+review and commentary. Med Sci Sports Exerc. (1995) 27:1292–301.
+doi:10.1249/00005768-199509000-00009
+17. SohlP,BowlingA.Injuriestodancers.Prevalence,treatmenta ndprevention .
+SportsMed. (1990)9:317–22.doi:10.2165/00007256-199009050-00006
+18. Borg E, Borg G. A comparison of AME and CR100 for
+scaling perceived exertion. Acta Psychol. (2002) 109:157–75.
+doi:10.1016/S0001-6918(01)00055-5
+19. Hickey M, Hager CA. Aerobic dance injuries. Orthop Nurs. (1994) 13:9–12.
+doi:10.1097/00006416-199409000-00003
+20. Scharﬀ-Olson M, Williford HN, Blessing DL, Brown JA. The
+physiological eﬀects of bench/step exercise. Sports Med. (1996) 21:164–75.
+doi:10.2165/00007256-199621030-00002
+21. Williams N, Carding P (editors). Occupational Voice Loss . 1st ed. CRC Press
+(2005).doi:10.1201/b1413
+22. Ruotsalainen J, Sellman J, Lehto L, Verbeek J. Systematic revie w
+of the treatment of functional dysphonia and prevention of
+voice disorders. Otolaryngol Head Neck Surg. (2008) 138:557–65.
+doi:10.1016/j.otohns.2008.01.01423. Nieman DC. Is infection risk linked to exercise workload? Med Sci Sports
+Exerc.(2000)32:S406–11.doi:10.1097/00005768-200007001-000 05
+24. RuotsalainenJH,SellmanJ,LehtoL,JauhiainenM,VerbeekJH.I nterventions
+for preventing voice disorders in adults. Cochrane database Syst Rev. (2007)
+CD006372.doi:10.1002/14651858.CD006372.pub2
+25. Thickett KM, McCoach JS, Gerber JM, Sadhra S, Burge PS. Occ upational
+asthma caused by chloramines in indoor swimming-pool air. Eur Respir J.
+(2002)19:827–32.doi:10.1183/09031936.02.00232802
+26. Conklin RJ. Common cutaneous disorders in athletes. Sport Med. (1990)
+9:100–19.doi:10.2165/00007256-199009020-00004
+27. Wanke EM, Schmidt M, Oremek G, Groneberg DA. Work related
+cardiovascular load in professional dance teachers – a pilot
+study.J Occup Med Toxicol. (2020) 15:7. doi: 10.1186/s12995-020-
+00257-0
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be c onstrued as a
+potentialconﬂictofinterest.
+Copyright © 2021 Merati, Bonato, Agnello, Grevers, Gunga, Mendt and Maggioni.
+This is an open-access article distributed under the terms o f the Creative Commons
+Attribution License (CC BY). The use, distribution or repro duction in other forums
+ispermitted,providedtheoriginalauthor(s)andthecopyri ghtowner(s)arecredited
+andthattheoriginalpublicationinthisjournaliscited,i naccordancewithaccepted
+academic practice. No use, distribution or reproduction is permitted which does not
+complywiththeseterms.
+Frontiers in Public Health | www.frontiersin.org 9 June 2021 | Volume 9 | Article 666019

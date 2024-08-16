@@ -1,0 +1,1229 @@
+Development
+Swimming Exercise Promotes Post-injury Axon
+Regeneration and Functional Restoration through
+AMPK
+Sandeep Kumar,1,pSibaram Behera,1,pAtrayee Basu,1Shirshendu Dey,2and
+ Anindya Ghosh-Roy1
+https://doi.org/10.1523/ENEURO.0414-20.2021
+1Department of Biotechnology National Brain Research Centre, Manesar 122052, India and2Bruker India Scientific
+Pvt. Ltd, New Delhi 110019, India
+Abstract
+Restoration of lost function following a nervous system injury is limited in adulthood as the regenerative ca-
+pacity of nervous system declines with age. Pharmacological approaches have not been very successful in al-
+leviating the consequences of nervous system injury. On the contrary, physical activity and rehabilitation
+interventions are often beneficial to improve the health conditions in the patients with neuronal injuries. Usingtouch neuron circuit of Caenorhabditis elegans , we investigated the role of physical exercise in the improve-
+ment of functional restoration after axotomy. We found that a swimming session of 90 min following the axoto-
+my of posterior lateral microtubule (PLM) neuron can improve functional recovery in larval and adult stageanimals. In older age, multiple exercise sessions were required to enhance the functional recovery. Genetic
+analysis of axon regeneration mutants showed that exercise-mediated enhancement of functional recovery de-
+pends on the ability of axon to regenerate. Exercise promotes early initiation of regrowth, self-fusion of proxi-mal and distal ends, as well as postregrowth enhancement of function. We further found that the swimming
+exercise promotes axon regeneration through the activity of cellular energy sensor AAK-2/AMPK in both mus-
+cle and neuron. Our study established a paradigm where systemic effects of exercise on functional regenera-tion could be addressed at the single neuron level.
+Key words: C. elegans; axotomy; PLM neuron; swimming exercise; axon regeneration; AAK-2
+Significance Statement
+Accelerating axonal regeneration and subsequent functional restoration is a major challenge to the people
+with nervous system injury. Research on rodents and humans suggests that rehabilitation therapy helps re-
+gain the lost function after neuronal injury. The nematode Caenorhabditis elegans provides an advantage to
+investigate the role of exercise in facilitating the axonal regeneration at the level of single neuron. Our studyshows that swimming exercise promotes functional restoration via structural and functional changes in in-
+jured mechanosensory neuron. The benefit of exercise in regeneration depends on the metabolic energy
+sensor AAK-2/AMPK. This study provides a molecular perspective to exercise-mediated enhancement ofaxon regeneration.
+Introduction
+Neuronal injuries are accompanied by physical disrup-
+tion of the axons, which leads to the loss of sensory ormotor function ( Johnson et al., 2013 ;Yang et al., 2015 ).CNS has limited capacity to regenerate because of intrin-
+sic failure and several inhibitory factors in the environment(Huebner and Strittmatter, 2009 ;He and Jin, 2016 ;van
+Niekerk et al., 2016 ). In case of peripheral nervous
+Received September 24, 2020; accepted April 25, 2021; First published May
+24, 2021.
+The authors declare no competing financial interests.Author contributions: S.K. and A.G.-R. designed research; S.K., S.B., and
+A.B. performed research; S.D. contributed unpublished reagents/analytic
+tools; S.K., S.B., and A.B. analyzed data; S.K. and A.G.-R. wrote the paper.
+May/June 2021, 8(3) ENEURO.0414-20.2021 1 –16
+Research Article: New Research
+system, regeneration from the injured proximal stump and
+subsequent growth toward the target tissues can lead tofunctional restoration ( He and Jin, 2016 ;Laha et al.,
+2017 ). However, this capability declines with age, result-
+ing in partial or no functional restoration ( Verdú et al.,
+2000 ;Geoffroy et al., 2016 ;Abay et al., 2017 ;Basu et al.,
+2017 ). Indeed, intrinsic capacity of axonal regrowth de-
+clines with age ( Verdú et al., 2000 ) and external microen-
+vironment poses various challenges in long distance axonregrowth ( Brosius Lutz and Barres, 2014 ).
+Although there is comprehensive understanding of
+axon regeneration pathways ( He and Jin, 2016 ;Mahar
+and Cavalli, 2018 ;Richardson and Shen, 2019 ), protective
+measures against aging-related loss of regenerative po-tential are rather lacking. On the contrary, accumulatingevidences suggest a beneficial role of rehabilitation thera-pies and physical exercise in promoting functional recov-ery following spinal cord and other injuries in human ( van
+Hedel and Dietz, 2010 ;Formento et al., 2018 ). Physical
+exercise enhances functional restoration after nervoussystem injury in primates and rat models as well(Capogrosso et al., 2016 ;Fu et al., 2016 ). Electrical stimu-
+lation and modulation of central pattern generator leads
+to dramatic increase in locomotor activity in humans and
+rats after spinal cord lesion ( Wagner et al., 2018 ). The
+benefit of exercise is accompanied by remodeling of vari-ous parts of brain ( Karssemeijer et al., 2017 ;Horowitz et
+al., 2020 ). Although many evidence suggest that exercise
+promotes regrowth of injured axon in peripheral system(Park and Höke, 2014 ;Gordon and English, 2016 ;Chen et
+al., 2017b ), it is not completely clear whether functional
+improvement is the outcome of rewiring of injured axon orremodeling of spared circuitry. Also, cellular and molecu-lar mechanisms involving exercise-mediated functionalimprovement after nerve injury are not clear.
+Caenorhabditis elegans is an excellent model to investi-
+gate the cellular and molecular mechanism of axon regen-eration following laser-assisted injury ( Hammarlund et al.,
+2009 ;He and Jin, 2016 ;Richardson and Shen, 2019 ).
+Axonal injury leads to calcium influx and activates theconserved p38-MAPK pathway involving dual leucine zip-per kinase (DLK)-1, which initiates the transcription of re-generation associated genes ( Hammarlund et al., 2009 ;Ghosh-Roy et al., 2010 ;Nix et al., 2011 ). Several molecu-
+lar pathways controlling axon regrowth potential are iden-tified using mechanosensory and motor neurons asmodel systems ( Byrne and Hammarlund, 2017 ;Hisamoto
+and Matsumoto, 2017 ). The two posterior lateral microtu-
+bule (PLM) neurons and the DA9 motor neurons allowedcorrelating functional restoration with axon regrowth at thesingle neuron level ( Abay et al., 2017 ;Basu et al., 2017 ;
+Ding and Hammarlund, 2018 ). However, it has not been
+tested whether physical exercise would promote axon re-generation and functional recovery. In C. elegans , a single
+or multiple swimming sessions show exercise-like features(Laranjeiro et al., 2017 ,2019
+). Swimming sessions extend
+neuromuscular and gut health span, enhance learning abil-
+ity, and protects against neurodegeneration ( Laranjeiro et
+al., 2019 ). Exercise in an electrotactic flow chamber ameli-
+orates the age-related degeneration ( Chuang et al., 2016 ).
+In this study, we have investigated the role of swimming
+exercise in improving functional restoration after axotomyof the PLM neurons. We found that a single swim sessionof 90 min could improve functional restoration throughaxon regeneration process regardless of age. This exer-cise regimen can also improve the age-related decline intouch response function. To understand how swimmingexercise promotes functional restoration, we imaged andcorrelated the anatomic pattern of regrowth to the recov-ery index of function. This revealed that exercise pro-motes regrowth, self-fusion events, and postregrowthfunctional recovery. Improvement in functional restorationon swimming depends on the function of the cellular en-ergy sensor AMP kinase-2/AAK-2 in both neurons and
+muscle.
+Materials and Methods
+C. elegans strains
+All the strains were grown and maintained at 20°C in
+nematode growth media (NGM) under standard conditions(Brenner, 1974 ). We used the following strains: Bristol N2,
+aak-2(ok524) X ,mlk-1(ok2471) V ,dlk-1(tm4024) I ,ebp-1
+(tm1357) V ,a n d unc-54(r293) I . The extrachromosomal
+DNA-containing strains used were aak-2 (ok524); shrEx362
+(Pmec-4::aak-2 ),aak-2(ok524); shrEx364 (Pmyo-3::aak-2 ),
+andaak-2(ok524); shrEX420 (Pdpy-7::aak-2 ). First, the ex-
+trachromosomal arrays were obtained in Pmec-7::GFP
+(muIs32) background by injecting the rescue transgenes at
+10 ng/ ml. Then the transgenes were introduced into the
+aak-2 mutant backgrounds by crossing. Homozygosity for
+all mutations was confirmed by either PCR or sequencing.All loss of function mutations are denoted as (0).W eu s e d
+the following transgenes: Pmec-7::GFP (muIs32), Pmec-4::
+GFP (zdIs5) (Basu et al., 2017 )a n d Pmec-4::mcherry::RAB-
+3 (tbIs227) (Sood et al., 2018 ).
+Age synchronization of worms
+Fifty gravid adults were transferred to fresh NGM plates
+seeded with OP50 for egg-laying and kept at 20°C for 2 –3
+h. Worms were removed from the plates after they hadlaid eggs. The eggs were allowed to hatch and after 2 d,40–50 L4 worms were transferred to a fresh NGM plateThis work is supported by the National Brain Research Centre core fund
+from the Department of Biotechnology, The India Alliance Department of
+Biotechnology Wellcome Grant IA/I/13/1/500874, and the Science andEngineering Research Board (SERB) Grant CRG/2019/002194. S.K. wassupported by the SERB-National Post-doctoral Fellowship scheme (NPDF)
+SERB File Number PDF/2017/001610.
+*S.K. and S.B. contributed equally to this work.
+Acknowledgements: We thank NBRP, Japan and Caenorhabditis Genetics
+Center (CGC) for strains; Devashish Pandey for helping with thrashingfrequency analysis; Kavita Babu and Swagata Dey for the comments on thismanuscript; and A. Mukhopadhyay and S. Koushika for the help with strains.
+Correspondence should be addressed to Anindya Ghosh-Roy at anindya@
+nbrc.ac.in or Sandeep Kumar at sandyjan87@gmail.com .
+https://doi.org/10.1523/ENEURO.0414-20.2021
+Copyright © 2021 Kumar et al.
+This is an open-access article distributed under the terms of the Creative
+Commons Attribution 4.0 International license , which permits unrestricted use,
+distribution and reproduction in any medium provided that the original work is
+properly attributed.
+Research Article: New Research 2 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+containing 50 mM5-Fluoro deoxyuridine (FUDR; Sigma;
+catalog #F0503; Basu et al., 2017 ). The worms at different
+life stages were used for experiments.
+Swimming exercise paradigm
+A single swimming session is considered as acute exer-
+cise paradigm in C. elegans (Laranjeiro et al., 2017 ,2019 ).
+In our study, we have adopted mostly the single swim-
+session paradigm for exercise after axotomy of PLM neu-rons ( Fig. 1 A;Movie 1 ). Occasionally, the worms were
+subjected to multiple swim sessions ( Fig. 2 C). The worms
+were subjected to swimming in M9 buffer in 96-well plate for
+the duration ranging from 15 to 120 min. Single animals
+were kept in wells containing 200 ml of M9 buffer (one worm
+per well). After the desired duration of swimming, the ani-
+mals were recovered on NGM plate. In the control group,
+worms were kept in a plate without OP50 food for the same
+duration and then returned to plates containing food. We
+found that the ATP level is significantly dropped as reportedbefore ( Chaudhari and Kipreos, 2017 ) after a 90-min swim
+session and therefore we used this 90-min session for most
+of the experiments.
+Measurement of ATP level after swim session
+To measure the change in the ATP level following
+swim exercise, we used an ATP bioluminescence assay
+kit CLSII (Roche Diagnostics, catalog #11699695001;
+Palikaras and Tavernarakis, 2016 ). Briefly, 60 A3 worms
+from “non-swimming ”as well as the “swimming ”group
+were collected in 50 ml of M9 buffer in a 1.5-ml tube. The
+samples were then frozen in liquid nitrogen. The frozen
+tubes were kept in boiling water for 15 min. The samples
+were centrifuged at 14,800 /C2gfor 10 min at 4°C. The
+supernatants were transferred to a fresh tube and di-luted tenfold by adding water before measurement. The
+ATP levels were determined using Glomax luminometer
+(Promega). Before measurement, 100 mlo fs a m p l eo r
+ATP standard was added to 100 ml of luciferase in the
+well and incubated for 10 s at room temperature andthen the luminescence was measured. The ATP level in
+the worm sample was derived from the ATP standard
+curve. Finally, the ATP levels were normalized with re-spect to the total protein (mg) measured through BCA
+protein estimation method.
+Femtosecond laser, axotomy, and imaging
+For axotomy of PLM neurons, the animals were immo-
+bilized using 0.1-
+mm polystyrene beads on a 5% agarose
+pad under a coverslip. For all the experiments, only onePLM axon corresponding to either left or right side of the
+animal was axotomized at a distance of 50 –60
+mm from
+the cell body, as described before ( Basu et al., 2017 ). The
+side corresponding to the axotomized PLM neuron is
+called “cut side ”and other called the “control side. ”
+Simultaneous two-photon imaging and axotomy was per-
+formed according to the previous published protocol
+(Basu et al., 2017 ). The PLM axon was imaged and axo-
+tomized with 920- and 720-nm lasers, respectively, under
+a6 0/C2(Olympus) water-immersion objective of 1.1 NA on atwo-photon microscope ( Basu et al., 2017 ). This system has
+two tunable (wavelength range 690 –1040 nm), automated
+depression compensated femtosecond lasers from SpectraPhysics (Mai Tai with Deepsee). The imaging was done with
+a 6-mm galvanometer scanning system and axotomy was
+performed with a 3-mm galvanometer system.
+Gentle touch assay
+Each worm was recovered after axotomy on NGM plate
+and then gentle touch assay was performed. Gentle
+Touch Response ( Chalfie and Sulston, 1981 ;Chalfie et al.,
+1985 ;Basu et al., 2017 ) was assayed from both right and
+left sides of the worm. Following the touch assay in oneside, the worm was flipped and kept for 20 min beforetouching the other side ( Basu et al., 2017 ). Ten alternative
+anterior and posterior touches were given with the eye-
+lash tip. The anterior touch was given to a forward-movinganimal, which in response started moving backward.When a backward moving animal was given a posterior
+touch, it started moving forward in response. A positive
+response was denoted as 1, and no response as 0. Thenthe posterior touch response index (PTRI) was measuredas the ratio of total number of positive response to totalnumber of touch stimuli applied (Extended Data Fig. 1-1 ,
+Fig. 3 B-C) as described before ( Basu et al., 2017 ).
+Correlation of functional recovery with axon
+regeneration events at the level of a single worm
+At 3 h after axotomy, PTRIs of both axotomized and
+control (uncut) side, were denoted as the PTRI postaxoto-my. Each worm was labeled based on the side of axotomy
+and kept in single plate at 20°C. After 24 h, PTRI values
+from both the sides were measured and compared withthe corresponding values at the postaxotomy stages.For a given side, the Recovery Index was obtained by thefollowing formula: recovery index = PTRI
+24 h/PTRI 3h
+(Extended Data Fig. 1-2 ). After the behavioral test at 24 h,
+the regrowth pattern of the PLM axon was scored eitherusing a Leica DM5000 fluorescent microscope at 40 /C2
+magnification or a Spinning disk confocal microscope(Fig. 4 D,Fig. 5 A). Specifically, it was noted whether it was
+a fusion event ( Fig. 5 C) or non-fusion event ( Fig. 5 F). For
+scoring successful fusion events, we carefully evaluatedwhether the proximal end has just touched the distalcounterpart or it has successfully joined and fused withthe distal end ( Fig. 5 C). In case of casual touching, the
+distal end eventually undergo degeneration, and these
+events are referred as reconnection ( Fig. 5 C;Neumann
+and Hilliard, 2019 ).
+Imaging of axon regrowth events
+At 24 h postaxotomy, for imaging of the regeneration
+events, the animals were immobilized using 10 m
+Mleva-
+misole hydrochloride. Axonal regrowth was imaged usinga Zeiss 864 Axio-Observer Z1 microscope equipped withYokogawa CSU-XA1 spinning-disk confocal scan-headand a Photometrics Evolve EMCCD camera, the images
+were taken using 63 /C2oil objective of 1.46 NA. The P mec-
+7::GFP labeled PLM axon was imaged with 30% input
+Research Article: New Research 3 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+A
+ControlExperimental
+LC1 LC2
+D
+VAP
+    PLM Functional
+assay
+ (PTRI) Time for 
+regen
+eration Functional
+assay
+  (PTRI) Axotomy of PLM Swimming 
+session 
+(30min-2h) 
+D
++ +
++++
+_ ++4h 0h 3h 24hPost-axotomy time
++Swimming
+-Swimming -Swimming +Swimming
+30 min 45 min 90 min120 min
+Swimming durationB
+-Swimming +Swimming
+0
+5 min15 min 30min45 min 90 minATP (μM) / Protein (mg)
+Swimming duration4
+3
+2
+1nsnsns******D C
+Axotomy PTRI Post-axotomySwim session
+4h 5.5h 3h 0hRecovery
+in NGM plate
+ParalysedControl
+Experimental24hPost regeneration
+PTRI
+Axotomy PTRI Post-axotomySwim session
+4h 5.5h 3h 0hRecovery
+in NGM plate
+24hPost regeneration
+PTRI
+nim / sehsarhT
+050100150200250
++Swimming
+Paralysed during
+Swimming***E
+-Swimming +Swimming
+Paralysed during
+Swimming0.00.51.01.52.02.5 Recovery Index**
+*F
+0h 3h 4h 24h
+6h
+12h
+18h 0h 3h24h
+24h
+24hAxotomy PTRI PTRIAxotomy PTRI PTRIAxotomy IRTP IRTPAxotomy PTRI Swim session PTRI
+18h 0h 3h 36hAxotomy IRTP IRTPSwim session
+Swim session
+Swim session
+Swim session0h 3h
+0h 3hG
+-Swimming +Swimming
+20h 18h 12h 6h
+Duration between swimming session 
+and post-regeneration PTRI 
+measurement** * ***
+0.00.51.01.52.02.5
+nsRecovery IndexH I
+-Swimming 
++Swimming
+18h0.00.51.01.52.02.5**Recovery Index0.00.51.01.52.02.5 nsns****h 3 ta IRTP  / h 42 ta IRTP”xednI yrevoceR“ 
+Figure 1. A single swim session after axotomy of PLM neurons enhances functional restoration in adult worm. A, Experimental
+paradigm of swim session after the axotomy of a PLM neuron in A3 worms expressing P mec-7:: GFP ( muIs32 ) reporter. Following
+axotomy, the gentle touch response assay was performed to measure the reduction in PTRI (Extended Data Figure 1-1 A). Then
+the animals were subjected to a swimming session for a duration ranging from 30 min to 2 h and recovered in NGM plate for fur-
+ther analysis. Another touch response assay was performed at 24 h postaxotomy to assess the functional recovery. Arrowhead
+denotes developmental synapses of PLM neurons. B, Quantification of the recovery index expressed as PTRI at 24 h postaxoto-
+my/PTRI at 3 h postaxotomy for swim session of varying duration. N=4–5 independent replicates, n=2 0 –25 number of animals
+tested. The raw data used for calculating recovery index values are given in Extended Data Figure 1-2 .C, The bar graph repre-
+sents the ATP levels measured from the total extract prepared from 60 A3-stage animals after the swim session of varying dura-
+tion, N= 4 independent replicates. D, Schematics for paralyzing the animals during the swim session. In order to prevent the
+worms from swimming in the well, they were treated with 5 m Mlevamisole for 15 s before the swimming session. The brief expo-
+sure to levamisole did not affect basal level PTRI (Extended Data Figure 1-1 B).E, The bar graph represents the thrashing frequen-
+cies measured from the time-lapse imaging of the worms in the swimming well. N=3–4,n=3 8 –86.F, Recovery indices obtained
+at 24 h postaxotomy for control and paralyzed worms during the swim session, N=3–4,n=2 2 . G,S c h e m ef o rd e t e r m i n i n gt h e
+critical time required for seeing the beneficial effect of the swim session. In this experiment, the duration between swim session
+and postregeneration PTRI measurement was varied. H,I, Bar graphs showing the recovery indices measured according to the
+experimental paradigm described in Gat 24 h postaxotomy and 36 h postaxotomy for H,I, respectively, N=3–5,n=2 0 –27.
+Statistics, for B,C,F,H,*p,0.05, ** p,0.01, *** p,0.001 ANOVA with Tukey ’s multiple comparison test. For E,I,* *p,0.01,
+***p,0.001; unpaired ttest. Error bars represent SD; ns, not significant.
+Research Article: New Research 4 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+power of 480-nm laser. The images were acquired with
+the exposure time of 300 ms with the 70% of camera gain
+settings. The images were then exported as czi files and
+analyzed using ImageJ software. For regrowth lengthmeasurement, simple neurite tracer plugin of ImageJ wasused . Pmec-4::mcherry::RAB-3 (tbIs227) reporter was
+used to image the formation synapse-like structures dur-
+ing axon regeneration. Imaging was done using a Nikon
+A1 plus (Nikon corporation) confocal microscope. PLMneurons expressing muIs32 andtbIs227 reporter were si-
+multaneously imaged after 24 h of axotomy. Imaging wasdone under a 60 /C2oil objective (NA = 1.4) at 1 mm slice in-
+terval. Excitation power was 0.8 and 1 for 488- and 561-
+nm laser, respectively. The PMT power for 488-nm chan-nel was 100 and 104 for 561-nm channel with offset valueof 20.
+Each PLM neuron has a ventral branch ( Fig. 1 A, arrow-
+head), which makes synapse onto the postsynaptic inter-
+neuron ( Chalfie and Sulston, 1981 ;Chalfie et al., 1985 ).
+This allowed us to set the dorsal-ventral axis of the worm(Fig. 5 F) while analyzing the direction of axon regrowth.
+The axons that regrew up to 35 –45mm in depth in ventral
+direction and extended along the ventral nerve cord were
+characterized as the “ventral targeting ”event ( Fig. 5 Fc).
+An accumulation of the presynaptic reporter mCherry::RAB-3 along the ventral cord ( Fig. 5 Fc, yellow arrow-
+heads) was also noticed in these events. This accumula-tion pattern resembled the original chemical synapses of
+PLM neurons. When the distal end intensity was promi-
+nently less and showed beaded appearance, it was cate-gorized as “distal degeneration ”(Fig. 5 Fc) otherwise
+categorized as “distal intact ”(Fig. 5 Fa,b).
+Paralysis of the worms in swimming well
+At 3 h after axotomy, the animals were treated with 5
+m
+Mlevamisole hydrochloride for 15 s to paralyze them.
+After this brief treatment with levamisole, they wereplaced in swimming wells. We found that this brieftreatment is sufficient to perturb the swimming ( Movie 2 ;
+Fig. 1 E) during the 90-min swim session. To verify whether
+this brief treatment of levamisole has any effect in thegentle touch response of the animal, we performed similar
+paralysis without performing axotomy and then measured
+the touch response after 24 h. We found that the PTRIvalue was not affected by this brief treatment (ExtendedData Fig. 1-1 B). Therefore, we used this experimental de-
+sign to test the effect of blocking the swimming on en-hancement of functional regeneration ( Fig. 1 D–F).
+Measurement of thrashing frequency during
+swimming
+For the measurement of thrashing frequency, digital
+videos of worm movements were acquired during theswimming sessions, using a Leica MC 120 HD camera.The videos were recorded for 30 s at 15 frames/s usingLAS V4.4 software in a Leica stereo microscope M165 FC
+at 1.25 /C2magnification. The thrashing frequency were
+measured as body bends per second using wrMTrck plu-gin of ImageJ software ( http://www.phage.dk/plugins/
+wrmtrck.html ). The change in the direction of bending at the
+mid-body was defined as one body bend ( Truong et al.,
+2015 ). A mutant for muscle myosin unc-54 (Pulak and
+Anderson, 1988 ) showed drastically reduced thrashing fre-
+quency using this plugin. Thrashing frequency in unc-54 mu-
+tant was 18.27 613.04 as opposed to 130.8 628.97 for wild
+type. This suggests that our analysis is sensitive enough to
+show the difference in swimming ability because of various
+experimental conditions.
+Metformin treatment on paralyzed worms
+At 3 h postaxotomy, worms were first treated with 5 m
+Mle-
+vamisole hydrochloride solution for 15 s to cause the muscle
+paralysis. The experimental swimming well had 50 m M
+Metformin hydrochloride (Sigma-Aldrich; catalog #PHR1084).
+Therefore, the paralyzed worms were treated with Metforminduring the 90-min swim session. Concentration of Metforminwere chosen to activate AMPK/AAK-2 based on the previousreport in C. elegans (Chen et al., 2017a ).
+Movie 2. Swimming of control and paralyzed worms. In order to
+paralyze the worms, the worms were treated with 5 m Mlevamisole
+and transferred to the swimming well. Movies were acquired at 15
+frames/s (fps) and represented at 50 fps. [ View online ]
+Movie 1. After the measurement of PTRI, worms were trans-
+ferred to wells and allowed to swim for 90 min. The videos were
+recorded at 15 frames/s (fps) and represented at 50 fps. [ View
+online ]
+Research Article: New Research 5 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+Molecular biology and transgenes
+For touch neuron, muscle and epidermal-specific expres-
+sion of aak-2 , first a gateway (Thermo Fisher Scientific) entry
+clone of aak-2 [pCR8:: aak-2 (pNBRGWY115)] was con-
+structed by PCR with the primers 5 9-ATGTTTTCTCAT
+CAAGATCGAGA-3 9and 5 9-TCTCGATCTTGATGAGAAAAC
+AT-39. Then the entry clone was recombined with pCZGY553
+(Pmec-4 destination vector), pCZGWY925 (P myo-3 destina-
+tion vector) and pCZGWY44 (P dpy-7 destination vector)
+to generate P mec-4 ::aak-2 (pNBRGWY116), Pmyo-3 ::aak-
+2(pNBRGWY117) and P dpy-7::aak-2 (pNBRGWY149),
+respectively.
+Statistics
+All the statistical analyses were performed using
+GraphPad Prism software version 9.0.2. For two-way
+comparisons, an unpaired ttest with Welch ’s correction
+was used. The median values were compared with the
+Mann –Whitney Utest. Fisher ’s exact test was used for
+proportions. Three or more samples were compared withANOVA (nonparametric) with a post hoc Tukey ’s multiple
+comparisons test. The sample numbers ( n) presented on
+each bar are the total sample value accumulated over the
+total number of biological replicates ( N) in a given
+experiment.
+Results
+A single swim session after axotomy of PLM neurons
+promotes functional recovery
+Previous studies have indicated that physical exercise
+following nervous system injury promotes axon regenera-
+tion and functional recovery in various model systems
+(Doyle and Roberts, 2006 ;Asensio-Pinilla et al., 2009 ;
+Sachdeva et al., 2016 ;Kuwabara et al., 2018 ). To address
+whether physical exercise can enhance functional resto-ration in C. elegans , we designed a swimming exercise
+paradigm in conjunction with PLM axon regeneration ( Fig.
+1A;Movie 1 ). A single session of swimming in C. elegans
+mimics the features of mammalian exercise ( Laranjeiro et
+al., 2017 ). As previously reported that there is a sharp
+drop in functional recovery of gentle touch behavior after
+the axotomy of PLM neuron at day-3 adult worms (A3;
+Basu et al., 2017 ; Extended Data Fig. 1-1 A), we tested
+whether a swim session after axotomy would enhance re-
+covery. We measured the PTRI at 3 and 24 h postaxotomy
+(Fig. 1 A). The extent of functional recovery was repre-
+sented as the normalized PTRI at 24 h with respect to that
+measured at 3 h postaxotomy, which we called “recovery
+index ”(Fig. 1 B; Extended Data Fig. 1-2 ). A recovery index
+value, higher than 1 is an indication of improvement of
+touch response over the time after axotomy. A swimming
+session of 90 min or above significantly enhanced the re-
+covery index at 24 h as compared with the non-swimming
+control ( Fig. 1 B; Extended Data Fig. 1-2 ). It also correlated
+with the significant drop in ATP level after the swimming
+session measured fluorometrically from the worm lysate
+(Fig. 1 C). After 90 min, the worms did episodic swimming
+rather than continuous swimming ( Ghosh and Emmons,
+2008 ). Therefore, we chose 90-min exercise windowfor our additional experiments. To confirm that the swim-
+ming-induced improvement in functional recovery is
+not because of the stress in liquid environment, rather
+because of exercise, we paralyzed the worm during swim-
+ming using levamisole that causes muscle hypercontrac-
+tion ( Culetto et al., 2004 ;Fig. 1 D,E). The change in
+swimming ability was measured as thrashing frequency
+(Buckingham and Sattelle, 2009 ;Fig. 1 E). We observed
+that the recovery index was significantly reduced when
+swimming was perturbed ( Movie 2 ;Fig. 1 F). Levamisole
+treatment in the swimming well per se did not affect the
+touch response index measured after the withdrawal of le-
+vamisole (Extended Data Fig. 1-1 B).
+To determine the time duration required for seeing the
+benefit of swimming, we varied the time window between
+the swim session and evaluation of touch response (PTRI;
+Fig. 1 G). Essentially, the swim session was gradually
+shifted toward the time of postregeneration PTRI mea-
+surement ( Fig. 1 G). When the window was lower than 12
+h, in this case 6 h, the functional improvement was non-
+significant ( Fig. 1 H). But when we increased the window,
+by shifting the time of postregeneration PTRI measure-
+ment further by 18 h, the functional improvement was sig-
+nificant ( Fig. 1 I). Therefore, a critical time of 12 h is
+needed for proper manifestation of positive effect of
+swimming in regeneration.
+Multiple swim sessions are needed in older ages for
+the improvement in functional restoration
+Next, we expanded our single swim-session paradigm
+across various ages and found that this exercise regimen
+can improve the recovery index significantly when axoto-
+my was performed at L4, A1, A3, and A4 stages ( Fig. 2 A;
+Extended Data Fig. 2-1 ). However, this improvement was
+non-significant at day 5 (A5; Fig. 2 A; Extended Data Fig.
+2-1). We noticed that the thrashing frequency during
+swimming was significantly reduced at A5 stage ( Fig. 2 B),
+which might have reduced the beneficial effect of swim-
+ming in functional restoration. We wanted to test whether
+multiple swimming sessions would be required at A5
+stage for significant improvement in functional recovery.
+To test this hypothesis, we increased the number of swim
+sessions after the axotomy at A5 stage, one at 4 h and the
+other at 12 h postaxotomy ( Fig. 2 C). Increasing the num-
+ber of swim session raised the recovery index value signif-
+icantly ( Fig. 2 D). Overall, our data suggest that swimming-
+related exercise promotes functional restoration regard-
+less of age, although in older age, multiple exercise ses-
+sions are important.
+Swim exercise also prevents the age-related decline
+in touch neuron function
+It might be possible that swim exercise improves the
+touch neuron function in general, especially in older age
+when function is known to decline ( Basu et al., 2017 ). As
+reported previously, we found that PTRI value is signifi-
+cantly dropped at A5 and subsequent life stages ( Fig. 3 B).
+A single swim session of 90 min, 1 d before the PTRI mea-
+surement ( Fig. 3 A) improved the PTRI value significantly
+Research Article: New Research 6 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+at A5 and A6 stages ( Fig. 3 B,C). However, in A8 stage, the
+improvement in PTRI value because of single sessionswimming exercise was poor ( Fig. 3 B,C). No improvement
+at A8 stage was also noticed in the zdIs5 (Pmec-4:: GFP)
+transgenic reporter background ( Fig. 3 C). We asked
+whether a longer gap between swim session and func-tional assessment would be sufficient to enhance thePTRI value significantly at A8 stage. However, no furtherimprovement in PTRI value was noticed when the exer-cise session was anticipated by 1 d ( Fig. 3 C). To test
+whether multiple swimming sessions across multiple daysare helpful, we subjected the animals to four swimmingsessions starting from A1 with 1-d interval between twosessions and then measured touch response at A8 stage
+(Fig. 3 D). Multiple swimming sessions significantly ele-
+vated the PTRI value at A8 stage as compared with thatobtained from non-swimming control ( Fig. 3 D,E). Our data
+highlight that exercise improves both age-dependentdecline in postaxotomy functional recovery, as well asprevents the age-related decline in touch neuron function.
+This raises the possibility that the exercise might only im-
+prove the neuronal function. Therefore, it needs to be re-
+solved whether our exercise regimen would also enhance
+axon regrowth potential after axotomy.
+Swim session-mediated improvement in postaxotomy
+functional restoration involves initiation of axonal
+regeneration
+Physical exercise mediated improvement in functional
+recovery after neuronal injury often involves remodeling of
+spared neuronal circuits ( van den Brand et al., 2015 ).
+Therefore, we wanted to test whether the benefit of swim-
+ming is because of compensatory mechanisms or re-
+growth of the axotomized PLM neuron. The p38-MAPK
+pathway involving DLK-1/MLK-1 is required in the early
+stages of axon regeneration in a cell-autonomous manner
+(Fig. 4 A;Hammarlund et al., 2009 ;Yan et al., 2009 ;
+Ghosh-Roy et al., 2010 ). In the absence of this signaling
+cascade, injured axon cannot initiate the growth cone
+formation after axotomy. Therefore, the mutants affect-
+ing the DLK-1 cascade serve as a tool to block the re-
+generation from the injured proximal stump after
+axotomy ( Fig. 4 D,r e da r r o w s ) .As w i ms e s s i o nn e i t h e ri n
+dlk-1(0) nor in mlk-1(0) could promote functional resto-
+ration in A3 ( Fig. 4 B). Similar observation was made in
+dlk-1(0) , when the experiment was conducted at L4
+stage ( Fig. 4 C). Similarly, an upregulation of microtu-
+bule dynamics through microtubule plus-end binding
+protein-1 EBP-1 is critical for the efficient axon re-
+growth ( Chen et al., 2011 ;Ghosh-Roy et al., 2012 ). We
+found that, the benefit of exercise was not seen in the
+absence of ebp-1 (Fig. 4 B,
+C). Consistently, swimming
+could not promote the axon regrowth from the cut
+stump in these mutants ( Fig. 4 D,E, red arrows). To rule
+out the possibility of reduced swimming ability in these
+mutants, we analyzed the movies of their swimming.
+We found that thrashing frequency in these mutants are
+comparable to that in wild-type control ( Fig. 4 F).
+These results confirm that exercise mediated increase
+in functional recovery involves regrowth from the injured
+proximal stump of the PLM neuron and subsequent rewir-
+ing into the functional circuit.
+Swim session promotes axon regrowth and
+postregrowth functional recovery
+Although swimming induced improvement in functional
+restoration involves initiation of axon regrowth after axot-
+omy, it is not clear whether this exercise paradigm would
+enhance anatomic features of axon regrowth or it could
+simply enhance the functional aspect after axon regrows.
+The fact that swimming can enhance touch sensation be-
+havior in older age, leaves the second possibility open. To
+test this, we performed confocal imaging of the regrowth
+events after assaying for the functional restoration ( Fig.
+5A), and correlated the behavioral recovery with the ana-
+tomic patterns of regeneration. We found that swimming
+exercise in A3 worms accelerated the initiation of the re-
+growth as revealed by the increased number of filopodia-A
+-Swimming +Swimming
+xednI yrevoceR
+L4 A1 A5B
+050100150200250***
+******Thrashes / min
+L4A3 A5
+C
+Axotomy @ A5 stage
+3h0h 4hPost-axotomy PTRI Swimming Session 1Recovery in NGM Plate
+5.5h 12hSwimming  Session 2Post-regeneration 
+   PTRI
+24h 13.5hRecovery in NGM PlateD
+0.00.51.01.52.02.5Recovery Index**
+-Swimming +Swimming01234***
+*****ns
+A3 A4
+Figure 2. Multiple swimming-sessions after axotomy are critical
+for functional recovery in older ages. A, The scatter plot with
+bars showing the effect of swimming exercise on functional re-covery in L4 to A5 stage. The experiment was done in the trans-
+genic background P mec-7:: GFP ( muIs32 ),N=4–5 independent
+replicates, n=2 0 –25 number of animals tested. The raw data
+used for calculating recovery index values are given in
+Extended Data Figure 2-1 .B, Thrashing frequency of worms
+during the swim session at different life stages N=3 ,n=3 7 –78.
+C, Scheme for determining the effect of multiple swim sessions
+on functional recovery at A5 stage. Worms were allowed to
+swim for two sessions of 90 min each. D, Recovery Indices in
+worms at 24 h postaxotomy, which underwent multiple swim-ming sessions after axotomy at A5 stage as shown in C-panel,
+N=3 , n= 21. Statistics, for A,B,*p,0.05, ** p,0.01,
+***p,0.001, ANOVA with Tukey ’s multiple comparison test. For
+D,* *p,0.01, unpaired ttest. Error bars represent SD; ns, not
+significant.
+Research Article: New Research 7 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+like extension at the cut stump at 6 h postaxotomy ( Fig. 5 B,
+arrowheads). The median value for the number of filopodiais increased from 1 to 2 because of the exercise session(*p= 0.01, Mann –Whitney Utest). At 24 h postaxotomy,
+there was an enhancement in axonal regrowth as comparedwith the control condition ( Fig. 5 B). Regrowth value in the
+swimming group becomes 114.0 663.81 mma sc o m p a r e d
+with the value 83.46 641.62 mm obtained in non-swimming
+group (* p=0 . 0 4 , u n p a i r e d ttest). We also noticed that the
+percentage of self-fusion events with respect to the recon-nection events ( Ghosh-Roy et al., 2010 ;Neumann et al.,
+2011 ,2015 ;Basu et al., 2017 ;Neumann and Hilliard, 2019 )
+between proximal and distal ends are significantly increased
+because of the swimming session ( Fig. 5 C,D).We further investigated whether the improvement in
+functional restoration seen because of swim exercise cor-relates with the “fusion ”or“non-fusion ”events, or both the
+categories of regrowth. We found that there is a significantincrease in the recovery index for both the fusion event andnon-fusion events ( Fig. 5 E). Upon correlating the regrowth
+pattern of the non-fusion events, we found that the regrow-ing axon, which goes toward the ventral cord and showsan enrichment of the presynaptic reporter mCherry::RAB-3at the ventral cord ( Fig. 5 Fc, arrowheads) corresponds to
+successful recovery in the swimming group as the value ofthe recovery index of this class is 2.66 10.73 ( Fig. 5 G). We
+called this category of as ventral targeting events. The re-
+covery index corresponding to the ventral targeting eventsA1
+A2 A4 A5 A6 A8A3 A4 A5 A7 -Swimming /
++SwimmingDays of Adulthood
+PTRI 
+measurement24 hoursA
+muIs32 [Pmec-7::GFP]
+0.00.51.0ns****nsPosterior touch response
+ Index (PTRI)-Swimming +Swimming
+ns*********
+A2 A4A5 A6 A8BzdIs5 [Pmec-4::GFP]
+48h-Swimming +Swimming
+A8Posterior touch response
+ Index (PTRI)
+0.00.51.0
+nsnsns ns***************
+24h
+Duration between swimming 
+and functional assessmentA2 A4 A5 A6C
+Functional Assay (PTRI)
+A1Swimming 
+session 1
+(Days of adulthood)Swimming 
+session 4Swimming 
+session 2Swimming 
+session 3
+A7 A8zdIs5[Pmec-4::GFP]
+A3 A5D
+0.00.20.40.60.81.0
+-Swimming 
++Swimming*** PTRIE
+Figure 3. Swimming exercise prevents age-related decline in touch neuron function. A, A paradigm to study the effect of swimming
+exercise of 90-min duration on age-dependent decline of posterior gentle touch response. Touch response assay was performed at24 h postswimming session. B,C, Bar plots show the PTRIs measured at 24 h postswimming session at various life stages in two
+different reporter backgrounds, P mec-7:: GFP ( muIs32 ;B) and P mec-4 ::GFP ( zdIs5 ;C). In zdIs5 background, an additional single
+swim session was performed at 48 h before PTRI measurement at A8 stage; N=3–5 independent replicates, n=2 0 –72 number of
+worms tested. D, Scheme for multiple swimming sessions to enhance touch response at A8 stage. E, The effect of multiple swim
+sessions on PTRI values at A8 stage, N=3 ,n=2 4 –25. Statistics, For B,C,*p,0.05, ** p,0.01, *** p,0.001 ANOVA with Tukey ’s
+multiple comparison test. For E, ***p,0.001, unpaired ttest. Error bars represent SD; ns, not significant.
+Research Article: New Research 8 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+was significantly higher as compared with the index ob-
+tained in the other classes such as “straight regrowth ”(Fig.
+5Fa)a n d “multibranch regrowth ”(Fig. 5 Fb). The percent-
+age of ventral targeting events got increased on swim exer-
+cise ( Fig. 5 H). Since the distal end often persisted after
+injury ( Fig. 5 Fa,b), we asked whether the “intact distal end ”
+could be contributing to the functional recovery. However,
+the recovery indices in the distal intact and “distal degener-
+ated ”categories were comparable in both swimming and
+non-swimming groups ( Fig. 5 I). Therefore, the enhance-
+ment of functional restoration because of swim exercise
+corresponds to successful rewiring process.
+Exercise-mediated improvement in touch neuron
+function requires metabolic energy sensor AAK-2
+During exercise, there is a consumption of energy in the
+form of ATP, which results in an increase in an AMP:ATPratio ( Chen et al., 2003 ). The increase in this ratio is
+sensed by the metabolic energy sensor kinase known asAMPK ( Hardie, 2011 ). The physical exercise in mamma-
+lian system leads to activation of AMPK ( Chen et al.,
+2003 ;Gibala et al., 2009 ). As in mammals, the two cata-
+lytic subunits of AMPK in C. elegans are encoded by two
+genes aak-1 and aak-2 (Apfeld et al., 2004 ). Wehypothesized that the decrease in ATP levels after the 90-
+min swimming session might be sensed by AAK-2 in neu-
+rons or muscle to regulate regeneration. To test this pos-
+sibility, we gave the aak-2 mutant a 90-min swim session
+at various life stages starting from A1 to A7 and measuredthe posterior touch response (PTRI) after 24 h ( Fig. 6 A).
+We found that there is drop in touch response index value
+inaak-2 mutant starting from A5 stage similar to the wild
+type ( Fig. 6 B). However, the swim session could not ele-
+vate the PTRI in any of the life stages ( Fig. 6 B). We won-
+dered, whether the abrogation of the exercise-inducedelevation in PTRI value in aak-2(0) is due the reduced
+swimming ability of the mutant. However, the thrashing
+frequency in this mutant at L4, A3, and A5 stages were
+comparable to the same values in wild-type control ( Fig.
+6C). This indicated that AAK-2 might be specifically re-
+quired for the exercise-induced changes in neuronal re-
+generation and function ( Fig. 6 D). To understand the
+tissue-specific requirement of aak-2 in this phenomenon,
+we have expressed aak-2 in muscle, epidermal cells and
+touch neuron exclusively. We found that both touch neuronand muscle-specific expression of aak-2 can rescue the
+swim session-induced phenomenon significantly ( Fig. 6 E).
+However, no rescue was observed when aak-2 was ex-
+pressed in epithelial cells situated just next to the PLM axonA
+A3 Stage
+dlk-1(0) mlk-1(0) ebp-1(0) Wild Type-Swimming +Swimming
+012Recovery Indexnsnsns
+***B
+L4 Stage
+dlk-1(0)ebp-1(0) Wild Type-Swimming +SwimmingC
+24h Post-axotomy
++Swimming ebp-1(0) dlk-1(0)
+ Wild type30 um
++Swimming Swimming +Swimming D
+ebp-1- (0)dlk-1 (0))
+mu( htgnel htworgeR
+-Swimming +Swimming
+-Swimming 
++Swimming050100150ns
+nsE
+dlk-1(0)ebp-1(0)Wild Type
+zdIs5A3 stage
+050100150200250Thrashes/minnsFAxon Injury
+DLK-1
+MKK-4
+PMK-3MLK-1
+MEK-1
+KGB-1
+Axon Regeneration0123Recovery Index**
+nsns
+Figure 4. Swimming session-related improvement in functional recovery is dependent on axon regeneration. A, Pathway diagram of two
+parallel p38-MAPK pathways involving DLK-1 and MLK-1 in axon regeneration. B, The quantification showing the effect of swimming exer-
+cise on the recovery index measured at 24 h postaxotomy in the dlk-1(0) ,mlk-1(0) ,a n d ebp-1(0) at A3 stage. N=3–4 independent replicates,
+n=1 9 –42 number of worms tested. C, The recovery indices measured at 24 h postaxotomy in the dlk-1(0) andebp-1(0) at L4 stage with
+and without swimming conditions N=3–5,n=2 2 –30.D,E, Representative confocal images of PLM axons at 24 h postaxotomy in the wild-
+type control and mutants affecting axon regeneration pathways ( D) and axon regrowth values ( E) measured from the proximal cut tips (ar-
+rows in D),N=3–4,n=1 9 –25. Red arrowheads represent the filipodia-like structure at the regrowing tips, and arrows indicate the position
+of axotomy. F, Thrashing frequencies in the mutants at A3 stage N=3–4,n=2 4 –85. Statistics, for B,C,E,F,* *p,0.01, *** p,0.001;
+ANOVA with Tukey ’s multiple comparison test. Error bars represent SD; ns, not significant.
+Research Article: New Research 9 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+A
+Axotomy at 
+ A3 stagePTRI 
+Post-axotomy
+4h 5.5h 3h 0hRecovery
+in NGM plate
+24hPTRI Post regenerationSwim session
+Confocal imaging
++Swim -Swim    30μm Median=1
+Median=2
+B
+At 6 h post axotomy At 24 h post axotomy
+Successful Fusion
+Only Reconnectionpoint of fusionC
+-Swimming +Swimming% of axonsD
+01234Recovery Index5E
+Straight regrowth
+Cm
+Ventral targetingMultibranch F
+Point of reconnection
+G
+02040Percent Ventral
+Targeting (%)103050
+**H-Swimming +Swimming
+-Swimming +SwimmingnsI distal intact
+distal degenerationTypes of ‘non-fusion’ events
+012345
+ns**
+**Regrowth
+Reconnection
+Fusion/Reconnection
+Recovery Index-Swimming
++Swimming-Swimming
++Swimming
+CmFusion / Reconnection events     30μm
+mCherry::RAB-3
+    5μmmCherry::RAB-3 +GFP
+a
+b
+cD
+V
+Dorsal (D)
+Ventral (V)
+D
+VCmCm
+    30μm    30μm
+degenerated distal endintact distal endintact distal end*** **
+Fusion Non-fusion
+*********
+ns ns
+Ventral
+targeting Straight
+Non-FusionMulti
+branch 012345Recovery Index050100 **145/145
+43/145
+28/43
+123/123
+32/123
+29/32
+Figure 5. Swimming exercise promotes both axon regrowth and the functional recovery. A, Experimental design to correlate func-
+tional recovery with the anatomic features of axon regrowth in worms expressing P mec-7 ::GFP ( muIs32 ) at A3 stage. The confocal
+imaging was done after the measurement of PTRI values at the 24 h postaxotomy. B, Representative images and illustration of PLM
+axons from control and swimming group at 6 and 24 h postaxotomy. Arrows and arrowheads indicate the position of axotomy and
+filopodia-like structures, respectively. C, Confocal images of fusion and “reconnection ”events. Arrows indicate the position of axot-
+omy. D, Bar graph representing the % of different types of regeneration events in swimming and non-swimming groups, N=3–5
+Research Article: New Research 10 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+A1
+A2 A4 A5 A6 A8A3 A4 A5 A7
+-Swimming /+Swimming
+PTRI measurement24 hoursaak-2(0)  backgroundA
+6A 2AA 58 A 4A
+aak-2(0)-Swimming   +Swimming
+0.00.51.0ns nsnsns
+ns******Posterior touch response
+ index (PTRI)B
+Wild Type   aak-2(0)
+L4 A3 A5050100150200250Thrashes/minns
+ns
+ns***C D
+Swimming
+AMP/ATP 
+AMPK
+Functional
+ Improvement
+[Pmec-4::aak-2] [Pmyo-3::aak-2][Pdpy-7::aak-2]
+aak-2(0)-Swimming   +SwimmingPosterior touch response
+ index (PTRI)E
+A4 A5Paralysed 24h
+A4 A5Paralysed 24hin a swimming well
++MetforminFunctional Assay(PTRI)
+Functional Assay(PTRI)F G
+-Metformin
+  +Metformin
+*** ns
+0.00.51.0Posterior touch response
+ index (PTRI)
+Wild type aak-2(0)0.00.51.0*** *** ns
+Figure 6. Swimming mediated improvement in touch response in older age is dependent on AAK-2. A, Schematic to study the ef-
+fect of single swimming session on age- related decline in touch neurons function in aak-2 mutant. Touch response assay was per-
+formed 24 h postswimming session. B, The PTRIs measured at 24 h postswimming session in aak-2(0) at different life stages, N=4–
+6 independent replicates, n=2 3 –68 number of animals. C, The thrashing frequencies (body bends/min) in wild type and aak-2(0) at
+larval (L4) and adult stages, N=3–4,n=3 3 –90.D, A pathway diagram explaining how a swim session might enhance touch neuron
+function through AMPK. E, The effect of swimming exercise on the decline in touch response at A5 stage in aak-2(0) expressing
+Pmec-4::aak-2 (shrEx362) ,Pmyo-3::aak-2 (shrEx364) , and Pdpy-7::aak-2(shrEx420) transgenes, N=3 ,n=2 5 –41.F, Schematics of
+metformin treatment to the paralyzed worms in the swimming well to study the effect of AMPK activation in touch neuron function
+at A5 stage. The wild-type and aak-2(0) worms were pretreated with 5 m Mlevamisole for 15 s before the swimming session. G,
+Changes in PTRI values at at 24 h posttreatment with 50 m Mmetformin as shown in F,N=5 , n=2 8 –51. Statistics, for B,C,
+***p,0.001; ANOVA with Tukey ’s multiple comparison test. For E,G, ***p,0.001; unpaired ttest. Error bars represent SD; ns, not
+significant.continuedindependent replicates, n= 123 –145 neurons. E, Bar graph with scatter plots presenting changes in the recovery index correspond-
+ing to the fusion and non-fusion events because of swim session. N=3–5,n=5 2 –91 worms. F, Confocal images representing differ-
+ent types of non-fusion regeneration events. The worms are expressing the presynaptic marker P mec-4 ::mCherry-RAB3 ( tbIs227 )
+and P mec-7:: GFP ( muIs32 ). Yellow dashed box showing the enrichment of RAB-3 at the ventral cord region in the ventral targeting
+event. Arrowheads indicate enriched RAB-3 puncta. Red arrows indicate the position of axotomy; Cm denotes coelomocyte cell ex-
+pressing the co-injection marker. G, Bar graph with scatter plots showing the changes in the recovery index because of swim exer-
+cise in different classes of non-fusion events, N=3–5,n=2 1 –39.H, The change in the % of ventral targeting events because of
+swimming exercise. I, A comparison of recovery indices between the distal axon intact and distal axon degenerated events with re-
+spect to swimming exercise, N=3–5,n=3 1 –60. Statistics, for E,G,I,* *p,0.01, *** p,0.001 ANOVA with Tukey ’s multiple compar-
+ison test. For D,H,* *p,0.01
+x2test. Error bars represent SD; ns, not significant.
+Research Article: New Research 11 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+(Fig. 6 E). Next, we tested whether the AMPK activator met-
+formin ( Foretz et al., 2014 ;Rena et al., 2017 ) can mimic the
+benefits of swimming in touch neuron function ( Fig. 6 F). To
+address this question, we treated the worms with 50 m M
+metformin while they were kept paralyzed in the swimming
+well for 90 min ( Fig. 6 F). Metformin treatment was sufficient
+to enhance the PTRI value in A5 worms ( Fig. 6 G). This effect
+of metformin was absent in aak-2 mutant ( Fig. 6 G) indicating
+that effect of metformin in our assays is specific to AAK-2
+function. These observations suggest that neuron-specificand muscle-specific activity of AAK-2 is important for swim-
+exercise-induced enhancement of touch neuron function.
+Activation of the energy sensor AAK-2 after axotomy
+is sufficient to promote axon regrowth and functional
+restoration
+To address the role of AMPK/AAK-2 during swimming,
+we treated the 3-d-old (A3) worms at 3 h postaxotomy
+with 50 m Mmetformin only during the 90-min swim4h 5.5h 3h 0hControl24hParalysed
++MetforminAxotomy Post-axotomy PTRISwim sessionRecovery in NGM platePost-regeneration PTRI
+4h 5.5h 3h 0h 24hParalysedAxotomy Post-axotomy PTRISwim sessionRecovery in NGM platePost-regeneration PTRIA
+Experi
+mentalB
+20 um24h Post axotomyParalysed
+Paralysed
++MetforminC
+ParalysedParalysed + 
+Metformin050100150200250Regrowth Length (um)***D
+Non-FusionFusionParalysed + Metformin  Paralysed
+0123Recovery Index*** *E-Swimming   +Swimming
+Wild Type aak-2(0) Pmec-4::
+aak-2Pmyo-3::
+aak-2
+aak-2 (0)Pdpy-7::
+aak-2FParalysedParalysed + 
+Metformin0123
+ReednI yrevocx***
+012345Recovery Index**
+ns**
+**ns
+Figure 7. Swimming-mediated improvement in functional recovery after axon regeneration involves the energy sensor AAK-2. A,
+Strategy for the AMPK activation during the swim session by treating with metformin. Wild-type worms were pretreated with 5 m M
+levamisole for 15 s before the swimming session to paralyze them. 50 m Mmetformin was applied to the paralyzed worms in the
+swimming well. B, The effect of metformin treatment on recovery index at 24 h postaxotomy at A3 stage N= 5 independent repli-
+cates, n=4 7 –48 number of worms. C,D, Representative confocal images ( C) and quantification ( D) of PLM axon regrowth at 24 h
+postinjury in wild-type worms treated with or without metformin after axotomy at A3 stage. N=5 ,n=2 7 –32. Arrows indicate the po-
+sition of axotomy. E, Bar graph represents the comparison of recovery index in control and metformin-treated worms at A3 stage,
+N=3 ,n=4 8 –49.F, The effect of touch neuron, muscle and epidermal cell-specific expression of aak-2 inaak-2 mutant on swimming
+induced enhancement in recovery index. The rescue transgenes P mec-4::aak-2 (shrEx362 ), Pmyo-3::aak-2 (shrEx364 ), and P dpy-7::
+aak-2 (shrEx420 ) were used, N=3 ,n=2 0 –37. The regrowth length and basal level of recovery index values in aak-2(0) mutant with
+or without the transgenes of aak-2 at L4 stage is presented in Extended Data Figure 7-1 . Statistics, for, B,D,E,F,*p,0.05,
+**p,0.01, *** p,0.001 unpaired ttest. Error bars represent SD; ns, not significant.
+Research Article: New Research 12 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+session, while these animals were paralyzed with levami-
+sole in the swimming well ( Fig. 7 A). Previously we have
+shown that when worms are paralyzed during the swim
+session, enhancement of functional restoration is blocked
+(Fig. 1 F). We found that metformin treatment significantly
+enhanced the recovery index as compared with the non-
+treated control ( Fig. 7 B). Total regrowth from the proxi-
+mal stump ( Fig. 7 C, red arrows) at 24 h postaxotomy
+was also increased significantly in the metformin-
+treated group ( Fig. 7 C,D). The regrowth value becomes
+91.77 636.19 mm in metformin-treated group as com-
+pared with 62.87 624.36 mm in untreated group. We no-
+ticed that there is an increase in the recovery index forboth non-fusion-related and fusion-related events at A3
+stage ( Fig. 7 E). These observations suggest that AMPK
+activation is sufficient to mimic the effect of swimming
+exercise in axonal regeneration as well as functional
+recovery.
+The aak-2 mutant shows reduced axon regrowth
+(Hubert et al., 2014 ; Extended Data Fig. 7-1 A,B), which re-
+sulted in a loss of swim-exercise-mediated enhancement
+of postaxotomy recovery index at A3 stage ( Fig. 7 F). We
+found that the expression of aak-2 either in touch neurons
+or in muscle rescues the axon regrowth defect in aak-2
+mutant at L4 stage (Extended Data Fig. 7-1 A,B).
+However, the postinjury recovery index was only rescuedsignificantly by the touch neuron-specific expression of
+aak-2 at L4 stage (Extended Data Fig. 7-1 C). These trans-
+genes also rescued the loss in benefit of swim session infunctional recovery in aak-2 mutant at A3 stage ( Fig. 7 F).
+Expression of aak-2 in epithelial cells however did notrescue these phenotypes in aak-2 mutant ( Fig. 7 F;
+Extended Data Fig. 7-1 A–C). These results indicate that
+AAK-2 acts both cell autonomously in neuron and non-
+cell autonomously in muscle for transducing the effect of
+swim exercise in effective axon regeneration.
+Discussion
+In this study, using a well-established swimming para-
+digm we have studied the effect of physical exercise in
+functional recovery after the axonal injury of mechanosen-
+sory neuron. A swim session following axotomy promotes
+functional recovery regardless of age. This exercise regi-
+men can also help overcome age-related decline in touchneuron function. By correlating anatomic features of axonregrowth with the behavioral index, we found that theswimming exercise enhances both postinjury axon re-
+growth as well as functional recovery. We further showed
+that the activity of the metabolic energy sensor AMPK inmuscle as well as in injured neuron is critical in convertingthe energy spent during exercise into the positive effect inaxon regeneration ( Fig. 8 ).
+InC. elegans, it is shown that a single swim session of
+90 min presents exercise-like features such as muscle fa-
+tigue, a reduction of fat level in muscle, decrease in car-
+bohydrate metabolism and enhanced mitochondrial
+oxidation ( Laranjeiro et al., 2017 ). Many of these phenom-
+ena share commonalities with the physical exercise in ver-
+tebrate models ( Thompson et al., 2001 ;Rivera-Brown and
+Frontera, 2012 ;Vina et al., 2012 ). In continuation to this
+finding, multiple and regular exercise sessions increaseAxonal Injury
+Swimming Exercise
+AMP/ATP 
+AMPKAxonal Injury
+ Metformin No swimming
+Basal level of 
+axon regeneration
+and 
+Functional recoveryEnhanced
+axon regeneration
+and
+Functional recovery
+Figure 8. Proposed model illustrating how swimming exercise promotes axon regeneration. Exercise session after axonal injury
+leads to the consumption of cellular ATP resulting in activation of AMPK. An activated form of AMPK promotes axon regeneration
+and functional restoration.
+Research Article: New Research 13 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+life-span, health quality, and protect against neurodegen-
+eration in models of tauopathy, Alzheimer ’s disease, and
+Huntington ’s disease ( Laranjeiro et al., 2019 ). It also in-
+creases overall learning ability as seen in other modelsand humans ( Kobilo et al., 2014 ;Moon et al., 2016 ). These
+findings made it very relevant to address the role of physi-
+cal exercise in promoting the repair of the injured neuronalcircuitry using a worm model. We found that a 90-minswim session after the axotomy is sufficient to overcomeage-related decline in axon regeneration and functionalrestoration. Intriguingly, this exercise paradigm is alsosufficient to improve the functional recovery in earlystages of life. Previous literature has demonstrated the
+benefit of physical exercise in peripheral nerve regenera-
+tion ( Park and Höke, 2014 ;Gordon and English, 2016 ;
+Chen et al., 2017b ). Since our behavioral assay is specific
+to single neuron responsible for touch sensation, we pro-vided a direct evidence that enhanced axon regrowth be-cause of physical exercise drives functional recovery.
+An immediate effect of exercise is a reduction in the ratio of
+ATP/AMP ( Chen et al., 2003 ), which is sensed by AMP
+Kinase ( Hardie, 2011 ). Following the swimming session, we
+recorded a significant drop in ATP level. Therefore, we specu-lated a role of AMPK/AAK-2 in exercise-mediated impro-vement in touch neurons function. Consistent with thishypothesis, the loss of aak-2 significantly abolished the im-
+provement in touch neurons regeneration and function be-cause of swimming exercise. Conversely, activation of AMPK
+using metformin was sufficient to promote axon regeneration.
+Tissue-specific rescue experiments suggested that AAK-2acts both in neuron and muscle for enhanced axon regenera-tion and functional recovery. Few studies indicated thatactivation of AMPK by metformin has positive effect after spi-nal cord injury ( Zhang et al., 2017 ;Guo et al., 2018 ).
+Pharmacological activation of AMPK can promote musclefiber regeneration in a mouse myopathy model ( Peralta et al.,
+2016 ). The AMPK agonist AICAR enhances spatial memory
+in wild-type animals, but this improvement was lacking inmuscle-specific mutant of AMPK pointing toward the link be-tween muscles and nervous system ( Kobilo et al., 2014 ).
+The question is how activated AAK-2 could be enhanc-
+ing axon regeneration. It has been observed that postex-
+ercise activation of AMPK leads to the ATP synthesis via
+various metabolic pathways ( Winder and Hardie, 1996 ;
+Hutber et al., 1997 ;Hardie, 2004 ). It also leads to mito-
+chondrial biogenesis through proliferator-activated recep-tor
+gcoactivator-1 a(PGC-1 a;Zong et al., 2002 ;
+Kukidome et al., 2006 ). After a neuronal injury, the growth
+cone formation and subsequent regrowth is driven by var-
+ious enzymes and motors. This requires high level of en-
+ergy ( Bradke et al., 2012 ;Zhou et al., 2016 ). Therefore,
+AMPK-driven ATP production can boost up the initiation
+of axon regeneration process as seen in our analysis.
+Apart from restoring the cellular energy levels, AMPK also
+regulates autophagy which allows the cell to survive the
+metabolic stress ( Zhao and Klionsky, 2011 ). Autophagy
+induction has been linked with the stabilization of microtu-
+bules and enhancement of axonal regeneration after neu-
+ronal injury ( He et al., 2016 ;Ko et al., 2020 ). Other
+possibility through which the AMPK can enhance axon re-
+generation is through DAF-16/FOXO1 activation. Theactivated AMPK can directly phosphorylate and regulate
+DAF-16 ( Greer et al., 2007 ), which is known to regulate
+axon regeneration ( Byrne et al., 2014 ). It would be an in-
+teresting direction to unravel how AMPK signaling cou-ples muscle and neuron in neuronal regeneration.
+References
+Abay ZC, Wong MY, Teoh JS, Vijayaraghavan T, Hilliard MA,
+Neumann B (2017) Phosphatidylserine save-me signals drive func-tional recovery of severed axons in Caenorhabditis elegans . Proc
+Natl Acad Sci USA 114:E10196 –E10205.
+Apfeld J, O ’Connor G, McDonagh T, DiStefano PS, Curtis R (2004)
+The AMP-activated protein kinase AAK-2 links energy levels andinsulin-like signals to lifespan in C. elegans . Genes Dev 18:3004 –
+3009.
+Asensio-Pinilla E, Udina E, Jaramillo J, Navarro X (2009) Electrical
+stimulation combined with exercise increase axonal regeneration
+after peripheral nerve injury. Exp Neurol 219:258 –265.
+Basu A, Dey S, Puri D, Das Saha N, Sabharwal V, Thyagarajan P,
+Srivastava P, Koushika SP, Ghosh-Roy A (2017) let-7 miRNA con-
+trols CED-7 homotypic adhesion and EFF-1-mediated axonal self-
+fusion to restore touch sensation following injury. Proc Natl Acad
+Sci USA 114:E10206 –E10215.
+Bradke F, Fawcett JW, Spira ME (2012) Assembly of a new growth
+cone after axotomy: the precursor to axon regeneration. Nat Rev
+Neurosci 13:183 –193.
+Brenner S (1974) The genetics of Caenorhabditis elegans . Genetics
+77:71 –94.
+Brosius Lutz A, Barres BA (2014) Contrasting the glial response to
+axon injury in the central and peripheral nervous systems. Dev Cell
+28:7 –17.
+Buckingham SD, Sattelle DB (2009) Fast, automated measurement
+of nematode swimming (thrashing) without morphometry. BMC
+Neurosci 10:84.
+Byrne AB, Hammarlund M (2017) Axon regeneration in C. elegans :
+worming our way to mechanisms of axon regeneration. Exp Neurol287:300 –309.
+Byrne AB, Walradt T, Gardner KE, Hubbert A, Reinke V, Hammarlund
+M (2014) Insulin/IGF1 signaling inhibits age-dependent axon re-
+generation. Neuron 81:561 –573.
+Capogrosso M, Milekovic T, Borton D, Wagner F, Moraud EM,
+Mignardot JB, Buse N, Gandar J, Barraud Q, Xing D, Rey E, DuisS, Jianzhong Y, Ko WKD, Li Q, Detemple P, Denison T, Micera S,
+Bezard E, Bloch J, et al. (2016) A brain-spine interface alleviating
+gait deficits after spinal cord injury in primates. Nature 539:284 –
+288.
+Chalfie M, Sulston J (1981) Developmental genetics of the mechano-
+sensory neurons of Caenorhabditis elegans . Dev Biol 82:358 –370.
+Chalfie M, Sulston JE, White JG, Southgate E, Thomson JN, Brenner
+S (1985) The neural circuit for touch sensitivity in Caenorhabditis
+elegans . J Neurosci 5:956 –964.
+Chaudhari SN, Kipreos ET (2017) Increased mitochondrial fusion al-
+lows the survival of older animals in diverse C. elegans longevity
+pathways. Nat Commun 8:182.
+Chen J, Ou Y, Li Y, Hu S, Shao LW, Liu Y (2017a) Metformin extends
+C. elegans lifespan through lysosomal pathway. Elife 6:e31268.
+Chen YS, Way TD, Chen YH, Yao CH, Yang TY, Liao CF (2017b)
+Effects of swimming exercise on nerve regeneration in a rat sciatic
+nerve transection model. Biomedicine (Taipei) 7:3.
+Chen L, Wang Z, Ghosh-Roy A, Hubert T, Yan D, O ’Rourke S,
+Bowerman B, Wu Z, Jin Y, Chisholm AD (2011) Axon regeneration
+pathways identified by systematic genetic screening in C. elegans .
+Neuron 71:1043 –1057.
+Chen ZP, Stephens TJ, Murthy S, Canny BJ, Hargreaves M, Witters
+LA, Kemp BE, McConell GK (2003) Effect of exercise intensity on
+skeletal muscle AMPK signaling in humans. Diabetes 52:2205 –
+2212.
+Research Article: New Research 14 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+Chuang HS, Kuo WJ, Lee CL, Chu IH, Chen CS (2016) Exercise in an
+electrotactic flow chamber ameliorates age-related degenerationinCaenorhabditis elegans . Sci Rep 6:28064.
+Culetto E, Baylis HA, Richmond JE, Jones AK, Fleming JT, Squire
+MD, Lewis JA, Sattelle DB (2004) The Caenorhabditis elegans unc-
+63 gene encodes a levamisole-sensitive nicotinic acetylcholine re-
+ceptor alpha subunit. J Biol Chem 279:42476 –42483.
+Ding C, Hammarlund M (2018) Aberrant information transfer inter-
+feres with functional axon regeneration. Elife 7:e38829.
+Doyle LM, Roberts BL (2006) Exercise enhances axonal growth and
+functional recovery in the regenerating spinal cord. Neuroscience141:321 –327.
+Foretz M, Guigas B, Bertrand L, Pollak M, Viollet B (2014) Metformin:
+from mechanisms of action to therapies. Cell Metab 20:953 –966.
+Formento E, Minassian K, Wagner F, Mignardot JB, Le Goff-
+Mignardot CG, Rowald A, Bloch J, Micera S, Capogrosso M,Courtine G (2018) Electrical spinal cord stimulation must preserveproprioception to enable locomotion in humans with spinal cord
+injury. Nat Neurosci 21:1728 –1741.
+Fu J, Wang H, Deng L, Li J (2016) Exercise training promotes func-
+tional recovery after spinal cord injury. Neural Plast 2016:4039580.
+Geoffroy CG, Hilton BJ, Tetzlaff W, Zheng B (2016) Evidence for an
+age-dependent decline in axon regeneration in the adult mamma-lian central nervous system. Cell Rep 15:238 –246.
+Ghosh R, Emmons SW (2008) Episodic swimming behavior in the
+nematode C. elegans . J Exp Biol 211:3703 –3711.
+Ghosh-Roy A, Wu Z, Goncharov A, Jin Y, Chisholm AD (2010)
+Calcium and cyclic AMP promote axonal regeneration inCaenorhabditis elegans and require DLK-1 kinase. J Neurosci
+30:3175 –3183.
+Ghosh-Roy A, Goncharov A, Jin Y, Chisholm AD (2012) Kinesin-13
+and tubulin posttranslational modifications regulate microtubulegrowth in axon regeneration. Dev Cell 23:716 –728.
+Gibala MJ, McGee SL, Garnham AP, Howlett KF, Snow RJ,
+Hargreaves M (2009) Brief intense interval exercise activates
+AMPK and p38 MAPK signaling and increases the expression ofPGC-1alpha in human skeletal muscle. J Appl Physiol (1985)106:929 –934.
+Gordon T, English AW (2016) Strategies to promote peripheral nerve
+regeneration: electrical stimulation and/or exercise. Eur J Neurosci
+43:336 –350.
+Greer EL, Dowlatshahi D, Banko MR, Villen J, Hoang K, Blanchard D,
+Gygi SP, Brunet A (2007) An AMPK-FOXO pathway mediates lon-gevity induced by a novel method of dietary restriction in C. ele-
+gans . Curr Biol 17:1646 –1656.
+Guo Y, Wang F, Li H, Liang H, Li Y, Gao Z, He X (2018) Metformin
+protects against spinal cord injury by regulating autophagy via themTOR signaling pathway. Neurochem Res 43:1111 –1117.
+Hammarlund M, Nix P, Hauth L, Jorgensen EM, Bastiani M (2009)
+Axon regeneration requires a conserved MAP kinase pathway.Science 323:802 –806.
+Hardie DG (2004) The AMP-activated protein kinase pathway –new
+players upstream and downstream. J Cell Sci 117:5479 –5487.
+Hardie DG (2011) AMP-activated protein kinase-an energy sensor
+that regulates all aspects of cell function. Genes Dev 25:1885 –
+1908.
+He M, Ding Y, Chu C, Tang J, Xiao Q, Luo Z-G (2016) Autophagy in-
+duction stabilizes microtubules and promotes axon regenerationafter spinal cord injury. Proc Natl Acad Sci USA 113:11324 –11329.
+He Z, Jin Y (2016) Intrinsic control of axon regeneration. Neuron
+90:437 –451.
+Hisamoto N, Matsumoto K (2017) Signal transduction cascades in
+axon regeneration: insights from C. elegans . Curr Opin Genet Dev
+44:54 –60.
+Horowitz AM, Fan X, Bieri G, Smith LK, Sanchez-Diaz CI, Schroer
+AB, Gontier G, Casaletto KB, Kramer JH, Williams KE, Villeda SA
+(2020) Blood factors transfer beneficial effects of exercise on neu-rogenesis and cognition to the aged brain. Science 369:167 –173.Hubert T, Wu Z, Chisholm AD, Jin Y (2014) S6 kinase inhibits intrinsic
+axon regeneration capacity via AMP kinase in Caenorhabditis ele-
+gans . J Neurosci 34:758 –763.
+Huebner EA, Strittmatter SM (2009) Axon regeneration in the periph-
+eral and central nervous systems. Results Probl Cell Differ 48:339 –
+351.
+Hutber CA, Hardie DG, Winder WW (1997) Electrical stimulation inac-
+tivates muscle acetyl-CoA carboxylase and increases AMP-acti-vated protein kinase. Am J Physiol 272:E262 –E266.
+Johnson VE, Stewart W, Smith DH (2013) Axonal pathology in trau-
+matic brain injury. Exp Neurol 246:35 –43.
+Karssemeijer EGA, Aaronson JA, Bossers WJ, Smits T, Olde Rikkert
+MGM, Kessels RPC (2017) Positive effects of combined cognitiveand physical exercise training on cognitive function in older adults
+with mild cognitive impairment or dementia: a meta-analysis.
+Ageing Res Rev 40:75 –83.
+Ko SH, Apple EC, Liu Z, Chen L (2020) Age-dependent autophagy in-
+duction after injury promotes axon regeneration by limiting
+NOTCH. Autophagy 16:2052 –2068.
+Kobilo T, Guerrieri D, Zhang Y, Collica SC, Becker KG, van Praag H
+(2014) AMPK agonist AICAR improves cognition and motor coordi-
+nation in young and aged mice. Learn Mem 21:119 –126.
+Kukidome D, Nishikawa T, Sonoda K, Imoto K, Fujisawa K, Yano M,
+Motoshima H, Taguchi T, Matsumura T, Araki E (2006) Activationof AMP-activated protein kinase reduces hyperglycemia-induced
+mitochondrial reactive oxygen species production and promotes
+mitochondrial biogenesis in human umbilical vein endothelial cells.Diabetes 55:120 –127.
+Kuwabara N, Nakamoto K, Shirose Y, Kiso N, Kokubun T, Murata K,
+Kanemura N (2018) Effect of exercise on the cell death and axonal
+regeneration in a rat model of peripheral nerve injury. Ann PhysRehab Med 61:e261.
+Laha B, Stafford BK, Huberman AD (2017) Regenerating optic path-
+ways from the eye to the brain. Science 356:1031 –1034.
+Laranjeiro R, Harinath G, Burke D, Braeckman BP, Driscoll M (2017)
+Single swim sessions in C. elegans induce key features of mam-
+malian exercise. BMC Biol 15:30.
+Laranjeiro R, Harinath G, Hewitt JE, Hartman JH, Royal MA, Meyer JN,
+Vanapalli SA, Driscoll M (2019) Swim exercise in Caenorhabditis ele-
+gans extends neuromuscular and gut healthspan, enhances learning
+ability, and protects against neurodegeneration. Proc Natl Acad Sci
+USA 116:23829 –23839.
+Mahar M, Cavalli V (2018) Intrinsic mechanisms of neuronal axon re-
+generation. Nat Rev Neurosci 19:323 –337.
+Moon HY, Becke A, Berron D, Becker B, Sah N, Benoni G, Janke E,
+Lubejko ST, Greig NH, Mattison JA, Duzel E, van Praag H (2016)
+Running-induced systemic cathepsin B secretion is associated
+with memory function. Cell Metab 24:332 –340.
+Neumann B, Hilliard MA (2019) Axonal repair by fusion: pitfalls, con-
+sequences and solutions. FASEB J 33:13071 –13074.
+Neumann B, Nguyen KC, Hall DH, Ben-Yakar A, Hilliard MA (2011)
+Axonal regeneration proceeds through specific axonal fusion in
+transected C. elegans neurons. Dev Dyn 240:1365 –1372.
+Neumann B, Coakley S, Giordano-Santini R, Linton C, Lee ES,
+Nakagawa A, Xue D, Hilliard MA (2015) EFF-1-mediated regenera-
+tive axonal fusion requires components of the apoptotic pathway.Nature 517:219 –222.
+Nix P, Hisamoto N, Matsumoto K, Bastiani M (2011) Axon regenera-
+tion requires coordinate activation of p38 and JNK MAPK path-
+ways. Proc Natl Acad Sci USA 108:10738 –10743.
+Palikaras K, Tavernarakis N (2016) Intracellular assessment of ATP
+levels in Caenorhabditis elegans . Bio Protoc 6:e22048.
+Park JS, Höke A (2014) Treadmill exercise induced functional recov-
+ery after peripheral nerve repair is associated with increased levels
+of neurotrophic factors. PLoS One 9:e90245.
+Peralta S, Garcia S, Yin HY, Arguello T, Diaz F, Moraes CT (2016)
+Sustained AMPK activation improves muscle function in a mito-
+chondrial myopathy mouse model by promoting muscle fiber re-
+generation. Hum Mol Genet 25:3178 –3191.
+Research Article: New Research 15 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
+Pulak RA, Anderson P (1988) Structures of spontaneous deletions in
+Caenorhabditis elegans . Mol Cell Biol 8:3748 –3754.
+Rena G, Hardie DG, Pearson ER (2017) The mechanisms of action of
+metformin. Diabetologia 60:1577 –1585.
+Richardson CE, Shen K (2019) Neurite development and repair in
+worms and flies. Annu Rev Neurosci 42:209 –226.
+Rivera-Brown AM, Frontera WR (2012) Principles of exercise physiol-
+ogy: responses to acute exercise and long-term adaptations to
+training. PM R 4:797 –804.
+Sachdeva R, Theisen CC, Ninan V, Twiss JL, Houlé JD (2016)
+Exercise dependent increase in axon regeneration into peripheralnerve grafts by propriospinal but not sensory neurons after spinalcord injury is associated with modulation of regeneration-associ-ated genes. Exp Neurol 276:72 –82.
+Sood P, Murthy K, Kumar V, Nonet ML, Menon GI, Koushika SP
+(2018) Cargo crowding at actin-rich regions along axons causeslocal traffic jams. Traffic 19:166 –181.
+Thompson PD, Crouse SF, Goodpaster B, Kelley D, Moyna N,
+Pescatello L (2001) The acute versus the chronic response to exer-cise. Med Sci Sports Exerc 33:S438 –S445, discussion S452-
+S453.
+Truong T, Karlinski ZA, O ’Hara C, Cabe M, Kim H, Bakowska JC
+(2015) Oxidative stress in Caenorhabditis elegans : protective ef-
+fects of spartin. PLoS One 10:e0130455.
+van den Brand R, Mignardot JB, von Zitzewitz J, Le Goff C, Fumeaux
+N, Wagner F, Capogrosso M, Martin Moraud E, Micera S, SchurchB, Curt A, Carda S, Bloch J, Courtine G (2015) Neuroprosthetictechnologies to augment the impact of neurorehabilitation after
+spinal cord injury. Ann Phys Rehabil Med 58:232 –237.
+van Hedel HJ, Dietz V (2010) Rehabilitation of locomotion after spinal
+cord injury. Restor Neurol Neurosci 28:123 –134.
+van Niekerk EA, Tuszynski MH, Lu P, Dulin JN (2016) Molecular and
+cellular mechanisms of axonal regeneration after spinal cord injury.Mol Cell Proteomics 15:394 –408.Verdú E, Ceballos D, Vilches JJ, Navarro X (2000) Influence of aging
+on peripheral nerve function and regeneration. J Peripher NervSyst 5:191 –208.
+Vina J, Sanchis-Gomar F, Martinez-Bello V, Gomez-Cabrera MC
+(2012) Exercise acts as a drug; the pharmacological benefits of ex-
+ercise. Br J Pharmacol 167:1 –12.
+Wagner FB, Mignardot JB, Le Goff-Mignardot CG, Demesmaeker R,
+Komi S, Capogrosso M, Rowald A, Seáñez I, Caban M, Pirondini
+E, Vat M, McCracken LA, Heimgartner R, Fodor I, Watrin A, Seguin
+P, Paoles E, Van Den Keybus K, Eberle G, Schurch B, et al. (2018)
+Targeted neurotechnology restores walking in humans with spinalcord injury. Nature 563:65 –71.
+Winder WW, Hardie DG (1996) Inactivation of acetyl-CoA carboxyl-
+ase and activation of AMP-activated protein kinase in muscle dur-
+ing exercise. Am J Physiol 270:E299 –E304.
+Yan D, Wu Z, Chisholm AD, Jin Y (2009) The DLK-1 kinase promotes
+mRNA stability and local translation in C. elegans synapses and
+axon regeneration. Cell 138:1005 –1018.
+Yang J, Wu Z, Renier N, Simon David J, Uryu K, Park David S, Greer
+Peter A, Tournier C, Davis Roger J, Tessier-Lavigne M (2015)
+Pathological axonal death through a MAPK cascade that triggers a
+local energy deficit. Cell 160:161 –176.
+Zhang D, Xuan J, Zheng BB, Zhou YL, Lin Y, Wu YS, Zhou YF,
+Huang YX, Wang Q, Shen LY, Mao C, Wu Y, Wang XY, Tian NF, Xu
+HZ, Zhang XL (2017) Metformin improves functional recovery afterspinal cord injury via autophagy flux stimulation. Mol Neurobiol
+54:3327 –3341.
+Zhao M, Klionsky DJ (2011) AMPK-dependent phosphorylation of
+ULK1 induces autophagy. Cell Metab 13:119 –120.
+Zhou B, Yu P, Lin MY, Sun T, Chen Y, Sheng ZH (2016) Facilitation of
+axon regeneration by enhancing mitochondrial transport and res-
+cuing energy deficits. J Cell Biol 214:103 –119.
+Zong H, Ren JM, Young LH, Pypaert M, Mu J, Birnbaum MJ,
+Shulman GI (2002) AMP kinase is required for mitochondrial bio-genesis in skeletal muscle in response to chronic energy depriva-
+tion. Proc Natl Acad Sci USA 99:15983 –15987.
+Research Article: New Research 16 of 16
+May/June 2021, 8(3) ENEURO.0414-20.2021 eNeuro.org
