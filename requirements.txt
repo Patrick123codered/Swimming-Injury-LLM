@@ -53,4 +53,3 @@ unstructured.pytesseract==0.3.12
 watchdog
 watchfiles
 wikipedia
-st_files_connection
