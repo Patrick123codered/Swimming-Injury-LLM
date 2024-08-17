@@ -97,7 +97,7 @@ def run():
 
     if ready:
         chain = get_chain(openai_api_key=openai_api_key)
-        st.subheader("Ask me questions about PSB papers")
+        st.subheader("Ask me questions about swimming injuries")
         show_ui(chain, "What would you like to know?")
     else:
         st.stop()
